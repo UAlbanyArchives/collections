@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead SYSTEM 'ead.dtd'>
 <ead id="nam_ua680">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
     <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua680.html">nam_ua680</eadid>
@@ -231,33 +232,6 @@
     <controlaccess>
       <head>Subject and Genre Headings</head>
       <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
       <corpname encodinganalog="610" source="lcsh">State University of New York at Albany</corpname>
       <corpname encodinganalog="610" source="lcsh">State University of New York at Albany. Graduate School of Public Affairs</corpname>
       <subject encodinganalog="650" source="lcsh">Public policy and administration </subject>
@@ -271,7 +245,6 @@
         <did>
           <unitid>1</unitid>
           <unittitle label="Series">Reports, Plans, and Budgets</unittitle>
-          <unitid>1</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1962/1985" type="inclusive">1962-1985</unitdate>
           <physdesc>
             <extent unit="cubic ft.">2.5</extent>
@@ -755,7 +728,6 @@
         <did>
           <unitid>2</unitid>
           <unittitle label="Series">Subject and Correspondence Files</unittitle>
-          <unitid>2</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1946/1989" type="inclusive">1946-1989</unitdate>
           <physdesc>
             <extent unit="cubic ft.">4</extent>
@@ -1633,7 +1605,6 @@
         <did>
           <unitid>3</unitid>
           <unittitle label="Series">Dean's Day Files</unittitle>
-          <unitid>3</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1967/1982" type="inclusive">1967-1982</unitdate>
           <physdesc>
             <extent unit="cubic ft.">0.33</extent>
@@ -1715,7 +1686,6 @@
         <did>
           <unitid>4</unitid>
           <unittitle label="Series">Academic Department and Program Files</unittitle>
-          <unitid>4</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1968/1984" type="inclusive">1968-1984</unitdate>
           <physdesc>
             <extent unit="cubic ft.">2.5</extent>
@@ -2622,7 +2592,6 @@
         <did>
           <unitid>5</unitid>
           <unittitle label="Series">Centers, Institutes, Programs and Projects</unittitle>
-          <unitid>5</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1965/1986" type="inclusive">1965-1986</unitdate>
           <physdesc>
             <extent unit="cubic ft.">4.5</extent>
@@ -3611,7 +3580,6 @@
         <did>
           <unitid>6</unitid>
           <unittitle label="Series">GSPA Publications</unittitle>
-          <unitid>6</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1958/1980" type="inclusive">1958-1980</unitdate>
           <physdesc>
             <extent unit="Vol.">2</extent>
@@ -3633,7 +3601,6 @@
         <did>
           <unitid>7</unitid>
           <unittitle label="Series">Faculty Publications</unittitle>
-          <unitid>7</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1961/1986" type="inclusive">1961-1986</unitdate>
           <physdesc>
             <extent unit="cubic ft.">1</extent>
@@ -4084,7 +4051,6 @@
         <did>
           <unitid>8</unitid>
           <unittitle label="Series">Hannah B. Applebaum Files</unittitle>
-          <unitid>8</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1963/1971" type="inclusive">1963-1971</unitdate>
           <physdesc>
             <extent unit="cubic ft.">0.5</extent>
@@ -4205,7 +4171,6 @@
         <did>
           <unitid>9</unitid>
           <unittitle label="Series">Murray Nathan Files</unittitle>
-          <unitid>9</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1946/1960" type="inclusive">1946-1960</unitdate>
           <physdesc>
             <extent unit="cubic ft.">0.66</extent>
@@ -4311,7 +4276,6 @@
         <did>
           <unitid>10</unitid>
           <unittitle label="Series">Student Research Papers</unittitle>
-          <unitid>10</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1963/1975" type="inclusive">1963-1975</unitdate>
           <physdesc>
             <extent unit="cubic ft.">2</extent>
@@ -4663,7 +4627,6 @@
         <did>
           <unitid>11</unitid>
           <unittitle label="Series">Oversized</unittitle>
-          <unitid>11</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1946/1984" type="inclusive">1946-1984</unitdate>
         </did>
         <c02 id="nam_ua680-11_1">
