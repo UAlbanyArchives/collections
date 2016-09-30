@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
-<!DOCTYPE ead SYSTEM 'ead.dtd'>
 <ead id="nam_apap104">
   <eadheader langencoding="iso639-2b" scriptencoding="iso15924" countryencoding="iso3166-1" repositoryencoding="iso15511" dateencoding="iso8601">
     <eadid countrycode="US" mainagencycode="nalsu" identifier="apap104">nam_apap104</eadid>
@@ -21362,9 +21361,9 @@
         <did>
           <unitid>10</unitid>
           <unittitle>Web Archives</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2001-04-28/2016-08-03">2001 April 28-2016 August 3</unitdate>
+          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2001-04-28/2016-09-17">2001 April 28-2016 September 17</unitdate>
           <physdesc>
-            <extent unit="captures">348</extent>
+            <extent unit="captures">352</extent>
           </physdesc>
         </did>
         <acqinfo>
@@ -21396,7 +21395,7 @@
           <did>
             <container type="Web-Archive">2</container>
             <unittitle>http://www.eany.org/ - Internet Archive collection</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2001-04-28/2016-08-03">2001 April 28-2016 August 3</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="2001-04-28/2016-09-17">2001 April 28-2016 September 17</unitdate>
             <dao actuate="onrequest" linktype="simple" show="new" href="https://web.archive.org/web/*/http://www.eany.org/"/>
           </did>
         </c02>

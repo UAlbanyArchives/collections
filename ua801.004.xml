@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/xsl' href='collection-level.xsl'?> 
 <!DOCTYPE ead SYSTEM 'ead.dtd'>
 <ead id="nam_ua801.004">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/ua801.004.xml">nam_ua801.004</eadid>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua801.004.html">nam_ua801.004</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>UNIVERSITY AT ALBANY, SUNY ALUMNI MEMORABILIA COLLECTION (UA801.004)<date normal="1845/2014" type="inclusive">1845-2014</date>
-        </titleproper>
-        <author>Jodi Boyle (Classes of 1949, 1954, 1964), Cassandra Krom (Class of 1967), Melissa  McMullen (Class of 1959), Gregory Wiedeman (Classes of 1945, 1950, 1955, 1960, 1965)</author>
+        <titleproper>UNIVERSITY AT ALBANY, SUNY ALUMNI MEMORABILIA COLLECTION (UA801.004)<date normal="1845/2014" type="inclusive">1845-2014</date></titleproper>
+        <author>Jodi Boyle, Cassandra Krom, Melissa McMullen, Gregory Wiedeman, and Erik Stolarski</author>
       </titlestmt>
       <publicationstmt>
         <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
@@ -18,118 +18,97 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Jodi Boyle<date normal="2014">2014</date>
-      </creation>
+      <creation audience="internal">Jodi Boyle<date normal="2014">2014</date></creation>
       <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
+        <language langcode="eng">English</language>
       </langusage>
     </profiledesc>
     <revisiondesc>
       <change>
         <date normal="2015-04">2015 April</date>
-        <item>updated to include Classes of 1945, 1950, 1955, 1960, 1965 (Gregory Wiedeman)</item>
+        <item>updated to include Classes of 1945, 1950, 1955, 1960, 1965</item>
+      </change>
+      <change>
+        <date normal="2016-09">2016 September</date>
+        <item>updated to include Classes of 1956 and 1966 by Erik Stolarski</item>
       </change>
     </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>UNIVERSITY AT ALBANY, SUNY ALUMNI MEMORABILIA COLLECTION (UA801.004)<date normal="1845/2014" type="inclusive">1845-2014</date>
-      </titleproper>
-      <publisher>
-			</publisher>
-      <date type="publication"> 2014 By the University at Albany, SUNY. All rights  reserved.</date>
-      <p>&amp;contact</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
       <head>Descriptive Summary</head>
       <unitid>nam_ua801.004</unitid>
-      <unittitle>University at Albany, SUNY Alumni Memorabilia Collection<unitdate label="Date:" normal="1845/2014" type="inclusive">1845-2014</unitdate>
-        </unittitle>
-      <abstract label="Abstract:">The collection documents the day-to-day student life at the   University at Albany and its predecessor institutions: the State Normal School, 1844-1890;   the New York State Normal College, 1890-1914; the New York State College for Teachers,   1914-1959; the State University of New York College of Education at Albany, 1959-61; the   State University of New York College at Albany, 1961-62; and the State University of New   York at Albany, 1962-1986.</abstract>
+      <unittitle>University at Albany, SUNY Alumni Memorabilia Collection<unitdate normal="1845/2014" type="inclusive">1845-2014</unitdate></unittitle>
+      <abstract label="Abstract:">The collection documents the day-to-day student life at the  University at Albany and its predecessor institutions, including the State Normal School (1844-1890), the New York State Normal College (1890-1914), the New York State College for Teachers (1914-1959), and the State University of New  York at Albany (1962-1986).</abstract>
       <langmaterial>
         <language langcode="eng">English</language>
       </langmaterial>
-      <physdesc label="Physical Characteristics:">
+      <origination>
+        <corpname encodinganalog="110" source="lcsh">University at Albany, SUNY</corpname>
+      </origination>
+      <physdesc>
         <extent unit="cubic ft.">12.21</extent>
         <physfacet>processed to date</physfacet>
         <dimensions unit="Digital Files">4</dimensions>
       </physdesc>
-      <origination>
-        <corpname encodinganalog="110" source="lcsh">University at Albany, SUNY</corpname>
-      </origination>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
       <repository label="Repository:">
         <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
       </repository>
     </did>
-    <accessrestrict>
-      <head>Access</head>
-      <p>Access to this record group is unrestricted.</p>
-    </accessrestrict>
-    <userestrict>
-      <head>Copyright</head>
-      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal   determination ultimately rests with the researcher. Requests for permission to publish   material from this collection should be discussed with the Head of Special Collections and   Archives.</p>
-    </userestrict>
-    <acqinfo>
-      <head>Acquisition Information</head>
-      <p>The materials in this collection were donated by alumni of the University at Albany and its predecessor institutions: the State Normal School, 1844-1890; the New York State Normal   College, 1890-1914; the New York State College for Teachers, 1914-1959; the State University of New York College of Education at Albany, 1959-61; the State University of New York   College at Albany, 1961-62; and the State University of New York at Albany, 1962-1986.</p>
-    </acqinfo>
     <bioghist>
-      <head>Biographical Sketch</head>
-      <p>The Alumni Association collected information on graduates as well as memorabilia of alumni   since its founding in 1849. Unfortunately, the devastating New York State Normal College   fire of January 8, 1906 destroyed those early collections as it did the portraits of early   school leaders and the Alumni Memorial Window in the Willett Street Building. In consequence   there are relatively few items of memorabilia in the collection from the 19th Century, and   what is known about the graduates of the New York State Normal School and the New York State   Normal College through 1906 is largely found in the<emph render="italic">Historical Sketch  of the State Normal School</emph>, 1884 and the <emph render="italic">Historical Sketch of  the State Normal College</emph>, 1894. A hand annotated copy of the 1894 history was   maintained by the Alumni Association with interleaved pages and contains updates to the   names, addresses and careers of graduates of the Normal School/College (1844-1914), and   subsequently the New York State College for Teachers (1914-1959) through 1918.</p>
-      <p>During the 1910s through the 1950s alumni have been particularly generous with donating   their memorabilia, scrapbooks, play programs, photos of events such as Rivalry, Moving Up   Day, commencements, plays, fraternities and sororities, and the general round of social   life. With the advent of the 1960s there has been a significant diminution of alumni   donation of memorabilia, and while many classes during the 1920s-1940s have upwards of a   hundred individual items of memorabilia, very few approach that number in later years, often   numbering the teens or twenties.</p>
-      <p>In 1988 the University Archives took over custodianship of the Alumni Memorabilia   Collection from the Alumni Association.</p>
+      <head>Historical Note</head>
+      <p>The Alumni Association collected information on graduates as well as memorabilia of alumni  since its founding in 1849. Unfortunately, the devastating New York State Normal College  fire of January 8, 1906 destroyed those early collections as it did the portraits of early  school leaders and the Alumni Memorial Window in the Willett Street Building. In consequence  there are relatively few items of memorabilia in the collection from the 19th Century, and  what is known about the graduates of the New York State Normal School and the New York State  Normal College through 1906 is largely found in the<emph render="italic">Historical Sketch of the State Normal School</emph>, 1884 and the <emph render="italic">Historical Sketch of the State Normal College</emph>, 1894. A hand annotated copy of the 1894 history was  maintained by the Alumni Association with interleaved pages and contains updates to the  names, addresses and careers of graduates of the Normal School/College (1844-1914), and  subsequently the New York State College for Teachers (1914-1959) through 1918.</p>
+      <p>During the 1910s through the 1950s alumni have been particularly generous with donating  their memorabilia, scrapbooks, play programs, photos of events such as Rivalry, Moving Up  Day, commencements, plays, fraternities and sororities, and the general round of social  life. With the advent of the 1960s there has been a significant diminution of alumni  donation of memorabilia, and while many classes during the 1920s-1940s have upwards of a  hundred individual items of memorabilia, very few approach that number in later years, often  numbering the teens or twenties.</p>
+      <p>In 1988 the University Archives took over custodianship of the Alumni Memorabilia  Collection from the Alumni Association.</p>
     </bioghist>
     <scopecontent>
       <head>Scope and Content Information</head>
-      <p>Items in this collection have been transferred to the Alumni Association of the University   at Albany, SUNY for the past 100 years. The collection consists of autograph books, broken   runs of bulletins, catalogues, and commencement exercises; the correspondence of alumni,   faculty and students; newspaper clippings; photographs of alumni, faculty, students, student   events and buildings; programs for student and local plays; programs of college and student   events, scrap books, song books, student literary publications and yearbooks. The collection   documents the day-to-day student life at the University at Albany and its predecessor   institutions: the State Normal School, 1844-1890; the New York State Normal College,   1890-1914; the New York State College for Teachers, 1914-1959; the State University of New   York College of Education at Albany, 1959-61; the State University of New York College at   Albany, 1961-62; and the State University of New York at Albany, 1962-1986.</p>
-      <p>Though the span date of the collection is 1844 through 1991, there are few items before   1860. The nineteenth century materials consist primarily of formal portrait photographs of   students and faculty; autograph books from 1860, 1861, and 1889 (autograph books were the   forerunners of college yearbooks--see the University Archives Autograph Book Collection for   more extensive examples of the genre); scattered commencement exercises and diplomas (see   the University Archives Diploma Collection and Commencement Series for other examples); the   correspondence of Anna E. Pierce, a graduate of the Class of 1884, and future Dean of Women;   and the papers of Carolyn Mayhew, a graduate of the Class of 1892, and assistant school   principal in New York City (including her essays and an autobiographical book<emph render="italic">Life on A Diary Farm in the Nineteenth Century</emph>).</p>
-      <p>The twentieth century holdings of the collection are much richer, consisting, in addition   to the usual commencement programs and photographs, of a variety of regalia including   athletic letters from 1927; womens basketball memorabilia donated by Lorna Shafer including   a list of rules of personal conduct of women athletes; candle holders used on Torch Night   and Candlelight Ceremony; dance cards; felt arm bands from the classes of 1913, 1918, 1921,   1923, 1924, 1926, 1935, 1937, 1949; play programs, particularly from the period when Agnes   Futterer lead theatrical programming (1918-1956), as well as programs for events held at   local and New York City theaters; school pins from fraternities, sororities, and MYSKANIA   (the student honorary and guardian of traditions); scrap books from members of the class of   1923, 1926, 1929, 1933, 1939, 1942, 1943, 1949; song books; student literary and humor   magazines; tea pots from Syddum Hall; women's gym rompers dating from 1927 and 1937.</p>
-      <p>The collection is strongest in the period from 1920 through the mid-1950s and weakest   before and after those dates. With notable exceptions, primarily scattered copies of student   publications, the Alumni Memorabilia Collection contains few items from the 1960s on.</p>
-      <p>The Alumni Memorabilia Collection exists 1) to provide a repository for items which can be   exhibited at Alumni Reunions, Homecoming and in the wider University community, and 2) to   provide a mechanism by which the University Archives can document student life at the   University and its predecessor institutions. To achieve these goals we solicit donations   which are attractive, colorful and/or informative, and at the same time we collect materials   which will give us insight into student life, both in and outside of classes.</p>
-      <p>University Archives plans to add new class memorabilia to this finding aid on an annual   basis.</p>
+      <p>Items in this collection have been transferred to the Alumni Association of the University  at Albany, SUNY for the past 100 years. The collection consists of autograph books, broken  runs of bulletins, catalogues, and commencement exercises; the correspondence of alumni,  faculty and students; newspaper clippings; photographs of alumni, faculty, students, student  events and buildings; programs for student and local plays; programs of college and student  events, scrap books, song books, student literary publications and yearbooks. The collection  documents the day-to-day student life at the University at Albany and its predecessor  institutions: the State Normal School, 1844-1890; the New York State Normal College,  1890-1914; the New York State College for Teachers, 1914-1959; the State University of New  York College of Education at Albany, 1959-61; the State University of New York College at  Albany, 1961-62; and the State University of New York at Albany, 1962-1986.</p>
+      <p>Though the span date of the collection is 1844 through 1991, there are few items before  1860. The nineteenth century materials consist primarily of formal portrait photographs of  students and faculty; autograph books from 1860, 1861, and 1889 (autograph books were the  forerunners of college yearbooks--see the University Archives Autograph Book Collection for  more extensive examples of the genre); scattered commencement exercises and diplomas (see  the University Archives Diploma Collection and Commencement Series for other examples); the  correspondence of Anna E. Pierce, a graduate of the Class of 1884, and future Dean of Women;  and the papers of Carolyn Mayhew, a graduate of the Class of 1892, and assistant school  principal in New York City (including her essays and an autobiographical book<emph render="italic">Life on A Diary Farm in the Nineteenth Century</emph>).</p>
+      <p>The twentieth century holdings of the collection are much richer, consisting, in addition  to the usual commencement programs and photographs, of a variety of regalia including  athletic letters from 1927; womens basketball memorabilia donated by Lorna Shafer including  a list of rules of personal conduct of women athletes; candle holders used on Torch Night  and Candlelight Ceremony; dance cards; felt arm bands from the classes of 1913, 1918, 1921,  1923, 1924, 1926, 1935, 1937, 1949; play programs, particularly from the period when Agnes  Futterer lead theatrical programming (1918-1956), as well as programs for events held at  local and New York City theaters; school pins from fraternities, sororities, and MYSKANIA  (the student honorary and guardian of traditions); scrap books from members of the class of  1923, 1926, 1929, 1933, 1939, 1942, 1943, 1949; song books; student literary and humor  magazines; tea pots from Syddum Hall; women's gym rompers dating from 1927 and 1937.</p>
+      <p>The collection is strongest in the period from 1920 through the mid-1950s and weakest  before and after those dates. With notable exceptions, primarily scattered copies of student  publications, the Alumni Memorabilia Collection contains few items from the 1960s on.</p>
+      <p>The Alumni Memorabilia Collection exists 1) to provide a repository for items which can be  exhibited at Alumni Reunions, Homecoming and in the wider University community, and 2) to  provide a mechanism by which the University Archives can document student life at the  University and its predecessor institutions. To achieve these goals we solicit donations  which are attractive, colorful and/or informative, and at the same time we collect materials  which will give us insight into student life, both in and outside of classes.</p>
+      <p>University Archives plans to add new class memorabilia to this finding aid on an annual  basis.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement>
       <head>Arrangement of the Collection</head>
-      <p>The collection is organized into the following series. As archivists arrange and describe   additional class memorabilia it will be added to the finding aid.</p>
-      <list type="simple">
-        <item>
-          <emph render="bold">Series 1936 - Class of 1936</emph>
-        </item>
-        <item>
-          <emph render="bold">Series 1938 - Class of 1938</emph>
-        </item>
-        <item><emph render="bold">Series 1945 - Class of 1945</emph>, 1929-1998</item>
-        <item><emph render="bold">Series 1949 - Class of 1949</emph>, 1941-2014</item>
-        <item><emph render="bold">Series 1950 - Class of 1950</emph>, 1946-2010</item>
-        <item><emph render="bold">Series 1954 - Class of 1954</emph>, 1935-2014</item>
-        <item><emph render="bold">Series 1955 - Class of 1955</emph>, 1951-2005, Undated</item>
-        <item><emph render="bold">Series 1959 - Class of 1959</emph>, 1955-1989</item>
-        <item><emph render="bold">Series 1960 - Class of 1960</emph>, 1956-1985, Undated</item>
-        <item><emph render="bold">Series 1964 - Class of 1964</emph>, 1960-2014</item>
-        <item><emph render="bold">Series 1965 - Class of 1965</emph>, 1960-2005, Undated</item>
-        <item><emph render="bold">Series 1967 - Class of 1967</emph>, 1962-1969</item>
-        <item>Subseries 1967.1: Administrative Records</item>
-        <item>Subseries 1967.2: Special Activities and Events</item>
-      </list>
+      <p>The collection is organized into series by donor's graduating class. If the donor is unknown, the item is arranged by creation date. More series will be processed over time.</p>
     </arrangement>
-    <prefercite encodinganalog="524">
+    <acqinfo>
+      <head>Acquisition Information</head>
+      <p>The materials in this collection were donated by alumni of the University at Albany and its predecessor institutions: the State Normal School, 1844-1890; the New York State Normal  College, 1890-1914; the New York State College for Teachers, 1914-1959; the State University of New York College of Education at Albany, 1959-61; the State University of New York  College at Albany, 1961-62; and the State University of New York at Albany, 1962-1986.</p>
+    </acqinfo>
+    <relatedmaterial>
+      <p>Related collections in the M.E. Grenander Department of Special Collections and Archives
+        can be found in the subject guide for Criminal Justice and Prisons.</p>
+    </relatedmaterial>
+    <accessrestrict>
+      <head>Access</head>
+      <p>Access to this collection is unrestricted.</p>
+    </accessrestrict>
+    <userestrict>
+      <head>Copyright</head>
+      <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
+      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+    </userestrict>
+    <prefercite>
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, University at Albany, SUNY Alumni Memorabilia Collection, 1849-2014. M.E. Grenander Department of Special Collections and   Archives, University Libraries, University at Albany, State University of New York   (hereafter referred to as University at Albany, SUNY Alumni Memorabilia Collection).</p>
+      <p>Identification of specific item, series, box, folder, University at Albany, SUNY Alumni Memorabilia Collection, 1849-2014. M.E. Grenander Department of Special Collections and  Archives, University Libraries, University at Albany, State University of New York  (hereafter referred to as University at Albany, SUNY Alumni Memorabilia Collection).</p>
     </prefercite>
     <controlaccess>
       <head>Subject and Genre Headings</head>
       <corpname encodinganalog="610" source="lcsh">State University of New York at Albany</corpname>
-      <subject encodinganalog="650" source="lcsh">State University of New York at   Albany--History</subject>
-      <subject encodinganalog="650" source="lcsh">Graduation (School)--New   York(State)--Albany</subject>
-      <subject encodinganalog="650" source="lcsh">College student newspapers and periodicals--New   York (State)--Albany</subject>
-      <subject encodinganalog="650" source="lcsh">College student orientation--United   States--Handbooks, manuals, etc.</subject>
-      <subject encodinganalog="650" source="lcsh">College students--New York   (State)--Albany</subject>
-      <subject encodinganalog="650" source="lcsh">College students--Political activity--New York   (State)--Albany</subject>
-      <subject encodinganalog="650" source="lcsh">College students--Recreation--New York   (State)--Albany</subject>
+      <subject encodinganalog="650" source="lcsh">State University of New York at  Albany--History</subject>
+      <subject encodinganalog="650" source="lcsh">Graduation (School)--New  York(State)--Albany</subject>
+      <subject encodinganalog="650" source="lcsh">College student newspapers and periodicals--New  York (State)--Albany</subject>
+      <subject encodinganalog="650" source="lcsh">College student orientation--United  States--Handbooks, manuals, etc.</subject>
+      <subject encodinganalog="650" source="lcsh">College students--New York  (State)--Albany</subject>
+      <subject encodinganalog="650" source="lcsh">College students--Political activity--New York  (State)--Albany</subject>
+      <subject encodinganalog="650" source="lcsh">College students--Recreation--New York  (State)--Albany</subject>
       <genreform encodinganalog="655" source="aat">Programs (documents)</genreform>
       <genreform encodinganalog="655" source="aat">Invitations</genreform>
       <genreform encodinganalog="655" source="aat">Dance cards</genreform>
@@ -139,18 +118,15 @@
       <genreform encodinganalog="655" source="aat">Memorabilia</genreform>
       <genreform encodinganalog="655" source="aat">Hats</genreform>
       <genreform encodinganalog="655" source="aat">Pennants</genreform>
-      <genreform source="meg" encodinganalog="655">Digital Files</genreform>
+      <genreform encodinganalog="655" source="meg">Digital Files</genreform>
     </controlaccess>
     <dsc type="combined">
       <head>Container List</head>
       <c01 id="nam_ua801.004-1936" level="series">
         <did>
-          <unitid>1</unitid>
+          <unitid>1936</unitid>
           <unittitle label="Series">Class of 1936</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1932">1932</unitdate>
-          <physdesc>
-            <dimensions unit="Digital Files">2</dimensions>
-          </physdesc>
+          <unitdate calendar="gregorian" era="ce" normal="1932" type="inclusive">1932</unitdate>
         </did>
         <c02 id="nam_ua801.004-1936_1">
           <did>
@@ -175,18 +151,15 @@
       </c01>
       <c01 id="nam_ua801.004-1938" level="series">
         <did>
-          <unitid>2</unitid>
+          <unitid>1938</unitid>
           <unittitle label="Series">Class of 1938</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1937">1937</unitdate>
-          <physdesc>
-            <dimensions unit="Digital Files">1</dimensions>
-          </physdesc>
+          <unitdate calendar="gregorian" era="ce" normal="1937" type="inclusive">1937</unitdate>
         </did>
         <c02 id="nam_ua801.004-1938_1">
           <did>
             <unittitle>Program from the State College Music Association titled, "Concert by the State College Choral Society and Percy Grainger, Pianist"</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1937-01-27">1937 January 21</unitdate>
-            <dao actuate="onrequest" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/university_archives/ua801.004/ua801.004-1938_1.pdf" id="nam_ua801.004_1938-1.9" linktype="simple" show="new"/>
+            <dao actuate="onrequest" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/university_archives/ua801.004/ua801.004-1938_1.pdf" id="nam_ua801.004-1938_1.nam_ua801.004_1938-1.9" linktype="simple" show="new"/>
             <note>
               <p>Donated by Elizabeth Westover Miller.</p>
             </note>
@@ -195,13 +168,9 @@
       </c01>
       <c01 id="nam_ua801.004-1945" level="series">
         <did>
-          <unitid>3</unitid>
+          <unitid>1945</unitid>
           <unittitle label="Series">Class of 1945</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1929/1998" type="inclusive">1929-1998</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.33</extent>
-            <dimensions unit="Digital Files">1</dimensions>
-          </physdesc>
         </did>
         <c02 id="nam_ua801.004-1945_1">
           <did>
@@ -611,7 +580,7 @@
       </c01>
       <c01 id="nam_ua801.004-1949" level="series">
         <did>
-          <unitid>4</unitid>
+          <unitid>1949</unitid>
           <unittitle label="Series">Class of 1949</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1941/2014" type="inclusive">1941-2014</unitdate>
         </did>
@@ -619,9 +588,9 @@
           <p>Arranged chronologically.</p>
         </arrangement>
         <scopecontent>
-          <p>On Monday, June 20, 1949 approximately 300 members of the Class of 1949 received their   bachelor's degrees during a morning ceremony in Page Hall. Alvin Christian Eurich,   president, State University of New York, served as commencement speaker and conferred   the degrees. In the days leading to commencement, the class held a Senior Banquet at   Herbert's, a Senior Ball at the Aurania Club, Class Day Exercises at Page Hall followed   that evening by the Class Sing and Torchlight Procession at Draper Hall, and finally, a   senior breakfast on the morning of graduation at the Boulevard Cafeteria.</p>
-          <p>During the Class of 1949's tenure on campus, New York State College for Teachers   President John Sayles resigned in March 1947 because of ill health and was replaced by   Acting President Milton Nelson who held the position until July 1949. The College   officially became part of the newly created State University of New York on April 1,   1949. In addition, in May 1949, the student body selected the Pedguin, a penguin-like   figure designed by Paul Kirsch '51, as the official College mascot.</p>
-          <p>There is a significant amount of memorabilia from the Class of 1949 including   yearbooks, event programs, materials from Senior Week and commencement exercises,   handbooks, directories, and many materials from reunions. Of particular interest may be   the scrapbooks from Elfriede Laemmerzahl Miller, Margaret Hoefner Baynes and Lucy Lytle   Merrill documenting student life from 1945-1949. Miller's scrapbook includes the program   for Frosh Weekend 1945 and Freshman Week as well as her freshman beanie and upperclass   red hat. Merril's scrapbook contains a large number of photographs including classmates   and campus events. Baynes' three scrapbooks include many tickets and special event   programs.</p>
+          <p>On Monday, June 20, 1949 approximately 300 members of the Class of 1949 received their  bachelor's degrees during a morning ceremony in Page Hall. Alvin Christian Eurich,  president, State University of New York, served as commencement speaker and conferred  the degrees. In the days leading to commencement, the class held a Senior Banquet at  Herbert's, a Senior Ball at the Aurania Club, Class Day Exercises at Page Hall followed  that evening by the Class Sing and Torchlight Procession at Draper Hall, and finally, a  senior breakfast on the morning of graduation at the Boulevard Cafeteria.</p>
+          <p>During the Class of 1949's tenure on campus, New York State College for Teachers  President John Sayles resigned in March 1947 because of ill health and was replaced by  Acting President Milton Nelson who held the position until July 1949. The College  officially became part of the newly created State University of New York on April 1,  1949. In addition, in May 1949, the student body selected the Pedguin, a penguin-like  figure designed by Paul Kirsch '51, as the official College mascot.</p>
+          <p>There is a significant amount of memorabilia from the Class of 1949 including  yearbooks, event programs, materials from Senior Week and commencement exercises,  handbooks, directories, and many materials from reunions. Of particular interest may be  the scrapbooks from Elfriede Laemmerzahl Miller, Margaret Hoefner Baynes and Lucy Lytle  Merrill documenting student life from 1945-1949. Miller's scrapbook includes the program  for Frosh Weekend 1945 and Freshman Week as well as her freshman beanie and upperclass  red hat. Merril's scrapbook contains a large number of photographs including classmates  and campus events. Baynes' three scrapbooks include many tickets and special event  programs.</p>
         </scopecontent>
         <c02 id="nam_ua801.004-1949_1">
           <did>
@@ -642,7 +611,7 @@
             <unittitle>Class of 1949 Freshman Handbook</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1945">1945</unitdate>
             <note>
-              <p>Donated by Carol Rogers on behalf of her aunt Lucy Lytle Merrill; Florence Smith   Westover.</p>
+              <p>Donated by Carol Rogers on behalf of her aunt Lucy Lytle Merrill; Florence Smith  Westover.</p>
             </note>
           </did>
         </c02>
@@ -650,9 +619,7 @@
           <did>
             <container type="Box">1</container>
             <container type="Folder">3</container>
-            <unittitle>
-              <emph render="italic">Primer</emph>
-            </unittitle>
+            <unittitle><emph render="italic">Primer</emph></unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1945/1947">1945-1947</unitdate>
             <note>
               <p>Donated by Jacob H. Schuhle.</p>
@@ -697,7 +664,7 @@
             <unittitle>New York State College for Teachers Directory</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1945/1950">1945-1950</unitdate>
             <note>
-              <p>Donated by Jacob H. Schuhle; Carol Rogers on behalf of her aunt Lucy Lytle Merrill;   as well as unknown donors.</p>
+              <p>Donated by Jacob H. Schuhle; Carol Rogers on behalf of her aunt Lucy Lytle Merrill;  as well as unknown donors.</p>
             </note>
           </did>
         </c02>
@@ -713,9 +680,7 @@
           <did>
             <container type="Box">1</container>
             <container type="Folder">7</container>
-            <unittitle>
-              <emph render="italic">State College News</emph>
-            </unittitle>
+            <unittitle><emph render="italic">State College News</emph></unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1946-09/1946-11">1946 September-1946 November</unitdate>
             <note>
               <p>Donated by Margaret Hoefner Baynes.</p>
@@ -920,9 +885,7 @@
           <did>
             <container type="Box">1</container>
             <container type="Folder">25</container>
-            <unittitle>
-              <emph render="italic">Primer</emph>
-            </unittitle>
+            <unittitle><emph render="italic">Primer</emph></unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1947/1949">1947-1949</unitdate>
             <note>
               <p>Donated by Jacob H. Schuhle.</p>
@@ -996,7 +959,7 @@
             <unittitle>Class of 1949 Moving Up Day Arm Band</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1948-06">1948 June</unitdate>
             <note>
-              <p>Donated by Jacob H. Schuhle; Margaret Hoefner Baynes; Dick Zeller and Joyce   Dodge.</p>
+              <p>Donated by Jacob H. Schuhle; Margaret Hoefner Baynes; Dick Zeller and Joyce  Dodge.</p>
             </note>
           </did>
         </c02>
@@ -1286,7 +1249,7 @@
             <unittitle>Baccalaureate Sunday Program</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1949-06-19">1949 June 19</unitdate>
             <note>
-              <p>Donated by Margaret Hoefner Baynes; Robert French; Millicent Robinson Tubbs; Dick   Zeller and Joyce Dodge.</p>
+              <p>Donated by Margaret Hoefner Baynes; Robert French; Millicent Robinson Tubbs; Dick  Zeller and Joyce Dodge.</p>
             </note>
           </did>
         </c02>
@@ -1297,7 +1260,7 @@
             <unittitle>Announcement of Commencement Exercises</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1949-06-20">1949 June 20</unitdate>
             <note>
-              <p>Donated by Jacob H. Schuhle; Millicent Robinson Tubbs; Dick Zeller and Joyce   Dodge.</p>
+              <p>Donated by Jacob H. Schuhle; Millicent Robinson Tubbs; Dick Zeller and Joyce  Dodge.</p>
             </note>
           </did>
         </c02>
@@ -1308,7 +1271,7 @@
             <unittitle>Commencement Exercises Program</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1949-06-20">1949 June 20</unitdate>
             <note>
-              <p>Donated by Margaret Hoefner Baynes; Carol Rogers on behalf of her aunt Lucy Lytle   Merrill; Robert French; Millicent Robinson Tubbs; Dick Zeller and Joyce Dodge.</p>
+              <p>Donated by Margaret Hoefner Baynes; Carol Rogers on behalf of her aunt Lucy Lytle  Merrill; Robert French; Millicent Robinson Tubbs; Dick Zeller and Joyce Dodge.</p>
             </note>
           </did>
         </c02>
@@ -1338,7 +1301,7 @@
             <unittitle>Class of 1949, Order of Exercises Leading to Commencement</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1949-06">1949 June</unitdate>
             <note>
-              <p>Donated by Florence Smith Westover; Carol Rogers on behalf of her aunt Lucy Lytle   Merrill; Dick Zeller; one unknown donor.</p>
+              <p>Donated by Florence Smith Westover; Carol Rogers on behalf of her aunt Lucy Lytle  Merrill; Dick Zeller; one unknown donor.</p>
             </note>
           </did>
         </c02>
@@ -1891,12 +1854,9 @@
       </c01>
       <c01 id="nam_ua801.004-1950" level="series">
         <did>
-          <unitid>5</unitid>
+          <unitid>1950</unitid>
           <unittitle label="Series">Class of 1950</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1946/2010" type="inclusive">1946-2010</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.65</extent>
-          </physdesc>
         </did>
         <arrangement>
           <p>Arranged chronologically.</p>
@@ -2073,7 +2033,7 @@
       </c01>
       <c01 id="nam_ua801.004-1954" level="series">
         <did>
-          <unitid>6</unitid>
+          <unitid>1954</unitid>
           <unittitle label="Series">Class of 1954</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1935/2014" type="inclusive">1935-2014</unitdate>
         </did>
@@ -2081,8 +2041,8 @@
           <p>Arranged chronologically.</p>
         </arrangement>
         <scopecontent>
-          <p>Approximately 300 undergraduate students received their bachelor's degrees from   President Evan R. Collins at the New York State College for Teachers on Sunday morning   June 13, 1954 on the Alumni Quadrangle. Dr. Earl McGrath, president of the University of   Kansas City, delivered the commencement address. In the days leading to commencement,   the senior class participated in a class banquet at Jack's, a semi-formal Senior Ball at   the Aurania Club, the Senior Skit and Torch Night.</p>
-          <p>This series contains class directories, event programs, files related to Senior Week   activities, newspapers, pennants and reunion materials. Of special interest is the   Freshman Camp for Women brochure from 1950 and programs from the men's basketball team's   games in 1950-1951 and 1954. As 1954 graduate Naoshi Koriyama is a published poet, there   also are several of his publications in the collection.</p>
+          <p>Approximately 300 undergraduate students received their bachelor's degrees from  President Evan R. Collins at the New York State College for Teachers on Sunday morning  June 13, 1954 on the Alumni Quadrangle. Dr. Earl McGrath, president of the University of  Kansas City, delivered the commencement address. In the days leading to commencement,  the senior class participated in a class banquet at Jack's, a semi-formal Senior Ball at  the Aurania Club, the Senior Skit and Torch Night.</p>
+          <p>This series contains class directories, event programs, files related to Senior Week  activities, newspapers, pennants and reunion materials. Of special interest is the  Freshman Camp for Women brochure from 1950 and programs from the men's basketball team's  games in 1950-1951 and 1954. As 1954 graduate Naoshi Koriyama is a published poet, there  also are several of his publications in the collection.</p>
         </scopecontent>
         <c02 id="nam_ua801.004-1954_1">
           <did>
@@ -2123,7 +2083,7 @@
             <unittitle>Class of 1954 Freshman Beanies</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1950">1950</unitdate>
             <note>
-              <p>One donated by Dee Donnelly; one donated by Thomas G. Eldred; one donated by Frank   Mayer; one unknown donation.</p>
+              <p>One donated by Dee Donnelly; one donated by Thomas G. Eldred; one donated by Frank  Mayer; one unknown donation.</p>
             </note>
           </did>
         </c02>
@@ -2134,7 +2094,7 @@
             <unittitle>Class of 1954 State College Handbook</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1950">1950</unitdate>
             <note>
-              <p>Donated by Julian DeLyser; Mary Ann Hopko; Arline Lacy Wood and George Wood. Each   donated one copy.</p>
+              <p>Donated by Julian DeLyser; Mary Ann Hopko; Arline Lacy Wood and George Wood. Each  donated one copy.</p>
             </note>
           </did>
         </c02>
@@ -2196,9 +2156,7 @@
           <did>
             <container type="Box">1</container>
             <container type="Folder">8</container>
-            <unittitle>
-              <emph render="italic">Primer</emph>
-            </unittitle>
+            <unittitle><emph render="italic">Primer</emph></unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1950/1951">1950-1951</unitdate>
             <note>
               <p>Donated by Athalia Thompson Dalton.</p>
@@ -2246,7 +2204,7 @@
             <unitdate calendar="gregorian" era="ce" normal="1950/1951">1950-1951</unitdate>
             <unitdate calendar="gregorian" era="ce" normal="1954">1954</unitdate>
             <note>
-              <p>Mary Ann Hopko donated copies of all programs. Arline Lacy Wood and George Wood   donated copy of March 5, 1954 program only.</p>
+              <p>Mary Ann Hopko donated copies of all programs. Arline Lacy Wood and George Wood  donated copy of March 5, 1954 program only.</p>
             </note>
           </did>
         </c02>
@@ -2437,9 +2395,7 @@
           <did>
             <container type="Box">1</container>
             <container type="Folder">29</container>
-            <unittitle>
-              <emph render="italic">State College News</emph>
-            </unittitle>
+            <unittitle><emph render="italic">State College News</emph></unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1953/1954">1953-1954</unitdate>
             <note>
               <p>Donated by Mary Ann Hopko.</p>
@@ -2578,9 +2534,7 @@
           <did>
             <container type="Box">1</container>
             <container type="Folder">41</container>
-            <unittitle>
-              <emph render="italic">Primer</emph>
-            </unittitle>
+            <unittitle><emph render="italic">Primer</emph></unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1954-03">1954 Spring</unitdate>
             <note>
               <p>Donated by Mary Ann Hopko.</p>
@@ -3084,12 +3038,9 @@
       </c01>
       <c01 id="nam_ua801.004-1955" level="series">
         <did>
-          <unitid>7</unitid>
+          <unitid>1955</unitid>
           <unittitle label="Series">Class of 1955</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1951/2005" type="inclusive">1951-2005, Undated</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.57</extent>
-          </physdesc>
         </did>
         <arrangement>
           <p>Arranged chronologically.</p>
@@ -3158,9 +3109,7 @@
           <did>
             <container type="Box">2</container>
             <container type="Folder">1</container>
-            <unittitle>
-              <emph render="italic">Petagogue</emph>
-            </unittitle>
+            <unittitle><emph render="italic">Petagogue</emph></unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1952">1952</unitdate>
             <note>
               <p>Donated by Roslyn Nelson Lipton</p>
@@ -3182,9 +3131,7 @@
           <did>
             <container type="Box">2</container>
             <container type="Folder">2</container>
-            <unittitle>
-              <emph render="italic">Petagogue</emph>
-            </unittitle>
+            <unittitle><emph render="italic">Petagogue</emph></unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1953">1953</unitdate>
             <note>
               <p>Donated by Roslyn Nelson Lipton</p>
@@ -3203,9 +3150,7 @@
           <did>
             <container type="Box">2</container>
             <container type="Folder">3</container>
-            <unittitle>
-              <emph render="italic">Petagogue</emph>
-            </unittitle>
+            <unittitle><emph render="italic">Petagogue</emph></unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1954">1954</unitdate>
             <note>
               <p>Donated by Roslyn Nelson Lipton</p>
@@ -3246,9 +3191,7 @@
           <did>
             <container type="Box">2</container>
             <container type="Folder">4</container>
-            <unittitle>
-              <emph render="italic">Petagogue</emph>
-            </unittitle>
+            <unittitle><emph render="italic">Petagogue</emph></unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1955">1955</unitdate>
             <note>
               <p>Donated by Roslyn Nelson Lipton</p>
@@ -3297,9 +3240,197 @@
           </did>
         </c02>
       </c01>
+      <c01 id="nam_ua801.004-1956" level="series">
+        <did>
+          <unitid>1956</unitid>
+          <unittitle label="Series">Class of 1956</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1955/2011" type="inclusive">1955-2011</unitdate>
+          <physdesc>
+            <extent unit="cubic ft.">2.80</extent>
+          </physdesc>
+        </did>
+        <arrangement>
+          <p>Arranged chronologically.</p>
+        </arrangement>
+        <scopecontent>
+          <p>Collection consists of donations from the Class of 1956, inlcuding reunion information, programs, pamphlets, graduation attire, and an obituary to a past student.</p>
+        </scopecontent>
+        <c02 id="nam_ua801.004-1956_1">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Note to Sorority Rushers</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1956-02-02">1956 February 2</unitdate>
+            <note>
+              <p>Donated by Irene Togneola</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1956_2">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Cerificate for College Merchandise</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1956">1956</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1956_3">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Obituary of J.P. Wrinn</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1975-10-04">1975 October 4</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1956_4">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>Program for Claudo Arrau Performance</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1956">1956</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1956_5">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>NYSCT Directory</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1955">1955</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1956_6">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>Notebook of James Partick Wrinn</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1964-09-17">1964 September 17</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1956_7">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>55th Reunion Announcement and Program</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="2011">2011</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1956_8">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">8</container>
+            <unittitle>Pedagogue</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1956">1956</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1956_9">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">9</container>
+            <unittitle>55th Reunion Invitations</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="2011">2011</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1956_10">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">10</container>
+            <unittitle>Moving Up Day Ceremony</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1955/2011">Undated</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1956_11">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">1</container>
+            <unittitle>News Ways in Numbers</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969">1969</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1956_12">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">2</container>
+            <unittitle>News Ways in Numbers</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969">1969</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1956_13">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">3</container>
+            <unittitle>News Ways in Numbers</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969">1969</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1956_14">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">4</container>
+            <unittitle>News Ways in Numbers</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969">1969</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1956_15">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">5</container>
+            <unittitle>Pedagogue</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1956">1956</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1956_16">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">1</container>
+            <unittitle>Graduation Cap</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1956">ca. 1956</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1956_17">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">2</container>
+            <unittitle>Graduation Gown</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1956">ca. 1956</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1956_18">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">3</container>
+            <unittitle>Psi Gamma Pin</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1956">ca. 1956</unitdate>
+            <note>
+              <p>Donated by Judy Lates</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1956_19">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">1</container>
+            <unittitle>Class of 1956 Felt Banner</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1956">ca. 1956</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1956_20">
+          <did>
+            <container type="Flat-File">1</container>
+            <unittitle>Class of 1956 40th Reunion Collage</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1996">1996</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1956_21">
+          <did>
+            <container type="Flat-File">2</container>
+            <unittitle>Class of 1956 55th Reunion Welcome Collage</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="2011">2011</unitdate>
+          </did>
+        </c02>
+      </c01>
       <c01 id="nam_ua801.004-1959" level="series">
         <did>
-          <unitid>8</unitid>
+          <unitid>1959</unitid>
           <unittitle label="Series">Class of 1959</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1955/1989" type="inclusive">1955-1989</unitdate>
         </did>
@@ -3308,7 +3439,7 @@
         </arrangement>
         <scopecontent>
           <p>More than 360 undergraduate students received their bachelor's degrees from President Evan R. Collins at the New York State College for Teachers on Sunday morning June 7, 1959 on the Alumni Quadrangle. The Honorable Earl W. Brydges, Senator, 54th District, New York State, delivered the commencement address.</p>
-          <p>This series contains class directories, event programs, files related to Senior Week  activities, newspapers and a 1959 sweater. The program for the first annual Parents' Day   from March 16, 1957 is included.</p>
+          <p>This series contains class directories, event programs, files related to Senior Week activities, newspapers and a 1959 sweater. The program for the first annual Parents' Day  from March 16, 1957 is included.</p>
         </scopecontent>
         <c02 id="nam_ua801.004-1959_1">
           <did>
@@ -3365,9 +3496,7 @@
           <did>
             <container type="Box">1</container>
             <container type="Folder">5</container>
-            <unittitle>
-              <emph render="italic">State College News</emph>
-            </unittitle>
+            <unittitle><emph render="italic">State College News</emph></unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1956/1959">1956-1959</unitdate>
             <note>
               <p>Donated by Irma Tognola Heller; Ronald K. Short.</p>
@@ -3441,9 +3570,7 @@
           <did>
             <container type="Box">1</container>
             <container type="Folder">12</container>
-            <unittitle>
-              <emph render="italic">Primer</emph>
-            </unittitle>
+            <unittitle><emph render="italic">Primer</emph></unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1958">1958</unitdate>
             <note>
               <p>Donated by Arthur Plotnik.</p>
@@ -3613,12 +3740,9 @@
       </c01>
       <c01 id="nam_ua801.004-1960" level="series">
         <did>
-          <unitid>9</unitid>
+          <unitid>1960</unitid>
           <unittitle label="Series">Class of 1960</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1956/1985" type="inclusive">1956-1985, Undated</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.83</extent>
-          </physdesc>
         </did>
         <arrangement>
           <p>Arranged chronologically.</p>
@@ -3657,9 +3781,7 @@
           <did>
             <container type="Box">1</container>
             <container type="Folder">4</container>
-            <unittitle>
-              <emph render="italic">State College News</emph>
-            </unittitle>
+            <unittitle><emph render="italic">State College News</emph></unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1960-02-26">1960 February 26</unitdate>
           </did>
         </c02>
@@ -3745,7 +3867,7 @@
           <did>
             <container type="Box">1</container>
             <container type="Folder">14</container>
-            <unittitle>40th Reunion Program &amp; Class Directory and Invitation to brunch at the home of Bruce and Kristin Brossy Ginsey of Kinderhook, NY</unittitle>
+            <unittitle>40th Reunion Program &amp;amp; Class Directory and Invitation to brunch at the home of Bruce and Kristin Brossy Ginsey of Kinderhook, NY</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="2000-06-11">2000 June 11</unitdate>
           </did>
         </c02>
@@ -3782,7 +3904,7 @@
       </c01>
       <c01 id="nam_ua801.004-1964" level="series">
         <did>
-          <unitid>10</unitid>
+          <unitid>1964</unitid>
           <unittitle label="Series">Class of 1964</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1960/2014" type="inclusive">1960-2014</unitdate>
         </did>
@@ -3790,9 +3912,9 @@
           <p>Arranged chronologically.</p>
         </arrangement>
         <scopecontent>
-          <p>During its time on campus, the Class of 1964 witnessed numerous changes. The school   name changed from State University of New York College of Education at Albany (September   1, 1959 - October 16, 1961) to the State University of New York College at Albany   (October 16, 1961 - August, 1962) to the State University of New York at Albany (August   1962 - Fall 1986). The groundbreaking ceremony for construction on the new Uptown Campus   was held in August 1962. In September 1962 the school admitted its first freshmen   non-teacher preparatory students as candidates for bachelor of arts degrees in Liberal   Arts and Sciences. The 1963 yearbook was the first to be named the<emph render="italic">Torch</emph>. The school newspaper <emph render="italic">State College News</emph>   became the <emph render="italic">State University News</emph> in February 1963 and the <emph render="italic">Albany Student Press</emph> in February 1964. In addition, one   of the most noticeable changes was the assessment of tuition for the first time in the   Fall of 1963. This event and related student protests are chronicled in the yearbooks   and Class of 1964 Senior Record.</p>
-          <p>Nearly 600 undergraduate students received their bachelor's degrees from President Evan   R. Collins at the New York State College for Teachers on Sunday morning June 14, 1964 at   Thurlow Terrace. Buell G. Gallagher, president of City College of New York, served as   the commencement speaker.</p>
-          <p>This series contains class directories, event programs, school mascots, attire, student   handbooks and yearbooks. Of special interest are the many files related to the incoming   student/freshman experience including Frosh Week programs and bulletins. Class members   Robert Fairbanks, Evelyn J. Petrick and Mary Young Osielski contributed the majority of   memorabilia.</p>
+          <p>During its time on campus, the Class of 1964 witnessed numerous changes. The school  name changed from State University of New York College of Education at Albany (September  1, 1959 - October 16, 1961) to the State University of New York College at Albany  (October 16, 1961 - August, 1962) to the State University of New York at Albany (August  1962 - Fall 1986). The groundbreaking ceremony for construction on the new Uptown Campus  was held in August 1962. In September 1962 the school admitted its first freshmen  non-teacher preparatory students as candidates for bachelor of arts degrees in Liberal  Arts and Sciences. The 1963 yearbook was the first to be named the<emph render="italic">Torch</emph>. The school newspaper <emph render="italic">State College News</emph>  became the <emph render="italic">State University News</emph> in February 1963 and the <emph render="italic">Albany Student Press</emph> in February 1964. In addition, one  of the most noticeable changes was the assessment of tuition for the first time in the  Fall of 1963. This event and related student protests are chronicled in the yearbooks  and Class of 1964 Senior Record.</p>
+          <p>Nearly 600 undergraduate students received their bachelor's degrees from President Evan  R. Collins at the New York State College for Teachers on Sunday morning June 14, 1964 at  Thurlow Terrace. Buell G. Gallagher, president of City College of New York, served as  the commencement speaker.</p>
+          <p>This series contains class directories, event programs, school mascots, attire, student  handbooks and yearbooks. Of special interest are the many files related to the incoming  student/freshman experience including Frosh Week programs and bulletins. Class members  Robert Fairbanks, Evelyn J. Petrick and Mary Young Osielski contributed the majority of  memorabilia.</p>
         </scopecontent>
         <c02 id="nam_ua801.004-1964_1">
           <did>
@@ -4037,9 +4159,7 @@
           <did>
             <container type="Box">1</container>
             <container type="Folder">21</container>
-            <unittitle>
-              <emph render="italic">State College News</emph>
-            </unittitle>
+            <unittitle><emph render="italic">State College News</emph></unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1961-05-06">1961 May 06</unitdate>
             <note>
               <p>Donated by Evelyn J. Petrick.</p>
@@ -4318,9 +4438,7 @@
           <did>
             <container type="Box">1</container>
             <container type="Folder">46</container>
-            <unittitle>
-              <emph render="italic">State University News</emph>
-            </unittitle>
+            <unittitle><emph render="italic">State University News</emph></unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1963-03-29">1963 March 29</unitdate>
             <note>
               <p>Donated by Evelyn J. Petrick.</p>
@@ -4441,9 +4559,7 @@
           <did>
             <container type="Box">1</container>
             <container type="Folder">56</container>
-            <unittitle>
-              <emph render="italic">Albany Student Press</emph>
-            </unittitle>
+            <unittitle><emph render="italic">Albany Student Press</emph></unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1964-05-12">1964 May 12</unitdate>
             <unitdate calendar="gregorian" era="ce" normal="1964-05-19">1964 May 19</unitdate>
           </did>
@@ -4618,7 +4734,7 @@
           <did>
             <container type="Box">1</container>
             <container type="Folder">72</container>
-            <unittitle>"Something New in College Campuses,"<emph render="italic">U.S. News &amp;amp;   World Report</emph> Article about the University at Albany</unittitle>
+            <unittitle>"Something New in College Campuses,"<emph render="italic">U.S. News &amp;amp;amp;  World Report</emph> Article about the University at Albany</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1967">1967</unitdate>
           </did>
         </c02>
@@ -4745,12 +4861,9 @@
       </c01>
       <c01 id="nam_ua801.004-1965" level="series">
         <did>
-          <unitid>11</unitid>
+          <unitid>1965</unitid>
           <unittitle label="Series">Class of 1965</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1960/2005" type="inclusive">1960-2005, Undated</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.58</extent>
-          </physdesc>
         </did>
         <arrangement>
           <p>Arranged chronologically.</p>
@@ -4953,9 +5066,418 @@
           </did>
         </c02>
       </c01>
+      <c01 id="nam_ua801.004-1966" level="series">
+        <did>
+          <unitid>1966</unitid>
+          <unittitle label="Series">Class of 1966</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1944/1991" type="inclusive">1944-1991</unitdate>
+          <physdesc>
+            <extent unit="cubic ft.">1.03</extent>
+          </physdesc>
+        </did>
+        <arrangement>
+          <p>Arranged chronologically.</p>
+        </arrangement>
+        <scopecontent>
+          <p>The items donated by the Class of 1966 include programs from plays, class newsletters and event lists, University Directories, class beanies, and some photographs.</p>
+        </scopecontent>
+        <c02 id="nam_ua801.004-1966_1">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>"Hi Frosh" Booklet</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1962">1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_2">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Statesmen: 1965 at NY World's Fair</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1965">1965</unitdate>
+            <note>
+              <p>Donated by David Jaureves, Music Dept.</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_3">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>The Carillon Presentation - Alumni Day Program</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1966-06-18">1966 June 18</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_4">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>"Louie, Louie" Paper Record, and "Class of 1966" Lettering</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1944/1991">Undated</unitdate>
+            <note>
+              <p>Donated by Claudia Byleniok</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_5">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>Albany State Penant Stickers</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1966">1966</unitdate>
+            <note>
+              <p>Donated by Claudia Byleniok</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_6">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>SUNYA Directory</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1965">1965</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_7">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>Invitation to Evan Revere Collins Circle Dedication Ceremony</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1991">1991</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_8">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">8</container>
+            <unittitle>Fiddler on the Roof Playbill</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1966-01">1966 January</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_9">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">9</container>
+            <unittitle>Editorial about College Reunions- "La plus ca Change</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1944/1991">Undated</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_10">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">10</container>
+            <unittitle>Newspaper Clipping-"By Whom the Bell Tolls"</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1944/1991">Undated</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_11">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">11</container>
+            <unittitle>Photograph of Peterkin-1991 Distinguished Alumni Award Recipient</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1991">1991</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_12">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">12</container>
+            <unittitle>Project Carillon Papmphlet</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1966">ca. 1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_13">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">13</container>
+            <unittitle>Nostalgia 101-Memories of 1962-1966</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1944/1991">Undated</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_14">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">14</container>
+            <unittitle>Albany Ahtletic Letter</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1944/1991">Undated</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_15">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">15</container>
+            <unittitle>Social Calendars</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1962/1966">1962-1966</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_16">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">16</container>
+            <unittitle>Campus Viewpoint</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1963">1963</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_17">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">17</container>
+            <unittitle>University Guidelines</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1963-09-01">1963 September 1</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_18">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">18</container>
+            <unittitle>Memo from Minnie</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1963">1963</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_19">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">19</container>
+            <unittitle>Campus Viewpoint</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1964-09-01">1964 September 1</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_20">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">20</container>
+            <unittitle>Spring Primer</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1966-01">1966 January</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_21">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">21</container>
+            <unittitle>Patch with University Seal</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1944/1991">Undated</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_22">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">22</container>
+            <unittitle>Junior Class Extra</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1962-11-09/1963-05-18">1964 November 9-1963 May 18</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_23">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">1</container>
+            <unittitle>Basketball Programs</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1963/1965">ca.1963-1965</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_24">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">2</container>
+            <unittitle>Performance Playbills and Photographs</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1963/1966">ca.1963-1966</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_25">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">3</container>
+            <unittitle>Brochures and Pamphlets</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1963/1965">ca. 1963-1965</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_26">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">4</container>
+            <unittitle>College of the Empire State Centennial History</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1944">ca. 1944</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_27">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">5</container>
+            <unittitle>Suppression- A Weekly Journal</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1962-10/1967-04">1962 October-1967 April</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_28">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">6</container>
+            <unittitle>University Bulletins and Newsletters</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1962-10/1967-04">1962 October-1967 April</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_29">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">7</container>
+            <unittitle>Jay's Journal</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1962-10-04/1963-10-05">1962 October 5-1963 October 4</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_30">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">8</container>
+            <unittitle>Satan's Scroll</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1962-10-05/1962-10-26">1962 October 5-1962 October 26</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_31">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">9</container>
+            <unittitle>Gremlin Gazette</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1963-05-18">1963 May 18</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_32">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">10</container>
+            <unittitle>Gnome's News</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1963-10-04/1963-10-25">1963 October 4-1963 October 25</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_33">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">11</container>
+            <unittitle>The Waterbury Knozes</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1962-11-21">1962 November 21</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_34">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">12</container>
+            <unittitle>Student Senate Records</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1963-10-07/1963-10-14">1963 October 7-1964 October 14</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_35">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">13</container>
+            <unittitle>Papers of Various Student Organizations</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1963/1965">ca. 1963-1965</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_36">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">14</container>
+            <unittitle>Inter-Fraternity Council</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1963-03/1964-04">1963 March-1964 April</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_37">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">1</container>
+            <unittitle>Class of 1966 Beanie</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1944/1991">Undated</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_38">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">2</container>
+            <unittitle>Class of 1967 Beanie</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1944/1991">Undated</unitdate>
+            <note>
+              <p>Donated by Don Kisiel</p>
+            </note>
+          </did>
+        </c02>
+        <c02 id="nam_ua801.004-1966_39">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">3</container>
+            <unittitle>Class of 1966 Beanie</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1944/1991">Undated</unitdate>
+          </did>
+        </c02>
+      </c01>
       <c01 id="nam_ua801.004-1967" level="series">
         <did>
-          <unitid>12</unitid>
+          <unitid>1967</unitid>
           <unittitle label="Series">Class of 1967</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1962/1969" type="inclusive">1962-1969</unitdate>
         </did>
@@ -4963,13 +5485,13 @@
           <p>Arranged chronologically.</p>
         </arrangement>
         <scopecontent>
-          <p>More than 650 men and women received their degrees from President Evan R. Collins at   the State University of New York at Albany on Sunday morning June 11, 1967. U.S. Senator   Jacob K. Javits delivered the commencement address to a class in transition in many   ways. During the Class of 1967's years on campus, enrollment increased dramatically   reaching a then all-time high of 7,094 in the Fall of 1966, the Uptown Campus was built   and the University rented any available space it could locate to temporarily hold   classes during the building process. The Uptown Campus officially opened during the   group's final year of studies, students moved into new dorms and the Class of 1967 began   using new facilities like the Campus Center. Old policies and traditions, including a   curfew for women students and the wearing of the freshman beanie, were being laid to   rest. The class helped usher in new student traditions, such as Telethon which became a   popular 24 hour fund-raising event to benefit the New York State Mental Health   Association, Inc. started in October 1966.</p>
-          <p>Henry M. Madej, BA 1967, is the main contributor to this class' collection and an   active member of the Albany community. He is a member of the University Alumni   Association and the Pine Hills Neighborhood Association. Please see the Henry M. Madej   Papers, APAP-140, for more information.</p>
+          <p>More than 650 men and women received their degrees from President Evan R. Collins at  the State University of New York at Albany on Sunday morning June 11, 1967. U.S. Senator  Jacob K. Javits delivered the commencement address to a class in transition in many  ways. During the Class of 1967's years on campus, enrollment increased dramatically  reaching a then all-time high of 7,094 in the Fall of 1966, the Uptown Campus was built  and the University rented any available space it could locate to temporarily hold  classes during the building process. The Uptown Campus officially opened during the  group's final year of studies, students moved into new dorms and the Class of 1967 began  using new facilities like the Campus Center. Old policies and traditions, including a  curfew for women students and the wearing of the freshman beanie, were being laid to  rest. The class helped usher in new student traditions, such as Telethon which became a  popular 24 hour fund-raising event to benefit the New York State Mental Health  Association, Inc. started in October 1966.</p>
+          <p>Henry M. Madej, BA 1967, is the main contributor to this class' collection and an  active member of the Albany community. He is a member of the University Alumni  Association and the Pine Hills Neighborhood Association. Please see the Henry M. Madej  Papers, APAP-140, for more information.</p>
           <p>This series is divided into administrative records and special events.</p>
         </scopecontent>
         <c02 id="nam_ua801.004-1967.1" level="subseries">
           <did>
-            <unitid>12.1</unitid>
+            <unitid>1967.1</unitid>
             <unittitle label="Subseries">Administrative Records</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1963/1968" type="inclusive">1963-1968</unitdate>
           </did>
@@ -5136,7 +5658,7 @@
         </c02>
         <c02 id="nam_ua801.004-1967.2" level="subseries">
           <did>
-            <unitid>12.2</unitid>
+            <unitid>1967.2</unitid>
             <unittitle label="Subseries">Special Activities and Events</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1962/1969" type="inclusive">1962-1969</unitdate>
           </did>
@@ -5150,7 +5672,7 @@
             <did>
               <container type="Box">1</container>
               <container type="Folder">21</container>
-              <unittitle><emph render="italic">Saturday Review</emph> Issues with University   Mentioned</unittitle>
+              <unittitle><emph render="italic">Saturday Review</emph> Issues with University  Mentioned</unittitle>
               <unitdate calendar="gregorian" era="ce" normal="1962-01-20">1962 January 20</unitdate>
               <unitdate calendar="gregorian" era="ce" normal="1964-04-18">1964 April 18</unitdate>
               <note>
@@ -5293,9 +5815,7 @@
           <c03 id="nam_ua801.004-1967.2_14">
             <did>
               <container type="Oversized">1-3</container>
-              <unittitle>
-                <emph render="italic">Albany Student Press</emph>
-              </unittitle>
+              <unittitle><emph render="italic">Albany Student Press</emph></unittitle>
               <unitdate calendar="gregorian" era="ce" normal="1963/1966">1963-1966</unitdate>
               <note>
                 <p>Donated by Henry M. Madej.</p>
@@ -5329,7 +5849,7 @@
               <container type="Box">1</container>
               <container type="Folder">36</container>
               <unittitle>Statesmen Photograph</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1959/1969">ca.   1964</unitdate>
+              <unitdate calendar="gregorian" era="ce" normal="1959/1969">ca.  1964</unitdate>
               <note>
                 <p>Donated by Kenneth Darmer.</p>
               </note>
@@ -5339,9 +5859,7 @@
             <did>
               <container type="Box">1</container>
               <container type="Folder">37</container>
-              <unittitle>
-                <emph render="italic">Primer</emph>
-              </unittitle>
+              <unittitle><emph render="italic">Primer</emph></unittitle>
               <unitdate calendar="gregorian" era="ce" normal="1964-03">1964 Spring</unitdate>
               <note>
                 <p>Donated by Henry M. Madej.</p>
@@ -5396,9 +5914,7 @@
             <did>
               <container type="Box">2</container>
               <container type="Folder">1</container>
-              <unittitle>
-                <emph render="italic">Campus Viewpoint</emph>
-              </unittitle>
+              <unittitle><emph render="italic">Campus Viewpoint</emph></unittitle>
               <unitdate calendar="gregorian" era="ce" normal="1965">1965</unitdate>
               <note>
                 <p>Donated by Henry M. Madej.</p>
@@ -5409,9 +5925,7 @@
             <did>
               <container type="Box">2</container>
               <container type="Folder">2</container>
-              <unittitle>
-                <emph render="italic">Primer</emph>
-              </unittitle>
+              <unittitle><emph render="italic">Primer</emph></unittitle>
               <unitdate calendar="gregorian" era="ce" normal="1965">1965</unitdate>
               <note>
                 <p>Donated by Henry M. Madej.</p>
@@ -5455,9 +5969,7 @@
             <did>
               <container type="Box">2</container>
               <container type="Folder">6</container>
-              <unittitle>
-                <emph render="italic">Primer</emph>
-              </unittitle>
+              <unittitle><emph render="italic">Primer</emph></unittitle>
               <unitdate calendar="gregorian" era="ce" normal="1965-09/1966">1965 Fall-1966</unitdate>
               <note>
                 <p>Donated by Henry M. Madej.</p>
@@ -5479,9 +5991,7 @@
             <did>
               <container type="Box">2</container>
               <container type="Folder">8</container>
-              <unittitle>
-                <emph render="italic">Campus Viewpoint</emph>
-              </unittitle>
+              <unittitle><emph render="italic">Campus Viewpoint</emph></unittitle>
               <unitdate calendar="gregorian" era="ce" normal="1966">1966</unitdate>
               <note>
                 <p>Donated by Henry M. Madej.</p>
@@ -5492,9 +6002,7 @@
             <did>
               <container type="Box">2</container>
               <container type="Folder">9</container>
-              <unittitle>
-                <emph render="italic">Primer</emph>
-              </unittitle>
+              <unittitle><emph render="italic">Primer</emph></unittitle>
               <unitdate calendar="gregorian" era="ce" normal="1966-03">1966 Spring</unitdate>
               <note>
                 <p>Donated by Henry M. Madej.</p>
@@ -5527,9 +6035,7 @@
             <did>
               <container type="Box">2</container>
               <container type="Folder">12</container>
-              <unittitle>
-                <emph render="italic">Primer</emph>
-              </unittitle>
+              <unittitle><emph render="italic">Primer</emph></unittitle>
               <unitdate calendar="gregorian" era="ce" normal="1966/1967">1966-1967</unitdate>
               <note>
                 <p>Donated by Henry M. Madej.</p>
@@ -5563,7 +6069,7 @@
               <container type="Box">2</container>
               <container type="Folder">15</container>
               <unittitle>Sigma Phi Sigma Dinner Mementos</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1961/1971">ca.   1966</unitdate>
+              <unitdate calendar="gregorian" era="ce" normal="1961/1971">ca.  1966</unitdate>
               <note>
                 <p>Donated by Henry M. Madej.</p>
               </note>
@@ -5596,9 +6102,7 @@
             <did>
               <container type="Box">2</container>
               <container type="Folder">18</container>
-              <unittitle>
-                <emph render="italic">Primer</emph>
-              </unittitle>
+              <unittitle><emph render="italic">Primer</emph></unittitle>
               <unitdate calendar="gregorian" era="ce" normal="1967-03">1967 Spring</unitdate>
               <note>
                 <p>Donated by Henry M. Madej.</p>
@@ -5609,9 +6113,7 @@
             <did>
               <container type="Box">2</container>
               <container type="Folder">19</container>
-              <unittitle>
-                <emph render="italic">The Word</emph>
-              </unittitle>
+              <unittitle><emph render="italic">The Word</emph></unittitle>
               <unitdate calendar="gregorian" era="ce" normal="1967-03">1967 March</unitdate>
               <note>
                 <p>Donated by Henry M. Madej.</p>
@@ -5796,9 +6298,7 @@
             <did>
               <container type="Box">3</container>
               <container type="Folder">3</container>
-              <unittitle>
-                <emph render="italic">The Word</emph>
-              </unittitle>
+              <unittitle><emph render="italic">The Word</emph></unittitle>
               <unitdate calendar="gregorian" era="ce" normal="1967-11">1967 November</unitdate>
               <note>
                 <p>Donated by Henry M. Madej.</p>
@@ -5820,9 +6320,7 @@
             <did>
               <container type="Box">3</container>
               <container type="Folder">5</container>
-              <unittitle>
-                <emph render="italic">Campus Viewpoint</emph>
-              </unittitle>
+              <unittitle><emph render="italic">Campus Viewpoint</emph></unittitle>
               <unitdate calendar="gregorian" era="ce" normal="1967">1967</unitdate>
               <note>
                 <p>Donated by Henry M. Madej.</p>
@@ -5855,7 +6353,7 @@
               <container type="Box">3</container>
               <container type="Folder">7</container>
               <unittitle>Minerva Move From Library to Uptown Campus Photographs</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1962/1972">ca.   1967</unitdate>
+              <unitdate calendar="gregorian" era="ce" normal="1962/1972">ca.  1967</unitdate>
               <note>
                 <p>Donated by Henry M. Madej.</p>
               </note>
@@ -5866,7 +6364,7 @@
               <container type="Box">3</container>
               <container type="Folder">8</container>
               <unittitle>Minerva Restoration Photographs</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1962/1972">ca.   1967</unitdate>
+              <unitdate calendar="gregorian" era="ce" normal="1962/1972">ca.  1967</unitdate>
               <note>
                 <p>Donated by Henry M. Madej.</p>
               </note>
@@ -5877,7 +6375,7 @@
               <container type="Box">3</container>
               <container type="Folder">9</container>
               <unittitle>Minerva Rededication Speech</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1962/1972">ca.   1967</unitdate>
+              <unitdate calendar="gregorian" era="ce" normal="1962/1972">ca.  1967</unitdate>
               <note>
                 <p>Donated by Henry M. Madej.</p>
               </note>
@@ -5887,9 +6385,7 @@
             <did>
               <container type="Box">3</container>
               <container type="Folder">10</container>
-              <unittitle>
-                <emph render="italic">Primer</emph>
-              </unittitle>
+              <unittitle><emph render="italic">Primer</emph></unittitle>
               <unitdate calendar="gregorian" era="ce" normal="1967/1968">1967-1968</unitdate>
               <note>
                 <p>Donated by Henry M. Madej.</p>
@@ -5922,9 +6418,7 @@
             <did>
               <container type="Box">3</container>
               <container type="Folder">13</container>
-              <unittitle>
-                <emph render="italic">The Word</emph>
-              </unittitle>
+              <unittitle><emph render="italic">The Word</emph></unittitle>
               <unitdate calendar="gregorian" era="ce" normal="1968-02">1968 February</unitdate>
               <note>
                 <p>Donated by Henry M. Madej.</p>
@@ -5978,9 +6472,7 @@
             <did>
               <container type="Box">3</container>
               <container type="Folder">17</container>
-              <unittitle>
-                <emph render="italic">The Word</emph>
-              </unittitle>
+              <unittitle><emph render="italic">The Word</emph></unittitle>
               <unitdate calendar="gregorian" era="ce" normal="1968-09">1968 Fall</unitdate>
               <note>
                 <p>Donated by Henry M. Madej.</p>
@@ -5991,9 +6483,7 @@
             <did>
               <container type="Box">3</container>
               <container type="Folder">18</container>
-              <unittitle>
-                <emph render="italic">Campus Viewpoint</emph>
-              </unittitle>
+              <unittitle><emph render="italic">Campus Viewpoint</emph></unittitle>
               <unitdate calendar="gregorian" era="ce" normal="1968">1968</unitdate>
               <note>
                 <p>Donated by Henry M. Madej.</p>
@@ -6004,9 +6494,7 @@
             <did>
               <container type="Box">3</container>
               <container type="Folder">19</container>
-              <unittitle>
-                <emph render="italic">Primer</emph>
-              </unittitle>
+              <unittitle><emph render="italic">Primer</emph></unittitle>
               <unitdate calendar="gregorian" era="ce" normal="1969-03">1969 Spring</unitdate>
               <note>
                 <p>Donated by Henry M. Madej.</p>
@@ -6017,9 +6505,7 @@
             <did>
               <container type="Box">3</container>
               <container type="Folder">20</container>
-              <unittitle>
-                <emph render="italic">Campus Viewpoint</emph>
-              </unittitle>
+              <unittitle><emph render="italic">Campus Viewpoint</emph></unittitle>
               <unitdate calendar="gregorian" era="ce" normal="1969">1969</unitdate>
               <note>
                 <p>Donated by Henry M. Madej.</p>

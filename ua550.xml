@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
-<!DOCTYPE ead SYSTEM 'ead.dtd'>
 <ead id="nam_ua550">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
     <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua550.html">nam_ua550</eadid>
@@ -91,9 +90,9 @@
         <did>
           <unitid>nam_ua550-1</unitid>
           <unittitle>Web Archives</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2007-11-27/2016-08-19">2007 November 27-2016 August 19</unitdate>
+          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2007-11-27/2016-09-18">2007 November 27-2016 September 18</unitdate>
           <physdesc>
-            <extent unit="captures">580</extent>
+            <extent unit="captures">586</extent>
           </physdesc>
         </did>
         <acqinfo>
@@ -107,7 +106,7 @@
           <did>
             <container type="Web-Archive">1</container>
             <unittitle>http://www.albany.edu/international/ - University Archives collection</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2013-05-08/2016-08-19">2013 May 8-2016 August 19</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="2013-05-08/2016-09-18">2013 May 8-2016 September 18</unitdate>
             <dao actuate="onrequest" linktype="simple" show="new" href="http://wayback.archive-it.org/3308/*/http://www.albany.edu/international/"/>
           </did>
         </c02>
@@ -115,7 +114,7 @@
           <did>
             <container type="WARC">1</container>
             <unittitle>WARC file for http://www.albany.edu/international/, (please see https://en.wikipedia.org/wiki/Web_ARChive for more details)</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2013-05-08/2016-08-19">2013 May 8-2016 August 19</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="2013-05-08/2016-09-18">2013 May 8-2016 September 18</unitdate>
           </did>
           <accessrestrict>
             <p>WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in researching with web archives.</p>
@@ -125,7 +124,7 @@
           <did>
             <container type="Web-Archive">2</container>
             <unittitle>http://www.albany.edu/international/ - Internet Archive collection</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2007-11-27/2016-08-19">2007 November 27-2016 August 19</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="2007-11-27/2016-09-18">2007 November 27-2016 September 18</unitdate>
             <dao actuate="onrequest" linktype="simple" show="new" href="https://web.archive.org/web/*/http://www.albany.edu/international/"/>
           </did>
         </c02>
