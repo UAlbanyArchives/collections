@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/xsl' href='collection-level.xsl'?> 
+<!DOCTYPE ead SYSTEM 'ead.dtd'>
 <ead id="nam_ua950.007">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/ua950.007.xml" identifier="##">nam_ua950.007</eadid>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua950.007.html">nam_ua950.007</eadid>
     <filedesc>
       <titlestmt>
         <titleproper>CAMPUS UNREST COLLECTION (UA950.007)<date normal="1967/1972" type="inclusive">1967-1972</date></titleproper>
@@ -12,189 +14,92 @@
         <address>
           <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
         </address>
-        <date type="publication" normal="2013">Copyright 2013 by the University at Albany, SUNY. All rights reserved.</date>
+        <date normal="2013" type="publication">Copyright 2013 by the University at Albany, SUNY. All rights reserved.</date>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Angela Perez<date normal="2013">2013</date>
-      </creation>
+      <creation audience="internal">Angela Perez<date normal="2013">2013</date></creation>
       <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
+        <language langcode="eng">English</language>
       </langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date normal="2016-10">2016 October</date>
+        <item>FBI Investigation and Correspondence intergrated by Erik Stolarski</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>CAMPUS UNREST COLLECTION (UA950.007)<date normal="1967/1972" type="inclusive">1967-1972</date>
-      </titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2013</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
       <head>Descriptive Summary</head>
       <unitid>nam_ua950.007</unitid>
-      <unittitle>Campus Unrest Collection <unitdate type="inclusive" normal="1967/1972" label="Date:"> 1967-1972</unitdate>
-      </unittitle>
-      <physdesc label="Physical Characteristics:">
-        <extent unit="cubic ft.">1.53</extent>
-      </physdesc>
-      <origination>
-        <corpname encodinganalog="110" source="lcsh">University at Albany, SUNY</corpname>
-      </origination>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
-      </repository>
-      <abstract label="Abstract:"> The Campus Unrest Collection documents volatile events during the
-        late 1960s and the early 1970s that occurred not only at the State University Of New York at
-        Albany, but at other Universities as well.</abstract>
+      <unittitle>Campus Unrest Collection<unitdate normal="1967/1972" type="inclusive">1967-1972</unitdate></unittitle>
+      <abstract label="Abstract:">The Campus Unrest Collection documents volatile events during the   late 1960s and the early 1970s that occurred not only at the State University Of New York at   Albany, but at other Universities as well.</abstract>
       <langmaterial>
         <language langcode="eng">English</language>
       </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <origination>
+        <corpname encodinganalog="110" source="lcsh">University at Albany, SUNY</corpname>
+      </origination>
+      <physdesc>
+        <extent unit="cubic ft.">1.53</extent>
+      </physdesc>
+      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
+      <repository label="Repository:">
+        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      </repository>
     </did>
-    <accessrestrict>
-      <head>Access</head>
-      <p> Access to this record group is unrestricted.</p>
-    </accessrestrict>
-    <userestrict>
-      <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
-    </userestrict>
-    <acqinfo>
-      <head>Acquisition Information</head>
-      <p>The collection was gathered as background information for a 1971 report on campus unrest at
-        the request of the Acting Vice President for Academic Affairs by the University Librarian,
-        Alice Hastings, Fredericks Volkwein, Assistant Dean of Graduate Studies, and Dr. Frederick
-        D. Weinstein of the School of Library Science.</p>
-    </acqinfo>
     <bioghist>
       <head>Biographical Sketch</head>
-      <p>The Campus Unrest Collection focuses on volatile events involving students that occurred at
-        the State University of New York at Albany (now the University at Albany), as well as other
-        campuses around the country. Inspired by national and local influences, these events
-        occurred in the late 1960s and early 1970s and involved student-faculty relations, race
-        relations, the Vietnam War, and the shootings at Kent State University. All served to raise
-        tension among students, faculty and administration, most noticeably during the 1969-1970
-        academic year.</p>
-      <p>At colleges and universities around the country, this period witnessed the end of the
-        institution serving "in loco parentis" or in place of parents. Universities, including the
-        State University of New York at Albany, allowed for greater freedom of the student body by
-        removing curfews and dress codes. Students transitioned away from older campus traditions
-        and established new ones. Many students (and faculty) protested the escalation of U.S.
-        troops serving in Vietnam.</p>
-      <p>While these national trends were in evidence at the State University of New York at Albany,
-        other institution-specific developments also affected campus life. The school became a State
-        University of New York (SUNY) University Center in 1962, opened its expanded Uptown Campus
-        for classes in the Fall of 1966 and the size of the student body grew exponentially and
-        became more diverse. As a result, administrators and faculty no longer shared personal
-        connections with as many students, severly affecting two-way communication. The University
-        also responded to the heterogeneity of the student population. Then President Evan R.
-        Collins created the Afro-American Studies department in January 1969 in direct response to
-        demands by an increasing African-American student population, led by the Black Student
-        Alliance, for entry level courses in Afro-American studies. The new department offered its
-        first courses in Fall 1969. The following year, the Department of Judaic Studies opened.</p>
-      <p>On October 15, 1969, the State University of New York at Albany participated in
-        events for a national Vietnam Moratorium day. The University held a twenty-four hour vigil
-        during which the names of those killed in the Vietnam War were read on the academic podium.
-        Speeches and workshops also were held.</p>
-      <p>During March 1970, the State University of New York at Albany did not renew the two-year
-        contract of popular assistant professor Gerard Wagner of the Department of Rhetoric and
-        Public Address. As part of reaction to this news, students protested, some broke windows and
-        others occupied the halls outside of Acting President Allan A. Kuusito's office. </p>
-      <p>In the early spring of 1970, African-American faculty and students submitted several
-        proposals addressing racism on campus to the administration. Proposals included seeking
-        better representation of black students among Resident Assistants, hiring of black food
-        service workers, and issuance of guidelines to existing staff and faculty about treating all
-        students equally. These groups also documnted reports of racial incidents on campus. This
-        communication was one part of an ongoing discussion of race relations on the campus. In
-        April 1970 African-American students became angered at the policy of checking student
-        identification in order to eat in the cafeteria resulting in two incidents in the Colonial
-        Quad dining room. According to students, this policy of strict identification checking was
-        not the norm in Colonial Quad and some believed that African-American students were unfairly
-        singled out. In the more volatile, second incident, approximately 75 students allegedly
-        assaulted a cafeteria supervisor, broke windows, threw food and upturned tables.</p>
-      <p>Students overall also demanded greater participation in University decision making, especially
-        following the anger over the contract renewal debate about Gerard Wagner. In response, the
-        University suspended classes and held two Dialogue Days in March of 1970 where students
-        attended workshops such as "Legal Procedures - Amnesty for Students," "Racism on Campus,"
-        and "50-50 Faculty-Student Control of the University." Departments held meetings with
-        students and the Library invited students to come by at any time to meet, convene or suggest
-        ideas. As part of the dialogue with faculty and administration, students aired grievances
-        about many aspects of University life from the University Senate (more student
-        representation necessary) to the Library (request for one central circualtion desk) to
-        advising services (inadequate).</p>
-      <p>Other sources of tension on campus during 1969-1970 prompted additional student activism.
-        These included a women's group's ultimately unsuccessful attempt to establish an on-campus
-        child care facility, conflict with the academic calendar and religious holidays, drug
-        arrests by police and a People's Park demonstration which delayed construction of two courtyards on the academic podium.</p>
-      <p>The events of this volatile school year culminated in May 1970 when the Nixon
-        Administration announced U.S. troop movement into Cambodia, touching off unrest at campuses
-        across the country, helping lead to the shootings at Kent State on May 4. State University
-        of New York at Albany students protested and demonstrated their anger by vandalizing the
-        Library on the night of May 4. On May 6, 1500-2000 students gathered en masse and marched to
-        downtown Albany where the group burned an effigy of President Richard Nixon and listened to
-        speeches. Other disruptions of regular campus activities in the days following Kent State
-        included bomb scares, the throwing of fire bombs and Molotov cocktails, destruction of
-        campus property in addition to the Library, fires in residence halls and repeated false fire
-        alarms. The University also canceled several events including Alumni Day, Parents Weekend
-        and a University Community Symphony Orchestra. Many students did not attend classes at the
-        end of the semester. Some elected to strike because of the myriad of immediate events, the
-        many fire alarms disrupted classes and some students cited fear for their personal safety as
-        a reason for leaving campus before the semester officially ended. As a result, President
-        Kuusito issued special guidelines and alternatives to faculty on May 12, 1970 regarding the
-        completion of course work during a crisis. </p>
-      <p>Compared to other colleges and universities in the SUNY system, the State University of New
-        York at Albany experienced less vandalism and damage on campus than other schools during
-        1969-1970. According to a report prepared by John J. Mather, assistant to SUNY Chancellor
-        Samuel B. Gould, and issued in July 1970, the total amount of damages at 26 SUNY schools for
-        1969-1970 was $518,000. Albany's share was only $85,000 compared to $233,000 at SUNY
-        Buffalo. The bulk of damage occured on and immediately after May 4, 1970.</p>
+      <p>The Campus Unrest Collection focuses on volatile events involving students that occurred at   the State University of New York at Albany (now the University at Albany), as well as other   campuses around the country. Inspired by national and local influences, these events   occurred in the late 1960s and early 1970s and involved student-faculty relations, race   relations, the Vietnam War, and the shootings at Kent State University. All served to raise   tension among students, faculty and administration, most noticeably during the 1969-1970   academic year.</p>
+      <p>At colleges and universities around the country, this period witnessed the end of the   institution serving "in loco parentis" or in place of parents. Universities, including the   State University of New York at Albany, allowed for greater freedom of the student body by   removing curfews and dress codes. Students transitioned away from older campus traditions   and established new ones. Many students (and faculty) protested the escalation of U.S.   troops serving in Vietnam.</p>
+      <p>While these national trends were in evidence at the State University of New York at Albany,   other institution-specific developments also affected campus life. The school became a State   University of New York (SUNY) University Center in 1962, opened its expanded Uptown Campus   for classes in the Fall of 1966 and the size of the student body grew exponentially and   became more diverse. As a result, administrators and faculty no longer shared personal   connections with as many students, severely affecting two-way communication. The University   also responded to the heterogeneity of the student population. Then President Evan R.   Collins created the Afro-American Studies department in January 1969 in direct response to   demands by an increasing African-American student population, led by the Black Student   Alliance, for entry level courses in Afro-American studies. The new department offered its   first courses in Fall 1969. The following year, the Department of Judaic Studies opened.</p>
+      <p>On October 15, 1969, the State University of New York at Albany participated in   events for a national Vietnam Moratorium day. The University held a twenty-four hour vigil   during which the names of those killed in the Vietnam War were read on the academic podium.   Speeches and workshops also were held.</p>
+      <p>During March 1970, the State University of New York at Albany did not renew the two-year   contract of popular assistant professor Gerard Wagner of the Department of Rhetoric and   Public Address. As part of reaction to this news, students protested, some broke windows and   others occupied the halls outside of Acting President Allan A. Kuusito's office.</p>
+      <p>In the early spring of 1970, African-American faculty and students submitted several   proposals addressing racism on campus to the administration. Proposals included seeking   better representation of black students among Resident Assistants, hiring of black food   service workers, and issuance of guidelines to existing staff and faculty about treating all   students equally. These groups also documented reports of racial incidents on campus. This   communication was one part of an ongoing discussion of race relations on the campus. In   April 1970 African-American students became angered at the policy of checking student   identification in order to eat in the cafeteria resulting in two incidents in the Colonial   Quad dining room. According to students, this policy of strict identification checking was   not the norm in Colonial Quad and some believed that African-American students were unfairly   singled out. In the more volatile, second incident, approximately 75 students allegedly   assaulted a cafeteria supervisor, broke windows, threw food and upturned tables.</p>
+      <p>Students overall also demanded greater participation in University decision making, especially   following the anger over the contract renewal debate about Gerard Wagner. In response, the   University suspended classes and held two Dialogue Days in March of 1970 where students   attended workshops such as "Legal Procedures - Amnesty for Students," "Racism on Campus,"   and "50-50 Faculty-Student Control of the University." Departments held meetings with   students and the Library invited students to come by at any time to meet, convene or suggest   ideas. As part of the dialogue with faculty and administration, students aired grievances   about many aspects of University life from the University Senate (more student   representation necessary) to the Library (request for one central circulation desk) to   advising services (inadequate).</p>
+      <p>Other sources of tension on campus during 1969-1970 prompted additional student activism.   These included a women's group's ultimately unsuccessful attempt to establish an on-campus   child care facility, conflict with the academic calendar and religious holidays, drug   arrests by police and a People's Park demonstration which delayed construction of two courtyards on the academic podium.</p>
+      <p>The events of this volatile school year culminated in May 1970 when the Nixon   Administration announced U.S. troop movement into Cambodia, touching off unrest at campuses   across the country, helping lead to the shootings at Kent State on May 4. State University   of New York at Albany students protested and demonstrated their anger by vandalizing the   Library on the night of May 4. On May 6, 1500-2000 students gathered en masse and marched to   downtown Albany where the group burned an effigy of President Richard Nixon and listened to   speeches. Other disruptions of regular campus activities in the days following Kent State   included bomb scares, the throwing of fire bombs and Molotov cocktails, destruction of   campus property in addition to the Library, fires in residence halls and repeated false fire   alarms. The University also canceled several events including Alumni Day, Parents Weekend   and a University Community Symphony Orchestra. Many students did not attend classes at the   end of the semester. Some elected to strike because of the myriad of immediate events, the   many fire alarms disrupted classes and some students cited fear for their personal safety as   a reason for leaving campus before the semester officially ended. As a result, President   Kuusito issued special guidelines and alternatives to faculty on May 12, 1970 regarding the   completion of course work during a crisis.</p>
+      <p>Compared to other colleges and universities in the SUNY system, the State University of New   York at Albany experienced less vandalism and damage on campus than other schools during   1969-1970. According to a report prepared by John J. Mather, assistant to SUNY Chancellor   Samuel B. Gould, and issued in July 1970, the total amount of damages at 26 SUNY schools for   1969-1970 was $518,000. Albany's share was only $85,000 compared to $233,000 at SUNY   Buffalo. The bulk of damage occurred on and immediately after May 4, 1970.</p>
     </bioghist>
     <scopecontent>
       <head>Scope and Content Information</head>
-      <p>This is an artificial collection, including correspondence, newspaper clippings, and fliers
-        and printed materials, predominantly from 1969–1970, collected to document unrest on the
-        State University of New York at Albany campus and at other institutions across the country.
-        The majority of the material from the University at Albany details events from the Spring
-        Semester 1970. Alice Hastings, the University Librarian, Fredericks Volkwein, Assistant Dean
-        of Graduate Studies, and Dr. Frederick D. Weinstein of the School of Library Science
-        gathered the collection as background information for a 1971 report on campus unrest at the
-        request of the Acting Vice President for Academic Affairs. The report is found in Series
-        1.</p>
-      <p>Of interest to researchers may be shards of glass resulting from the vandalism and unrest
-        on the University at Albany campus following the Kent State shootings on May 4, 1970.</p>
-      <p>For researchers interested in more materials on campus unrest, please see the following
-        related collections: John J. Mather Papers (APAP-107) Series 2, Subseries 1 and the Vietnam
-        War Collection (UA-950.006).  Please see the Department of Africana Studies Records for materials related to the introduction of Afro-American Studies at the university.</p>
+      <p>This is an artificial collection, including correspondence, newspaper clippings, and fliers   and printed materials, predominantly from 19691970, collected to document unrest on the   State University of New York at Albany campus and at other institutions across the country.   The majority of the material from the University at Albany details events from the Spring   Semester 1970. Alice Hastings, the University Librarian, Fredericks Volkwein, Assistant Dean   of Graduate Studies, and Dr. Frederick D. Weinstein of the School of Library Science   gathered the collection as background information for a 1971 report on campus unrest at the   request of the Acting Vice President for Academic Affairs. The report is found in Series   1.</p>
+      <p>Of interest to researchers may be shards of glass resulting from the vandalism and unrest   on the University at Albany campus following the Kent State shootings on May 4, 1970.</p>
+      <p>For researchers interested in more materials on campus unrest, please see the following   related collections: John J. Mather Papers (APAP-107) Series 2, Subseries 1 and the Vietnam   War Collection (UA-950.006). Please see the Department of Africana Studies Records for materials related to the introduction of Afro-American Studies at the university.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement>
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series:</p>
-      <list type="simple">
-        <item>Series 1 - Unrest at the University at Albany, 1968-1972, Undated</item>
-        <item>Series 2 - Unrest at Universities Across the Country, 1967-1971</item>
-      </list>
+      <p>Series 1 - Unrest at the University at Albany, 1968-1972, Undated</p>
+      <p>Series 2 - Unrest at Universities Across the Country, 1967-1971</p>
       <p>All series are arranged alphabetically by subject.</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-           Try to give as many access points as you can to increase the chances of 
-           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-           to comment them out! -->
+    <acqinfo>
+      <head>Acquisition Information</head>
+      <p>The collection was gathered as background information for a 1971 report on campus unrest at   the request of the Acting Vice President for Academic Affairs by the University Librarian,   Alice Hastings, Fredericks Volkwein, Assistant Dean of Graduate Studies, and Dr. Frederick   D. Weinstein of the School of Library Science.</p>
+    </acqinfo>
+    <relatedmaterial>
+      <p>Related collections in the M.E. Grenander Department of Special Collections and Archives
+        can be found in the subject guide for Criminal Justice and Prisons.</p>
+    </relatedmaterial>
+    <accessrestrict>
+      <head>Access</head>
+      <p>Access to this record group is unrestricted.</p>
+    </accessrestrict>
+    <userestrict>
+      <head>Copyright</head>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright.   Whenever possible, the M.E. Grenander Department of Special Collections and Archives will   provide information about copyright owners and other restrictions, but the legal   determination ultimately rests with the researcher. Requests for permission to publish   material from this collection should be discussed with the Head of Special Collections and   Archives.</p>
+    </userestrict>
+    <prefercite>
+      <head>Preferred Citation</head>
+      <p>Preferred citation for this material is as follows:</p>
+      <p>Identification of specific item, series, Box, Folder, Campus Unrest Collection, 1967-1972.   M.E. Grenander Department of Special Collections and Archives, University Libraries,   University at Albany, State University of New York (hereafter referred to as the Campus   Unrest Collection).</p>
+    </prefercite>
     <controlaccess>
       <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Military and Armed Conflict</subject>
+      <subject encodinganalog="650" source="meg">Military and Armed Conflict</subject>
       <corpname encodinganalog="610" source="lcsh">State University of New York at Albany</corpname>
       <corpname encodinganalog="610" source="lcsh">Columbia University</corpname>
       <corpname encodinganalog="610" source="lcsh">Syracuse University</corpname>
@@ -210,48 +115,27 @@
       <genreform encodinganalog="655" source="aat">Files by subject</genreform>
       <genreform encodinganalog="655" source="aat">Fliers (pritned matter)</genreform>
     </controlaccess>
-    <prefercite encodinganalog="524">
-      <head>Preferred Citation</head>
-      <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, Box, Folder, Campus Unrest Collection, 1967-1972.
-        M.E. Grenander Department of Special Collections and Archives, University Libraries,
-        University at Albany, State University of New York (hereafter referred to as the Campus
-        Unrest Collection).</p>
-    </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
     <dsc type="combined">
-      <!-- Start series 1-->
       <head>Container List</head>
-      <c01 level="series" id="nam_ua950.007-1">
+      <c01 id="nam_ua950.007-1" level="series">
         <did>
           <unitid>1</unitid>
           <unittitle label="Series">Unrest at the University at Albany</unittitle>
-          <physdesc>
-            <extent unit="cubic ft.">1.3</extent>
-          </physdesc>
-          <unitdate normal="1968/1972" type="inclusive">1968-1972</unitdate>
-          <unitdate normal="1967/1972" type="inclusive">Undated</unitdate>
+          <unitid>1</unitid>
+          <unitdate calendar="gregorian" era="ce" normal="1968/1972" type="inclusive">1968-1972</unitdate>
         </did>
         <arrangement>
-          <p> Arranged alphabetically. </p>
+          <p>Arranged alphabetically.</p>
         </arrangement>
         <scopecontent>
-          <p>This series contains reports, newspapers and clippings, correspondence, flyers, meeting minutes and notes documenting tension and unrest at the State University of New York at Albany.  The bulk of material is from the 1969-1970 academic year and was created by University students, faculty, staff and administrators.</p>
+          <p>This series contains reports, newspapers and clippings, correspondence, flyers, meeting minutes and notes documenting tension and unrest at the State University of New York at Albany. The bulk of material is from the 1969-1970 academic year and was created by University students, faculty, staff and administrators.</p>
         </scopecontent>
         <c02 id="nam_ua950.007-1_1">
           <did>
             <container type="Box">1</container>
             <container type="Folder">1</container>
             <unittitle>Academic Credit for Cancelled Classes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970-05/1970-06">1970 May-1970 June</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1970-05/1970-06">1970 May-1970 June</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_2">
@@ -259,7 +143,7 @@
             <container type="Box">1</container>
             <container type="Folder">2</container>
             <unittitle>Administrative Evaluation of Crisis</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970-06">1970 June</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1970-06">1970 June</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_3">
@@ -267,8 +151,7 @@
             <container type="Box">1</container>
             <container type="Folder">3</container>
             <unittitle>Black Panthers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965/1975">ca.
- 1970</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1965/1975">ca. 1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_4">
@@ -276,7 +159,7 @@
             <container type="Box">1</container>
             <container type="Folder">4</container>
             <unittitle>Campus Disorder Study by Professor Brown</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1970">1969-1970</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1969/1970">1969-1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_5">
@@ -284,8 +167,8 @@
             <container type="Box">1</container>
             <container type="Folder">5</container>
             <unittitle>Campus Unrest Report by J. Fredericks Volkwein</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970-12-10">1970 December 10</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971-01-05">1971 January 05</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1970-12-10">1970 December 10</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1971-01-05">1971 January 05</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_6">
@@ -293,7 +176,7 @@
             <container type="Box">1</container>
             <container type="Folder">6</container>
             <unittitle>Communications/Community Relations</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970-03/1970-04">1970 March-1970 April</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1970-03/1970-04">1970 March-1970 April</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_7">
@@ -301,9 +184,9 @@
             <container type="Box">1</container>
             <container type="Folder">7</container>
             <unittitle>Communications/Community Relations</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970-05/1970-06">1970 May-1970 June</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1972">Undated</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1970-05/1970-06">1970 May-1970 June</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1971">1971</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1968/1972">Undated</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_8">
@@ -311,8 +194,8 @@
             <container type="Box">1</container>
             <container type="Folder">8</container>
             <unittitle>Curriculum and Grading</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1972">Undated</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1968/1972">Undated</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_9">
@@ -320,7 +203,7 @@
             <container type="Box">1</container>
             <container type="Folder">9</container>
             <unittitle>Day Care Center-Women's Liberation Front</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_10">
@@ -328,7 +211,7 @@
             <container type="Box">1</container>
             <container type="Folder">10</container>
             <unittitle>Dialogue Days-Departmental Meetings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970-03-19/1970-03-20">1970 March 19-1970 March 20</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1970-03-19/1970-03-20">1970 March 19-1970 March 20</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_11">
@@ -336,7 +219,7 @@
             <container type="Box">1</container>
             <container type="Folder">11</container>
             <unittitle>Dialogue Days-Memorandum</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970-03-19/1970-03-20">1970 March 19-1970 March 20</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1970-03-19/1970-03-20">1970 March 19-1970 March 20</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_12">
@@ -344,7 +227,7 @@
             <container type="Box">1</container>
             <container type="Folder">12</container>
             <unittitle>Dialogue Days-Plenary Session</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970-05-21">1970 May 21</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1970-05-21">1970 May 21</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_13">
@@ -352,7 +235,7 @@
             <container type="Box">1</container>
             <container type="Folder">13</container>
             <unittitle>Dialogue Days-Recommendations</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_14">
@@ -360,7 +243,7 @@
             <container type="Box">1</container>
             <container type="Folder">14</container>
             <unittitle>Dialogue Days-Suggestions</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_15">
@@ -368,7 +251,7 @@
             <container type="Box">1</container>
             <container type="Folder">15</container>
             <unittitle>Dialogue Days-Workshops</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970-03-19/1970-03-20">1970 March 19-1970 March 20</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1970-03-19/1970-03-20">1970 March 19-1970 March 20</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_16">
@@ -376,7 +259,7 @@
             <container type="Box">1</container>
             <container type="Folder">16</container>
             <unittitle>Faculty Activities</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1970">1968-1970</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1968/1970">1968-1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_17">
@@ -384,7 +267,7 @@
             <container type="Box">1</container>
             <container type="Folder">17-18</container>
             <unittitle>Faculty Meetings and Resolutions</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_18">
@@ -392,252 +275,298 @@
             <container type="Box">1</container>
             <container type="Folder">19</container>
             <unittitle>Faculty Writings and Campus Unrest</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1970">1969-1970</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1969/1970">1969-1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_19">
           <did>
-            <container type="Box">1</container>
+            <container type="Box">2</container>
             <container type="Folder">20</container>
-            <unittitle>Federal Government Correspondence and Reports</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1972">Undated</unitdate>
+            <unittitle>FBI Airmail Correspondence</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1967/1976">1967-1976</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_20">
           <did>
             <container type="Box">1</container>
             <container type="Folder">21</container>
-            <unittitle>Legislative Correspondence and Reports</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unittitle>FBI Investigation and Correspondence</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1939/1941">1939-1941</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_21">
           <did>
             <container type="Box">1</container>
             <container type="Folder">22</container>
-            <unittitle>Liberation Classes (Strike School)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unittitle>FBI Investigation and Correspondence</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1942/1947">1942-1947</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_22">
           <did>
             <container type="Box">1</container>
             <container type="Folder">23</container>
-            <unittitle>Library Vandalism</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unittitle>FBI Investigation and Correspondence</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1948/1957">1948-1957</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_23">
           <did>
             <container type="Box">1</container>
             <container type="Folder">24</container>
-            <unittitle>Logs of Campus Unrest (Schedules)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970-03">1970 Spring</unitdate>
+            <unittitle>FBI Investigation and Correspondence</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1964/1968">1964-1968</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_24">
           <did>
-            <container type="Oversized">1</container>
-            <container type="Folder">1</container>
-            <unittitle>Newspapers -<emph render="italic">Albany Student Press</emph></unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970-03/1970-10">1970 March-1970 October</unitdate>
+            <container type="Box">1</container>
+            <container type="Folder">25</container>
+            <unittitle>FBI Investigation and Correspondence</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969/1979">1969-1979</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_25">
           <did>
             <container type="Box">1</container>
-            <container type="Folder">25</container>
-            <unittitle>Newspaper Clippings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1971">1969-1971</unitdate>
+            <container type="Folder">26</container>
+            <unittitle>Federal Government Correspondence and Reports</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1968/1972">Undated</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_26">
           <did>
             <container type="Box">1</container>
-            <container type="Folder">26</container>
-            <unittitle>Newspapers - Panther 21/New York 21 Trial News</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970-10/1971-02">1970 October-1971 February</unitdate>
+            <container type="Folder">27</container>
+            <unittitle>Legislative Correspondence and Reports</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_27">
           <did>
-            <container type="Oversized">1</container>
-            <container type="Folder">2</container>
-            <unittitle>Newspapers - Protests/Small Press Newspapers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1970">1969-1970</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1972">Undated</unitdate>
+            <container type="Box">1</container>
+            <container type="Folder">28</container>
+            <unittitle>Liberation Classes (Strike School)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_28">
           <did>
-            <container type="Oversized">1</container>
-            <container type="Folder">3</container>
-            <unittitle>Newspapers -<emph render="italic">Tower Tribune</emph></unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970-04/1970-07">1970 April-1970 July</unitdate>
+            <container type="Box">1</container>
+            <container type="Folder">29</container>
+            <unittitle>Library Vandalism</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_29">
           <did>
             <container type="Box">1</container>
-            <container type="Folder">27</container>
-            <unittitle>Peoples Park (Protest of Construction on Campus)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <container type="Folder">30</container>
+            <unittitle>Logs of Campus Unrest (Schedules)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1970-03">1970 Spring</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_30">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">28</container>
-            <unittitle>Presidential and Administrative Memos to the Campus Community</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970-03/1970-06">1970 March-1970 June</unitdate>
+            <container type="Oversized">1</container>
+            <container type="Folder">31</container>
+            <unittitle>Newspapers -<emph render="italic">Albany Student Press</emph></unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1970-03/1970-10">1970 March-1970 October</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_31">
           <did>
             <container type="Box">1</container>
-            <container type="Folder">29</container>
-            <unittitle>Racial Incidents</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1970">1969-1970</unitdate>
+            <container type="Folder">32</container>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969/1971">1969-1971</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_32">
           <did>
             <container type="Box">1</container>
-            <container type="Folder">30</container>
-            <unittitle>Referendum</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1970">1969-1970</unitdate>
+            <container type="Folder">33</container>
+            <unittitle>Newspapers - Panther 21/New York 21 Trial News</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1970-10/1971-02">1970 October-1971 February</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_33">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">31</container>
-            <unittitle>Rules for the Maintenance of Public Order (SUNY Regulations)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1970">1969-1970</unitdate>
+            <container type="Oversized">1</container>
+            <container type="Folder">34</container>
+            <unittitle>Newspapers - Protests/Small Press Newspapers</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969/1970">1969-1970</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1968/1972">Undated</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_34">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">32</container>
-            <unittitle>Security</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1970">1969-1970</unitdate>
+            <container type="Oversized">1</container>
+            <container type="Folder">35</container>
+            <unittitle>Newspapers -<emph render="italic">Tower Tribune</emph></unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1970-04/1970-07">1970 April-1970 July</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_35">
           <did>
             <container type="Box">1</container>
-            <container type="Folder">33</container>
-            <unittitle>State Education Department Memorandum and Statements</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <container type="Folder">36</container>
+            <unittitle>Peoples Park (Protest of Construction on Campus)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_36">
           <did>
             <container type="Box">1</container>
-            <container type="Folder">34-35</container>
-            <unittitle>Student and Protest Writings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1972">1969-1972</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1972">Undated</unitdate>
+            <container type="Folder">37</container>
+            <unittitle>Presidential and Administrative Memos to the Campus Community</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1970-03/1970-06">1970 March-1970 June</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_37">
           <did>
             <container type="Box">1</container>
-            <container type="Folder">36</container>
-            <unittitle>Student Disciplinary Proceedings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1970">1968-1970</unitdate>
+            <container type="Folder">38</container>
+            <unittitle>Racial Incidents</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969/1970">1969-1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_38">
           <did>
             <container type="Box">1</container>
-            <container type="Folder">37</container>
-            <unittitle>Student Flyers and Notices</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1971">1969-1971</unitdate>
+            <container type="Folder">39</container>
+            <unittitle>Referendum</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969/1970">1969-1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_39">
           <did>
             <container type="Box">1</container>
-            <container type="Folder">38</container>
-            <unittitle>Student Flyers and Notices</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1972">Undated</unitdate>
+            <container type="Folder">40</container>
+            <unittitle>Rules for the Maintenance of Public Order (SUNY Regulations)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969/1970">1969-1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_40">
           <did>
             <container type="Box">1</container>
-            <container type="Folder">39</container>
-            <unittitle>Student Housing</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <container type="Folder">41</container>
+            <unittitle>Security</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969/1970">1969-1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_41">
           <did>
             <container type="Box">1</container>
-            <container type="Folder">40</container>
-            <unittitle>Student Petitions</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1970">1969-1970</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1972">Undated</unitdate>
+            <container type="Folder">42</container>
+            <unittitle>State Education Department Memorandum and Statements</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_42">
           <did>
             <container type="Box">1</container>
-            <container type="Folder">41</container>
-            <unittitle>Temporary State Commission to Study Causes of Campus Unrest</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1970">1969-1970</unitdate>
+            <container type="Folder">43</container>
+            <unittitle>Student and Protest Writings</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969/1972">1969-1972</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1968/1972">Undated</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_43">
           <did>
             <container type="Box">1</container>
-            <container type="Folder">42</container>
-            <unittitle>Tenure Disputes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1970">1969-1970</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1972">Undated</unitdate>
+            <container type="Folder">44</container>
+            <unittitle>Student Disciplinary Proceedings</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1968/1970">1968-1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_44">
           <did>
             <container type="Box">1</container>
-            <container type="Folder">43</container>
-            <unittitle>Vietnam Moratorium Day</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969-10-15">1969 October 15</unitdate>
+            <container type="Folder">45</container>
+            <unittitle>Student Flyers and Notices</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969/1971">1969-1971</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-1_45">
           <did>
             <container type="Box">1</container>
-            <container type="Folder">44</container>
+            <container type="Folder">46</container>
+            <unittitle>Student Flyers and Notices</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1968/1972">Undated</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua950.007-1_46">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">47</container>
+            <unittitle>Student Housing</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua950.007-1_47">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">48</container>
+            <unittitle>Student Petitions</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969/1970">1969-1970</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1968/1972">Undated</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua950.007-1_48">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">49</container>
+            <unittitle>Temporary State Commission to Study Causes of Campus Unrest</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969/1970">1969-1970</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua950.007-1_49">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">50</container>
+            <unittitle>Tenure Disputes</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969/1970">1969-1970</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1968/1972">Undated</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua950.007-1_50">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">51</container>
+            <unittitle>Vietnam Moratorium Day</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969-10-15">1969 October 15</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua950.007-1_51">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">52</container>
             <unittitle>Vietnam War - Writings and Pamphlets</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1972">Undated</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1968/1972">Undated</unitdate>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_ua950.007-2">
+      <c01 id="nam_ua950.007-2" level="series">
         <did>
           <unitid>2</unitid>
           <unittitle label="Series">Unrest at Universities Across the Country</unittitle>
-          <physdesc>
-            <extent unit="cubic ft.">0.53</extent>
-          </physdesc>
-          <unitdate normal="1967/1971" type="inclusive">1967-1971</unitdate>
+          <unitid>2</unitid>
+          <unitdate calendar="gregorian" era="ce" normal="1967/1971" type="inclusive">1967-1971</unitdate>
         </did>
         <arrangement>
-          <p> Arranged alphabetically. </p>
+          <p>Arranged alphabetically.</p>
         </arrangement>
         <scopecontent>
-          <p>In the summer of 1970, Alice Hasting sent inquiries to other universities asking for background materials documenting the "student unrest movement" on their respecitve campuses.  This series contains the results she received including general information about unrest at colleges and universities across the United States.  There also are folders devoted to the University at Buffalo, Columbia University, Yale University, the University of Chicago, the University of Michigan and the University of Wisconsin.  The series contains correspondence, reports, newspapers and clippings.  </p>
+          <p>In the summer of 1970, Alice Hasting sent inquiries to other universities asking for background materials documenting the "student unrest movement" on their respecitve campuses. This series contains the results she received including general information about unrest at colleges and universities across the United States. There also are folders devoted to the University at Buffalo, Columbia University, Yale University, the University of Chicago, the University of Michigan and the University of Wisconsin. The series contains correspondence, reports, newspapers and clippings.</p>
         </scopecontent>
         <c02 id="nam_ua950.007-2_1">
           <did>
             <container type="Box">2</container>
             <container type="Folder">1</container>
             <unittitle>Columbia University</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968">1968</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1968">1968</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-2_2">
@@ -645,26 +574,23 @@
             <container type="Box">2</container>
             <container type="Folder">2</container>
             <unittitle>Correspondence Requesting Materials</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-2_3">
           <did>
             <container type="Oversized">1</container>
             <container type="Folder">4</container>
-            <unittitle>
-              <emph render="italic">Illinois Alumni News</emph>
-            </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unittitle><emph render="italic">Illinois Alumni News</emph></unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-2_4">
           <did>
             <container type="Box">2</container>
             <container type="Folder">3</container>
-            <unittitle>National Association of State University and Land Grant Colleges
-              (NASULGC)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1970">1969-1970</unitdate>
+            <unittitle>National Association of State University and Land Grant Colleges (NASULGC)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969/1970">1969-1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-2_5">
@@ -672,7 +598,7 @@
             <container type="Box">2</container>
             <container type="Folder">4</container>
             <unittitle>Pamphlet: Control of Student Disorders by Raymond Momboisse</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968">1968</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1968">1968</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-2_6">
@@ -680,7 +606,7 @@
             <container type="Box">2</container>
             <container type="Folder">5</container>
             <unittitle>Publications</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968">1968</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1968">1968</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-2_7">
@@ -688,17 +614,15 @@
             <container type="Box">2</container>
             <container type="Folder">6</container>
             <unittitle>Stanford University</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-2_8">
           <did>
             <container type="Oversized">1</container>
             <container type="Folder">5</container>
-            <unittitle>
-              <emph render="italic">State University of New York News</emph>
-            </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unittitle><emph render="italic">State University of New York News</emph></unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-2_9">
@@ -706,7 +630,7 @@
             <container type="Box">2</container>
             <container type="Folder">7</container>
             <unittitle>Syracuse University</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-2_10">
@@ -714,7 +638,7 @@
             <container type="Box">2</container>
             <container type="Folder">8-9</container>
             <unittitle>University at Buffalo</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-2_11">
@@ -722,7 +646,7 @@
             <container type="Box">3</container>
             <container type="Folder">1</container>
             <unittitle>University of Chicago</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-2_12">
@@ -730,7 +654,7 @@
             <container type="Box">3</container>
             <container type="Folder">2</container>
             <unittitle>University of Illinois</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1970">1969-1970</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1969/1970">1969-1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-2_13">
@@ -738,7 +662,7 @@
             <container type="Box">3</container>
             <container type="Folder">3</container>
             <unittitle>University of Michigan</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-2_14">
@@ -746,7 +670,7 @@
             <container type="Box">3</container>
             <container type="Folder">4</container>
             <unittitle>University of Wisconsin at Madison</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970/1971">1970-1971</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1970/1971">1970-1971</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-2_15">
@@ -754,7 +678,7 @@
             <container type="Box">3</container>
             <container type="Folder">5</container>
             <unittitle>Writings (General)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/1970">1967-1970</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1967/1970">1967-1970</unitdate>
           </did>
         </c02>
         <c02 id="nam_ua950.007-2_16">
@@ -762,7 +686,7 @@
             <container type="Box">3</container>
             <container type="Folder">6</container>
             <unittitle>Yale University</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
           </did>
         </c02>
       </c01>
