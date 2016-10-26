@@ -1,6 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
-<?xml-stylesheet type='text/xsl' href='collection-level.xsl'?> 
-<!DOCTYPE ead SYSTEM 'ead.dtd'>
 <ead id="nam_ua902.032">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
     <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua902.032.html">nam_ua902.032</eadid>
@@ -50,10 +48,10 @@
         <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
       </repository>
     </did>
-	<acqinfo>
-	<head>Acquisition Information</head>
-	<p>All items in this record group were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by Theodore Fossieck.</p>
-	</acqinfo>
+    <acqinfo>
+      <head>Acquisition Information</head>
+      <p>All items in this record group were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by Theodore Fossieck.</p>
+    </acqinfo>
     <bioghist>
       <head>Biographical History</head>
       <p>Theodore Fossieck was the principal of Milne from 1948-1972, and therefore, spanned many years as the chief administrator. He was very active in school functions and was liked by the students, based on his presence at many school reunions after the closing of Milne. He retired in 1972, amidst the pressure on the school to accept more diverse applicants, as well as severe budget cuts in the SUNY system that would lead to the closing of the Milne school in 1977.</p>
@@ -86,6 +84,7 @@
     </prefercite>
     <controlaccess>
       <head>Subject and Genre Headings</head>
+      <subject source="meg" encodinganalog="650">Albany, New York</subject>
       <subject encodinganalog="650" source="meg">Education</subject>
       <subject encodinganalog="650" source="lcsh">Education, Secondary</subject>
       <subject encodinganalog="650" source="lcsh">School Principals</subject>
