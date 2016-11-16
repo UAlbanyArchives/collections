@@ -1,6 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
-<?xml-stylesheet type='text/xsl' href='collection-level.xsl'?> 
-<!DOCTYPE ead SYSTEM 'ead.dtd'>
 <ead id="nam_ger072">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
     <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ger072.html">nam_ger072</eadid>
@@ -59,6 +57,8 @@
       <p>After being officially deprived of his German citizenship and sentenced to death in absentia in 1939, Paetel was next interned in Roland Gaross-Damigny-Bassance, a French prisoner-of-war camp (February-June 1940). After his release from the camp, he fled through France to Lisbon, Portugal, and sailed in December 1940 to the United States.</p>
       <p>Paetel arrived in New York City on January 13, 1941. Over the next several years, he held positions for the Office of European Economic Research and the Army Service Force, Morale Services Division of the War Department. He also performed research tasks for other writers, American institutes and agencies and continued to write on his own. His publications during these years included Nazi-Deutsch: A Glossary of Contemporary German Usage (with Heinz Paechter, Bertha Hellman, Hedwig Paechter, 1944), Ernst Jnger: Die Wandlung eines deutschen Dichters und Patrioten (1946), Deutsche innere Emigration: Anti-Nationalsozialistische Zeugnisse aus Deutschland (1946), Ernst Jnger: Weg und Wirkung: Eine Erfllung (1949), and Ernst Jnger: Eine Bibliographie (1953).</p>
       <p>Paetel's interest in the radical movements of the day continued throughout his lifetime and is reflected in his writings. These movements included National Bolshevism (Nationalbolschewismus), a movement describing a group of individuals who were nationalists in the political sense, but socialists in economic terms; in 1965 Paetel published a history of National Bolshevism in German entitled Versuchung oder Chance? His interest in individuals, who did not fit into neat political or social categories, led to his interest in the American Beat movement and especially writer, Jack Kerouac, a leading beat poet; Paetels Beat Anthologie (1962) is one of the earliest publications on the American Beat Generation. Another prominent interest in his life, especially after 1933 and his escape from Nazi Germany, was German resistance to National Socialism (Widerstand) and exile. Das Dritte Reich und seine Gegner is only one example of his many writings on the topic of resistance.</p>
+      <dao linktype="simple" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/ger072/containerList.html" title="Chronology of Events" actuate="onrequest" show="new"/>
+      <dao linktype="simple" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/ger072/containerList.html#bibliography" title="Bibliography of Published Writings" actuate="onrequest" show="new"/>
     </bioghist>
     <scopecontent>
       <head>Scope and Content Information</head>
@@ -68,8 +68,6 @@
       <p>The manuscript section contains manuscripts of both Paetel's published and unpublished writings. Included are manuscripts of several of his major published works, numerous essayistic pieces, as well as several volumes in planning stages. The publications section contains originals (many as clippings) and copies of Paetel's publications, including a nearly complete set of his essayistic writings and numerous reviews in newspapers, periodicals and books.</p>
       <p>In his capacity as editor of several periodicals, including Deutsche Bltter, Deutsche Gegenwart and Gesprchsfetzen, Paetel received manuscripts from other writers. The section containing manuscripts by others includes shorter manuscripts by such authors as Paul Amann, Heinz Gollong, Alfred Gong, Paul Hagen, Werner Kindt, Th. Kgler and Robert Koehl and longer manuscripts by Michael Wurmbrand and Frederic McLean.</p>
       <p>Of significant interest in the collection are Paetel's collections of materials on various topics, including sizable collections on Ernst Jnger, Heinz Gollong, Widerstand and Jugendbewegung. The various topics are supplemented by the additional materials, which are located in both the pamphlet and the periodicals collections.</p>
-	  <dao linktype="simple" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/ger072/containerList.html#chronology" title="Chronology of Events" actuate="onrequest" show="new"/>
-	  <dao linktype="simple" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/ger072/containerList.html#bibliography" title="Bibliography of Published Writings" actuate="onrequest" show="new"/>
     </scopecontent>
     <arrangement>
       <head>Arrangement of the Collection</head>
@@ -97,6 +95,8 @@
     </prefercite>
     <controlaccess>
       <head>Subject and Genre Headings</head>
+      <subject source="meg" encodinganalog="650">Military and Armed Conflict</subject>
+      <subject source="meg" encodinganalog="650">Literature</subject>
       <subject encodinganalog="650" source="meg">Politics and Politicians</subject>
       <subject encodinganalog="650" source="meg">Social Activists and Public Advocates</subject>
       <subject encodinganalog="650" source="lcsh">Exiles' writings, German.</subject>
