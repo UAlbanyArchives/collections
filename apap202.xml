@@ -1,6 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
-<?xml-stylesheet type='text/xsl' href='collection-level.xsl'?> 
-<!DOCTYPE ead SYSTEM 'ead.dtd'>
 <ead id="nam_apap202">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
     <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/apap202.html">nam_apap202</eadid>
@@ -176,7 +174,7 @@
           <did>
             <container type="Box">2</container>
             <container type="Folder">2</container>
-            <unittitle>Publications - New York State Department of Social Services - <emph render='italic'>AIDS Update</emph>(Newsletter)</unittitle>
+            <unittitle>Publications - New York State Department of Social Services - <emph render="italic">AIDS Update</emph>(Newsletter)</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1987/1992">1987-1992</unitdate>
           </did>
         </c02>
@@ -184,7 +182,7 @@
           <did>
             <container type="Box">2</container>
             <container type="Folder">3</container>
-            <unittitle>Publications - New York State Department of Health AIDS Institute (NYSDOHAI) - <emph render='italic'>Focus on AIDS in New York State</emph>(Newsletter)</unittitle>
+            <unittitle>Publications - New York State Department of Health AIDS Institute (NYSDOHAI) - <emph render="italic">Focus on AIDS in New York State</emph>(Newsletter)</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1991/1992">1991-1992</unitdate>
           </did>
         </c02>
@@ -236,7 +234,7 @@
           <unitdate calendar="gregorian" era="ce" normal="1992/1996" type="inclusive">1992-1996</unitdate>
         </did>
         <scopecontent>
-          <p>This series contains drafts and published copies of Dr. Rosenthal's academic work on the subjects of gay community activism and the AIDS crisis, including articles in <emph render='italic'>Urban Affairs Review and Polity</emph>and an address to the American Political Science Association. Items are organized alphabetically by title.</p>
+          <p>This series contains drafts and published copies of Dr. Rosenthal's academic work on the subjects of gay community activism and the AIDS crisis, including articles in <emph render="italic">Urban Affairs Review and Polity</emph>and an address to the American Political Science Association. Items are organized alphabetically by title.</p>
         </scopecontent>
         <c02 id="nam_apap202-2_1">
           <did>
@@ -258,7 +256,7 @@
           <did>
             <container type="Box">3</container>
             <container type="Folder">4</container>
-            <unittitle>"Gay and Lesbian Political Mobilization and Regime Responsiveness in Four New York Cities." <emph render='italic'>Urban Affairs Review</emph>Vol. 32, No. 1 (article photocopy and 3 drafts)</unittitle>
+            <unittitle>"Gay and Lesbian Political Mobilization and Regime Responsiveness in Four New York Cities." <emph render="italic">Urban Affairs Review</emph>Vol. 32, No. 1 (article photocopy and 3 drafts)</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1996-09">1996 September</unitdate>
           </did>
         </c02>
@@ -266,7 +264,7 @@
           <did>
             <container type="Box">3</container>
             <container type="Folder">4</container>
-            <unittitle>"Who 'Owns' AIDS Service Organizations? Governance Accountability in Non-Profit Organizations." <emph render='italic'>Polity</emph>Vol. 29, No. 1 (offprint and 2 drafts)</unittitle>
+            <unittitle>"Who 'Owns' AIDS Service Organizations? Governance Accountability in Non-Profit Organizations." <emph render="italic">Polity</emph>Vol. 29, No. 1 (offprint and 2 drafts)</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1996-09">1996 Fall</unitdate>
           </did>
         </c02>
@@ -344,13 +342,15 @@
           <unitdate calendar="gregorian" era="ce" normal="1982/2004" type="inclusive">1982-2004</unitdate>
         </did>
         <scopecontent>
-          <p>This series consists of material related to the Capital District Gay and Lesbian Community Council (CDGLCC). It consists primarily of an extensive run of the Council's monthly periodical, <emph render='italic'>Community</emph>, which is partial from 1982-1991 and 2001-2003 and complete from 1992-2000. (Note that several issues from the years 1999-2000 are housed in an oversized box at the end of the series.) The series also includes fliers and programs for events held by the Council, news clippings related to the Council and its members, a small assortment of administrative files, and issues of the Council's quarterly member newsletter, <emph render='italic'>MemberNews</emph>.</p>
+          <p>This series consists of material related to the Capital District Gay and Lesbian Community Council (CDGLCC). It consists primarily of an extensive run of the Council's monthly periodical, <emph render="italic">Community</emph>, which is partial from 1982-1991 and 2001-2003 and complete from 1992-2000. (Note that several issues from the years 1999-2000 are housed in an oversized box at the end of the series.) The series also includes fliers and programs for events held by the Council, news clippings related to the Council and its members, a small assortment of administrative files, and issues of the Council's quarterly member newsletter, <emph render="italic">MemberNews</emph>.</p>
         </scopecontent>
         <c02 id="nam_apap202-4_1">
           <did>
             <container type="Box">4</container>
             <container type="Folder">1</container>
-            <unittitle><emph render='italic'>Community</emph></unittitle>
+            <unittitle>
+              <emph render="italic">Community</emph>
+            </unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1982-1991">1982-1991</unitdate>
           </did>
         </c02>
@@ -358,7 +358,9 @@
           <did>
             <container type="Box">4</container>
             <container type="Folder">2</container>
-            <unittitle><emph render='italic'>Community</emph></unittitle>
+            <unittitle>
+              <emph render="italic">Community</emph>
+            </unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1992">1992</unitdate>
           </did>
         </c02>
@@ -366,7 +368,9 @@
           <did>
             <container type="Box">4</container>
             <container type="Folder">3</container>
-            <unittitle><emph render='italic'>Community</emph></unittitle>
+            <unittitle>
+              <emph render="italic">Community</emph>
+            </unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1993">1993</unitdate>
           </did>
         </c02>
@@ -374,7 +378,9 @@
           <did>
             <container type="Box">4</container>
             <container type="Folder">4</container>
-            <unittitle><emph render='italic'>Community</emph></unittitle>
+            <unittitle>
+              <emph render="italic">Community</emph>
+            </unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1994">1994</unitdate>
           </did>
         </c02>
@@ -382,7 +388,9 @@
           <did>
             <container type="Box">4</container>
             <container type="Folder">5</container>
-            <unittitle><emph render='italic'>Community</emph></unittitle>
+            <unittitle>
+              <emph render="italic">Community</emph>
+            </unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1995">1995</unitdate>
           </did>
         </c02>
@@ -390,7 +398,9 @@
           <did>
             <container type="Box">5</container>
             <container type="Folder">1</container>
-            <unittitle><emph render='italic'>Community</emph></unittitle>
+            <unittitle>
+              <emph render="italic">Community</emph>
+            </unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1996">1996</unitdate>
           </did>
         </c02>
@@ -398,7 +408,9 @@
           <did>
             <container type="Box">5</container>
             <container type="Folder">2</container>
-            <unittitle><emph render='italic'>Community</emph></unittitle>
+            <unittitle>
+              <emph render="italic">Community</emph>
+            </unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1997">1997</unitdate>
           </did>
         </c02>
@@ -406,7 +418,9 @@
           <did>
             <container type="Box">5</container>
             <container type="Folder">3</container>
-            <unittitle><emph render='italic'>Community</emph></unittitle>
+            <unittitle>
+              <emph render="italic">Community</emph>
+            </unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1998">1998</unitdate>
           </did>
         </c02>
@@ -414,7 +428,9 @@
           <did>
             <container type="Box">5</container>
             <container type="Folder">4</container>
-            <unittitle><emph render='italic'>Community</emph></unittitle>
+            <unittitle>
+              <emph render="italic">Community</emph>
+            </unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1999">1999</unitdate>
           </did>
         </c02>
@@ -422,7 +438,9 @@
           <did>
             <container type="Box">6</container>
             <container type="Folder">1</container>
-            <unittitle><emph render='italic'>Community</emph></unittitle>
+            <unittitle>
+              <emph render="italic">Community</emph>
+            </unittitle>
             <unitdate calendar="gregorian" era="ce" normal="2000-2003">2000-2003</unitdate>
           </did>
         </c02>
@@ -454,7 +472,7 @@
           <did>
             <container type="Box">6</container>
             <container type="Folder">5</container>
-            <unittitle>Research notes; <emph render='italic'>MemberNews</emph></unittitle>
+            <unittitle>Research notes; <emph render="italic">MemberNews</emph></unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1994-1997">1994-1997</unitdate>
           </did>
         </c02>
@@ -462,7 +480,9 @@
           <did>
             <container type="Oversized">7</container>
             <container type="Folder">1</container>
-            <unittitle><emph render='italic'>Community</emph></unittitle>
+            <unittitle>
+              <emph render="italic">Community</emph>
+            </unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1999-2000">1999-2000</unitdate>
           </did>
         </c02>

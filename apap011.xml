@@ -1,6 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
-<?xml-stylesheet type='text/xsl' href='collection-level.xsl'?> 
-<!DOCTYPE ead SYSTEM 'ead.dtd'>
 <ead id="nam_apap011">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
     <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/apap011.html">nam_apap011</eadid>
@@ -132,6 +130,7 @@ Japhet Zwana </p>
     </prefercite>
     <controlaccess>
       <head>Subject and Genre Headings</head>
+      <subject source="meg" encodinganalog="650">Athletics and Sports</subject>
       <corpname encodinganalog="610" source="lcsh">Capital District Coalition Against Apartheid. Albany Chapter.</corpname>
       <corpname encodinganalog="610" source="lcsh">National Association for the Advancement of Colored People.</corpname>
       <subject encodinganalog="650" source="lcsh">Apartheid -- South Africa.</subject>
@@ -151,7 +150,7 @@ Japhet Zwana </p>
       <c01 id="nam_apap011-1" level="series">
         <did>
           <unitid>1</unitid>
-		  <container type="Reel">1</container>
+          <container type="Reel">1</container>
           <unittitle label="Series">Rugby Demonstration Clippings</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1981/1983" type="inclusive">1981-1983</unitdate>
           <physdesc>
@@ -268,7 +267,7 @@ Japhet Zwana </p>
       <c01 id="nam_apap011-5" level="series">
         <did>
           <unitid>5</unitid>
-		  <container type="Reel">4</container>
+          <container type="Reel">4</container>
           <unittitle label="Series">News Clippings and Coalition Events</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1982/1985" type="inclusive">1982-1985</unitdate>
           <physdesc>
@@ -282,7 +281,7 @@ Japhet Zwana </p>
       <c01 id="nam_apap011-6" level="series">
         <did>
           <unitid>6</unitid>
-		  <container type="Reel">5</container>
+          <container type="Reel">5</container>
           <unittitle label="Series">Police Abuse</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1987/1994" type="inclusive">1987-1994</unitdate>
           <physdesc>
@@ -441,7 +440,7 @@ Japhet Zwana </p>
       <c01 id="nam_apap011-10" level="series">
         <did>
           <unitid>10</unitid>
-		  <container type="Reel">6</container>
+          <container type="Reel">6</container>
           <unittitle label="Series">CD-CAAR Newsletters</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1983/1995" type="inclusive">1983-1995</unitdate>
           <physdesc>

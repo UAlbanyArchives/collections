@@ -1,6 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
-<?xml-stylesheet type='text/xsl' href='collection-level.xsl'?> 
-<!DOCTYPE ead SYSTEM 'ead.dtd'>
 <ead id="nam_apap097">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
     <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/apap097.html">nam_apap097</eadid>
@@ -170,7 +168,9 @@
           <did>
             <container type="Box">1</container>
             <container type="Folder">4</container>
-            <unittitle><emph render='italic'>Billion Dollar Client: A Progress Report on New Yorks Unique State University Construction Fund</emph></unittitle>
+            <unittitle>
+              <emph render="italic">Billion Dollar Client: A Progress Report on New Yorks Unique State University Construction Fund</emph>
+            </unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1968">1968</unitdate>
           </did>
         </c02>
@@ -178,7 +178,7 @@
           <did>
             <container type="Box">1</container>
             <container type="Folder">12</container>
-            <unittitle><emph render='italic'>Architectural Accessibility for the Disabled of College Campuses</emph>,  Published by the State University Construction Fund</unittitle>
+            <unittitle><emph render="italic">Architectural Accessibility for the Disabled of College Campuses</emph>,  Published by the State University Construction Fund</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1976">1976</unitdate>
           </did>
         </c02>

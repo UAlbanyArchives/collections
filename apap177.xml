@@ -1,6 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
-<?xml-stylesheet type='text/xsl' href='collection-level.xsl'?> 
-<!DOCTYPE ead SYSTEM 'ead.dtd'>
 <ead id="nam_apap177">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
     <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/apap177.html">nam_apap177</eadid>
@@ -143,7 +141,7 @@
           <did>
             <container type="Box">1</container>
             <container type="Folder">1</container>
-            <unittitle><emph render='italic'>Activist</emph>Newsletter</unittitle>
+            <unittitle><emph render="italic">Activist</emph>Newsletter</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1991/1993">1991-1993</unitdate>
           </did>
         </c02>
@@ -1062,7 +1060,7 @@
         </c02>
         <c02 id="nam_apap177-2_32">
           <did>
-			<container type="VHS"/>
+            <container type="VHS"/>
             <unittitle>Videos</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1981/2001">Undated</unitdate>
           </did>
