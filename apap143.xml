@@ -1,6 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
-<?xml-stylesheet type='text/xsl' href='eadcbs6-su1_gw_4-30-15.xsl'?> 
-<!DOCTYPE ead SYSTEM 'ead.dtd'>
 <ead id="nam_apap143">
   <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
     <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/143.html">nam_apap143</eadid>
@@ -79,7 +77,7 @@
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-	    <userestrict>
+    <userestrict>
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
       <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
@@ -132,7 +130,9 @@
       <p>Identification of specific item, series, box, folder, Albany Federation of Labor Records, 1965-2000. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Albany Federation of Labor Records).</p>
     </prefercite>
     <controlaccess>
-	<head>Subject and Genre Headings</head>
+      <head>Subject and Genre Headings</head>
+      <subject source="meg" encodinganalog="650">Labor</subject>
+      <subject source="meg" encodinganalog="650">Albany, New York</subject>
       <corpname encodinganalog="610" source="local">American Federation of Labor and Congress of Industrial Organizations--Albany Central Federation of Labor</corpname>
       <subject encodinganalog="650" source="lcsh">Labor policy--New York (State)--Albany</subject>
       <subject encodinganalog="650" source="lcsh">Working class--New York (State)--Albany</subject>
@@ -338,7 +338,7 @@
         <did>
           <unittitle label="Series">Subject Files</unittitle>
           <unitid>2</unitid>
-		  <unitdate calendar="gregorian" era="ce" normal="1982/2000" type="inclusive">1982-2000</unitdate>
+          <unitdate calendar="gregorian" era="ce" normal="1982/2000" type="inclusive">1982-2000</unitdate>
           <physdesc>
             <extent unit="cubic ft.">1.0</extent>
           </physdesc>
@@ -427,7 +427,7 @@
           <did>
             <container type="Box">1</container>
             <container type="Folder">10</container>
-            <unittitle><emph render='italic'>Deadly Corn</emph>, AIW Local 837's Campaign for Justice, VHS Tape</unittitle>
+            <unittitle><emph render="italic">Deadly Corn</emph>, AIW Local 837's Campaign for Justice, VHS Tape</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1989/1999">ca. 1994</unitdate>
           </did>
         </c02>
@@ -616,7 +616,7 @@
         <did>
           <unittitle label="Series">Publications</unittitle>
           <unitid>3</unitid>
-		  <unitdate calendar="gregorian" era="ce" normal="1965/2000" type="inclusive">1965-2000</unitdate>
+          <unitdate calendar="gregorian" era="ce" normal="1965/2000" type="inclusive">1965-2000</unitdate>
           <physdesc>
             <extent unit="cubic ft.">1.2</extent>
           </physdesc>
@@ -738,7 +738,7 @@
           <did>
             <container type="Box">1</container>
             <container type="Folder">13</container>
-            <unittitle>Leadership Training Manual, <emph render='italic'>Current Issues</emph>, AFL-CIO Department of Education</unittitle>
+            <unittitle>Leadership Training Manual, <emph render="italic">Current Issues</emph>, AFL-CIO Department of Education</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1991">1991</unitdate>
           </did>
         </c02>
@@ -762,7 +762,7 @@
           <did>
             <container type="Box">1</container>
             <container type="Folder">16</container>
-            <unittitle><emph render='italic'>New York State AFL-CIO Unity</emph>, Newsletters</unittitle>
+            <unittitle><emph render="italic">New York State AFL-CIO Unity</emph>, Newsletters</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1986/1994">1986-1994</unitdate>
             <unitdate calendar="gregorian" era="ce" normal="1996/1997">1996-1997</unitdate>
             <unitdate calendar="gregorian" era="ce" normal="1999">1999</unitdate>
@@ -834,7 +834,7 @@
           <did>
             <container type="Box">2</container>
             <container type="Folder">5</container>
-            <unittitle><emph render='italic'>Taxes we can live with designing a system to meet future needs</emph>, New York State AFL CIO</unittitle>
+            <unittitle><emph render="italic">Taxes we can live with designing a system to meet future needs</emph>, New York State AFL CIO</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1991">1991</unitdate>
           </did>
         </c02>
@@ -842,7 +842,7 @@
           <did>
             <container type="Box">2</container>
             <container type="Folder">6</container>
-            <unittitle><emph render='italic'>Worker Centered Learning: A Guide To Workplace Literacy</emph>, AFL-CIO Human Resources Department</unittitle>
+            <unittitle><emph render="italic">Worker Centered Learning: A Guide To Workplace Literacy</emph>, AFL-CIO Human Resources Department</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1990">1990</unitdate>
           </did>
         </c02>
@@ -851,7 +851,7 @@
         <did>
           <unittitle label="Series">Activities</unittitle>
           <unitid>4</unitid>
-		  <unitdate calendar="gregorian" era="ce" normal="1983/2000" type="inclusive">1983-2000</unitdate>
+          <unitdate calendar="gregorian" era="ce" normal="1983/2000" type="inclusive">1983-2000</unitdate>
           <physdesc>
             <extent unit="cubic ft.">0.20</extent>
           </physdesc>
@@ -942,7 +942,7 @@
         <did>
           <unittitle label="Series">Correspondence</unittitle>
           <unitid>5</unitid>
-		  <unitdate calendar="gregorian" era="ce" normal="1983/2000" type="inclusive">1983-2000</unitdate>
+          <unitdate calendar="gregorian" era="ce" normal="1983/2000" type="inclusive">1983-2000</unitdate>
           <physdesc>
             <extent unit="cubic ft.">0.40</extent>
           </physdesc>
