@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/xsl' href='collection-level.xsl'?> 
+<!DOCTYPE ead SYSTEM 'ead.dtd'>
 <ead id="nam_ua000">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
     <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua000.html">nam_ua000</eadid>
     <filedesc>
       <titlestmt>
         <titleproper>OFFICE OF THE PRESIDENT RECORDS (UA000)<date normal="1827/2009" type="inclusive">1827-2009</date></titleproper>
-        <author>Geoffrey Williams, Ben Covell</author>
+        <author>Geoffrey Williams, Ben Covell, Erik Stolarski</author>
       </titlestmt>
       <publicationstmt>
         <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
@@ -26,6 +28,10 @@
         <date normal="2014">2014</date>
         <item>EAD file created</item>
       </change>
+      <change>
+        <date normal="2016-12">2016 December</date>
+        <item>Updated to include Sayles Records and small personal papers series.</item>
+      </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
@@ -40,7 +46,7 @@
       <origination>
         <corpname encodinganalog="110" source="lcsh">State University of New York at Albany. Office of the President</corpname>
       </origination>
-      <physdesc label="Physical Characteristics:">
+      <physdesc>
         <extent unit="cubic ft.">427</extent>
       </physdesc>
       <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
@@ -58,12 +64,19 @@
     </scopecontent>
     <arrangement>
       <head>Arrangement of the Collection</head>
-      <p>The collection is organized into 16 file series that reflect the original office files of the offices of different presidents.</p>
+      <p>The collection is organized into 16 file series that reflect the original office files of the offices of different presidents. During the tenure of President Collins, the school evolved from a small liberal arts college to a large research university. It appears that duing that period, the president's records split into the personal files and official records series.</p>
     </arrangement>
+	<phystech>
+      <p>Web Archives</p>
+    </phystech>
     <acqinfo>
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives by the Office of the President.</p>
     </acqinfo>
+    <relatedmaterial>
+      <p>Related collections in the M.E. Grenander Department of Special Collections and Archives
+        can be found in the subject guide for Criminal Justice and Prisons.</p>
+    </relatedmaterial>
     <accessrestrict>
       <head>Access</head>
       <p>Access to this record group is restricted, some material may not be made available due to New York State Public Records laws. Please consult an archivist for more information.</p>
@@ -75,28 +88,29 @@
       <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
       <p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <phystech>
-      <p>Web Archives</p>
-    </phystech>
     <prefercite>
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Office of the President Records, 1827-. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the UAlbany President Records).</p>
+      <p>Identification of specific item, series, box, folder, Office of the President Records, 1827-. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the UAlbany President Records).</p>
     </prefercite>
     <controlaccess>
       <head>Subject and Genre Headings</head>
       <corpname encodinganalog="610" source="lcsh">State University of New York at Albany</corpname>
+      <subject encodinganalog="650" source="lcsh">College presidents--United States</subject>
+      <subject encodinganalog="650" source="lcsh">Campus planning</subject>
       <subject encodinganalog="650" source="lcsh">College administrators</subject>
+      <subject encodinganalog="650" source="lcsh">School reports</subject>
+      <subject encodinganalog="650" source="lcsh">Public universities and colleges</subject>
       <genreform encodinganalog="655" source="aat">Administrative Records</genreform>
       <genreform encodinganalog="655" source="aat">Minutes (administrative records)</genreform>
-      <genreform source="meg" encodinganalog="655">Web Archives</genreform>
+      <genreform encodinganalog="655" source="meg">Web Archives</genreform>
     </controlaccess>
     <dsc type="combined">
       <head>Container List</head>
       <c01 id="nam_ua000-1" level="series">
         <did>
-          <unitid>1</unitid>
           <unittitle label="Series">Early Presidents Records</unittitle>
+          <unitid>1</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1827/1914" type="inclusive">1827-1914</unitdate>
           <physdesc>
             <extent unit="cubic ft.">0.2</extent>
@@ -191,8 +205,8 @@
       </c01>
       <c01 id="nam_ua000-2" level="series">
         <did>
-          <unitid>2</unitid>
           <unittitle label="Series">Office of Abram Brubacher Records</unittitle>
+          <unitid>2</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1904/1930" type="inclusive">1904-1930</unitdate>
           <physdesc>
             <extent unit="cubic ft.">14.8</extent>
@@ -3255,7 +3269,7 @@
           <did>
             <container type="Box">14</container>
             <container type="Folder">33</container>
-            <unittitle>Publication "The needs  of the state college for Teachers"</unittitle>
+            <unittitle>Publication "The needs of the state college for Teachers"</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1925">1925</unitdate>
           </did>
         </c02>
@@ -3767,7 +3781,7 @@
           <did>
             <container type="Box">17</container>
             <container type="Folder">1</container>
-            <unittitle>Alphabetic File -  V</unittitle>
+            <unittitle>Alphabetic File - V</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1925/1926">1925-1926</unitdate>
           </did>
         </c02>
@@ -3823,7 +3837,7 @@
           <did>
             <container type="Box">17</container>
             <container type="Folder">8</container>
-            <unittitle>Alphabetic File -  Z</unittitle>
+            <unittitle>Alphabetic File - Z</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1925/1926">1925-1926</unitdate>
           </did>
         </c02>
@@ -7484,338 +7498,842 @@
           </did>
         </c02>
       </c01>
-      <c01 id="nam_ua000-3" level="series">
+	  <c01 id="nam_ua000-4" level="series">
         <did>
-          <unitid>3</unitid>
-          <unittitle label="Series">Office of John Sayles Records</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1934/1947" type="inclusive">1934-1947</unitdate>
+          <unittitle label="Subseries">Office of Milton Nelson Records</unittitle>
+          <unitid>4</unitid>
+          <unitdate calendar="gregorian" era="ce" normal="1946/1951" type="inclusive">1946-1951</unitdate>
           <physdesc>
-            <extent unit="cubic ft.">5.95</extent>
+            <extent unit="cubic ft.">0.80</extent>
           </physdesc>
         </did>
         <arrangement>
-          <p>Series is ordered alphabetically by topical subject.</p>
+          <p>Series is arranged in alphabetical order.</p>
         </arrangement>
         <scopecontent>
-          <p>The series is an alphabetical file that includes all of President Sayles personal and office papers and correspondence.</p>
+          <p>The materials in this series cover this over two year period that Nelson was in the position of President of the college. Milton G. Nelson was acting President in the wake of John Sayles sudden illness in the winter of 1947. The materials include reports from the president, correspondence with faculty and staff, as well as some select materials from Nelsons time as Dean of the College. </p>
         </scopecontent>
-        <accessrestrict>
-          <p>This file series is semi-processed and may contain some records that must be withheld due to public records laws.</p>
-        </accessrestrict>
-        <c02 id="nam_ua000-3_1">
+        <c02 id="nam_ua000-4_1">
           <did>
-            <unittitle>Contents</unittitle>
-            <dao actuate="onrequest" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/ua000/nam_ua000-3_1.pdf" linktype="simple" show="new"/>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>American Association of Colleges for Teacher Education</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947/1949">1947-1949</unitdate>
           </did>
-          <accessrestrict>
-            <p>Some records may be withheld due to public records laws.</p>
-          </accessrestrict>
         </c02>
-      </c01>
-      <c01 id="nam_ua000-4" level="series">
-        <did>
-          <unitid>4</unitid>
-          <unittitle label="Series">Office of Milton Nelson Records</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1945/1950" type="inclusive">1945-1950</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.8</extent>
-          </physdesc>
-        </did>
-        <arrangement>
-          <p>This file series is unprocessed and may be disorganized. Individual items may be difficult to find.</p>
-        </arrangement>
-        <accessrestrict>
-          <p>This file series is unprocessed and may contain some records that must be withheld due to public records laws.</p>
-        </accessrestrict>
+        <c02 id="nam_ua000-4_2">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>American Council on Education</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947/1948">1947-1948</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_3">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Baccalaureate Sunday</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947/1948">1947-1948</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_4">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>Board of Visitors</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947/1948">1947-1948</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_5">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Budget</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1948/1949">1948-1949</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_6">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>Budget Director's Approval</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1948">1948</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_7">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>Campus student Teaching</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947-1948">1947-1948</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_8">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>Commencement Programs Correspondence</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947/1949">1947-1949</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_9">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Committee Appointments</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947/1949">1947-1949</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_10">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">8</container>
+            <unittitle>Construction, Improvements</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947/1948">1947-1948</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_11">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">9</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947">1947</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_12">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">10</container>
+            <unittitle>Coorespondence W</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947">1947</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_13">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">11</container>
+            <unittitle>Curriculum and Graduate committee</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1948">1948</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_14">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">12</container>
+            <unittitle>Department of Education report</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947/1948">1947-1948</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_15">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">13</container>
+            <unittitle>Department Reports</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947/1949">1947-1949</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_16">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">14</container>
+            <unittitle>Executive Dean for Teachers Education</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947-1949">1947-1949</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_17">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">15</container>
+            <unittitle>Faculty Handbook</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947-1949">1947-1949</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_18">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">16</container>
+            <unittitle>Faculty Status</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1951">1951</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_19">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">17</container>
+            <unittitle>Federal Security Agency, National Youth Administration</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1939">1939</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_20">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">18</container>
+            <unittitle>Freshman Addresses</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1952">1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_21">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">19</container>
+            <unittitle>Gemmel, Professor James</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1948">1948</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_22">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">20</container>
+            <unittitle>Heyden, Velma</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1948">1948</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_23">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">21</container>
+            <unittitle>Housing (Dormitories and Cafeteria)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1946/1950">1946-1950</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_24">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">22</container>
+            <unittitle>Housing (Dormitories and Cafeteria)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1946/1950">1946-1950</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_25">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">1</container>
+            <unittitle>Housing (Dormitories and Cafeteria)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1946/1950">1946-1950</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_26">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">2</container>
+            <unittitle>Huyck Preserve</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1945">1945</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_27">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">3</container>
+            <unittitle>Inter-Group Council</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947">1947</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_28">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">4</container>
+            <unittitle>Invoices, H</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1948/1949">1948-1949</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_29">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">5</container>
+            <unittitle>Invoices, I</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1948/1949">1948-1949</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_30">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">6</container>
+            <unittitle>Invoices, L</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947/1949">1947-1949</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_31">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">7</container>
+            <unittitle>Men's Athletic Association Manual</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1948/1949">1948-1949</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_32">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">8</container>
+            <unittitle>Misc. Correspondence</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947/1949">1947-1949</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_33">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">9</container>
+            <unittitle>Misc. J-K Invoices</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1948/1949">1948-1949</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_34">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">10</container>
+            <unittitle>Physical Education Report</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947/1948">1947-1948</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_35">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">11</container>
+            <unittitle>Rhodes, Scholarship Trust</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947">1947</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_36">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">12</container>
+            <unittitle>Sabol, Edward Correspondence</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947/1949">1947-1949</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_37">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">13</container>
+            <unittitle>Standing, Theodore</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947">1947</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_38">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">14</container>
+            <unittitle>St. Mary's Park- Emergency Veterans Housing Reports</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947/1949">1947-1949</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_39">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">15</container>
+            <unittitle>Student Medical Insurance</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947/1948">1947-1948</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_40">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">16</container>
+            <unittitle>Student Union</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947/1949">1947-1949</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_41">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">17</container>
+            <unittitle>Survey of Fiscal Affairs for the State College</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1949">1949</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_42">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">18</container>
+            <unittitle>Teacher Placement Brueau</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1948">1948</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-4_43">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">19</container>
+            <unittitle>Vaccines</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947">1947</unitdate>
+          </did>
+        </c02>
       </c01>
       <c01 id="nam_ua000-5" level="series">
         <did>
+          <unittitle label="Series">Office of Evan R. Collins Records</unittitle>
           <unitid>5</unitid>
-          <unittitle label="Series">Personal Records of Evan R. Collins</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1949/1969" type="inclusive">1949-1969</unitdate>
           <physdesc>
-            <extent unit="cubic ft.">14</extent>
+            <extent unit="cubic ft.">14.92</extent>
           </physdesc>
         </did>
+        <accessrestrict>
+          <p>This file series is semi-processed and may contain some records that must be withheld due to public records laws. Please consult an archivist for more information.</p>
+        </accessrestrict>
         <arrangement>
-          <p>Alphabetical order by subject.</p>
+          <p>Series is arranged in alphabetical order.</p>
         </arrangement>
         <scopecontent>
-          <p>The first series is in alphabetical order by subject comprising the correspondence and personal records of President Collins. Of particular interest are Collins' material related to the SUNY System. There is a larger section dealing with speeches and SUNY related materials that fall within their alphabetical order.</p>
+          <p>This series contains materials related to the presidency of Evan Revere Collins, who held the position from 1949-1969. The origin of these materials trace to both Evan Collins himself, as well as the Presidential office from this time. These cover the important changes occurring on the campus at this time, including expansion of the downtown dormitories at Alumni Quadrangle, as well as the construction of the Uptown Campus, and the change of the New York State College for Teachers, into a University Center. Specific materials in the series include reports from individual departments, correspondence with staff and contractors, and annual reports form Collins, as well as those sent to the office of the president such as the Milne School annual report. There are some materials that date to after Collins presidency, and were most likely part of the records keeping of the Office of the President after the move to the uptown campus. </p>
         </scopecontent>
-        <accessrestrict>
-          <p>This file series is semi-processed and may contain some records that must be withheld due to public records laws.</p>
-        </accessrestrict>
         <c02 id="nam_ua000-5_1">
           <did>
             <unittitle>Contents</unittitle>
             <dao actuate="onrequest" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/ua000/nam_ua000-5_1.pdf" linktype="simple" show="new"/>
           </did>
           <accessrestrict>
-            <p>Some records may be withheld due to public records laws.</p>
+            <p>This file series is semi-processed and may contain some records that must be withheld due to public records laws. Please consult an archivist for more information.</p>
           </accessrestrict>
         </c02>
       </c01>
       <c01 id="nam_ua000-6" level="series">
         <did>
-          <unitid>6</unitid>
           <unittitle label="Series">Faculty File</unittitle>
+          <unitid>6</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1928/1957" type="inclusive">1928-1957</unitdate>
           <physdesc>
-            <extent unit="cubic ft.">2.33</extent>
+            <extent unit="cubic ft.">2.31</extent>
           </physdesc>
         </did>
+        <accessrestrict>
+          <p>This file series is semi-processed and may contain some records that must be withheld due to public records laws. Please consult an archivist for more information.</p>
+        </accessrestrict>
         <arrangement>
-          <p>Alphabetical order by last name.</p>
+          <p>Series is arranged in alphabetical order by surname.</p>
         </arrangement>
         <scopecontent>
-          <p>Contains alphabetical faculty files.</p>
+          <p>This series is made up of faculty files kept for members of the staff of the New York State College for Teachers. There is a file dedicated to each individual faculty member, containing hiring information, correspondence, and in some instances grades and transcripts sent in as part of an application. </p>
         </scopecontent>
-        <accessrestrict>
-          <p>This file series is semi-processed and may contain some records that must be withheld due to public records laws.</p>
-        </accessrestrict>
         <c02 id="nam_ua000-6_1">
           <did>
             <unittitle>Contents</unittitle>
             <dao actuate="onrequest" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/ua000/nam_ua000-6_1.pdf" linktype="simple" show="new"/>
           </did>
           <accessrestrict>
-            <p>Some records may be withheld due to public records laws.</p>
+            <p>This file series is semi-processed and may contain some records that must be withheld due to public records laws. Please consult an archivist for more information.</p>
           </accessrestrict>
         </c02>
       </c01>
       <c01 id="nam_ua000-7" level="series">
         <did>
-          <unitid>7</unitid>
           <unittitle label="Series">Personal Records of Allan A. Kuusisto</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1969/1971" type="inclusive">1969-1971</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.2</extent>
-          </physdesc>
-        </did>
-        <arrangement>
-          <p>This file series is unprocessed and may be disorganized. Individual items may be difficult to find.</p>
-        </arrangement>
-        <accessrestrict>
-          <p>This file series is unprocessed and may contain some records that must be withheld due to public records laws.</p>
-        </accessrestrict>
-      </c01>
-      <c01 id="nam_ua000-8" level="series">
-        <did>
-          <unitid>8</unitid>
-          <unittitle label="Series">Personal Records of Louis T. Benezet</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1970/1974" type="inclusive">1970-1974</unitdate>
+          <unitid>7</unitid>
+          <unitdate calendar="gregorian" era="ce" normal="1967/1970" type="inclusive">1967-1970</unitdate>
           <physdesc>
             <extent unit="cubic ft.">0.4</extent>
           </physdesc>
         </did>
         <arrangement>
-          <p>This file series is unprocessed and may be disorganized. Individual items may be difficult to find.</p>
+          <p>Series is arranged in alphabetical order.</p>
         </arrangement>
-        <accessrestrict>
-          <p>This file series is unprocessed and may contain some records that must be withheld due to public records laws.</p>
-        </accessrestrict>
+        <scopecontent>
+          <p>Materials include University plans and reports related to protests, as well as personal records of Kuusisto such as his Curriculum Vitae.</p>
+        </scopecontent>
+        <c02 id="nam_ua000-7_1">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Budget 1970-1971</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969">1969</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-7_2">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Curriculum Vitae</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969">1969</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-7_3">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1967/1970"> 1967-1970</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-7_4">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>President's Administrative Reorganization Plan</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1968/1969">1968-1969</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-7_5">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>Student Disorder Viet Nam Protests</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969-1970">1969-1970</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-7_6">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>Wagner, Gerard, faculty arrest, student protests</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="nam_ua000-8" level="series">
+        <did>
+          <unittitle label="Series">Personal Records of Louis T. Benezet </unittitle>
+          <unitid>8</unitid>
+          <unitdate calendar="gregorian" era="ce" normal="1969/1974" type="inclusive">1969-1974</unitdate>
+          <physdesc>
+            <extent unit="cubic ft.">0.4</extent>
+          </physdesc>
+        </did>
+        <arrangement>
+          <p>Series is arranged in alphabetical order.</p>
+        </arrangement>
+        <scopecontent>
+          <p>Materials in the series consist of budget reports, memos and plans of administrative events, and correspondence to individual faculty as well as the University as a whole. </p>
+        </scopecontent>
+        <c02 id="nam_ua000-8_1">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Allen Center</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1972">1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-8_2">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Alumni Fund</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1973">1973</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-8_3">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Budget</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1973/1974">1973-1974</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-8_4">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>Budget Reports</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1970/1974">1970-1974</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-8_5">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1970/1975">1970-1975</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-8_6">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>CUPA College and University</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1972/1974">1972-1974</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-8_7">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>Parking</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1972/1974">1972-1974</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-8_8">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">8</container>
+            <unittitle>Social Studies Center</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1972">1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-8_9">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">9</container>
+            <unittitle>SUNY Atmospheric Sciences Research Center</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1970-1972">1970-1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-8_10">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">10</container>
+            <unittitle>SUNYA Economic Impact Study</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-8_11">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">11</container>
+            <unittitle>SUNYA Sciences</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1970/1971">1970-1971</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-8_12">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">12</container>
+            <unittitle>SUNYA Mathematics Department</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969/1974">1969-1974</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-8_13">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">13</container>
+            <unittitle>State University Professional Association</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969/1970">1969-1970</unitdate>
+          </did>
+        </c02>
       </c01>
       <c01 id="nam_ua000-9" level="series">
         <did>
+          <unittitle label="Series">Personal Records of Emmett B. Fields </unittitle>
           <unitid>9</unitid>
-          <unittitle label="Series">Personal Records of Emmett B. Fields</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1975/1977" type="inclusive">1975-1977</unitdate>
           <physdesc>
-            <extent unit="cubic ft.">0.17</extent>
+            <extent unit="cubic ft.">0.2</extent>
           </physdesc>
         </did>
         <arrangement>
-          <p>This file series is unprocessed and may be disorganized. Individual items may be difficult to find.</p>
+          <p>Series is arranged in alphabetical order.</p>
         </arrangement>
-        <accessrestrict>
-          <p>This file series is unprocessed and may contain some records that must be withheld due to public records laws.</p>
-        </accessrestrict>
+        <scopecontent>
+          <p>Series includes information on budegts and Fields' departure from the University. </p>
+        </scopecontent>
+        <c02 id="nam_ua000-9_1">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Budget</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1977">1977</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-9_2">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1975">1975</unitdate>
+          </did>
+        </c02>
       </c01>
       <c01 id="nam_ua000-10" level="series">
         <did>
+          <unittitle label="Series">Records of the Office of the President10</unittitle>
           <unitid>10</unitid>
-          <unittitle label="Series">Personal Records of Vincent O'Leary</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1977/1986" type="inclusive">1977-1986</unitdate>
+          <unitdate calendar="gregorian" era="ce" normal="1948/1977" type="inclusive">1948-1977</unitdate>
           <physdesc>
-            <extent unit="cubic ft.">0.17</extent>
+            <extent unit="cubic ft.">50</extent>
           </physdesc>
         </did>
         <arrangement>
-          <p>This file series is unprocessed and may be disorganized. Individual items may be difficult to find.</p>
+          <p>Series is arranged in the original order.</p>
         </arrangement>
-        <accessrestrict>
-          <p>This file series is unprocessed and may contain some records that must be withheld due to public records laws.</p>
-        </accessrestrict>
+        <scopecontent>
+          <p>This series is made up solely of materials kept in the Office of the President. While the items date from 1948-1977, the majority of the materials date from after the construction of the uptown campus, with many pieces dating from the presidency of Louis Benezet. The subject of the materials vary greatly, and cover important events in the University history such as the construction and relocation to the uptown campus and campus unrest in 1970. The president covered in this series are Nelson, Collins, Kuusisto, Benezet, and Fields. Many boxes contain papers related to multiple presidents, connected by a common subject at times. Others are dedicated to a single president and subject. Specific materials in the series include blueprints of new construction, annual reports, master plans for the University, and reports from individual departments. </p>
+        </scopecontent>
       </c01>
       <c01 id="nam_ua000-11" level="series">
         <did>
+          <unittitle label="Series">Personal Records of Vincent O'Leary</unittitle>
           <unitid>11</unitid>
-          <unittitle label="Series">Records of the Office of the President</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1948/1977" type="inclusive">1948-1977</unitdate>
+          <unitdate calendar="gregorian" era="ce" normal="1977/1981" type="inclusive">1977-1981</unitdate>
           <physdesc>
-            <extent unit="cubic ft.">24</extent>
+            <extent unit="cubic ft.">0.2</extent>
           </physdesc>
         </did>
-        <arrangement>
-          <p>This file series is unprocessed and may be disorganized. Individual items may be difficult to find.</p>
-        </arrangement>
         <accessrestrict>
-          <p>This file series is unprocessed and may contain some records that must be withheld due to public records laws.</p>
+          <p>This file series is semi-processed and may contain some records that must be withheld due to public records laws. Please consult an archivist for more information.</p>
         </accessrestrict>
+        <arrangement>
+          <p>Series is arranged in alphabetical order.</p>
+        </arrangement>
+        <scopecontent>
+          <p>Materials are made up of correspondence, budget reports, and O'Leary's Curriculum Vitae. </p>
+        </scopecontent>
+        <c02 id="nam_ua000-11_1">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Budget</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1978/1981">1978-1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-11_2">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1977-1986">1977-1986</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-11_3">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Curriculum Vitae</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1977">1977</unitdate>
+          </did>
+        </c02>
+        <c02 id="nam_ua000-11_4">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>Health Law, Human Subject for Research</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1977">1977</unitdate>
+          </did>
+        </c02>
       </c01>
       <c01 id="nam_ua000-12" level="series">
         <did>
-          <unitid>12</unitid>
           <unittitle label="Series">Office of Vincent O'Leary Records</unittitle>
+          <unitid>12</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1960/1990" type="inclusive">1960-1990</unitdate>
           <physdesc>
-            <extent unit="cubic ft.">121</extent>
+            <extent unit="cubic ft.">118</extent>
           </physdesc>
         </did>
+        <accessrestrict>
+          <p>This file series is semi-processed and may contain some records that must be withheld due to public records laws. Please consult an archivist for more information.</p>
+        </accessrestrict>
         <arrangement>
           <p>Maintained in the original order as transferred from the Office of the President</p>
         </arrangement>
         <scopecontent>
           <p>Administrative Records from the term of Vincent O'Leary (1977-1990)</p>
         </scopecontent>
-        <accessrestrict>
-          <p>This file series is semi-processed and may contain some records that must be withheld due to public records laws.</p>
-        </accessrestrict>
         <c02 id="nam_ua000-12_1">
           <did>
             <unittitle>Contents</unittitle>
             <dao actuate="onrequest" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/ua000/nam_ua000-12_1.pdf" linktype="simple" show="new"/>
           </did>
-          <accessrestrict>
-            <p>Some records may be withheld due to public records laws.</p>
-          </accessrestrict>
         </c02>
       </c01>
       <c01 id="nam_ua000-13" level="series">
         <did>
-          <unitid>13</unitid>
           <unittitle label="Series">Office of H. Patrick Swygert Records</unittitle>
+          <unitid>13</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1977/1998" type="inclusive">1977-1998</unitdate>
           <physdesc>
             <extent unit="cubic ft.">100</extent>
           </physdesc>
         </did>
+        <accessrestrict>
+          <p>This file series is semi-processed and may contain some records that must be withheld due to public records laws. Please consult an archivist for more information.</p>
+        </accessrestrict>
         <arrangement>
           <p>Maintained in the original order as transferred from the Office of the President</p>
         </arrangement>
         <scopecontent>
           <p>Administrative Records from the term of H. Patrick Swygert (1990-1995)</p>
         </scopecontent>
-        <accessrestrict>
-          <p>This file series is semi-processed and may contain some records that must be withheld due to public records laws.</p>
-        </accessrestrict>
         <c02 id="nam_ua000-13_1">
           <did>
             <unittitle>Contents</unittitle>
             <dao actuate="onrequest" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/ua000/nam_ua000-13_1.pdf" linktype="simple" show="new"/>
           </did>
-          <accessrestrict>
-            <p>Access to this record group is restricted, some material may not be made available due to New York State Public Records laws. Please consult an archivist for more information.</p>
-          </accessrestrict>
         </c02>
       </c01>
       <c01 id="nam_ua000-14" level="series">
         <did>
-          <unitid>14</unitid>
           <unittitle label="Series">Office of Karen R. Hitchcock Records</unittitle>
+          <unitid>14</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1995/2004" type="inclusive">1995-2004</unitdate>
           <physdesc>
-            <extent unit="cubic ft.">115</extent>
+            <extent unit="cubic ft.">112</extent>
           </physdesc>
         </did>
+        <accessrestrict>
+          <p>This file series is semi-processed and may contain some records that must be withheld due to public records laws. Please consult an archivist for more information.</p>
+        </accessrestrict>
         <arrangement>
           <p>Maintained in the original order as transferred from the Office of the President</p>
         </arrangement>
         <scopecontent>
           <p>Administrative Records from the term of Karen R. Hitchcock (1995-2004)</p>
         </scopecontent>
-        <accessrestrict>
-          <p>Access to this record group is restricted, some material may not be made available due to New York State Public Records laws. Please consult an archivist for more information.</p>
-        </accessrestrict>
         <c02 id="nam_ua000-14_1">
           <did>
             <unittitle>Contents (incomplete listing)</unittitle>
             <dao actuate="onrequest" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/ua000/nam_ua000-14_1.pdf" linktype="simple" show="new"/>
           </did>
-          <accessrestrict>
-            <p>Access to this record group is restricted, some material may not be made available due to New York State Public Records laws. Please consult an archivist for more information.</p>
-          </accessrestrict>
         </c02>
       </c01>
       <c01 id="nam_ua000-15" level="series">
         <did>
-          <unitid>15</unitid>
           <unittitle label="Series">Records of the Office of the President</unittitle>
+          <unitid>15</unitid>
           <unitdate calendar="gregorian" era="ce" normal="2004/2009" type="inclusive">2004-2009</unitdate>
           <physdesc>
-            <extent unit="cubic ft.">28</extent>
+            <extent unit="cubic ft.">25</extent>
           </physdesc>
         </did>
+        <accessrestrict>
+          <p>This file series is semi-processed and may contain some records that must be withheld due to public records laws. Please consult an archivist for more information.</p>
+        </accessrestrict>
         <arrangement>
           <p>Maintained in the original order as transferred from the Office of the President</p>
         </arrangement>
         <scopecontent>
           <p>Administrative records during the tenure of John R. Ryan, (2004-2005), Kermit L. Hall (2005-2006), Susan Herbst (2006-2007), George M. Philip (2007-2009), and Robert J. Jones (2013-2016).</p>
         </scopecontent>
-        <accessrestrict>
-          <p>Access to this record group is restricted, some material may not be made available due to New York State Public Records laws. Please consult an archivist for more information.</p>
-        </accessrestrict>
         <c02 id="nam_ua000-15_1">
           <did>
             <unittitle>Contents</unittitle>
             <dao actuate="onrequest" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/ua000/nam_ua000-15_1.pdf" linktype="simple" show="new"/>
           </did>
-          <accessrestrict>
-            <p>Access to this record group is restricted, some material may not be made available due to New York State Public Records laws. Please consult an archivist for more information.</p>
-          </accessrestrict>
         </c02>
       </c01>
       <c01 id="nam_ua000-16" level="series">
         <did>
-          <unitid>16</unitid>
           <unittitle label="Series">Website of the Office of the President</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2013-05-02/2016-10-17">2013 May 02-2016 October 17</unitdate>
+          <unitid>16</unitid>
+          <unitdate calendar="gregorian" era="ce" normal="2013-05-02/2017-02-17" type="inclusive">2013 May 02-2017 February 17</unitdate>
           <physdesc>
-            <extent unit="captures">265</extent>
+            <extent unit="Captures">274</extent>
           </physdesc>
         </did>
-        <acqinfo>
+		<acqinfo>
           <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both the university's collection and the Internet Archive's public collection.</p>
           <p>Surface-level crawling of www.albany.edu is performed daily which should includes most top-level webpages. Separate targeted crawls of every albany.edu subdomain are performed monthly to attempt to gather all content. This includes: www.albany.edu, www.rna.albany.edu, www.ctg.albany.edu, www.ualbanysports.com, www.albany.edu/rockefeller, www.albany.edu/cela, www.albany.edu/asrc, m.albany.edu,	library.albany.edu,	events.albany.edu,	cstar.cestm.albany.edu, csda.albany.edu, and alumni.albany.edu</p>
         </acqinfo>
-        <phystech>
-          <p>Web Archives</p>
-        </phystech>
+		<phystech>
+		  <p>Web Archives</p>
+		</phystech>
         <c02 id="nam_ua000-16_1">
           <did>
             <container type="Web-Archive">1</container>
             <unittitle>http://www.albany.edu/administration/office-of-the-president.php - University Archives collection</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2013-05-08/2016-10-17">2013 May 8-2016 October 17</unitdate>
-            <dao actuate="onrequest" linktype="simple" show="new" href="http://wayback.archive-it.org/3308/*/http://www.albany.edu/administration/office-of-the-president.php"/>
+            <unitdate calendar="gregorian" era="ce" normal="2013-05-08/2017-10-17">2013 May 8-2017 February 17</unitdate>
+            <dao actuate="onrequest" href="http://wayback.archive-it.org/3308/*/http://www.albany.edu/administration/office-of-the-president.php" linktype="simple" show="new"/>
           </did>
         </c02>
         <c02 id="nam_ua000-16_2">
           <did>
             <container type="WARC">1</container>
             <unittitle>WARC file for http://www.albany.edu/administration/office-of-the-president.php, (please see https://en.wikipedia.org/wiki/Web_ARChive for more details)</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2013-05-08/2016-10-17">2013 May 8-2016 October 17</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="2013-05-08/2017-10-17">2013 May 8-2017 February 17</unitdate>
           </did>
-          <accessrestrict>
-            <p>WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in researching with web archives.</p>
-          </accessrestrict>
         </c02>
         <c02 id="nam_ua000-16_3">
           <did>
             <container type="Web-Archive">2</container>
             <unittitle>http://www.albany.edu/administration/office-of-the-president.php - Internet Archive collection</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2013-05-02/2016-10-17">2013 May 02-2016 October 17</unitdate>
-            <dao actuate="onrequest" linktype="simple" show="new" href="https://web.archive.org/web/*/http://www.albany.edu/administration/office-of-the-president.php"/>
+            <unitdate calendar="gregorian" era="ce" normal="2013-05-02/2017-10-17">2013 May 2-2017 February 17</unitdate>
+            <dao actuate="onrequest" href="https://web.archive.org/web/*/http://www.albany.edu/administration/office-of-the-president.php" linktype="simple" show="new"/>
           </did>
         </c02>
       </c01>
