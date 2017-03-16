@@ -26,6 +26,10 @@
         <date normal="2014">2014</date>
         <item>EAD file created</item>
       </change>
+	  <change>
+        <date normal="2017">2017</date>
+        <item>J. Boyle added new publication and revised arrangement of Series 7.</item>
+      </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
@@ -68,7 +72,7 @@
     </arrangement>
     <acqinfo>
       <head>Acquisition Information</head>
-      <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by the Association of Colleges and Universities of the State of New York on August 14, 1989 and June 24, 1992.</p>
+      <p>All items in this manuscript group, except one, were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by the Association of Colleges and Universities of the State of New York on August 14, 1989 and June 24, 1992.  Dennis Dahl donated one publicated, "The Education of a Teacher" in January 2017.</p>
     </acqinfo>
     <accessrestrict>
       <head>Access</head>
@@ -5431,40 +5435,41 @@
         <did>
           <unitid>7</unitid>
           <unittitle label="Series">Publications</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1984">1980-1984</unitdate>
+          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941">1941</unitdate>
+		  <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1984">1980-1984</unitdate>
           <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1992">1988-1992</unitdate>
           <physdesc>
-            <extent unit="cubic ft.">0.5</extent>
+            <extent unit="cubic ft.">0.17</extent>
           </physdesc>
         </did>
         <scopecontent>
-          <p>Contains an "Introduction to ACUSNY", Newsletters 1980-1984, "News from ACUSNY" 1988-1992, "Communiversity" 1991.</p>
+          <p>Contains "The Education of a Teacher," "Introduction to ACUSNY", Newsletters 1980-1984, "News from ACUSNY" 1988-1992, "Communiversity" 1991.</p>
         </scopecontent>
         <arrangement>
           <p>Arranged chronologically.</p>
         </arrangement>
-        <c02 id="nam_apap003-7_1">
+		        <c02 id="nam_apap003-7_1">
           <did>
             <container type="Box">1</container>
             <container type="Folder">1</container>
-            <unittitle>"Introduction to ACUSNY" (pamphlet)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984/1994">ca. 1989</unitdate>
+            <unittitle>"The Education of a Teacher" (pamphlet)</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941">[1941]</unitdate>
           </did>
         </c02>
         <c02 id="nam_apap003-7_2">
           <did>
             <container type="Box">1</container>
             <container type="Folder">2</container>
-            <unittitle>"Newsletter"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1984">1980-1984</unitdate>
+            <unittitle>"Introduction to ACUSNY" (pamphlet)</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984/1994">ca. 1989</unitdate>
           </did>
         </c02>
         <c02 id="nam_apap003-7_3">
           <did>
             <container type="Box">1</container>
             <container type="Folder">3</container>
-            <unittitle>"News from ACUSNY"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1990">1988-1990</unitdate>
+            <unittitle>"Newsletter"</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1984">1980-1984</unitdate>
           </did>
         </c02>
         <c02 id="nam_apap003-7_4">
@@ -5483,7 +5488,7 @@
             <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
           </did>
           <scopecontent>
-            <p>(joint publication of ACUSNY and the Governor's Office for Voluntary Services).</p>
+            <p>Joint publication of ACUSNY and the Governor's Office for Voluntary Services.</p>
           </scopecontent>
         </c02>
       </c01>
