@@ -1,6 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
-<?xml-stylesheet type='text/xsl' href='eadcbs6-su1_gw_no_series.xsl'?> 
-<!DOCTYPE ead SYSTEM 'ead.dtd'>
 <ead id="nam_mss029">
   <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
     <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/mss029.html">nam_mss029</eadid>
@@ -93,7 +91,7 @@
     <bioghist>
       <head>Biographical History</head>
       <p>Gonzalo Torrente Ballester was born on June 13, 1910, in Ferrol, Spain. He was a writer who published novels, journalism, essays, and plays. In 1939, Torrente Ballester moved to Santiago to work in a university post. He joined in protests in favour of striking Asturian miners in 1962, and was expelled from his teaching post at the university as a result. In the mid-1960s he had a number of problems with government censors. Torrente Ballester left Spain for a post at the State University of New York at Albany, and was a Distinguished Professor of Spanish Literature at the University at Albany from 1966 to 1972. After his return to Spain, he was increasingly celebrated, and was elected as a member of the Spanish Royal Academy in 1975 and awarded the premier Spanish literary prize, the Miguel de Cervantes Prize, in 1985. The author died on January 27, 1999.</p>
-      <p>Gonzalo Torrente Ballester's novels: <emph render='italic'>Javier Mario </emph>(1943); <emph render='italic'>El golpe de estado de Guadalupe Limn </emph>(1946); <emph render='italic'>Ifigenia </emph>(1950); <emph render='italic'>El Seor llega </emph>(1957) - Novel prize of the Fundacin Juan March; <emph render='italic'>Donde da la vuelta el aire </emph>(1960); <emph render='italic'>La Pascua triste </emph>(1962); <emph render='italic'>Don Juan</emph> (1963); <emph render='italic'>Off-Side </emph>(1968); <emph render='italic'>La Saga/Fuga de J.B. </emph>(1972) - Critics' Prize and City of Barcelona Prize; <emph render='italic'>Fragmentos de Apocalipsis </emph>(1977); <emph render='italic'>La isla de los jacintos cortados </emph>(1980) - National Literature Prize; <emph render='italic'>Dafne y ensueos </emph>(1982); <emph render='italic'>Quiz nos lleve el viento al infinito </emph>(1984); <emph render='italic'>La princesa durmiente va a la escuela </emph>(1985); <emph render='italic'>La rosa de los vientos </emph>(1985); <emph render='italic'>Yo no soy yo, evidentemente </emph>(1987); <emph render='italic'>Filomeno, a mi pesar </emph>(1988) - Planet Prize; <emph render='italic'>Crnica del rey pasmado </emph>(1989); <emph render='italic'>Las islas extraordinarias </emph>(1991); <emph render='italic'>La muerte del decano </emph>(1992); <emph render='italic'>La novela de Pepe Ansrez </emph>(1994); <emph render='italic'>La boda de Chon Recalde </emph>(1995); <emph render='italic'>Los aos indecisos </emph>(1997); <emph render='italic'>Domnica </emph>(1999).</p>
+      <p>Gonzalo Torrente Ballester's novels: <emph render="italic">Javier Mario </emph>(1943); <emph render="italic">El golpe de estado de Guadalupe Limn </emph>(1946); <emph render="italic">Ifigenia </emph>(1950); <emph render="italic">El Seor llega </emph>(1957) - Novel prize of the Fundacin Juan March; <emph render="italic">Donde da la vuelta el aire </emph>(1960); <emph render="italic">La Pascua triste </emph>(1962); <emph render="italic">Don Juan</emph> (1963); <emph render="italic">Off-Side </emph>(1968); <emph render="italic">La Saga/Fuga de J.B. </emph>(1972) - Critics' Prize and City of Barcelona Prize; <emph render="italic">Fragmentos de Apocalipsis </emph>(1977); <emph render="italic">La isla de los jacintos cortados </emph>(1980) - National Literature Prize; <emph render="italic">Dafne y ensueos </emph>(1982); <emph render="italic">Quiz nos lleve el viento al infinito </emph>(1984); <emph render="italic">La princesa durmiente va a la escuela </emph>(1985); <emph render="italic">La rosa de los vientos </emph>(1985); <emph render="italic">Yo no soy yo, evidentemente </emph>(1987); <emph render="italic">Filomeno, a mi pesar </emph>(1988) - Planet Prize; <emph render="italic">Crnica del rey pasmado </emph>(1989); <emph render="italic">Las islas extraordinarias </emph>(1991); <emph render="italic">La muerte del decano </emph>(1992); <emph render="italic">La novela de Pepe Ansrez </emph>(1994); <emph render="italic">La boda de Chon Recalde </emph>(1995); <emph render="italic">Los aos indecisos </emph>(1997); <emph render="italic">Domnica </emph>(1999).</p>
       <p>Please see the following additional web sites for information about Gonzalo Torrente Ballester: University at Albany Library Guide at http://libguides.library.albany.edu/gtb; Fundacin Gonzalo Torrente Ballester at https://www.facebook.com/fundaciongtb.</p>
     </bioghist>
     <scopecontent>
@@ -110,7 +108,8 @@
       <p>Identification of specific item, series, box, folder, Gonzalo Torrente Ballester Papers, 1954-1964. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Torrente Ballester Papers).</p>
     </prefercite>
     <controlaccess>
-	<head>Subject and Genre Headings</head>
+      <head>Subject and Genre Headings</head>
+      <subject source="meg" encodinganalog="650">Literature</subject>
       <persname encodinganalog="600" source="lcsh">Torrente Ballester, Gonzalo</persname>
       <persname encodinganalog="600" source="lcsh">Franco, Francisco,1892-1975</persname>
       <subject encodinganalog="650" source="lcsh">Spanish literature--20th century</subject>
@@ -134,7 +133,7 @@
         <did>
           <container type="Box">2</container>
           <container type="Folder">1</container>
-          <unittitle><emph render='italic'>Don Juan</emph>, Chapter 1</unittitle>
+          <unittitle><emph render="italic">Don Juan</emph>, Chapter 1</unittitle>
           <unitid>nam_mss029-2</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1962">1962</unitdate>
         </did>
@@ -143,7 +142,7 @@
         <did>
           <container type="Box">2</container>
           <container type="Folder">2</container>
-          <unittitle><emph render='italic'>Don Juan, </emph>Chapter 2</unittitle>
+          <unittitle><emph render="italic">Don Juan, </emph>Chapter 2</unittitle>
           <unitid>nam_mss029-3</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1962">1962</unitdate>
         </did>
@@ -152,7 +151,7 @@
         <did>
           <container type="Box">2</container>
           <container type="Folder">3</container>
-          <unittitle><emph render='italic'>Don Juan</emph>, Chapter 3</unittitle>
+          <unittitle><emph render="italic">Don Juan</emph>, Chapter 3</unittitle>
           <unitid>nam_mss029-4</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1962">1962</unitdate>
         </did>
@@ -161,7 +160,7 @@
         <did>
           <container type="Box">2</container>
           <container type="Folder">4</container>
-          <unittitle><emph render='italic'>Don Juan</emph>, Chapter 4</unittitle>
+          <unittitle><emph render="italic">Don Juan</emph>, Chapter 4</unittitle>
           <unitid>nam_mss029-5</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1962">1962</unitdate>
         </did>
@@ -170,7 +169,7 @@
         <did>
           <container type="Box">2</container>
           <container type="Folder">5</container>
-          <unittitle><emph render='italic'>Don Juan</emph>, Chapter 5</unittitle>
+          <unittitle><emph render="italic">Don Juan</emph>, Chapter 5</unittitle>
           <unitid>nam_mss029-6</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1962">1962</unitdate>
         </did>
@@ -179,7 +178,7 @@
         <did>
           <container type="Box">2</container>
           <container type="Folder">6</container>
-          <unittitle><emph render='italic'>Don Juan</emph>, version reviewed and cut by Spanish official censors</unittitle>
+          <unittitle><emph render="italic">Don Juan</emph>, version reviewed and cut by Spanish official censors</unittitle>
           <unitid>nam_mss029-7</unitid>
           <unitdate calendar="gregorian" era="ce" normal="1954/1964">Undated</unitdate>
         </did>
