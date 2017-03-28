@@ -1,6 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
-<?xml-stylesheet type='text/xsl' href='collection-level.xsl'?> 
-<!DOCTYPE ead SYSTEM 'ead.dtd'>
 <ead id="nam_apap196">
   <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
     <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/apap196.html">nam_apap196</eadid>
@@ -53,8 +51,17 @@
         <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
       </repository>
     </did>
-    <accessrestrict><head>Access</head><p>Access to this record group is restricted. Researchers requesting access to records of the Capital Jury Project must adhere to the following conditions: 1) Researchers shall complete a Restricted Records Access Request form supplied by the M.E. Grenander Department of Special Collections and Archives and adequately describe the nature and purpose of their research; 2) Requests to photocopy or otherwise reproduce restricted records are prohibited; 3) Researchers may not publish or otherwise disclose any personally identifiable information from the materials in this collection; 4)Researchers may list the Sex, State, and Race of a juror when necessary and nothing else.</p></accessrestrict>
-    <userestrict><head>Copyright</head><p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p><p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p><p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p><p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p></userestrict>
+    <accessrestrict>
+      <head>Access</head>
+      <p>Access to this record group is restricted. Researchers requesting access to records of the Capital Jury Project must adhere to the following conditions: 1) Researchers shall complete a Restricted Records Access Request form supplied by the M.E. Grenander Department of Special Collections and Archives and adequately describe the nature and purpose of their research; 2) Requests to photocopy or otherwise reproduce restricted records are prohibited; 3) Researchers may not publish or otherwise disclose any personally identifiable information from the materials in this collection; 4)Researchers may list the Sex, State, and Race of a juror when necessary and nothing else.</p>
+    </accessrestrict>
+    <userestrict>
+      <head>Copyright</head>
+      <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
+      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+    </userestrict>
     <acqinfo>
       <head>Acquisition Information</head>
       <p>All items in this collection were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
@@ -82,6 +89,7 @@ Principal Investigatorof the CJP is William J. Bowers (Ph.D., Columbia Universit
     </prefercite>
     <controlaccess>
       <head>Subject and Genre Headings</head>
+      <subject source="meg" encodinganalog="650">Death Penalty</subject>
       <persname source="lcsh" encodinganalog="600">Bowers, William J.</persname>
       <persname source="lcsh" encodinganalog="600">Acker, James R., 1951-</persname>
       <persname source="lcsh" encodinganalog="600">Baldus, David C.</persname>
