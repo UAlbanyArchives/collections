@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <?xml-stylesheet type='text/xsl' href='collection-level.xsl'?> 
 <!DOCTYPE ead SYSTEM 'ead.dtd'>
-<ead id="nam_ua320">
+<ead id="nam_ua657">
   <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua320.html">nam_ua320</eadid>
+    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua657.html">nam_ua657</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>OFFICE OF EQUIPMENT MANAGEMENT RECORDS (UA320)<date normal="1963/1972" type="inclusive">1963-1972</date></titleproper>
+        <titleproper>DEPARTMENT OF COUNSELING AND PERSONNEL SERVICES RECORDS (UA657)<date normal="1965/1976" type="inclusive">1965-1976</date></titleproper>
         <author>unprocessed</author>
       </titlestmt>
       <publicationstmt>
@@ -18,7 +18,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Benjamin Covell<date normal="2017-02-14">2017 February 14</date></creation>
+      <creation>Benjamin Covell<date normal="2017-02-28">2017 February 28</date></creation>
       <langusage>
         <language encodinganalog="Language" langcode="eng">English</language>
       </langusage>
@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <titleproper>Office of Equipment Management Records<date normal="1963/1972" type="inclusive">1963-1972</date></titleproper>
+      <titleproper>Department of Counseling and Personnel Services Records<date normal="1965/1976" type="inclusive">1965-1976</date></titleproper>
       <publisher/>
       <date type="publication">Copyright 2017 By the University at Albany, SUNY. All rights reserved.</date>
       <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
@@ -35,17 +35,17 @@
   <archdesc level="collection">
     <did>
       <head>Descriptive Summary</head>
-      <unitid>nam_ua320</unitid>
-      <unittitle>Office of Equipment Management Records<unitdate label="Date:" normal="1963/1972" type="inclusive">1963-1972</unitdate></unittitle>
-      <abstract label="Abstract:">This collection consists of inactive records from the Office of Equipment Management (formerly the Equipment Office), which is responsible for overseeing equipment purchases and inventory management at the University.</abstract>
+      <unitid>nam_ua657</unitid>
+      <unittitle>Department of Counseling and Personnel Services Records<unitdate label="Date:" normal="1965/1976" type="inclusive">1965-1976</unitdate></unittitle>
+      <abstract label="Abstract:">Contains records from the Department of Counseling and Personnel Services (previously known as the Department of Guidance and Personnel Services).  Consists primarily of budget documentation, meeting minutes, and course planning materials.</abstract>
       <langmaterial>
         <language langcode="eng">English</language>
       </langmaterial>
       <origination>
-        <persname encodinganalog="100" source="local">State University of New York at Albany. Office of Equipment Management</persname>
+        <corpname encodinganalog="110" source="local">State University of New York at Albany. Department of Counseling and Personnel Services</corpname>
       </origination>
       <physdesc>
-        <extent unit="cubic ft.">5.33</extent>
+        <extent unit="cubic ft.">0.57</extent>
       </physdesc>
       <physloc label="Storage:">The materials are located onsite in the department.</physloc>
       <repository label="Repository:">
@@ -60,11 +60,11 @@
     </acqinfo>
     <bioghist>
       <head>Historical Note</head>
-      <p>The University at Albany's Office of Equipment Management, a unit of the Office of Institutional Services, provides careful and responsible management of University, Research Foundation and University at Albany Foundation equipment and qualified furniture inventory.</p>
+      <p>Originally called the Department of Guidance and Personnel Services, the title was changed to the Department of Counseling and Personnel Services in 1972.  The department is currently called the Deparment of Educational and Counseling Psychology and offers programs in Counseling Psychology, Educational Psychology and Methodology, School Psychology, and Special Education.</p>
     </bioghist>
     <scopecontent>
       <head>Scope and Content Information</head>
-      <p>This collection includes: equipment lists and specification sheets for different buildings on campus, blueprints, campus construction progress reports and extension plans, and memoranda.  Records in this collection were primarily created by two individuals at the Equipment Office: Karl Scharl and Joel True.  It also contains records created by Walter Tisdale, who was the Assistant to the President for Planning and Development and worked with the Equipment Office to coordinate campus construction projects.</p>
+      <p>This collection includes: course curricula, syllabi, and schedules; program descriptions; NDEA Fellowship information; budget and salary data; meeting minutes; newsletters; and correspondence on the subject of advisement.</p>
     </scopecontent>
     <arrangement encodinganalog="351$a">
       <head>Arrangement of the Collection</head>
@@ -73,18 +73,19 @@
     <prefercite>
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Office of Equipment Management Records, 1963-1972. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Office of Equipment Management Records).</p>
+      <p>Identification of specific item, series, box, folder, Department of Counseling and Personnel Services Records, 1965-1976. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Department of Counseling and Personnel Services Records).</p>
     </prefercite>
     <controlaccess>
       <head>Subject and Genre Headings</head>
+      <corpname source="lcsh" encodinganalog="610">State University of New York at Albany. School of Education</corpname>
       <corpname source="lcsh" encodinganalog="610">State University of New York at Albany</corpname>
       <subject source="lcsh" encodinganalog="650">Education, Higher--Administration</subject>
-      <subject source="lcsh" encodinganalog="650">Equipment and supplies</subject>
-      <subject source="lcsh" encodinganalog="650">College facilities</subject>
-      <subject source="lcsh" encodinganalog="650">College buildings</subject>
-      <genreform source="aat" encodinganalog="655">administrative records</genreform>
-      <genreform source="aat" encodinganalog="655">schematic drawings</genreform>
-      <genreform source="aat" encodinganalog="655">inventories</genreform>
+      <subject source="lcsh" encodinganalog="650">Educational counseling</subject>
+      <subject source="lcsh" encodinganalog="650">Teacher education</subject>
+      <genreform source="aat" encodinganalog="655">minutes (administrative records)</genreform>
+      <genreform source="aat" encodinganalog="655">syllabi</genreform>
+      <genreform source="aat" encodinganalog="655">curricula</genreform>
+      <genreform source="aat" encodinganalog="655">budgets</genreform>
     </controlaccess>
   </archdesc>
 </ead>
