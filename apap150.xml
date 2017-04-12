@@ -1,916 +1,950 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap150">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/apap150.html">nam_apap150</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap150">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap150.xml">apap150</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>JEANNE CASATELLI PAPERS (APAP150)<date normal="1966/2002" type="inclusive">1966-2002</date></titleproper>
+        <titleproper>Casatelli, Jeanne; Papers <num>apap150</num></titleproper>
         <author>Aimee Morgan</author>
         <sponsor>The arrangement and description of this collection was made possible through a New York State Archives Documentary Heritage Program Arrangement and Description Grant.</sponsor>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2005" type="publication">Copyright 2005 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2005</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Aimee Morgan<date normal="2005-03">2005 March</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 14:42:35 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2016-12">2016 December</date>
+        <date>2016 December</date>
         <item>Converted to EAD with EADMachine</item>
+      </change>
+      <change>
+        <date>2005 March</date>
+        <item>Encoded in EAD by Aimee Morgan</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap150</unitid>
-      <unittitle>Jeanne Casatelli Papers<unitdate normal="1966/2002" type="inclusive">1966-2002</unitdate><unitdate normal="1996/2002" type="bulk">1996-2002</unitdate></unittitle>
-      <abstract label="Abstract:">Jeanne Casatelli is a native of East Greenbush, New York, who has fought sprawl in her hometown for more than twenty years.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <persname encodinganalog="100" source="lcsh">Casatelli, Jeanne</persname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
+      </repository>
+      <unittitle>Jeanne Casatelli Papers<unitdate normal="1966/2002" type="inclusive">1966-2002</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="lcsh">Casatelli, Jeanne</persname>
       </origination>
-      <physdesc>
-        <extent unit="cubic ft.">2.6</extent>
+      <unitid>apap150</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.6 cubic ft.</extent>
         <physfacet>4 videotapes</physfacet>
         <dimensions unit="Digital Files">6</dimensions>
       </physdesc>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
-      </repository>
+      <unitdate normal="1996/2002" type="bulk">1996-2002</unitdate>
+      <abstract id="aspace_5408e1f4b5133791df44bb5bab362ba2">Jeanne Casatelli is a native of East Greenbush, New York, who has fought sprawl in her hometown for more than twenty years.</abstract>
+      <langmaterial id="aspace_d78ce1626feeb29d35cb97e575b1ab45">English</langmaterial>
+      <physloc id="aspace_9bc24b1b46361909ffa53acfb3444c03">The materials are located onsite in the department.</physloc>
     </did>
-    <bioghist>
+    <processinfo id="aspace_ed23577d56938b38f07aaab3e30f3d81">
+      <head>Processing Information</head>
+      <p>Processed in 2005 by Aimee Morgan.</p>
+    </processinfo>
+    <bioghist id="aspace_1d433fe4f215194218237a4f8bdac599">
       <head>Biographical History</head>
       <p>Jeanne Casatelli is a native of East Greenbush, New York, who has fought sprawl in her hometown for more than twenty years. She is a founding member of East Greenbush's Community Action Network, a grassroots organization whose stated purpose is "to promote good planning and the protection of natural, historic, and civic resources in accordance with principles espoused as Smart Growth, New Urbanism, and Quality Community." (Community Action Network of East Greenbush Statement of Purpose, undated, Series 2, Box 1, Folder 5.)</p>
-      <p>One of CAN's most visible activities was their campaign to prevent the widening of a stretch of U.S. Route 9 and 20, also known as the Columbia Turnpike, which passes through East Greenbush. New York's Department of Transportation (DOT) wanted to widen the road by a total of 34 feet, converting it from four lanes to five lanes. Casatelli and CAN argued that DOT's plan was not in keeping with new regulations that favored context sensitive design for highway projects, nor with the recommendations of Lt. Governor Mary Donahue's Quality Communities Task Force. CAN saw the rebuilding of Route 9 and 20 as an opportunity to develop a community-oriented "main street" in the suburban town of East Greenbush, which lacked a traditional town center. They argued that the road could be redesigned to comply with DOT's safety requirements without being widened to five lanes, and sought the input of nationally-renowned highway designers to support their position. CAN's campaign was unsuccessful, and the road was widened.</p>
-      <p>Casatelli is also involved in Citizens for Riverfront Action, an organization dedicated to protecting and providing access to the Hudson River in Rensselaer.</p>
+      <p> One of CAN's most visible activities was their campaign to prevent the widening of a stretch of U.S. Route 9 and 20, also known as the Columbia Turnpike, which passes through East Greenbush. New York's Department of Transportation (DOT) wanted to widen the road by a total of 34 feet, converting it from four lanes to five lanes. Casatelli and CAN argued that DOT's plan was not in keeping with new regulations that favored context sensitive design for highway projects, nor with the recommendations of Lt. Governor Mary Donahue's Quality Communities Task Force. CAN saw the rebuilding of Route 9 and 20 as an opportunity to develop a community-oriented "main street" in the suburban town of East Greenbush, which lacked a traditional town center. They argued that the road could be redesigned to comply with DOT's safety requirements without being widened to five lanes, and sought the input of nationally-renowned highway designers to support their position. CAN's campaign was unsuccessful, and the road was widened.</p>
+      <p> Casatelli is also involved in Citizens for Riverfront Action, an organization dedicated to protecting and providing access to the Hudson River in Rensselaer.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_72de5dcbcd54a7ac8d64818b2205133c">
+      <head>Scope and Contents</head>
       <p>The papers document Casatelli's interest in issue-based grassroots organizations in the late 1990s and early 2000s through her involvement in Community Action Network (CAN). CAN opposed the widening of U.S. Route 9 and 20 in East Greenbush through a vigorous campaign of public education and political action. The papers provide near-complete documentation of this campaign, including letters, e-mail, press releases, position papers, contact lists, and notes.</p>
-      <p>Information on another organization of which Casatelli was a member, Citizens for Riverfront Action (CRA), is limited to CRA's involvement in coordinating Scenic Hudson's Great River Sweep in the community of Rensselaer.</p>
-      <p>Not included in this collection are Casatelli's files on CAN's effort to save the Defreest-Church house from destruction by developers. The house, which was constructed in the 1830s, was eligible for inclusion on the National Register of Historic Places because of its links to the Anti-Rent War of the mid 1800s. It was demolished in November 2002 to make way for a Target store parking lot. Casatelli transferred her files on the Defreest-Church house to the Sierra Club Atlantic Chapter for use in potential litigation.</p>
-      <p>Since both CAN and CRA are grassroots organizations, there is virtually no information on organizational structure or membership, and no formal records of meetings. One exception is an undated statement of purpose for CAN in Series 2, Box 1, Folder 5.</p>
+      <p> Information on another organization of which Casatelli was a member, Citizens for Riverfront Action (CRA), is limited to CRA's involvement in coordinating Scenic Hudson's Great River Sweep in the community of Rensselaer.</p>
+      <p> Not included in this collection are Casatelli's files on CAN's effort to save the Defreest-Church house from destruction by developers. The house, which was constructed in the 1830s, was eligible for inclusion on the National Register of Historic Places because of its links to the Anti-Rent War of the mid 1800s. It was demolished in November 2002 to make way for a Target store parking lot. Casatelli transferred her files on the Defreest-Church house to the Sierra Club Atlantic Chapter for use in potential litigation.</p>
+      <p> Since both CAN and CRA are grassroots organizations, there is virtually no information on organizational structure or membership, and no formal records of meetings. One exception is an undated statement of purpose for CAN in Series 2, Box 1, Folder 5.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_9283104ac4e967706f91a74ab47b32cc">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into five file series.</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_7714c67cfe1449f261ec3ca243af2b52">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by Jeanne Casatelli,<date normal="2002-11">2002 November</date></p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_2e8b2d4fffdc6a4a3102b0d0f9c030c2">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_1f9afe5674ac624a143e6419fc66cd97">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
-      <p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p> The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_04193f45c9cfe1f9d408a7b140114b97">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Jeanne Casatelli Papers, 1966-2002. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Casatelli Papers).</p>
+      <p> Identification of specific item, series, box, folder, Jeanne Casatelli Papers, 1966-2002. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Casatelli Papers).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <corpname encodinganalog="610" source="lcsh">Community Action Network of East Greenbush (N.Y.)</corpname>
-      <corpname encodinganalog="610" source="lcsh">Citizens for Riverfront Action.</corpname>
-      <corpname encodinganalog="610" source="lcsh">Scenic Hudson (Organization)</corpname>
-      <subject encodinganalog="650" source="lcsh">Environmental protection -- New York (State).</subject>
-      <subject encodinganalog="650" source="lcsh">Highway planning -- New York (State) -- Citizen participation.</subject>
-      <subject encodinganalog="650" source="lcsh">Highway engineering -- New York (State).</subject>
-      <subject encodinganalog="650" source="lcsh">Hudson River (N.Y. and N.J.)</subject>
-      <subject encodinganalog="650" source="lcsh">East Greenbush (N.Y. : Town)</subject>
-      <subject encodinganalog="650" source="lcsh">Rensselaer County (N.Y.)</subject>
-      <subject encodinganalog="650" source="aat">Clippings.</subject>
-      <subject encodinganalog="650" source="aat">Videocassettes.</subject>
-      <subject encodinganalog="650" source="aat">Correspondence.</subject>
-      <subject encodinganalog="650" source="aat">Photographs.</subject>
-      <subject encodinganalog="650" source="aat">Notes.</subject>
-      <subject encodinganalog="650" source="aat">Press releases.</subject>
-      <genreform encodinganalog="655" source="aat">Fliers (printed matter)</genreform>
-      <subject encodinganalog="650" source="meg">Conservation and the Environment</subject>
-      <subject encodinganalog="650" source="meg">Social Activists and Public Advocates</subject>
-      <subject encodinganalog="650" source="meg">Rensselaer County, New York</subject>
-      <subject encodinganalog="650" source="meg">Neighborhood and Community Associations</subject>
-      <genreform source="meg" encodinganalog="655">Digital Files</genreform>
+      <subject source="lcsh">Environmental protection -- New York (State).</subject>
+      <subject source="lcsh">Highway planning -- New York (State) -- Citizen participation.</subject>
+      <subject source="lcsh">Highway engineering -- New York (State).</subject>
+      <subject source="lcsh">Hudson River (N.Y. and N.J.)</subject>
+      <subject source="lcsh">East Greenbush (N.Y. : Town)</subject>
+      <subject source="lcsh">Rensselaer County (N.Y.)</subject>
+      <subject source="aat">Clippings.</subject>
+      <subject source="aat">Videocassettes.</subject>
+      <subject source="aat">Correspondence.</subject>
+      <subject source="aat">Photographs.</subject>
+      <subject source="aat">Notes.</subject>
+      <subject source="aat">Press releases.</subject>
+      <genreform source="aat">Fliers (printed matter)</genreform>
+      <subject source="meg">Conservation and the Environment</subject>
+      <subject source="meg">Social Activists and Public Advocates</subject>
+      <subject source="meg">Rensselaer County, New York</subject>
+      <subject source="meg">Neighborhood and Community Associations</subject>
+      <genreform source="meg">Digital Files</genreform>
+      <corpname source="lcsh">Community Action Network of East Greenbush (N.Y.)</corpname>
+      <corpname source="lcsh">Citizens for Riverfront Action.</corpname>
+      <corpname source="lcsh">Scenic Hudson (Organization)</corpname>
     </controlaccess>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_apap150-1" level="series">
+    <dsc>
+      <c01 id="aspace_b1eae0af1dc25dd62b050d03fbee45b8" level="series">
         <did>
+          <unittitle>Route 9 and 20</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Route 9 and 20</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1997/2002" type="inclusive">1997-2002</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">1</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1997/2002" type="inclusive">1997-2002</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_9881e5b6c9385e319e3ba20f31d87c7b">
+          <head>Arrangement</head>
           <p>Arranged alphabetically</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_dd116f0b0b24b2294b03bd9377588fed">
+          <head>Scope and Contents</head>
           <p>This series includes extensive correspondence, e-mail, press releases, position papers, notes, and other documents related to CAN's campaign against the widening of Route 9 and 20. Much of the correspondence is outgoing and addressed to political leaders, including Governor George Pataki, Lt. Governor Mary Donahue, State Senator Joseph Bruno and his staff, and East Greenbush Town Supervisor Bob Angelini. There is also some correspondence with highway engineers from whom Casatelli sought support for a redesign of NYS-DOT's plan for Route 9 and 20. Several folders contain printed copies of e-mail. Most of these e-mails do not contain full headers with date and recipient information. In many cases it is impossible to determine when or to whom individual e-mails were sent. At the end of the series are several oversized items, including posters and a map reflecting community ideas for the redesign of Route 9 and 20.</p>
         </scopecontent>
-        <c02 id="nam_apap150-1_1">
+        <c02 id="aspace_400064adaf52537b506b437c51d821df" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Addresses of Homes and Business on Route 9 and 20</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_f52166778aa438ff590160d87e1709a2" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_d8d3c7f880e54febf97e5bab2c0ba0d5" parent="aspace_f52166778aa438ff590160d87e1709a2" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_2">
+        <c02 id="aspace_7b0d16927955cb7ade8a22e30bc2d72a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Conceptual Stage Relocation Plan, U.S Route 9 and 20</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1997">ca. 1997</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">ca. 1997</unitdate>
+            <container id="aspace_d422b71da8ced72880b2242403f3c8de" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_b1b5070c2ed6e153b6682b81cfd6f243" parent="aspace_d422b71da8ced72880b2242403f3c8de" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_3">
+        <c02 id="aspace_0e67aeade98a0b55b9f65bbce6a4c0a5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Contact List</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1998/2001">ca. 1998-ca. 2001</unitdate>
+            <unitdate normal="1998/2001" type="inclusive">ca. 1998-ca. 2001</unitdate>
+            <container id="aspace_1c3d4ff2ac13656d2d2366769324cbdd" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_7b776daf61ee4f49a9e4b68749111b7a" parent="aspace_1c3d4ff2ac13656d2d2366769324cbdd" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_4">
+        <c02 id="aspace_198854e7b258522b5c17e63424da2ed2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1997/1998">1997-1998</unitdate>
+            <unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate>
+            <container id="aspace_200d57095d5cf28cdedcf299881dc1da" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_1dc924b654da60ef3ff0997de11952e1" parent="aspace_200d57095d5cf28cdedcf299881dc1da" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_5">
+        <c02 id="aspace_e5aae3e3bf3d228d6156dd31a0087d8e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1999-01/1999-06">1999 January-June</unitdate>
+            <unitdate normal="1999-01/1999-06" type="inclusive">1999 January-June</unitdate>
+            <container id="aspace_9260cdaa810d960e4c6fc30a65c3c0c6" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_da0c8ffb5386dd559f6e5ff040690040" parent="aspace_9260cdaa810d960e4c6fc30a65c3c0c6" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_6">
+        <c02 id="aspace_7c88992ec9a19fefc47873ae7b97adfa" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1999-07/1999-12">1999 July-December</unitdate>
+            <unitdate normal="1999-07/1999-12" type="inclusive">1999 July-December</unitdate>
+            <container id="aspace_0fa9c317c1093b7c8a290e3cc76ba4d6" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_199bd399281d5813c1beedcec05cd3df" parent="aspace_0fa9c317c1093b7c8a290e3cc76ba4d6" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_7">
+        <c02 id="aspace_4dc1074b6711e5c32dd0b89624afff83" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2000">2000</unitdate>
+            <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+            <container id="aspace_75eaa29c0b39886019c3a0a409ad3e30" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_97cceb44139a9a28e8efbe3c51430968" parent="aspace_75eaa29c0b39886019c3a0a409ad3e30" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_8">
+        <c02 id="aspace_ac74f3b5fe5fe2d5defdd5051957d49c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2001-01/2001-02">2001 January-February</unitdate>
+            <unitdate normal="2001-01/2001-02" type="inclusive">2001 January-February</unitdate>
+            <container id="aspace_6cc768a388d8f2f6db41e26190c54d95" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_a1fedaa0fab299f960c41a85dfccc9d6" parent="aspace_6cc768a388d8f2f6db41e26190c54d95" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_9">
+        <c02 id="aspace_04a7edb3debee18f92e9c453c1544928" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2001-03/2001-04">2001 March-April</unitdate>
+            <unitdate normal="2001-03/2001-04" type="inclusive">2001 March-April</unitdate>
+            <container id="aspace_d33133f92a56dbda543763e30b242ce7" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_7714fcca2a03af84a7674d3b03adfd19" parent="aspace_d33133f92a56dbda543763e30b242ce7" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_10">
+        <c02 id="aspace_4d6ea23696ccc6b2b158c8cd42111343" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2001-05/2001-06">2001 May-June</unitdate>
+            <unitdate normal="2001-05/2001-06" type="inclusive">2001 May-June</unitdate>
+            <container id="aspace_f8884d5ceb73c7176d099a90882ce832" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_6b8ac16f6d4db557509a0eda19ae2fba" parent="aspace_f8884d5ceb73c7176d099a90882ce832" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_11">
+        <c02 id="aspace_52ade178b24539e7c17afbb9c40631b3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2001-07/2001-12">2001 July-December</unitdate>
+            <unitdate normal="2001-07/2001-12" type="inclusive">2001 July-December</unitdate>
+            <container id="aspace_3193cb0f3601a7022d8d71c04a4a4fe1" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_5df6af9bf45ceaaa17632f46cf34b347" parent="aspace_3193cb0f3601a7022d8d71c04a4a4fe1" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_12">
+        <c02 id="aspace_e010d9beb1481ea784e307ce0c157370" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2002">2002</unitdate>
+            <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+            <container id="aspace_e738781674d3607cc6f4e467d903f634" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_e06fe68c8f8d5de3301a1a53faac835b" parent="aspace_e738781674d3607cc6f4e467d903f634" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_13">
+        <c02 id="aspace_fe8b00569c490158c8361d2c0f151704" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Correspondence - Department of Transportation</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1998/1999">1998-1999</unitdate>
+            <unitdate normal="1998/1999" type="inclusive">1998-1999</unitdate>
+            <container id="aspace_ab149d85563cd2237e36e255df81ceab" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_ba65bccdb0d77ba3b9755487f6726213" parent="aspace_ab149d85563cd2237e36e255df81ceab" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_14">
+        <c02 id="aspace_106fcc487393a411f61242d2de7c2244" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Department of Transportation, Route 9 and 20 Newsletter, Issue 3</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1999">1999</unitdate>
+            <unitdate normal="1999/1999" type="inclusive">1999</unitdate>
+            <container id="aspace_54b758773fde7b8f5d4f190b2d494aa9" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_23cfb14fc5208dc07646999b39e4b36c" parent="aspace_54b758773fde7b8f5d4f190b2d494aa9" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_15">
+        <c02 id="aspace_cd6bf880784b1c64985b6f3f6ee848e6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>E-Mail</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1999/2002">1999-2002</unitdate>
+            <unitdate normal="1999/2002" type="inclusive">1999-2002</unitdate>
+            <container id="aspace_01bc23cb7be7a92e2fa8bcba5e30d028" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_140ba08cd216e6b8cb20ca9d2fa6766c" parent="aspace_01bc23cb7be7a92e2fa8bcba5e30d028" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_16">
+        <c02 id="aspace_21f8920b7c45b5fce5133e3fd9b1a523" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>E-Mail</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1999/2002">1999-2002</unitdate>
+            <unitdate normal="1999/2002" type="inclusive">1999-2002</unitdate>
+            <container id="aspace_edddc4a311fa951ca1c86133c3e352b2" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_7014df320c5f91e8798dc662e310ea62" parent="aspace_edddc4a311fa951ca1c86133c3e352b2" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_17">
+        <c02 id="aspace_396b75dbb1d50ce26db3715f0f9f75d4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>E-Mail</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_bfbb9b3867ddb77a79e9fba8a3d620e2" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_6a5fcd2c5ae6e7f14153b74e1368ac40" parent="aspace_bfbb9b3867ddb77a79e9fba8a3d620e2" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_18">
+        <c02 id="aspace_4e6628fe9e636af462460cb100882483" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>E-Mail</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_b0c7e1f7db839173167f4baf6d39f2b3" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_7c2f71fb54242e94ea2fdf14c0eac6f8" parent="aspace_b0c7e1f7db839173167f4baf6d39f2b3" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_19">
+        <c02 id="aspace_cf1d09625a4364147e96c03e96dfb0ed" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>Final Design Report/ Environmental Assessment</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1999">1999</unitdate>
+            <unitdate normal="1999/1999" type="inclusive">1999</unitdate>
+            <container id="aspace_127a4718e9ba685b9331dbc7d7a9a55c" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_f617c02c12de680fd40b8efe70f2cdce" parent="aspace_127a4718e9ba685b9331dbc7d7a9a55c" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_20">
+        <c02 id="aspace_07a9e12f78a2b94d5fa840c91553424a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>Notes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1998/2001">ca. 1998-ca. 2001</unitdate>
+            <unitdate normal="1998/2001" type="inclusive">ca. 1998-ca. 2001</unitdate>
+            <container id="aspace_4acc8fa0bd0f5cec740509ebba5dd870" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_52e3c7aac535722075469050bbecba77" parent="aspace_4acc8fa0bd0f5cec740509ebba5dd870" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_21">
+        <c02 id="aspace_ed6783a269d2d5d5c93f118a7d5195d8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>Notes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1998/2001">ca. 1998-ca. 2001</unitdate>
+            <unitdate normal="1998/2001" type="inclusive">ca. 1998-ca. 2001</unitdate>
+            <container id="aspace_645381c9cc8d53ea0af77f63049f79e5" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_d1652c95d700c921656edfc23e25f1db" parent="aspace_645381c9cc8d53ea0af77f63049f79e5" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_22">
+        <c02 id="aspace_06a439fe9ef8024d0f152005774d656b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>Parcel Maps - Route 9 and 20 Properties</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_a64f89284caff7e21ade17e3c129282c" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_ac131a4fadf05d4c21866f2695f843c7" parent="aspace_a64f89284caff7e21ade17e3c129282c" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_23">
+        <c02 id="aspace_95e211ff8f665b76fe165bd90234c86f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23</container>
             <unittitle>Petitions</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1997/2001">1997-2001</unitdate>
+            <unitdate normal="1997/2001" type="inclusive">1997-2001</unitdate>
+            <container id="aspace_9bca45457726f48378f6ea4fe6a7f3cc" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_d99cd2141efbb04e33390acd98a4c8ab" parent="aspace_9bca45457726f48378f6ea4fe6a7f3cc" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_24">
+        <c02 id="aspace_ef6f842550d66255018aad1db5bebe24" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">24</container>
             <unittitle>Position Papers, Fact Sheets, and Fliers</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1998/2001">1998-2001</unitdate>
+            <unitdate normal="1998/2001" type="inclusive">1998-2001</unitdate>
+            <container id="aspace_715130358608647816c2dea26854763a" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_cb210f831ab02036bb57ff6bce50da70" parent="aspace_715130358608647816c2dea26854763a" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_25">
+        <c02 id="aspace_f1b1d50f80127084f1f54bbbb1d770e4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">25</container>
             <unittitle>Press Releases</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1997/2001">1997-2001</unitdate>
+            <unitdate normal="1997/2001" type="inclusive">1997-2001</unitdate>
+            <container id="aspace_fb6f825e9bb75353c2bb89b05ee2fa7f" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_51f4a69d9527ea6399ce619ce307a919" parent="aspace_fb6f825e9bb75353c2bb89b05ee2fa7f" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_26">
+        <c02 id="aspace_3ea2f9c9d5b6f8ada95b521d34731009" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">26</container>
             <unittitle>Project Location Map</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_c40b2062dd338f01b975bcb6108e3f28" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_ea17407e73b470342162016f60a62443" parent="aspace_c40b2062dd338f01b975bcb6108e3f28" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_27">
+        <c02 id="aspace_1df54019e1bfeb98fa60dea3bf792d2e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">27</container>
             <unittitle>Proposal Buildout Images</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_3c88c8a50b421ef677bdc51eea986dfe" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_0cfcd7da199bf6bd177c558216b32693" parent="aspace_3c88c8a50b421ef677bdc51eea986dfe" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_28">
+        <c02 id="aspace_3004bbced8583f4486549a77ca4ebced" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">28</container>
-            <unittitle>Proposal and Placement Plan,  First Draft of Colombia Turnpikes Transportation Management System</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1998">1998</unitdate>
+            <unittitle>Proposal and Placement Plan, First Draft of Colombia Turnpikes Transportation Management System</unittitle>
+            <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+            <container id="aspace_76ef28ad0eefed41de71829175b229a3" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_caa0a07e52bac4af2474673466b37a55" parent="aspace_76ef28ad0eefed41de71829175b229a3" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_29">
+        <c02 id="aspace_a233bcc6009070c093c429f1483b4a7f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">29</container>
             <unittitle>Public Hearing on 9 and 20 Proposal - Transcript</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1998">1998</unitdate>
+            <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+            <container id="aspace_f73ee7913e4f9ce06dfbf0c255180744" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_5a55eb826ab037732d824a8f85137aed" parent="aspace_f73ee7913e4f9ce06dfbf0c255180744" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_30">
+        <c02 id="aspace_dae9d0b93fcebb1dd8d8bdacb25c622a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">30</container>
             <unittitle>Report from the Public on the Rt. and 20/Colombia Turnpike Project</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1998">1998</unitdate>
+            <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+            <container id="aspace_718809366bf1a0b65a2d4623887b02c7" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_c08d2b055c3235d979ddec0bec4827ae" parent="aspace_718809366bf1a0b65a2d4623887b02c7" type="Folder">30</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_31">
+        <c02 id="aspace_0353279a0d68d19a5bfce82b704d0260" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">31</container>
             <unittitle>Signalized Intersections Input Worksheets</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_06814bb40bb8cb8f4ff5805023e3a955" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_7cb509cce48086a63d9fd45f4504c6a1" parent="aspace_06814bb40bb8cb8f4ff5805023e3a955" type="Folder">31</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_32">
+        <c02 id="aspace_ca5eff7818a498d1fe115a147e910241" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">32</container>
             <unittitle>Survey of Route 9 and 20 Business Owners</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_a840df84eed3d1465da748c0fc125ea7" label="Mixed Materials" type="Box">1 (1-Route 9 and 20)</container>
+            <container id="aspace_7038c318bca07889306950ed0b81854f" parent="aspace_a840df84eed3d1465da748c0fc125ea7" type="Folder">32</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_33">
+        <c02 id="aspace_2c6ad56b2f510152b7e2e29369231944" level="file">
           <did>
-            <container type="Oversized">1</container>
-            <container type="Folder">1</container>
             <unittitle>Community Action Network, Route 9 and 20 Posters</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_160abf1523c7a2d4ad63fed0b1c75e44" label="Mixed Materials" type="Oversized">1</container>
+            <container id="aspace_610c1651e3a23b7d34e917013a6aef87" parent="aspace_160abf1523c7a2d4ad63fed0b1c75e44" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-1_34">
+        <c02 id="aspace_b7525a14da9a7f87d82810c9a9fe5ecd" level="file">
           <did>
-            <container type="Oversized">1</container>
-            <container type="Folder">2</container>
             <unittitle>Route 9 and 20, Maps and Plans</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_e061ebf37772f8404fce67e2039845eb" label="Mixed Materials" type="Oversized">1</container>
+            <container id="aspace_a09979a6b8fecb633c28102eb271911b" parent="aspace_e061ebf37772f8404fce67e2039845eb" type="Folder">2</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_apap150-2" level="series">
+      <c01 id="aspace_38b6fbdf30e63778ac55191f89548b03" level="series">
         <did>
+          <unittitle>Subject Files</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Subject Files</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1966/2002" type="inclusive">1966-2002</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">1</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1966/2002" type="inclusive">1966-2002</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_807c7e592de641035103b0149f4ec8f8">
+          <head>Arrangement</head>
           <p>Arranged alphabetically</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_0d47b770b84d775e8653c27d5478a434">
+          <head>Scope and Contents</head>
           <p>This series contains files on various areas of concern to Casatelli and the activist groups with which she was involved. There is extensive information on topics relevant to the campaign against Route 9 and 20, such as road design, smart growth, and suburban sprawl. Other subjects include the Hudson River, waterfront access in Rensselaer County, and East Greenbush political life.</p>
-          <p>There is one folder on Scenic Hudson's Great River Sweep. The River Sweep was a grassroots event coordinated by volunteers in local communities along the Hudson River. Volunteers from these communities cooperated to remove debris from the river. Casatelli and her Citizens for Riverfront Action coordinated the Great River Sweep in Rensselaer from 1998-2000. The Scenic Hudson Great River Sweep folder contains correspondence, press releases, financial records, and other documents related to the local River Sweep.</p>
+          <p> There is one folder on Scenic Hudson's Great River Sweep. The River Sweep was a grassroots event coordinated by volunteers in local communities along the Hudson River. Volunteers from these communities cooperated to remove debris from the river. Casatelli and her Citizens for Riverfront Action coordinated the Great River Sweep in Rensselaer from 1998-2000. The Scenic Hudson Great River Sweep folder contains correspondence, press releases, financial records, and other documents related to the local River Sweep.</p>
         </scopecontent>
-        <c02 id="nam_apap150-2_1">
+        <c02 id="aspace_cb96a87420c22bb11761db97a37dc30f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
-            <unittitle>Articles -  Miscellaneous</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1998/2001">1998-2001</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unittitle>Articles - Miscellaneous</unittitle>
+            <unitdate normal="1998/2001" type="inclusive">1998-2001</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_19610c09e4e9937519594f978de95d64" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_e2945b73e6f2c7b39eeebf5e9555f568" parent="aspace_19610c09e4e9937519594f978de95d64" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_2">
+        <c02 id="aspace_e144a086d366c72659da04b554eb9e84" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>BASF</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2002">2002</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_6d1ce962824a0e106673ffb9b6085eb4" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_f8a8b15037c51cf1e6aa0376fb62eaea" parent="aspace_6d1ce962824a0e106673ffb9b6085eb4" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_3">
+        <c02 id="aspace_5419e7fddd2556c3cc55eb5c977ff2d9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Capital District Transportation Committee</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2001">2001</unitdate>
+            <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_606a43cbca0be3724d27737179a24bcf" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_d76712134d0a35d845140cfde694f7ae" parent="aspace_606a43cbca0be3724d27737179a24bcf" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_4">
+        <c02 id="aspace_50b0eccfebc9036b6410de718f18a419" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Community Action Network of East Greenbush, Statement of Purpose</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_71f83e6713bdd668e5d544dbb9bef3d3" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_8440da4d1fec2b685d81c5c0abb9e168" parent="aspace_71f83e6713bdd668e5d544dbb9bef3d3" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_5">
+        <c02 id="aspace_7df0e0615878d7169a91226faa4674d3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Community Image Survey</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2001">2001</unitdate>
+            <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_ea0bdf0c9a2bbb3adc161f051767abbf" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_e6df0e437e1d423873e894479fb860af" parent="aspace_ea0bdf0c9a2bbb3adc161f051767abbf" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_6">
+        <c02 id="aspace_edf837cec56222f461ebf999dd6acbec" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Context Sensitive Design</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1998/1999">1998-1999</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="2001">2001</unitdate>
+            <unitdate normal="1998/1999" type="inclusive">1998-1999</unitdate>
+            <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_3e3715c2becddfedf0c760683e89de56" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_906588cdf058dbc62965132ea1a49cf5" parent="aspace_3e3715c2becddfedf0c760683e89de56" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_7">
+        <c02 id="aspace_02737cce1e1a66276fb9f98cb91cd1fb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Contributors to Senator Joseph Bruno's Campaign</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2001">2001</unitdate>
+            <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_207f1ce52848f620ec21b58902067ee2" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_3d3285739d9b6c832e3507e0c6250eda" parent="aspace_207f1ce52848f620ec21b58902067ee2" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_8">
+        <c02 id="aspace_a720a243f5f6ef1af52edef927c2ddca" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Defreestville Area Neighborhoods Association</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2000">2000</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_0242eb72e519346da5bdee5a8dd949cc" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_d7e7e70f1ba8ce5d092b8db1b0fe709d" parent="aspace_0242eb72e519346da5bdee5a8dd949cc" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_9">
+        <c02 id="aspace_4da36df7829f47888b2f205e6367d728" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>East Greenbush, Boat Launch</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1997/2000">1997-2000</unitdate>
+            <unitdate normal="1997/2000" type="inclusive">1997-2000</unitdate>
+            <container id="aspace_61d3633935a3cd1830bcc2b9c4a2d148" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_bc2c18ce0ad117a2d2a6b268bbe7e0b6" parent="aspace_61d3633935a3cd1830bcc2b9c4a2d148" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_10">
+        <c02 id="aspace_cc0232672f15866e9174b30c6b2c880a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>East Greenbush, Politics, 1999, 2001</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1999">1999</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="2001">2001</unitdate>
+            <unitdate normal="1999/1999" type="inclusive">1999</unitdate>
+            <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_34e8929b3fcccb4a8c5f300c7bbb8cc8" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_df3f75caa7cc6e4f9db6acd37cade996" parent="aspace_34e8929b3fcccb4a8c5f300c7bbb8cc8" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_11">
+        <c02 id="aspace_fb2c596047b9c2816a1cc7662d97ec9b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Energy, Alternative Sources, 2000</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2000">2000</unitdate>
+            <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+            <container id="aspace_5aa650845e6813fab34776de42eb19d2" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_c99da4cea1f6b60b9b1a45c95897bc7c" parent="aspace_5aa650845e6813fab34776de42eb19d2" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_12">
+        <c02 id="aspace_4d27e7c02d069b5baf3ba0f0f2bf40f3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Friends of Hudson/St. Lawrence Cement Project</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2002">2002</unitdate>
+            <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+            <container id="aspace_701b4752b31577510eb0b55950d073f1" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_115c4081c33e9d7f3a66cbfad6d69599" parent="aspace_701b4752b31577510eb0b55950d073f1" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_13">
+        <c02 id="aspace_543309f131c59093b30f312d6accefec" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>A Good Place To Live, Terry Pundell, Excerpts</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_528ad12a6fcae5cc0e7b064d64d5e096" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_6e4d2b5fbc193dd7be973ea579f60274" parent="aspace_528ad12a6fcae5cc0e7b064d64d5e096" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_14">
+        <c02 id="aspace_e098526e6157d888796d4526d7dd0ea4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Greater Capital Region Teacher Center</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1995">1995</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="2001">2001</unitdate>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_3104781d97e0ff61d3553e68dbe737b7" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_060cdfa7863792ac4cb975523029b863" parent="aspace_3104781d97e0ff61d3553e68dbe737b7" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_15">
+        <c02 id="aspace_d218fd591d8f51ca5027a1506984470c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Healthy Heart Program, New York State Department of Health</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2001">2001</unitdate>
+            <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_eb71b52c9668eb61f8f5ae26db69efa6" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_4530f9a4299734879016aa9060a4aebe" parent="aspace_eb71b52c9668eb61f8f5ae26db69efa6" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_16">
+        <c02 id="aspace_db5bbba6769cc2966480dacf3d5f41dc" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Hudson River and Hudson River Valley</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1995/2001">1995-2001</unitdate>
+            <unitdate normal="1995/2001" type="inclusive">1995-2001</unitdate>
+            <container id="aspace_67dd35727c7f923dc8c3ac8df6bdf79f" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_a91d8d5cf8ef4bb009b7bab922d1dbee" parent="aspace_67dd35727c7f923dc8c3ac8df6bdf79f" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_17">
+        <c02 id="aspace_7fba24f514515b474c4562c1aa565e85" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>Miscellaneous</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1996/2001">ca. 1996-ca. 2001</unitdate>
+            <unitdate normal="1996/2001" type="inclusive">ca. 1996-ca. 2001</unitdate>
+            <container id="aspace_b37b009b86c07dda0733ee0b9be8c7d6" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_70a47f141a7f6614f139a8bc8223a446" parent="aspace_b37b009b86c07dda0733ee0b9be8c7d6" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_18">
+        <c02 id="aspace_f7e400a817b8b1c07daa16d21afd818e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>National Register of Historic Places</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_60732463a71d347ca99b0b7d969631bc" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_346eabc630f117cc6b90fe568458fb3f" parent="aspace_60732463a71d347ca99b0b7d969631bc" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_19">
+        <c02 id="aspace_6243a64d3a1bf96b77ab9d0c663209c2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>New York State Department of State, Publications</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1998">1998</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="2000">2000</unitdate>
+            <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+            <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+            <container id="aspace_0c72c4f2f8d7b6c451c243af495489ad" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_e0f03f512374308dce464e18e61e6966" parent="aspace_0c72c4f2f8d7b6c451c243af495489ad" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_20">
+        <c02 id="aspace_967a685ce2df1c1bbc0fa40d6da307f1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>New York State Governor's Office, Press Releases</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1998">1998</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="2001">2001</unitdate>
+            <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+            <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_1058e61857ac39673d97f1384c9740da" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_b6b491e19e89281d47fbd67645a2bead" parent="aspace_1058e61857ac39673d97f1384c9740da" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_21">
+        <c02 id="aspace_e7f35c48a50ca6f869bd1c6fdcf5f9f4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>New York State, History and Facts</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_acb7bb1ac22a6bb5ec21e677f680bbb2" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_7adca5b607b3e17a2f5eb49bab31f287" parent="aspace_acb7bb1ac22a6bb5ec21e677f680bbb2" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_22">
+        <c02 id="aspace_b81b5d01bd627deff56d5d0508a1d23d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>New York State Tourism, Brochures, and Postcards</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_915fc765943d1a39858ce141de8a691c" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_0a600ef68817c60b21e6dd5a7f6a33fa" parent="aspace_915fc765943d1a39858ce141de8a691c" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_23">
+        <c02 id="aspace_ca827c5d841847172f9fd21c5707a212" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23</container>
             <unittitle>Northern Adirondack Revitalization Initiative, Briefing Paper</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_daf4df3b4b9d5541fe797e9a60839738" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_56ea943b2e00a91c465a52900d1a0e3e" parent="aspace_daf4df3b4b9d5541fe797e9a60839738" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_24">
+        <c02 id="aspace_73c17cf9272a48eb411ac054bd3f44c4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">24</container>
             <unittitle>Planning Commissioners' Journal, Articles</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1992/1994">1992-1994</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1996-1997">1996-1997</unitdate>
+            <unitdate normal="1992/1994" type="inclusive">1992-1994</unitdate>
+            <unitdate normal="1996/1997" type="inclusive">1996-1997</unitdate>
+            <container id="aspace_7f1d366047dac2dd7f174495babe70e2" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_118dca40fd2a04595a74053c7f1525ba" parent="aspace_7f1d366047dac2dd7f174495babe70e2" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_25">
+        <c02 id="aspace_ce318411b4b603f84d26efb36b0f750d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">25</container>
             <unittitle>Project for Public Spaces, Inc.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2000">2000</unitdate>
+            <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+            <container id="aspace_2f72f51c4938bafc926c42384bd395ca" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_6063e0e46743cff45f73bf2f690276b4" parent="aspace_2f72f51c4938bafc926c42384bd395ca" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_26">
+        <c02 id="aspace_1fd5d51e0b71c8b155751c3cde7aeb72" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">26</container>
             <unittitle>Property Rights Foundation of America</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2000">2000</unitdate>
+            <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+            <container id="aspace_3e144dd85da75e19c5f5b6710751d7fb" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_bfbc0d384113627eff37c7a3cf49fb43" parent="aspace_3e144dd85da75e19c5f5b6710751d7fb" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_27">
+        <c02 id="aspace_7e9350b64f139b3b02b966921a637a18" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">27</container>
             <unittitle>Quality Coasts, Quality Communities, Waterfront Rediscovery Conference</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2001">2001</unitdate>
+            <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_c067d137a7f2e68b2073d812c5520d2a" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_63d7cab1eedc915eed40ef90a91ed85b" parent="aspace_c067d137a7f2e68b2073d812c5520d2a" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_28">
+        <c02 id="aspace_e76d96fa810c8b3c2a5732cb46b46e85" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">28</container>
             <unittitle>Quality Communities, Demonstration Program and Task Force</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2000/2001">2000-2001</unitdate>
+            <unitdate normal="2000/2001" type="inclusive">2000-2001</unitdate>
+            <container id="aspace_c09199f72ab8d18aab9f93839310fe96" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_5e105c6fd8f19bb954b4f25a3e6fdf85" parent="aspace_c09199f72ab8d18aab9f93839310fe96" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_29">
+        <c02 id="aspace_917c469b6650ce5f8ff5289d202ed2d2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">29</container>
             <unittitle>Quality Communities, Quality Coasts Conference, Brochure</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2002">2002</unitdate>
+            <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+            <container id="aspace_88bb29840ba6ea849d41a8bbbb3ab9ff" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_a352af704eb990e6afa3c86cbccff400" parent="aspace_88bb29840ba6ea849d41a8bbbb3ab9ff" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_30">
+        <c02 id="aspace_2dcfdd4224f0c97e8e39a985009b01d4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">30</container>
             <unittitle>Rensselaer</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1996/2001">1996-2001</unitdate>
+            <unitdate normal="1996/2001" type="inclusive">1996-2001</unitdate>
+            <container id="aspace_e960c36f2066ad8029e4a926b13583b3" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_5639f11c0afd24e9a0bfe519857dd925" parent="aspace_e960c36f2066ad8029e4a926b13583b3" type="Folder">30</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_31">
+        <c02 id="aspace_ab6a9809ca3c2a1d8b5400c5cbdfd1df" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">31</container>
             <unittitle>Rensselaer County 1791-1966, Excerpts</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966">ca. 1966</unitdate>
+            <unitdate normal="1966/1966" type="inclusive">ca. 1966</unitdate>
+            <container id="aspace_fe8ac893e87d74ae5787c33d80f7ed21" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_a24f2edaf593bdf400b97431d1f94e51" parent="aspace_fe8ac893e87d74ae5787c33d80f7ed21" type="Folder">31</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_32">
+        <c02 id="aspace_c5bb1b27f08eefe3d7ce20d659890825" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">32</container>
             <unittitle>"Rensselaer: The Right Side of the River" Campaign</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1994">1994</unitdate>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_896553fd59a8c0ace27750af3a120857" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_5bf7f9a71f716ba4dda91fc453399c9f" parent="aspace_896553fd59a8c0ace27750af3a120857" type="Folder">32</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_33">
+        <c02 id="aspace_8a26bbef10b36328c26fbb5fb79272bf" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">33</container>
             <unittitle>Rensselaer Waterfront</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1997/1998">1997-1998</unitdate>
+            <unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate>
+            <container id="aspace_111eacb70d3a3269623b9b606f3e795c" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_29a2bfab3030e1bd3cb989ea99acc931" parent="aspace_111eacb70d3a3269623b9b606f3e795c" type="Folder">33</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_34">
+        <c02 id="aspace_4151e230010cee5be81cacf2246a962c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">34</container>
             <unittitle>Riverview Road, Rexford</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1999">1999</unitdate>
+            <unitdate normal="1999/1999" type="inclusive">1999</unitdate>
+            <container id="aspace_19d532172c972b9c25b820a4657cde85" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_ac4d04b34ea8524fa784cf25f0bec163" parent="aspace_19d532172c972b9c25b820a4657cde85" type="Folder">34</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_35">
+        <c02 id="aspace_031fabc75498cbc16330d206daf99e8f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">35</container>
             <unittitle>Road Design</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1984">1984</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1997-1999">1997-1999</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="2001">2001</unitdate>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <unitdate normal="1997/1999" type="inclusive">1997-1999</unitdate>
+            <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_abe6d859f05bdb2c39d410c5b1c226df" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_3c17debf3863b8bcd29e6f023a379090" parent="aspace_abe6d859f05bdb2c39d410c5b1c226df" type="Folder">35</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_36">
+        <c02 id="aspace_38b633a7eb5d873a1286725840248762" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">36</container>
             <unittitle>Scenic Hudson, Great River Sweep</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1998/2000">1998-2000</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="1998/2000" type="inclusive">1998-2000</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_a95b8785179d3a45610f63b7e93e3cee" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_f3c700ebd8e43bd88fffa3fae1d81a7a" parent="aspace_a95b8785179d3a45610f63b7e93e3cee" type="Folder">36</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_37">
+        <c02 id="aspace_5923ae19fb20b901fdf8104b9a14324f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">37</container>
             <unittitle>Smart Growth</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1995/2002">1995-2002</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="1995/2002" type="inclusive">1995-2002</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_4148d388f89aba72cffeddd72cab1904" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_6154f201d61e0a807ea237b675dfa2d7" parent="aspace_4148d388f89aba72cffeddd72cab1904" type="Folder">37</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_38">
+        <c02 id="aspace_cf475933983e1184b85439c5dcc08161" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">38</container>
             <unittitle>Smart Growth, Urban Advantage</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2001">ca. 2001</unitdate>
+            <unitdate normal="2001/2001" type="inclusive">ca. 2001</unitdate>
+            <container id="aspace_f40c2b0c815dfa79a550bdb290599935" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_dabf90b17bc457b87d5602a3b2e392b5" parent="aspace_f40c2b0c815dfa79a550bdb290599935" type="Folder">38</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_39">
+        <c02 id="aspace_2516352b2e44022f93090b68b5f4e5f5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">39</container>
             <unittitle>Surface Transportation Policy Project</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1996">1996</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1998">1998</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="2001">2001</unitdate>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+            <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_ed67596d5df6b2a929e1b2ea8c614a11" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_09331b5884961a0e10bbf4e1803ac8d5" parent="aspace_ed67596d5df6b2a929e1b2ea8c614a11" type="Folder">39</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_40">
+        <c02 id="aspace_3a05bf876a906e562756f226247dab2a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">40</container>
             <unittitle>Urban Design Group</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2000">ca. 2000</unitdate>
+            <unitdate normal="2000/2000" type="inclusive">ca. 2000</unitdate>
+            <container id="aspace_fd0210f7ed6bc1c23c2986e295858d98" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_377ad564489cb0a3d88b5253f791dff3" parent="aspace_fd0210f7ed6bc1c23c2986e295858d98" type="Folder">40</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_41">
+        <c02 id="aspace_e811181ece04d04945c359bd34aa81fa" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">41</container>
             <unittitle>Walkable Communities Inc</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2000">ca. 2000</unitdate>
+            <unitdate normal="2000/2000" type="inclusive">ca. 2000</unitdate>
+            <container id="aspace_ae7584bf013c161cb23b70922eeb2028" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_4a7ffa234d0315eb834a0e78895fd48d" parent="aspace_ae7584bf013c161cb23b70922eeb2028" type="Folder">41</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_42">
+        <c02 id="aspace_71e7cf1cd833accd41b9f37101cae652" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">42</container>
             <unittitle>Walkable Communities, Slide Presentation</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_c156197c8f22ebff99f90a2ddf64b6dc" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_276963b508e4b4db34dec58ed57ebf95" parent="aspace_c156197c8f22ebff99f90a2ddf64b6dc" type="Folder">42</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_43">
+        <c02 id="aspace_3f93808aa51a9205b3d27d3acbe5d539" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">43</container>
             <unittitle>Website Printouts - Miscellaneous</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2001">2001</unitdate>
+            <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_b2af1733ce3428f6c0ccf7c9c2d15c04" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_30149ffe9d72b2f12bd142081b77f873" parent="aspace_b2af1733ce3428f6c0ccf7c9c2d15c04" type="Folder">43</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-2_44">
+        <c02 id="aspace_4178d51399b6d236208482aab3b69532" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">44</container>
             <unittitle>Westchester Land Trust</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2001">2001</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_1b9265b597c28a5fb82390eb2feeae72" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_2cf967e359207cf30338b19faf666c3c" parent="aspace_1b9265b597c28a5fb82390eb2feeae72" type="Folder">44</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_apap150-3" level="series">
+      <c01 id="aspace_7d107cc124d057206c6310388e08555b" level="series">
         <did>
+          <unittitle>News Clippings</unittitle>
           <unitid>3</unitid>
-          <container type="Box">1</container>
-          <unittitle label="Series">News Clippings</unittitle>
-          <unitdate calendar="gregorian" certainty="circa" era="ce" normal="1996/2002" type="inclusive">ca. 1996-ca. 2002</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.4</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.4 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1996/2002" type="inclusive">ca. 1996-ca. 2002</unitdate>
+          <container id="aspace_c56e9357b8be0a4b1c6dd65123c5b065" label="Mixed Materials" type="Box">1 (Jeanne Casatelli Papers)</container>
         </did>
-        <arrangement>
+        <arrangement id="aspace_2b15e00f5479363483a538c88d89d94a">
+          <head>Arrangement</head>
           <p>Partially processed; not arranged</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_a382d51e9a3f79bead9c9608a6ea16a4">
+          <head>Scope and Contents</head>
           <p>This series consists of news clippings on topics of interest to Casatelli. Duplicates have been removed from the series, but the clippings have not been arranged further. Many clippings relate to the Route 9 and 20 widening issue. Sources for the clippings include the Albany Times-Union, the Rensselaer Beacon, and the Independent. There are also some clippings on highway design and other environmental issues from newspapers in other regions, as well as clippings on Scenic Hudson's Great River Sweep event.</p>
         </scopecontent>
       </c01>
-      <c01 id="nam_apap150-4" level="series">
+      <c01 id="aspace_c40edb49a372a1c4dd1d53bc83dd41e4" level="series">
         <did>
+          <unittitle>Photographs and Moving Images</unittitle>
           <unitid>4</unitid>
-          <unittitle label="Series">Photographs and Moving Images</unittitle>
-          <unitdate calendar="gregorian" certainty="circa" era="ce" normal="1999/2001" type="inclusive">ca. 1999-2001</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.2</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.2 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1999/2001" type="inclusive">ca. 1999-2001</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_777c93f00e5edd1afddfe50abbd0845a">
+          <head>Arrangement</head>
           <p>Arranged by format</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_780d58f7471ecb14aa0119f09bd0b51c">
+          <head>Scope and Contents</head>
           <p>This series contains four VHS videocassettes, 29 color snapshots depicting Route 9 and 20 in East Greenbush. Although the photographs are undated, they probably date from 1999-2001.</p>
         </scopecontent>
-        <c02 id="nam_apap150-4_1">
+        <c02 id="aspace_57e55a0ceef820e002a4bd0fc159d851" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Item">1</container>
             <unittitle>Photographs of Routes 9 and 20, East Greenbush [29 items]</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1999/2001">ca. 1999-2001</unitdate>
+            <unitdate normal="1999/2001" type="inclusive">ca. 1999-2001</unitdate>
+            <container id="aspace_aa51400f9bfa7e6f3f3110f77d8495e3" label="Mixed Materials" type="Box">1 (4-Photographs and Moving Images)</container>
+            <container id="aspace_bfcabc2d39d3cbe6d8a0061f8c85d6c8" parent="aspace_aa51400f9bfa7e6f3f3110f77d8495e3" type="Item">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-4_2">
+        <c02 id="aspace_583c3d105bd24ce27edc8f7c13d345c2" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Item">1</container>
             <unittitle>Rennselaer [sic] River Sweep and Urban Sprawl," VHS Videocassette</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2000">2000</unitdate>
+            <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+            <container id="aspace_280b78c94e704855493e732d4e808738" label="Mixed Materials" type="Box">2 (4-Photographs and Moving Images)</container>
+            <container id="aspace_c174fc9e9ea50bf9d8835557a642df25" parent="aspace_280b78c94e704855493e732d4e808738" type="Item">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-4_3">
+        <c02 id="aspace_0bf3929f3a0cac57c60ee4fe29e18d40" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Item">2</container>
             <unittitle>"Route #303 The Visioning Process: Smart Growth and Public Health," 2 VHS Videocassettes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_42bd625026407fd798745f7a36b50d54" label="Mixed Materials" type="Box">2 (4-Photographs and Moving Images)</container>
+            <container id="aspace_c21e98d677a4074b0b7f49c2bd626c7a" parent="aspace_42bd625026407fd798745f7a36b50d54" type="Item">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap150-4_4">
+        <c02 id="aspace_cfb0458243736870c666a0cebafbe382" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Item">3</container>
             <unittitle>"Scenic Hudson: The Great River Sweep," VHS Videocassette, Roadrunner Production Services</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_f6946965c9c14fdb47a5fbca2000c8b7" label="Mixed Materials" type="Box">2 (4-Photographs and Moving Images)</container>
+            <container id="aspace_3adbc64b07f37291504346098da19a99" parent="aspace_f6946965c9c14fdb47a5fbca2000c8b7" type="Item">3</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_apap150-5" level="series">
+      <c01 id="aspace_5657986fb566cc9162a65bfdeb5eff15" level="series">
         <did>
+          <unittitle>Electronic Records</unittitle>
           <unitid>5</unitid>
-          <unittitle label="Series">Electronic Records</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2000/2001" type="inclusive">2000-2001</unitdate>
-          <physdesc>
+          <physdesc altrender="whole">
             <dimensions unit="Digital Files">6</dimensions>
           </physdesc>
+          <unitdate normal="2000/2001" type="inclusive">2000-2001</unitdate>
         </did>
-        <scopecontent>
+        <scopecontent id="aspace_38d7fab933dbb714c65d2dff20da9681">
+          <head>Scope and Contents</head>
           <p>This series is comprised of three PowerPoint presentations and three video clips, most of which are related to a community-oriented sustainable development study on Route 303 in Rockland County, New York. It is likely that Casatelli saw this study as a model, which could be applied to redesigning Route 9 and 20. The two video clips on Route 303 duplicate footage found on the Route 303 video in series 4. The third video clip is a brief interview of Don Chen, founding director of Smart Growth America. The sound is very low in this clip and difficult to hear.</p>
-          <p>The files were originally located on two recordable compact discs. They have been copied to a University Libraries' server for preservation reasons.</p>
+          <p> The files were originally located on two recordable compact discs. They have been copied to a University Libraries' server for preservation reasons.</p>
         </scopecontent>
-        <c02 id="nam_apap150-5_1">
+        <c02 id="aspace_fe4e58646b453c8a4e25f8b921fb3664" level="file">
           <did>
-            <container type="MPEG">1</container>
             <unittitle>"303." "The Route 303 Sustainable Development Study, Rockland County, New York." 7 min., 36 sec. Copyright 2000, Rockland County.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2000-05-31">2000 May 31 (Last Modified)</unitdate>
-            <dao actuate="onrequest" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/apap150/nam_apap150-5_2.MPG" linktype="simple" show="new"/>
+            <unitdate normal="2000-05-31/2000-05-31" type="inclusive">2000 May 31 (Last Modified)</unitdate>
+            <container id="aspace_190e78b87d6590d74a9dfb4c26bceca3" label="Mixed Materials" type="MPEG">1</container>
+            <dao xlink:actuate="onrequest" xlink:href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/apap150/nam_apap150-5_2.MPG" xlink:show="new" xlink:title="&amp;quot;303.&amp;quot; &amp;quot;The Route 303 Sustainable Development Study, Rockland County, New York.&amp;quot; 7 min., 36 sec. Copyright 2000, Rockland County.">
+              <daodesc>
+                <p>"303." "The Route 303 Sustainable Development Study, Rockland County, New York." 7 min., 36 sec. Copyright 2000, Rockland County.</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
-        <c02 id="nam_apap150-5_2">
+        <c02 id="aspace_894a38c4895e189ea982af845f46e99e" level="file">
           <did>
-            <container type="MPEG">2</container>
             <unittitle>"303Charette." "Route 303 Sustainable Development Study: The Visioning Process." 6 min., 20 sec.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2000-02-05">2000 February 5 (Last Modified)</unitdate>
-            <dao actuate="onrequest" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/apap150/nam_apap150-5_1.MPG" linktype="simple" show="new"/>
+            <unitdate normal="2000-02-05/2000-02-05" type="inclusive">2000 February 5 (Last Modified)</unitdate>
+            <container id="aspace_10cfd65a8c88eb7144ff852a89fee3a8" label="Mixed Materials" type="MPEG">2</container>
+            <dao xlink:actuate="onrequest" xlink:href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/apap150/nam_apap150-5_1.MPG" xlink:show="new" xlink:title="&amp;quot;303Charette.&amp;quot; &amp;quot;Route 303 Sustainable Development Study: The Visioning Process.&amp;quot; 6 min., 20 sec.">
+              <daodesc>
+                <p>"303Charette." "Route 303 Sustainable Development Study: The Visioning Process." 6 min., 20 sec.</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
-        <c02 id="nam_apap150-5_3">
+        <c02 id="aspace_05b32e825c761e8e3adde9f3639395d3" level="file">
           <did>
-            <container type="AVI">3</container>
-            <unittitle>Untitled file.  Interview of Don Chen, founding director, Smart Growth America, 2 min, 5 sec. </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/2002">Undated</unitdate>
-            <dao actuate="onrequest" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/apap150/nam_apap150-5_2.avi" linktype="simple" show="new"/>
+            <unittitle>Untitled file. Interview of Don Chen, founding director, Smart Growth America, 2 min, 5 sec.</unittitle>
+            <unitdate normal="1966/2002" type="inclusive">Undated</unitdate>
+            <container id="aspace_09503ede69524ba180be0928a92093d5" label="Mixed Materials" type="AVI">3</container>
+            <dao xlink:actuate="onrequest" xlink:href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/apap150/nam_apap150-5_2.avi" xlink:show="new" xlink:title="Untitled file. Interview of Don Chen, founding director, Smart Growth America, 2 min, 5 sec.">
+              <daodesc>
+                <p>Untitled file. Interview of Don Chen, founding director, Smart Growth America, 2 min, 5 sec.</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
-        <c02 id="nam_apap150-5_4">
+        <c02 id="aspace_9e8520c5cdd044ab76d9af2b2b82b398" level="file">
           <did>
-            <container type="PPT">1</container>
             <unittitle>"Charette Presentation." Microsoft PowerPoint file. 24 slides.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2000-04-21">2000 April 21 (Last Modified)</unitdate>
-            <dao actuate="onrequest" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/apap150/nam_apap150-5_4.ppt" linktype="simple" show="new"/>
+            <unitdate normal="2000-04-21/2000-04-21" type="inclusive">2000 April 21 (Last Modified)</unitdate>
+            <container id="aspace_dd829719ab5fbb9f67569a958ad19d77" label="Mixed Materials" type="PPT">1</container>
+            <dao xlink:actuate="onrequest" xlink:href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/apap150/nam_apap150-5_4.ppt" xlink:show="new" xlink:title="&amp;quot;Charette Presentation.&amp;quot; Microsoft PowerPoint file. 24 slides.">
+              <daodesc>
+                <p>"Charette Presentation." Microsoft PowerPoint file. 24 slides.</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
-        <c02 id="nam_apap150-5_5">
+        <c02 id="aspace_85e21ea6f86c28646a0fde9bb2824f1c" level="file">
           <did>
-            <container type="PPT">2</container>
             <unittitle>"Route 303 Challenges Presentation." Microsoft PowerPoint file. 18 slides.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2000-04-20">2000 April 20 (Last Modified)</unitdate>
-            <dao actuate="onrequest" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/apap150/nam_apap150-5_5.ppt" linktype="simple" show="new"/>
+            <unitdate normal="2000-04-20/2000-04-20" type="inclusive">2000 April 20 (Last Modified)</unitdate>
+            <container id="aspace_b1a4a682e0d9d538cd8851e9a8f96601" label="Mixed Materials" type="PPT">2</container>
+            <dao xlink:actuate="onrequest" xlink:href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/apap150/nam_apap150-5_5.ppt" xlink:show="new" xlink:title="&amp;quot;Route 303 Challenges Presentation.&amp;quot; Microsoft PowerPoint file. 18 slides.">
+              <daodesc>
+                <p>"Route 303 Challenges Presentation." Microsoft PowerPoint file. 18 slides.</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
-        <c02 id="nam_apap150-5_6">
+        <c02 id="aspace_9469b11eececf6c5acb69e23de90170b" level="file">
           <did>
-            <container type="PPT">3</container>
             <unittitle>"Route 303 Slideshow." Microsoft PowerPoint file. 18 slides.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2000-04-20">2000 April 20 (Last Modified)</unitdate>
-            <dao actuate="onrequest" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/apap150/nam_apap150-5_6.ppt" linktype="simple" show="new"/>
+            <unitdate normal="2000-04-20/2000-04-20" type="inclusive">2000 April 20 (Last Modified)</unitdate>
+            <container id="aspace_f8cd73b0891066f801c72b857b503b34" label="Mixed Materials" type="PPT">3</container>
+            <dao xlink:actuate="onrequest" xlink:href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/apap150/nam_apap150-5_6.ppt" xlink:show="new" xlink:title="&amp;quot;Route 303 Slideshow.&amp;quot; Microsoft PowerPoint file. 18 slides.">
+              <daodesc>
+                <p>"Route 303 Slideshow." Microsoft PowerPoint file. 18 slides.</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
       </c01>

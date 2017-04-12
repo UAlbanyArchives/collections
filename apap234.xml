@@ -1,993 +1,926 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap234">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap234.xml" identifier="##">nam_apap234</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap234">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap234.xml">apap234</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>LAWRENCE A. CABOT PAPERS (APAP234)<date normal="1964/1965" type="inclusive">1964-1965</date></titleproper>
+        <titleproper>Cabot, Lawrence; Papers <num>apap234</num></titleproper>
         <author>Michael Paulmeno</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2011">Copyright 2011 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2011</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Jodi Boyle<date normal="2011">2011</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 15:13:48 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2011</date>
+        <item>Encoded in EAD by Jodi Boyle</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>LAWRENCE A. CABOT PAPERS (APAP234)<date normal="1964/1965" type="inclusive">1964-1965</date>
-      </titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2011</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap234</unitid>
-      <unittitle>Lawrence A. Cabot Papers <unitdate type="inclusive" normal="1964/1965" label="Date:"> 1964-1965</unitdate>
-      </unittitle>
-      <physdesc label="Physical Characteristics:">
-        <extent unit="cubic ft.">1.6</extent>
-      </physdesc>
-      <origination>
-        <persname encodinganalog="100" source="local">Cabot, Lawrence A.</persname>
-      </origination>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:"> The Lawrence A. Cabot Papers document Cabot's service in the New
-        York State Assembly where he served for one term in 1964-1965. The collection includes
-        correspondence, subject files, and legislation from his tenure.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Lawrence A. Cabot Papers<unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="local">Cabot, Lawrence A.</persname>
+      </origination>
+      <unitid>apap234</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.6 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_ddb12c9c4c88de5cea6c42c38a2cb48a">The Lawrence A. Cabot Papers document Cabot's service in the New York State Assembly where he served for one term in 1964-1965. The collection includes correspondence, subject files, and legislation from his tenure.</abstract>
+      <langmaterial id="aspace_894d2070325d9abe95c6cf0297f0fb12">English</langmaterial>
+      <physloc id="aspace_ff5d5d151227118479eadc82c101ffbb">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_467293bfc147ad93c2cb7e3caef951b6">
+      <head>Processing Information</head>
+      <p>Processed in 2011 by Michael Paulmeno.</p>
+    </processinfo>
+    <accessrestrict id="aspace_500ef8a8f91c103c91ecb0dc15f2e422">
       <head>Access</head>
-      <p> Access to this record group is unrestricted. </p>
+      <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_663dd9d5768b9e146b592af1a07e7a1b">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_ead39ed45561c58adf384812b6ba26e1">
       <head>Acquisition Information</head>
-      <p>Lawrence Cabot initially donated his papers to Syracuse University in 1966. In 2006, the
-        papers were transferred to the M.E. Grenander Department of Special Collections and
-        Archives. </p>
+      <p>Lawrence Cabot initially donated his papers to Syracuse University in 1966. In 2006, the papers were transferred to the M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_86596fc58269a17895b0a9180f7b403e">
       <head>Biographical Sketch</head>
-      <p>Lawrence A. Cabot was born on May 17th, 1919. He attended City College and served with the
-        2nd Armored Division in World War II. A Democrat, Cabot lived in Ardsley, New York. He was
-        elected to the New York State Assembly in 1964 and represented the Westchester County Second
-        District for one term. During his political career, he served on the Claims, Internal
-        Affairs, Revision, and Villages committees. Cabot was also chairman of the Ardsley
-        Democratic Committee and vice-chairman of the Greenburg Democratic Committee.</p>
+      <p>Lawrence A. Cabot was born on May 17th, 1919. He attended City College and served with the 2nd Armored Division in World War II. A Democrat, Cabot lived in Ardsley, New York. He was elected to the New York State Assembly in 1964 and represented the Westchester County Second District for one term. During his political career, he served on the Claims, Internal Affairs, Revision, and Villages committees. Cabot was also chairman of the Ardsley Democratic Committee and vice-chairman of the Greenburg Democratic Committee.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The Lawrence A. Cabot Papers consist of both subject files and legislation related to
-        Cabot's service in the New York State Assembly from 1964-1965. The subject files contain
-        primarily correspondence although there are also newspaper clippings, press releases, and
-        one map. The legislation includes bills that Cabot sponsored while in the Assembly and
-        resolutions he was involved with. The legislation files frequently include supplemental
-        materials such as correspondence and newspaper clippings. </p>
-      <p>Please note the archivist retained the original arrangment of the collection. Therefore
-        there is a "resolutions" folder containing resolutions from local governments in Cabot's
-        district in Series 1 as well as individual folders containing resolutions in Series 2. The
-        folder in Series 1 simply contains the resolutions themselves while the files in Series 2
-        generally contain the resolutions as well as supplemental materials.</p>
+    <scopecontent id="aspace_f5cc3253f2bcbe3731c75f32bbabea77">
+      <head>Scope and Contents</head>
+      <p>The Lawrence A. Cabot Papers consist of both subject files and legislation related to Cabot's service in the New York State Assembly from 1964-1965. The subject files contain primarily correspondence although there are also newspaper clippings, press releases, and one map. The legislation includes bills that Cabot sponsored while in the Assembly and resolutions he was involved with. The legislation files frequently include supplemental materials such as correspondence and newspaper clippings. </p>
+      <p> Please note the archivist retained the original arrangment of the collection. Therefore there is a "resolutions" folder containing resolutions from local governments in Cabot's district in Series 1 as well as individual folders containing resolutions in Series 2. The folder in Series 1 simply contains the resolutions themselves while the files in Series 2 generally contain the resolutions as well as supplemental materials.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_d6f3e8591d13ab109145b12e85d022bb">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series:</p>
-      <list type="simple">
-        <item>Series 1 - Subject Files, 1964-1965</item>
-        <item>Series 2 - Legislation, 1964-1965</item>
-      </list>
-      <p>Series 1 is arranged alphabetically by subject while Series 2 is arranged chronologically,
-        first by bill number and then by resolution number.</p>
+      <p>Series 1 is arranged alphabetically by subject while Series 2 is arranged chronologically, first by bill number and then by resolution number.</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-           Try to give as many access points as you can to increase the chances of 
-           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-           to comment them out! -->
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Politics and Politicians</subject>
-      <persname encodinganalog="600" source="local">Cabot, Lawrence A.</persname>
-      <corpname encodinganalog="610" source="lcsh">New York (State). Legislature.
-        Assembly</corpname>
-      <corpname encodinganalog="610" source="lcsh">New York (State). Legislature. Assembly.
-        Committee of Claims</corpname>
-      <corpname encodinganalog="610" source="local">New York (State). Legislature. Assembly.
-        Internal Affairs Committee</corpname>
-      <corpname encodinganalog="610" source="local">New York (State). Legislature. Assembly.
-        Revision Committee</corpname>
-      <corpname encodinganalog="610" source="local">New York (State). Legislature. Assembly.
-        Villages Committee</corpname>
-      <subject encodinganalog="650" source="lcsh">Politicians--New York (State)</subject>
-      <geogname encodinganalog="651" source="lcsh">New York (State)--Politics and
-        government</geogname>
-      <geogname encodinganalog="651" source="lcsh">Westchester County (N.Y.)</geogname>
-      <genreform encodinganalog="655" source="aat">Bills (legislative records)</genreform>
-      <genreform encodinganalog="655" source="aat">Clippings</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Files by subject</genreform>
-      <genreform encodinganalog="655" source="aat">Legislative records</genreform>
-    </controlaccess>
-    <prefercite encodinganalog="524">
+    <prefercite id="aspace_27c3f0458547170cc844f4cff1f40ab9">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Lawrence A. Cabot Papers, 1964-1965.
-        M.E. Grenander Department of Special Collections and Archives, University Libraries,
-        University at Albany, State University of New York (hereafter referred to as the Cabot
-        Papers).</p>
+      <p> Identification of specific item, series, box, folder, Lawrence A. Cabot Papers, 1964-1965. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Cabot Papers).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <!-- Start series 1-->
-      <c01 level="series" id="nam_apap234-1">
+    <controlaccess>
+      <subject source="meg">Politics and Politicians</subject>
+      <subject source="lcsh">Politicians--New York (State)</subject>
+      <geogname source="lcsh">New York (State)--Politics and government</geogname>
+      <geogname source="lcsh">Westchester County (N.Y.)</geogname>
+      <genreform source="aat">Bills (legislative records)</genreform>
+      <genreform source="aat">Clippings</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Files by subject</genreform>
+      <genreform source="aat">Legislative Records</genreform>
+      <persname source="local">Cabot, Lawrence A.</persname>
+      <corpname source="lcsh">New York (State). Legislature. Assembly</corpname>
+      <corpname source="lcsh">New York (State). Legislature. Assembly. Committee of Claims</corpname>
+      <corpname source="local">New York (State). Legislature. Assembly. Internal Affairs Committee</corpname>
+      <corpname source="local">New York (State). Legislature. Assembly. Revision Committee</corpname>
+      <corpname source="local">New York (State). Legislature. Assembly. Villages Committee</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_b149b1add1da061a584fabcf294122e0" level="series">
         <did>
+          <unittitle>Subject Files</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Subject Files</unittitle>
-          <physdesc>
-            <extent unit="cubic ft.">1.0</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.0 cubic ft.</extent>
           </physdesc>
           <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
           <unitdate normal="1964/1965" type="inclusive">Undated</unitdate>
         </did>
-        <arrangement>
-          <p> Arranged alphabetically. </p>
+        <arrangement id="aspace_661bac49b9917a872bbcb2b26fda1f90">
+          <head>Arrangement</head>
+          <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
-          <p>This series contains a variety of subject files ranging from air pollution to sales
-            tax. Cabot also kept his general correspondence and news releases with subject files.
-          </p>
+        <scopecontent id="aspace_bc8dad3fc4440429c136689ee472edf9">
+          <head>Scope and Contents</head>
+          <p>This series contains a variety of subject files ranging from air pollution to sales tax. Cabot also kept his general correspondence and news releases with subject files.</p>
         </scopecontent>
-        <c02 id="nam_apap234-1_1">
+        <c02 id="aspace_ed396a9e50055fc1165a5601a68ab0ef" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1-2</container>
             <unittitle>Aid to Education</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_b706a565c8bcee809076cea7caf098fd" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_d615ad7e389e4ad3cc5134ebe1026099" parent="aspace_b706a565c8bcee809076cea7caf098fd" type="Folder">1-2</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_2">
+        <c02 id="aspace_937bdd3a6d1fa69780be71d3a839e81d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Air Pollution</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964/1965">1964-1965</unitdate>
+            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container id="aspace_241434fb66d3ba972e89067edeeb476b" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_59f2448c49b00938ea4f9401df498da4" parent="aspace_241434fb66d3ba972e89067edeeb476b" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_3">
+        <c02 id="aspace_575fae912d47208cbd6464c7f2ea4dea" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Auto Registration Tax and Gasoline Tax</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_7161937fe20aeeefc996cb386bdbb388" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_8af6f15d18c6d18de35c1c3e41d5cbff" parent="aspace_7161937fe20aeeefc996cb386bdbb388" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_4">
+        <c02 id="aspace_48fe3140de1102b4f7decc3df71116cf" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Capital Punishment</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_89c597d2614689ed586807569717a56f" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_256aa739ecdb582935bfc5e51238c3df" parent="aspace_89c597d2614689ed586807569717a56f" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_5">
+        <c02 id="aspace_2ff17a87bbbb8b7ab186631c5dcd586e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Cigarette Tax</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_1d9b04a70ac6248841921f7216c7f3ec" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_d3891bfc1d3437852d9955c13f19764e" parent="aspace_1d9b04a70ac6248841921f7216c7f3ec" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_6">
+        <c02 id="aspace_4f21538b50beb2394a44a523ff7ad889" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Dobbs Ferry (Letters Patent)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_6936220c76c3e6539f3459474c211dd1" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_272abfc5ec38ed764e56428aa53af8b7" parent="aspace_6936220c76c3e6539f3459474c211dd1" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_7">
+        <c02 id="aspace_9db11059a00ea2de0a3a87368642a6a1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Fisheries</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_3e3d433853a11363ce498d8683b1dab2" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_dcc1e09ef336632b9ece2e374e1a6b8b" parent="aspace_3e3d433853a11363ce498d8683b1dab2" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_8">
+        <c02 id="aspace_13db91b78382e1911e44c9a99851c3ff" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Form Letters and Lists</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964/1965">Undated</unitdate>
+            <unitdate normal="1964/1965" type="inclusive">Undated</unitdate>
+            <container id="aspace_69126b974c1550a2050ec05f58262f96" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_afb51278a6ba9e5bf04cd01de4fd6f8b" parent="aspace_69126b974c1550a2050ec05f58262f96" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_9">
+        <c02 id="aspace_f8471273fe308389a5801c9eb2776db9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Greenburgh Housing</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_1e27457345a1cd2fba970bd1fb487186" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_6e6a7a29aa6bc92d16e823b30e6008bf" parent="aspace_1e27457345a1cd2fba970bd1fb487186" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_10">
+        <c02 id="aspace_cac9df176e65b154aaa01a6c5e9f33ea" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Hospitals, Union Berking Bill</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_2859e273716ee8991021c4592b0bf792" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_7e78c4e9ffd5d9213dd4ce02c10eca1d" parent="aspace_2859e273716ee8991021c4592b0bf792" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_11">
+        <c02 id="aspace_9205692cf34b2bfa6e0b54a1d96a4afe" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Hudson River (Con Edison)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964/1965">1964-1965</unitdate>
+            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container id="aspace_014fc7d2ea94ee74191d52ef3c8e42a7" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_4c304d9724d6552d57c5d666e46a3d41" parent="aspace_014fc7d2ea94ee74191d52ef3c8e42a7" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_12">
+        <c02 id="aspace_4d0c103db344471ba13c471cd6b5acd7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Invitations</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_441c88971fc725aa17ffc1e4f91d0213" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_a23cc6f03736a660af809c4c70f05abb" parent="aspace_441c88971fc725aa17ffc1e4f91d0213" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_13">
+        <c02 id="aspace_5f8f350eca4bd3824a0beacf7b5f579f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Memos</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_07f159979ce89454052c9ad6c8dcb095" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_0616a88779f694f72bbb88c30a106fe0" parent="aspace_07f159979ce89454052c9ad6c8dcb095" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_14">
+        <c02 id="aspace_910577fe0d0b07d59175ab4b411f771f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15-18</container>
             <unittitle>General Correspondence (A-H)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_409dc2cee105e790ed29054f69703b55" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_03576bfee1026cdf2291af4e6d082e2b" parent="aspace_409dc2cee105e790ed29054f69703b55" type="Folder">15-18</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_15">
+        <c02 id="aspace_c37b788a114c21bd5a665eef49418b11" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19-21</container>
             <unittitle>General Correspondence (I-Q)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_6c944836d62a854f1fb2a7e5ce074657" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_3539bb213196d7039b43d1886c3500c5" parent="aspace_6c944836d62a854f1fb2a7e5ce074657" type="Folder">19-21</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_16">
+        <c02 id="aspace_249c58bc6ce6272b66ef880e7a4eb19b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22-23</container>
             <unittitle>General Correspondence (R-Z)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_9d33819b545110be32603c9674e13bfd" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_068ad07a73452ab17a84d90f35babe5f" parent="aspace_9d33819b545110be32603c9674e13bfd" type="Folder">22-23</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_17">
+        <c02 id="aspace_cdc749aed6bd708b4f4358cf4a7a9c10" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">24</container>
             <unittitle>Newspaper Mailing List</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964/1965">Undated</unitdate>
+            <unitdate normal="1964/1965" type="inclusive">Undated</unitdate>
+            <container id="aspace_0a9c53f004cb4d1033679373449eb6a7" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_cbcf8ded28bef16464a4d1cc46a35ce6" parent="aspace_0a9c53f004cb4d1033679373449eb6a7" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_18">
+        <c02 id="aspace_9f2f81bf669888c5ec677db5bf4d6453" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">25</container>
             <unittitle>News Releases</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_09400013526f39f741b363c12f19f905" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_0ce7c28011c467228a5b841745f85b7d" parent="aspace_09400013526f39f741b363c12f19f905" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_19">
+        <c02 id="aspace_dc0c1dd68b1a0dbdbac01592b38d27f1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">26</container>
             <unittitle>Off-track Betting</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_4b5ebadfdc2b329406a2a1a1957a480b" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_19d4bff7eb9cdc3555cf97e109be1644" parent="aspace_4b5ebadfdc2b329406a2a1a1957a480b" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_20">
+        <c02 id="aspace_a24f9aac9c7cde6c521b596fd013d871" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">27</container>
             <unittitle>Police Fire Pensions (separate)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_fa4ee71eadddd05e5eb16e697ccf9e02" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_b4c2e1164d0d9401a5de5d2f268a6a6c" parent="aspace_fa4ee71eadddd05e5eb16e697ccf9e02" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_21">
+        <c02 id="aspace_0d213f81948f944475159e563a6b0557" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">28</container>
             <unittitle>Pornography</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_38245652e39dca9ac440870d34305c2c" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_13f26cc4e37109f43ad13342be7c3ac7" parent="aspace_38245652e39dca9ac440870d34305c2c" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_22">
+        <c02 id="aspace_540141b3e7480f4a7ba889143e91848b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">29</container>
             <unittitle>R.R. (New Haven) (N.Y. Central)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_5995d355c99b2181291ae6cf742b3461" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_d9b4d6374662ca6fef0390b98d5c6225" parent="aspace_5995d355c99b2181291ae6cf742b3461" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_23">
+        <c02 id="aspace_edd940e81ee4469f335581331ebd09dd" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">30</container>
             <unittitle>Repeal of Drinking Age</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_04fc18e194b1d84bdc98d3a131cc2865" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_256db3adaa2b294332637428a989c577" parent="aspace_04fc18e194b1d84bdc98d3a131cc2865" type="Folder">30</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_24">
+        <c02 id="aspace_4f581d1d3ba81b3a1f2403ef80956056" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">31</container>
             <unittitle>Requested Comments from School Districts</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_c54f078cba3071d6aaed099a02d198c1" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_ba8a62f791fdfacc20b99d7efa62a79d" parent="aspace_c54f078cba3071d6aaed099a02d198c1" type="Folder">31</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_25">
+        <c02 id="aspace_30403356f7e3896e7f63cc4d615e860e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">32</container>
             <unittitle>Resolutions</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_c3a57631b28a840cd9302e622dc332fb" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_0e5b937f4d8d66bfb397d3431f8a9245" parent="aspace_c3a57631b28a840cd9302e622dc332fb" type="Folder">32</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_26">
+        <c02 id="aspace_00f13aedc1c845c7f8fb4b4d4b236ce2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">33</container>
             <unittitle>Rosetti Bill AI-1439</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_970a96f5ad0ae7047f66648eb86eb4f0" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_cda18672efdd695d9e142209f4b22e5f" parent="aspace_970a96f5ad0ae7047f66648eb86eb4f0" type="Folder">33</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_27">
+        <c02 id="aspace_30d6f1d4d060bc113324503934c1bd05" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">34-35</container>
             <unittitle>Sales Tax</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_7c873c1f1f554cb5882f1694b41df744" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_603ecf6a258dd17fbfe2d3cca6513e48" parent="aspace_7c873c1f1f554cb5882f1694b41df744" type="Folder">34-35</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_28">
+        <c02 id="aspace_655c684e12c47ae059da4e9a7cb80b47" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">36</container>
             <unittitle>Tuckahoe Urban Renewal Bill</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_ea528618cc175db19aca4c602e958942" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_41f245dccd99f5936fc66796c73da3e6" parent="aspace_ea528618cc175db19aca4c602e958942" type="Folder">36</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_29">
+        <c02 id="aspace_96cb8b43ef3910131f66a954ae736268" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">37</container>
             <unittitle>Veteran Hospitals</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_1e2f72657c758ebe92d79cee6643c775" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_e52b811ebdb478d08b584052955f1466" parent="aspace_1e2f72657c758ebe92d79cee6643c775" type="Folder">37</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-1_30">
+        <c02 id="aspace_703349d6ea77447027f8aba6b450f3d6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">38</container>
             <unittitle>Westchester Board of Supervisors</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964/1965">1964-1965</unitdate>
+            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container id="aspace_7c0725ba764b2b979128f8c865f6534b" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_2eaadd85e1ea57bffed257f9eabc57f6" parent="aspace_7c0725ba764b2b979128f8c865f6534b" type="Folder">38</container>
           </did>
         </c02>
       </c01>
-      <!-- Start series 2-->
-      <c01 level="series" id="nam_apap234-2">
+      <c01 id="aspace_45af614bd5fdc215bdbeecaf52610ea8" level="series">
         <did>
+          <unittitle>Legislation</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Legislation</unittitle>
-          <physdesc>
-            <physfacet> .6 cu. ft. </physfacet>
-          </physdesc>
           <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+          <physdesc>
+            <physfacet id="aspace_ea754e405a51d7858009f3fe66acada5">.6 cu. ft.</physfacet>
+          </physdesc>
         </did>
-        <arrangement>
-          <p> Arranged chronologically by bill number and then by resolution number. </p>
+        <arrangement id="aspace_06afc188f4d7a341c6a003d1e698cc24">
+          <head>Arrangement</head>
+          <p>Arranged chronologically by bill number and then by resolution number.</p>
         </arrangement>
-        <scopecontent>
-          <p>This series consists of legislation Cabot sponsored. Each file entitled "bill" includes
-            the legislative bill and many folders also have supplemental materials such as
-            correspondence or clippings. The resolutions files contain copies of resolutions
-            submitted to the New York State Legislature or local town boards, reports, clippings,
-            and correspondence.</p>
+        <scopecontent id="aspace_4075bfcac57a2216e2f867853151fb68">
+          <head>Scope and Contents</head>
+          <p>This series consists of legislation Cabot sponsored. Each file entitled "bill" includes the legislative bill and many folders also have supplemental materials such as correspondence or clippings. The resolutions files contain copies of resolutions submitted to the New York State Legislature or local town boards, reports, clippings, and correspondence.</p>
         </scopecontent>
-        <c02 id="nam_apap234-2_1">
+        <c02 id="aspace_dd619ce0d94b2d046c7be716eaadd38d" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Bill 918</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964/1965">1964-1965</unitdate>
+            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container id="aspace_c143379628e78ed7c3f1e86c42b68965" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_65dec1627509c1b98f2fca0c7e2439b3" parent="aspace_c143379628e78ed7c3f1e86c42b68965" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_2">
+        <c02 id="aspace_bab0d1e77ca72feff341f91b250f981f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>Bill 1014</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964/1965">1964-1965</unitdate>
+            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container id="aspace_d69500c1cad00fe425dccd8a9ced6ae8" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_66d671c2ff8b964759d7df72527ba93a" parent="aspace_d69500c1cad00fe425dccd8a9ced6ae8" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_3">
+        <c02 id="aspace_465e40cc2cf3cf22fb19167203fa7ccb" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Bill 1015</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_e953d9ed87ca9018d20e39e3510e8ae9" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_a9107a7c64399cff5bad95dda02c8ab2" parent="aspace_e953d9ed87ca9018d20e39e3510e8ae9" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_4">
+        <c02 id="aspace_3a3c1dbb147092c91f29cb8be3799b40" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Bill 1016</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_0347fa9e7add9d16dc415d02e84d3432" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_bddf8e1493f1e2684426c0b621cf4cbd" parent="aspace_0347fa9e7add9d16dc415d02e84d3432" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_5">
+        <c02 id="aspace_bf150ba4122c86dc91e857d34977ba0a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>Bill 1238</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_afce18ca25bc342a671296ca49f1bd4e" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_0afcdcd267d6bc38ee37adf5d3c81069" parent="aspace_afce18ca25bc342a671296ca49f1bd4e" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_6">
+        <c02 id="aspace_d17585ee383c21ce8625e8bd36f722bc" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>Bill 1374 (multi-sponsored)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_2011c026097b21f10cf0b6152e2c220a" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_f3fab3e3379b6168e54779e5895bfa27" parent="aspace_2011c026097b21f10cf0b6152e2c220a" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_7">
+        <c02 id="aspace_2fb440c6358e9dee8ac24bd6f3727ddc" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
             <unittitle>Bill 1426</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_505cf44663249a4da27d9e300d090c35" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_d4507b9d391824bd9cc58bf4b1084ac8" parent="aspace_505cf44663249a4da27d9e300d090c35" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_8">
+        <c02 id="aspace_ebd867c5f578f7dcfa253cd9d0585313" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
             <unittitle>Bill 1630</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_79528204a3f4930755a5a49cae0f9dce" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_5b5bf4ac472dcdcbf2993f5b6b955225" parent="aspace_79528204a3f4930755a5a49cae0f9dce" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_9">
+        <c02 id="aspace_02b97c355bd0290b4e9737143f7f84f8" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
             <unittitle>Bill 1631</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_25c5ac031bf188529cc04157a0f74d32" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_6f23d71beb9a8728e83f1b73f306370c" parent="aspace_25c5ac031bf188529cc04157a0f74d32" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_10">
+        <c02 id="aspace_a448343e97257134f547fc1d0e4946cb" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10</container>
             <unittitle>Bill 1632</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_70c70f719724347a99bc7b5de5f20e5b" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_9d9d83f561617ff8b5a9e3583eb31cc7" parent="aspace_70c70f719724347a99bc7b5de5f20e5b" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_11">
+        <c02 id="aspace_fff18f3d98a0be7c5c3b5b6e803353f1" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">11</container>
             <unittitle>Bill 1922</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964/1965">1964-1965</unitdate>
+            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container id="aspace_a4f9cdbba1d85964eb193f68e8f15bb0" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_7b53334b9e395be0054c5089be0ee00c" parent="aspace_a4f9cdbba1d85964eb193f68e8f15bb0" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_12">
+        <c02 id="aspace_50408999d5cc3ed6185cdfd91f87b2c5" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">12</container>
             <unittitle>Bill 1923</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_7489e9b6a1d0455e0286493f6a95c071" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_ca36c79484e249e82cbfa315756b931f" parent="aspace_7489e9b6a1d0455e0286493f6a95c071" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_13">
+        <c02 id="aspace_f75e44c390217544bf9ce47d8af90be2" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">13</container>
             <unittitle>Bill 1924</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_a0a62e374bc5d013d09ba351b4f480a0" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_15f1125f61fc5ee4b841d61110f5b6b0" parent="aspace_a0a62e374bc5d013d09ba351b4f480a0" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_14">
+        <c02 id="aspace_26d37a2cade34549affe1d81e1b7a103" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">14</container>
             <unittitle>Bill 1925</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_6d2c2d39ca523e5af0ed47ee2d1939b2" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_7f0ff0fecf813749ddbe06d7f08e206f" parent="aspace_6d2c2d39ca523e5af0ed47ee2d1939b2" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_15">
+        <c02 id="aspace_600d0ca36272be0a75dbc8e0406d8f6c" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">15</container>
             <unittitle>Bill 1926</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_c83d9234de7e746c398b9adbec871a7b" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_3054f08909f2a44c3621f94bb9abe330" parent="aspace_c83d9234de7e746c398b9adbec871a7b" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_16">
+        <c02 id="aspace_558159ba817ecde052d78750b2502823" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">16</container>
             <unittitle>Bill 1927</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_27f4a62cb8c9fb151a62fbaef3647d46" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_eadcd43f671b2fb7be3a7cc6396be8fd" parent="aspace_27f4a62cb8c9fb151a62fbaef3647d46" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_17">
+        <c02 id="aspace_9445b95f911b4d7d0b04457a0d50b16b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">17</container>
             <unittitle>Bill 2093</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964/1965">1964-1965</unitdate>
+            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container id="aspace_8958e934bb850f5ce2a4afdc5d4b75fb" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_35c047d664d96d45b84d7ea83a238c19" parent="aspace_8958e934bb850f5ce2a4afdc5d4b75fb" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_18">
+        <c02 id="aspace_02dfe8ef24ff8c070e852045a36645c8" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">18</container>
             <unittitle>Bill 2094</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_9c1b472827088626733ad6f47543c1a5" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_049465aa380d9b631b1607fcf159cf36" parent="aspace_9c1b472827088626733ad6f47543c1a5" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_19">
+        <c02 id="aspace_adcefa99b7f9a910e1073e8f8eba46e7" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">19</container>
             <unittitle>Bill 2154</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_80c8df61efc4f3f62f2338157d10d3f7" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_f0af836a92339757cc04fcfcd19c7a94" parent="aspace_80c8df61efc4f3f62f2338157d10d3f7" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_20">
+        <c02 id="aspace_93237cdd376f43d18d4b31a138777cbf" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">20</container>
             <unittitle>Bill 2155</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_717b9e3f3e9c7709722f3bb3ec218aeb" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_78ac14c8a00c36233c00ef3a33ae4b6d" parent="aspace_717b9e3f3e9c7709722f3bb3ec218aeb" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_21">
+        <c02 id="aspace_8b6289570abdab228697cb07b1a7c42b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">21</container>
             <unittitle>Bill 2156</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_9dc7119d5b863d23608c963befc3515a" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_6fb630dab25993436a9db771fbf7de4c" parent="aspace_9dc7119d5b863d23608c963befc3515a" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_22">
+        <c02 id="aspace_11d9fdf8ebcb41cc22713fb8e0bb842e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">22</container>
             <unittitle>Bill 2157</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_0352a3cf3f7257b129fee8cc14b8679e" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_ebbd040237bcf7bf0350cc3922a8d568" parent="aspace_0352a3cf3f7257b129fee8cc14b8679e" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_23">
+        <c02 id="aspace_8f670506cda88d3e1b85511f2ef951d1" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">23</container>
             <unittitle>Bill 2158</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964/1965">1964-1965</unitdate>
+            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container id="aspace_cca7d3c474d90925bc32d9727bc7cbef" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_e07c9fc74916ef4d8aa3d109f2f3345f" parent="aspace_cca7d3c474d90925bc32d9727bc7cbef" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_24">
+        <c02 id="aspace_535849259a3ad1b90b84a71d2fa30d28" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">24</container>
             <unittitle>Bill 2159</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_cfebc9b2495cb4d7cb673b6373916a15" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_7fe94f8826863dc336d396fc6d31a67e" parent="aspace_cfebc9b2495cb4d7cb673b6373916a15" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_25">
+        <c02 id="aspace_b988bfcd7878a5d4eee1ca0856b1f6d1" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">25</container>
             <unittitle>Bill 2438</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_bcd2f5eed91f3dacb634bfd47f6e646a" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_5e90bb7578bdcebecb14c5269de3445a" parent="aspace_bcd2f5eed91f3dacb634bfd47f6e646a" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_26">
+        <c02 id="aspace_eeec9d4d49b83432d768e8254ba5ead6" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">26</container>
             <unittitle>Bill 2439</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_3e2114e9f080cfdc9b7577233b52f63f" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_dd759b0705ccc7c49ee4624bac22ba7e" parent="aspace_3e2114e9f080cfdc9b7577233b52f63f" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_27">
+        <c02 id="aspace_33f43186cd2f294d38a236e950041a2f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">27</container>
             <unittitle>Bill 2440</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_f3047ed2d68b1452d84eb7cd39889ca2" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_0da74bb93bda434028fe27950ae7548b" parent="aspace_f3047ed2d68b1452d84eb7cd39889ca2" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_28">
+        <c02 id="aspace_79462f4149765bce50920c282d2dfcbc" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">28</container>
             <unittitle>Bill 2441</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_05f569d6ad23bd6bd2e05f1da49adefd" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_d1cea7b3cf8327fc8635a850046bd504" parent="aspace_05f569d6ad23bd6bd2e05f1da49adefd" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_29">
+        <c02 id="aspace_4e17ff964ba0303352d695b654004c1a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">29</container>
             <unittitle>Bill 2442</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_75a1f7d0582d51b854c537ca32e19606" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_7ce7d021a67ab8957575b7a256f7f084" parent="aspace_75a1f7d0582d51b854c537ca32e19606" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_30">
+        <c02 id="aspace_142665be3b972419b47686170b48a77b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">30</container>
             <unittitle>Bill 2658</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_1274eea925b333599c1b11d90193d9e5" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_8a85f09e368483121e222835d5717740" parent="aspace_1274eea925b333599c1b11d90193d9e5" type="Folder">30</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_31">
+        <c02 id="aspace_b02b485742171b913516c1674ae6563c" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">31</container>
             <unittitle>Bill 2941</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964/1965">1964-1965</unitdate>
+            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container id="aspace_0136dfb98e93b958b853a930e5a4aff1" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_06c0db1e40b22b71585510e5b9427725" parent="aspace_0136dfb98e93b958b853a930e5a4aff1" type="Folder">31</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_32">
+        <c02 id="aspace_7775fe3ad9eff2e0c923bba19d4ce40c" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">32</container>
             <unittitle>Bill 3516</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964/1965">1964-1965</unitdate>
+            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container id="aspace_58f6037d11c8177b6b7428ba2bcc900b" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_57a9e40f8ce7ee3eeaf4ecec1a8c037f" parent="aspace_58f6037d11c8177b6b7428ba2bcc900b" type="Folder">32</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_33">
+        <c02 id="aspace_b3db38ab34cb634a1408ed9099be0362" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">33</container>
             <unittitle>Bill 3765</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_67150b29e2881ce5da6e78c4803c63a8" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_6c07a28f9488880e608150bfc6a8bdd3" parent="aspace_67150b29e2881ce5da6e78c4803c63a8" type="Folder">33</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_34">
+        <c02 id="aspace_ebd06dd2655717d6bafbb0a282a7903c" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">34</container>
             <unittitle>Bill 3766</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_1e80304135ef401c34cd068b4c22f651" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_9f2b05cd6125f4745d45a3fd6b6e52e4" parent="aspace_1e80304135ef401c34cd068b4c22f651" type="Folder">34</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_35">
+        <c02 id="aspace_d539ffc278bd429cd50c0872b001b4f5" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">35</container>
             <unittitle>Bill 3771 (multi-sponsored)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_1b8cf355fd2a3f3ba3b559ec20233dc1" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_a55de67a9b0ab2bb68b7c4c0ecc8f739" parent="aspace_1b8cf355fd2a3f3ba3b559ec20233dc1" type="Folder">35</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_36">
+        <c02 id="aspace_8dbf3f19ebc9a598ef8818c05ef9100b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">36</container>
             <unittitle>Bill 3821</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_9c46927bc6b1dbd102a4ba1e8cf9ad52" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_5e0777646560abfd7593d76d00e13159" parent="aspace_9c46927bc6b1dbd102a4ba1e8cf9ad52" type="Folder">36</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_37">
+        <c02 id="aspace_af8c5e6508ab420bd6ad83c894548617" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">37</container>
             <unittitle>Bill 3822</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_850a5fbf9adb3f36d4504236f08ee3cc" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_a2513d1b4a9bf59fac8a61255d8d656e" parent="aspace_850a5fbf9adb3f36d4504236f08ee3cc" type="Folder">37</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_38">
+        <c02 id="aspace_899b94127dfe9d02c313f4cd2d92813b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">38</container>
             <unittitle>Bill 3823</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_0566a0ec32040916faadea4843fec83f" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_b648d3f1801d35083503994974926f0f" parent="aspace_0566a0ec32040916faadea4843fec83f" type="Folder">38</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_39">
+        <c02 id="aspace_326ce0b48b501a216367411bd3390bb4" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">39</container>
             <unittitle>Bill 4006 (Multi-sponsored)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_fb52279d354968e50c4d4d9eebc707a0" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_6790de40e8e92ab573bf15ac175aa01d" parent="aspace_fb52279d354968e50c4d4d9eebc707a0" type="Folder">39</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_40">
+        <c02 id="aspace_f0da9b53f0684c23445f2449835ddadc" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">40</container>
             <unittitle>Bills 4256-4263</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_f365dc09263badc40c2f87c8633efe46" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_0bf449c3e842c5f604299b9c80a95ff0" parent="aspace_f365dc09263badc40c2f87c8633efe46" type="Folder">40</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_41">
+        <c02 id="aspace_bae5f98514e74c016c5928e234b26a17" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">41</container>
             <unittitle>Bill 4264</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_7c1f6ba032114e342e1c67c43fb11c02" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_150721880c4dec8c733f78b683680c0d" parent="aspace_7c1f6ba032114e342e1c67c43fb11c02" type="Folder">41</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_42">
+        <c02 id="aspace_5009650052926d7d5099fd407cb41f6e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">42</container>
             <unittitle>Bill 4265</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_aa92e7d65f4b590d501694ba4ebe1f75" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_0d7883fd1c2427e3a1b88f60ff93eb47" parent="aspace_aa92e7d65f4b590d501694ba4ebe1f75" type="Folder">42</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_43">
+        <c02 id="aspace_8bcb375c56d1ba8cc80ac0a513b4dcf4" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">43</container>
             <unittitle>Bill 4266</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_94581f55f98f631282952b7b070b5e49" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_baa7120a5f283fa948ef48177303672c" parent="aspace_94581f55f98f631282952b7b070b5e49" type="Folder">43</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_44">
+        <c02 id="aspace_27d217e2c6e5842352d66be00d2413a7" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">44</container>
             <unittitle>Bill 4267</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_46ed48eee69e17d63a9a34b19dc9c6af" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_35f21e48d1578f943b7d7634a4ec1f02" parent="aspace_46ed48eee69e17d63a9a34b19dc9c6af" type="Folder">44</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_45">
+        <c02 id="aspace_0d1e8218d22a8726d091e4230e8788bf" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">45</container>
             <unittitle>Bill 4326</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_ec90e1730a42b6923deeca2dce2b6bca" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_1f5fe368cfc07095c449f78d7d534a74" parent="aspace_ec90e1730a42b6923deeca2dce2b6bca" type="Folder">45</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_46">
+        <c02 id="aspace_691d7c8f6b92d65fc56e0bc2ce05ca87" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">46</container>
             <unittitle>Bill 4327</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_0dcb534fefaf2c85402182620d859531" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_90789e175706fba9855ab5d5a07c9f0e" parent="aspace_0dcb534fefaf2c85402182620d859531" type="Folder">46</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_47">
+        <c02 id="aspace_f5be300f5ed84e8c1f28758383388b61" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">47</container>
             <unittitle>Bill 4468</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_d32737a611aa29cdfdfea4a28b2a4e7b" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_d367e15ffcf7aeac93597edd37a2b2db" parent="aspace_d32737a611aa29cdfdfea4a28b2a4e7b" type="Folder">47</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_48">
+        <c02 id="aspace_2bf075f541a3d137cdc8b8b198eaa02d" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">48</container>
             <unittitle>Bill 4469</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_1d5c237e758ec273db08f5ebfd83c95a" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_d6aee2c9cebb173e09b2ca0a00eb59f0" parent="aspace_1d5c237e758ec273db08f5ebfd83c95a" type="Folder">48</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_49">
+        <c02 id="aspace_fe4231aa315fd24d3fa3fa3b6a05f9cc" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">49</container>
             <unittitle>Bill 4470</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_d947aee7b6aa90f5575ca777a2881ec8" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_0832a4f5f5cb59644d5e1b5278c932a4" parent="aspace_d947aee7b6aa90f5575ca777a2881ec8" type="Folder">49</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_50">
+        <c02 id="aspace_92feaa67f29d915bfe21ead6feaf5762" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">50</container>
             <unittitle>Bill 4471</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_afd4bcb3aecacad1dddd60f92063f2cf" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_39402792baee823f8256c18a2e2397a6" parent="aspace_afd4bcb3aecacad1dddd60f92063f2cf" type="Folder">50</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_51">
+        <c02 id="aspace_af05288e9e2a11a14e3f0151fc4c9429" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">51</container>
             <unittitle>Bill 5025</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_ff290074810260f13b1d72189de796c6" label="Mixed Materials" type="Box">2 (2-Legislation)</container>
+            <container id="aspace_7b9b65de1db0cefa65a6af5e8b77542e" parent="aspace_ff290074810260f13b1d72189de796c6" type="Folder">51</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_52">
+        <c02 id="aspace_4e188c88381c861b6e91b147ad7548dc" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>Bill 5085</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_cc818e22d9ee4dda7839255eab6a58d6" label="Mixed Materials" type="Box">3 (2-Legislation)</container>
+            <container id="aspace_5e42ce27c7d45a8e405cb3c4047d9214" parent="aspace_cc818e22d9ee4dda7839255eab6a58d6" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_53">
+        <c02 id="aspace_8e9b8d81429ccdcd3721e98ba156682a" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>Bill 5098</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_e6ba933d8b7bc2ba41ac79a972052571" label="Mixed Materials" type="Box">3 (2-Legislation)</container>
+            <container id="aspace_c3096de486cff578e7b5d97cb43a9520" parent="aspace_e6ba933d8b7bc2ba41ac79a972052571" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_54">
+        <c02 id="aspace_7a0053029f9a78a6bd937da25987abc9" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">3</container>
             <unittitle>Bill 5259</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_52ec509bd90271f81e24669d59e109da" label="Mixed Materials" type="Box">3 (2-Legislation)</container>
+            <container id="aspace_2d968e314b21bec11d883cc30e1a7739" parent="aspace_52ec509bd90271f81e24669d59e109da" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_55">
+        <c02 id="aspace_c33f6c1d1fb59e9ebc834ce73c14ce99" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4</container>
             <unittitle>Bill 5681 (Multi-sponsored)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_6c03c183da5cd093957ace261718aab5" label="Mixed Materials" type="Box">3 (2-Legislation)</container>
+            <container id="aspace_83b9f52f09d36656bb64e34f8aca3aa7" parent="aspace_6c03c183da5cd093957ace261718aab5" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_56">
+        <c02 id="aspace_e4df3b29fb8d439f4ecc9916bc08034e" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">5</container>
             <unittitle>Bill 5903</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_ca76cb1bb59e36afe2cf12fd6f2b47db" label="Mixed Materials" type="Box">3 (2-Legislation)</container>
+            <container id="aspace_a68150f8c5c0d6599f06eb30a79027fa" parent="aspace_ca76cb1bb59e36afe2cf12fd6f2b47db" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_57">
+        <c02 id="aspace_257b0ea17cbb4ee68422984fa0d5ccf0" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">6</container>
             <unittitle>Bill 5951</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_200d7ee9d3cfebb36e997227f74e95ae" label="Mixed Materials" type="Box">3 (2-Legislation)</container>
+            <container id="aspace_fb3e5a8fcf8096d1f670f2ec391edd38" parent="aspace_200d7ee9d3cfebb36e997227f74e95ae" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_58">
+        <c02 id="aspace_2450e4bc8932ad961795c6c565d2c2bd" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">7</container>
             <unittitle>Bill 5984</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_9688e7a06eed9a91fa661519c0e36bea" label="Mixed Materials" type="Box">3 (2-Legislation)</container>
+            <container id="aspace_08df6e6882de71f65e454cc2e997da32" parent="aspace_9688e7a06eed9a91fa661519c0e36bea" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_59">
+        <c02 id="aspace_d2de2b6bea69d818ed88297aa055ce7c" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">8</container>
             <unittitle>Bill 5986</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_d4193dc7219809dc0567ec6f2864e99b" label="Mixed Materials" type="Box">3 (2-Legislation)</container>
+            <container id="aspace_db88040850884c22b5cbc8672e964754" parent="aspace_d4193dc7219809dc0567ec6f2864e99b" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_60">
+        <c02 id="aspace_3a0d50e9fd6537e120300b42871d2e15" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">9</container>
             <unittitle>Bill 6133</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_489f904d37bd5818bdee92426a3fe418" label="Mixed Materials" type="Box">3 (2-Legislation)</container>
+            <container id="aspace_457445835222153c449e84dc668489ee" parent="aspace_489f904d37bd5818bdee92426a3fe418" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_61">
+        <c02 id="aspace_b1cbf11716903a97680834b45c973fc5" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">10</container>
             <unittitle>Bill 6164</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_ee5d9add20842da7d29d823554c4f0b2" label="Mixed Materials" type="Box">3 (2-Legislation)</container>
+            <container id="aspace_20769cd40d2c354ade414f369b2ae016" parent="aspace_ee5d9add20842da7d29d823554c4f0b2" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_62">
+        <c02 id="aspace_8e67910d7017b01273216243b80d2def" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">11</container>
             <unittitle>Resolution II</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_decf78b79f1a55fbb39f0da9c28a4804" label="Mixed Materials" type="Box">3 (2-Legislation)</container>
+            <container id="aspace_65ffd3a058d3dc0990488e574cd4d58f" parent="aspace_decf78b79f1a55fbb39f0da9c28a4804" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_63">
+        <c02 id="aspace_47d3805c384474e56eb8e1d442f5db9b" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">12</container>
             <unittitle>Resolution 57</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_f9fc62622e0291689d05b369f1db399f" label="Mixed Materials" type="Box">3 (2-Legislation)</container>
+            <container id="aspace_14f27f21143bba5f4b9f0344c4955dbf" parent="aspace_f9fc62622e0291689d05b369f1db399f" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_64">
+        <c02 id="aspace_502ec0a0ed295fa14bf61137a192a557" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">13</container>
             <unittitle>Resolutions 84-85-86</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_dd8856d35b70fe160594824eee84644a" label="Mixed Materials" type="Box">3 (2-Legislation)</container>
+            <container id="aspace_a756edca9bdc7ced070ada2d14822e0e" parent="aspace_dd8856d35b70fe160594824eee84644a" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_65">
+        <c02 id="aspace_91c93cc39e71039e8174d1d1fa87140e" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">14</container>
             <unittitle>Resolution 87</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_eac00547c7c10625172332c5d40cb9ee" label="Mixed Materials" type="Box">3 (2-Legislation)</container>
+            <container id="aspace_9578f9455ad7e95db4f4b918908fcf35" parent="aspace_eac00547c7c10625172332c5d40cb9ee" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_66">
+        <c02 id="aspace_a53472ecffe3cbee886244237e5bcf2d" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">15</container>
             <unittitle>Resolution 89</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_491e0d54081be9f673b0363fb75f01aa" label="Mixed Materials" type="Box">3 (2-Legislation)</container>
+            <container id="aspace_b8ac19c6bdce37cfa66c3a3598bd7d6f" parent="aspace_491e0d54081be9f673b0363fb75f01aa" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_67">
+        <c02 id="aspace_f93593f71a2a95b829ae0e122be23440" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">16</container>
             <unittitle>Resolution 120-121-141</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_bea7a8e9fa2b78734474de2d5dc6874a" label="Mixed Materials" type="Box">3 (2-Legislation)</container>
+            <container id="aspace_56628750ad08325ff2f4a8275049f156" parent="aspace_bea7a8e9fa2b78734474de2d5dc6874a" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_68">
+        <c02 id="aspace_14152d1efbe65fecf9169f4e71a92505" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">17</container>
             <unittitle>Resolution 282</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_ac422f153637ba5ec4986022095d748c" label="Mixed Materials" type="Box">3 (2-Legislation)</container>
+            <container id="aspace_4572ce78aace65bd1a26e151bc998f56" parent="aspace_ac422f153637ba5ec4986022095d748c" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap234-2_69">
+        <c02 id="aspace_aac8f3fa75ce62400fbf84115e2ce550" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">18</container>
             <unittitle>Resolution 301</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_d251eee6da0efd013a09ff6a9c88c820" label="Mixed Materials" type="Box">3 (2-Legislation)</container>
+            <container id="aspace_3313c68450007c192b1f440b73fe6b51" parent="aspace_d251eee6da0efd013a09ff6a9c88c820" type="Folder">18</container>
           </did>
         </c02>
       </c01>

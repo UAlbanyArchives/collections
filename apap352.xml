@@ -1,81 +1,85 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap352">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/apap352.html">nam_apap352</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap352">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap352.xml">apap352</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>FRANK CASHIER PAPERS (APAP352)<date normal="1974/1994" type="inclusive">1974-1994</date></titleproper>
+        <titleproper>Cashier, Frank; Papers <num>apap352</num></titleproper>
         <author>unprocessed</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2015" type="publication">Copyright 2015 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2015</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Jodi Boyle<date normal="2015">2015</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 15:51:49 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2014">2014</date>
+        <date>2014</date>
         <item>EAD file created</item>
+      </change>
+      <change>
+        <date>2015</date>
+        <item>Encoded in EAD by Jodi Boyle</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap352</unitid>
-      <unittitle>Frank Cashier Papers<unitdate normal="1974/1994" type="inclusive">1974-1994</unitdate></unittitle>
-      <abstract label="Abstract:">This collection documents Frank Cashiers, and his fellow local residents, campaigns against the Adirondack Park Agency (APA) Act and the actions of the Agency from the 1970s through the 1990s.  </abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <persname encodinganalog="100" source="local">Cashier, Frank (publisher)</persname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">21</extent>
-      </physdesc>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Frank Cashier Papers<unitdate normal="1974/1994" type="inclusive">1974-1994</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="local">Cashier, Frank (publisher)</persname>
+      </origination>
+      <unitid>apap352</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">21 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_ef6871b8983e3fcec7d514fd64b318eb">This collection documents Frank Cashiers, and his fellow local residents, campaigns against the Adirondack Park Agency (APA) Act and the actions of the Agency from the 1970s through the 1990s.</abstract>
+      <langmaterial id="aspace_97cac849e789dc0d55f7c6a99f9d277f">English</langmaterial>
+      <physloc id="aspace_8f58d5ef0ab83180be864565a388ca70">The materials are located onsite in the department.</physloc>
+      <container id="aspace_311aa69dbd01f85152de3e5005069eca" label="Mixed Materials" type="Collection">X</container>
     </did>
-    <bioghist>
+    <processinfo id="aspace_b5f335a783b6e9017740b287d304f711">
+      <head>Processing Information</head>
+      <p>Processed in 2015 by unprocessed.</p>
+    </processinfo>
+    <bioghist id="aspace_84e21bd55721b872d5fa2def61b94524">
       <head>Biographical History</head>
-      <p>Frank Cashier and his wife Audrey were long-time residents of Saranac Lake in the Adirondack Region of New York.  Beginning in 1976, Cashier served as co-publisher of The Adirondack Defender, published in Defense of the People of the Adirondacks.  He also founded the Adirondack Defense League in 1977. </p>
+      <p>Frank Cashier and his wife Audrey were long-time residents of Saranac Lake in the Adirondack Region of New York. Beginning in 1976, Cashier served as co-publisher of The Adirondack Defender, published in Defense of the People of the Adirondacks. He also founded the Adirondack Defense League in 1977.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_4ac4b520553cb20dba021d257ffaefb9">
+      <head>Scope and Contents</head>
       <p>The collection contains correspondence, letters to the editor, clippings, select issues of The Adirondack Defender, subject files, reports, flyers, political advertising, and video cassettes.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_48e9172c55c086519e9d20ae3086546b">
       <head>Arrangement of the Collection</head>
       <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_3e4e184317f110be844e722b0152d58a">
       <head>Acquisition Information</head>
       <p>Frank, Audrey and David Cashier donated the collection to the M.E. Grenander Department of Special Collections &amp; Archives.<date normal="2015">2015</date></p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_b1a133c8ae2f89d848a7116021c40698">
       <head>Access</head>
       <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. While it is likely that portions of the collection may be viewed, access must be managed by an archivist.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_0e618d4f28f7839fb62f06a715f6adc6">
       <head>Copyright</head>
       <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_e3567d9341926623d2fc11e470ab70f5">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Frank Cashier Papers, 1974-1994. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Cashier Papers).</p>
+      <p> Identification of specific item, series, box, folder, Frank Cashier Papers, 1974-1994. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Cashier Papers).</p>
     </prefercite>
+    <dsc/>
   </archdesc>
 </ead>

@@ -1,1121 +1,1090 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua934">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua934.html">nam_ua934</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua934">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua934.xml">ua934</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>CAMPUS DIRECTORIES COLLECTION (UA934)<date normal="1925/2006" type="inclusive">1925-2006</date></titleproper>
+        <titleproper>Campus Directories; Collection <num>ua934</num></titleproper>
         <author>Erik Stolarski</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2016" type="publication">Copyright 2016 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2016</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Erik Stolarski<date normal="2016-10-25">2016 October 25</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 17:34:11 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2014">2014</date>
+        <date>2014</date>
         <item>EAD file created</item>
+      </change>
+      <change>
+        <date>2016 October 25</date>
+        <item>Encoded in EAD by Erik Stolarski</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua934</unitid>
-      <unittitle>Campus Directories Collection<unitdate normal="1925/2006" type="inclusive">1925-2006</unitdate></unittitle>
-      <abstract label="Abstract:">This collection is made up of directories to campus faculty and staff at the new York State College of Teachers and the University at Albany.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="lcsh">State University of New York at Albany</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">2.06</extent>
-      </physdesc>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Campus Directories Collection<unitdate normal="1925/2006" type="inclusive">1925-2006</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="lcsh">State University of New York at Albany</corpname>
+      </origination>
+      <unitid>ua934</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.06 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_370b906d600912fed42fc5275a9023de">This collection is made up of directories to campus faculty and staff at the new York State College of Teachers and the University at Albany.</abstract>
+      <langmaterial id="aspace_90dda1a31f8ded607ad6f0d029057a31">English</langmaterial>
+      <physloc id="aspace_fa773b6afba74e8689bfa0f9d3bd4e0e">The materials are located onsite in the department.</physloc>
     </did>
-    <bioghist>
+    <processinfo id="aspace_ccae735325cebfaf1e7e3a3017fed840">
+      <head>Processing Information</head>
+      <p>Processed in 2016 by Erik Stolarski.</p>
+    </processinfo>
+    <bioghist id="aspace_d0a58ef21b53430dce9089bf44731a61">
       <head>Administrative History</head>
-      <p>The New York State College for Teachers and the University at Albany provided contact information for faculty and staff by using campus directories. These directories were published yearly, as well as other version such as specific Summer session directories and one for specific departments. Publishing of these seems to have halted since the campus website provided all necessary contact information. </p>
+      <p>The New York State College for Teachers and the University at Albany provided contact information for faculty and staff by using campus directories. These directories were published yearly, as well as other version such as specific Summer session directories and one for specific departments. Publishing of these seems to have halted since the campus website provided all necessary contact information.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>In this collection are the directories dating from 1925 to 2006. The majority are general directories to the faculty and staff, though some have a more specific target from certain departments, as well as seasonal copies such as the summer telephone directories. The information provided is the list of faculty and staff members working in all aspects of the University, as well as how they can be reached with information like office locations and telephone numbers. </p>
+    <scopecontent id="aspace_c8781042a77df946c3b54b137509c19a">
+      <head>Scope and Contents</head>
+      <p>In this collection are the directories dating from 1925 to 2006. The majority are general directories to the faculty and staff, though some have a more specific target from certain departments, as well as seasonal copies such as the summer telephone directories. The information provided is the list of faculty and staff members working in all aspects of the University, as well as how they can be reached with information like office locations and telephone numbers.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_e8b6a680a61e9c81a63c989c92f3c01c">
       <head>Arrangement of the Collection</head>
-      <p>The collection is organized topically and chronolgoically within those groups. </p>
+      <p>The collection is organized topically and chronolgoically within those groups.</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_bbda5c9ffb6952bef256d67563ab8eee">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_b71effb768312ff6ca5175809fed5bcd">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_fa2a835eb914827a9a8e1fffcdd1ee61">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
-      <p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p> The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_7e1ccca8c069d2e1cfdbe663766afdc5">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, The Campus Directory Collection,  1925-2006. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Campus Directory Collection).</p>
+      <p> Identification of specific item, series, box, folder, The Campus Directory Collection, 1925-2006. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Campus Directory Collection).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject encodinganalog="650" source="lcsh">Directories</subject>
-      <subject encodinganalog="650" source="lcsh">Universities and colleges--Faculty</subject>
-      <geogname encodinganalog="651" source="meg">Albany, New York</geogname>
+      <subject source="lcsh">Directories</subject>
+      <subject source="lcsh">Universities and colleges--Faculty</subject>
     </controlaccess>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_ua934-1">
+    <dsc>
+      <c01 id="aspace_1d4f414a490f68186d58c3c32f85a89f" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">1</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1925">1925</unitdate>
-          <note>
-            <p>Owned by Isabella G. Rawson</p>
-          </note>
+          <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
+          <container id="aspace_4c972db4753fb6c36e45540002dbd372" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_31d49ea7826bd90719e304368df38dd9" parent="aspace_4c972db4753fb6c36e45540002dbd372" type="Volume">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-2">
+      <c01 id="aspace_508f4df1f3699e194e36d47795deda82" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">2</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1926">1926</unitdate>
-          <note>
-            <p>Owned by George R. Burton</p>
-          </note>
+          <unitdate normal="1926/1926" type="inclusive">1926</unitdate>
+          <container id="aspace_df38849f6036f20954b7e2a2807b3c17" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_4e3a3dae011d2872bf1924028d306ba2" parent="aspace_df38849f6036f20954b7e2a2807b3c17" type="Volume">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-3">
+      <c01 id="aspace_f211144e8fdc8789324efa6dc1e7565c" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">3</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1927">1927</unitdate>
+          <unitdate normal="1927/1927" type="inclusive">1927</unitdate>
+          <container id="aspace_cc6fa544eea4966d6a5b0a9df9c84055" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_bf46662e92775ad0176c981bef64056a" parent="aspace_cc6fa544eea4966d6a5b0a9df9c84055" type="Volume">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-4">
+      <c01 id="aspace_d7bd6a831450d030491ee0e0fd5749d7" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">4</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1928">1928</unitdate>
-          <note>
-            <p>Owned by Jehiel S. Raynor</p>
-          </note>
+          <unitdate normal="1928/1928" type="inclusive">1928</unitdate>
+          <container id="aspace_d77f76db4015d4b682766f319ee889c9" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_afdfa04410b7bc68fb25d220897e2cff" parent="aspace_d77f76db4015d4b682766f319ee889c9" type="Volume">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-5">
+      <c01 id="aspace_37a4d5a1d2a938673c9be0aacba923a5" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">5</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1929">1929</unitdate>
-          <note>
-            <p>Owned by Sarah E. Sutton</p>
-          </note>
+          <unitdate normal="1929/1929" type="inclusive">1929</unitdate>
+          <container id="aspace_efb4aea439ccc73ada61889ca7072c47" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_90476c276b04261750fbe4853d46c0d5" parent="aspace_efb4aea439ccc73ada61889ca7072c47" type="Volume">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-6">
+      <c01 id="aspace_dbc8c7fb8667f7a48916cac0778538bd" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">6</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1930">1930</unitdate>
+          <unitdate normal="1930/1930" type="inclusive">1930</unitdate>
+          <container id="aspace_0d5d817dc1910ab59cc2ae3ea3a99a61" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_031b72c4bee147ad4f28b4f0b3f1d8de" parent="aspace_0d5d817dc1910ab59cc2ae3ea3a99a61" type="Volume">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-7">
+      <c01 id="aspace_9b1ea9a3553f06dde21e1a1ca6c66621" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">7</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1931">1931</unitdate>
+          <unitdate normal="1931/1931" type="inclusive">1931</unitdate>
+          <container id="aspace_95754a915ea0e65498a281c71d263fcd" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_04e4f3fffbc4285c7a08eabce6e87da1" parent="aspace_95754a915ea0e65498a281c71d263fcd" type="Volume">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-8">
+      <c01 id="aspace_9781618dc607a555b10b400bab3b0080" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">8</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1932">1932</unitdate>
-          <note>
-            <p>Owned by Elsie M. Hodge</p>
-          </note>
+          <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
+          <container id="aspace_f7591288aa25d5099d3d17e21b2b56dd" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_d35f8b2364777b9d9a09078313d10fc9" parent="aspace_f7591288aa25d5099d3d17e21b2b56dd" type="Volume">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-9">
+      <c01 id="aspace_c1d94971e60599b599db637b286104fb" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">9</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1933">1933</unitdate>
-          <note>
-            <p>Owned by Jennie S. Harper</p>
-          </note>
+          <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
+          <container id="aspace_ab1d9f60ca70dede1d45c6b91ae56e86" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_e17cbf001dbf73622b9e586c4c10e6f1" parent="aspace_ab1d9f60ca70dede1d45c6b91ae56e86" type="Volume">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-10">
+      <c01 id="aspace_a5a24c55b927ffd02efbe2fa805be92e" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">10</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1934">1934</unitdate>
-          <note>
-            <p>Owned by Clara L. Moore</p>
-          </note>
+          <unitdate normal="1934/1934" type="inclusive">1934</unitdate>
+          <container id="aspace_4ad772039e4f61b6ec49b52468fe9a90" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_91b08dfb20e6add95685c3e83b083287" parent="aspace_4ad772039e4f61b6ec49b52468fe9a90" type="Volume">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-11">
+      <c01 id="aspace_57562d792c6924838e640c813ed9f78e" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">11</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1935">1935</unitdate>
-          <note>
-            <p>Owned by George C. Lang</p>
-          </note>
+          <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+          <container id="aspace_32a7018ebba3ff7e9120323f84c8219e" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_a2350d7c8e1c7b827814f1666e39b336" parent="aspace_32a7018ebba3ff7e9120323f84c8219e" type="Volume">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-12">
+      <c01 id="aspace_98e52870913f87e3a6a8cf3fabee964f" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">12</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1936">1936</unitdate>
-          <note>
-            <p>Owned by Helen Lee Lewis</p>
-          </note>
+          <unitdate normal="1936/1936" type="inclusive">1936</unitdate>
+          <container id="aspace_f0ce5d5d549d96dab72d43b9f47af557" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_03ef852b3b2effd521105ca678d72c5d" parent="aspace_f0ce5d5d549d96dab72d43b9f47af557" type="Volume">12</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-13">
+      <c01 id="aspace_362bff67c8b2e407cb0d72212cecd26c" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">13</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1937">1937</unitdate>
+          <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+          <container id="aspace_8b86cebd14ecdde39f333df5fc989f07" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_c61fc874176854fa7388b35f277fb0cd" parent="aspace_8b86cebd14ecdde39f333df5fc989f07" type="Volume">13</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-14">
+      <c01 id="aspace_1db33b3cea913b2e9c4555e6f1be2c2a" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">14</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1938">1938</unitdate>
+          <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+          <container id="aspace_f0f2505e4c7ef41cd230a7f2fdae9b3e" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_a6c4d7303802b5b7b2214744b818c542" parent="aspace_f0f2505e4c7ef41cd230a7f2fdae9b3e" type="Volume">14</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-15">
+      <c01 id="aspace_a520921315361e76f3a7c416b7de1f07" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">15</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1939">1939</unitdate>
+          <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+          <container id="aspace_32e96c46ea7756d275e677de25006602" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_5cb2a3a168a0858995ce254594ca5390" parent="aspace_32e96c46ea7756d275e677de25006602" type="Volume">15</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-16">
+      <c01 id="aspace_bf9acd85ed80dd596c91db4f99a57e04" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">16</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1940">1940</unitdate>
+          <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
+          <container id="aspace_2846238a60107a52e2f7973c41c7a564" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_0cabe7bf9bc2e145d2db60f731257db5" parent="aspace_2846238a60107a52e2f7973c41c7a564" type="Volume">16</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-17">
+      <c01 id="aspace_f01a98dbc780d01429517b6d03f005c0" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">17</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941">1941</unitdate>
+          <unitdate normal="1941/1941" type="inclusive">1941</unitdate>
+          <container id="aspace_61981bad968a737b40d286a29399d044" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_710ec8516ec1903886c8e53ab50359dd" parent="aspace_61981bad968a737b40d286a29399d044" type="Volume">17</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-18">
+      <c01 id="aspace_dbe967f16d54f212edfafeb4e74fcd31" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">18</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1942">1942</unitdate>
+          <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
+          <container id="aspace_6eada6081edc3e92e2a10c3ccc926e3a" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_8fa47e4713a5a3dad9104f9c8c17f985" parent="aspace_6eada6081edc3e92e2a10c3ccc926e3a" type="Volume">18</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-19">
+      <c01 id="aspace_c8f46a24674253c81af0ca06c633db85" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">19</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1943">1943</unitdate>
+          <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
+          <container id="aspace_4029b7de057cc7981e0bd65466a59b3d" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_ae2c28fc987da1f3520fe8336cb682cf" parent="aspace_4029b7de057cc7981e0bd65466a59b3d" type="Volume">19</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-20">
+      <c01 id="aspace_493cbb433d93c465376d54ef25e262d6" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">20</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1944">1944</unitdate>
+          <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+          <container id="aspace_0f4b28b2073ecb056483f55dbb535d01" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_6a56541ba465affb744d1c71207be437" parent="aspace_0f4b28b2073ecb056483f55dbb535d01" type="Volume">20</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-21">
+      <c01 id="aspace_52048b25619ecd4a089dc57f7d6e24a9" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">21</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1945">1945</unitdate>
+          <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+          <container id="aspace_e85fa9ea8604eef9a33115f2d21a6457" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_e63e22b210154222c1e18fd84c421bd4" parent="aspace_e85fa9ea8604eef9a33115f2d21a6457" type="Volume">21</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-22">
+      <c01 id="aspace_c87a723ad3c3642f67d1b2cb36805fba" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">22</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1946">1946</unitdate>
+          <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+          <container id="aspace_11869ed0a9b649ff93ffb4803503782d" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_2c334536766955976f2bc2db286c50cb" parent="aspace_11869ed0a9b649ff93ffb4803503782d" type="Volume">22</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-23">
+      <c01 id="aspace_4a5755342310f62dfdb2ba30658d9256" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">23</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1947">1947</unitdate>
+          <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+          <container id="aspace_4258bc4fae27800997862bc3dab3b58a" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_d071344ba909f9259f522f5073933f85" parent="aspace_4258bc4fae27800997862bc3dab3b58a" type="Volume">23</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-24">
+      <c01 id="aspace_e4858d8c054cf0c789f7bf6a376f45f3" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">24</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1948">1948</unitdate>
+          <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+          <container id="aspace_323d7a2dca0d04c69523d91cf17379e0" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_7d82ea48e65a9a1656bd4459e8cb2848" parent="aspace_323d7a2dca0d04c69523d91cf17379e0" type="Volume">24</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-25">
+      <c01 id="aspace_9ea0a05be16c9131e0cdea075f701605" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">25</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1949">1949</unitdate>
+          <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+          <container id="aspace_2361125ec7a0a9d55c900445a07bce4a" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_dcbf18aadcb25127c2741c0ce625f9d5" parent="aspace_2361125ec7a0a9d55c900445a07bce4a" type="Volume">25</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-26">
+      <c01 id="aspace_d2928775c1a11d70ecc2fb9c06b1e561" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">26</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1950">1950</unitdate>
+          <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+          <container id="aspace_9ca5d6e95f07a8ccb6e3a23638f55c7b" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_2ae90767c49f3b9c62319b94e6dfde77" parent="aspace_9ca5d6e95f07a8ccb6e3a23638f55c7b" type="Volume">26</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-27">
+      <c01 id="aspace_1fec0c6f2b53a57de725c6af87932f90" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">27</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1951">1951</unitdate>
+          <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+          <container id="aspace_bbe1ff1b16e5af785725b7c436c3f29a" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_90d6ad78b5381f665fa9e8f7b7a99cf3" parent="aspace_bbe1ff1b16e5af785725b7c436c3f29a" type="Volume">27</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-28">
+      <c01 id="aspace_be5920c4b8e19e87cf94ac29017b9f48" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">28</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1952">1952</unitdate>
+          <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+          <container id="aspace_e05fef3e031ea4ea48d04739b7902afa" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_e0fe260e849cfe9915df28505c0a39c7" parent="aspace_e05fef3e031ea4ea48d04739b7902afa" type="Volume">28</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-29">
+      <c01 id="aspace_b67dd355d5263c4e63de4b8610ebd40a" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">29</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1953">1953</unitdate>
+          <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+          <container id="aspace_1a7660f0ad756bcc016d959a32715bcc" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_f37bf7b30f47bb22f8949948d466e31e" parent="aspace_1a7660f0ad756bcc016d959a32715bcc" type="Volume">29</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-30">
+      <c01 id="aspace_aa097f3669cda968610b230b0efef969" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">30</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1954">1954</unitdate>
+          <unitdate normal="1954/1954" type="inclusive">1954</unitdate>
+          <container id="aspace_4b0f0db49388c7eb1c8e458057a71136" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_d076c4ff45d75f784f81993cbdef1098" parent="aspace_4b0f0db49388c7eb1c8e458057a71136" type="Volume">30</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-31">
+      <c01 id="aspace_7ec37493abdeeee8d9abab1e872c4dce" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">31</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1955">1955</unitdate>
+          <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
+          <container id="aspace_039e1cfbce5a176d69e3578fd70482cc" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_53c54317c9b8145154d7c670d11c7941" parent="aspace_039e1cfbce5a176d69e3578fd70482cc" type="Volume">31</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-32">
+      <c01 id="aspace_3858c8510c2c2f8e5e28172da5152701" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">32</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1956">1956</unitdate>
+          <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+          <container id="aspace_5d6e4e0172a8b3d88d8cbeff2b3ef250" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_be928700d594486ccef168c17d1f4eeb" parent="aspace_5d6e4e0172a8b3d88d8cbeff2b3ef250" type="Volume">32</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-33">
+      <c01 id="aspace_9b33f59cfe48bc67e1f1237314993cec" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">33</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1957">1957</unitdate>
+          <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
+          <container id="aspace_cda78f757c4a125f927103d5b885933e" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_1d3258314925142615ac39f46e2ef64a" parent="aspace_cda78f757c4a125f927103d5b885933e" type="Volume">33</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-34">
+      <c01 id="aspace_3200ffe0b70e59e168721ceb31285eb2" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">34</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1958">1958</unitdate>
+          <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+          <container id="aspace_17cd84d8c68d79095a0457717d07b16a" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_43989c87ee36205614dde11616bd7204" parent="aspace_17cd84d8c68d79095a0457717d07b16a" type="Volume">34</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-35">
+      <c01 id="aspace_5408557ac5b9b949cc027699219ba5ba" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">35</container>
           <unittitle>New York State College Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1959">1959</unitdate>
+          <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+          <container id="aspace_528a6cfcd592eefb29f5376d9a98c7ac" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_5084e8563b9c872cb56d5e286c08c566" parent="aspace_528a6cfcd592eefb29f5376d9a98c7ac" type="Volume">35</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-36">
+      <c01 id="aspace_253cd3887271093858e21e2fd7f21979" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">36</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1960">1960</unitdate>
+          <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+          <container id="aspace_e0847c05a2f57d003f114b86915000f7" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_59ca934792161e35d85611c03d831d64" parent="aspace_e0847c05a2f57d003f114b86915000f7" type="Volume">36</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-37">
+      <c01 id="aspace_85b34120469588968d0884e48c75cbe8" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">37</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1961">1961</unitdate>
+          <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+          <container id="aspace_3a1ec801c8619b3cd627b4b76ee34503" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_743060b2f009da82ffa78f10670cf2c0" parent="aspace_3a1ec801c8619b3cd627b4b76ee34503" type="Volume">37</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-38">
+      <c01 id="aspace_a4f64bdb3251b47d13cab2c2b37b444b" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">38</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1962">1962</unitdate>
+          <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+          <container id="aspace_1722fcfce1e6f743cdfd500e4b938747" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_c8b986da6e3da3448c239b3cbc3dde33" parent="aspace_1722fcfce1e6f743cdfd500e4b938747" type="Volume">38</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-39">
+      <c01 id="aspace_b6a822c5aa528e7f0e1260c74db4530a" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">39</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1963">1963</unitdate>
+          <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+          <container id="aspace_e6461df8a8e4600fcd30982564c74717" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_4d3d7af83ed707782c0c3fdc69fe64ca" parent="aspace_e6461df8a8e4600fcd30982564c74717" type="Volume">39</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-40">
+      <c01 id="aspace_73429e8ec667e225fdc5dd39939d8e3b" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">40</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1964">1964</unitdate>
+          <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+          <container id="aspace_56597944e53a6d489d7bb7d3ca8fc01e" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_cb5b45c635f2999c6ebdbcee32fb270f" parent="aspace_56597944e53a6d489d7bb7d3ca8fc01e" type="Volume">40</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-41">
+      <c01 id="aspace_219905700550512f471874ef345a3f62" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">41</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1965">1965</unitdate>
+          <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+          <container id="aspace_024f3d465c494993800d65cd4839bfd0" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_ab83a0e00dbf580c05dc3d57d7020652" parent="aspace_024f3d465c494993800d65cd4839bfd0" type="Volume">41</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-42">
+      <c01 id="aspace_7081aeed8178b9943e561bda1e6858b5" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">42</container>
           <unittitle>Temporary Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1966">1966</unitdate>
+          <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+          <container id="aspace_19162df2c9fcd0edc2642fb012e78521" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_1d0619b3ceb9e3435f01ed9fa17ceefc" parent="aspace_19162df2c9fcd0edc2642fb012e78521" type="Volume">42</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-43">
+      <c01 id="aspace_b303ec6214cf2dff488ccd569ce471dd" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Volume">43</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1966">1966</unitdate>
+          <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+          <container id="aspace_8b22f430e5351f254b22b1f848e06628" label="Mixed Materials" type="Box">1 (Campus Directories Collection)</container>
+          <container id="aspace_4aad55dcf8f236910985d7a20a137ab9" parent="aspace_8b22f430e5351f254b22b1f848e06628" type="Volume">43</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-44">
+      <c01 id="aspace_99e1ecc0fbd9062f5231dd9ac33e85e5" level="otherlevel">
         <did>
-          <container type="Box">2</container>
-          <container type="Volume">1</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1967">1967</unitdate>
+          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+          <container id="aspace_e41d9fc16ceb5a7fbe09ddad6516b45b" label="Mixed Materials" type="Box">2 (Campus Directories Collection)</container>
+          <container id="aspace_788cbcfb025b9cead4c7ed9da0bb41f5" parent="aspace_e41d9fc16ceb5a7fbe09ddad6516b45b" type="Volume">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-45">
+      <c01 id="aspace_cb67b471d89a3633eac5bcf4cd38eeab" level="otherlevel">
         <did>
-          <container type="Box">2</container>
-          <container type="Volume">2</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1968">1968</unitdate>
+          <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+          <container id="aspace_1fdf433016fd3d065eb1dd785b785cff" label="Mixed Materials" type="Box">2 (Campus Directories Collection)</container>
+          <container id="aspace_67571902080f7d44a597d3e9bc3dfc2c" parent="aspace_1fdf433016fd3d065eb1dd785b785cff" type="Volume">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-46">
+      <c01 id="aspace_b6a7b44b6053b2e1368affd5e47bfb73" level="otherlevel">
         <did>
-          <container type="Box">2</container>
-          <container type="Volume">3</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1969">1969</unitdate>
+          <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+          <container id="aspace_af285dd5d65761d40b25721be12a7c7d" label="Mixed Materials" type="Box">2 (Campus Directories Collection)</container>
+          <container id="aspace_29ad2eb494846780332b986245ad3aa6" parent="aspace_af285dd5d65761d40b25721be12a7c7d" type="Volume">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-47">
+      <c01 id="aspace_55c5afd57c73da158d17e3038ff3136a" level="otherlevel">
         <did>
-          <container type="Box">2</container>
-          <container type="Volume">4</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
+          <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+          <container id="aspace_140feffad1c06a22bfc2ce3c6c898c81" label="Mixed Materials" type="Box">2 (Campus Directories Collection)</container>
+          <container id="aspace_f5fd990dabf841b59fb2921fe15e5377" parent="aspace_140feffad1c06a22bfc2ce3c6c898c81" type="Volume">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-48">
+      <c01 id="aspace_9fa6b0d289056d69ad5782687954cf8d" level="otherlevel">
         <did>
-          <container type="Box">2</container>
-          <container type="Volume">5</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1971">1971</unitdate>
+          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+          <container id="aspace_5f8ede3412d102112989aa1c7d60c372" label="Mixed Materials" type="Box">2 (Campus Directories Collection)</container>
+          <container id="aspace_8f0a814e88b26cd61505c164184611a8" parent="aspace_5f8ede3412d102112989aa1c7d60c372" type="Volume">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-49">
+      <c01 id="aspace_7526fb564942e96a811947dc4ecd1eaf" level="otherlevel">
         <did>
-          <container type="Box">2</container>
-          <container type="Volume">6</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1972">1972</unitdate>
+          <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+          <container id="aspace_9dab590a309a496291df70ab5de88e30" label="Mixed Materials" type="Box">2 (Campus Directories Collection)</container>
+          <container id="aspace_f17b8fa6d1ba55bef929de175753ac90" parent="aspace_9dab590a309a496291df70ab5de88e30" type="Volume">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-50">
+      <c01 id="aspace_e4922722debb669487977cdc3602e144" level="otherlevel">
         <did>
-          <container type="Box">2</container>
-          <container type="Volume">7</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1973">1973</unitdate>
+          <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+          <container id="aspace_234df3a35400f73b86d4a8ae573c5637" label="Mixed Materials" type="Box">2 (Campus Directories Collection)</container>
+          <container id="aspace_e65f166b1d3453217a2cc740ffab092a" parent="aspace_234df3a35400f73b86d4a8ae573c5637" type="Volume">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-51">
+      <c01 id="aspace_5e55c944d225649c7f64103c9be9ccf3" level="otherlevel">
         <did>
-          <container type="Box">2</container>
-          <container type="Volume">8</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1974">1974</unitdate>
+          <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+          <container id="aspace_c63d106237450c8fd5446619aaa07dad" label="Mixed Materials" type="Box">2 (Campus Directories Collection)</container>
+          <container id="aspace_b3501b0731780cd0c5305f183acbc1d0" parent="aspace_c63d106237450c8fd5446619aaa07dad" type="Volume">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-52">
+      <c01 id="aspace_b9ce86a1e57b22c843e626285e2d5206" level="otherlevel">
         <did>
-          <container type="Box">2</container>
-          <container type="Volume">9</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1975">1975</unitdate>
+          <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+          <container id="aspace_68c346bd93217e64cf09b47c95335d1f" label="Mixed Materials" type="Box">2 (Campus Directories Collection)</container>
+          <container id="aspace_207da53651f2b73547520942c3e553b7" parent="aspace_68c346bd93217e64cf09b47c95335d1f" type="Volume">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-53">
+      <c01 id="aspace_dfd40e502cef4729b736661fa0f3847d" level="otherlevel">
         <did>
-          <container type="Box">2</container>
-          <container type="Volume">10</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1976">1976</unitdate>
+          <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+          <container id="aspace_6b38b9447ba09cd7a16d2adb9b830814" label="Mixed Materials" type="Box">2 (Campus Directories Collection)</container>
+          <container id="aspace_6d01eb3bbffd7d31c9fc7c566ea91b0e" parent="aspace_6b38b9447ba09cd7a16d2adb9b830814" type="Volume">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-54">
+      <c01 id="aspace_1c38ad4ba74a5441ed38f7d0109fce0f" level="otherlevel">
         <did>
-          <container type="Box">2</container>
-          <container type="Volume">11</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1977">1977</unitdate>
+          <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+          <container id="aspace_60d5c26071aab900872f1dc6d170dcae" label="Mixed Materials" type="Box">2 (Campus Directories Collection)</container>
+          <container id="aspace_a425cca97c89d93d4a8dc07529691dc4" parent="aspace_60d5c26071aab900872f1dc6d170dcae" type="Volume">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-55">
+      <c01 id="aspace_faf4145fcc73fa0010f7d01d57ed7617" level="otherlevel">
         <did>
-          <container type="Box">2</container>
-          <container type="Volume">12</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1978">1978</unitdate>
+          <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+          <container id="aspace_e13a7087a90b5d7fdcbfe0d786fde094" label="Mixed Materials" type="Box">2 (Campus Directories Collection)</container>
+          <container id="aspace_819908fc6c194846ec89d3afe2cba3d1" parent="aspace_e13a7087a90b5d7fdcbfe0d786fde094" type="Volume">12</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-56">
+      <c01 id="aspace_1d16cafcad41cebd69d7ede04a2fd61a" level="otherlevel">
         <did>
-          <container type="Box">3</container>
-          <container type="Volume">1</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1979">1979</unitdate>
+          <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+          <container id="aspace_2e9fd28becc7d43579fd23aa422799df" label="Mixed Materials" type="Box">3 (Campus Directories Collection)</container>
+          <container id="aspace_ce9ffeb22a44854c73b5d13dc62e0ab1" parent="aspace_2e9fd28becc7d43579fd23aa422799df" type="Volume">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-57">
+      <c01 id="aspace_a744b95f8375e7fa0683166c9cde2c0f" level="otherlevel">
         <did>
-          <container type="Box">3</container>
-          <container type="Volume">2</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1980">1980</unitdate>
+          <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+          <container id="aspace_80b79da3cf7033828dc8614751dde544" label="Mixed Materials" type="Box">3 (Campus Directories Collection)</container>
+          <container id="aspace_780d6f53718c260077d94c4bac5e5f35" parent="aspace_80b79da3cf7033828dc8614751dde544" type="Volume">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-58">
+      <c01 id="aspace_58873dd71fe69e035976634b8d66f3af" level="otherlevel">
         <did>
-          <container type="Box">3</container>
-          <container type="Volume">3</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1981">1981</unitdate>
+          <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+          <container id="aspace_e9fe398c8516672247baa333e09fc27b" label="Mixed Materials" type="Box">3 (Campus Directories Collection)</container>
+          <container id="aspace_77b20326f4f34a9c8142da252c485fcd" parent="aspace_e9fe398c8516672247baa333e09fc27b" type="Volume">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-59">
+      <c01 id="aspace_00c419c3a00b0d6edb7ce6d751bba625" level="otherlevel">
         <did>
-          <container type="Box">3</container>
-          <container type="Volume">4</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1982">1982</unitdate>
+          <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+          <container id="aspace_4c9a1751a6b5726e8b6ec807c5e6c03d" label="Mixed Materials" type="Box">3 (Campus Directories Collection)</container>
+          <container id="aspace_c1d484e9abacd1312b175e6aaff9346f" parent="aspace_4c9a1751a6b5726e8b6ec807c5e6c03d" type="Volume">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-60">
+      <c01 id="aspace_0015719b605ecd127709e2eb2c6b4413" level="otherlevel">
         <did>
-          <container type="Box">3</container>
-          <container type="Volume">5</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1983">1983</unitdate>
+          <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+          <container id="aspace_180f7e463c6fb740e1f5d63e23cd0172" label="Mixed Materials" type="Box">3 (Campus Directories Collection)</container>
+          <container id="aspace_2c1f399e32ac35b4e1014c771f782441" parent="aspace_180f7e463c6fb740e1f5d63e23cd0172" type="Volume">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-61">
+      <c01 id="aspace_ddc85176473bf3186e8c02868cc369e3" level="otherlevel">
         <did>
-          <container type="Box">3</container>
-          <container type="Volume">6</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1984">1984</unitdate>
+          <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+          <container id="aspace_b0fd38aecabcbd419295efaa3561a289" label="Mixed Materials" type="Box">3 (Campus Directories Collection)</container>
+          <container id="aspace_99ef055430c9d4187ddc83e930767417" parent="aspace_b0fd38aecabcbd419295efaa3561a289" type="Volume">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-62">
+      <c01 id="aspace_3f5c73d2165ae8775c00bc313ecfea08" level="otherlevel">
         <did>
-          <container type="Box">3</container>
-          <container type="Volume">7</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1985">1985</unitdate>
+          <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+          <container id="aspace_244a666dc1f5589414fda9d6e53ff3a1" label="Mixed Materials" type="Box">3 (Campus Directories Collection)</container>
+          <container id="aspace_7cf754c8652a4b9d406667b23bbec0f6" parent="aspace_244a666dc1f5589414fda9d6e53ff3a1" type="Volume">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-63">
+      <c01 id="aspace_bd5614a7c3dffccb986f6e4342cfbcac" level="otherlevel">
         <did>
-          <container type="Box">3</container>
-          <container type="Volume">8</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1986">1986</unitdate>
+          <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+          <container id="aspace_5bca8bab4b588cda816d81c921f5d6b3" label="Mixed Materials" type="Box">3 (Campus Directories Collection)</container>
+          <container id="aspace_2e8607cd74915776a569118613827e93" parent="aspace_5bca8bab4b588cda816d81c921f5d6b3" type="Volume">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-64">
+      <c01 id="aspace_0c0a0b83bdfb6a5a0a884b338c5d502a" level="otherlevel">
         <did>
-          <container type="Box">3</container>
-          <container type="Volume">9</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1987">1987</unitdate>
+          <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+          <container id="aspace_31374b88ff3c7e7355f96e93707e71dc" label="Mixed Materials" type="Box">3 (Campus Directories Collection)</container>
+          <container id="aspace_89d4a38787953488e5003e287ad9ec29" parent="aspace_31374b88ff3c7e7355f96e93707e71dc" type="Volume">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-65">
+      <c01 id="aspace_96cc6e6553b1551833ca0e12a08a37cb" level="otherlevel">
         <did>
-          <container type="Box">3</container>
-          <container type="Volume">10</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1988">1988</unitdate>
+          <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+          <container id="aspace_03e52a4a9a5fdb2097c4621622f33691" label="Mixed Materials" type="Box">3 (Campus Directories Collection)</container>
+          <container id="aspace_51a7ba34ac0f23a1fae91bf4720d6087" parent="aspace_03e52a4a9a5fdb2097c4621622f33691" type="Volume">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-66">
+      <c01 id="aspace_a820a3a19f286851c449ccb907fcc488" level="otherlevel">
         <did>
-          <container type="Box">3</container>
-          <container type="Volume">11</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1989">1989</unitdate>
+          <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+          <container id="aspace_4c72eb21328f58ed77c868dc12f8af7f" label="Mixed Materials" type="Box">3 (Campus Directories Collection)</container>
+          <container id="aspace_793986fc895593de320e980f9423fd0c" parent="aspace_4c72eb21328f58ed77c868dc12f8af7f" type="Volume">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-67">
+      <c01 id="aspace_474c9f643c5778cffd31864250d41da3" level="otherlevel">
         <did>
-          <container type="Box">4</container>
-          <container type="Volume">1</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1990">1990</unitdate>
+          <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+          <container id="aspace_20fbc26e3af304a69f86622a1cfe66b8" label="Mixed Materials" type="Box">4 (Campus Directories Collection)</container>
+          <container id="aspace_428d2e4a405547c75fc51aad6603a65b" parent="aspace_20fbc26e3af304a69f86622a1cfe66b8" type="Volume">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-68">
+      <c01 id="aspace_4c20580f6842176f2d36314fbb85d8e6" level="otherlevel">
         <did>
-          <container type="Box">4</container>
-          <container type="Volume">2</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1991">1991</unitdate>
+          <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+          <container id="aspace_ec8b931da284e7e21be489c8e6d8aaef" label="Mixed Materials" type="Box">4 (Campus Directories Collection)</container>
+          <container id="aspace_74d1a0e1b7ae41b68f8e8cd7390b0b28" parent="aspace_ec8b931da284e7e21be489c8e6d8aaef" type="Volume">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-69">
+      <c01 id="aspace_40499b26eb9dd36adaba66c6c15537f4" level="otherlevel">
         <did>
-          <container type="Box">4</container>
-          <container type="Volume">3</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1992">1992</unitdate>
+          <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+          <container id="aspace_60f45f9af4fd1eaceafd39385cc16126" label="Mixed Materials" type="Box">4 (Campus Directories Collection)</container>
+          <container id="aspace_32aa11c82ee3fba055f0a9f636298229" parent="aspace_60f45f9af4fd1eaceafd39385cc16126" type="Volume">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-70">
+      <c01 id="aspace_488b8e05f75dc86e4bfd31b36678c70e" level="otherlevel">
         <did>
-          <container type="Box">4</container>
-          <container type="Volume">4</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1993">1993</unitdate>
+          <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+          <container id="aspace_46b4cfc4dc2d1b88861eee5ef7b6dc32" label="Mixed Materials" type="Box">4 (Campus Directories Collection)</container>
+          <container id="aspace_54d9d97de8a16d5b3696ab2a421aefbb" parent="aspace_46b4cfc4dc2d1b88861eee5ef7b6dc32" type="Volume">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-71">
+      <c01 id="aspace_654d8894133fe9003ebf183f4a5b4270" level="otherlevel">
         <did>
-          <container type="Box">4</container>
-          <container type="Volume">5</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1994">1994</unitdate>
+          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+          <container id="aspace_7215dfc39f8228549ce1bd519da9c11e" label="Mixed Materials" type="Box">4 (Campus Directories Collection)</container>
+          <container id="aspace_f2aa951cc6e95d6aeb116d98e1a68b51" parent="aspace_7215dfc39f8228549ce1bd519da9c11e" type="Volume">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-72">
+      <c01 id="aspace_dc9a87d26b7368ac4f63c918890355d4" level="otherlevel">
         <did>
-          <container type="Box">4</container>
-          <container type="Volume">6</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1995">1995</unitdate>
+          <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+          <container id="aspace_d1c386bd1bd9fc5fdeb6b4dbe568f9a2" label="Mixed Materials" type="Box">4 (Campus Directories Collection)</container>
+          <container id="aspace_1edb862c545e405f014f7dffac29912d" parent="aspace_d1c386bd1bd9fc5fdeb6b4dbe568f9a2" type="Volume">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-73">
+      <c01 id="aspace_f81d1310ac1249b3a9f1d056f0dc9128" level="otherlevel">
         <did>
-          <container type="Box">4</container>
-          <container type="Volume">7</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1996">1996</unitdate>
+          <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+          <container id="aspace_ca919caade17ae5c55706c324d78434c" label="Mixed Materials" type="Box">4 (Campus Directories Collection)</container>
+          <container id="aspace_12cc43f3a70ef09f18a266be4a2a2eee" parent="aspace_ca919caade17ae5c55706c324d78434c" type="Volume">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-74">
+      <c01 id="aspace_4cb66a0dce8e2d922f4450e37c998aac" level="otherlevel">
         <did>
-          <container type="Box">4</container>
-          <container type="Volume">8</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1997">1997</unitdate>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <container id="aspace_ab2aa6ad757d0b9e809e9930e34e89b5" label="Mixed Materials" type="Box">4 (Campus Directories Collection)</container>
+          <container id="aspace_c84197216baeab46ba0982a73fc5bc44" parent="aspace_ab2aa6ad757d0b9e809e9930e34e89b5" type="Volume">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-75">
+      <c01 id="aspace_37412642919f00b57896d95e44922277" level="otherlevel">
         <did>
-          <container type="Box">4</container>
-          <container type="Volume">9</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1998">1998</unitdate>
+          <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+          <container id="aspace_4b374122c48fb8f9e11d6977c09c18b8" label="Mixed Materials" type="Box">4 (Campus Directories Collection)</container>
+          <container id="aspace_a25e899c769f2d4935fa20dd15f1c533" parent="aspace_4b374122c48fb8f9e11d6977c09c18b8" type="Volume">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-76">
+      <c01 id="aspace_42b9f330653fcab554c038df9e74ab8c" level="otherlevel">
         <did>
-          <container type="Box">4</container>
-          <container type="Volume">10</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1999">1999</unitdate>
+          <unitdate normal="1999/1999" type="inclusive">1999</unitdate>
+          <container id="aspace_1d6d91d3480fc6db646331b9fd8a41d0" label="Mixed Materials" type="Box">4 (Campus Directories Collection)</container>
+          <container id="aspace_b91f9006c291489614d56b5dfcc6d48f" parent="aspace_1d6d91d3480fc6db646331b9fd8a41d0" type="Volume">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-77">
+      <c01 id="aspace_a30ebb05f0d4c3683db3c4d2146ff73f" level="otherlevel">
         <did>
-          <container type="Box">4</container>
-          <container type="Volume">11</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2000">2000</unitdate>
+          <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+          <container id="aspace_bd75b48420ce1af1850416c09ec29f18" label="Mixed Materials" type="Box">4 (Campus Directories Collection)</container>
+          <container id="aspace_0333d97b4ddb0ab307ff7a9e37675466" parent="aspace_bd75b48420ce1af1850416c09ec29f18" type="Volume">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-78">
+      <c01 id="aspace_c799c1ebe03aca5d181f23c300b35250" level="otherlevel">
         <did>
-          <container type="Box">5</container>
-          <container type="Volume">1</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2001">2001</unitdate>
+          <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_741944f02b3e8b3e7cb3c2ecf3ae88d3" label="Mixed Materials" type="Box">5 (Campus Directories Collection)</container>
+          <container id="aspace_a484af106b1a399346fe1eb35533ef09" parent="aspace_741944f02b3e8b3e7cb3c2ecf3ae88d3" type="Volume">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-79">
+      <c01 id="aspace_6358d4a243cdd3104e51b8de60baa22a" level="otherlevel">
         <did>
-          <container type="Box">5</container>
-          <container type="Volume">2</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2002">2002</unitdate>
+          <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_524e428a4378feaf8447f5546496d3f8" label="Mixed Materials" type="Box">5 (Campus Directories Collection)</container>
+          <container id="aspace_a68080871ad64e725b92b913a6c78f9c" parent="aspace_524e428a4378feaf8447f5546496d3f8" type="Volume">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-80">
+      <c01 id="aspace_a962327bcfbf3ab2910bf0638afa83d9" level="otherlevel">
         <did>
-          <container type="Box">5</container>
-          <container type="Volume">3</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2003">2003</unitdate>
+          <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
+          <container id="aspace_5e688fc9d35b8a323a6e5c7b9d113120" label="Mixed Materials" type="Box">5 (Campus Directories Collection)</container>
+          <container id="aspace_6cceb1cd558247bf2be9d995295ef8e5" parent="aspace_5e688fc9d35b8a323a6e5c7b9d113120" type="Volume">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-81">
+      <c01 id="aspace_e730a82c27e21e2e23784ef64b245906" level="otherlevel">
         <did>
-          <container type="Box">5</container>
-          <container type="Volume">4</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2004">2004</unitdate>
+          <unitdate normal="2004/2004" type="inclusive">2004</unitdate>
+          <container id="aspace_0de14fa96a3d464690adbc7753056668" label="Mixed Materials" type="Box">5 (Campus Directories Collection)</container>
+          <container id="aspace_82b5bdfc3603b20016296a227463c5bc" parent="aspace_0de14fa96a3d464690adbc7753056668" type="Volume">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-82">
+      <c01 id="aspace_ae158202a68417e55d88cfe8e3c47c01" level="otherlevel">
         <did>
-          <container type="Box">5</container>
-          <container type="Volume">5</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2005">2005</unitdate>
+          <unitdate normal="2005/2005" type="inclusive">2005</unitdate>
+          <container id="aspace_7f35b46ea617236a51ed7d41d23a3aa7" label="Mixed Materials" type="Box">5 (Campus Directories Collection)</container>
+          <container id="aspace_dd5d53854052dfc5f41996f6385eea46" parent="aspace_7f35b46ea617236a51ed7d41d23a3aa7" type="Volume">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-83">
+      <c01 id="aspace_4255213ed371b1313b4464b59bc83d44" level="otherlevel">
         <did>
-          <container type="Box">5</container>
-          <container type="Volume">6</container>
           <unittitle>University at Albany Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2006">2006</unitdate>
+          <unitdate normal="2006/2006" type="inclusive">2006</unitdate>
+          <container id="aspace_925a1bbc329bc26e5466020bd3946367" label="Mixed Materials" type="Box">5 (Campus Directories Collection)</container>
+          <container id="aspace_28b87fa74869c47454b7cd87648c38e8" parent="aspace_925a1bbc329bc26e5466020bd3946367" type="Volume">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-84">
+      <c01 id="aspace_9eeae869aa2b64fe36e4719cc78966c0" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">1</container>
           <unittitle>Faculty Telephone Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1933">1933</unitdate>
+          <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
+          <container id="aspace_dbc9300adb18ce5a874d5870c686f596" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_0f3d15be8a40dadd021ed56dc8e7ff2a" parent="aspace_dbc9300adb18ce5a874d5870c686f596" type="Volume">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-85">
+      <c01 id="aspace_b0bc80867152e0681fb70c41bab443ac" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">2</container>
           <unittitle>Faculty Telephone Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1948">1948</unitdate>
+          <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+          <container id="aspace_ac4ae2560961c18a3ebec80cc9cdec61" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_134b805c9fcc387c7ddc8507994ce629" parent="aspace_ac4ae2560961c18a3ebec80cc9cdec61" type="Volume">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-86">
+      <c01 id="aspace_3c10a2a9737bb0d9ff19eb895bb334c1" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">3</container>
           <unittitle>Faculty Telephone Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1951">1951</unitdate>
+          <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+          <container id="aspace_74f649e28c6938a875b216f4c54f13f3" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_dd73cadcf910789a366308ec2df5e3fd" parent="aspace_74f649e28c6938a875b216f4c54f13f3" type="Volume">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-87">
+      <c01 id="aspace_3b46fb301e4cf8d605eb63ece74b9858" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">4</container>
           <unittitle>Faculty Telephone Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1952">1952</unitdate>
+          <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+          <container id="aspace_4337e71def7ecfd093e4af93a62de12f" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_4c589fa16bc8f4c848f16d0e50eeac67" parent="aspace_4337e71def7ecfd093e4af93a62de12f" type="Volume">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-88">
+      <c01 id="aspace_e902b257b7e51c7123b5fbd955ce49f7" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">5</container>
           <unittitle>Faculty Telephone Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1957">1957</unitdate>
+          <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
+          <container id="aspace_e0f4f5986b432e9239f6aa49e4a78bff" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_0720da877a5419a0ab4eace031da7abc" parent="aspace_e0f4f5986b432e9239f6aa49e4a78bff" type="Volume">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-89">
+      <c01 id="aspace_c0db81c4bd40224592152c548b1b5b6a" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">6</container>
           <unittitle>Faculty Telephone Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1959">1959</unitdate>
+          <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+          <container id="aspace_1efdb7b989f60709e83e5965514fea62" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_122a6ee7b884b61b9242cb79abd8b6ba" parent="aspace_1efdb7b989f60709e83e5965514fea62" type="Volume">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-90">
+      <c01 id="aspace_ebe3f236bfd52109718fc59ae77e5a83" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">7</container>
           <unittitle>Faculty Telephone Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1961">1961</unitdate>
+          <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+          <container id="aspace_e60765bd6d46b68f8d0649d659718732" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_9aa17a3f4ad7250c670a94347f15de92" parent="aspace_e60765bd6d46b68f8d0649d659718732" type="Volume">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-91">
+      <c01 id="aspace_7b4044d8d58c0b2ef82b33aec742ec46" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">8</container>
           <unittitle>Faculty Telephone Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1961">1961</unitdate>
+          <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+          <container id="aspace_9c1ce9f4b213e3caff3117e3ae42eddc" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_95915778fb1605c4e0e0e7f160027e7f" parent="aspace_9c1ce9f4b213e3caff3117e3ae42eddc" type="Volume">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-92">
+      <c01 id="aspace_799369e9c9a245b1bd2bd45acb499156" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">9</container>
           <unittitle>Faculty Telephone Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1962">1962</unitdate>
+          <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+          <container id="aspace_5eae6a621aef9f6c67ef45159c303e97" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_9e0d7ed29ad41e4c25fcb90c0651018a" parent="aspace_5eae6a621aef9f6c67ef45159c303e97" type="Volume">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-93">
+      <c01 id="aspace_1b870b034910a4e2e3ffd9c2aa879998" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">10</container>
           <unittitle>Faculty Telephone Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1962">1962</unitdate>
+          <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+          <container id="aspace_143fb0b963382935c59ae5979a8b33f1" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_09c6f1e0ee6919e854edfa11608a4406" parent="aspace_143fb0b963382935c59ae5979a8b33f1" type="Volume">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-94">
+      <c01 id="aspace_5bdf0829400dbebb6b431cd787f6df76" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">11</container>
           <unittitle>Faculty Telephone Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1963">1963</unitdate>
+          <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+          <container id="aspace_f2d00098881be543d6895eca8ad5a078" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_48d6d840c9b2a1adeb5ca6188289f834" parent="aspace_f2d00098881be543d6895eca8ad5a078" type="Volume">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-95">
+      <c01 id="aspace_be7bcfc58e6842d5d0fc4fb4aa1ba838" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">12</container>
           <unittitle>Faculty Telephone Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1963">1963</unitdate>
+          <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+          <container id="aspace_656d224d4b38983e8a9fc3d1920968ee" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_d5dbdc7983bbc378b1f03afbdd7e0993" parent="aspace_656d224d4b38983e8a9fc3d1920968ee" type="Volume">12</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-96">
+      <c01 id="aspace_e23c6ec4975f6b88756ee6b21702a67d" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">13</container>
           <unittitle>Faculty Telephone Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1964">1964</unitdate>
+          <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+          <container id="aspace_a3962720046d1a5b2e2eef6efabc92be" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_819fd8732b69c7742d5895fdf15a0079" parent="aspace_a3962720046d1a5b2e2eef6efabc92be" type="Volume">13</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-97">
+      <c01 id="aspace_9506bae6e94a8f1b3ab3d6e558ae0714" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">14</container>
           <unittitle>Directory Changes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1964">1964</unitdate>
+          <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+          <container id="aspace_569841f0ca1770d8ec5eb6ba2a734e18" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_87d6fe3cf7dd895b7915ac3839d5a8bc" parent="aspace_569841f0ca1770d8ec5eb6ba2a734e18" type="Volume">14</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-98">
+      <c01 id="aspace_ac2fb4343e20d4843790658b8b51f5da" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">15</container>
           <unittitle>Department of Germanic and Slavic Languages and Literature Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1964">1964</unitdate>
+          <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+          <container id="aspace_11757c94e40b9388848fff2326f12f90" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_5970b6d6927ae4ffff9a540bcbb6ea8e" parent="aspace_11757c94e40b9388848fff2326f12f90" type="Volume">15</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-99">
+      <c01 id="aspace_b3205a0051cbf6f8820af0285e4f010a" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">16</container>
           <unittitle>Summer Faculty Telephone Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1964">1964</unitdate>
+          <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+          <container id="aspace_cce5a1ec32dcb2bd8cef4733cff9f500" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_c5c7d2ee50aab186d3ea188aac659ad7" parent="aspace_cce5a1ec32dcb2bd8cef4733cff9f500" type="Volume">16</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-100">
+      <c01 id="aspace_69dd252ed42557d818f75cad55531a58" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">17</container>
           <unittitle>Faculty Telephone Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1965">1965</unitdate>
+          <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+          <container id="aspace_d2f527b39f45f99b2dc6ee2796d8f180" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_a89a840cd20bf5755551fb60e661c131" parent="aspace_d2f527b39f45f99b2dc6ee2796d8f180" type="Volume">17</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-101">
+      <c01 id="aspace_6a0825a0a87795f37f0f87a3c0bc9c1c" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">18</container>
           <unittitle>Faculty Telephone Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1966">1966</unitdate>
+          <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+          <container id="aspace_8bfc54a655b1295f2560c6109f4a2e65" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_870fea7551830b03b6b60ce775c35ab4" parent="aspace_8bfc54a655b1295f2560c6109f4a2e65" type="Volume">18</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-102">
+      <c01 id="aspace_95bdc171336e2e32fd99562cb6eabe98" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">19</container>
           <unittitle>Temporary Telephone Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1966">1966</unitdate>
+          <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+          <container id="aspace_dc4357241e4cddd10c05ea3d45702e4c" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_a12f6b24cdecbc147721d05e7ddf2d4a" parent="aspace_dc4357241e4cddd10c05ea3d45702e4c" type="Volume">19</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-103">
+      <c01 id="aspace_4da1761648ebc9a87df288feeda62784" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">20</container>
           <unittitle>Faculty Telephone Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1967">1967</unitdate>
+          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+          <container id="aspace_61a974171d21b2a753343c5223646187" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_50466d6dbad331a33ae1de50cd6dbc8d" parent="aspace_61a974171d21b2a753343c5223646187" type="Volume">20</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-104">
+      <c01 id="aspace_8a76be5bda8aa848900b6c4978c07cd9" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">21</container>
           <unittitle>Faculty Telephone Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1972">1972</unitdate>
+          <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+          <container id="aspace_29c450fbeac07bcf3267843fc30c93ba" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_046425ae8fc4f02677193abeb8ca6a07" parent="aspace_29c450fbeac07bcf3267843fc30c93ba" type="Volume">21</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-105">
+      <c01 id="aspace_cdf106b8e9e0200f17cd595b62a68631" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">22</container>
           <unittitle>Summer Session Telephone Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1973">1973</unitdate>
+          <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+          <container id="aspace_8b824f63299023b141913c599247843e" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_ce639a771a79d6e496888cebcaeac572" parent="aspace_8b824f63299023b141913c599247843e" type="Volume">22</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-106">
+      <c01 id="aspace_b6e58ffab0f01217339027b27adbe82c" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">23</container>
           <unittitle>Summer Session Telephone Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1974">1974</unitdate>
+          <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+          <container id="aspace_b327158a17111ac8b2aa5e7121cbb75a" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_12fe737769d134e7d22df96820f0f3bc" parent="aspace_b327158a17111ac8b2aa5e7121cbb75a" type="Volume">23</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-107">
+      <c01 id="aspace_0bb9284ade6d5a0ecbf338e0a338fc5c" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">24</container>
           <unittitle>Office Telephone Directories</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1965">1965</unitdate>
+          <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+          <container id="aspace_9dde87883f17ea168d7e94162e3ec467" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_0a62fa06f4ae27d5ad5b7e66f1ef767f" parent="aspace_9dde87883f17ea168d7e94162e3ec467" type="Volume">24</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-108">
+      <c01 id="aspace_60fa805d2ef86e2e7749be66310dafd2" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">25</container>
           <unittitle>Summer Telephone Directories</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1967">1967</unitdate>
+          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+          <container id="aspace_bdd2b9ae5b669587a9898d0a820f329b" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_fc90eb03df333753e0d9e635ce3389db" parent="aspace_bdd2b9ae5b669587a9898d0a820f329b" type="Volume">25</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-109">
+      <c01 id="aspace_259185fe7909a41e6d467f8b7fb46bc1" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">26</container>
           <unittitle>Office Telephone Directories</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1967">1967</unitdate>
+          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+          <container id="aspace_eb603a81083f295db91b276e2f883743" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_e36c321d1713075e76ce4c71e49aff0c" parent="aspace_eb603a81083f295db91b276e2f883743" type="Volume">26</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-110">
+      <c01 id="aspace_d8c623ab7d8a85137363f4f0cd6f4d56" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">27</container>
           <unittitle>Summer Telephone Directories</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1968">1968</unitdate>
+          <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+          <container id="aspace_b79d94f909eb6a19e8167fbad4b96cf3" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_93ce8171d11976e8f7f99b84f11c3304" parent="aspace_b79d94f909eb6a19e8167fbad4b96cf3" type="Volume">27</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-111">
+      <c01 id="aspace_1fba84c6e31f150624c80c350db91e0c" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">28</container>
           <unittitle>Office Telephone Directories</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1968">1968</unitdate>
+          <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+          <container id="aspace_221d24ee05ff95be66f3187eeb9b3601" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_8754374094b99e63bb8b2c927e5d8a6e" parent="aspace_221d24ee05ff95be66f3187eeb9b3601" type="Volume">28</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-112">
+      <c01 id="aspace_188c2cd08d7551576c037f105d2c27da" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">29</container>
           <unittitle>Summer Telephone Directories</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1969">1969</unitdate>
+          <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+          <container id="aspace_3c7f2a1eb6c95763192fb91d4ba54a85" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_1144cfa97152f0e42e6252330cdeca01" parent="aspace_3c7f2a1eb6c95763192fb91d4ba54a85" type="Volume">29</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-113">
+      <c01 id="aspace_a975214af17b3b3bc253d3e0f9cec03d" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">30</container>
           <unittitle>Office Telephone Directories</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1969">1969</unitdate>
+          <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+          <container id="aspace_03a3efa5e91a006ca61f7c1c76ef4310" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_caeb44e54cc56c904f66f676213d2a71" parent="aspace_03a3efa5e91a006ca61f7c1c76ef4310" type="Volume">30</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-114">
+      <c01 id="aspace_3b76febdeb6ca65cdf396b38e54f9acb" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">31</container>
           <unittitle>Office Telephone Directories</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
+          <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+          <container id="aspace_8b932c374e8a546ba084189ac6b290ca" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_3764b03dde33aa02b970d3d2484a0482" parent="aspace_8b932c374e8a546ba084189ac6b290ca" type="Volume">31</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-115">
+      <c01 id="aspace_cc546c46087887cf243340571ffab43f" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">32</container>
           <unittitle>Summer Telephone Directories</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1971">1971</unitdate>
+          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+          <container id="aspace_599c7a64ff5d98026a5be1ba716e518c" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_dc30ed1992e44f61f062e906ad564ef4" parent="aspace_599c7a64ff5d98026a5be1ba716e518c" type="Volume">32</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-116">
+      <c01 id="aspace_7a5bb12d1782614611cd5549b7baf0b7" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">33</container>
           <unittitle>Office Telephone Directories</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1971">1971</unitdate>
+          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+          <container id="aspace_2c82de67a8ef28dc491c8b90fae562f5" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_dcc388c33bcab399a8ee4ed5268d68ac" parent="aspace_2c82de67a8ef28dc491c8b90fae562f5" type="Volume">33</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-117">
+      <c01 id="aspace_a9150aabfe1ab6baecc610fc2b82577e" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">34</container>
           <unittitle>State University of New York at Albany Directory Volume 1</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1985">1985</unitdate>
+          <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+          <container id="aspace_3804b1f33bc22508239ef1358d5b93fc" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_1098592d69560b8ef83f801a7367f80d" parent="aspace_3804b1f33bc22508239ef1358d5b93fc" type="Volume">34</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-118">
+      <c01 id="aspace_2c4e4ddde525a3d3c279c7f148281be5" level="otherlevel">
         <did>
-          <container type="Box">6</container>
-          <container type="Volume">35</container>
           <unittitle>State University of New York at Albany Directory Volume 2</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1985">1985</unitdate>
+          <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+          <container id="aspace_3345ecc9d0710eb82a946854c8fbd252" label="Mixed Materials" type="Box">6 (Campus Directories Collection)</container>
+          <container id="aspace_afdfd9886d04a43317cdcb4e4a196bde" parent="aspace_3345ecc9d0710eb82a946854c8fbd252" type="Volume">35</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-119">
+      <c01 id="aspace_c9cf088c3dfee3e262b60c2bef5463f7" level="otherlevel">
         <did>
-          <container type="Box">7</container>
-          <container type="Volume">1</container>
           <unittitle>A Great Place to Be</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1976">1976</unitdate>
-          <note>
-            <p>Two duplicate copies in this box.</p>
-          </note>
+          <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+          <container id="aspace_002933b2be2ae5f7a50863257b0f3da1" label="Mixed Materials" type="Box">7 (Campus Directories Collection)</container>
+          <container id="aspace_fba5376fb072a14f36b032da87bee8be" parent="aspace_002933b2be2ae5f7a50863257b0f3da1" type="Volume">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-120">
+      <c01 id="aspace_f7b4ab8f15cd4bfeec0c39aadbfde1b6" level="otherlevel">
         <did>
-          <container type="Box">7</container>
-          <container type="Volume">2</container>
           <unittitle>Resource Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1991">1991</unitdate>
+          <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+          <container id="aspace_978aef430c15f658a6be426e0c63b664" label="Mixed Materials" type="Box">7 (Campus Directories Collection)</container>
+          <container id="aspace_17882e78da0b6ad28e735351b1b3dd4a" parent="aspace_978aef430c15f658a6be426e0c63b664" type="Volume">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-121">
+      <c01 id="aspace_8b3a7e533c73e9b24657a4efa98a5397" level="otherlevel">
         <did>
-          <container type="Box">7</container>
-          <container type="Volume">3</container>
           <unittitle>Resource Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1993">1993</unitdate>
+          <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+          <container id="aspace_e83abcab13631b1b3a3d6260680c192a" label="Mixed Materials" type="Box">7 (Campus Directories Collection)</container>
+          <container id="aspace_2ddcc927b323d0af0a6ec6c9a801690a" parent="aspace_e83abcab13631b1b3a3d6260680c192a" type="Volume">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-122">
+      <c01 id="aspace_06924570e6432f1057c8263b1d0e99ee" level="otherlevel">
         <did>
-          <container type="Box">7</container>
-          <container type="Volume">4</container>
           <unittitle>Resource Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1994">1994</unitdate>
+          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+          <container id="aspace_07bfcbbf2ed881c7d6bb4193f222a213" label="Mixed Materials" type="Box">7 (Campus Directories Collection)</container>
+          <container id="aspace_1a5d246775469e834da10a59f672c74e" parent="aspace_07bfcbbf2ed881c7d6bb4193f222a213" type="Volume">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-123">
+      <c01 id="aspace_3801c1d9da7b220b99300b40bc643285" level="otherlevel">
         <did>
-          <container type="Box">7</container>
-          <container type="Volume">5</container>
           <unittitle>Resource Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1995">1995</unitdate>
+          <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+          <container id="aspace_d91402c9e7b5f37f6de4c04f6efff2fa" label="Mixed Materials" type="Box">7 (Campus Directories Collection)</container>
+          <container id="aspace_9c2b3c9502bec62ca7fb8eb40ae5c000" parent="aspace_d91402c9e7b5f37f6de4c04f6efff2fa" type="Volume">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-124">
+      <c01 id="aspace_8d82ba2083375c2a0c17559207805b84" level="otherlevel">
         <did>
-          <container type="Box">7</container>
-          <container type="Volume">6</container>
           <unittitle>Resource Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1996">1996</unitdate>
+          <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+          <container id="aspace_5e71cec4e477cd3d28e2166ffd6e67ca" label="Mixed Materials" type="Box">7 (Campus Directories Collection)</container>
+          <container id="aspace_05016608aed48df809667613335b9370" parent="aspace_5e71cec4e477cd3d28e2166ffd6e67ca" type="Volume">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua934-125">
+      <c01 id="aspace_4746fea257155c07a124849d1b81d56a" level="otherlevel">
         <did>
-          <container type="Box">7</container>
-          <container type="Volume">7</container>
           <unittitle>Resource Directory</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1998">1998</unitdate>
+          <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+          <container id="aspace_0d20419173ac1d4fc9210bd2bc5cced9" label="Mixed Materials" type="Box">7 (Campus Directories Collection)</container>
+          <container id="aspace_0e44c02477902f295a3c9714d3b7c892" parent="aspace_0d20419173ac1d4fc9210bd2bc5cced9" type="Volume">7</container>
         </did>
       </c01>
     </dsc>

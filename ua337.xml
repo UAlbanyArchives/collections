@@ -1,99 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<?xml-stylesheet type='text/xsl' href='collection-level.xsl'?> 
-<!DOCTYPE ead SYSTEM 'ead.dtd'>
-<ead id="nam_ua337">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua337.html">nam_ua337</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua337">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua337.xml">ua337</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>OFFICE OF HUMAN RESOURCES MANAGEMENT RECORDS (UA337)<date normal="1947/2017" type="inclusive">1947-2017</date></titleproper>
+        <titleproper>Human Resources Management, Office of; Records <num>ua337</num></titleproper>
         <author>unprocessed</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2017" type="publication">Copyright 2017 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2017</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Benjamin Covell<date normal="2017-02-02">2017 February 2</date></creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:46:29 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2017 February 2</date>
+        <item>Encoded in EAD by Benjamin Covell</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>Office of Human Resources Management Records<date normal="1947/2017" type="inclusive">1947-2017</date></titleproper>
-      <publisher/>
-      <date type="publication">Copyright 2017 By the University at Albany, SUNY. All rights reserved.</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua337</unitid>
-      <unittitle>Office of Human Resources Management Records<unitdate label="Date:" normal="1947/2017" type="inclusive">1947-2017</unitdate></unittitle>
-      <abstract label="Abstract:">This collection contains the inactive records of the Office of Human Resources Management and its predecessor bodies.  It consists of salary schedules and rosters, personnel policy and procedure documentation, and other records pertaining to the functions of human resources and personnel management.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="local">State University of New York at Albany. Office of Human Resources Management</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">4</extent>
-      </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Office of Human Resources Management Records<unitdate normal="1947/2017" type="inclusive">1947-2017</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">State University of New York at Albany. Office of Human Resources Management</corpname>
+      </origination>
+      <unitid>ua337</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_905fa3aa072c070722cc778c2cd3444e">This collection contains the inactive records of the Office of Human Resources Management and its predecessor bodies. It consists of salary schedules and rosters, personnel policy and procedure documentation, and other records pertaining to the functions of human resources and personnel management.</abstract>
+      <langmaterial id="aspace_791fbefaaf0ddbbf494cba3ebb327429">English</langmaterial>
+      <physloc id="aspace_f85fd1cc093f5249837f53e1e703d07b">The materials are located onsite in the department.</physloc>
+      <container id="aspace_74ab56c4f9719aaa4a711f437a76d1c8" label="Mixed Materials" type="Collection">X</container>
     </did>
-    <accessrestrict><head>Access</head><p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. Please contact an archivist for more information.</p></accessrestrict>
-    <userestrict><head>Copyright</head><p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p><p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p><p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p><p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p></userestrict>
-    <acqinfo>
+    <processinfo id="aspace_483ad86b2a51f3ab22198534d85caee9">
+      <head>Processing Information</head>
+      <p>Processed in 2017 by unprocessed.</p>
+    </processinfo>
+    <accessrestrict id="aspace_255ae4dfb81e41c5f2220194fac0ac8f">
+      <head>Access</head>
+      <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. Please contact an archivist for more information.</p>
+    </accessrestrict>
+    <userestrict id="aspace_4924948d6a629771f60372948a796a73">
+      <head>Copyright</head>
+      <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p> The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+    </userestrict>
+    <acqinfo id="aspace_26b545d2e3e6bfc3df8365cba4cd98a1">
       <head>Acquisition Information</head>
       <p>All items in this collection were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_95be5d97060bf032e69524dcdddef80e">
       <head>Historical Note</head>
-      <p>The Office of Human Resources Management, formerly called the Office of Personnel Administration, is a department within the Division of Finance and Administration.  It is responsible for overseeing hiring and recruitment activities, employee payroll and benefits, and other human resources activities.</p>
+      <p>The Office of Human Resources Management, formerly called the Office of Personnel Administration, is a department within the Division of Finance and Administration. It is responsible for overseeing hiring and recruitment activities, employee payroll and benefits, and other human resources activities.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>This collection contains administrative correspondence and memoranda, policy manuals, planning documentation, salary schedules and rosters (1948-1969), budget files, employee benefits documentation, and other records related to personnel and human resources.  Most of the paper records in the collection were created by the Office of Personnel Administration, although there are also relevant subject files that were moved to this collection from the collections of other offices at an unknown point in time.</p>
+    <scopecontent id="aspace_16bee2d0d66ee85b29f0f241bd92c916">
+      <head>Scope and Contents</head>
+      <p>This collection contains administrative correspondence and memoranda, policy manuals, planning documentation, salary schedules and rosters (1948-1969), budget files, employee benefits documentation, and other records related to personnel and human resources. Most of the paper records in the collection were created by the Office of Personnel Administration, although there are also relevant subject files that were moved to this collection from the collections of other offices at an unknown point in time.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_dd5e059ca4a208c7062a9553808741e0">
       <head>Arrangement of the Collection</head>
       <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <prefercite>
+    <prefercite id="aspace_cfe0ba34f35765d8d06c94646d614642">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Office of Human Resources Management Records, 1947-2017. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Office of Human Resources Management Records).</p>
+      <p> Identification of specific item, series, box, folder, Office of Human Resources Management Records, 1947-2017. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Office of Human Resources Management Records).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <corpname source="lcsh" encodinganalog="610">State University of New York at Albany</corpname>
-      <subject source="lcsh" encodinganalog="650">Education, Higher--Administration</subject>
-      <subject source="lcsh" encodinganalog="650">College personnel management</subject>
-      <subject source="lcsh" encodinganalog="650">Personnel management</subject>
-      <subject source="lcsh" encodinganalog="650">Personnel departments</subject>
-      <genreform source="local" encodinganalog="655">Web Archives</genreform>
-      <genreform source="aat" encodinganalog="655">administrative records</genreform>
-      <genreform source="aat" encodinganalog="655">rosters</genreform>
-      <genreform source="aat" encodinganalog="655">budgets</genreform>
+      <subject source="lcsh">Education, Higher--Administration</subject>
+      <subject source="lcsh">College personnel management</subject>
+      <subject source="lcsh">Personnel management</subject>
+      <subject source="lcsh">Personnel departments</subject>
+      <genreform source="local">Web Archives</genreform>
+      <genreform source="aat">Administrative records</genreform>
+      <genreform source="aat">rosters</genreform>
+      <genreform source="aat">Budgets</genreform>
+      <corpname source="lcsh">State University of New York at Albany</corpname>
     </controlaccess>
     <dsc>
-      <head>Container List</head>
-      <c01 level="series" id="nam_ua337-1">
+      <c01 id="aspace_f0da6fe5d97607a4a85c5aba48d7581a" level="series">
         <did>
+          <unittitle>Website of the Office of Human Resources Management</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Website of the Office of Human Resources Management</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2017">2017</unitdate>
+          <unitdate normal="2017/2017" type="inclusive">2017</unitdate>
         </did>
       </c01>
     </dsc>

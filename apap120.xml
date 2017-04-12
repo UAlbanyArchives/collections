@@ -1,1726 +1,1692 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap120">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap120.xml" identifier="##">nam_apap120</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap120">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap120.xml">apap120</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>EMPLOYEE OWNERSHIP PROJECT RECORDS (APAP120)<date normal="1967/2000" type="inclusive">1967-2000</date></titleproper>
+        <titleproper>Employee Ownership Project; Records <num>apap120</num></titleproper>
         <author>Chris Batista, Kevin Layer, Kayla Misner</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2012">Copyright 2012 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2012</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Tony W. Seewongchai<date normal="2012">2013</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 14:26:08 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2012</date>
+        <item>Encoded in EAD by Tony W. Seewongchai</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>EMPLOYEE OWNERSHIP PROJECT RECORDS (APAP120)<date normal="1967/2000" type="inclusive">1967-2000</date></titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2012</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap120</unitid>
-      <unittitle>Employee Ownership Project Records<unitdate type="inclusive" normal="1967/2000" label="Date:"> 1967-2000</unitdate></unittitle>
-      <origination>
-        <corpname encodinganalog="110" source="local">Employee Ownership Project</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">10.17</extent>
-      </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">Records of independent, non-profit organization which promotes the creation and growth of micro-enterprises and small business ventures to improve the lives of low and moderate income residents of the Capital Region.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Employee Ownership Project Records<unitdate normal="1967/2000" type="inclusive">1967-2000</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">Employee Ownership Project</corpname>
+      </origination>
+      <unitid>apap120</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">10.17 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_5e4843d7b384632c23838b5cb198dad0">Records of independent, non-profit organization which promotes the creation and growth of micro-enterprises and small business ventures to improve the lives of low and moderate income residents of the Capital Region.</abstract>
+      <langmaterial id="aspace_20ea616b66bdd8dce7e91dbc05475c46">English</langmaterial>
+      <physloc id="aspace_1901b7dd6cfb8aef5661626df279237c">The materials are located onsite in the department.</physloc>
     </did>
-    <acqinfo>
+    <processinfo id="aspace_e4fb1dfd5a380f2b89fa5aeaf1f5d299">
+      <head>Processing Information</head>
+      <p>Processed in 2012 by Chris Batista, Kevin Layer, Kayla Misner.</p>
+    </processinfo>
+    <acqinfo id="aspace_b064c2594a892516a93cd048b37478c8">
       <head>Acquisition Information</head>
-      <p>All items in this manuscript group were donated to the University Librares, M.E. Grenander
-		Department of Special Collections and Archives, by Richard L. Shirey in September 2001.</p>
+      <p>All items in this manuscript group were donated to the University Librares, M.E. Grenander Department of Special Collections and Archives, by Richard L. Shirey in September 2001.</p>
     </acqinfo>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_1c5fd14d3e9c3a46542b24cb6e8ffd9e">
+      <head>Scope and Contents</head>
       <p>The collection contains board meeting minutes, charter financial records, executive director subject files, and loan case files.</p>
     </scopecontent>
-    <accessrestrict>
+    <accessrestrict id="aspace_3bb95a8780e33b2efbf27c8ee2a2560e">
       <head>Access</head>
-      <p> Access to Series 6 is restricted. No client name, client business name, telephone number, 
-	  address or personal data can be made public for at least 50 years (2051 A.D.). Data may be 
-	  aggregated for research purposes. Access to all other records is unrestricted. </p>
+      <p>Access to Series 6 is restricted. No client name, client business name, telephone number, address or personal data can be made public for at least 50 years (2051 A.D.). Data may be aggregated for research purposes. Access to all other records is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_e370a045038bf3236a3b349e1054c6ca">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright. 
-	  Whenever possible, the M.E. Grenander Department of Special Collections and Archives will 
-	  provide information about copyright owners and other restrictions, but the legal determination
-	  ultimately rests with the researcher. Requests for permission to publish material from this 
-	  collection should be discussed with the Head of Special Collections and Archives.</p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <bioghist>
+    <bioghist id="aspace_f1ce672a06bd9477dea2122153d9eb6c">
       <head>Administrative History</head>
-      <p>The Employee Ownership Project (EOP) is an independent, non-profit organization formed in 1987, 
-	  whose main objective is to improve the lives of low and moderate income residents of the Capital 
-	  Region through the creation and growth of micro-enterprises and small business ventures. The EOP 
-	  supports and promotes the creation and development of enterprises which feature democratic ownership 
-	  and decision making structures. EOP has reached out to and engaged Albany’s Arbor Hill and West Hill 
-	  neighborhoods in order to establish the organization’s presence in working and low income communities. 
-	  EOP has offered a series of workshops and seminars on starting businesses and enterprises as well as 
-	  reaching out to adolescents. </p>
-      <p>The EOP has been influential in starting dozens of small businesses, which have created or 
-	  maintained over one hundred jobs for low and moderate income individuals. The EOP helped start up 
-	  businesses such as a convenience store, a sewing factory, a dry cleaning business, a contracting firm, 
-	  and an asbestos and hazardous waste removal business. The EOP serves people who might not otherwise be 
-	  considered entrepreneurs and tries to match people with complimentary skills necessary in effort to 
-	  create successful businesses.</p>
+      <p>The Employee Ownership Project (EOP) is an independent, non-profit organization formed in 1987, whose main objective is to improve the lives of low and moderate income residents of the Capital Region through the creation and growth of micro-enterprises and small business ventures. The EOP supports and promotes the creation and development of enterprises which feature democratic ownership and decision making structures. EOP has reached out to and engaged Albany’s Arbor Hill and West Hill neighborhoods in order to establish the organization’s presence in working and low income communities. EOP has offered a series of workshops and seminars on starting businesses and enterprises as well as reaching out to adolescents. </p>
+      <p> The EOP has been influential in starting dozens of small businesses, which have created or maintained over one hundred jobs for low and moderate income individuals. The EOP helped start up businesses such as a convenience store, a sewing factory, a dry cleaning business, a contracting firm, and an asbestos and hazardous waste removal business. The EOP serves people who might not otherwise be considered entrepreneurs and tries to match people with complimentary skills necessary in effort to create successful businesses.</p>
     </bioghist>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_60a94b84577f2b3a1199800975eb5067">
       <head>Arrangement of the Collection</head>
       <p>Box and Folder List:</p>
-      <list type="simple">
-        <item>Series 1 - Administration, 1987-2000, 1 cubic ft.</item>
-        <item>Series 2 - Organizational Contacts, 1987-1998, 1 cubic ft.</item>
-        <item>Series 3 - Network Strategies, 1981-1997, 1 cubic ft.</item>
-        <item>Series 4 - Community Outreach, 1970-2000, .83 cubic ft.</item>
-        <item>Series 5 - Albany County Opportunity Inc., 1967-1973, .17 cubic ft.</item>
-        <item>Series 6 - Loan Case Files, 1984-1997, undated, 6.17 cubic ft.</item>
-      </list>
     </arrangement>
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Social Activists and Public Advocates</subject>
-      <subject source="meg" encodinganalog="650">Labor</subject>
-      <subject source="meg" encodinganalog="650">Albany, New York</subject>
-      <corpname encodinganalog="610" source="local">Employee Ownership Project</corpname>
-      <subject encodinganalog="650" source="lcsh">Employee ownership--United States</subject>
-      <subject encodinganalog="650" source="lcsh">Albany Pine Bush Preserve (Albany, N.Y.)</subject>
-      <subject encodinganalog="650" source="lcsh">Albany (Or.). Planning and Zoning Commission</subject>
-      <subject encodinganalog="650" source="lcsh">Fundraising--New York (State)--Albany (N.Y.)</subject>
-      <geogname encodinganalog="651" source="lcsh">Albany (N.Y.)</geogname>
-      <genreform encodinganalog="655" source="aat">Meetings</genreform>
-      <genreform encodinganalog="655" source="aat">Fundraising</genreform>
-      <genreform encodinganalog="655" source="aat">Cooperative</genreform>
-      <genreform encodinganalog="655" source="aat">Center</genreform>
-      <genreform encodinganalog="655" source="aat">Minutes</genreform>
-      <genreform encodinganalog="655" source="aat">Neighborhoods</genreform>
-      <genreform encodinganalog="655" source="aat">ICA</genreform>
-      <genreform encodinganalog="655" source="aat">Community</genreform>
-      <genreform encodinganalog="655" source="aat">Personnel</genreform>
-    </controlaccess>
-    <prefercite>
+    <prefercite id="aspace_074546b9f88370978cd21c5bd1ce8483">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Employee Ownership Project Records,  1967-2000. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, Employee Ownership Project Records, 1967-2000. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
-    <dsc type="combined">
-      <head>Container List</head>
-      <!-- Start series 1-->
-      <c01 level="series" id="nam_apap120-1">
+    <controlaccess>
+      <subject source="meg">Social Activists and Public Advocates</subject>
+      <subject source="meg">Labor</subject>
+      <subject source="meg">Albany, New York</subject>
+      <subject source="lcsh">Employee ownership--United States</subject>
+      <subject source="lcsh">Albany Pine Bush Preserve (Albany, N.Y.)</subject>
+      <subject source="lcsh">Albany (Or.). Planning and Zoning Commission</subject>
+      <subject source="lcsh">Fundraising--New York (State)--Albany (N.Y.)</subject>
+      <geogname source="lcsh">Albany (N.Y.)</geogname>
+      <genreform source="aat">Meetings</genreform>
+      <genreform source="aat">Fundraising</genreform>
+      <genreform source="aat">Cooperative</genreform>
+      <genreform source="aat">Center</genreform>
+      <genreform source="aat">Minutes</genreform>
+      <genreform source="aat">Neighborhoods</genreform>
+      <genreform source="aat">ICA</genreform>
+      <genreform source="aat">Community</genreform>
+      <genreform source="aat">Personnel</genreform>
+      <corpname source="local">Employee Ownership Project</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_4a28a3b3ea6c419bf1b8dfff470366f7" level="series">
         <did>
+          <unittitle>Administration</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Administration</unittitle>
-          <unitdate type="inclusive" normal="1987/2000">1987-2000</unitdate>
-          <unitdate type="inclusive" normal="1967/2000">Undated</unitdate>
+          <unitdate normal="1987/2000" type="inclusive">1987-2000</unitdate>
+          <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
         </did>
-        <c02 id="nam_apap120-1_1">
+        <c02 id="aspace_7d7796694f29d0f436d37fa7ee5def88" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>About EOP</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/2000">Undated</unitdate>
+            <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
+            <container id="aspace_1558c6dea4f633bab72d9ca986ca6178" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_17b9918b17a9bf7f31e0485246699a2c" parent="aspace_1558c6dea4f633bab72d9ca986ca6178" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_2">
+        <c02 id="aspace_ccaac45fe7d9ce976b1eedaf9221ccd7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Chart of Accounts</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_fbafba6964fcf0d2a1dccc0b7bf65ba4" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_b4c6e9f6258a9faba9dba8e1d4eabfe6" parent="aspace_fbafba6964fcf0d2a1dccc0b7bf65ba4" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_3">
+        <c02 id="aspace_006afc2b7657b788fa5f84d151322f9f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Board Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1988">1987-1988</unitdate>
+            <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <container id="aspace_661e88ff98e51cc7459e5a496f352478" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_51d0b642d55c0d08943ef2545187592f" parent="aspace_661e88ff98e51cc7459e5a496f352478" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_4">
+        <c02 id="aspace_120e07b6a09e99be99cf80c6f45a8e0f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Board of Directors</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1992">1988-1992</unitdate>
+            <unitdate normal="1988/1992" type="inclusive">1988-1992</unitdate>
+            <container id="aspace_e5f6a47f2557a498567d1b9ec1f35dae" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_d2d58ae28a909ffb017c725f0c27a44a" parent="aspace_e5f6a47f2557a498567d1b9ec1f35dae" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_5">
+        <c02 id="aspace_e7f0b34570e0050223f55c810e9af177" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Board Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989">1989</unitdate>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_d5287182196e2ff38c727cfa0150861a" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_e4396482d7a8799884f8e1ef1c8470dd" parent="aspace_d5287182196e2ff38c727cfa0150861a" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_6">
+        <c02 id="aspace_112499dba962a1337e2c2ac3fad9a7a1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Board Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_ef7bcbd73616671a256b492f679e020b" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_291cbbf322a39d3e1649ef33431c546a" parent="aspace_ef7bcbd73616671a256b492f679e020b" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_7">
+        <c02 id="aspace_d0b6034ffb0a2136324f3ca87ad50802" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Board Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_654052d0aed20f4a972e173a93cdf5eb" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_cc6545bd7de134f9bf98d18f7b22ac20" parent="aspace_654052d0aed20f4a972e173a93cdf5eb" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_8">
+        <c02 id="aspace_9cfa69cd5a218235846a582c7ee23699" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Board Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992">1992</unitdate>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_f5d3116185030db5c7a76bd89cae07be" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_fd7810b7396bb886446cb0cf6d60cd35" parent="aspace_f5d3116185030db5c7a76bd89cae07be" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_9">
+        <c02 id="aspace_f5fe0f4f196238b60d923336ae5f57f4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Board Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993">1993</unitdate>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_5c712a05c8b69d2c9400df17d1fbe706" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_48d55a499a199212ac524111031ee4e8" parent="aspace_5c712a05c8b69d2c9400df17d1fbe706" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_10">
+        <c02 id="aspace_b7e42adac6b208fd43d9bb1dd50b2445" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Board Meetings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993">1993</unitdate>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_6ae17690253c43d714a9b3dd460a48d4" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_9882de9f3a5cafc2330c3207b6c009c3" parent="aspace_6ae17690253c43d714a9b3dd460a48d4" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_11">
+        <c02 id="aspace_799e9f38318e9e8ebf4e4a2ec1fc21fb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Board Meetings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994">1994</unitdate>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_cf9c0e554dc60935164b7db266319990" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_718649f10c19a3981ab192a80f417ea5" parent="aspace_cf9c0e554dc60935164b7db266319990" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_12">
+        <c02 id="aspace_336fc3669c7b7c8afec601a8e1f13887" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Board Meeting Notes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994">1994</unitdate>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_3c2bf7ebf435c78f1953cec7ee807d1f" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_a1258aec54ae0e9e22e8069ee6f55b85" parent="aspace_3c2bf7ebf435c78f1953cec7ee807d1f" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_13">
+        <c02 id="aspace_ddab79e7f697e470067e6483b828f6ef" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Board Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994">1994</unitdate>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_afd082d1cfd3e913a98168ba4025d6b3" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_c20e37d13b13b8d15d84a17ff8770c31" parent="aspace_afd082d1cfd3e913a98168ba4025d6b3" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_14">
+        <c02 id="aspace_7bdb37091e7463d7a7e8745a0b737a30" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Board Meetings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995">1995</unitdate>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_9bbe3a2fb4291477458782d934e9ef64" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_120a2b6fe79bfeba107348f75fdb694f" parent="aspace_9bbe3a2fb4291477458782d934e9ef64" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_15">
+        <c02 id="aspace_52a7eab0c13fec00c73f28eeaebde503" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Board Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995">1995</unitdate>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_3900852f36f191d915892c8bdffe0c91" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_df65134c35ad03126084bd3d7fb9c1bc" parent="aspace_3900852f36f191d915892c8bdffe0c91" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_16">
+        <c02 id="aspace_906c502479b0a78ff65c3cb88f211a87" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Board Meetings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_5117f5404b0d278634ca61356b3374c4" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_2e90e6e032471a29ee2e56e7c8441a3a" parent="aspace_5117f5404b0d278634ca61356b3374c4" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_17">
+        <c02 id="aspace_a08a7cb9343bfc464d3f9566ddc74436" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>Board Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_f73336567283945dc7a87f747dbf5404" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_c35320c1964bfbdb6fc7c818f9ad7d96" parent="aspace_f73336567283945dc7a87f747dbf5404" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_18">
+        <c02 id="aspace_f0876bd6d4c6a27531f66d119bfe05f0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>Board Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_44dcb6b1d7c89ebcddebef27232b2207" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_8c1c4ba53076856da7775eed5e85c5b0" parent="aspace_44dcb6b1d7c89ebcddebef27232b2207" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_19">
+        <c02 id="aspace_32b7825cafc2681b7654fec69549a9df" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>Board Meetings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998">1998</unitdate>
+            <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+            <container id="aspace_21aed7f5ba26c70fcc54cefb7ef6b3fd" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_6254271d23bf35e82c9a69007cb454ff" parent="aspace_21aed7f5ba26c70fcc54cefb7ef6b3fd" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_20">
+        <c02 id="aspace_77c42ce52aa790a9b5fb4a48080eb92c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>Board Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998">1998</unitdate>
+            <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+            <container id="aspace_f0e8e93a763a6cb42b60d09462103949" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_85ebe7d59d3004c188fdac74f9f2ebda" parent="aspace_f0e8e93a763a6cb42b60d09462103949" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_21">
+        <c02 id="aspace_39903a91e3dd261754bf0db4c33205e2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>Board Nominations and Job Descriptions</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996/1997">1996-1997</unitdate>
+            <unitdate normal="1996/1997" type="inclusive">1996-1997</unitdate>
+            <container id="aspace_2c5b4358b85121854753b8c510d24eaa" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_85bf8e28e05d16bc1254872486520268" parent="aspace_2c5b4358b85121854753b8c510d24eaa" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_22">
+        <c02 id="aspace_3649a72cdd0b1b68e51ba2b751b300da" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>Board Planning</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/2000">Undated</unitdate>
+            <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
+            <container id="aspace_de56e34935a04eb6cb8c2dd332778f3c" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_637d23ad5a71f766e970cd294e544c2f" parent="aspace_de56e34935a04eb6cb8c2dd332778f3c" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_23">
+        <c02 id="aspace_27ef313c8ca1e6a989d1e42794d80886" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23</container>
             <unittitle>Board Surveys</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/2000">Undated</unitdate>
+            <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
+            <container id="aspace_25e9c25121786aed1155ede6576a403a" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_bf8182e42fc774fa5b668060998343cc" parent="aspace_25e9c25121786aed1155ede6576a403a" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_24">
+        <c02 id="aspace_ae7d5985a0ce6ec2dbcb0460cf4ecff2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">24</container>
             <unittitle>By-laws and Mission</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/2000">Undated</unitdate>
+            <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
+            <container id="aspace_0154b2caa369072fc0bdf1f6122e8d30" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_6af1ff226e05d7028d06989b834db769" parent="aspace_0154b2caa369072fc0bdf1f6122e8d30" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_25">
+        <c02 id="aspace_ea9e21c3f2840063c5bf0c595855f752" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">25</container>
             <unittitle>Capitol District Community Economic Development Network</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993">1993</unitdate>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_a6eb6a051ac987ea722e64643c7cf1dd" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_b9e8f43b01606ea184d61d52d0644d80" parent="aspace_a6eb6a051ac987ea722e64643c7cf1dd" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_26">
+        <c02 id="aspace_f36375c01993bd658621cc32f60a17a5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">26</container>
             <unittitle>Catholic Charities Wire Transfers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993">1993</unitdate>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_a0922b451ddff3728f5daaec4e6f9076" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_1f874388501980d788d871f6b2f3c970" parent="aspace_a0922b451ddff3728f5daaec4e6f9076" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_27">
+        <c02 id="aspace_aeb95937ec53145585d84602c8807745" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">27</container>
             <unittitle>Certificate of Incorporation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_1e46a3a712d0ca7503ff377b277ca8c7" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_22d9030391dd3a1ade3ff1d4bdc058a4" parent="aspace_1e46a3a712d0ca7503ff377b277ca8c7" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_28">
+        <c02 id="aspace_60fe5ea450f08ba8cb7e731b1fd7a4cb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">28</container>
             <unittitle>Community Development Black Grant Proposal</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_c3a40b9dc080a25c9aaa40db1a3f26ce" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_3832473db44098f91bb5e200bae16ff8" parent="aspace_c3a40b9dc080a25c9aaa40db1a3f26ce" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_29">
+        <c02 id="aspace_731cdbfa9d3a87e917a19db923870ef2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">29</container>
             <unittitle>Community Economic Development Mondragon Model</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994">1994</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_f34e3a23e53ad7a9767561508977f27f" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_a595f6dfce4a7ed2a954783ef90fd2f1" parent="aspace_f34e3a23e53ad7a9767561508977f27f" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_30">
+        <c02 id="aspace_4cc4cf7984f7cb659d06baced3223494" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">30</container>
             <unittitle>Corporate Records Kit</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/2000">Undated</unitdate>
+            <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
+            <container id="aspace_f9a50f7558edaa3e0bf0a5b0b25e72a3" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_b781db0cdd7d7e1150139eba0e9bd569" parent="aspace_f9a50f7558edaa3e0bf0a5b0b25e72a3" type="Folder">30</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_31">
+        <c02 id="aspace_2e3221736b946935c29dbd44df297db2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">31</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989">1989</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000">2000</unitdate>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+            <container id="aspace_45318c93802ec57dc8a23b8a80070349" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_3151c4081ca81e738f2a9b1252ba3935" parent="aspace_45318c93802ec57dc8a23b8a80070349" type="Folder">31</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_32">
+        <c02 id="aspace_8fd686013a97a395724e7cebb14c1608" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">32</container>
             <unittitle>Development Committee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_c94824b4517d816664a668cda6bc478d" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_c7ba000a81fe8ebaafeabb68cfb4191e" parent="aspace_c94824b4517d816664a668cda6bc478d" type="Folder">32</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_33">
+        <c02 id="aspace_bc017a607ea64b7b8c8fdfad1c0d6858" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">33</container>
             <unittitle>Development Finance Study</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992">1992</unitdate>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_89d38ca21de432df456a086b211ee379" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_1f2533764e9ef574653b7b06e3629203" parent="aspace_89d38ca21de432df456a086b211ee379" type="Folder">33</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_34">
+        <c02 id="aspace_a4838fbfb0e03dd7ac640889e39d24de" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">34</container>
             <unittitle>Diocesan Development Project Proposal</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_d70cb21a3557d7791ec32de014f7162b" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_e219f01061124402b6b735c3a33b86e0" parent="aspace_d70cb21a3557d7791ec32de014f7162b" type="Folder">34</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_35">
+        <c02 id="aspace_a0cf585b0eff5529fc9d55a30d04d0a4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">35</container>
             <unittitle>Executive Committee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_adf5386c2303dd9b858993d3adb524c5" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_a89799da133f793e7452d2002b84a80d" parent="aspace_adf5386c2303dd9b858993d3adb524c5" type="Folder">35</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_36">
+        <c02 id="aspace_f5fb6133d1f39dd2a451a890ab470ef2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">36</container>
             <unittitle>Frederick McDonald Trust Grant Sienna College</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_4bbb230b418a6780aa85c2723a61ddb0" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_9ad2c96f5453eb520b362a15d6ba8c27" parent="aspace_4bbb230b418a6780aa85c2723a61ddb0" type="Folder">36</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_37">
+        <c02 id="aspace_bdf3ee1004cbd099d74eb9140099a841" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">37</container>
             <unittitle>Human Resources Committee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_35278918393889c2a344c1df5f602d7c" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_e18d33f19272e78968ce2e56e7a87a63" parent="aspace_35278918393889c2a344c1df5f602d7c" type="Folder">37</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_38">
+        <c02 id="aspace_1868ce5838dde65ae618196f716feb1e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">38</container>
             <unittitle>Internal Affairs Nomination Committee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/2000">Undated</unitdate>
+            <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
+            <container id="aspace_f16884ab77ff09b03116457d9761540f" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_e42751ad2d42daf50889855112b90df2" parent="aspace_f16884ab77ff09b03116457d9761540f" type="Folder">38</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_39">
+        <c02 id="aspace_ecb4d9a8a19fd0a83e7707b314ff3893" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">39</container>
             <unittitle>Long Range Planning Committee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992">1992</unitdate>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_20b6ca8263c0e1267c35f24f8221d869" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_da7332c240aa8dcd2830cf0d98cf448a" parent="aspace_20b6ca8263c0e1267c35f24f8221d869" type="Folder">39</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_40">
+        <c02 id="aspace_ddd273170a04be864f14a39003073171" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">40</container>
             <unittitle>McTAP Training</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998">1998</unitdate>
+            <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+            <container id="aspace_ff3ee489a6a4b46caa2c18a4e8122c70" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_2289e7becbaaa99eafde43899c609dab" parent="aspace_ff3ee489a6a4b46caa2c18a4e8122c70" type="Folder">40</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_41">
+        <c02 id="aspace_52ad256123ca551fd7537cbead78971b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">41</container>
             <unittitle>Mailing Lists</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993">1993</unitdate>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_d6201ed4a13188ef3690a6305489d80d" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_2d6e65552b00b14d3264efac05d7aa52" parent="aspace_d6201ed4a13188ef3690a6305489d80d" type="Folder">41</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_42">
+        <c02 id="aspace_914844435dcb1bda49b41151b203e2e6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">42</container>
             <unittitle>Personnel Directors Search Advertising</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_49efac0f32a38f2d8490d00fa17d4282" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_b26171d36c05c1e9f715d92aa0a1f9d9" parent="aspace_49efac0f32a38f2d8490d00fa17d4282" type="Folder">42</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_43">
+        <c02 id="aspace_c4314e9ae54d5fe4ca30e4833f7f6b71" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">43</container>
             <unittitle>Personnel Funding From Catholic Charities</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1992">1988-1992</unitdate>
+            <unitdate normal="1988/1992" type="inclusive">1988-1992</unitdate>
+            <container id="aspace_69ee1ee62def3334d282b02bc9fd1c72" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_a434b5a0b06c1fd94ed8cf8770d1a547" parent="aspace_69ee1ee62def3334d282b02bc9fd1c72" type="Folder">43</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_44">
+        <c02 id="aspace_0c380e14d5fea78f86d61e695d7cfb4c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">44</container>
             <unittitle>Personnel Policies</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995/1997">1995-1997</unitdate>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <unitdate normal="1995/1997" type="inclusive">1995-1997</unitdate>
+            <container id="aspace_7ac2278586383fc6c1a51d2a27a6efa1" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_764a609aafc758e1c08c1fcebcd7befa" parent="aspace_7ac2278586383fc6c1a51d2a27a6efa1" type="Folder">44</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_45">
+        <c02 id="aspace_58596473926849da7d3d8db6c0695267" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">45</container>
             <unittitle>Powers, Joseph, Obituary</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994">1994</unitdate>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_7385daa64cc54b2030aeb1b11993a305" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_e72a7b16bc72549c9047aefd57fdcc81" parent="aspace_7385daa64cc54b2030aeb1b11993a305" type="Folder">45</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_46">
+        <c02 id="aspace_283f506402f2794804223d5c3ac04be5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">46</container>
             <unittitle>Program Committee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_9a1f7c36d52c9e60e819534c3720f7e9" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_550b5865ab4346fcc5f97c793851455e" parent="aspace_9a1f7c36d52c9e60e819534c3720f7e9" type="Folder">46</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_47">
+        <c02 id="aspace_25b1e3925806d07ca0bc5d4dc81f9041" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">47</container>
             <unittitle>Recruitment Outreach Committee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/2000">Undated</unitdate>
+            <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
+            <container id="aspace_a90c65387167a3bb332671df9706b6b7" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_6976d3305a5aac54a18b473c3c9e7860" parent="aspace_a90c65387167a3bb332671df9706b6b7" type="Folder">47</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_48">
+        <c02 id="aspace_38182b03898871da728d62c727e44b38" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">48</container>
             <unittitle>Social Dimension of Workers Cooperatives</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_0ae2dfefb546656f9a6f870ac102f307" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_315535a8e468211850595f1eb5a89351" parent="aspace_0ae2dfefb546656f9a6f870ac102f307" type="Folder">48</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_49">
+        <c02 id="aspace_cca047e507077834289c08c6429e348a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">49</container>
             <unittitle>Staff Meetings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995/1997">1995-1997</unitdate>
+            <unitdate normal="1995/1997" type="inclusive">1995-1997</unitdate>
+            <container id="aspace_5ed2c48fc827fba11d6f33227e82f9e3" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_913d1b5dcddd263912407d17645dbc4f" parent="aspace_5ed2c48fc827fba11d6f33227e82f9e3" type="Folder">49</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_50">
+        <c02 id="aspace_7e40d6f1f9b3056861a01affdb9e5219" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">50</container>
             <unittitle>Tax Exempt Certificate</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1989">1987-1989</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+            <unitdate normal="1987/1989" type="inclusive">1987-1989</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_bdb896802d13f3d4def3e921715329c6" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_ccc0eee401397b1c300113036787ffee" parent="aspace_bdb896802d13f3d4def3e921715329c6" type="Folder">50</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-1_51">
+        <c02 id="aspace_5590607ac90b7e186fb3de44b2bdfc8a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">51</container>
             <unittitle>Youth Entrepreneur Program</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/2000">Undated</unitdate>
+            <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
+            <container id="aspace_05b90e56719ca500d6ffe66bf445e7cc" label="Mixed Materials" type="Box">1 (1-Administration)</container>
+            <container id="aspace_1d7a08b5209e5999e0965e2a549f0b94" parent="aspace_05b90e56719ca500d6ffe66bf445e7cc" type="Folder">51</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap120-2">
+      <c01 id="aspace_f7af336499bd7813b622e6c6465d21e5" level="series">
         <did>
+          <unittitle>Organizational Contacts</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Organizational Contacts</unittitle>
-          <unitdate type="inclusive" normal="1987/1998">1987-1998</unitdate>
-          <unitdate type="inclusive" normal="1967/2000">Undated</unitdate>
+          <unitdate normal="1987/1998" type="inclusive">1987-1998</unitdate>
+          <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
         </did>
-        <c02 id="nam_apap120-2_1">
+        <c02 id="aspace_e5971ba007ab2064763d2ddb0485b8b8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Articles and News Clippings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1993">1988-1993</unitdate>
+            <unitdate normal="1988/1993" type="inclusive">1988-1993</unitdate>
+            <container id="aspace_33ca41073794c7b62bbe181ce7e8e917" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_83c97a94a419a96cdb7d4926b836c197" parent="aspace_33ca41073794c7b62bbe181ce7e8e917" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_2">
+        <c02 id="aspace_7e128380c9059fc696f24addea91eae2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Babson College</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993/1995">1993-1995</unitdate>
+            <unitdate normal="1993/1995" type="inclusive">1993-1995</unitdate>
+            <container id="aspace_4530d8dcb1ebe28b7552ba4dd1a5a63c" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_b158ba7d70dd95265d57a03b71cd9bbe" parent="aspace_4530d8dcb1ebe28b7552ba4dd1a5a63c" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_3">
+        <c02 id="aspace_834768924e9252e7bd565dda2dc04c76" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Bank Symposium</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996/1997">1996-1997</unitdate>
+            <unitdate normal="1996/1997" type="inclusive">1996-1997</unitdate>
+            <container id="aspace_619a7906657bf01b21c80824162e8786" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_8b0310ef39b8a4fffb1b45433f6e5373" parent="aspace_619a7906657bf01b21c80824162e8786" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_4">
+        <c02 id="aspace_c983ad6fd48764f790c9c212148c59c2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Ben and Jerry's</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_62630086d6fe599726ee466a9f3fbe0d" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_38d799584fe21d59094e56cc767b7fb0" parent="aspace_62630086d6fe599726ee466a9f3fbe0d" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_5">
+        <c02 id="aspace_e2e8f5e6c09fe6455da1ae6a428941bc" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Bloom, Jane</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991/1992">1991-1992</unitdate>
+            <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
+            <container id="aspace_3b6a9a19f70fc93a5a362bd425a42338" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_1b58a6e96421313caa309526a1871c13" parent="aspace_3b6a9a19f70fc93a5a362bd425a42338" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_6">
+        <c02 id="aspace_5e51b696760dcfa612c33385b5768123" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Business Maintenance Organization</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1992">1989-1992</unitdate>
+            <unitdate normal="1989/1992" type="inclusive">1989-1992</unitdate>
+            <container id="aspace_a3f41fb76b8acebc825e48193ac30ff7" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_b83a51aa0a9aa0477f51e8587bc50bc4" parent="aspace_a3f41fb76b8acebc825e48193ac30ff7" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_7">
+        <c02 id="aspace_7749a1c96588f6720379f0c0ec4f0e71" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Chase Chemical</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_320339fcc8f48ef22c8fe030bab18c88" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_973c211a9cd21f6cbef6553cb547ef60" parent="aspace_320339fcc8f48ef22c8fe030bab18c88" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_8">
+        <c02 id="aspace_691b39378e02bf05df9567831110e43c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Charitable Venture Foundation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995">1995</unitdate>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_b9e8bf37faa8561968238314496e6eb7" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_d92f88527a0c65fefaf82edb15bc9280" parent="aspace_b9e8bf37faa8561968238314496e6eb7" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_9">
+        <c02 id="aspace_fe4780bcd649fe07a5f5fb3a5cd0d244" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Citibank Proposal</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989">1989</unitdate>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_d894b1d40c2996c641cc4beb9e3c6647" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_d2bf27db19209c19a8ef81be836221b4" parent="aspace_d894b1d40c2996c641cc4beb9e3c6647" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_10">
+        <c02 id="aspace_8e00665e8f9ab291d47f3a5797a9de8f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Corpus Christi Church</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_2422bc04b7204ddbea8a314eba82f93e" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_aeb7ef7f9491c2ef71aa794bad291eca" parent="aspace_2422bc04b7204ddbea8a314eba82f93e" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_11">
+        <c02 id="aspace_a04744039edef3ea7988b6566e053136" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Department of Economic Development Recycling Grant</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_6b2f02788406df0322e32f0235944b33" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_a0d9c369617ab12b9896b2070327cf58" parent="aspace_6b2f02788406df0322e32f0235944b33" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_12">
+        <c02 id="aspace_a9570c48c900d46053d3fdfd13319c44" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Department of Labor Microenterprise</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994">1994</unitdate>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_e07bdfb22e22c76d7af9ab0bfeedf865" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_5ac775e41958a9db66cd6f6e6c432955" parent="aspace_e07bdfb22e22c76d7af9ab0bfeedf865" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_13">
+        <c02 id="aspace_382113dbc8b6efbdb709cc87fdb6b657" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>The Discount Foundation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_99c7e059fba0f4905968860bac4dae77" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_f475627928aec5f14160a94c9f0bd203" parent="aspace_99c7e059fba0f4905968860bac4dae77" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_14">
+        <c02 id="aspace_8d4eaa47b783d6b17497cec8d7617552" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Donation Response</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993/1994">1993-1994</unitdate>
+            <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_38160415732a7d06f4377929848362d9" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_03565c0d00a0696c56a68bc6d780431c" parent="aspace_38160415732a7d06f4377929848362d9" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_15">
+        <c02 id="aspace_3860363678c9b151c6113dbe71278b03" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Empowerment Zones</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_2e4b58002c3f4d9998bdc9e029974773" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_6d3b5a339af1a9717f49458f66d09fb7" parent="aspace_2e4b58002c3f4d9998bdc9e029974773" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_16">
+        <c02 id="aspace_7184626a11f90c255fb9165cd46601b9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Enterprise Community</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995/1998">1995-1998</unitdate>
+            <unitdate normal="1995/1998" type="inclusive">1995-1998</unitdate>
+            <container id="aspace_3fd6da7c0bf95f9dd745e77c9133fd07" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_343b737982368732cadfbd8d230c1fb7" parent="aspace_3fd6da7c0bf95f9dd745e77c9133fd07" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_17">
+        <c02 id="aspace_01eaba305c4fb3c513e794a4bd204abe" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>Fee Scale</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/2000">Undated</unitdate>
+            <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
+            <container id="aspace_74067e73d3278e36ea42e0daa1ec0ec4" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_9327565476cefb8eb022f55681316bc1" parent="aspace_74067e73d3278e36ea42e0daa1ec0ec4" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_18">
+        <c02 id="aspace_04bd51d6f5677fdd923eec9a7619769a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>Fleet Bank</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994/1997">1994-1997</unitdate>
+            <unitdate normal="1994/1997" type="inclusive">1994-1997</unitdate>
+            <container id="aspace_aa47902261a5b7ce518c8f1ace5a5393" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_b24414a42e155b8996f1dd7253ba7cc9" parent="aspace_aa47902261a5b7ce518c8f1ace5a5393" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_19">
+        <c02 id="aspace_84e539450ab7ab6e93ce5d52ba0db9c3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>Fleet Youths Grant</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_81b3eff3061329ea1846770dff891bd1" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_15a4f1c3b94e5bbb4f8b341dbfe8e2e4" parent="aspace_81b3eff3061329ea1846770dff891bd1" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_20">
+        <c02 id="aspace_ac510aea6e3adaefe09d587dce8c1363" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>Ford Foundation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994/1995">1994-1995</unitdate>
+            <unitdate normal="1994/1995" type="inclusive">1994-1995</unitdate>
+            <container id="aspace_a3aa3a4120bdb0145655cc54ec0435b5" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_52a6a39a119f5fdec54151fc19194dbf" parent="aspace_a3aa3a4120bdb0145655cc54ec0435b5" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_21">
+        <c02 id="aspace_590c40c3aefd3e07ec54fe7d48a88e37" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>Fundraising</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1992">1989-1992</unitdate>
+            <unitdate normal="1989/1992" type="inclusive">1989-1992</unitdate>
+            <container id="aspace_5eaff01480f8b913e3508aba6d4b6a8d" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_01ddb48b9dff9c450777b8fb528cce38" parent="aspace_5eaff01480f8b913e3508aba6d4b6a8d" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_22">
+        <c02 id="aspace_509c05221e852d15be3fa2d676c55e8b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>Fundraising Letter</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_57f2135163e0b052e12205634a38faa9" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_c1d11078eeefb3283af059ed4019133d" parent="aspace_57f2135163e0b052e12205634a38faa9" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_23">
+        <c02 id="aspace_8379f636291db92efbcbb012ab30420f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23</container>
             <unittitle>Gift In Kind America</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992/1996">1992-1996</unitdate>
+            <unitdate normal="1992/1996" type="inclusive">1992-1996</unitdate>
+            <container id="aspace_6aac6c6a6c243f7a05f26a2f894489ca" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_e6524c70fbb68d11a21d809e8b5c3388" parent="aspace_6aac6c6a6c243f7a05f26a2f894489ca" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_24">
+        <c02 id="aspace_3e72c80e9c5944b985330d1b2f1919b8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">24</container>
             <unittitle>Hitachi Foundation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_8c272d5f9c8d6956d2399ee726ff71d1" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_51799a0f651416b291cef516d8183977" parent="aspace_8c272d5f9c8d6956d2399ee726ff71d1" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_25">
+        <c02 id="aspace_228d47f4701230fc2f8858b702e6f65f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">25</container>
             <unittitle>Howard and Bush</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_dd04e6e83e94f1620c74b6c3912d89fd" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_b914429ec87ba41ea2367ef4aa3181b9" parent="aspace_dd04e6e83e94f1620c74b6c3912d89fd" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_26">
+        <c02 id="aspace_7a0a299de1aecc536a820536c6bba3bb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">26</container>
             <unittitle>Industrial Cooperative Association</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1993">1987-1993</unitdate>
+            <unitdate normal="1987/1993" type="inclusive">1987-1993</unitdate>
+            <container id="aspace_eb4a28cde3e2aef9342f8c0b3f15a633" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_959bcf22f0248ee5254042e2d020e731" parent="aspace_eb4a28cde3e2aef9342f8c0b3f15a633" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_27">
+        <c02 id="aspace_602a2946181c90235dfbae9d7e159565" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">27</container>
             <unittitle>Jobs Now</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_6d3c9b7eee740deaa4296ecf59358608" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_a3c06a3cd9e658bfcbd9602fb0a709e8" parent="aspace_6d3c9b7eee740deaa4296ecf59358608" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_28">
+        <c02 id="aspace_d3dcf64fde8994476e7bcae698f176c0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">28</container>
             <unittitle>Kazanjan Economics Foundation Inc.</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_58938e4ed0c403238fbfaa919c1b3f89" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_c7b9a1daf88c55e63ab59f426505e23d" parent="aspace_58938e4ed0c403238fbfaa919c1b3f89" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_29">
+        <c02 id="aspace_659e312467afc28ec03dc032c7bc71a4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">29</container>
             <unittitle>Kellogg Foundation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_4c32d90d2f7ee7e2cbe06de790981e09" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_56ee448aa8d79bea756f03b8282ee2db" parent="aspace_4c32d90d2f7ee7e2cbe06de790981e09" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_30">
+        <c02 id="aspace_d1e1cb73527e09b1be83759483a7844e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">30</container>
             <unittitle>Leviticus Alternative Fund</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1997">1987-1997</unitdate>
+            <unitdate normal="1987/1997" type="inclusive">1987-1997</unitdate>
+            <container id="aspace_ee51587a2d0030d866b74e8d458fe979" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_cfd7c169b49a8f158937047836febff5" parent="aspace_ee51587a2d0030d866b74e8d458fe979" type="Folder">30</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_31">
+        <c02 id="aspace_4cff5fbd6b704ca2950f1a7d0ab80546" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">31</container>
             <unittitle>Marketing Course</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/2000">Undated</unitdate>
+            <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
+            <container id="aspace_ad1abe0aeb5e492988e4177cf4a28ba5" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_55b51893d4a3b83eb28aa08a64fe5a85" parent="aspace_ad1abe0aeb5e492988e4177cf4a28ba5" type="Folder">31</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_32">
+        <c02 id="aspace_8863274578618a06433fc261a04d0c72" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">32</container>
             <unittitle>Marketing Plans</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_44d9fb6b0acf31ab75c63255985f2262" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_928a9e42f3a1dd1e01fd7f05359d35f2" parent="aspace_44d9fb6b0acf31ab75c63255985f2262" type="Folder">32</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_33">
+        <c02 id="aspace_2f94770f4d33c28ca86f685fd67392f1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">33</container>
             <unittitle>McDonald Trust, Siena College</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_87af71148ce8f918d0ab069b1e9c5033" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_9ebc7e3f8c518b452b0f6b51f69eac5d" parent="aspace_87af71148ce8f918d0ab069b1e9c5033" type="Folder">33</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_34">
+        <c02 id="aspace_544b400af096ebcdbd56f72ef09dcbfd" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">34</container>
             <unittitle>Merck Foundation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993/1996">1993-1996</unitdate>
+            <unitdate normal="1993/1996" type="inclusive">1993-1996</unitdate>
+            <container id="aspace_89b37496c7a80a463a58ecd7e43d4083" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_d3dfb520c3f3dbbf72e0be0fd220d9f4" parent="aspace_89b37496c7a80a463a58ecd7e43d4083" type="Folder">34</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_35">
+        <c02 id="aspace_1b8f21089f874914d7978e4fd70a48db" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">35</container>
             <unittitle>Miscellaneous Grants</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992/1997">1992-1997</unitdate>
+            <unitdate normal="1992/1997" type="inclusive">1992-1997</unitdate>
+            <container id="aspace_13891b62903cd0c0bf958661d4ec46c2" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_c73ea68c64344386a20428801ca4f91b" parent="aspace_13891b62903cd0c0bf958661d4ec46c2" type="Folder">35</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_36">
+        <c02 id="aspace_ab7596756db9566f3f65bd27d7f2f039" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">36</container>
             <unittitle>Miscellaneous Grants</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994/1997">1994-1997</unitdate>
+            <unitdate normal="1994/1997" type="inclusive">1994-1997</unitdate>
+            <container id="aspace_95ea35e1e3b5f030aa5aa9144d0034aa" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_b47085aa781b39a6b0c32067439be2dc" parent="aspace_95ea35e1e3b5f030aa5aa9144d0034aa" type="Folder">36</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_37">
+        <c02 id="aspace_ef27f3c9f9acf764d1beef09248e5ac1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">37</container>
             <unittitle>Mohawk Hudson Community Foundation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1996">1990-1996</unitdate>
+            <unitdate normal="1990/1996" type="inclusive">1990-1996</unitdate>
+            <container id="aspace_c0544ec9e8e95beebc09bd2847f44b63" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_7b160a753ff9c3c0988239c933394a94" parent="aspace_c0544ec9e8e95beebc09bd2847f44b63" type="Folder">37</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_38">
+        <c02 id="aspace_5063197a70a49d34a90ffee9017c1e04" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">38</container>
             <unittitle>Mott Foundation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_25d8c1997392bb072673476b8c4961ca" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_23b8aac6e85e35ae523c423fe578d7c1" parent="aspace_25d8c1997392bb072673476b8c4961ca" type="Folder">38</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_39">
+        <c02 id="aspace_0924bb5ea8ee8f9ca85ee3d7433c68d1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">39</container>
             <unittitle>Ms. Foundation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995/1996">1995-1996</unitdate>
+            <unitdate normal="1995/1996" type="inclusive">1995-1996</unitdate>
+            <container id="aspace_3484ab3092faaf03ad6e7f04e0c5ff0d" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_e628ef3bfc0debbe854b118d486d3ad1" parent="aspace_3484ab3092faaf03ad6e7f04e0c5ff0d" type="Folder">39</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_40">
+        <c02 id="aspace_0ba52b2b0cf4e364bb4a21386b8fcef5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">40</container>
             <unittitle>Needmor Fund</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_5983cd33fe910e3ea8c7ae2b9795b82c" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_48692cf6484af3009524c3792342e0bc" parent="aspace_5983cd33fe910e3ea8c7ae2b9795b82c" type="Folder">40</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_41">
+        <c02 id="aspace_23fa0da8041f2735dd27fa660e98fbab" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">41</container>
             <unittitle>New Business Ventures and Entrepreneurship</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992">1992</unitdate>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_b3866c753f37ca92a85cd3376dba4511" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_90a8c126e93ccf51eaecce9d09a02254" parent="aspace_b3866c753f37ca92a85cd3376dba4511" type="Folder">41</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_42">
+        <c02 id="aspace_77c013e18d88a99264aaca79946e2ed3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">42</container>
             <unittitle>New York State Legislature</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_7346178f2e9cdb8bc85f479645c8173e" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_a035cac9906e62fbb07e2b8307605516" parent="aspace_7346178f2e9cdb8bc85f479645c8173e" type="Folder">42</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_43">
+        <c02 id="aspace_1e346110b014ef8d1214c8e250a8306c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">43</container>
             <unittitle>Possible Grants</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995/1996">1995-1996</unitdate>
+            <unitdate normal="1995/1996" type="inclusive">1995-1996</unitdate>
+            <container id="aspace_c0e025087e126290013e7279cd0c9e3f" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_7ad811379ed67102357f2cb7a5802d0c" parent="aspace_c0e025087e126290013e7279cd0c9e3f" type="Folder">43</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_44">
+        <c02 id="aspace_6edb5f9e7673bd092d41bd93a37895e0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">44</container>
             <unittitle>Reaching the Hip Hop Generation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_b96e96421caebfce44d429ccfea411f3" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_3f77d41cf14e05c44ca7c88c2db19abb" parent="aspace_b96e96421caebfce44d429ccfea411f3" type="Folder">44</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_45">
+        <c02 id="aspace_b4175a6b883063406800aa89ba3a43ea" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">45</container>
             <unittitle>SEFA Campaign</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993">1993</unitdate>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_9127e8dd06ca639bb2f24f04d56ee431" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_865e80193cf09d0fcd0acec83fda48f3" parent="aspace_9127e8dd06ca639bb2f24f04d56ee431" type="Folder">45</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_46">
+        <c02 id="aspace_b6fb2ea594754630bc5edb9ebcf206b3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">46</container>
             <unittitle>Siena College</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1989">1988-1989</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995">1995</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_f1d137a4bd90d9eb82959a3fcecb2d6b" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_d6fb4d2c68a8c09a7ed233301939e840" parent="aspace_f1d137a4bd90d9eb82959a3fcecb2d6b" type="Folder">46</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_47">
+        <c02 id="aspace_dcc7062b53988a8bee118cb04953d1aa" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">47</container>
             <unittitle>St. Madeleine Sophie Sacrificial Sharing</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/2000">Undated</unitdate>
+            <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
+            <container id="aspace_66bcbf249a198e363087414051cfea9d" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_068d3f7c798c4de350c4ac32937378b0" parent="aspace_66bcbf249a198e363087414051cfea9d" type="Folder">47</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-2_48">
+        <c02 id="aspace_ac4f44748cbb07d421ae32dcbfb6f18d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">48</container>
             <unittitle>Loan Papers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/2000">Undated</unitdate>
+            <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
+            <container id="aspace_5095cf2b38f82117da8cdfcb4079da20" label="Mixed Materials" type="Box">1 (2-Organizational Contacts)</container>
+            <container id="aspace_91fbb5ec3fcd0ebb74b4461d1f303e7d" parent="aspace_5095cf2b38f82117da8cdfcb4079da20" type="Folder">48</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap120-3">
+      <c01 id="aspace_bf51e35cf340a4e213d99a0ac1eca3e1" level="series">
         <did>
+          <unittitle>Network Strategies</unittitle>
           <unitid>3</unitid>
-          <unittitle label="Series">Network Strategies</unittitle>
-          <unitdate type="inclusive" normal="1981/1997">1981-1997</unitdate>
-          <unitdate type="inclusive" normal="1967/2000">Undated</unitdate>
+          <unitdate normal="1981/1997" type="inclusive">1981-1997</unitdate>
+          <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
         </did>
-        <c02 id="nam_apap120-3_1">
+        <c02 id="aspace_e6bf1e4a3fc8259adcc0ab092865a27f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Business Incubator Without Walls</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_cc0aee4c7c8b6fd75cfb0e7425c11782" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_73eaaeaff6d16a56e4a27c0000411d4a" parent="aspace_cc0aee4c7c8b6fd75cfb0e7425c11782" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_2">
+        <c02 id="aspace_f46f9309d1bfde5f4a3ba03181e609b5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Capitol District Community Economic Development Network Meetings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993/1994">1993-1994</unitdate>
+            <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_450accca0d4c715666a8bad8c029a249" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_d85404f6b90755b202d9b14fe9fccbc4" parent="aspace_450accca0d4c715666a8bad8c029a249" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_3">
+        <c02 id="aspace_f3cc9c000d1d0719249bd33ea08ae1ed" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Capitol Region Education Center for Economic Development</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1992">1987-1992</unitdate>
+            <unitdate normal="1987/1992" type="inclusive">1987-1992</unitdate>
+            <container id="aspace_44d2a6dfe9fc467e01cb7aaafb96eb86" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_dc11605f6a5fb56948688391bb24f1ab" parent="aspace_44d2a6dfe9fc467e01cb7aaafb96eb86" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_4">
+        <c02 id="aspace_1d49002eeb672b790ee38f4ee3143c84" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Capozolla, Nick</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992/1995">1992-1995</unitdate>
+            <unitdate normal="1992/1995" type="inclusive">1992-1995</unitdate>
+            <container id="aspace_1ea304e4b5cf28fcc9e8fb59f9b3df92" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_238edc4084c0fe52db8f22722b11478a" parent="aspace_1ea304e4b5cf28fcc9e8fb59f9b3df92" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_5">
+        <c02 id="aspace_bd42d6ebddfc3c1c4d61621bd595f666" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Davis, Bonita</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992">1992</unitdate>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_6b6628d320c9cb7e85efe15d09027844" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_ec4a104936cd913a9ad993b0717ea658" parent="aspace_6b6628d320c9cb7e85efe15d09027844" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_6">
+        <c02 id="aspace_af6213e577a7cc7a1b315868d2594667" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Demographics</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/2000">Undated</unitdate>
+            <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
+            <container id="aspace_ad9f0cb890dc33f87f616d4b40410281" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_55c8700b3d33ccd1225e4d89aa934518" parent="aspace_ad9f0cb890dc33f87f616d4b40410281" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_7">
+        <c02 id="aspace_078953209992e3117d58413036ffdbea" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Dudley Park Residents Council</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993">1993</unitdate>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_bc44edd4772ceed0c29700321d78129e" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_6fa8d26595fbdfcd2350a7b898bae5d5" parent="aspace_bc44edd4772ceed0c29700321d78129e" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_8">
+        <c02 id="aspace_4b3c72bc65daf49b74f995528f1ac934" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>EOP Goal and Mission</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989">1989</unitdate>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_f90993ab65100c010898f88b45176eb0" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_9133d3cf8c4156a4a7428ce5b0e54cac" parent="aspace_f90993ab65100c010898f88b45176eb0" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_9">
+        <c02 id="aspace_0eed8b7fa10ca801888a43b4bf09ea88" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Federation of Industrial Retention and Renewal</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1996">1989-1996</unitdate>
+            <unitdate normal="1989/1996" type="inclusive">1989-1996</unitdate>
+            <container id="aspace_d89fe20997ef800a84849bd67870b98a" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_985401cbfba1813671b7bf5dddc13a09" parent="aspace_d89fe20997ef800a84849bd67870b98a" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_10">
+        <c02 id="aspace_f7715f7ac7590cee8b2f883bfcc3bb22" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Finn, Jonathan Vista Volunteer</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995/1997">1995-1997</unitdate>
+            <unitdate normal="1995/1997" type="inclusive">1995-1997</unitdate>
+            <container id="aspace_83c1c027a4551886c1a4fc1839c7b7a5" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_109a76d3c1e179ccb1f594b2cb70b4a4" parent="aspace_83c1c027a4551886c1a4fc1839c7b7a5" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_11">
+        <c02 id="aspace_f4a2fbc13f7329e94773ddc9f295bed9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Human Resources Committee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996/1997">1996-1997</unitdate>
+            <unitdate normal="1996/1997" type="inclusive">1996-1997</unitdate>
+            <container id="aspace_bee787849f86ca008eb62c4bd17e926f" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_0300587faf7fa0948e7aa07aff595d66" parent="aspace_bee787849f86ca008eb62c4bd17e926f" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_12">
+        <c02 id="aspace_a2fef67a60486c905decf90db1139aa2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Ideas and General Information</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991/1992">1991-1992</unitdate>
+            <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
+            <container id="aspace_4612cb32f93cdc8d5dc0ffe67a92cef6" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_b7f068e517fd9ee613d26efbccbbf318" parent="aspace_4612cb32f93cdc8d5dc0ffe67a92cef6" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_13">
+        <c02 id="aspace_172271b477a22d33af01fc5dc9fbcda5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Industrial Cooperative Association</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984/1989">1984-1989</unitdate>
+            <unitdate normal="1984/1989" type="inclusive">1984-1989</unitdate>
+            <container id="aspace_a4ca281f6cc25b23a29e733cff32217e" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_a82200873e98ce2b7cc302f15c72f270" parent="aspace_a4ca281f6cc25b23a29e733cff32217e" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_14">
+        <c02 id="aspace_3b372fd52c614d85c67f3258b16b6037" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>ICA Documents</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1986">1981-1986</unitdate>
+            <unitdate normal="1981/1986" type="inclusive">1981-1986</unitdate>
+            <container id="aspace_b537ba16c045f84dc45d2c3b2fdf8f95" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_09bc7bb3e819567cecb2f958ea9f4204" parent="aspace_b537ba16c045f84dc45d2c3b2fdf8f95" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_15">
+        <c02 id="aspace_870c072359c600d5fa637b9867f28e04" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>ICA Education Models</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1990">1989-1990</unitdate>
+            <unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate>
+            <container id="aspace_e0f975d0b1d03d7045085fb4f1f5cfb8" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_75b7ec204e7f6bb2abc37bd09e727123" parent="aspace_e0f975d0b1d03d7045085fb4f1f5cfb8" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_16">
+        <c02 id="aspace_5a80715e3e1d1f96906bc89a378128b0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>ICA General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1993">1983-1993</unitdate>
+            <unitdate normal="1983/1993" type="inclusive">1983-1993</unitdate>
+            <container id="aspace_6ac5aba2d8acaddccd2d4942a5539760" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_22bd4baa502b67b7e8446af7ed77a214" parent="aspace_6ac5aba2d8acaddccd2d4942a5539760" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_17">
+        <c02 id="aspace_76afd055964d1656c8ee08d06b57acba" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>ICA Getting Organized For Worker Ownership</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_3309e8994b75225059e003b3b25c2a68" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_bdb11cd20bfacaaa0385161469566fd1" parent="aspace_3309e8994b75225059e003b3b25c2a68" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_18">
+        <c02 id="aspace_6dfaadcc057b68b6584330d25dd19126" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>Interns</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1990">1988-1990</unitdate>
+            <unitdate normal="1988/1990" type="inclusive">1988-1990</unitdate>
+            <container id="aspace_432414078bffb4c8c00ed839923d2696" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_57d5a38bed2846e4645cc0ae0cba3418" parent="aspace_432414078bffb4c8c00ed839923d2696" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_19">
+        <c02 id="aspace_77e2927525da19d1a8f6391cac33920a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>Job Placement Consortium</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/2000">Undated</unitdate>
+            <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
+            <container id="aspace_3738cff15b9adae2059c2402c6cf76b1" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_cdcf52d5db7b8d5eafd0e664817bc1c7" parent="aspace_3738cff15b9adae2059c2402c6cf76b1" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_20">
+        <c02 id="aspace_0663fd304234fa19f39f3feb9afd4c74" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>Job Service Corps</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995">1995</unitdate>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_9103a89b95056406cae8f6e8549979fe" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_d163ca9dd49763e2fe622c500a4090a8" parent="aspace_9103a89b95056406cae8f6e8549979fe" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_21">
+        <c02 id="aspace_982651fbfc5d8af3a029f7ae5514552a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>Long Term Planning</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992">1992</unitdate>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_25cce6ade032624bd55d01d97ab28071" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_cab00b1c58e9dcb06ac149dbe7c3726c" parent="aspace_25cce6ade032624bd55d01d97ab28071" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_22">
+        <c02 id="aspace_68b656463d9c33cef66123f79543800b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>Microenterprise Project</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1996">1990-1996</unitdate>
+            <unitdate normal="1990/1996" type="inclusive">1990-1996</unitdate>
+            <container id="aspace_a4c2aea99df2b54b433ac80fd4334051" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_85ab4949d55b71cb23b63488f1c1e43e" parent="aspace_a4c2aea99df2b54b433ac80fd4334051" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_23">
+        <c02 id="aspace_90223ed8ec08b499fc4f40867d031498" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23</container>
             <unittitle>Miscellaneous</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/2000">Undated</unitdate>
+            <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
+            <container id="aspace_d480c9f11fa9e9dbe91d1ad080a74489" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_75fabfb852c903468298763c77eca595" parent="aspace_d480c9f11fa9e9dbe91d1ad080a74489" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_24">
+        <c02 id="aspace_f625ad7efd92a0b90107eb30fb75d673" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">24</container>
             <unittitle>National Center for Employee Ownership</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985/1987">1985-1987</unitdate>
+            <unitdate normal="1985/1987" type="inclusive">1985-1987</unitdate>
+            <container id="aspace_626bd922c15cc309405a5d9d20725f86" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_8d4b7cbbc18392ad040596eddedb68b1" parent="aspace_626bd922c15cc309405a5d9d20725f86" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_25">
+        <c02 id="aspace_ffa23f81ee686ba5da1a0ac41dd11be5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">25</container>
             <unittitle>National Cooperative Bank</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1991">1988-1991</unitdate>
+            <unitdate normal="1988/1991" type="inclusive">1988-1991</unitdate>
+            <container id="aspace_bcd34121ac58b1ed8043b9555f89f1d2" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_04a865477eb3544a95e39b32653ece83" parent="aspace_bcd34121ac58b1ed8043b9555f89f1d2" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_26">
+        <c02 id="aspace_d28f2fe80fe9fb04e690eaaa83c9e447" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">26</container>
             <unittitle>National Cooperative Bank, Bank Notes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1992">1988-1992</unitdate>
+            <unitdate normal="1988/1992" type="inclusive">1988-1992</unitdate>
+            <container id="aspace_89b76a57e3464b5ae539df1c2b81756c" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_6c466329f9f17eeb4c15dcde494292e7" parent="aspace_89b76a57e3464b5ae539df1c2b81756c" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_27">
+        <c02 id="aspace_efc61024aade29deae6582da3496686b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">27</container>
             <unittitle>National Equity Development Group</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995">1995</unitdate>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_71e116e01dbd84f73303a4e0d9bb9c7f" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_bd7a3b744e574c976632021b2f1320df" parent="aspace_71e116e01dbd84f73303a4e0d9bb9c7f" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_28">
+        <c02 id="aspace_6356f3adc3e7ce64f3a1397525b97541" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">28</container>
             <unittitle>Naigutuch Valley Project</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985/1986">1985-1986</unitdate>
+            <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
+            <container id="aspace_c1e78d9e03b861d55d09884657b92c24" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_1b1fbeb855fc2d09525fb491f5f8ebcb" parent="aspace_c1e78d9e03b861d55d09884657b92c24" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_29">
+        <c02 id="aspace_391927ccac598cb727736b09cb23119a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">29</container>
             <unittitle>The Neighborhood Works</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993">1993</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_8b6af0b4749886747b3e913ec1bc4114" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_3640ac563a15d546dbbcde3fb3ba6b77" parent="aspace_8b6af0b4749886747b3e913ec1bc4114" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_30">
+        <c02 id="aspace_83c44362e354906d1e42e88e4a641e8b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">30</container>
             <unittitle>New York Center for Employee Ownership and Participation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986/1989">1986-1989</unitdate>
+            <unitdate normal="1986/1989" type="inclusive">1986-1989</unitdate>
+            <container id="aspace_402ed11e7d4161b4a343f02426eafe6b" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_6906efeee32f126d30e7cb29d817d1a8" parent="aspace_402ed11e7d4161b4a343f02426eafe6b" type="Folder">30</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_31">
+        <c02 id="aspace_654a0b49d5446c027d235547e4afc4a6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">31</container>
             <unittitle>Organizations</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1995">1980-1995</unitdate>
+            <unitdate normal="1980/1995" type="inclusive">1980-1995</unitdate>
+            <container id="aspace_1bf5ae6a04c453463516940f79b8d080" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_63c5837df886496a13175a8ce5b4b82f" parent="aspace_1bf5ae6a04c453463516940f79b8d080" type="Folder">31</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_32">
+        <c02 id="aspace_b4922a0cf3e5a724c2b74ae7b397b5d2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">32</container>
             <unittitle>Rensselaer County Entrepreneurship Assistance Program</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_9944352a84d28bbec8a712a9214d1124" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_a9f26b2c674bd2ecc889ff754c693916" parent="aspace_9944352a84d28bbec8a712a9214d1124" type="Folder">32</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_33">
+        <c02 id="aspace_4570db9c19785dba75c08b5bc501bcbd" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">33</container>
             <unittitle>Research</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995">1995</unitdate>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_d4561342a3895e7ecdfe5310b154e29f" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_3fb82d738dfbad8ef29c7906996b276c" parent="aspace_d4561342a3895e7ecdfe5310b154e29f" type="Folder">33</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_34">
+        <c02 id="aspace_ea29f7ca2af35caca92401c92ddcceb4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">34</container>
             <unittitle>Saint Patrick’s Parish</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1992">1990-1992</unitdate>
+            <unitdate normal="1990/1992" type="inclusive">1990-1992</unitdate>
+            <container id="aspace_b3d0d93a6d34f83a58c7723f2306704b" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_81dcb45d1786333b87e6e96f68d1d46a" parent="aspace_b3d0d93a6d34f83a58c7723f2306704b" type="Folder">34</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_35">
+        <c02 id="aspace_7fe9be8e237133e152f2698ebc754dfa" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">35</container>
             <unittitle>Small Business Development Center</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_788a809b8fb687f1390f167ee03cd6df" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_c7841516f04826884a7c81311c5a50d3" parent="aspace_788a809b8fb687f1390f167ee03cd6df" type="Folder">35</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_36">
+        <c02 id="aspace_0f6782330b0dbf890cabde1525716e21" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">36</container>
             <unittitle>Small Business Network</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992">1992</unitdate>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_c99ae1e0b75352b51b40aacc13880e2e" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_6c70de381d72d6a27b3fc9cd3fd6c6e3" parent="aspace_c99ae1e0b75352b51b40aacc13880e2e" type="Folder">36</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_37">
+        <c02 id="aspace_ff18deea38d7224e540fc48caea7fb1a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">37</container>
             <unittitle>Staff Development</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_86ffb02f8a8005fc748d31e2b3a75539" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_51d5e14a76c8cf72dd3f9ec973284f9f" parent="aspace_86ffb02f8a8005fc748d31e2b3a75539" type="Folder">37</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_38">
+        <c02 id="aspace_90c081d0c4def60af038f17c4d02614a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">38</container>
             <unittitle>Strategy</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1988">1987-1988</unitdate>
+            <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <container id="aspace_dd5fef21ac3486d58d3f13fc998dadc7" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_edc528d995e62120a7beb7a9a1e2e565" parent="aspace_dd5fef21ac3486d58d3f13fc998dadc7" type="Folder">38</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_39">
+        <c02 id="aspace_18d5e565f00b0e9b16c02191311c9544" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">39</container>
             <unittitle>Tri-City Shalom Americorps</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_60b4207e79e8c4934d471e8be1b3b106" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_4c15008b35838594434f3db89c7f898d" parent="aspace_60b4207e79e8c4934d471e8be1b3b106" type="Folder">39</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_40">
+        <c02 id="aspace_afb8776d363d671bb3ffb887a2be317d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">40</container>
             <unittitle>Volunteerism</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984/1986">1984-1986</unitdate>
+            <unitdate normal="1984/1986" type="inclusive">1984-1986</unitdate>
+            <container id="aspace_9edbe6537cb9adffb86e47903b051662" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_21515130f6d83e0db8db6ed140611241" parent="aspace_9edbe6537cb9adffb86e47903b051662" type="Folder">40</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_41">
+        <c02 id="aspace_7eda6f39b77f358a948f81149a617a1b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">41</container>
             <unittitle>Welfare to Work</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995">1995</unitdate>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_6de3b4600ac8b267d18f6c155eaba74c" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_db43febd9105269d649e38af34828a45" parent="aspace_6de3b4600ac8b267d18f6c155eaba74c" type="Folder">41</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-3_42">
+        <c02 id="aspace_2bfb0e9f9215e68a490f2e1b67a2acd5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">42</container>
             <unittitle>Workers Owned Sewing Company</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1982">1981-1982</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992">1992</unitdate>
+            <unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_1fe44ce1a0c4d3ded4e05474b92e0cb3" label="Mixed Materials" type="Box">1 (3-Network Strategies)</container>
+            <container id="aspace_f7a21c2481055dfd8e15e633f8a8a80a" parent="aspace_1fe44ce1a0c4d3ded4e05474b92e0cb3" type="Folder">42</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap120-4">
+      <c01 id="aspace_960efeb8cef5378e602ea15e7d844146" level="series">
         <did>
+          <unittitle>Community Outreach</unittitle>
           <unitid>4</unitid>
-          <unittitle label="Series">Community Outreach</unittitle>
           <unitdate normal="1970/2000" type="inclusive">1970-2000</unitdate>
-          <unitdate type="inclusive" normal="1967/2000">Undated</unitdate>
+          <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
         </did>
-        <c02 id="nam_apap120-4_1">
+        <c02 id="aspace_e963dfa58cffa1c45459d719e0f6f3df" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Advisory Council</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1992">1989-1992</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+            <unitdate normal="1989/1992" type="inclusive">1989-1992</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_a2c69709a5def89f5ad5b12234576113" label="Mixed Materials" type="Box">1 (4-Community Outreach)</container>
+            <container id="aspace_06dfc8241a78acf5099c7875e633e312" parent="aspace_a2c69709a5def89f5ad5b12234576113" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_2">
+        <c02 id="aspace_395f832679300ae562e65bc22d2391b7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Albany Black Investors Inc.</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_cbfdaa497d78086f5f76cbd6a8c11acc" label="Mixed Materials" type="Box">1 (4-Community Outreach)</container>
+            <container id="aspace_e280f21daf9ad9d8c3d96e41117e926d" parent="aspace_cbfdaa497d78086f5f76cbd6a8c11acc" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_3">
+        <c02 id="aspace_d9b46944244491fbbc5191b8d30e0f6e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Albany-Colonie Regional Chamber of Commerce</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1996">1989-1996</unitdate>
+            <unitdate normal="1989/1996" type="inclusive">1989-1996</unitdate>
+            <container id="aspace_75e87fda963f7fd9218b856fa7795ca5" label="Mixed Materials" type="Box">1 (4-Community Outreach)</container>
+            <container id="aspace_fcbbea26542d0a7cba478667fec01ad8" parent="aspace_75e87fda963f7fd9218b856fa7795ca5" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_4">
+        <c02 id="aspace_25f66cd0ec1488fdd902ae22446024dc" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Albany Community and Trust</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992">1992</unitdate>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_d2295a0359c247724c5b014f994d1847" label="Mixed Materials" type="Box">1 (4-Community Outreach)</container>
+            <container id="aspace_917fe58b9ac2932955d0fd0c1dcfa3db" parent="aspace_d2295a0359c247724c5b014f994d1847" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_5">
+        <c02 id="aspace_aac3d39a3fa11ec5fe35794273511fa6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Annual Dinner</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992/1994">1992-1994</unitdate>
+            <unitdate normal="1992/1994" type="inclusive">1992-1994</unitdate>
+            <container id="aspace_f9e6c81b9ba2663f3d55a03e74c25ea3" label="Mixed Materials" type="Box">1 (4-Community Outreach)</container>
+            <container id="aspace_9a04a807bbdc67a7dc3d937ad9710d26" parent="aspace_f9e6c81b9ba2663f3d55a03e74c25ea3" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_6">
+        <c02 id="aspace_f842abc2bb3262b02ceda59fb866d3cc" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Conference and Training on Democratic Employee Ownership First Annual March</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989-03-10">1989 March 10</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989-03-11">1989 March 11</unitdate>
+            <unitdate normal="1989-03-10/1989-03-10" type="inclusive">1989 March 10</unitdate>
+            <unitdate normal="1989-03-11/1989-03-11" type="inclusive">1989 March 11</unitdate>
+            <container id="aspace_fb78adb7b5ed15c37cba133bb1981d27" label="Mixed Materials" type="Box">1 (4-Community Outreach)</container>
+            <container id="aspace_998a0e1a1e303e1e27a9c77232737334" parent="aspace_fb78adb7b5ed15c37cba133bb1981d27" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_7">
+        <c02 id="aspace_d74c2401b236a365127b4839dc6509f3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Employee Stock Ownership Plan Association</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1989">1987-1989</unitdate>
+            <unitdate normal="1987/1989" type="inclusive">1987-1989</unitdate>
+            <container id="aspace_472d9b62fef72472122afb1716fc3fc3" label="Mixed Materials" type="Box">1 (4-Community Outreach)</container>
+            <container id="aspace_6212edcdd3377cac1a80d3732d1f95c9" parent="aspace_472d9b62fef72472122afb1716fc3fc3" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_8">
+        <c02 id="aspace_8313acbda537f6a72f5fd29b30279638" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Farmworkers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1999/2000">1999-2000</unitdate>
+            <unitdate normal="1999/2000" type="inclusive">1999-2000</unitdate>
+            <container id="aspace_d512ab65e58c63c216bb57ac83beb957" label="Mixed Materials" type="Box">1 (4-Community Outreach)</container>
+            <container id="aspace_f81dc2d5c93ef4c15e449a6ca0b74b47" parent="aspace_d512ab65e58c63c216bb57ac83beb957" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_9">
+        <c02 id="aspace_63e4b37bbb6cef00394a0b0ea5c6a988" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Finance Class</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992/1993">1992-1993</unitdate>
+            <unitdate normal="1992/1993" type="inclusive">1992-1993</unitdate>
+            <container id="aspace_8fb3baa6358fdf8db1e25981e574ae03" label="Mixed Materials" type="Box">1 (4-Community Outreach)</container>
+            <container id="aspace_1098dbd8cdfd6f318f02980513db2cfe" parent="aspace_8fb3baa6358fdf8db1e25981e574ae03" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_10">
+        <c02 id="aspace_7aaf2e5da549659d5e9c7f8bd5a6abf9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Frank Kramer Award</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993/1994">1993-1994</unitdate>
+            <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_49a56003b146330046c096658942ad42" label="Mixed Materials" type="Box">1 (4-Community Outreach)</container>
+            <container id="aspace_114c0adc59067778a806dd141254f59c" parent="aspace_49a56003b146330046c096658942ad42" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_11">
+        <c02 id="aspace_a65b8906646b528945c45d748dbaeaf2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Fundraising Dinner</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994">1994</unitdate>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_7aebdef85dc91b4128e6227344057eb3" label="Mixed Materials" type="Box">1 (4-Community Outreach)</container>
+            <container id="aspace_4e40594e5a661f13102788a4c94d7853" parent="aspace_7aebdef85dc91b4128e6227344057eb3" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_12">
+        <c02 id="aspace_8c2ca45f3320c47e49106a18850c2d26" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Hill and Vale Business Loan Fund</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997/1998">1997-1998</unitdate>
+            <unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate>
+            <container id="aspace_3e6bb4b31d6629b8833b5bfcaa1c715e" label="Mixed Materials" type="Box">1 (4-Community Outreach)</container>
+            <container id="aspace_0bda03aa33173ecaba8059c1fa4367d2" parent="aspace_3e6bb4b31d6629b8833b5bfcaa1c715e" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_13">
+        <c02 id="aspace_af89f4df5259acb93034dfe259e87284" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Hill and Vale Business Loan Fund, Loan Proposal for Johnson Designs</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997/1998">1997-1998</unitdate>
+            <unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate>
+            <container id="aspace_7ebca9ece52ae2bb1297f6cfa7f3b4e9" label="Mixed Materials" type="Box">1 (4-Community Outreach)</container>
+            <container id="aspace_bc3d5bf98b74acf85e66ee555adc9d8c" parent="aspace_7ebca9ece52ae2bb1297f6cfa7f3b4e9" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_14">
+        <c02 id="aspace_dd6ba40f57f4fd292a9e05c148d46f08" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Mailing Lists</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993">1993</unitdate>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_9b1658f18d164fa917087f8999b24660" label="Mixed Materials" type="Box">1 (4-Community Outreach)</container>
+            <container id="aspace_5acd373492ea55505e3aa7e0eb48348a" parent="aspace_9b1658f18d164fa917087f8999b24660" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_15">
+        <c02 id="aspace_90f7edf5fcfed9906f6422e1b5ce770a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Microenterprise Workshop Senses</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995/1997">1995-1997</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <unitdate normal="1995/1997" type="inclusive">1995-1997</unitdate>
+            <container id="aspace_86441891ceb5d2df3e934d1c5971d9b2" label="Mixed Materials" type="Box">2 (4-Community Outreach)</container>
+            <container id="aspace_f885a45a4b9742f90efb0edeca4a6053" parent="aspace_86441891ceb5d2df3e934d1c5971d9b2" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_16">
+        <c02 id="aspace_763024856b1f784e35a7247899b8030f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>Neighborhood Community Centre</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992/1996">1992-1996</unitdate>
+            <unitdate normal="1992/1996" type="inclusive">1992-1996</unitdate>
+            <container id="aspace_e4648cb85df05d24b8cf53a7923f770d" label="Mixed Materials" type="Box">2 (4-Community Outreach)</container>
+            <container id="aspace_154c45611a7aea43f57d13bb3828a6f6" parent="aspace_e4648cb85df05d24b8cf53a7923f770d" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_17">
+        <c02 id="aspace_21731ba7159bc00d6103f8c5d45bb479" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Neighborhood Resource Center, Childcare</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991/1992">1991-1992</unitdate>
+            <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
+            <container id="aspace_5398781a1fcf3a2ac0bb5d8faf6bfde5" label="Mixed Materials" type="Box">2 (4-Community Outreach)</container>
+            <container id="aspace_4d139e3d8fafc8309ecc14260c2e3c3e" parent="aspace_5398781a1fcf3a2ac0bb5d8faf6bfde5" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_18">
+        <c02 id="aspace_71c73ae092e6af2eb0be1c05901c9150" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Neighborhood Resource Center, Finances</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/2000">Undated</unitdate>
+            <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
+            <container id="aspace_f5fef949adedb8eae5396fb41446b0b2" label="Mixed Materials" type="Box">2 (4-Community Outreach)</container>
+            <container id="aspace_4398471f3c907f60f82b56a67bc964fb" parent="aspace_f5fef949adedb8eae5396fb41446b0b2" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_19">
+        <c02 id="aspace_e8f1bb271773bfd178da02359c157897" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>Neighborhood Resource Center, Kuumba Arts and Cultural Center</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993">1993</unitdate>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_81573733e6c8f4d30c58f0856800cdbe" label="Mixed Materials" type="Box">2 (4-Community Outreach)</container>
+            <container id="aspace_7c33497d7cef8e754423651f574599d6" parent="aspace_81573733e6c8f4d30c58f0856800cdbe" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_20">
+        <c02 id="aspace_44435a261162100f39fe7930fb0c7044" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>Neighborhood Resource Center, Maintenance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995">1995</unitdate>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_47735f9fb1f7651d624c9a28d6a5251d" label="Mixed Materials" type="Box">2 (4-Community Outreach)</container>
+            <container id="aspace_15f08e7f1300d38caa10777804c1580c" parent="aspace_47735f9fb1f7651d624c9a28d6a5251d" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_21">
+        <c02 id="aspace_25ee48ecd46a2bd09080d88077bfb362" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
             <unittitle>Neighborhood Resource Center, Meetings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992/1997">1992-1997</unitdate>
+            <unitdate normal="1992/1997" type="inclusive">1992-1997</unitdate>
+            <container id="aspace_b4bc5072b3231c274996aaeb373c1503" label="Mixed Materials" type="Box">2 (4-Community Outreach)</container>
+            <container id="aspace_8d3c3989968a4056f56b60506ed5aa31" parent="aspace_b4bc5072b3231c274996aaeb373c1503" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_22">
+        <c02 id="aspace_b7a09d3e20cd2e89d67c424b32a22232" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
             <unittitle>Neighborhood Resource Center, Police</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995">1995</unitdate>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_73a0e6241d80232f08c2d836f1635257" label="Mixed Materials" type="Box">2 (4-Community Outreach)</container>
+            <container id="aspace_a4ad18e6a3a5cc95b329581e75e625cd" parent="aspace_73a0e6241d80232f08c2d836f1635257" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_23">
+        <c02 id="aspace_fa29799c9c0ae06330f7b1987f1f0acd" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
             <unittitle>Neighborhood Resource Center, Rental Agreements</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994/1995">1994-1995</unitdate>
+            <unitdate normal="1994/1995" type="inclusive">1994-1995</unitdate>
+            <container id="aspace_62aba271661911d288af4f36db260dbd" label="Mixed Materials" type="Box">2 (4-Community Outreach)</container>
+            <container id="aspace_05905809b1e161d4e220905f9d4527d3" parent="aspace_62aba271661911d288af4f36db260dbd" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_24">
+        <c02 id="aspace_624165ea1912f82bb474b5acffd492f3" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10</container>
             <unittitle>Newsletters and Flyers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993">1993</unitdate>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_7d0dccdca2c2a6e44128cc8282d80f99" label="Mixed Materials" type="Box">2 (4-Community Outreach)</container>
+            <container id="aspace_fe82ba87fbb3f082e4eb485d8aecb20a" parent="aspace_7d0dccdca2c2a6e44128cc8282d80f99" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_25">
+        <c02 id="aspace_66f48d60a2410effc2e0cc4c3d012393" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">11</container>
             <unittitle>Open House Materials</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_7be70883ca85d31dbadf6b85116c4758" label="Mixed Materials" type="Box">2 (4-Community Outreach)</container>
+            <container id="aspace_0d1dd60377a01d6ca43ee2889707f009" parent="aspace_7be70883ca85d31dbadf6b85116c4758" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_26">
+        <c02 id="aspace_1dd28f873395f468b9f7ce28f3b3610b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">12</container>
             <unittitle>Outreach</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1994">1988-1994</unitdate>
+            <unitdate normal="1988/1994" type="inclusive">1988-1994</unitdate>
+            <container id="aspace_d2ccd37b00fc009607f038e9c151d2b0" label="Mixed Materials" type="Box">2 (4-Community Outreach)</container>
+            <container id="aspace_2c6137e662c31039b054491af93c294e" parent="aspace_d2ccd37b00fc009607f038e9c151d2b0" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_27">
+        <c02 id="aspace_f54ba893ea161b02d47ea92c56c26be5" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">13</container>
             <unittitle>Outreach Arbor Hill</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1991">1990-1991</unitdate>
+            <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+            <container id="aspace_8cd4871aafbb52007629a488b23103ea" label="Mixed Materials" type="Box">2 (4-Community Outreach)</container>
+            <container id="aspace_43337caf6791d4ed6b23b594f9abc26a" parent="aspace_8cd4871aafbb52007629a488b23103ea" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_28">
+        <c02 id="aspace_90b4cbe9cdaceaa9928699cabc00ee02" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">14</container>
             <unittitle>Outreach Banks</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_3916a95fad78047e263ffee9df69b095" label="Mixed Materials" type="Box">2 (4-Community Outreach)</container>
+            <container id="aspace_9b07da78f0d25d52cc2a6f4cbf40ec19" parent="aspace_3916a95fad78047e263ffee9df69b095" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_29">
+        <c02 id="aspace_21bf1f944cb26fc846b11ca058db6838" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">15</container>
             <unittitle>Outreach Businesses</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_75055a137dbdc9584aba62f21f51ada4" label="Mixed Materials" type="Box">2 (4-Community Outreach)</container>
+            <container id="aspace_2673b9d08fdf9947da5cf4ab60031095" parent="aspace_75055a137dbdc9584aba62f21f51ada4" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_30">
+        <c02 id="aspace_25cf23df4b710adefb4eb461ce13c83d" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>Outreach, Chambers of Commerce</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_2063d3861f247bb175123359b5c97dbb" label="Mixed Materials" type="Box">3 (4-Community Outreach)</container>
+            <container id="aspace_4109fa3b981b06350ffe006de003d9b7" parent="aspace_2063d3861f247bb175123359b5c97dbb" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_31">
+        <c02 id="aspace_814f894eccd8923e85df66da59d8d4c8" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>Outreach, Churches</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991/1993">1991-1993</unitdate>
+            <unitdate normal="1991/1993" type="inclusive">1991-1993</unitdate>
+            <container id="aspace_cb2a8a9e5b7c6c5a7c8a59e31364e488" label="Mixed Materials" type="Box">3 (4-Community Outreach)</container>
+            <container id="aspace_824d3c09a3ac4317055da89df412ce46" parent="aspace_cb2a8a9e5b7c6c5a7c8a59e31364e488" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_32">
+        <c02 id="aspace_7697cbc13190d827620c2f49822b6337" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">3</container>
             <unittitle>Outreach Committee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997/1998">1997-1998</unitdate>
+            <unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate>
+            <container id="aspace_bb6d22597c2744a470919a7214bf30fb" label="Mixed Materials" type="Box">3 (4-Community Outreach)</container>
+            <container id="aspace_6d72e9d37e021e95268a4789a5177604" parent="aspace_bb6d22597c2744a470919a7214bf30fb" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_33">
+        <c02 id="aspace_619288ecd98c5b20e174966d8b9fdf26" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4</container>
             <unittitle>Outreach, De Fosses, Helen</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_467e7e77472a7e114a3703e2852537eb" label="Mixed Materials" type="Box">3 (4-Community Outreach)</container>
+            <container id="aspace_b1c8077b402e7da64cd613a8c0491e4a" parent="aspace_467e7e77472a7e114a3703e2852537eb" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_34">
+        <c02 id="aspace_58df20d30a3fb7d62dde93404a8f8b4f" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">5</container>
             <unittitle>Outreach, Education</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_e34f32df182baff0251fa53c26a39d9d" label="Mixed Materials" type="Box">3 (4-Community Outreach)</container>
+            <container id="aspace_33de2743c154e4e12aba607b5b547e40" parent="aspace_e34f32df182baff0251fa53c26a39d9d" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_35">
+        <c02 id="aspace_9c88a263c732dbe794b3b4f692a68ea6" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">6</container>
             <unittitle>Outreach, Immigrant Workers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994">1994</unitdate>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_8a63819c22eeb107784354cf8efca860" label="Mixed Materials" type="Box">3 (4-Community Outreach)</container>
+            <container id="aspace_0bd641a464239e4e3350a41428da12b5" parent="aspace_8a63819c22eeb107784354cf8efca860" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_36">
+        <c02 id="aspace_1fc242d02d67bb60a47cc41f436db447" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">7</container>
             <unittitle>Outreach, Labor</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1990">1988-1990</unitdate>
+            <unitdate normal="1988/1990" type="inclusive">1988-1990</unitdate>
+            <container id="aspace_6d967ee747f95206267f482fb0db94e8" label="Mixed Materials" type="Box">3 (4-Community Outreach)</container>
+            <container id="aspace_1b63786d5e7d70c467db42218c825dda" parent="aspace_6d967ee747f95206267f482fb0db94e8" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_37">
+        <c02 id="aspace_853066b0f74726918545c236ca0142fe" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">8</container>
             <unittitle>Outreach, Saratoga</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_f7230f57af0e83125f44c4cf50867076" label="Mixed Materials" type="Box">3 (4-Community Outreach)</container>
+            <container id="aspace_22157c6b03fd8b918ce3e46de5d2190d" parent="aspace_f7230f57af0e83125f44c4cf50867076" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_38">
+        <c02 id="aspace_7b8c377c6483c6bd2066d57ebb1fad58" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">9</container>
             <unittitle>Outreach, Schenectady</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/2000">Undated</unitdate>
+            <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
+            <container id="aspace_debc2ba1836b4b78fe93fb68a1d1c5bd" label="Mixed Materials" type="Box">3 (4-Community Outreach)</container>
+            <container id="aspace_291e2fa2296bd0fa56f42c053df64310" parent="aspace_debc2ba1836b4b78fe93fb68a1d1c5bd" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_39">
+        <c02 id="aspace_24a29ea75bcfc3f8606ed1c65b0ace29" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">10</container>
             <unittitle>Outreach, Siena College</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992">1992</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_43a1b62da75004de7f321a3a9bf926db" label="Mixed Materials" type="Box">3 (4-Community Outreach)</container>
+            <container id="aspace_0cb1913d3b181f93f5c4b236ca4b4899" parent="aspace_43a1b62da75004de7f321a3a9bf926db" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_40">
+        <c02 id="aspace_b2cef426efd63c66f25dda013e0eabf3" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">11</container>
             <unittitle>Outreach, Siena College, Building Networks Conference</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995">1995</unitdate>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_e3c61cf9d7dc59d8ec828d8b30e105c0" label="Mixed Materials" type="Box">3 (4-Community Outreach)</container>
+            <container id="aspace_769afd5ad377a4f7c7e6b86b61fb1ebc" parent="aspace_e3c61cf9d7dc59d8ec828d8b30e105c0" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_41">
+        <c02 id="aspace_8a195c13b898c65c18367b93f316ca47" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">12</container>
             <unittitle>Outreach, South Bronx Franklin Men’s Shelter</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_4dc153df819afc569122a339c1300373" label="Mixed Materials" type="Box">3 (4-Community Outreach)</container>
+            <container id="aspace_01301928adb96e6618bf77d8905a36b3" parent="aspace_4dc153df819afc569122a339c1300373" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_42">
+        <c02 id="aspace_9a1eec3ea7917f6e175735040919b192" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">13</container>
             <unittitle>Public Relations, EOP Owners Manual</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996/1997">1996-1997</unitdate>
+            <unitdate normal="1996/1997" type="inclusive">1996-1997</unitdate>
+            <container id="aspace_aa012b2b808f6d06859b35360814175c" label="Mixed Materials" type="Box">3 (4-Community Outreach)</container>
+            <container id="aspace_b20c55feb65ce2eef88c32235175ee1d" parent="aspace_aa012b2b808f6d06859b35360814175c" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-4_43">
+        <c02 id="aspace_5ecbf826b08322fb76a5d5ea30c9460a" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">14</container>
             <unittitle>Welfare Warriors</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993/1994">1993-1994</unitdate>
+            <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_afafb4b07a2fdda5579ec422228bb06f" label="Mixed Materials" type="Box">3 (4-Community Outreach)</container>
+            <container id="aspace_0d1cacf82982bce4b6b4d46d782d7ed3" parent="aspace_afafb4b07a2fdda5579ec422228bb06f" type="Folder">14</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap120-5">
+      <c01 id="aspace_e1eba5fc56ebc8ccafd805c0d2734cc7" level="series">
         <did>
+          <unittitle>Albany County Opportunity Inc.</unittitle>
           <unitid>5</unitid>
-          <unittitle label="Series">Albany County Opportunity Inc.</unittitle>
-          <unitdate type="inclusive" normal="1967/1973">1967-1973</unitdate>
-          <unitdate type="inclusive" normal="1967/2000">Undated</unitdate>
+          <unitdate normal="1967/1973" type="inclusive">1967-1973</unitdate>
+          <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
         </did>
-        <c02 id="nam_apap120-5_1">
+        <c02 id="aspace_6fe74f5a02f09c1b973f0943e4b2c6b1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Board of Directors</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/1973">1967-1973</unitdate>
+            <unitdate normal="1967/1973" type="inclusive">1967-1973</unitdate>
+            <container id="aspace_62a750a06e5303eb08192df5268edd80" label="Mixed Materials" type="Box">1 (5-Albany County Opportunity Inc.)</container>
+            <container id="aspace_ad4be75bbd0a5855eb4acf2e82464003" parent="aspace_62a750a06e5303eb08192df5268edd80" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-5_2">
+        <c02 id="aspace_b343cb070452fb50d03fd65cf4f31aa5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>By-laws, Tentative and Approved</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966">1966</unitdate>
+            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_1bf76fd93a5c9a043ed61c5ebaf84307" label="Mixed Materials" type="Box">1 (5-Albany County Opportunity Inc.)</container>
+            <container id="aspace_617b7d8b72f95169077d0fbe82ebea12" parent="aspace_1bf76fd93a5c9a043ed61c5ebaf84307" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-5_3">
+        <c02 id="aspace_63054c6c9475a56c59ae13b0483fedf4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Consumer Credit Union Proposal</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965/1968">1965-1968</unitdate>
+            <unitdate normal="1965/1968" type="inclusive">1965-1968</unitdate>
+            <container id="aspace_22df4de6d5639ab66573dd1dc4c008f9" label="Mixed Materials" type="Box">1 (5-Albany County Opportunity Inc.)</container>
+            <container id="aspace_5540244462d04cef91a0209b6d9b64c7" parent="aspace_22df4de6d5639ab66573dd1dc4c008f9" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-5_4">
+        <c02 id="aspace_a2660af8064486290120bb98c1e8db3a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Council of Community Services of the Albany Area Inc.</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">1967</unitdate>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_7240b9c8bfa0bb9ba243f4a1ac193390" label="Mixed Materials" type="Box">1 (5-Albany County Opportunity Inc.)</container>
+            <container id="aspace_eaeb108fa95314153ff7221ea5eb7a5a" parent="aspace_7240b9c8bfa0bb9ba243f4a1ac193390" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap120-5_5">
+        <c02 id="aspace_84b6b4a7fa6f9a0a6bc63a014d06532f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Year Round Head Start</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968">1968</unitdate>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_459a9c0bfb73f8fe0608fb5b9d1d8844" label="Mixed Materials" type="Box">1 (5-Albany County Opportunity Inc.)</container>
+            <container id="aspace_972fe7d5aaa248a1415ad30b11afa632" parent="aspace_459a9c0bfb73f8fe0608fb5b9d1d8844" type="Folder">5</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap120-6">
+      <c01 id="aspace_18b9a547f8641d590fbc6f8e4be34898" level="series">
         <did>
+          <unittitle>Loan Case Files [RESTRICTED]</unittitle>
           <unitid>6</unitid>
-          <unittitle label="Series">Loan Case Files [RESTRICTED]</unittitle>
-          <unitdate type="inclusive" normal="1984/1997">1984-1997</unitdate>
-          <unitdate type="inclusive" normal="1967/2000">Undated</unitdate>
+          <unitdate normal="1984/1997" type="inclusive">1984-1997</unitdate>
+          <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
         </did>
-        <scopecontent>
-          <p>Access to Series 6 is restricted. No client name, client business name, telephone number, 
-		  address or personal data can be made public for at least 50 years (2051 A.D.). Data may be 
-		  aggregated for research purposes. Consult a staff member for further information. </p>
+        <scopecontent id="aspace_9741bd4252fddc9928d924ceff8ef64a">
+          <head>Scope and Contents</head>
+          <p>Access to Series 6 is restricted. No client name, client business name, telephone number, address or personal data can be made public for at least 50 years (2051 A.D.). Data may be aggregated for research purposes. Consult a staff member for further information.</p>
         </scopecontent>
-        <accessrestrict>
+        <accessrestrict id="aspace_3ca14c64995cd75aa9243a5daee186c3">
+          <head>Conditions Governing Access</head>
           <p>Access Restricted until 2051.</p>
         </accessrestrict>
-        <c02 id="nam_apap120-6_1">
+        <c02 id="aspace_26c01dd166a54976a55e1c7c5e2d60ad" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">10-12</container>
             <unittitle>House Rental Informational Pamphlets [RESTRICTED]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/2000">Undated</unitdate>
+            <unitdate normal="1967/2000" type="inclusive">Undated</unitdate>
+            <container id="aspace_d8c3ed6edf0d960a06eda46ea07a4a19" label="Mixed Materials" type="Box">4 (6-Loan Case Files [RESTRICTED])</container>
+            <container id="aspace_ee304cbce3ece731c7b6fa2d5c5ccbfe" parent="aspace_d8c3ed6edf0d960a06eda46ea07a4a19" type="Folder">10-12</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_57338013821012fa2b8e39713970efc1">
+            <head>Conditions Governing Access</head>
             <p>Access Restricted until 2051.</p>
           </accessrestrict>
         </c02>

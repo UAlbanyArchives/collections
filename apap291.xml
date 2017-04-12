@@ -1,85 +1,89 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap291">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/apap291.html">nam_apap291</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap291">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap291.xml">apap291</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>ROBERT GROSS PAPERS (APAP291)<date normal="1985-2006" type="inclusive">1985-2006</date></titleproper>
+        <titleproper>Gross, Robert; Papers <num>apap291</num></titleproper>
         <author>unprocessed</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2015" type="publication">Copyright 2015 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2015</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Jodi Boyle<date normal="2015">2015</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 15:19:57 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2014">2014</date>
+        <date>2014</date>
         <item>EAD file created</item>
+      </change>
+      <change>
+        <date>2015</date>
+        <item>Encoded in EAD by Jodi Boyle</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap291</unitid>
-      <unittitle>Robert Gross Papers<unitdate normal="1985-2006" type="inclusive">1985-2006</unitdate></unittitle>
-      <abstract label="Abstract:">This collection includes records created during Robert Gross' work with the National Coalition to Abolish the Death Penalty, Journey of Hope, Lighting the Torch of Conscience, and other activities in opposition to the death penalty.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <persname encodinganalog="100" source="local">Gross, Robert</persname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">11.4</extent>
-      </physdesc>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Robert Gross Papers<unitdate normal="1985/2006" type="inclusive">1985-2006</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="local">Gross, Robert</persname>
+      </origination>
+      <unitid>apap291</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">11.4 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_8f9c8835dcca90e98bd5837238492d39">This collection includes records created during Robert Gross' work with the National Coalition to Abolish the Death Penalty, Journey of Hope, Lighting the Torch of Conscience, and other activities in opposition to the death penalty.</abstract>
+      <langmaterial id="aspace_15eadbc95da4475b0f0845239c2fd084">English</langmaterial>
+      <physloc id="aspace_e59213198124ef96ed1e3717125cd1b8">The materials are located onsite in the department.</physloc>
+      <container id="aspace_6eddae8ac7ec8e78060c8c18c5f9c865" label="Mixed Materials" type="Collection">X</container>
     </did>
-    <controlaccess>
-      <subject source="meg" encodinganalog="650">Death Penalty</subject>
-    </controlaccess>
-    <bioghist>
+    <processinfo id="aspace_bcbe19201755e3a2813a757f6b803c95">
+      <head>Processing Information</head>
+      <p>Processed in 2015 by unprocessed.</p>
+    </processinfo>
+    <bioghist id="aspace_a895d0c21ba9696a4884af97514ebbb9">
       <head>Biographical History</head>
       <p>Robert Gross is a death penalty abolitionist who has worked with the National Coalition to Abolish the Death Penalty (NCADP), where he served as associate director, Journey of Hope, Lighting the Torch of Conscience, and other organizations in opposition to capital punishment.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_3b5da86af1eaf88778673c4db18b313f">
+      <head>Scope and Contents</head>
       <p>The records were created during Robert Gross' work with the National Coalition to Abolish the Death Penalty (NCADP), Journey of Hope, Lighting the Torch of Conscience, and other activities in opposition to the death penalty. The NCADP leads and coordinates the movement to end state killing in the United States. Its 120 member organizations include civil and human rights groups, legal advocacy and public interest groups, and virtually every major church or religious denomination in the country. Journey of Hope...from Violence to Healing is an organization that is led by murder victims' family members. It conducts public education speaking tours and addresses alternatives to the death penalty. </p>
-      <p>The collection includes: NCADP state files, programs, and organizations; Journey of Hope...From Violence to Healing administrative files, videotapes, photographs, and press packets related to speaking tours; and material from the Lighting the Torch of Conscience march in 1990.</p>
+      <p> The collection includes: NCADP state files, programs, and organizations; Journey of Hope...From Violence to Healing administrative files, videotapes, photographs, and press packets related to speaking tours; and material from the Lighting the Torch of Conscience march in 1990.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_e7d32f0d2c247373f18532eb36889f51">
       <head>Arrangement of the Collection</head>
       <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_0c7e15da38dccfc0079bcda920b57264">
       <head>Acquisition Information</head>
       <p>Bob Gross donated this collection to the M.E. Grenander Department of Special Collections &amp; Archives.<date normal="2007">2007</date></p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_df28e39e45e5b430d96cf29b591f04f0">
       <head>Access</head>
       <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. While it is likely that portions of the collection may be viewed, access must be managed by an archivist.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_b4c5366480c070263de4dd4e85d99925">
       <head>Copyright</head>
       <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_dec6b85b29e1b96b0d017768b70b3d59">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Robert Gross Papers, 1985-2006. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Gross Papers).</p>
+      <p> Identification of specific item, series, box, folder, Robert Gross Papers, 1985-2006. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Gross Papers).</p>
     </prefercite>
+    <controlaccess>
+      <subject source="meg">Death Penalty</subject>
+    </controlaccess>
+    <dsc/>
   </archdesc>
 </ead>

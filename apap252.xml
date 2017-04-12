@@ -1,638 +1,516 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap252">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap252.xml" identifier="##">nam_apap252</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap252">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap252.xml">apap252</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>CLARENCE E. HANCOCK PAPERS (APAP252)<date normal="1929/1946" type="inclusive">1929-1946</date></titleproper>
+        <titleproper>Hancock, Clarence; Papers <num>apap252</num></titleproper>
         <author>Samantha Brown</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2013">Copyright 2013 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2013</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Samantha Brown<date normal="2013">2013</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 15:27:17 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2013</date>
+        <item>Encoded in EAD by Samantha Brown</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>CLARENCE E. HANCOCK PAPERS (APAP252)<date normal="1929/1946" type="inclusive">1929-1946</date>
-      </titleproper>
-      <publisher>Samantha Brown</publisher>
-      <date type="publication">2013</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap252</unitid>
-      <unittitle encodinganalog="245">Clarence E. Hancock Papers <unitdate type="inclusive" encodinganalog="245$f" normal="1929/1946" label="Date:">1929-1946</unitdate>
-      </unittitle>
-      <physdesc label="Physical Characteristics:">
-        <extent unit="cubic ft.">2.0</extent>
-      </physdesc>
-      <origination>
-        <persname encodinganalog="100" source="lcsh">Hancock, Clarence Eugene, 1885-1948</persname>
-      </origination>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">The Clarence Eugene Hancock Papers document Hancock's time in the
-        House of Representatives in the United States Congress. He was the representative of the
-        35th District of New York from 1927 to 1945 but came to represent the 36th district from
-        1945 to 1947 after New York State was redistricted. The collection includes correspondence,
-        newspaper clippings, Congressional bills, transcripts of Congressional hearings, telegrams,
-        and handwritten notes.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Clarence E. Hancock Papers<unitdate normal="1929/1946" type="inclusive">1929-1946</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="lcsh">Hancock, Clarence Eugene, 1885-1948</persname>
+      </origination>
+      <unitid>apap252</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.0 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_4ba75468590ccc24e027a3750bed40ba">The Clarence Eugene Hancock Papers document Hancock's time in the House of Representatives in the United States Congress. He was the representative of the 35th District of New York from 1927 to 1945 but came to represent the 36th district from 1945 to 1947 after New York State was redistricted. The collection includes correspondence, newspaper clippings, Congressional bills, transcripts of Congressional hearings, telegrams, and handwritten notes.</abstract>
+      <langmaterial id="aspace_7c5e348a993e33e6a662c5dd515260a8">English</langmaterial>
+      <physloc id="aspace_f1c4203e792074d2c807418899c1dffd">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_4aa4b829765d75470e71f838c0b17ed8">
+      <head>Processing Information</head>
+      <p>Processed in 2013 by Samantha Brown.</p>
+    </processinfo>
+    <accessrestrict id="aspace_5ff34a9b767aecb0779acd08d9537732">
       <head>Access</head>
-      <p> Access to this record group is unrestricted. </p>
+      <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_a88cbbfe3a0e74c6ad1854fcf7f1cac9">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_8444e6e08b786f33481f716637a09838">
       <head>Acquisition Information</head>
-      <p>The Clarence Hancock Papers were originally donated to Syracuse University on September 21,
-        1962 by Hancock's wife and son. The papers were transferred to M.E. Grenander Department of
-        Special Collections at the State University of New York, Albany in 2006.</p>
+      <p>The Clarence Hancock Papers were originally donated to Syracuse University on September 21, 1962 by Hancock's wife and son. The papers were transferred to M.E. Grenander Department of Special Collections at the State University of New York, Albany in 2006.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_6bd38a363e2245c8e22259b89b4b2079">
       <head>Biographical Sketch</head>
-      <p>Clarence Eugene Hancock was born in Syracuse, NY on February 13, 1885 to Theodore E. and
-        Martha Hancock. After public school, Hancock attended Wesleyan University in Middletown
-        Connecticut until his graduation in 1906. Hancock graduated from New York Law School in 1908
-        and was admitted to the bar in the same year. Once he was admitted to the bar, he began to
-        practice law in Syracuse. From 1916-1917, Hancock served as a sergeant with Troop D of the
-        First New York Cavalry, also known as New York National Guard, on the Mexican border.
-        Hancock next served as a lieutenant with the 104th Machine Gun Battalion in the 27th
-        division during World War One. After the armistice in 1918, Hancock was assigned to work as
-        Assistant Division Judge Advocate and promoted to the rank of captain. Hancock continued to
-        serve in the military until 1919.</p>
-      <p>After finishing his military service, Hancock returned home and became part of the
-        corporation counsel of Syracuse from 1926-1927 and a trustee of Wesleyan University. During
-        this period, Hancock ran in the Republican primary for mayor of Syracuse but lost the
-        nomination. Then, during the 70th Congress, the current representative of the 35th district,
-        Walter W. Magee, died in office leaving his position open. Voters elected Hancock to fill
-        Magee's position in 1927 and he continued to serve as representative of the 35th district
-        until 1945 when there was re-districting. Hancock was then elected as the representative of
-        the 36th district from 1945-1947. While in Congress, Hancock served on the Judicial
-        Committee, Naval Affairs Committee, and Elections No. 1 Committee. Along with this, he was
-        chairman of the speaker's bureau of the Republican Congressional Committee and head of the
-        Eastern Speaker's Bureau in 1936. Hancock was part of the opposition to President Franklin
-        D. Roosevelt's New Deal plan.</p>
-      <p>Hancock did not seek reelection in 1946 for the next session of Congress because of a long
-        time illness and the recommendation of his doctor that he should rest. After leaving
-        Congress, Hancock returned to Syracuse to practice law but died in a hospital in Washington
-        D.C. a year later on January 3, 1948. He was survived by his wife, Emily W. Shonk of
-        Plymouth, Pennsylvania, whom he married in 1912, and son, John S. Hancock, born in 1914. He
-        is buried in Woodland Cemetery in Syracuse.</p>
-      <p> The information provided above was gleaned from the following sources<list type="simple"><item>" C.E. Hancock Dead; Ex-Congressman, 6. " New York Times 4 Jan
-              (1948):52. ProQuest Historical Newspapers: The New York Times (1851-2009) with Index
-              (1851-1993). ProQuest. SUNY Albany Library. 24 Feb. 2013
-              (http://search.proquest.com/docview/108168688?accountid=14166)</item><item>Curran, Thomas J. "Legislative Manuel: New York 1944." Williams Press,
-              Inc: Albany, 1944.</item><item>Curran, Thomas J. " The New York red book, 1942 : an illustrated publication
-              containing authentic information relating to the executive, legislative, judicial and
-              political affairs of the State " Williams Press, inc : Albany, 1942.</item><item>Flynn, Edward J. " Legislative Manuel: New York 1933. " Williams Pres,
-              Inc: Albany. 1933</item><item>" Hancock, Clarence Eugene 1885 – 1948. " History, Art, and
-              Archives: United States House of Representatives House.gov. 24 Feb. 2013
-              (http://history.house.gov/People/Detail/14463?ret=True)</item><item>" Interstate Phase of the Insurance Bill. " New York Times 7 Nov.
-              (1943):S10. ProQuest Historical Newspapers: The New York Times (1851-2009) with Index
-              (1851-1993). ProQuest. SUNY Albany Library. 24 Feb. 2013
-              (http://search.proquest.com/docview/106438954?accountid=14166)</item><item>" Moses Leads Against Seabury; Marvin is Gaining. " New York Times 28
-              Sept. (1934):1. ProQuest Historical Newspapers: The New York Times (1851-2009) with
-              Index (1851-1993). ProQuest. SUNY Albany Library. 24 Feb. 2013
-              (http://search.proquest.com/docview/101150417?accountid=14166)</item><item> " New Yorkers Assigned. " New York Times 13 Dec. (1927):3. ProQuest
-              Historical Newspapers: The New York Times (1851-2009) with Index (1851-1993).
-              ProQuest. SUNY Albany Library. 24 Feb. 2013
-              (http://search.proquest.com/docview/104033877?accountid=14166)</item><item>" Old Guard Leaders Rout Macy Forces, Overthrow Seen. " New York Times
-              13 Sept. (1934):1. ProQuest Historical Newspapers: The New York Times (1851-2009) with
-              Index (1851-1993). ProQuest. SUNY Albany Library. 24 Feb. 2013
-              (http://search.proquest.com/docview/101183210?accountid=14166)</item><item>" Politics Charged in Deficit Figures. " New York Times 3 Sept.
-              (1936):12. ProQuest Historical Newspapers: The New York Times (1851-2009) with Index
-              (1851-1993). ProQuest. SUNY Albany Library. 24 Feb. 2013
-              (http://search.proquest.com/docview/101645991?accountid=14166)</item><item>" Snell Skeptical of ' No New Taxes '. " New York Times 19
-              Aug.. (1936):13. ProQuest Historical Newspapers: The New York Times (1851-2009) with
-              Index (1851-1993). ProQuest. SUNY Albany Library. 24 Feb. 2013
-              (http://search.proquest.com/docview/101811994?accountid=14166)</item><item>" Union League Asks War on New Deal. " New York Times 14 Sept. (1934):1.
-              ProQuest Historical Newspapers: The New York Times (1851-2009) with Index (1851-1993).
-              ProQuest. SUNY Albany Library. 24 Feb. 2013
-              (http://search.proquest.com/docview/100993787?accountid=14166)</item><item>Walsh, Michael " Legislative Manuel: New York 1942. " Williams Pres,
-              Inc: Albany, 1942.</item><item>" 1942 Election Statistics " Office of the Clerk, House of
-              Representatives. Clerk.house.gov. 25 Feb. 2013
-              (http://clerk.house.gov/member_info/electioninfo/1942election.pdf)</item><item>" 1944 Election Statistics " Office of the Clerk, House of
-              Representatives. Clerk.house.gov. 25 Feb. 2013
-              (http://clerk.house.gov/member_info/electioninfo/1944election.pdf)</item></list>
-        </p>
+      <p>Clarence Eugene Hancock was born in Syracuse, NY on February 13, 1885 to Theodore E. and Martha Hancock. After public school, Hancock attended Wesleyan University in Middletown Connecticut until his graduation in 1906. Hancock graduated from New York Law School in 1908 and was admitted to the bar in the same year. Once he was admitted to the bar, he began to practice law in Syracuse. From 1916-1917, Hancock served as a sergeant with Troop D of the First New York Cavalry, also known as New York National Guard, on the Mexican border. Hancock next served as a lieutenant with the 104th Machine Gun Battalion in the 27th division during World War One. After the armistice in 1918, Hancock was assigned to work as Assistant Division Judge Advocate and promoted to the rank of captain. Hancock continued to serve in the military until 1919.</p>
+      <p> After finishing his military service, Hancock returned home and became part of the corporation counsel of Syracuse from 1926-1927 and a trustee of Wesleyan University. During this period, Hancock ran in the Republican primary for mayor of Syracuse but lost the nomination. Then, during the 70th Congress, the current representative of the 35th district, Walter W. Magee, died in office leaving his position open. Voters elected Hancock to fill Magee's position in 1927 and he continued to serve as representative of the 35th district until 1945 when there was re-districting. Hancock was then elected as the representative of the 36th district from 1945-1947. While in Congress, Hancock served on the Judicial Committee, Naval Affairs Committee, and Elections No. 1 Committee. Along with this, he was chairman of the speaker's bureau of the Republican Congressional Committee and head of the Eastern Speaker's Bureau in 1936. Hancock was part of the opposition to President Franklin D. Roosevelt's New Deal plan.</p>
+      <p> Hancock did not seek reelection in 1946 for the next session of Congress because of a long time illness and the recommendation of his doctor that he should rest. After leaving Congress, Hancock returned to Syracuse to practice law but died in a hospital in Washington D.C. a year later on January 3, 1948. He was survived by his wife, Emily W. Shonk of Plymouth, Pennsylvania, whom he married in 1912, and son, John S. Hancock, born in 1914. He is buried in Woodland Cemetery in Syracuse.</p>
+      <p>  The information provided above was gleaned from the following sources</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>Clarence Hancock was a New York State Representative in the United States Congress from
-        1927-1947. His collection includes correspondence, newspaper clippings, Congressional bills,
-        transcripts of Congressional hearings, telegrams, and handwritten notes. Much of the
-        correspondence is from constituents and fellow Congressmen, and discusses their opinions
-        about a particular bill and the actions they want taken. The collection covers Hancock's
-        official actions as a New York Congressional Representative from 1933-1946 and does not
-        include personal papers or records of his legislative actions from 1934, 1936, 1938 or 1947.
-        Please note that no papers about Hancock's work outside of Congress or the work he conducted
-        as part of the Naval Affairs or Elections Committees are included in this collection. Some
-        areas of interest in the files include the Equal Rights Amendment, Anti-Trust laws,
-        Submerged Oil Lands, War and Emergency Powers, and Bankruptcy hearings.</p>
-      <p>The majority of the file names are names that Hancock assigned them based on handwritten
-        slips of paper the archivist found within the original folders in the collection. If there
-        was no paper indicating the file's name, the archivist chose a name based on the subject of
-        the records. All the files are arranged alphabetically. Within the files, items are arranged
-        based on the year of their creation.</p>
+    <scopecontent id="aspace_f2657ffd9da576d3fd273cd2f1a9326e">
+      <head>Scope and Contents</head>
+      <p>Clarence Hancock was a New York State Representative in the United States Congress from 1927-1947. His collection includes correspondence, newspaper clippings, Congressional bills, transcripts of Congressional hearings, telegrams, and handwritten notes. Much of the correspondence is from constituents and fellow Congressmen, and discusses their opinions about a particular bill and the actions they want taken. The collection covers Hancock's official actions as a New York Congressional Representative from 1933-1946 and does not include personal papers or records of his legislative actions from 1934, 1936, 1938 or 1947. Please note that no papers about Hancock's work outside of Congress or the work he conducted as part of the Naval Affairs or Elections Committees are included in this collection. Some areas of interest in the files include the Equal Rights Amendment, Anti-Trust laws, Submerged Oil Lands, War and Emergency Powers, and Bankruptcy hearings.</p>
+      <p> The majority of the file names are names that Hancock assigned them based on handwritten slips of paper the archivist found within the original folders in the collection. If there was no paper indicating the file's name, the archivist chose a name based on the subject of the records. All the files are arranged alphabetically. Within the files, items are arranged based on the year of their creation.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_228b1e7f2d4145567bd7f9dfa8a045cc">
       <head>Arrangement of the Collection</head>
       <p>The collection is arranged alphabetically. There are no series.</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-           Try to give as many access points as you can to increase the chances of 
-           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-           to comment them out! -->
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Politics and Politicians</subject>
-      <persname encodinganalog="600" source="lcsh">Hancock, Clarence Eugene, 1885-1948</persname>
-      <corpname encodinganalog="610" source="lcsh">United States. Congress. House.</corpname>
-      <corpname encodinganalog="610" source="lcsh">United States. Congress. House. Committee on the
-        Judiciary.</corpname>
-      <subject encodinganalog="650" source="lcsh">Bankruptcy--United States</subject>
-      <subject encodinganalog="650" source="lcsh">Insurance--United States.</subject>
-      <subject encodinganalog="650" source="lcsh">Court rules--United States.</subject>
-      <subject encodinganalog="650" source="lcsh">War and emergency powers--United
-        States--History.</subject>
-      <geogname encodinganalog="651" source="lcsh">New York (State)--Politics and
-        government</geogname>
-      <genreform encodinganalog="655" source="aat">Bills (legislative records)</genreform>
-      <genreform encodinganalog="655" source="aat">Clippings</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Notes</genreform>
-      <genreform encodinganalog="655" source="aat">Drafts (documents)</genreform>
-      <genreform encodinganalog="655" source="aat">Transcripts</genreform>
-      <genreform encodinganalog="655" source="aat">Legislative records</genreform>
-      <genreform encodinganalog="655" source="aat">Congressional Committee Reports</genreform>
-    </controlaccess>
-    <prefercite encodinganalog="524">
+    <prefercite id="aspace_61a1842b4318eb2c5c96cd7221f6d9b0">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Clarence Eugene Hancock
-        Papers,1929-1946. M.E. Grenander Department of Special Collections and Archives, University
-        Libraries, University at Albany, State University of New York (hereafter referred to as the
-        Hancock Papers).</p>
+      <p> Identification of specific item, series, box, folder, Clarence Eugene Hancock Papers,1929-1946. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Hancock Papers).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_apap252-1">
+    <controlaccess>
+      <subject source="meg">Politics and Politicians</subject>
+      <subject source="lcsh">Bankruptcy--United States</subject>
+      <subject source="lcsh">Insurance--United States.</subject>
+      <subject source="lcsh">Court rules--United States.</subject>
+      <subject source="lcsh">War and emergency powers--United States--History.</subject>
+      <geogname source="lcsh">New York (State)--Politics and government</geogname>
+      <genreform source="aat">Bills (legislative records)</genreform>
+      <genreform source="aat">Clippings</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Notes</genreform>
+      <genreform source="aat">Drafts (documents)</genreform>
+      <genreform source="aat">Transcripts</genreform>
+      <genreform source="aat">Legislative Records</genreform>
+      <genreform source="aat">Congressional committee reports</genreform>
+      <persname source="lcsh">Hancock, Clarence Eugene, 1885-1948</persname>
+      <corpname source="lcsh">United States. Congress. House.</corpname>
+      <corpname source="lcsh">United States. Congress. House. Committee on the Judiciary.</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_c62a4adadaf488612051ec2fbbf9c695" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1-2</container>
           <unittitle>Acts</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941/1946">1941-1946</unitdate>
+          <unitdate normal="1941/1946" type="inclusive">1941-1946</unitdate>
+          <container id="aspace_7bca2bc337f1a53401fc96b1cce58b33" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_31cdef517c679c1d0d0eb16b2fe4d84b" parent="aspace_7bca2bc337f1a53401fc96b1cce58b33" type="Folder">1-2</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-2">
+      <c01 id="aspace_2adc0980d4d55544aea0af8e2a50946d" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>Administrative Law Bill</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
+          <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+          <container id="aspace_2d2e1ce7459b04f5b5305a725c889247" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_9acb89969513b2cae84574403eccf2f3" parent="aspace_2d2e1ce7459b04f5b5305a725c889247" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-3">
+      <c01 id="aspace_db2f4af5ef02bc33097e543f246481da" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Admission of Evidence</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1944">1944</unitdate>
+          <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+          <container id="aspace_4071978e9bd520374249b259725349b1" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_b473ca727225584b4fc85d6628245b63" parent="aspace_4071978e9bd520374249b259725349b1" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-4">
+      <c01 id="aspace_27d2ea15bf68f2c6463701b3fe980fba" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Alien Publication Act</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940">1940</unitdate>
+          <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
+          <container id="aspace_a047ee400b3a984240896aa04ce299d9" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_f2d7ca5964fd0023986dc573e17bc87e" parent="aspace_a047ee400b3a984240896aa04ce299d9" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-5">
+      <c01 id="aspace_8cecd32c0594e0dd09c5dc55e52c77d8" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Anti-Racketeering Act</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943">1943</unitdate>
+          <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
+          <container id="aspace_df9f75cf0e6dbc6da7479a6ed17d5b08" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_e54559452583c4eaa009176222764f47" parent="aspace_df9f75cf0e6dbc6da7479a6ed17d5b08" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-6">
+      <c01 id="aspace_b32a7b29e09ec4bc12185345e239ee07" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Anti-Trust Laws</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941">1941</unitdate>
+          <unitdate normal="1941/1941" type="inclusive">1941</unitdate>
+          <container id="aspace_3f9fb4b2d44a7877cf2cccb6c4e75b5b" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_be60f40fad5a0ae7fe46ac75ae018f26" parent="aspace_3f9fb4b2d44a7877cf2cccb6c4e75b5b" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-7">
+      <c01 id="aspace_74112d0ecea24f21c8b29195ca8228f8" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
-          <unittitle>Bankruptcy – Misc</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1933">1933</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1946">Undated</unitdate>
+          <unittitle>Bankruptcy â Misc</unittitle>
+          <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
+          <unitdate normal="1929/1946" type="inclusive">Undated</unitdate>
+          <container id="aspace_c8d2a976edb968a5e1cbb9e474ab93a0" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_61ee9fe5e6a170d57f35e321a9e7decb" parent="aspace_c8d2a976edb968a5e1cbb9e474ab93a0" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-8">
+      <c01 id="aspace_cfb6fd7e3eafe5acfcf25ae1aef27ade" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Civil Air Patrol</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945/1946">1945-1946</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1946">Undated</unitdate>
+          <unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate>
+          <unitdate normal="1929/1946" type="inclusive">Undated</unitdate>
+          <container id="aspace_8f47e2f35eacdac9b360a214b3f5e64e" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_75f64acd0b624033c1c453e5b7bcab29" parent="aspace_8f47e2f35eacdac9b360a214b3f5e64e" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-9">
+      <c01 id="aspace_c719830283943691c14222821ec53e12" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Civilian Defense Compensation</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1942">1942</unitdate>
+          <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
+          <container id="aspace_4e0cbd32eff211bbbb7eb2b007395cc3" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_f99b3e13afca5b09b87c2a8e4633f25b" parent="aspace_4e0cbd32eff211bbbb7eb2b007395cc3" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-10">
+      <c01 id="aspace_9ad68d46ff5e022b7356b12742aeffa2" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Committee on the Judiciary</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
+          <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+          <container id="aspace_b5651695cc5c889339c07f1ba99e974b" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_0d3887d3c6330252c2f3b2e99206845f" parent="aspace_b5651695cc5c889339c07f1ba99e974b" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-11">
+      <c01 id="aspace_1a934d9889c6610d1b03b7d03a7dcd20" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">12</container>
           <unittitle>Committee on Juror Selection</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1942">1942</unitdate>
+          <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
+          <container id="aspace_af647c4ace40ad78e2e45178230bb7b5" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_b5118fa4729971192418f9f5f4f8b71e" parent="aspace_af647c4ace40ad78e2e45178230bb7b5" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-12">
+      <c01 id="aspace_eacfb430e42a826198afd0c09eebad4b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">13</container>
           <unittitle>Court Activities Report</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943">1943</unitdate>
+          <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
+          <container id="aspace_bcd84e6c5b437d3f989bc4204781eaf8" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_e0b37dafc1ce0830ed74613ebac6ff98" parent="aspace_bcd84e6c5b437d3f989bc4204781eaf8" type="Folder">13</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-13">
+      <c01 id="aspace_bbb366ab742ddbf54123a506d1df1340" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">14</container>
           <unittitle>Court Appropriations</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943">1943</unitdate>
+          <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
+          <container id="aspace_da9e41118490e85f3e693940e24a057f" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_5bd1fb6406edaf0039d6a128ad2c2e87" parent="aspace_da9e41118490e85f3e693940e24a057f" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-14">
+      <c01 id="aspace_42ca1e0cacaa8df5030892598f71fbd9" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">15</container>
           <unittitle>Court Reorganization</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937">1937</unitdate>
+          <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+          <container id="aspace_0b8421d7e61804f56b7726870835dfc5" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_1c3f00f9a08cd512077d75cb5a68fb5c" parent="aspace_0b8421d7e61804f56b7726870835dfc5" type="Folder">15</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-15">
+      <c01 id="aspace_313934307f476e867ac82b91fa19b741" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">16-18</container>
           <unittitle>Court Reporters</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1935/1936">1935-1936</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1939">1939</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941/1945">1941-1945</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1946">Undated</unitdate>
+          <unitdate normal="1935/1936" type="inclusive">1935-1936</unitdate>
+          <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+          <unitdate normal="1941/1945" type="inclusive">1941-1945</unitdate>
+          <unitdate normal="1929/1946" type="inclusive">Undated</unitdate>
+          <container id="aspace_2a1c44696b63a7091dd4567455f4be8e" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_f546291e928ffbd24e0d79e5a388cd54" parent="aspace_2a1c44696b63a7091dd4567455f4be8e" type="Folder">16-18</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-16">
+      <c01 id="aspace_fa45fa45bbc83d1496eea5149856e687" level="otherlevel">
         <did>
-          <container type="Flat-File">1</container>
           <unittitle>Court Reporters</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1946">Undated</unitdate>
+          <unitdate normal="1929/1946" type="inclusive">Undated</unitdate>
+          <container id="aspace_f54ffb2a7caf218b71c746c3354c4751" label="Mixed Materials" type="Flat-File">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-17">
+      <c01 id="aspace_ff52b8ab048dd23985b33441558253b3" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">19</container>
           <unittitle>Cox Committee</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943">1943</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
+          <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
+          <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+          <container id="aspace_0084bd5e214e8da12eaa3fc980bbac8c" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_036779db877c4116dae6dce508d53eea" parent="aspace_0084bd5e214e8da12eaa3fc980bbac8c" type="Folder">19</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-18">
+      <c01 id="aspace_1c1ec61337b2c8f1b32764913abc337f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">20</container>
           <unittitle>Disqualification of Judges</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1946">Undated</unitdate>
+          <unitdate normal="1929/1946" type="inclusive">Undated</unitdate>
+          <container id="aspace_5748242c4a1145d5dec68262a47da325" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_88898d23441db01dad543bdf7e2b5f6a" parent="aspace_5748242c4a1145d5dec68262a47da325" type="Folder">20</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-19">
+      <c01 id="aspace_f299a64ce269a167c1d0719d2ddcd511" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">21-24</container>
           <unittitle>Equal Rights Amendment</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937">1937</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1939">1939</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1942/1945">1942-1945</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1946">Undated</unitdate>
+          <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+          <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+          <unitdate normal="1942/1945" type="inclusive">1942-1945</unitdate>
+          <unitdate normal="1929/1946" type="inclusive">Undated</unitdate>
+          <container id="aspace_ba3e8747775ffae082bb9f9ccb8a0e6a" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_ed5548b4921236fd789345eb2e3b8d2f" parent="aspace_ba3e8747775ffae082bb9f9ccb8a0e6a" type="Folder">21-24</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-20">
+      <c01 id="aspace_e1f92df80458cf31599163c5941db973" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">25</container>
           <unittitle>Government Employee Loans</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940">1940</unitdate>
+          <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
+          <container id="aspace_83f75f8287731bfd543adb7651fe36e3" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_ae5f7d0c0c0f2c23deffae8e8ca62cfa" parent="aspace_83f75f8287731bfd543adb7651fe36e3" type="Folder">25</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-21">
+      <c01 id="aspace_f6109203d2b7ec946b6630afeb2d9e9a" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">26</container>
           <unittitle>Gwynne Bill-HR 2788</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945/1946">1945-1946</unitdate>
+          <unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate>
+          <container id="aspace_009cd9c5159e54b3b7d2086b509b7469" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_ff36916d670545c0c8e5aa8eeb7f1399" parent="aspace_009cd9c5159e54b3b7d2086b509b7469" type="Folder">26</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-22">
+      <c01 id="aspace_c9a5766432adfb2de28ab9cbbdb16d9d" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">27-28</container>
           <unittitle>Harrington Bill</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1939">1939</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1946">Undated</unitdate>
+          <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+          <unitdate normal="1929/1946" type="inclusive">Undated</unitdate>
+          <container id="aspace_10b2c4092b02d9748e4d9fe84fc115fa" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_ca60fe15fac0107d3c65a41c8afdc80b" parent="aspace_10b2c4092b02d9748e4d9fe84fc115fa" type="Folder">27-28</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-23">
+      <c01 id="aspace_6850270909ba5ec5c7e4439b2b07f6bc" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">29</container>
           <unittitle>Hatch Bill</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1939/1940">1939-1940</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1942">1942</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945">1945</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1946">Undated</unitdate>
+          <unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate>
+          <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
+          <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+          <unitdate normal="1929/1946" type="inclusive">Undated</unitdate>
+          <container id="aspace_46061dd37802562a61d29e8ecd8f0ecc" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_c9be6613cda41e5ddc4f12374c2515a0" parent="aspace_46061dd37802562a61d29e8ecd8f0ecc" type="Folder">29</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-24">
+      <c01 id="aspace_97d5815e7eb1db9531e4b4de31952751" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">30-31</container>
           <unittitle>Insurance Bill HR3269</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1944">1943-1944</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1946">Undated</unitdate>
+          <unitdate normal="1943/1944" type="inclusive">1943-1944</unitdate>
+          <unitdate normal="1929/1946" type="inclusive">Undated</unitdate>
+          <container id="aspace_f1b322d39d777b14301794e8ba3bf965" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_87acb411ae7fcb290dd9d53344c3f25e" parent="aspace_f1b322d39d777b14301794e8ba3bf965" type="Folder">30-31</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-25">
+      <c01 id="aspace_a259c57be13ff0e3f5c4008ac7309a8b" level="otherlevel">
         <did>
-          <container type="Flat-File">2</container>
           <unittitle>Insurance Bill HR3269</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943">1943</unitdate>
+          <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
+          <container id="aspace_1fcc7c711c868eb6b11a3e4fa67d66fd" label="Mixed Materials" type="Flat-File">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-26">
+      <c01 id="aspace_4a034e6cabe71b7efead00f8d74a67b8" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">32</container>
           <unittitle>Insurance Bill HR3270</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1944">1943-1944</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1946">Undated</unitdate>
+          <unitdate normal="1943/1944" type="inclusive">1943-1944</unitdate>
+          <unitdate normal="1929/1946" type="inclusive">Undated</unitdate>
+          <container id="aspace_d1bd38922f4a01feda7e31e691f686dd" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_b3c49743789aefca079569f15f07a839" parent="aspace_d1bd38922f4a01feda7e31e691f686dd" type="Folder">32</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-27">
+      <c01 id="aspace_385a3d8bc09e8b0327c2d218c5b311d2" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">33</container>
           <unittitle>Insurance Bill (1945)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1944/1945">1944-1945</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1946">Undated</unitdate>
+          <unitdate normal="1944/1945" type="inclusive">1944-1945</unitdate>
+          <unitdate normal="1929/1946" type="inclusive">Undated</unitdate>
+          <container id="aspace_938dbe9a6675c016767cddaa8045b825" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_4234244141aecac10b60c56b0b75d62f" parent="aspace_938dbe9a6675c016767cddaa8045b825" type="Folder">33</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-28">
+      <c01 id="aspace_39120d13016185bf4860e44ecd899a00" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">34</container>
           <unittitle>Insurance Bill</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1945">1943-1945</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1946">Undated</unitdate>
+          <unitdate normal="1943/1945" type="inclusive">1943-1945</unitdate>
+          <unitdate normal="1929/1946" type="inclusive">Undated</unitdate>
+          <container id="aspace_db739ed0cea177a2b024c2c2648518e7" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_5f5749ed06597ae093924d623f77d771" parent="aspace_db739ed0cea177a2b024c2c2648518e7" type="Folder">34</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-29">
+      <c01 id="aspace_1accf44ad59e59f370c91cdeaa17a70f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">35</container>
           <unittitle>Judicial Salaries</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945">1945</unitdate>
+          <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+          <container id="aspace_d3c6576f22dc8ed4ea1063225409c6e8" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_4b4b583d4edc73d3343d07059196ffd7" parent="aspace_d3c6576f22dc8ed4ea1063225409c6e8" type="Folder">35</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-30">
+      <c01 id="aspace_6cebc550d8e48db06d2a4a6f22e90d94" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">36</container>
           <unittitle>Kefauver Bill</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945/1946">1945-1946</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1946">Undated</unitdate>
+          <unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate>
+          <unitdate normal="1929/1946" type="inclusive">Undated</unitdate>
+          <container id="aspace_06a21ec369c7c4313885b780e24bfa34" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_4e691ada61d429e34c68bddc8ca800c6" parent="aspace_06a21ec369c7c4313885b780e24bfa34" type="Folder">36</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-31">
+      <c01 id="aspace_b314a68fe89a0efdf2709dd6f34004be" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">37</container>
           <unittitle>Military Order of the Purple Heart</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
+          <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+          <container id="aspace_8b2e68515b252fa6b5ca6cb9cadece72" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_8b23e736832444c244b386bfd962cb96" parent="aspace_8b2e68515b252fa6b5ca6cb9cadece72" type="Folder">37</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-32">
+      <c01 id="aspace_0a5a512429ce0c0c51f3b72f7ee7028c" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">38</container>
           <unittitle>Miller-Tydings Bill</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937">1937</unitdate>
+          <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+          <container id="aspace_1f18b0f6a4ac57b7deaf4215218298f4" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_6d4850d951f5912829ce3a27113af6fd" parent="aspace_1f18b0f6a4ac57b7deaf4215218298f4" type="Folder">38</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-33">
+      <c01 id="aspace_538fe0f47f5faff5585adbdf44dc9812" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">39</container>
           <unittitle>Municipal Bankruptcy Bill</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937">1937</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1946">Undated</unitdate>
+          <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+          <unitdate normal="1929/1946" type="inclusive">Undated</unitdate>
+          <container id="aspace_ed1ae691b29b436eef40e8d9dbf708e5" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_765278f467169cba84dddb47039c9301" parent="aspace_ed1ae691b29b436eef40e8d9dbf708e5" type="Folder">39</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-34">
+      <c01 id="aspace_fc351e1bd9e120fa97fbf2423aa5e04c" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">40</container>
           <unittitle>National Stolen Property Act</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940">1940</unitdate>
+          <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
+          <container id="aspace_7eb1fa235e04a952a72d671c0e2ca8ba" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_003de343496bd64b97eb6248454e801c" parent="aspace_7eb1fa235e04a952a72d671c0e2ca8ba" type="Folder">40</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-35">
+      <c01 id="aspace_8c27c9485d0b93625e4229324a91d412" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">41</container>
           <unittitle>Railroad Reorganization (74th Congress)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1935">1935</unitdate>
+          <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+          <container id="aspace_05a0cc9e43c639b2112327625105044d" label="Mixed Materials" type="Box">1 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_a14f066aa7178f23c511680d07916484" parent="aspace_05a0cc9e43c639b2112327625105044d" type="Folder">41</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-36">
+      <c01 id="aspace_802402604bc1478d5358fa32def0c0c9" level="otherlevel">
         <did>
-          <container type="Flat-File">3</container>
           <unittitle>Railroad Reorganization</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945">1945</unitdate>
+          <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+          <container id="aspace_210ef5b633ab9ae0c8782ca9d56f5ee5" label="Mixed Materials" type="Flat-File">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-37">
+      <c01 id="aspace_30d2c646d72dfe79e029ef1b50f30025" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">1</container>
           <unittitle>Railroad Reorganization</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945/1946">1945-1946</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1946">Undated</unitdate>
+          <unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate>
+          <unitdate normal="1929/1946" type="inclusive">Undated</unitdate>
+          <container id="aspace_88203d017090245c79f87c829fc0f6fc" label="Mixed Materials" type="Box">2 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_e6b1621c8473aba3fb89dec45c40debf" parent="aspace_88203d017090245c79f87c829fc0f6fc" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-38">
+      <c01 id="aspace_9a082046107b59528a12581ff6a7b1b8" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">2-5</container>
-          <unittitle>Receivership and Bankruptcy, Record of Hearing (H. Res 145, Report No.203), Vol
-            1.</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1946">Undated</unitdate>
+          <unittitle>Receivership and Bankruptcy, Record of Hearing (H. Res 145, Report No.203), Vol 1.</unittitle>
+          <unitdate normal="1929/1946" type="inclusive">Undated</unitdate>
+          <container id="aspace_96704e3e16f3a1d0cf5055d13a4efbb4" label="Mixed Materials" type="Box">2 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_41e4c72b536e73094dc4b7f30ffda56e" parent="aspace_96704e3e16f3a1d0cf5055d13a4efbb4" type="Folder">2-5</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-39">
+      <c01 id="aspace_e0d9a73731e3b7aedc2df09a9bd0f25c" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">6-7</container>
-          <unittitle>Receivership and Bankruptcy, Record of Hearing (H. Res 145, Report No.203), Vol
-            2.</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1946">Undated</unitdate>
+          <unittitle>Receivership and Bankruptcy, Record of Hearing (H. Res 145, Report No.203), Vol 2.</unittitle>
+          <unitdate normal="1929/1946" type="inclusive">Undated</unitdate>
+          <container id="aspace_2d628ab4171439de354fa13d4b1fd53a" label="Mixed Materials" type="Box">2 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_1d001ebbca0fc747528fc0669d122d2f" parent="aspace_2d628ab4171439de354fa13d4b1fd53a" type="Folder">6-7</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-40">
+      <c01 id="aspace_342675f19f6c389ca40eda5f6d413dbe" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">8-11</container>
-          <unittitle>Receivership and Bankruptcy, Record of Hearing (H. Res 145, Report No.203), Vol
-            3</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1946">Undated</unitdate>
+          <unittitle>Receivership and Bankruptcy, Record of Hearing (H. Res 145, Report No.203), Vol 3</unittitle>
+          <unitdate normal="1929/1946" type="inclusive">Undated</unitdate>
+          <container id="aspace_d1b7b81701ef9e75ae7073e63e049d45" label="Mixed Materials" type="Box">2 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_7d1d3da4e6b277bcd3d0f15a339335f1" parent="aspace_d1b7b81701ef9e75ae7073e63e049d45" type="Folder">8-11</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-41">
+      <c01 id="aspace_4369e646d7c536dc304f4975c9d1110c" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">12-13</container>
           <unittitle>Receivership and Bankruptcy</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1933">1929-1933</unitdate>
+          <unitdate normal="1929/1933" type="inclusive">1929-1933</unitdate>
+          <container id="aspace_1656355cca7a0d6005517796bdadaaf0" label="Mixed Materials" type="Box">2 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_885b989ea61b86a191fc78162544c2a8" parent="aspace_1656355cca7a0d6005517796bdadaaf0" type="Folder">12-13</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-42">
+      <c01 id="aspace_825f4438e411d88c15b50b14b19ffc4f" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">14</container>
           <unittitle>Second War Powers Act</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945/1946">1945-1946</unitdate>
+          <unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate>
+          <container id="aspace_6229e8f137f581bfc71d4851b024659e" label="Mixed Materials" type="Box">2 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_493be9a87433e3695b5b8af6c8ea82ce" parent="aspace_6229e8f137f581bfc71d4851b024659e" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-43">
+      <c01 id="aspace_78316b9fc1e8fb37b73a066449bbec6e" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">15</container>
           <unittitle>Second War Powers Bill</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941/1942">1941-1942</unitdate>
+          <unitdate normal="1941/1942" type="inclusive">1941-1942</unitdate>
+          <container id="aspace_4216322b55bf7c92df4f614f7c2da366" label="Mixed Materials" type="Box">2 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_cce909a9f219d4cad27eb4c3c0538eaf" parent="aspace_4216322b55bf7c92df4f614f7c2da366" type="Folder">15</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-44">
+      <c01 id="aspace_aecd407c4ba69ab3b070565e3a2c856a" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">16</container>
           <unittitle>Submerged Oil Lands</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1939">1939</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945">1945</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1946">Undated</unitdate>
+          <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+          <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+          <unitdate normal="1929/1946" type="inclusive">Undated</unitdate>
+          <container id="aspace_b5c67f781368750234ff9662130b25cf" label="Mixed Materials" type="Box">2 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_182c1ba3ea96ef4974643128ff635e0b" parent="aspace_b5c67f781368750234ff9662130b25cf" type="Folder">16</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-45">
+      <c01 id="aspace_a6f4ec5a4c44121fc5faf11275fea96e" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">17</container>
           <unittitle>Termination of Temporary Laws</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1946">Undated</unitdate>
+          <unitdate normal="1929/1946" type="inclusive">Undated</unitdate>
+          <container id="aspace_43c06af4836a3657617be4880c301d9b" label="Mixed Materials" type="Box">2 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_c39ded50938ce58244738ad3adb7ba8c" parent="aspace_43c06af4836a3657617be4880c301d9b" type="Folder">17</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-46">
+      <c01 id="aspace_57ce0d353f6359c7f30a3dc65cdc88db" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">18</container>
           <unittitle>Tort Claims</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940">1940</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1942">1942</unitdate>
+          <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
+          <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
+          <container id="aspace_8b77407ba17327c7498d313da82fc75f" label="Mixed Materials" type="Box">2 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_f8a308b7531a48aaf15c95aff3c5f626" parent="aspace_8b77407ba17327c7498d313da82fc75f" type="Folder">18</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-47">
+      <c01 id="aspace_ccc2307900d804ad98f3f745fd420d68" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">19</container>
           <unittitle>War Contracts Termination</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1944">1944</unitdate>
+          <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+          <container id="aspace_2de9b0bd82874f9c7c4b4db4caad9609" label="Mixed Materials" type="Box">2 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_341bafca64a4eafd96a9871830f60fcc" parent="aspace_2de9b0bd82874f9c7c4b4db4caad9609" type="Folder">19</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-48">
+      <c01 id="aspace_9bde244218cd8e67f1a2954285de642a" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">20</container>
           <unittitle>Wilcox Bill</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1933">1933</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1946">Undated</unitdate>
+          <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
+          <unitdate normal="1929/1946" type="inclusive">Undated</unitdate>
+          <container id="aspace_4d8af33238bb809a3a7322015f97bb6d" label="Mixed Materials" type="Box">2 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_5d0e3545c20d87dd083c1e13e852f60b" parent="aspace_4d8af33238bb809a3a7322015f97bb6d" type="Folder">20</container>
         </did>
       </c01>
-      <c01 id="nam_apap252-49">
+      <c01 id="aspace_45ae80980847032bd17c68aa5e5ddfa4" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">21</container>
           <unittitle>Wire Tapping</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1942">1942</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1946">Undated</unitdate>
+          <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
+          <unitdate normal="1929/1946" type="inclusive">Undated</unitdate>
+          <container id="aspace_46efa4cba26254fa896ab5433b9867e0" label="Mixed Materials" type="Box">2 (Clarence E. Hancock Papers )</container>
+          <container id="aspace_eb91b81795f1aac5a04981dc3f1cc338" parent="aspace_46efa4cba26254fa896ab5433b9867e0" type="Folder">21</container>
         </did>
       </c01>
     </dsc>

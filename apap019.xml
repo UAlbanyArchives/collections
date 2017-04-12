@@ -1,266 +1,213 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap019">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap019.xml" identifier="##">nam_apap019</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap019">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap019.xml">apap019</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>GREATER GLENS FALLS (N.Y.) CENTRAL LABOR COUNCIL AFLCIO RECORDS (APAP019)<date normal="1959/1990" type="inclusive">1959, 1969, 1977-1979, 1981-1990</date></titleproper>
-        <author>Geoffrey A. Huth </author>
+        <titleproper>Greater Glens Falls (N.Y.) Central Labor Council, AFL-CIO; Records <num>apap019</num></titleproper>
+        <author>Geoffrey A. Huth</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="1989">Copyright 1989 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>1989</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Michael Corcione<date normal="2014">2014</date>
-			</creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 13:36:34 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Encoded in EAD by Michael Corcione</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>GREATER GLENS FALLS (N.Y.) CENTRAL LABOR COUNCIL AFLCIO RECORDS (APAP019)<date normal="1959/1990" type="inclusive">1959, 1969, 1977-1979, 1981-1990</date></titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">1989</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap019</unitid>
-      <unittitle>Greater Glens Falls (N.Y.) Central Labor Council AFL-CIO Records<unitdate type="inclusive" normal="1959/1990" label="Date:"> 1959, 1969, 1977-1979, 1981-1990</unitdate></unittitle>
-      <origination>
-        <corpname encodinganalog="110" source="local">Greater Glens Falls (N.Y.) Central Labor Council AFL-CIO</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
+      </repository>
+      <unittitle>Greater Glens Falls (N.Y.) Central Labor Council AFL-CIO Records<unitdate normal="1959/1990" type="inclusive">1959, 1969, 1977-1979, 1981-1990</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">Greater Glens Falls (N.Y.) Central Labor Council AFL-CIO</corpname>
       </origination>
-      <physdesc>
-        <extent unit="cubic ft.">0.17</extent>
+      <unitid>apap019</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.17 cubic ft.</extent>
         <physfacet>processed to date</physfacet>
       </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
-      </repository>
-      <abstract label="Abstract:">The Greater Glens Falls (N.Y.) Central Labor Council document the history of their council, which was formed in 1959.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <abstract id="aspace_ca37b5b32dffe3ab71195494f34d505b">The Greater Glens Falls (N.Y.) Central Labor Council document the history of their council, which was formed in 1959.</abstract>
+      <langmaterial id="aspace_c8a947a835251f8b691ccf8ce6db39d3">English</langmaterial>
+      <physloc id="aspace_02ad164899789905e16fa02599ef2260">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_fbb847ef5f4af7ccd558aecd2a86203e">
+      <head>Processing Information</head>
+      <p>Processed in 1989 by Geoffrey A. Huth .</p>
+    </processinfo>
+    <accessrestrict id="aspace_1ce3801886d4da0c523a19f385b92c16">
       <head>Access</head>
-      <p> Access to this record group is unrestricted with the exception of one folder, which is
-        marked. </p>
+      <p>Access to this record group is unrestricted with the exception of one folder, which is marked.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_b69405df8253c8c377ec69580269fd06">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_17c70d00f731a37c900506c02f7d269e">
       <head>Acquisition Information</head>
-      <p> All items in this manuscript group were lent to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by the Greater Glens Falls Central Labor Council, AFL-CIO and photocopied onto acid-free paper. The originals have been returned to the Labor Council.</p>
+      <p>All items in this manuscript group were lent to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by the Greater Glens Falls Central Labor Council, AFL-CIO and photocopied onto acid-free paper. The originals have been returned to the Labor Council.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_c9d0f1eb85b74d6c8fe9c01458dcf3ab">
       <head>Administrative History</head>
-      <p>A labor council was organized in Glens Falls, NY, in 1901. The first 
-  AFL-CIO charter was issued for the council in 1959. At this time, the 
-  organization was called the Glens Falls, New York, Trades &amp; Labor Assembly, 
-  AFL-CIO. The charter was amended in 1969 when the labor council became 
-  the Greater Glens Falls, New York, Central Labor Council. However, the 
-  council continued to use the name Glens Falls Trades &amp; Labor Council at 
-  least through 1979. </p>
-      <p>In the mid-1980's, the labor council initiated a drive to reinvigorate itself, 
-  especially by increasing the number of its affiliates. The council was 
-  not always successful in convincing labor union locals to join; nevertheless, 
-  its growth was quite rapid. A merger between the Glens Falls Central Labor 
-  Council and that for Saratoga County was considered in the 1980's, but the president 
-  of the Glens Falls council announced in 1988 that the merger was no longer being 
-  contemplated, ostensibly because the Glens Falls council had had the "largest 
-  growth of any council in the U.S." and had no need to merge. </p>
-      <p>As with any labor council, the Greater Glens Falls Central Labor Council is 
-  a group of labor union locals which have joined together to share information 
-  about labor activities (especially in their area) and to develop strategies 
-  for coordinated union action. Activities of the labor council include 
-  picketing assistance in the Glens Falls area, coordinating political action, 
-  and lending moral and financial support to labor union locals on strike. </p>
+      <p>A labor council was organized in Glens Falls, NY, in 1901. The first AFL-CIO charter was issued for the council in 1959. At this time, the organization was called the Glens Falls, New York, Trades &amp; Labor Assembly, AFL-CIO. The charter was amended in 1969 when the labor council became the Greater Glens Falls, New York, Central Labor Council. However, the council continued to use the name Glens Falls Trades &amp; Labor Council at least through 1979. </p>
+      <p> In the mid-1980's, the labor council initiated a drive to reinvigorate itself, especially by increasing the number of its affiliates. The council was not always successful in convincing labor union locals to join; nevertheless, its growth was quite rapid. A merger between the Glens Falls Central Labor Council and that for Saratoga County was considered in the 1980's, but the president of the Glens Falls council announced in 1988 that the merger was no longer being contemplated, ostensibly because the Glens Falls council had had the "largest growth of any council in the U.S." and had no need to merge. </p>
+      <p> As with any labor council, the Greater Glens Falls Central Labor Council is a group of labor union locals which have joined together to share information about labor activities (especially in their area) and to develop strategies for coordinated union action. Activities of the labor council include picketing assistance in the Glens Falls area, coordinating political action, and lending moral and financial support to labor union locals on strike.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>Merely the last dozen or so years of the Glens Falls Central Labor Council 
-  are documented by minutes, and the years with minutes often have significant 
-  gaps until the mid-1980's. However, the labor council sometimes canceled 
-  its December meeting, so the lack of a December meeting does not necessarily 
-  represent a gap. </p>
-      <p>Best documented in these records is the rise of this labor council from a small 
-  and virtually dormant labor council into an expanding and politically active 
-  council. The methods used by the labor council to achieve advances towards 
-  its goals become obvious: these primarily consist of contacts with politicians, 
-  the media, and other labor union organizations. As the council expanded, 
-  its reach expanded, so that it was not just interested in local and regional 
-  matters (though those predominate), but also was often actively helping locals 
-  across the country. </p>
-      <p>These copies of the records of the Greater Glens Falls Central Labor Council 
-  were photocopied onto acid-free paper from the originals held by the labor council. 
-  The originals were returned to the labor council. </p>
+    <scopecontent id="aspace_4600a7114f87176964ad6e1c907414b3">
+      <head>Scope and Contents</head>
+      <p>Merely the last dozen or so years of the Glens Falls Central Labor Council are documented by minutes, and the years with minutes often have significant gaps until the mid-1980's. However, the labor council sometimes canceled its December meeting, so the lack of a December meeting does not necessarily represent a gap. </p>
+      <p> Best documented in these records is the rise of this labor council from a small and virtually dormant labor council into an expanding and politically active council. The methods used by the labor council to achieve advances towards its goals become obvious: these primarily consist of contacts with politicians, the media, and other labor union organizations. As the council expanded, its reach expanded, so that it was not just interested in local and regional matters (though those predominate), but also was often actively helping locals across the country. </p>
+      <p> These copies of the records of the Greater Glens Falls Central Labor Council were photocopied onto acid-free paper from the originals held by the labor council. The originals were returned to the labor council.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_af2bb0a152aa07367839f189667e13cc">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized alphabetically. There are no series.</p>
     </arrangement>
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Labor</subject>
-      <corpname encodinganalog="610" source="local">Greater Glens Falls (N.Y.) Central Labour Council</corpname>
-      <subject encodinganalog="650" source="lcsh">Union</subject>
-      <subject encodinganalog="650" source="lcsh">Glens Falls NY</subject>
-      <geogname encodinganalog="651" source="lcsh">New York (State)--Labour Council</geogname>
-      <genreform encodinganalog="655" source="aat">Minutes</genreform>
-    </controlaccess>
-    <prefercite>
+    <prefercite id="aspace_fefffb3ea7054fd0e47259c74e202d2b">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Greater Glens Falls (N.Y.) Central Labor Council AFL-CIO Records,  1959, 1969, 1977-1979, 1981-1990. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, Greater Glens Falls (N.Y.) Central Labor Council AFL-CIO Records, 1959, 1969, 1977-1979, 1981-1990. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_apap019-1">
+    <controlaccess>
+      <subject source="meg">Labor</subject>
+      <subject source="lcsh">Union</subject>
+      <subject source="lcsh">Glens Falls NY</subject>
+      <geogname source="lcsh">New York (State)--Labour Council</geogname>
+      <genreform source="aat">Minutes</genreform>
+      <corpname source="local">Greater Glens Falls (N.Y.) Central Labour Council</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_d7aac8ac2bc27543e66904c3035a98ee" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>Charters</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959">1959</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969">1969</unitdate>
+          <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+          <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+          <container id="aspace_73c4ee22c4d5ae71c6c8f71acf0d497f" label="Mixed Materials" type="Box">1 (Greater Glens Falls (N.Y.) Central Labor Council A)</container>
+          <container id="aspace_2733cf843cf66a6724212d43ec744318" parent="aspace_73c4ee22c4d5ae71c6c8f71acf0d497f" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap019-2">
+      <c01 id="aspace_5282d03daf5222c22297b43c3db887a5" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Constitution</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973/1983">circa 1978</unitdate>
+          <unitdate normal="1973/1983" type="inclusive">circa 1978</unitdate>
+          <container id="aspace_b38d269356e78c8b9536ad40e79a6e07" label="Mixed Materials" type="Box">1 (Greater Glens Falls (N.Y.) Central Labor Council A)</container>
+          <container id="aspace_582ed4430f69643605c2f7f2e788f0fe" parent="aspace_b38d269356e78c8b9536ad40e79a6e07" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap019-3">
+      <c01 id="aspace_e5d0a9c686194cd5ef65ee696a7438dd" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>Correspondence</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1979">1977-1979</unitdate>
+          <unitdate normal="1977/1979" type="inclusive">1977-1979</unitdate>
+          <container id="aspace_9de916c1f49b431c8fdf34b553a5cb1f" label="Mixed Materials" type="Box">1 (Greater Glens Falls (N.Y.) Central Labor Council A)</container>
+          <container id="aspace_699f1cf08305aa441ef565937745642c" parent="aspace_9de916c1f49b431c8fdf34b553a5cb1f" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap019-4">
+      <c01 id="aspace_fd54847171a6cfd7d74306c6d614bb11" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977">1977</unitdate>
+          <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+          <container id="aspace_c5cb79243d24f4cdf9f4d2431f978f95" label="Mixed Materials" type="Box">1 (Greater Glens Falls (N.Y.) Central Labor Council A)</container>
+          <container id="aspace_782e5b118262963f14390a41627324f0" parent="aspace_c5cb79243d24f4cdf9f4d2431f978f95" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap019-5">
+      <c01 id="aspace_b0e28a64686d011482289a6659282bb6" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
+          <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+          <container id="aspace_5c20da7230ce0a0c94198074b26d35a8" label="Mixed Materials" type="Box">1 (Greater Glens Falls (N.Y.) Central Labor Council A)</container>
+          <container id="aspace_f96f77707e0f3c134126787ca6dfc1bf" parent="aspace_5c20da7230ce0a0c94198074b26d35a8" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap019-6">
+      <c01 id="aspace_8ff051ecaf177456489c221c2b9e8d93" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
+          <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+          <container id="aspace_54f9c6bc60c22d85d31cbb0fd4dfe699" label="Mixed Materials" type="Box">1 (Greater Glens Falls (N.Y.) Central Labor Council A)</container>
+          <container id="aspace_296d5b5b6d00b0af4597263c7cc5a152" parent="aspace_54f9c6bc60c22d85d31cbb0fd4dfe699" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap019-7">
+      <c01 id="aspace_787debf8afc71c155961ec5320ebce5d" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981 (includes a report on a statewide legislative meeting of labor leaders)</unitdate>
+          <unitdate normal="1981/1981" type="inclusive">1981 (includes a report on a statewide legislative meeting of labor leaders)</unitdate>
+          <container id="aspace_d0f0ee690fbbaa99471f5bf776474601" label="Mixed Materials" type="Box">1 (Greater Glens Falls (N.Y.) Central Labor Council A)</container>
+          <container id="aspace_7e1f0a4b7966d06e9365346332973533" parent="aspace_d0f0ee690fbbaa99471f5bf776474601" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_apap019-8">
+      <c01 id="aspace_c4ce330c11187cef2fd5ac010920ee33" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+          <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+          <container id="aspace_13db850c2fb72006f2ede8c9e3e6c283" label="Mixed Materials" type="Box">1 (Greater Glens Falls (N.Y.) Central Labor Council A)</container>
+          <container id="aspace_066721268acffacab5e8180df9885a8f" parent="aspace_13db850c2fb72006f2ede8c9e3e6c283" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_apap019-9">
+      <c01 id="aspace_8fa6027ed02064b92fafeee86a534ca1" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+          <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+          <container id="aspace_98a38542f4a7b2528f89bbccaab93b52" label="Mixed Materials" type="Box">1 (Greater Glens Falls (N.Y.) Central Labor Council A)</container>
+          <container id="aspace_528832453fd9d0dc9674f8e8c2d9f5e4" parent="aspace_98a38542f4a7b2528f89bbccaab93b52" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_apap019-10">
+      <c01 id="aspace_b82adb2335d0d8290ac0b3f81e74338b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+          <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+          <container id="aspace_64481bfc1a16efe19318246f22db4bb8" label="Mixed Materials" type="Box">1 (Greater Glens Falls (N.Y.) Central Labor Council A)</container>
+          <container id="aspace_7630b287ebf44821042ea1611e46e96e" parent="aspace_64481bfc1a16efe19318246f22db4bb8" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_apap019-11">
+      <c01 id="aspace_07b9e312e483ce96da09c6fc9d4cddfb" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+          <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+          <container id="aspace_9f26c5d3ebf2a292afd784ac7f6742db" label="Mixed Materials" type="Box">1 (Greater Glens Falls (N.Y.) Central Labor Council A)</container>
+          <container id="aspace_9ceb7e6d4aebdcdec954700c7b26a3c1" parent="aspace_9f26c5d3ebf2a292afd784ac7f6742db" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_apap019-12">
+      <c01 id="aspace_b5bae85f3bc059c4cad2aa9cbe160580" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">12</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
+          <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+          <container id="aspace_582cb71a696c723ef29abe73ff1c1db1" label="Mixed Materials" type="Box">1 (Greater Glens Falls (N.Y.) Central Labor Council A)</container>
+          <container id="aspace_83d6b320accf00e0c4a8a8ea2000a44e" parent="aspace_582cb71a696c723ef29abe73ff1c1db1" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_apap019-13">
+      <c01 id="aspace_e9bcccb3de6d2e2e34a8301563a9293e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">13</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+          <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+          <container id="aspace_75035c2648e747ae87f7c50b2f2d0d40" label="Mixed Materials" type="Box">1 (Greater Glens Falls (N.Y.) Central Labor Council A)</container>
+          <container id="aspace_e4e074cb7d321a9255175e8a4d65496f" parent="aspace_75035c2648e747ae87f7c50b2f2d0d40" type="Folder">13</container>
         </did>
       </c01>
-      <c01 id="nam_apap019-14">
+      <c01 id="aspace_404e13898e3d1d0daaef43a95198e1e4" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">14</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989">1989</unitdate>
+          <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+          <container id="aspace_1e57b576915539aa87347a754263b1a5" label="Mixed Materials" type="Box">1 (Greater Glens Falls (N.Y.) Central Labor Council A)</container>
+          <container id="aspace_44b5fd3578589b76d81fdbd9198f1e49" parent="aspace_1e57b576915539aa87347a754263b1a5" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_apap019-15">
+      <c01 id="aspace_ad48fc28f07b78249a04e6c5d1081804" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">15</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+          <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+          <container id="aspace_35ee47a62da4490f4281a7f960ea9181" label="Mixed Materials" type="Box">1 (Greater Glens Falls (N.Y.) Central Labor Council A)</container>
+          <container id="aspace_401929ebcc38f61b6895fc78b568de21" parent="aspace_35ee47a62da4490f4281a7f960ea9181" type="Folder">15</container>
         </did>
       </c01>
     </dsc>

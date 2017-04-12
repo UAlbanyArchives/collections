@@ -1,473 +1,414 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap013">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap013.xml" identifier="##">nam_apap013</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap013">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap013.xml">apap013</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>COLUMBIA COUNTY TYPOGRAPHICAL UNION NO. 896 RECORDS (APAP013)<date normal="1927/1968" type="inclusive">1927, 1936-1968</date></titleproper>
+        <titleproper>Columbia County Typographical Union, No. 896; Records <num>apap013</num></titleproper>
         <author>Geoffrey A. Huth</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2012">Copyright 2012 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2012</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Michael Carroll<date normal="2014">2014</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 13:34:34 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Encoded in EAD by Michael Carroll</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>COLUMBIA COUNTY TYPOGRAPHICAL UNION NO. 896 RECORDS (APAP013)<date normal="1927/1968" type="inclusive">1927, 1936-1968 </date></titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2012</date>
-      <p>For reference queries contact M.E. Grenander Department of Special Collections and Archives Reference staff or (518)-437-3935</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap013</unitid>
-      <unittitle>Columbia County Typographical Union No. 896 Records<unitdate type="inclusive" normal="1927/1968" label="Date:">1927, 1936-1968</unitdate></unittitle>
-      <origination>
-        <corpname encodinganalog="110" source="local">Typographical Union No. 896</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">0.66</extent>
-      </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">The Columbia County Typographical Union No. 896 
-	  records document the workings of this union from 1927-1968.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Columbia County Typographical Union No. 896 Records<unitdate normal="1927/1968" type="inclusive">1927, 1936-1968</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">Typographical Union No. 896</corpname>
+      </origination>
+      <unitid>apap013</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.66 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_e0d3e577327141339c8d1e63e1fedf36">The Columbia County Typographical Union No. 896 records document the workings of this union from 1927-1968.</abstract>
+      <langmaterial id="aspace_6619581f7f6ee8a55cd790dc26001e69">English</langmaterial>
+      <physloc id="aspace_118604d4d2155f1a46b9f2f6b9247a5a">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_73af9aca6b0209a0e61a346164e0c385">
+      <head>Processing Information</head>
+      <p>Processed in 2012 by Geoffrey A. Huth.</p>
+    </processinfo>
+    <accessrestrict id="aspace_d71c0b349abe38a677740ba02acfe5e8">
       <head>Access</head>
-      <p> Access to this record group is unrestricted.</p>
+      <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_891ece3c7abf3456985f8a4cc373845d">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright. Whenever 
-	  possible, the M.E. Grenander Department of Special Collections and Archives will provide information 
-	  about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. 
-	  Requests for permission to publish material from this collection should be discussed with the Head of Special 
-	  Collections and Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_94198db2ccb27613cf3d93f2030c670d">
       <head>Acquisition Information</head>
-      <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department 
-	  of Special Collections and Archives, by the Columbia County Typographical Union No. 896 on March 6, 1990.</p>
+      <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by the Columbia County Typographical Union No. 896 on March 6, 1990.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_1dddb68596c3fe841c51e566ff8bbfee">
       <head>Administrative History</head>
-      <p>The earliest typographical union in Hudson, N.Y., was the Hudson Typographical Union No. 531,
-		 chartered in 1902. That union is likely to have folded during the eight hour strike of 1906.
-		 During the 1920's, printers in Hudson had become acquainted with vacationing printers who were 
-		 members of Albany Typographical Union No. 4. With support from the members of No. 4, the Hudson
-		 printers were chartered as the Hudson Typographical Union No. 896 in 1925. 
-		 Unfortunately, the Great Depression arrived four years later, and the printers of No. 896 
-		 wanted to gain recognition as a bargaining agent. The International Typographical Union (ITU) 
-		 refused to allow the Hudson printers to go forward with this action during a time of such 
-		 financial havoc, and the members of No. 896 voted to surrender the charter, according to 
-		 the Empire State Typographical Conference, Program, 1961.</p>
-      <p>In 1936, William A. Weinlein, an international representative of the ITU and former president
-		 of Albany Typographical Union No. 4, began re-organization of the Hudson local. By the end 
-		 of that year, the local was re-chartered as Columbia County Typographical Union No. 896. 
-		 The union at first had trouble winning contracts in Hudson. In 1937, No. 896 struck one 
-		 publication after having little luck winning a contract, and was locked out of another 
-		 after refusing to set copy for the struck publication. The strike and lockout were over 
-		 after 11 days. The local slowly increased its numbers, adding shops in Chatham and Catskill
-		 in the 1950's, according to Ibid.</p>
-      <p>By the early 1960's, the local had begun to experience difficulties in administering a small
-		 union that had to fulfill the requirements of numerous labor laws and the regulations of the 
-		 ITU itself. Recognizing the difficulties encountered by smaller unions, the ITU had been 
-		 recommending that such unions seek to consolidate their forces with other locals. Younger members 
-		 of No. 896 were, unfortunately, not anxious to take on the duties of officers, so in 1963 the 
-		 local voted unanimously to begin negotiations to merge with Albany Typographical Union No. 4.,
-		 according to Letter, Edward T. Thompson (secretary of Columbia County Typographical Union No. 896) to 
-		 Albany Typographical Union No. 4. After three years of negotiations and planning, the Columbia County 
-		 Typographical Union No. 896 surrendered its charter and merged into Albany Typographical Union No. 4 
-		 in October 1966, according to Letter, Edward T. Thompson (former secretary of Columbia County 
-		 Typographical Union No. 896) to the Upper Hudson Area Central Labor Union Council, 
-		 AFL-CIO, Nov. 28, 1966.</p>
+      <p>The earliest typographical union in Hudson, N.Y., was the Hudson Typographical Union No. 531, chartered in 1902. That union is likely to have folded during the eight hour strike of 1906. During the 1920's, printers in Hudson had become acquainted with vacationing printers who were members of Albany Typographical Union No. 4. With support from the members of No. 4, the Hudson printers were chartered as the Hudson Typographical Union No. 896 in 1925. Unfortunately, the Great Depression arrived four years later, and the printers of No. 896 wanted to gain recognition as a bargaining agent. The International Typographical Union (ITU) refused to allow the Hudson printers to go forward with this action during a time of such financial havoc, and the members of No. 896 voted to surrender the charter, according to the Empire State Typographical Conference, Program, 1961.</p>
+      <p> In 1936, William A. Weinlein, an international representative of the ITU and former president of Albany Typographical Union No. 4, began re-organization of the Hudson local. By the end of that year, the local was re-chartered as Columbia County Typographical Union No. 896. The union at first had trouble winning contracts in Hudson. In 1937, No. 896 struck one publication after having little luck winning a contract, and was locked out of another after refusing to set copy for the struck publication. The strike and lockout were over after 11 days. The local slowly increased its numbers, adding shops in Chatham and Catskill in the 1950's, according to Ibid.</p>
+      <p> By the early 1960's, the local had begun to experience difficulties in administering a small union that had to fulfill the requirements of numerous labor laws and the regulations of the ITU itself. Recognizing the difficulties encountered by smaller unions, the ITU had been recommending that such unions seek to consolidate their forces with other locals. Younger members of No. 896 were, unfortunately, not anxious to take on the duties of officers, so in 1963 the local voted unanimously to begin negotiations to merge with Albany Typographical Union No. 4., according to Letter, Edward T. Thompson (secretary of Columbia County Typographical Union No. 896) to Albany Typographical Union No. 4. After three years of negotiations and planning, the Columbia County Typographical Union No. 896 surrendered its charter and merged into Albany Typographical Union No. 4 in October 1966, according to Letter, Edward T. Thompson (former secretary of Columbia County Typographical Union No. 896) to the Upper Hudson Area Central Labor Union Council, AFL-CIO, Nov. 28, 1966.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The records of Columbia County Typographical Union No. 896 offer complete documentation of the workings 
-		 of this union since 1936. Only a single item (a program from 1927 of the local's first annual banquet) exists
-		 from its years as Hudson Typographical Union No. 896. The minutes (1936-66) and contracts (1937-66) are complete.
-		 There is substantial correspondence (1941, 1948-50, 1955-56, 1959-67) as well, most of which is organized by 
-		 subject. The records of No. 896 represent a good source for studying the operation of a small union.</p>
-      <p>For related records, see the records of Albany Typographical Union No. 4 (APAP-007), into which the Columbia 
-		 County Typographical Union (APAP-013) merged in 1966. For other labor union records relating to Columbia County,
-		 New York, see the records of the Hudson Valley Area Joint Board of the Amalgamated Clothing and Textile Workers 
-		 Union (APAP-050); and the records of the International Union of Electronic, Electrical, Technical, Salaried and 
-		 Machine Workers (IUE), Local 379, Match Workers' Union (APAP-024). For additional labor collections in the 
-		 Department, see the online Labor subject guide.</p>
-      <p>Reproductions of items from this collection are available in the 
-		 exhibit Documenting Labor Inside and Out: Labor History in New York State's Capital District.</p>
+    <scopecontent id="aspace_7aa379caf910447fc7858c27d144fbc4">
+      <head>Scope and Contents</head>
+      <p>The records of Columbia County Typographical Union No. 896 offer complete documentation of the workings of this union since 1936. Only a single item (a program from 1927 of the local's first annual banquet) exists from its years as Hudson Typographical Union No. 896. The minutes (1936-66) and contracts (1937-66) are complete. There is substantial correspondence (1941, 1948-50, 1955-56, 1959-67) as well, most of which is organized by subject. The records of No. 896 represent a good source for studying the operation of a small union.</p>
+      <p> For related records, see the records of Albany Typographical Union No. 4 (APAP-007), into which the Columbia County Typographical Union (APAP-013) merged in 1966. For other labor union records relating to Columbia County, New York, see the records of the Hudson Valley Area Joint Board of the Amalgamated Clothing and Textile Workers Union (APAP-050); and the records of the International Union of Electronic, Electrical, Technical, Salaried and Machine Workers (IUE), Local 379, Match Workers' Union (APAP-024). For additional labor collections in the Department, see the online Labor subject guide.</p>
+      <p> Reproductions of items from this collection are available in the exhibit Documenting Labor Inside and Out: Labor History in New York State's Capital District.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_8cfe4f5d5280b15d0c98722b8b4eae05">
       <head>Arrangement of the Collection</head>
       <p>This collection is ordered alphabetically.</p>
     </arrangement>
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Labor</subject>
-      <corpname encodinganalog="610" source="local">Columbia County Typographical Union No. 896</corpname>
-      <subject encodinganalog="650" source="lcsh">Labor union locals--United States</subject>
-      <subject encodinganalog="650" source="lcsh">Albany Typographical Union No. 4 (Albany, N.Y.)</subject>
-      <subject encodinganalog="650" source="lcsh">Albany Typographical Union Number Four (Albany, N.Y.)</subject>
-      <geogname encodinganalog="651" source="lcsh">New York (State)</geogname>
-      <geogname encodinganalog="651" source="lcsh">Columbia County (N.Y.)</geogname>
-      <genreform encodinganalog="655" source="aat">Administrative records</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Minutes</genreform>
-      <genreform encodinganalog="655" source="aat">Photographs</genreform>
-      <genreform encodinganalog="655" source="aat">Pamphlets</genreform>
-    </controlaccess>
-    <prefercite>
+    <prefercite id="aspace_53440752dd0f2008b5d3e76381f5486d">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Columbia County Typographical Union No. 896 Records, 1927, 1936-1968. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, Columbia County Typographical Union No. 896 Records, 1927, 1936-1968. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_apap013-1">
+    <controlaccess>
+      <subject source="meg">Labor</subject>
+      <subject source="lcsh">Labor union locals--United States</subject>
+      <subject source="lcsh">Albany Typographical Union No. 4 (Albany, N.Y.)</subject>
+      <subject source="lcsh">Albany Typographical Union Number Four (Albany, N.Y.)</subject>
+      <geogname source="lcsh">New York (State)</geogname>
+      <geogname source="lcsh">Columbia County (N.Y.)</geogname>
+      <genreform source="aat">Administrative records</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Minutes</genreform>
+      <genreform source="aat">Photographs</genreform>
+      <genreform source="aat">Pamphlets</genreform>
+      <corpname source="local">Columbia County Typographical Union No. 896</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_0f269b22721b7fe4dde97a57a38a17e8" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>Address by Charles G. Alonge on Unionism</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1947">1947</unitdate>
+          <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+          <container id="aspace_5419ff6af1b13e3a0765965d0f0a0a10" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_21463f80f6318c22d3f4eda43f8ef0c6" parent="aspace_5419ff6af1b13e3a0765965d0f0a0a10" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-2">
+      <c01 id="aspace_aedbcb1f133a5f16ce3d07d75af241c4" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Annual Banquet, First</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1927">1927</unitdate>
+          <unitdate normal="1927/1927" type="inclusive">1927</unitdate>
+          <container id="aspace_51496f43153fa8d9ab1d74b642f8068d" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_4483f896c38a692f2f6b47c536f3fa2a" parent="aspace_51496f43153fa8d9ab1d74b642f8068d" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-3">
+      <c01 id="aspace_23f2803dbedd7153b67a67deef01511a" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>Annual Banquet, Fifteenth</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951">1951</unitdate>
+          <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+          <container id="aspace_9e6e0f407b5fce576d8b76634f687d68" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_641a043efcd2c275217943ccea43e6b1" parent="aspace_9e6e0f407b5fce576d8b76634f687d68" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-4">
+      <c01 id="aspace_359c159b1b9527ed035ca36df7e1df35" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Annual Banquet</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+          <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+          <container id="aspace_1d64472e13e1d9c13ed56d4047405350" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_d7fe84f3a313f7b53bcfa222980fdc25" parent="aspace_1d64472e13e1d9c13ed56d4047405350" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-5">
+      <c01 id="aspace_30656845e8c8f0f36be4a766f04a9981" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Apprentice Record Book</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1955/1964">1955-1964</unitdate>
+          <unitdate normal="1955/1964" type="inclusive">1955-1964</unitdate>
+          <container id="aspace_4f4bf330a350cfab5539f41bb78f35ba" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_8805bdc4bcde7b3aa94afc91194a80ce" parent="aspace_4f4bf330a350cfab5539f41bb78f35ba" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-6">
+      <c01 id="aspace_b9089b8467a6eba49da740f4a04f8fc6" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Audit Reports and Membership Statements</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960/1964">1960-1964</unitdate>
+          <unitdate normal="1960/1964" type="inclusive">1960-1964</unitdate>
+          <container id="aspace_7a9504319054e5ecf06a002195982418" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_8c8e0bd53d0659f95e3b516d8e4673c3" parent="aspace_7a9504319054e5ecf06a002195982418" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-7">
+      <c01 id="aspace_c1e89cd0ef20c714e0373102988674cd" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Business Card and Working Card--Samples</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945">1945</unitdate>
+          <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+          <container id="aspace_80aaf4d4231b46dea92fe6c0c468a0e2" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_30adb0fca1910c13715a4399e8dfb0d8" parent="aspace_80aaf4d4231b46dea92fe6c0c468a0e2" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-8">
+      <c01 id="aspace_1328f3eac236e25f0dd4355291da0c5d" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
           <unittitle>Constitution and By-Laws, circa</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945/55">1945-1955</unitdate>
+          <unitdate normal="1945/1945" type="inclusive">1945-1955</unitdate>
+          <container id="aspace_1fd1744e2e2f4470715a3371bd816e18" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_87a496f704cc4d07259e465eeed1807b" parent="aspace_1fd1744e2e2f4470715a3371bd816e18" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-9">
+      <c01 id="aspace_88a07c50ec88ac2aa5265d6050fc3118" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Contracts and Scales of Prices, Catskill Daily Mail</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959/1960">1959-1960</unitdate>
+          <unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate>
+          <container id="aspace_a4e0b5a85ee72830f895e733a5b7f2a5" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_2558739a9f2b7afdbcaa09c101d3ee3f" parent="aspace_a4e0b5a85ee72830f895e733a5b7f2a5" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-10">
+      <c01 id="aspace_2eb6fe91cce4876fc138226034a097ab" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Contracts and Scales of Prices, Chatham Courier Company</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959">1959</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945">1961</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+          <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+          <unitdate normal="1945/1945" type="inclusive">1961</unitdate>
+          <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+          <container id="aspace_42faa928cdc3f017b32a6b9c120223f1" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_538a9a98c44c61e3ddc88ab6188b14c4" parent="aspace_42faa928cdc3f017b32a6b9c120223f1" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-11">
+      <c01 id="aspace_955ef1c3c0945eafc12ab4de02b32a83" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Contracts and Scales of Prices, Davis Printing Company</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+          <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+          <container id="aspace_793298671e230ff20f2f7f63faa29c3e" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_52cea3f1294dcb63aea4a5ffb678ebc1" parent="aspace_793298671e230ff20f2f7f63faa29c3e" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-12">
+      <c01 id="aspace_1d30ab0608f716df178c65f3396ddf70" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">12</container>
           <unittitle>Contracts and Scales of Prices, Greene and Ulster Printing Company</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959/1960">1959-1960</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+          <unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate>
+          <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+          <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+          <container id="aspace_2c8255b235abb907edc21924c9f6ae8a" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_b68d7a72a098000bad427baae2c2c28d" parent="aspace_2c8255b235abb907edc21924c9f6ae8a" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-13">
+      <c01 id="aspace_a9803a0737977ea4f5b16ebe007ea674" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">13</container>
           <unittitle>Contracts and Scales of Prices, Hudson Republican Corporation</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937">1937</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1939">1939</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941">1941</unitdate>
+          <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+          <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+          <unitdate normal="1941/1941" type="inclusive">1941</unitdate>
+          <container id="aspace_29b58683bf4add720cfded64c199108e" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_e316d6c4aaeb6d408b59132668927016" parent="aspace_29b58683bf4add720cfded64c199108e" type="Folder">13</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-14">
+      <c01 id="aspace_f904bce21738bdfe09e48d6932c49153" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">14</container>
           <unittitle>Contracts and Scales of Prices, Record Printing &amp; Publishing</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937/1954">1938-1954</unitdate>
+          <unitdate normal="1937/1954" type="inclusive">1938-1954</unitdate>
+          <container id="aspace_79b766c713796568a3f23624975cd778" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_f8f8564b0a067e1b9bb20b62f5203b0a" parent="aspace_79b766c713796568a3f23624975cd778" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-15">
+      <c01 id="aspace_94b84d4e6a87036c6901cd982095b58b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">15</container>
           <unittitle>Contracts and Scales of Prices, Record Printing &amp; Publishing</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1954/1966">1954-1966</unitdate>
+          <unitdate normal="1954/1966" type="inclusive">1954-1966</unitdate>
+          <container id="aspace_5601393b5ce5b18f4b2633a07e81061b" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_52745a5e581bda8f92cf0cc1f624482f" parent="aspace_5601393b5ce5b18f4b2633a07e81061b" type="Folder">15</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-16">
+      <c01 id="aspace_29c3a1075425f2b0d0c9abe78b54ad2e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">16</container>
           <unittitle>Contracts and Scales of Prices, Stuyvesant Press</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961">1961</unitdate>
+          <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+          <container id="aspace_2fd3b807aea6736d87f7ed521a572efe" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_6803b03d2041e1cde6ffc4c1cf29938f" parent="aspace_2fd3b807aea6736d87f7ed521a572efe" type="Folder">16</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-17">
+      <c01 id="aspace_24c2506fb2990aab9b18a2fbb52d5158" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">17</container>
           <unittitle>Correspondence, General</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1955/1956">1955-1956</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959/1967">1955-1967</unitdate>
+          <unitdate normal="1955/1956" type="inclusive">1955-1956</unitdate>
+          <unitdate normal="1959/1967" type="inclusive">1955-1967</unitdate>
+          <container id="aspace_67955cca50d094fcb494c1aff7db4e4d" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_c241538e8f803855ff6c3df3fcb2f984" parent="aspace_67955cca50d094fcb494c1aff7db4e4d" type="Folder">17</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-18">
+      <c01 id="aspace_a7600d47f3dd1f60f83139bd31a81006" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">18</container>
           <unittitle>Correspondence, Anti-Strikebreaker Ordinance in Hudson, NY</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+          <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+          <container id="aspace_b77011aae9667b2f8e15217a8fc9cf76" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_9752cea305c44578ec96a7dc769dfb1e" parent="aspace_b77011aae9667b2f8e15217a8fc9cf76" type="Folder">18</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-19">
+      <c01 id="aspace_4ad033315132c08c103e821c97f6eeaa" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">19</container>
           <unittitle>Correspondence, Consolidation with Albany Typographical Union No. 4</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/1966">1963-1966</unitdate>
+          <unitdate normal="1963/1966" type="inclusive">1963-1966</unitdate>
+          <container id="aspace_78bce0a2eb5e13ca435e80cb2bdea065" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_eb9eccf0e794aa9887be0a3d0fcd74a5" parent="aspace_78bce0a2eb5e13ca435e80cb2bdea065" type="Folder">19</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-20">
+      <c01 id="aspace_fb4d347a28d432a6f1407bc71b84e649" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">20</container>
           <unittitle>Correspondence, Republicans Using Non-Union Shops for Printing</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961">1961</unitdate>
+          <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+          <container id="aspace_09a008797a34a84193fe988442a87d5d" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_c8f7ad84c150ab2d79e7a20b1c44e9ca" parent="aspace_09a008797a34a84193fe988442a87d5d" type="Folder">20</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-21">
+      <c01 id="aspace_08a52f4fc4217bedc6dd929186b08560" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">21</container>
           <unittitle>Correspondence, Requests for Mediation</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1948/1950">1948-1950</unitdate>
+          <unitdate normal="1948/1950" type="inclusive">1948-1950</unitdate>
+          <container id="aspace_4d0b9ea811898602702f54cbb823af59" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_c48876f43d7aa6b9088db00409335d56" parent="aspace_4d0b9ea811898602702f54cbb823af59" type="Folder">21</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-22">
+      <c01 id="aspace_eca81717294f918b225a5fab25ac675e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">22</container>
           <unittitle>Correspondence, Scale Negotiations</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941">1941</unitdate>
+          <unitdate normal="1941/1941" type="inclusive">1941</unitdate>
+          <container id="aspace_ef8e9441b862d565aa1636717a87678d" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_8be416ae3b1d9f2ee9bb4cfd8526846b" parent="aspace_ef8e9441b862d565aa1636717a87678d" type="Folder">22</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-23">
+      <c01 id="aspace_890cd331bd272721182f1c94c959f3da" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">23</container>
           <unittitle>Correspondence, Typographical Label Fraud Investigation</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+          <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+          <container id="aspace_6aa81b2a7ab2dcb2acefa0ff23758fed" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_0a2377c6f7304e94b27eb2f72c182ca2" parent="aspace_6aa81b2a7ab2dcb2acefa0ff23758fed" type="Folder">23</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-24">
+      <c01 id="aspace_c9d40030b3a205c9c8a93a9e8970643e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">24</container>
           <unittitle>List of Unions in the Area</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961">1961</unitdate>
+          <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+          <container id="aspace_1cfb0a77a9f4643b24ad8dd8bd41f83b" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_1003193a38f94f59f3570691c7e4e3c0" parent="aspace_1cfb0a77a9f4643b24ad8dd8bd41f83b" type="Folder">24</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-25">
+      <c01 id="aspace_a8b992e17440dab5fa70b2d577addd59" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">25</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1936/1940">1936-1940</unitdate>
+          <unitdate normal="1936/1940" type="inclusive">1936-1940</unitdate>
+          <container id="aspace_cd369a71e23e3e9a369cfa83648ee229" label="Mixed Materials" type="Box">1 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_2a813fc11ae35aeb9d30848815b48eb4" parent="aspace_cd369a71e23e3e9a369cfa83648ee229" type="Folder">25</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-26">
+      <c01 id="aspace_7c45626a98e3f35ffff8f5ee1f8c8bf6" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">1</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941/1950">1941-1950</unitdate>
+          <unitdate normal="1941/1950" type="inclusive">1941-1950</unitdate>
+          <container id="aspace_a467e1e1468d81396b8ffd95117e4d7e" label="Mixed Materials" type="Box">2 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_dcb257dc82cf31752ae34b6b1ac78578" parent="aspace_a467e1e1468d81396b8ffd95117e4d7e" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-27">
+      <c01 id="aspace_4558e3bc775efd1d3d214ecf104a0582" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">2</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950/1959">1950-1959</unitdate>
+          <unitdate normal="1950/1959" type="inclusive">1950-1959</unitdate>
+          <container id="aspace_f8587c6d427c15f710158e0dd4ec6a4e" label="Mixed Materials" type="Box">2 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_88e0c7ec3f4fb40d70eaa6d531874d6e" parent="aspace_f8587c6d427c15f710158e0dd4ec6a4e" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-28">
+      <c01 id="aspace_24b51573edddaceb784a2b5c6fbfae87" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">3</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960/1966">1960-1966</unitdate>
+          <unitdate normal="1960/1966" type="inclusive">1960-1966</unitdate>
+          <container id="aspace_19b968e259a0beb889ba985776f268b5" label="Mixed Materials" type="Box">2 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_b45f9724345eae080e05b649bf168cb0" parent="aspace_19b968e259a0beb889ba985776f268b5" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-29">
+      <c01 id="aspace_1f80f3bfa8f4931b9b9d0ffa8b249500" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">4</container>
           <unittitle>Pamphlets from the International Typographical Union</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1949">1949</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964/1967">1964-1967</unitdate>
+          <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+          <unitdate normal="1964/1967" type="inclusive">1964-1967</unitdate>
+          <container id="aspace_4e7347f100b9b9f5bbf59b17a7a57604" label="Mixed Materials" type="Box">2 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_5d2011b1ee41b8623858e96ddb5049dc" parent="aspace_4e7347f100b9b9f5bbf59b17a7a57604" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-30">
+      <c01 id="aspace_fb3ffa7660336df0f3bcc938435d4482" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">5</container>
           <unittitle>Permits for Use of the Typographical Union Label</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1953">1953</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1955/1956">1955-1956</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+          <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+          <unitdate normal="1955/1956" type="inclusive">1955-1956</unitdate>
+          <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+          <container id="aspace_af9b765366bd63ef8156ddf16db4b342" label="Mixed Materials" type="Box">2 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_e6f0923b9617b069b017464829c36d39" parent="aspace_af9b765366bd63ef8156ddf16db4b342" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-31">
+      <c01 id="aspace_b3e8025a89b7d1e6815554b774b50e1c" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">6</container>
           <unittitle>Photographs of Delegates to International Typographical Union Conventions</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1927">1927</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1936">1936</unitdate>
+          <unitdate normal="1927/1927" type="inclusive">1927</unitdate>
+          <unitdate normal="1936/1936" type="inclusive">1936</unitdate>
+          <container id="aspace_e759e61a562367b4e0b10f18570bbcc9" label="Mixed Materials" type="Box">2 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_ad5fffabac9704aa1af6e49eed9952d1" parent="aspace_e759e61a562367b4e0b10f18570bbcc9" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-32">
+      <c01 id="aspace_1437c8faaf80a48aac56800499418053" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">7</container>
           <unittitle>Program from Empire State Typographical Conference (hosted by Columbia County Typographical Union No. 896)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961">1961</unitdate>
+          <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+          <container id="aspace_f8763887494b38ec80970d8ebfcb4ae8" label="Mixed Materials" type="Box">2 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_8c2fb9135ac7ed418f76c52fcd99e50e" parent="aspace_f8763887494b38ec80970d8ebfcb4ae8" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-33">
+      <c01 id="aspace_84b748587914ab72756f7766b3099757" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">8</container>
           <unittitle>Report on Rally for Striking Papermakers Local 479</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950/1960">1950-1960</unitdate>
+          <unitdate normal="1950/1960" type="inclusive">1950-1960</unitdate>
+          <container id="aspace_2b70687162bc097741eed842510b4df1" label="Mixed Materials" type="Box">2 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_5c45ae77fd0d3adc9f2123121ad476e7" parent="aspace_2b70687162bc097741eed842510b4df1" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-34">
+      <c01 id="aspace_0f94840ef4206c568f3d48c5f63ad32d" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">9</container>
           <unittitle>Reports on Condition of Finance</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1957/1965">1957-1965</unitdate>
+          <unitdate normal="1957/1965" type="inclusive">1957-1965</unitdate>
+          <container id="aspace_ea7eb79834a51ee5a4e075ceab7def3b" label="Mixed Materials" type="Box">2 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_8fbf6c72bc586f055a370c8405d0b5ef" parent="aspace_ea7eb79834a51ee5a4e075ceab7def3b" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-35">
+      <c01 id="aspace_328c60609bb3193863dac99cf39ea572" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">10</container>
           <unittitle>Reports to New York State Department of Labor</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959/1966">1959-1966</unitdate>
+          <unitdate normal="1959/1966" type="inclusive">1959-1966</unitdate>
+          <container id="aspace_ee0eb430545a6dc321943ce73adb289b" label="Mixed Materials" type="Box">2 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_c0646a5a0835ce4dbda1d1955e3cc12d" parent="aspace_ee0eb430545a6dc321943ce73adb289b" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-36">
+      <c01 id="aspace_46fe26f8b8b29695f3f58a8c91bb0176" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">11</container>
           <unittitle>Reports to U.S. Department of Labor</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959/1966">1959-1966</unitdate>
+          <unitdate normal="1959/1966" type="inclusive">1959-1966</unitdate>
+          <container id="aspace_b8fda46d1ea1cea0a3f1d39eb3049087" label="Mixed Materials" type="Box">2 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_49d0be0ad4f4d51cdabe0d6be308b990" parent="aspace_b8fda46d1ea1cea0a3f1d39eb3049087" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-37">
+      <c01 id="aspace_32e0dd3a0ae83854668f5f62277afa1c" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">12</container>
           <unittitle>Seniority Lists</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937">1937</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1953">1953</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1955">1955</unitdate>
+          <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+          <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+          <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
+          <container id="aspace_b6c4381a55e2a89852265bf484e7cc9f" label="Mixed Materials" type="Box">2 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_1ddcbe8f3fb9f5dcefb5d244c49e78fb" parent="aspace_b6c4381a55e2a89852265bf484e7cc9f" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_apap013-38">
+      <c01 id="aspace_a021c83fdcab70c7e8c4936b0ea9ccac" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">13</container>
           <unittitle>"Strike is Won!", Pamphlet of New York Typographical Union No. 6</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963">1963</unitdate>
+          <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+          <container id="aspace_86cca928947d6ad7c9509e0ed85e0df7" label="Mixed Materials" type="Box">2 (Columbia County Typographical Union No. 896 Record)</container>
+          <container id="aspace_e95e4e2bdb2791afaeff0bbf71005f74" parent="aspace_86cca928947d6ad7c9509e0ed85e0df7" type="Folder">13</container>
         </did>
       </c01>
     </dsc>

@@ -1,669 +1,705 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua530">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua530.html">nam_ua530</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua530">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua530.xml">ua530</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>OFFICE OF THE REGISTRAR RECORDS (UA530)<date normal="1900/2016" type="inclusive">1900-2016</date></titleproper>
+        <titleproper>Registrar, Office of the; Records <num>ua530</num></titleproper>
         <author>Gregory Wiedeman</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2016" type="publication">Copyright 2016 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2016</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Gregory Wiedeman<date normal="2016-06">2016 June</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:51:39 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2014">2014</date>
+        <date>2014</date>
         <item>EAD file created</item>
+      </change>
+      <change>
+        <date>2016 June</date>
+        <item>Encoded in EAD by Gregory Wiedeman</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua530</unitid>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
+      </repository>
       <unittitle>Office of the Registrar Records<unitdate normal="1900/2016" type="inclusive">1900-2016</unitdate></unittitle>
-      <abstract label="Abstract:">Contains student transcripts and the official schedule of classes and academic calendar.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110">State University of New York at Albany. Office of the Registrar</corpname>
+      <origination label="creator">
+        <corpname source="ingest">State University of New York at Albany. Office of the Registrar</corpname>
       </origination>
-      <physdesc>
-        <extent unit="cubic ft.">57.33</extent>
+      <unitid>ua530</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">57.33 cubic ft.</extent>
         <dimensions unit="Digital Files">4</dimensions>
       </physdesc>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
-      </repository>
+      <abstract id="aspace_b50d313feb661a07bd747793b05351f0">Contains student transcripts and the official schedule of classes and academic calendar.</abstract>
+      <langmaterial id="aspace_e52b1ae66ddb9c495f1a1dc7306bec6c">English</langmaterial>
+      <physloc id="aspace_c4241117c11580606cf219f66766ec33">The materials are located onsite in the department.</physloc>
     </did>
-    <bioghist>
+    <processinfo id="aspace_8d02d41b49765d83d04827f18a159dec">
+      <head>Processing Information</head>
+      <p>Processed in 2016 by Gregory Wiedeman.</p>
+    </processinfo>
+    <bioghist id="aspace_741f541e992297016db3d7820b50d06e">
       <head>Administrative History</head>
       <p>The Registrars Office is responsible for registration related activities, the Universitys academic calendar, issuance of official transcripts, awarding of degrees, the schedule of classes, grading, and administration of the Family Educational Rights and Privacy Act (FERPA), and other matters of record.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_f6d8371f16a9bc9888de8e1d4c755a58">
+      <head>Scope and Contents</head>
       <p>Contains student transcripts from 1900 until about 1987, the official schedule of classes, web archives of the registrar's website, and some additional administrative records.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_f5d77de7d4dc6dce783c967f623ec32a">
       <head>Arrangement of the Collection</head>
       <p>The collection is arranged in to 8 topical series.</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_310008e0661dc75e38f426f027ccee81">
       <head>Acquisition Information</head>
       <p>All items in this collection were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_9440f75f2347752e9cfbb6a6313b5874">
       <head>Access</head>
       <p>Access to the Web Archives and the Schedule of Classes is unrestricted.</p>
-      <p>This collection contains student records which are governed by the New York Family Educational Rights and Privacy Act (FERPA). We are not legally able to provide access to the restricted records in this collection. Please consult an archivist for more details.</p>
-      <p>If you are a current or former student and need a copy of your transcript, please contact the Office of the Registrar.</p>
+      <p> This collection contains student records which are governed by the New York Family Educational Rights and Privacy Act (FERPA). We are not legally able to provide access to the restricted records in this collection. Please consult an archivist for more details.</p>
+      <p> If you are a current or former student and need a copy of your transcript, please contact the Office of the Registrar.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_22ca0107a95e56b75465f13357a4e5b9">
       <head>Copyright</head>
       <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_d542becdc5e6da88465c2a223c76725b">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Office of the Registrar Records, 2000-2016. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Office of the Regitrar Records).</p>
+      <p> Identification of specific item, series, box, folder, Office of the Registrar Records, 2000-2016. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Office of the Regitrar Records).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany</corpname>
-      <corpname encodinganalog="610" source="local">Milne School</corpname>
-      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany. Graduate School of Public Affairs </corpname>
-      <subject encodinganalog="650" source="lcsh">College administrators</subject>
-      <subject encodinganalog="650" source="lcsh">Higher Education--Administration</subject>
-      <genreform source="meg" encodinganalog="655">Digital Files</genreform>
+      <subject source="lcsh">College administrators</subject>
+      <subject source="lcsh">Higher Education--Administration</subject>
+      <genreform source="meg">Digital Files</genreform>
+      <corpname source="lcsh">State University of New York at Albany</corpname>
+      <corpname source="local">Milne School</corpname>
+      <corpname source="lcsh">State University of New York at Albany. Graduate School of Public Affairs</corpname>
     </controlaccess>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_ua530-1" level="series">
+    <dsc>
+      <c01 id="aspace_018a19ef2904fc0d6e8f848867e4e5db" level="series">
         <did>
+          <unittitle>Web Archives</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Web Archives</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2000-08-17/2016-06-03" type="inclusive">2000 August 17-2016 June 3</unitdate>
-          <physdesc>
-            <extent unit="Web-Archive">1</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 Web-Archive</extent>
           </physdesc>
+          <unitdate normal="2000-08-17/2016-06-03" type="inclusive">2000 August 17-2016 June 3</unitdate>
         </did>
-        <scopecontent>
+        <scopecontent id="aspace_acc2e5125ec27b3e90aeb2b22d94d3b5">
+          <head>Scope and Contents</head>
           <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both the university's collection and the Internet Archive's public collection.</p>
-          <p>Surface-level crawling of www.albany.edu is performed daily which chould include most top-level webpages. Separate targeted crawls are performed monthly or quarterly attempt to gather all content. </p>
+          <p> Surface-level crawling of www.albany.edu is performed daily which chould include most top-level webpages. Separate targeted crawls are performed monthly or quarterly attempt to gather all content.</p>
         </scopecontent>
-        <c02 id="nam_ua530-1_1">
+        <c02 id="aspace_19bd33e28fa3b2915f83a86e45dc2ae0" level="file">
           <did>
-            <container type="Web-Archive"/>
             <unittitle>http://www.albany.edu/registrar/ - University Archives collection</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2013-05-08/2020">2013 May 8-present</unitdate>
-            <dao actuate="onrequest" href="http://wayback.archive-it.org/3308/*/http://www.albany.edu/registrar/" linktype="simple" show="new"/>
+            <unitdate normal="2013-05-08/2020" type="inclusive">2013 May 8-present</unitdate>
+            <dao xlink:actuate="onrequest" xlink:href="http://wayback.archive-it.org/3308/*/http://www.albany.edu/registrar/" xlink:show="new" xlink:title="http://www.albany.edu/registrar/ - University Archives collection">
+              <daodesc>
+                <p>http://www.albany.edu/registrar/ - University Archives collection</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
-        <c02 id="nam_ua530-1_2">
+        <c02 id="aspace_d4fb7fc9c3b8aba7fd583897fdef4ca6" level="file">
           <did>
-            <container type="Web-Archive"/>
             <unittitle>http://www.albany.edu/registrar/ - Internet Archive collection</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2000-08-17/2016-06-03">2000 August 17-2016 June 3</unitdate>
-            <dao actuate="onrequest" href="https://web.archive.org/web/*/http://www.albany.edu/registrar/" linktype="simple" show="new"/>
+            <unitdate normal="2000-08-17/2016-06-03" type="inclusive">2000 August 17-2016 June 3</unitdate>
+            <dao xlink:actuate="onrequest" xlink:href="https://web.archive.org/web/*/http://www.albany.edu/registrar/" xlink:show="new" xlink:title="http://www.albany.edu/registrar/ - Internet Archive collection">
+              <daodesc>
+                <p>http://www.albany.edu/registrar/ - Internet Archive collection</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_ua530-2" level="series">
+      <c01 id="aspace_5dff528d5b54f719bd94193ac5f694ae" level="series">
         <did>
+          <unittitle>Transcripts</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Transcripts</unittitle>
-          <unitdate calendar="gregorian" certainty="circa" era="ce" normal="1900/1917" type="inclusive">1900-1917</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">1</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1900/1917" type="inclusive">1900-1917</unitdate>
         </did>
-        <accessrestrict>
+        <accessrestrict id="aspace_ef5940bc438a93da93b0e5077e662e52">
+          <head>Conditions Governing Access</head>
           <p>This series contains student records which are governed by the New York Family Educational Rights and Privacy Act (FERPA). We are not legally able to provide access to these records. Please consult an archivist for more details.</p>
         </accessrestrict>
-        <scopecontent>
+        <scopecontent id="aspace_eb5927ca1b8c1fcd2a577ca2f6415b88">
+          <head>Scope and Contents</head>
           <p>Student transcripts from the New York State Normal College and the State College for Teachers.</p>
         </scopecontent>
       </c01>
-      <c01 id="nam_ua530-3" level="series">
+      <c01 id="aspace_d5c7d212d5ff9a108ae965a69bb9b8cc" level="series">
         <did>
+          <unittitle>Transcripts</unittitle>
           <unitid>3</unitid>
-          <unittitle label="Series">Transcripts</unittitle>
-          <unitdate calendar="gregorian" certainty="circa" era="ce" normal="1918/1955" type="inclusive">1918-1955</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">14</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">14 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1918/1955" type="inclusive">1918-1955</unitdate>
         </did>
-        <accessrestrict>
+        <accessrestrict id="aspace_2990b77bab06221b0f9858aad5f7c0c9">
+          <head>Conditions Governing Access</head>
           <p>This series contains student records which are governed by the New York Family Educational Rights and Privacy Act (FERPA). We are not legally able to provide access to these records. Please consult an archivist for more details.</p>
         </accessrestrict>
-        <scopecontent>
+        <scopecontent id="aspace_fcbb8c8844417f2640a0cdf3d7214bbf">
+          <head>Scope and Contents</head>
           <p>Student Transcripts of the New York State College for Teachers.</p>
         </scopecontent>
       </c01>
-      <c01 id="nam_ua530-4" level="series">
+      <c01 id="aspace_3f2431c0c19d294d4f39d07e38bdc891" level="series">
         <did>
+          <unittitle>Transcripts</unittitle>
           <unitid>4</unitid>
-          <unittitle label="Series">Transcripts</unittitle>
-          <unitdate calendar="gregorian" certainty="circa" era="ce" normal="1956/1987" type="inclusive">ca. 1956-1987</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">38</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">38 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1956/1987" type="inclusive">ca. 1956-1987</unitdate>
         </did>
-        <accessrestrict>
+        <accessrestrict id="aspace_a939f3ca53c07e72323ce631eb9d5bef">
+          <head>Conditions Governing Access</head>
           <p>This series contains student records which are governed by the New York Family Educational Rights and Privacy Act (FERPA). We are not legally able to provide access to these records. Please consult an archivist for more details.</p>
         </accessrestrict>
-        <scopecontent>
+        <scopecontent id="aspace_f59186fa0566dfff1a3a8737fe79ee31">
+          <head>Scope and Contents</head>
           <p>Student Transcripts from the New York State College for Teachers and the State University of New York at Albany.</p>
         </scopecontent>
       </c01>
-      <c01 id="nam_ua530-5" level="series">
+      <c01 id="aspace_7060d679bced5dfc359e17a2289e9e18" level="series">
         <did>
+          <unittitle>Milne School Transcripts</unittitle>
           <unitid>5</unitid>
-          <unittitle label="Series">Milne School Transcripts</unittitle>
-          <unitdate calendar="gregorian" certainty="circa" era="ce" normal="1941/1976" type="inclusive">ca. 1941-1976</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">1.67</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.67 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1941/1976" type="inclusive">ca. 1941-1976</unitdate>
         </did>
-        <accessrestrict>
+        <accessrestrict id="aspace_a4cbe2b6b628fcce6674b71d6f85cf74">
+          <head>Conditions Governing Access</head>
           <p>This series contains student records which are governed by the New York Family Educational Rights and Privacy Act (FERPA). We are not legally able to provide access to these records. Please consult an archivist for more details.</p>
         </accessrestrict>
-        <scopecontent>
+        <scopecontent id="aspace_7b1ea4b523f62d0f58b296692659b213">
+          <head>Scope and Contents</head>
           <p>Transcripts of the Milne School, the teacher training high school administered by the State College for Teachers and then the State University of New York at Albany.</p>
         </scopecontent>
       </c01>
-      <c01 id="nam_ua530-6" level="series">
+      <c01 id="aspace_e72adf097de2df5bcf846589c4ba955b" level="series">
         <did>
+          <unittitle>Graduate School of Public Affairs Transcripts</unittitle>
           <unitid>6</unitid>
-          <unittitle label="Series">Graduate School of Public Affairs Transcripts</unittitle>
-          <unitdate calendar="gregorian" certainty="circa" era="ce" normal="1962/1967" type="inclusive">ca. 1962-1967</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">.67</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">.67 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1962/1967" type="inclusive">ca. 1962-1967</unitdate>
         </did>
-        <accessrestrict>
+        <accessrestrict id="aspace_d9e5d50e786e36d1ba2b73233af8a5ce">
+          <head>Conditions Governing Access</head>
           <p>This series contains student records which are governed by the New York Family Educational Rights and Privacy Act (FERPA). We are not legally able to provide access to these records. Please consult an archivist for more details.</p>
         </accessrestrict>
-        <scopecontent>
+        <scopecontent id="aspace_99baabc02ec310c45d7df939223d07d2">
+          <head>Scope and Contents</head>
           <p>Student transcripts. The Graduate School was originally a pivate school jointly administered by New York University and Syracuse University. Starting in 1960, the school began to recived public aid and became part of the State University of New York at Albany in 1966. Now known as the Nelson A. Rockefeller College of Public Affairs and Policy.</p>
         </scopecontent>
       </c01>
-      <c01 id="nam_ua530-7" level="series">
+      <c01 id="aspace_1c9d6dec17478790d82160ceda8f079b" level="series">
         <did>
+          <unittitle>Schedule of Classes</unittitle>
           <unitid>7</unitid>
-          <unittitle label="Series">Schedule of Classes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1952/2006" type="inclusive">1952-2006</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">1</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 cubic ft.</extent>
             <dimensions unit="Digital Files">4</dimensions>
           </physdesc>
+          <unitdate normal="1952/2006" type="inclusive">1952-2006</unitdate>
         </did>
-        <c02 id="nam_ua530-7_1">
+        <c02 id="aspace_74eadcfc9a130c200d4ba630c1dcc4c1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_b4bba5161aa0806978ec36170266d32a" label="Mixed Materials" type="Box">1 (7-Schedule of Classes)</container>
+            <container id="aspace_7f44ca8e7621fb889124c95814f5279b" parent="aspace_b4bba5161aa0806978ec36170266d32a" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_2">
+        <c02 id="aspace_23f030f0ac11acfc2891aabb8571cddd" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1953">1953</unitdate>
+            <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+            <container id="aspace_0f06d51e4e101069d319bf738554fae1" label="Mixed Materials" type="Box">1 (7-Schedule of Classes)</container>
+            <container id="aspace_ac81f31d8ae43ff05b8229a1ec19e8b8" parent="aspace_0f06d51e4e101069d319bf738554fae1" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_3">
+        <c02 id="aspace_c88c17603799baf7c7fd7ddf38de41c9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1959">1959</unitdate>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_dfc4614b7f9e8ee4330e063c9a34da96" label="Mixed Materials" type="Box">1 (7-Schedule of Classes)</container>
+            <container id="aspace_ec17598927e2f2b6d38502af6a6bee88" parent="aspace_dfc4614b7f9e8ee4330e063c9a34da96" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_4">
+        <c02 id="aspace_904cbc78d416b0c00b4a195f1a793ff1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1960">1960</unitdate>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_e93ce73670f9d3803db30e94ad5cab79" label="Mixed Materials" type="Box">1 (7-Schedule of Classes)</container>
+            <container id="aspace_8ad58476ce1479173f1060d32789e266" parent="aspace_e93ce73670f9d3803db30e94ad5cab79" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_5">
+        <c02 id="aspace_137783411f02f8afa7ed99da661868da" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1961">1961</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_3d49fd20b975f76c33662c4f37589bb0" label="Mixed Materials" type="Box">1 (7-Schedule of Classes)</container>
+            <container id="aspace_91a8709e677c6c6084181f76d28f3465" parent="aspace_3d49fd20b975f76c33662c4f37589bb0" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_6">
+        <c02 id="aspace_d0a3694d443986d40ac049d8aed6f9f1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1962">1962</unitdate>
+            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+            <container id="aspace_2f7ce7b2af1dca00b7f3bc758ab1e76d" label="Mixed Materials" type="Box">1 (7-Schedule of Classes)</container>
+            <container id="aspace_bb035ca4a46c3a0681d160a75e939fd2" parent="aspace_2f7ce7b2af1dca00b7f3bc758ab1e76d" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_7">
+        <c02 id="aspace_5cf3a59b6653d3f231034bcc9bcec015" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1963">1963</unitdate>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_b36389056d05f925b1bd86378c19bbeb" label="Mixed Materials" type="Box">1 (7-Schedule of Classes)</container>
+            <container id="aspace_71bcc215cbb89f2f9684af949a25f71a" parent="aspace_b36389056d05f925b1bd86378c19bbeb" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_8">
+        <c02 id="aspace_014fd985fd7cc658d64f24ed76423d5f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_1ce3bb4ba28207c48d96ddb5420b20b0" label="Mixed Materials" type="Box">1 (7-Schedule of Classes)</container>
+            <container id="aspace_9ab5ffb0b301ff462f276e598689c638" parent="aspace_1ce3bb4ba28207c48d96ddb5420b20b0" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_9">
+        <c02 id="aspace_6a828220a17083062bef9f4ecc7edb17" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_c1c3a98fd06077b01434fea6186f3c7e" label="Mixed Materials" type="Box">1 (7-Schedule of Classes)</container>
+            <container id="aspace_f4e7a19778cbc8e74bb49c7284c7522f" parent="aspace_c1c3a98fd06077b01434fea6186f3c7e" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_10">
+        <c02 id="aspace_d3ff32e2f2181a5114d1bc565010a6a3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966">1966</unitdate>
+            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_059644a4d805536c99a566bcfe58f099" label="Mixed Materials" type="Box">1 (7-Schedule of Classes)</container>
+            <container id="aspace_4157d82769331b332e8a6ebfd8088d28" parent="aspace_059644a4d805536c99a566bcfe58f099" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_11">
+        <c02 id="aspace_b5a1c0695497216efbb92236f002472b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1967">1967</unitdate>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_3cf249b809e3bbca9a74d9ece9f04d58" label="Mixed Materials" type="Box">1 (7-Schedule of Classes)</container>
+            <container id="aspace_c3aee1b72a9257b0e06e3de5d9360ab0" parent="aspace_3cf249b809e3bbca9a74d9ece9f04d58" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_12">
+        <c02 id="aspace_936e7f9e1e03f465f0787fa4bff3916a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1968">1968</unitdate>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_227c01d4d0728c158c8ec3ef8fe3bd5c" label="Mixed Materials" type="Box">1 (7-Schedule of Classes)</container>
+            <container id="aspace_f8eaa5d9afa47aed2646dbb1d213e38e" parent="aspace_227c01d4d0728c158c8ec3ef8fe3bd5c" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_13">
+        <c02 id="aspace_f10608e2ceca95d0f74834b22a14d654" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1969">1969</unitdate>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_49f115cbd2276661a468bfc9a3b4137c" label="Mixed Materials" type="Box">1 (7-Schedule of Classes)</container>
+            <container id="aspace_58eb358620042ca7475df68d1d7e7a3b" parent="aspace_49f115cbd2276661a468bfc9a3b4137c" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_14">
+        <c02 id="aspace_2d374eed5865677dc2918ad2e1e82c7b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_8dffee342f1e41155124aac1fee99486" label="Mixed Materials" type="Box">1 (7-Schedule of Classes)</container>
+            <container id="aspace_e88da21d559caace0985fec484c37fda" parent="aspace_8dffee342f1e41155124aac1fee99486" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_15">
+        <c02 id="aspace_ff01ff87231b720b7196b2509b49640c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1971">1971</unitdate>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_62f3e60540f6972f7a802e884a0334eb" label="Mixed Materials" type="Box">1 (7-Schedule of Classes)</container>
+            <container id="aspace_f22434347507e77a59544a932f33a371" parent="aspace_62f3e60540f6972f7a802e884a0334eb" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_16">
+        <c02 id="aspace_1641af9a0400bcea7718b48254ac6b24" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1972">1972</unitdate>
+            <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_71cbe456e3de3a17efcd7fcdc0cf0ba1" label="Mixed Materials" type="Box">1 (7-Schedule of Classes)</container>
+            <container id="aspace_46fbb88a688eb49719f7f44220922a51" parent="aspace_71cbe456e3de3a17efcd7fcdc0cf0ba1" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_17">
+        <c02 id="aspace_2380cbb19469b9cfe237401f410136bb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1973">1973</unitdate>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_d02ed1e00f18563578ffbc3dc77a4985" label="Mixed Materials" type="Box">1 (7-Schedule of Classes)</container>
+            <container id="aspace_073c1ce3ca833575a856afce7153c459" parent="aspace_d02ed1e00f18563578ffbc3dc77a4985" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_18">
+        <c02 id="aspace_ff0ba1f0fedf7bd93c980797157b88b4" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1974">1974</unitdate>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_71312a94d0ff84712d129378ce652b3a" label="Mixed Materials" type="Box">2 (7-Schedule of Classes)</container>
+            <container id="aspace_185449cffaafda35e6d4f5abb524e0d0" parent="aspace_71312a94d0ff84712d129378ce652b3a" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_19">
+        <c02 id="aspace_fbe12817dfebc2a81ed76de324f40543" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1975">1975</unitdate>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_22519811ae4bce271aa95ea3030037b2" label="Mixed Materials" type="Box">2 (7-Schedule of Classes)</container>
+            <container id="aspace_7a73358d732db67ecd791bb333e364bf" parent="aspace_22519811ae4bce271aa95ea3030037b2" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_20">
+        <c02 id="aspace_1b0e858aa88951b3d1a67f526c71d128" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1976">1976</unitdate>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_c42c873bc5a8b2444ab1ae9b063321d5" label="Mixed Materials" type="Box">2 (7-Schedule of Classes)</container>
+            <container id="aspace_28b7df91a478600057f23d56101cd877" parent="aspace_c42c873bc5a8b2444ab1ae9b063321d5" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_21">
+        <c02 id="aspace_c064887d975fda87a484351cd8a7de2e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1977">1977</unitdate>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_22896cedd23f51da3969e3c411e252ca" label="Mixed Materials" type="Box">2 (7-Schedule of Classes)</container>
+            <container id="aspace_7bc9d5bc9b0627af61f7cf5f3020e7dd" parent="aspace_22896cedd23f51da3969e3c411e252ca" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_22">
+        <c02 id="aspace_463cec25099be0aa1af556cfb03c5df5" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1978">1978</unitdate>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_5918cde25c32cc37f147e3ef1be3ecd7" label="Mixed Materials" type="Box">2 (7-Schedule of Classes)</container>
+            <container id="aspace_866d8fd0e86aea960975eeef6a3e92cb" parent="aspace_5918cde25c32cc37f147e3ef1be3ecd7" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_23">
+        <c02 id="aspace_5f550159baa962c82335c924212b36ce" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1979">1979</unitdate>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_1622f9c37d544e2bb81bbff669888f37" label="Mixed Materials" type="Box">2 (7-Schedule of Classes)</container>
+            <container id="aspace_17900a61dd17d9e19fe0e82c56fa3da5" parent="aspace_1622f9c37d544e2bb81bbff669888f37" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_24">
+        <c02 id="aspace_d1bd6fd7603fc629f0cdfd3aee405507" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1980">1980</unitdate>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_e6df1973c23ea2cd28e40262797131b1" label="Mixed Materials" type="Box">2 (7-Schedule of Classes)</container>
+            <container id="aspace_303719ed9b8bf4f058f09cc26a071b67" parent="aspace_e6df1973c23ea2cd28e40262797131b1" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_25">
+        <c02 id="aspace_5e15e97c52c4f2208b6e4791be0a3f13" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1981">1981</unitdate>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_fe4fedacae161b0a9897a00c40524896" label="Mixed Materials" type="Box">2 (7-Schedule of Classes)</container>
+            <container id="aspace_b95d989f053b069d576a5835b5e99d3f" parent="aspace_fe4fedacae161b0a9897a00c40524896" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_26">
+        <c02 id="aspace_9c6fd4b7587c2f5ac545aef9e7f27741" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_3d6b58666cd4c947e72fcbec9fc253d5" label="Mixed Materials" type="Box">2 (7-Schedule of Classes)</container>
+            <container id="aspace_325f4b5e07288e5bba914006fdf753bb" parent="aspace_3d6b58666cd4c947e72fcbec9fc253d5" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_27">
+        <c02 id="aspace_d710ca86dde475898d2d89241426719d" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1983">1983</unitdate>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_9e4af6591a34fbd5f66fba9dc1623522" label="Mixed Materials" type="Box">2 (7-Schedule of Classes)</container>
+            <container id="aspace_7c366fda5f70a2470fb7a266c5f74099" parent="aspace_9e4af6591a34fbd5f66fba9dc1623522" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_28">
+        <c02 id="aspace_954ca6b8e34a8224542d7960797f0cfc" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">11</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1984">1984</unitdate>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_61e507ca90c32cd04f4e63b7dde1a71d" label="Mixed Materials" type="Box">2 (7-Schedule of Classes)</container>
+            <container id="aspace_1dd0e1d160a33cf5197cec40d499a026" parent="aspace_61e507ca90c32cd04f4e63b7dde1a71d" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_29">
+        <c02 id="aspace_be0281239c6057667fba6a99c9803a9a" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1985">1985</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_5ce157507505a92b06d6cec89964879f" label="Mixed Materials" type="Box">3 (7-Schedule of Classes)</container>
+            <container id="aspace_5862216e09662cbd9174af3febf4bf65" parent="aspace_5ce157507505a92b06d6cec89964879f" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_30">
+        <c02 id="aspace_eb23f905c0cf6529290a0ea6c530c09b" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1986">1986</unitdate>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_b9cd9e8e0469f49a69bfe19322c9ad9b" label="Mixed Materials" type="Box">3 (7-Schedule of Classes)</container>
+            <container id="aspace_9e44b97b37bd7b3f03a56fbf01ff3a3b" parent="aspace_b9cd9e8e0469f49a69bfe19322c9ad9b" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_31">
+        <c02 id="aspace_5dae6b633fb3b09305d314a1e1728e14" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">3</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1987">1987</unitdate>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_8402d9ca252dadc60fe57f2d4ebf34a7" label="Mixed Materials" type="Box">3 (7-Schedule of Classes)</container>
+            <container id="aspace_d302681ff1fc1c8804d054f3b153a845" parent="aspace_8402d9ca252dadc60fe57f2d4ebf34a7" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_32">
+        <c02 id="aspace_aff597c5797edf72cfce177c6a88f526" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1988">1988</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_65580ed2753dad19112f20b73da54e9c" label="Mixed Materials" type="Box">3 (7-Schedule of Classes)</container>
+            <container id="aspace_a5c126a3f0f9d5b7a858c70e660035f2" parent="aspace_65580ed2753dad19112f20b73da54e9c" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_33">
+        <c02 id="aspace_7e83716faa6640c7ffb48f8bf81f3399" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">5</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1989">1989</unitdate>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_c73b31d432831e75c3ee605eadccd0cc" label="Mixed Materials" type="Box">3 (7-Schedule of Classes)</container>
+            <container id="aspace_b8e29b86bea83393e92462d02757de4e" parent="aspace_c73b31d432831e75c3ee605eadccd0cc" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_34">
+        <c02 id="aspace_ed2816255be47bc7229cdd66b6e6b853" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">6</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1990">1990</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_0340a8b89db09cdffe1efcb00eea0312" label="Mixed Materials" type="Box">3 (7-Schedule of Classes)</container>
+            <container id="aspace_c5831e60b8ccf23631d6f944f07f85ac" parent="aspace_0340a8b89db09cdffe1efcb00eea0312" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_35">
+        <c02 id="aspace_5d411bcde917ca9f9ff112a7863e1c25" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">7</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_6af10d6f06ed62a379ec947d318f51cc" label="Mixed Materials" type="Box">3 (7-Schedule of Classes)</container>
+            <container id="aspace_1e398e83a4580223a37ea9a69b3e41d5" parent="aspace_6af10d6f06ed62a379ec947d318f51cc" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_36">
+        <c02 id="aspace_415beba3b91a25018b31314c2f9d0e68" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">8</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1992">1992</unitdate>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_dcb277ae96e8afd0c3f6025462233f20" label="Mixed Materials" type="Box">3 (7-Schedule of Classes)</container>
+            <container id="aspace_4abae21cca1df81f96d27dbaaf48157b" parent="aspace_dcb277ae96e8afd0c3f6025462233f20" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_37">
+        <c02 id="aspace_1570a3f42ae98da4b1b9f206c3bbfdc7" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">9</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1993">1993</unitdate>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_fadb440dc89b245411bc5858f05639b5" label="Mixed Materials" type="Box">3 (7-Schedule of Classes)</container>
+            <container id="aspace_fe0a5ef64c2fa8a3ac82e1d623070e5b" parent="aspace_fadb440dc89b245411bc5858f05639b5" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_38">
+        <c02 id="aspace_d050e4c74147c78d04098af67ea136a8" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">1</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1994">1994</unitdate>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_167aae164b511316a11a8106ec3e66cb" label="Mixed Materials" type="Box">4 (7-Schedule of Classes)</container>
+            <container id="aspace_ea9e0c435f5987327aada92f2c46dc84" parent="aspace_167aae164b511316a11a8106ec3e66cb" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_39">
+        <c02 id="aspace_7eff6f32a382718b73009ac7abec2424" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">2</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1995">1995</unitdate>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_6b4265258673e0c67bf0ffec0bffc8ce" label="Mixed Materials" type="Box">4 (7-Schedule of Classes)</container>
+            <container id="aspace_e062d02fe72b6c962f1b425980f3af98" parent="aspace_6b4265258673e0c67bf0ffec0bffc8ce" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_40">
+        <c02 id="aspace_45b42bb50caa69251fd9b821f5c1e71c" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">3</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1996">1996</unitdate>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_182b39aa3c43776607325391d5f651ed" label="Mixed Materials" type="Box">4 (7-Schedule of Classes)</container>
+            <container id="aspace_cbaec6cf63fb78eaf82b2151b3d89161" parent="aspace_182b39aa3c43776607325391d5f651ed" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_41">
+        <c02 id="aspace_085157cca8f4d8d4878a93a68673617b" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">4</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1997">1997</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_f72b46cd845de93fb210e3706d7cf735" label="Mixed Materials" type="Box">4 (7-Schedule of Classes)</container>
+            <container id="aspace_2e9180601769ecbc211d1457eefbcd50" parent="aspace_f72b46cd845de93fb210e3706d7cf735" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_42">
+        <c02 id="aspace_1936f5808bb3e43d2f802ae97090e8db" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">5</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1998">1998</unitdate>
+            <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+            <container id="aspace_648fdad7e832eed18d9fd306f5ff4119" label="Mixed Materials" type="Box">4 (7-Schedule of Classes)</container>
+            <container id="aspace_82b2a134b43da6d8183a2ac5c7438395" parent="aspace_648fdad7e832eed18d9fd306f5ff4119" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_43">
+        <c02 id="aspace_050a179d63f897ffb27682340f06b498" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">6</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1999">1999</unitdate>
+            <unitdate normal="1999/1999" type="inclusive">1999</unitdate>
+            <container id="aspace_c809d4a81e6b39f16e50121e7542acff" label="Mixed Materials" type="Box">4 (7-Schedule of Classes)</container>
+            <container id="aspace_e4804c507577f27d8fd86240c5cfebd0" parent="aspace_c809d4a81e6b39f16e50121e7542acff" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_44">
+        <c02 id="aspace_7db42a3e1bb1272a39b19a1f4274886c" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">7</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2000">2000</unitdate>
+            <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+            <container id="aspace_95f379a2ed79de25d44224f9c09e52e8" label="Mixed Materials" type="Box">4 (7-Schedule of Classes)</container>
+            <container id="aspace_905341e862cf6357062d73c5cb215508" parent="aspace_95f379a2ed79de25d44224f9c09e52e8" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_45">
+        <c02 id="aspace_c1f138d019b818ef5718fc8221186d93" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">8</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2001">2001</unitdate>
+            <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_4acde9a9832e2a467ad34971f6e26bcd" label="Mixed Materials" type="Box">4 (7-Schedule of Classes)</container>
+            <container id="aspace_bdce0196ab586320215cecb718003782" parent="aspace_4acde9a9832e2a467ad34971f6e26bcd" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_46">
+        <c02 id="aspace_b67a1b5c126531cb5ab228fc771aab3e" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">9</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2002">2002</unitdate>
+            <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+            <container id="aspace_997351be98cf25ebd0fecf45b399c334" label="Mixed Materials" type="Box">4 (7-Schedule of Classes)</container>
+            <container id="aspace_00c96036fd651d51551ccf2fe8c395a0" parent="aspace_997351be98cf25ebd0fecf45b399c334" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_47">
+        <c02 id="aspace_3a1e080c0a336351080bd76e66adceaa" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">10</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2003">2003</unitdate>
+            <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
+            <container id="aspace_dd30e293d6724a53de751954b2274931" label="Mixed Materials" type="Box">4 (7-Schedule of Classes)</container>
+            <container id="aspace_35a12ba54ff24e9f96dd19d5cce5ac21" parent="aspace_dd30e293d6724a53de751954b2274931" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_48">
+        <c02 id="aspace_7ab7ee64fa489e731a2625303fa6f710" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">11</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2004">2004</unitdate>
+            <unitdate normal="2004/2004" type="inclusive">2004</unitdate>
+            <container id="aspace_421d0b937c1f586cb4d154d567d14f75" label="Mixed Materials" type="Box">4 (7-Schedule of Classes)</container>
+            <container id="aspace_59ea8b7479d5d0f8bf44979c66be2134" parent="aspace_421d0b937c1f586cb4d154d567d14f75" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_49">
+        <c02 id="aspace_9b632264a717cc08168e9b31a402c8b3" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">12</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2005">2005</unitdate>
+            <unitdate normal="2005/2005" type="inclusive">2005</unitdate>
+            <container id="aspace_d417477db99b56d0b50f98665459e477" label="Mixed Materials" type="Box">4 (7-Schedule of Classes)</container>
+            <container id="aspace_075a36ac8f623397b33d8e092f3c3277" parent="aspace_d417477db99b56d0b50f98665459e477" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_50">
+        <c02 id="aspace_84283cd41cd6c48a8e158aafcfdd00c6" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">13</container>
             <unittitle>Eight Week Two Quarter Courses</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2005">2005</unitdate>
+            <unitdate normal="2005/2005" type="inclusive">2005</unitdate>
+            <container id="aspace_1d5f95be02453eacc249218147acf60a" label="Mixed Materials" type="Box">4 (7-Schedule of Classes)</container>
+            <container id="aspace_4f33e0b1205db08da3a6ad37ff55e0fd" parent="aspace_1d5f95be02453eacc249218147acf60a" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_51">
+        <c02 id="aspace_c1b870c7eeec2bcae7ec7be5d071745a" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">14</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2006">2006</unitdate>
+            <unitdate normal="2006/2006" type="inclusive">2006</unitdate>
+            <container id="aspace_ddd633d2c1b232c2791135bdc7d5e79a" label="Mixed Materials" type="Box">4 (7-Schedule of Classes)</container>
+            <container id="aspace_80352156d3bbbde31576606dc25d7a05" parent="aspace_ddd633d2c1b232c2791135bdc7d5e79a" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_52">
+        <c02 id="aspace_4a863eedecd810f3e3d0eae831df4e3a" level="file">
           <did>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2015-12">2015 Winter</unitdate>
-            <dao actuate="onrequest" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/ua530/nam_ua530-7_52.pdf" linktype="simple" show="new"/>
+            <unitdate normal="2015-12/2015-12" type="inclusive">2015 Winter</unitdate>
+            <dao xlink:actuate="onrequest" xlink:href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/ua530/nam_ua530-7_52.pdf" xlink:show="new" xlink:title="Schedule of Classes">
+              <daodesc>
+                <p>Schedule of Classes</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_53">
+        <c02 id="aspace_b62439ae336edf833f135793ca74c7e4" level="file">
           <did>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2016-01">2016 Spring</unitdate>
-            <dao actuate="onrequest" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/ua530/nam_ua530-7_53.pdf" linktype="simple" show="new"/>
+            <unitdate normal="2016-01/2016-01" type="inclusive">2016 Spring</unitdate>
+            <dao xlink:actuate="onrequest" xlink:href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/ua530/nam_ua530-7_53.pdf" xlink:show="new" xlink:title="Schedule of Classes">
+              <daodesc>
+                <p>Schedule of Classes</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_54">
+        <c02 id="aspace_e267ca9c0b5b9972f66522ddfd04251f" level="file">
           <did>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2016-06">2016 Summer</unitdate>
-            <dao actuate="onrequest" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/ua530/nam_ua530-7_54.pdf" linktype="simple" show="new"/>
+            <unitdate normal="2016-06/2016-06" type="inclusive">2016 Summer</unitdate>
+            <dao xlink:actuate="onrequest" xlink:href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/ua530/nam_ua530-7_54.pdf" xlink:show="new" xlink:title="Schedule of Classes">
+              <daodesc>
+                <p>Schedule of Classes</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
-        <c02 id="nam_ua530-7_55">
+        <c02 id="aspace_6b0b0ad47bfdbbc0e67e297ebe60532e" level="file">
           <did>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2016-09">2016 Fall</unitdate>
-            <dao actuate="onrequest" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/ua530/nam_ua530-7_55.pdf" linktype="simple" show="new"/>
+            <unitdate normal="2016-09/2016-09" type="inclusive">2016 Fall</unitdate>
+            <dao xlink:actuate="onrequest" xlink:href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/ua530/nam_ua530-7_55.pdf" xlink:show="new" xlink:title="Schedule of Classes">
+              <daodesc>
+                <p>Schedule of Classes</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_ua530-8" level="series">
+      <c01 id="aspace_4f3ab427a075f4770a2c04ac0ff4a528" level="series">
         <did>
+          <unittitle>Subject Files</unittitle>
           <unitid>8</unitid>
-          <unittitle label="Series">Subject Files</unittitle>
-          <unitdate calendar="gregorian" certainty="circa" era="ce" normal="1960/1988" type="inclusive">ca. 1960-1988</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">1</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1960/1988" type="inclusive">ca. 1960-1988</unitdate>
         </did>
-        <accessrestrict>
+        <accessrestrict id="aspace_4af1cd4e6c4ff93987b6af5881a13808">
+          <head>Conditions Governing Access</head>
           <p>Portions of this series contain student records which are governed by the New York Family Educational Rights and Privacy Act (FERPA). We are not legally able to provide access to the restricted records in this series. Please consult an archivist for more details.</p>
         </accessrestrict>
-        <arrangement>
+        <arrangement id="aspace_e76b8144cd99cd6c0420d367e989aef6">
+          <head>Arrangement</head>
           <p>Ordered alphabetically.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_c8f68b37ab70cba6547665ccecf37eb5">
+          <head>Scope and Contents</head>
           <p>Additional administrative records.</p>
         </scopecontent>
       </c01>

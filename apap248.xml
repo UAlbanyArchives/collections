@@ -1,1611 +1,1593 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap248">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap248.xml">nam_apap248</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap248">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap248.xml">apap248</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>GUY GABRIELSON PAPERS (APAP248)<date normal="1925/1967" type="inclusive">1925-1967</date>
-        </titleproper>
+        <titleproper>Gabrielson, Guy George; Papers <num>apap248</num></titleproper>
         <author>Steve McErleane</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2012" type="publication">Copyright 2012 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2012</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>
-        Jodi Boyle
-        <date normal="2012">2012</date>
-      </creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 15:14:52 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2012</date>
+        <item>Encoded in EAD by Jodi Boyle</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>GUY GABRIELSON PAPERS (APAP248)<date normal="1925/1967" type="inclusive">1925-1967</date>
-      </titleproper>
-      <publisher>
-			</publisher>
-      <date type="publication"> 2012 By the University at Albany, SUNY. All rights  reserved.</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unittitle>
-        Guy Gabrielson Papers
-        <unitdate label="Date:" normal="1925/1967" type="inclusive">1925-1967</unitdate>
-      </unittitle>
-      <unitid>nam_apap248</unitid>
-      <abstract label="Abstract:">The Guy Gabrielson Papers contain materials that document the   political career of Guy George Gabrielson from his start in New Jersey state politics   through his years as Chairman of the Republican National Committee. Many of the materials   document the 1952 U.S. Presidential election and Republican National Committee Convention   which Gabrielson presided over as chairman.</abstract>
-      <origination>
-        <persname encodinganalog="100" source="lcsh">Gabrielson, Guy George, 1891-1976</persname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
+      </repository>
+      <unittitle>Guy Gabrielson Papers<unitdate normal="1925/1967" type="inclusive">1925-1967</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="lcsh">Gabrielson, Guy George, 1891-1976</persname>
       </origination>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physdesc label="Physical Characteristics:">
-        <extent unit="cubic ft.">5.5</extent>
+      <unitid>apap248</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5.5 cubic ft.</extent>
         <dimensions unit="Digital Files">1</dimensions>
       </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
-      </repository>
+      <abstract id="aspace_9775da6a97f3578509df0ebf6f925451">The Guy Gabrielson Papers contain materials that document the political career of Guy George Gabrielson from his start in New Jersey state politics through his years as Chairman of the Republican National Committee. Many of the materials document the 1952 U.S. Presidential election and Republican National Committee Convention which Gabrielson presided over as chairman.</abstract>
+      <langmaterial id="aspace_34086b066884c2597fede7a0223f678b">English</langmaterial>
+      <physloc id="aspace_c7b68a525e7f3c795f6ba7712b4d62d9">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_d132bc5e630e06a6745f5849da2e4547">
+      <head>Processing Information</head>
+      <p>Processed in 2012 by Steve McErleane.</p>
+    </processinfo>
+    <accessrestrict id="aspace_f1f5dcd9ff207b7b6989ab32fe8d85c2">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_73b5967236b1f3db74692e224c5632ec">
       <head>Copyright</head>
-      <p>The researcher assumes full responsibility for conforming with the laws of copyright.   Whenever possible, the M.E. Grenander Department of Special Collections and Archives will   provide information about copyright owners and other restrictions, but the legal   determination ultimately rests with the researcher. Requests for permission to publish   material from this collection should be discussed with the Head of Special Collections and   Archives.</p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_ad9c861dd4b739ae322b7083382329f3">
       <head>Acquisition Information</head>
-      <p>Syracuse University received the papers of Guy George Gabrielson in a series of   acquisitions in 1965 and 1967 and subsequently transferred them to the M.E. Grenander   Department of Special Collections and Archives in 2006.</p>
+      <p>Syracuse University received the papers of Guy George Gabrielson in a series of acquisitions in 1965 and 1967 and subsequently transferred them to the M.E. Grenander Department of Special Collections and Archives in 2006.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_78b6765bf1c8b66799204a124e557e99">
       <head>Biographical Sketch</head>
-      <p>Guy George Gabrielson was born in Sioux Rapids, Iowa in May 1891. He received a bachelor of   arts degree from the University of Iowa in 1914 and a law degree from Harvard University in   1917. From 1917-1919 he served as a private in the U.S. Army. His political career began in   1925 as a Republican member of the General Assembly of New Jersey from Essex County; in 1929   he became the General Assemblys Speaker of the House. He became the Executive Director of   the New Jersey State Campaign in 1936 and its chairman in 1940. Gabrielson was a member of   the Republican National Committee (RNC) from 1944-1952 and RNC Chairman from 1949-1952. In   1951 he was involved in a loan scandal that prompted Senator Richard Nixon to call for his   removal as chairman. Gabrielson left the RNC in 1952 and returned to practicing law. He   later became acting chief executive and president of the John Wood Company of New York and   chairman of the Nichold Company of Delaware. Gabrielson died in May of 1976 in Point   Pleasant, New Jersey, preceded in death by his wife Cora. The couple had two children.</p>
-      <p>Gabrielson is best known for his work as chairman of the RNC. In 1952 he opened the   convention that nominated General Dwight D. Eisenhower for president. Gabrielson was a   controversial figure at the convention; his support of Ohio Senator Robert Taft for the   presidential nomination offended backers of Eisenhower who believed that Gabrielson was   using his privileges as party chairman to promote the candidacy of Senator Taft.</p>
+      <p>Guy George Gabrielson was born in Sioux Rapids, Iowa in May 1891. He received a bachelor of arts degree from the University of Iowa in 1914 and a law degree from Harvard University in 1917. From 1917-1919 he served as a private in the U.S. Army. His political career began in 1925 as a Republican member of the General Assembly of New Jersey from Essex County; in 1929 he became the General Assemblys Speaker of the House. He became the Executive Director of the New Jersey State Campaign in 1936 and its chairman in 1940. Gabrielson was a member of the Republican National Committee (RNC) from 1944-1952 and RNC Chairman from 1949-1952. In 1951 he was involved in a loan scandal that prompted Senator Richard Nixon to call for his removal as chairman. Gabrielson left the RNC in 1952 and returned to practicing law. He later became acting chief executive and president of the John Wood Company of New York and chairman of the Nichold Company of Delaware. Gabrielson died in May of 1976 in Point Pleasant, New Jersey, preceded in death by his wife Cora. The couple had two children.</p>
+      <p> Gabrielson is best known for his work as chairman of the RNC. In 1952 he opened the convention that nominated General Dwight D. Eisenhower for president. Gabrielson was a controversial figure at the convention; his support of Ohio Senator Robert Taft for the presidential nomination offended backers of Eisenhower who believed that Gabrielson was using his privileges as party chairman to promote the candidacy of Senator Taft.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>This collection contains materials that document the political career of Guy George   Gabrielson from his start in New Jersey state politics through his years as chairman of the   Republican National Committee (RNC). It includes correspondence, documents pertaining to   official RNC events, official statements from Gabrielson as RNC   chairman, a scrapbook of news clippings from his early political career, correspondence,   photographs, various material documenting the operations of the RNC such as state elections   and regional conferences. The largest part of the collection consists of files related to   the 1952 RNC national convention.</p>
+    <scopecontent id="aspace_a6f4ee818a671258ad754a1fbf0c5eda">
+      <head>Scope and Contents</head>
+      <p>This collection contains materials that document the political career of Guy George Gabrielson from his start in New Jersey state politics through his years as chairman of the Republican National Committee (RNC). It includes correspondence, documents pertaining to official RNC events, official statements from Gabrielson as RNC chairman, a scrapbook of news clippings from his early political career, correspondence, photographs, various material documenting the operations of the RNC such as state elections and regional conferences. The largest part of the collection consists of files related to the 1952 RNC national convention.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_8a8602027a0ac7fd02b16f708ca70bc5">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series:</p>
-      <p>Series 1 - Early Political Career, 1925-1944, Undated</p>
-      <p>Series 2 - Republican National Committee Papers, 1948-1967, Undated</p>
-      <p>Series 3 - Republican National Committee 1952 Convention, 1948-1956, Undated</p>
-      <p>Series are arranged alphabetically.</p>
-      <list type="simple">
-        <item><emph render="bold">Series - Series 1: Early Political Career</emph>
-          , 1948-1956,
-        </item>
-        <item><emph render="bold">Series - Series 2: Republican National Committee Papers</emph>
-          , 1948-1956,
-        </item>
-        <item><emph render="bold">Series - Series 3: Republican National Committee 1952   Convention</emph>
-          , 1948-1956,
-        </item>
-      </list>
+      <p> Series 1 - Early Political Career, 1925-1944, Undated</p>
+      <p> Series 2 - Republican National Committee Papers, 1948-1967, Undated</p>
+      <p> Series 3 - Republican National Committee 1952 Convention, 1948-1956, Undated</p>
+      <p> Series are arranged alphabetically.</p>
     </arrangement>
-    <prefercite encodinganalog="524">
+    <prefercite id="aspace_6f49760bd769b497650092d1bf1b510a">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Guy George Gabrielson Papers,   1925-1967. M.E. Grenander Department of Special Collections and Archives, University   Libraries, University at Albany, State University of New York (hereafter referred to as the   Gabrielson Papers).</p>
+      <p> Identification of specific item, series, box, folder, Guy George Gabrielson Papers, 1925-1967. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Gabrielson Papers).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Public Servants </subject>
-      <persname encodinganalog="600" source="lcsh">Gabrielson, Guy George, 1891-1976</persname>
-      <persname encodinganalog="600" source="lcsh">Taft, Robert Alphonso, 1889-1953</persname>
-      <persname encodinganalog="600" source="lcsh">Eisenhower, Dwight D. (Dwight David),   1890-1969</persname>
-      <persname encodinganalog="600" source="lcsh">Willkie, Wendell L. (Wendell Lewis),   1892-1944</persname>
-      <corpname encodinganalog="610" source="lcsh">Republican National Committee (U.S.)</corpname>
-      <corpname encodinganalog="610" source="lcsh">Republican National Committee (U.S.)--Congresses</corpname>
-      <corpname encodinganalog="610" source="local">Republican Party (Essex County, N.J.)</corpname>
-      <corpname encodinganalog="610" source="lcsh">Republican Party (N.J.)</corpname>
-      <corpname encodinganalog="611" source="lcsh">Republican National Convention</corpname>
-      <subject encodinganalog="650" source="lcsh">Politicians--Washington (D.C.)</subject>
-      <subject encodinganalog="650" source="lcsh">Campaign literature--United States</subject>
-      <subject encodinganalog="650" source="lcsh">Presidents--United States--Election--1940</subject>
-      <subject encodinganalog="650" source="lcsh">Presidents--United States--Election--1952</subject>
-      <geogname encodinganalog="651" source="lcsh">Washington (D.C.)--Politics and government</geogname>
-      <geogname encodinganalog="651" source="lcsh">Essex County (N.J.)</geogname>
-      <geogname encodinganalog="651" source="lcsh">Chicago (Ill.)</geogname>
-      <genreform encodinganalog="655" source="aat">Clippings</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Photographs</genreform>
-      <genreform encodinganalog="655" source="aat">Speeches</genreform>
-      <genreform encodinganalog="655" source="aat">Brochures</genreform>
-      <genreform encodinganalog="655" source="aat">Minutes</genreform>
-      <genreform encodinganalog="655" source="aat">Memorabilia</genreform>
-      <genreform encodinganalog="655" source="aat">Agendas (administrative records)</genreform>
-      <genreform encodinganalog="655" source="aat">Files by subject</genreform>
-      <genreform source="meg" encodinganalog="655">Digital Files</genreform>
+      <subject source="meg">Public Servants</subject>
+      <subject source="lcsh">Politicians--Washington (D.C.)</subject>
+      <subject source="lcsh">Campaign literature--United States</subject>
+      <subject source="lcsh">Presidents--United States--Election--1940</subject>
+      <subject source="lcsh">Presidents--United States--Election--1952</subject>
+      <geogname source="lcsh">Washington (D.C.)--Politics and government</geogname>
+      <geogname source="lcsh">Essex County (N.J.)</geogname>
+      <geogname source="lcsh">Chicago (Ill.)</geogname>
+      <genreform source="aat">Clippings</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Photographs</genreform>
+      <genreform source="aat">Speeches</genreform>
+      <genreform source="aat">Brochures</genreform>
+      <genreform source="aat">Minutes</genreform>
+      <genreform source="aat">Memorabilia</genreform>
+      <genreform source="aat">Agendas (administrative records)</genreform>
+      <genreform source="aat">Files by subject</genreform>
+      <genreform source="meg">Digital Files</genreform>
+      <persname source="lcsh">Gabrielson, Guy George, 1891-1976</persname>
+      <persname source="lcsh">Taft, Robert Alphonso, 1889-1953</persname>
+      <persname source="lcsh">Eisenhower, Dwight D. (Dwight David), 1890-1969</persname>
+      <persname source="lcsh">Willkie, Wendell L. (Wendell Lewis), 1892-1944</persname>
+      <corpname source="lcsh">Republican National Committee (U.S.)</corpname>
+      <corpname source="lcsh">Republican National Committee (U.S.)--Congresses</corpname>
+      <corpname source="local">Republican Party (Essex County, N.J.)</corpname>
+      <corpname source="lcsh">Republican Party (N.J.)</corpname>
+      <corpname source="lcsh">Republican National Convention</corpname>
     </controlaccess>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 level="series" id="nam_apap248-1">
+    <dsc>
+      <c01 id="aspace_5427b98b333011747c989a7b8ee14f12" level="series">
         <did>
+          <unittitle>Early Political Career</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Early Political Career</unittitle>
           <unitdate normal="1925/1944" type="inclusive">1925-1944</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_7a8e7557772c3e6062372e774fc20404">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
-          <p>This series contains a scrapbook of news clippings from Guy George Gabrielsons early   political career in New Jersey state government (1925-1940), materials related to his   role as the chairman of the New Jersey Campaign Committee for U.S. presidential   candidate Wendell Willkie, additional news clippings related to New Jersey Republican   political activities, rules and resolutions of the Committee, and correspondence with   private citizens and various New Jersey politicians. Topics include finances, elections   and organizations.</p>
+        <scopecontent id="aspace_d6cc59e64b8646660b3431e4ea6a0c5d">
+          <head>Scope and Contents</head>
+          <p>This series contains a scrapbook of news clippings from Guy George Gabrielsons early political career in New Jersey state government (1925-1940), materials related to his role as the chairman of the New Jersey Campaign Committee for U.S. presidential candidate Wendell Willkie, additional news clippings related to New Jersey Republican political activities, rules and resolutions of the Committee, and correspondence with private citizens and various New Jersey politicians. Topics include finances, elections and organizations.</p>
         </scopecontent>
-        <c02 id="nam_apap248-1_1">
+        <c02 id="aspace_d36ef5a14c86952115d7ad5a99c43b4d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Farmers National Bank, Iowa Church Dedication</unittitle>
-            <unitdate normal="1928">1928</unitdate>
-            <unitdate normal="1930">1930</unitdate>
-            <unitdate normal="1934">1934</unitdate>
+            <unitdate normal="1928/1928" type="inclusive">1928</unitdate>
+            <unitdate normal="1930/1930" type="inclusive">1930</unitdate>
+            <unitdate normal="1934/1934" type="inclusive">1934</unitdate>
+            <container id="aspace_afea80705535ce3d46c362a61e36828f" label="Mixed Materials" type="Box">1 (1-Early Political Career)</container>
+            <container id="aspace_a63700e52afef2eb5337ef0196615eaf" parent="aspace_afea80705535ce3d46c362a61e36828f" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-1_2">
+        <c02 id="aspace_ee60589568df972e1183b4bff89ec3cf" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Gabrielson Speeches</unittitle>
-            <unitdate normal="1940">1940</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_f0b896de49850162bb9f97e2e37f2cd5" label="Mixed Materials" type="Box">1 (1-Early Political Career)</container>
+            <container id="aspace_f1b9f3b653165735e49c131fb38cbcd4" parent="aspace_f0b896de49850162bb9f97e2e37f2cd5" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-1_3">
+        <c02 id="aspace_b05a46e9cd1735004135a5be50c7d806" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>New Jersey Political Correspondence</unittitle>
-            <unitdate normal="1927/1929">1927-1929</unitdate>
+            <unitdate normal="1927/1929" type="inclusive">1927-1929</unitdate>
+            <container id="aspace_95ecb3c9cefecef8470c21f586bd74e8" label="Mixed Materials" type="Box">1 (1-Early Political Career)</container>
+            <container id="aspace_ff9e13e1b2e2a6e1dba7feaca2d6d45b" parent="aspace_95ecb3c9cefecef8470c21f586bd74e8" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-1_4">
+        <c02 id="aspace_94033b82948827fbb2ce0ccb9ddad49a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>N.J. State Republican Campaign Committee</unittitle>
-            <unitdate normal="1940">1940</unitdate>
+            <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
+            <container id="aspace_c40a78eba6a202bc5279e85f2da17a36" label="Mixed Materials" type="Box">1 (1-Early Political Career)</container>
+            <container id="aspace_83b8a80a65153ec5bc68e3370ef83a80" parent="aspace_c40a78eba6a202bc5279e85f2da17a36" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-1_5">
+        <c02 id="aspace_28b83616cbbf0e8385140de1e24b0bad" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>News Clippings- Willkie Campaign</unittitle>
-            <unitdate normal="1940">1940</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_b74968d52c96bbb9a30d5167560e8d75" label="Mixed Materials" type="Box">1 (1-Early Political Career)</container>
+            <container id="aspace_fccf000a89e0c8a908ee7d46251bc699" parent="aspace_b74968d52c96bbb9a30d5167560e8d75" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-1_6">
+        <c02 id="aspace_a78ffcc1ecf19afbb0f3c71b91f62b9d" level="file">
           <did>
-            <container type="Flat-File">1</container>
-            <unittitle><title><emph render="italic">New Jersey Italian American Newspaper</emph></title>
-               Willkie Endorsement
-            </unittitle>
-            <unitdate normal="1940">1940</unitdate>
+            <unittitle><title><emph render="italic">New Jersey Italian American Newspaper</emph></title> Willkie Endorsement</unittitle>
+            <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
+            <container id="aspace_f638a86beb655b57d171ff713f773080" label="Mixed Materials" type="Flat-File">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-1_7">
+        <c02 id="aspace_bea8588c582b7535ba52223544bdf170" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Photos of Gabrielson</unittitle>
-            <unitdate normal="1943">1943</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_7c0455bd1cb3178a3cf7294dfd2b561a" label="Mixed Materials" type="Box">1 (1-Early Political Career)</container>
+            <container id="aspace_c1b3e87caf68bb9a13df4ef6af4b15ba" parent="aspace_7c0455bd1cb3178a3cf7294dfd2b561a" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-1_8">
+        <c02 id="aspace_5fed605b86582be38cbc9860a283d99f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Photos of Wendell Willkie's Presidential Campaign</unittitle>
-            <unitdate normal="1940">1940</unitdate>
+            <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
+            <container id="aspace_9032d730bfeff8d6b6109835902ba1e0" label="Mixed Materials" type="Box">1 (1-Early Political Career)</container>
+            <container id="aspace_7f838735556a6c1a8850afb323bb303a" parent="aspace_9032d730bfeff8d6b6109835902ba1e0" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-1_9">
+        <c02 id="aspace_78284c863a228edc8206a8c9742bbaad" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Political Correspondence</unittitle>
-            <unitdate normal="1940/1944">1940-1944</unitdate>
+            <unitdate normal="1940/1944" type="inclusive">1940-1944</unitdate>
+            <container id="aspace_96eb694d75bf8d86e71088473e36917f" label="Mixed Materials" type="Box">1 (1-Early Political Career)</container>
+            <container id="aspace_c896e680e1a82895917a80db445fc47c" parent="aspace_96eb694d75bf8d86e71088473e36917f" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-1_10">
+        <c02 id="aspace_288756dbc6beab2579e7a1412f3d040a" level="file">
           <did>
-            <container type="Oversized">1</container>
-            <container type="Folder">1</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate normal="1925/1929">1925-1929</unitdate>
-            <unitdate normal="1939/1940">1939-1940</unitdate>
+            <unitdate normal="1925/1929" type="inclusive">1925-1929</unitdate>
+            <unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate>
+            <container id="aspace_5443e0bab13232ac9c959b40c3c5944f" label="Mixed Materials" type="Oversized">1</container>
+            <container id="aspace_0ebf131ad8db6a066906b0336db9d2e7" parent="aspace_5443e0bab13232ac9c959b40c3c5944f" type="Folder">1</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap248-2">
+      <c01 id="aspace_58947f222b05ebc913dfaba07f2d1e18" level="series">
         <did>
+          <unittitle>Republican National Committee Papers</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Republican National Committee Papers</unittitle>
           <unitdate normal="1948/1967" type="inclusive">1948-1967</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_94a050f98d148d149f652a632ce3640e">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
-          <p>This series includes addresses and statements from Guy George Gabrielson as Republican   National Committee Chairman, committee reports, itineraries, committee meeting minutes,   campaign materials, regional conference proceedings, official news releases, and printed   pamphlets. Topics include the investigation into Gabrielsons ties to Carthage Hydrocol,   Inc., state elections, member organizations, such as the Young Republicans, finances,   and schools of politics.</p>
+        <scopecontent id="aspace_aff6db4463568767ca5817c231f477fe">
+          <head>Scope and Contents</head>
+          <p>This series includes addresses and statements from Guy George Gabrielson as Republican National Committee Chairman, committee reports, itineraries, committee meeting minutes, campaign materials, regional conference proceedings, official news releases, and printed pamphlets. Topics include the investigation into Gabrielsons ties to Carthage Hydrocol, Inc., state elections, member organizations, such as the Young Republicans, finances, and schools of politics.</p>
         </scopecontent>
-        <c02 id="nam_apap248-2_1">
+        <c02 id="aspace_34b9cb6da899414e499f497a7d11f19b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Addresses and Statements by Chairman Gabrielson</unittitle>
-            <unitdate normal="1949">1949</unitdate>
+            <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+            <container id="aspace_2d6775a5bf660a9c5515275364bcefd4" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_c68b489c6daa92ec873279e606864d66" parent="aspace_2d6775a5bf660a9c5515275364bcefd4" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_2">
+        <c02 id="aspace_15b60286a7e9580a104c32af597540d5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Addresses and Statements by Chairman Gabrielson</unittitle>
-            <unitdate normal="1950-01/1950-04">1950 January-1950 April</unitdate>
+            <unitdate normal="1950-01/1950-04" type="inclusive">1950 January-1950 April</unitdate>
+            <container id="aspace_7503c14619d9d0c233674fa444e4f81f" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_2bd78e8f9049de09636194493ad4284a" parent="aspace_7503c14619d9d0c233674fa444e4f81f" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_3">
+        <c02 id="aspace_577eed629071d4ebb1d9e70b8ae7d9fc" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11-12</container>
             <unittitle>Addresses and Statements by Chairman Gabrielson</unittitle>
-            <unitdate normal="1950-05/1950-12">1950 May-1950 December</unitdate>
+            <unitdate normal="1950-05/1950-12" type="inclusive">1950 May-1950 December</unitdate>
+            <container id="aspace_507abda63711a8089c22bff4e80714f6" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_3be2819d0bcdcdafe9c674278314de1d" parent="aspace_507abda63711a8089c22bff4e80714f6" type="Folder">11-12</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_4">
+        <c02 id="aspace_0e248b12638156c40ffde2006699e8c1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13-14</container>
             <unittitle>Addresses and Statements by Chairman Gabrielson</unittitle>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_563b951e67825bf25de41ec0cdd1140b" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_62f17c32c133c17d3f464677569f65c7" parent="aspace_563b951e67825bf25de41ec0cdd1140b" type="Folder">13-14</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_5">
+        <c02 id="aspace_1571aec0dd2abc505d984da16be86f56" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Addresses and Statements by Chairman Gabrielson</unittitle>
-            <unitdate normal="1952-01/1952-06">1952 January-1952 June</unitdate>
+            <unitdate normal="1952-01/1952-06" type="inclusive">1952 January-1952 June</unitdate>
+            <container id="aspace_0dfe8f2d91892c9c833b01e582f68406" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_9d50771005f4ae3968e99ebbcb9db606" parent="aspace_0dfe8f2d91892c9c833b01e582f68406" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_6">
+        <c02 id="aspace_f1034c682132b2a0298275e1f816a6e4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Bennett, John</unittitle>
-            <unitdate normal="1950">1950</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_7852bab3fea16ca772f2f11465d86bd9" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_c75e3ac334fef05c1b1e936e7bb3754d" parent="aspace_7852bab3fea16ca772f2f11465d86bd9" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_7">
+        <c02 id="aspace_4a04c4f90bc19394ab93899e51625b18" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>Budget- Finances , etc.</unittitle>
-            <unitdate normal="1950">1950</unitdate>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_34c57debe87461c4b2196a168ff4038d" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_d8195b3867d5ae00ef00280ebaaf5b9a" parent="aspace_34c57debe87461c4b2196a168ff4038d" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_8">
+        <c02 id="aspace_7192f0630fc6b923bfde12b8abed56ea" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>Campaign- Hatch Act, Expenses, etc.</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_546a21f4c1819d50def4a6b08624f060" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_77c741c8a09d17fe323ab3268ffec895" parent="aspace_546a21f4c1819d50def4a6b08624f060" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_9">
+        <c02 id="aspace_2d35c45050d6863e59e278e013d7859e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>Campaign Speech Kit</unittitle>
-            <unitdate normal="1950">1950</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_06b09db1a7c95664131695cb552b660a" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_79118b9d38fa1cd7632649ac3c838581" parent="aspace_06b09db1a7c95664131695cb552b660a" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_10">
+        <c02 id="aspace_eaa42aae24b13ba7912579db2d1d3307" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>Campaign Speech Kit National republican Congressional Committee</unittitle>
-            <unitdate normal="1950">1950</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_e3c1d0185831d0a9167ef494bbadd9ba" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_3eddaa05bc933080f1785f69e0968723" parent="aspace_e3c1d0185831d0a9167ef494bbadd9ba" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_11">
+        <c02 id="aspace_3bb8bb68739525ef25b2f363dd11b4f0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>Capitol Hill Club</unittitle>
-            <unitdate normal="1951">1951</unitdate>
-            <unitdate normal="1961">1961</unitdate>
-            <unitdate normal="1962">1962</unitdate>
-            <unitdate normal="1966">1966</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_298da9f3835ae5540ddbbae7b1a01c3a" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_839142f95f9cc716d18415e0d9a375e2" parent="aspace_298da9f3835ae5540ddbbae7b1a01c3a" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_12">
+        <c02 id="aspace_4c5562b28e53fcc499b2fc1dbaef15ac" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>Chairman Gabrielson</unittitle>
-            <unitdate normal="1950-02">1950 February</unitdate>
+            <unitdate normal="1950-02/1950-02" type="inclusive">1950 February</unitdate>
+            <container id="aspace_2afb825d2c0c92e5000fba5f7c067a2e" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_6d6967fab5e74fd81b99efb986c288f0" parent="aspace_2afb825d2c0c92e5000fba5f7c067a2e" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_13">
+        <c02 id="aspace_04e112ebe2466a10a3d16fcf08592e07" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23-24</container>
             <unittitle>Chairman Gabrielson- Personal</unittitle>
-            <unitdate normal="1949/1952">1949-1952</unitdate>
+            <unitdate normal="1949/1952" type="inclusive">1949-1952</unitdate>
+            <container id="aspace_aaea1514f853e976188ad88da09a16f4" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_8d369c5a09f84f6ae49efe4aa1e40a04" parent="aspace_aaea1514f853e976188ad88da09a16f4" type="Folder">23-24</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_14">
+        <c02 id="aspace_4f14f137649aa684348b4ea985a0c8a6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">25</container>
             <unittitle>Chairman Gabrielson- Carthage Hydrocol</unittitle>
-            <unitdate normal="1950/1951">1950-1951</unitdate>
+            <unitdate normal="1950/1951" type="inclusive">1950-1951</unitdate>
+            <container id="aspace_9adca68a3f2dc30fad2f734371b955a9" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_5229e69d130d40ccb799089558cd0893" parent="aspace_9adca68a3f2dc30fad2f734371b955a9" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_15">
+        <c02 id="aspace_a30a99f7c2910a786782c991e170009e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">26</container>
             <unittitle>Chairman Gabrielson- Carthage Hydrocol Senate Hearing</unittitle>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_7944896d91ed0e69546d0b05f823317c" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_e23a8b15eaeba6d297907a691d9b37f6" parent="aspace_7944896d91ed0e69546d0b05f823317c" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_16">
+        <c02 id="aspace_037ab3a135ab60722bcc58db3254d8da" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">27</container>
             <unittitle>Chairman Gabrielson Miscellaneous</unittitle>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_de79b791f521725a70e48b526f2815a3" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_afbf13c9b4208be81a99211a4a9c533a" parent="aspace_de79b791f521725a70e48b526f2815a3" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_17">
+        <c02 id="aspace_607446d76f45aff80dc8c93789ea9c1f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">28</container>
             <unittitle>Chairman Pfeiffer- New York Republican State Committee</unittitle>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_508c4c157cee664810604d578fa414d2" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_7884b0d1eed3c79a439b0c1142bbd1c3" parent="aspace_508c4c157cee664810604d578fa414d2" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_18">
+        <c02 id="aspace_89b915fc7fda6baf8d25939edb79496a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">29</container>
             <unittitle>The Chairman's Letter</unittitle>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_e11633569f24e9a5352d9e0167861d51" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_c15bc3bf60ff9a0d85d7cdb4246d54ee" parent="aspace_e11633569f24e9a5352d9e0167861d51" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_19">
+        <c02 id="aspace_91c204d9d5616c139e251bb343fc17e3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">30</container>
             <unittitle>Condolences</unittitle>
-            <unitdate normal="1950/1951">1950-1951</unitdate>
+            <unitdate normal="1950/1951" type="inclusive">1950-1951</unitdate>
+            <container id="aspace_fefa487a9ee35a0790d70b9dcb16f3f4" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_9b52a359c5299e02c258cda36db1ff8a" parent="aspace_fefa487a9ee35a0790d70b9dcb16f3f4" type="Folder">30</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_20">
+        <c02 id="aspace_0f4d32610125478f021b9d45af0eaa07" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">31</container>
             <unittitle>Eastern Regional Conference Mayflower Hotel, Washington, D.C</unittitle>
-            <unitdate normal="1951-10-01">1951 October 01</unitdate>
+            <unitdate normal="1951-10-01/1951-10-01" type="inclusive">1951 October 01</unitdate>
+            <container id="aspace_39987a70924703778b5af2da101fac81" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_4dbc4da0e6429f331a5f42801efafe7d" parent="aspace_39987a70924703778b5af2da101fac81" type="Folder">31</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_21">
+        <c02 id="aspace_c4b8986c99126d69c7f23e10b1e0aa9c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">32</container>
             <unittitle>Eastern Regional Republican Conference Planning</unittitle>
-            <unitdate normal="1951-10">1951 October</unitdate>
+            <unitdate normal="1951-10/1951-10" type="inclusive">1951 October</unitdate>
+            <container id="aspace_5b934983cdec22289358fb8a829a5c60" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_62f383e1d3ed1a44682c024078e2f98a" parent="aspace_5b934983cdec22289358fb8a829a5c60" type="Folder">32</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_22">
+        <c02 id="aspace_c5ed7b08d4b8dc6ab21cf02f5b322581" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">33</container>
             <unittitle>"Editorial Digest"</unittitle>
-            <unitdate normal="1950">1950</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_41a9769e3947bef45c43cf02a527676d" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_5974f86336881c800b86fd8cfd65bea0" parent="aspace_41a9769e3947bef45c43cf02a527676d" type="Folder">33</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_23">
+        <c02 id="aspace_d8ff54ac08923c74b3c92938498f6ec7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">34</container>
             <unittitle>Ethnic Origin Division- RNC</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_a867f27b71aee50597fe3a3f74432110" label="Mixed Materials" type="Box">1 (2-Republican National Committee Papers)</container>
+            <container id="aspace_3559a0f5f499d9338629cff35a155e4e" parent="aspace_a867f27b71aee50597fe3a3f74432110" type="Folder">34</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_24">
+        <c02 id="aspace_825ec5dbd6c8ac837b380890ae25ce79" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Executive Committee Chicago</unittitle>
-            <unitdate normal="1950-05">1950 May</unitdate>
+            <unitdate normal="1950-05/1950-05" type="inclusive">1950 May</unitdate>
+            <container id="aspace_eca5a12b6a7227cf34cb31eb52fbc752" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_78c9aedea555f90a4e545f735cb983dd" parent="aspace_eca5a12b6a7227cf34cb31eb52fbc752" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_25">
+        <c02 id="aspace_c56a7b67db01c119bebf630574fd4388" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>Executive Committee Meeting and Eastern Seaboard Regional Conference Atlantic City, N.J</unittitle>
-            <unitdate normal="1950-06-23">1950 June 23</unitdate>
+            <unitdate normal="1950-06-23/1950-06-23" type="inclusive">1950 June 23</unitdate>
+            <container id="aspace_2efed910f2781b6c7b87a09188824452" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_c7e3bf4037a4fed54b585cc81f64c812" parent="aspace_2efed910f2781b6c7b87a09188824452" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_26">
+        <c02 id="aspace_2ade963c23ac8d681dda72c762056360" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Executive Committee Meeting and Western Regional Conference Salt Lake City</unittitle>
-            <unitdate normal="1950-07-31/1950-08-01">1950 July 31-1950 August 01</unitdate>
+            <unitdate normal="1950-07-31/1950-08-01" type="inclusive">1950 July 31-1950 August 01</unitdate>
+            <container id="aspace_f852ffaf52ff22c6126b1bbe3f1859f8" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_01b949ab627a942f2e77325e5c361ae6" parent="aspace_f852ffaf52ff22c6126b1bbe3f1859f8" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_27">
+        <c02 id="aspace_1d6deb646876de1b3c910cc93bb42f89" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Executive Committee meeting of the RNC and Eastern Regional Conference Mayflower Hotel, D.C</unittitle>
-            <unitdate normal="1951-10-01">1951 October 01</unitdate>
+            <unitdate normal="1951-10-01/1951-10-01" type="inclusive">1951 October 01</unitdate>
+            <container id="aspace_dd46c2a51a249317fb991d2c48e68fbd" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_d5d73068c1d38345ca308963f8a01f63" parent="aspace_dd46c2a51a249317fb991d2c48e68fbd" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_28">
+        <c02 id="aspace_ad31ed70f117b8f816bb943ba1b06ce3" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>Executive Committee Meeting RNC Salt Lake City</unittitle>
-            <unitdate normal="1950-07/1950-08">1950 July-1950 August</unitdate>
+            <unitdate normal="1950-07/1950-08" type="inclusive">1950 July-1950 August</unitdate>
+            <container id="aspace_fbde4550b4ce860a7fd3b96de025bfa6" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_50a561aff58aeb7fd1c1b9638b31929b" parent="aspace_fbde4550b4ce860a7fd3b96de025bfa6" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_29">
+        <c02 id="aspace_844a006237737af4e1fea4bbea15b534" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>Executive Committee Meeting Washington, D.C</unittitle>
-            <unitdate normal="1950-12-08">1950 December 08</unitdate>
+            <unitdate normal="1950-12-08/1950-12-08" type="inclusive">1950 December 08</unitdate>
+            <container id="aspace_24da12f7883a88b8cdac2cef95656674" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_b9acfd77c3a874c0204713227542cc4c" parent="aspace_24da12f7883a88b8cdac2cef95656674" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_30">
+        <c02 id="aspace_db69c545a083f86ffa97a4b82d194b71" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
             <unittitle>Itineraries</unittitle>
-            <unitdate normal="1949/1951">1949-1951</unitdate>
+            <unitdate normal="1949/1951" type="inclusive">1949-1951</unitdate>
+            <container id="aspace_f829605197b3e47390a9b2cafd54f85c" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_16ceed643e7be679bb01630de2fc4482" parent="aspace_f829605197b3e47390a9b2cafd54f85c" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_31">
+        <c02 id="aspace_ddb3c9fc8bcdf5e7f3dc56967b5852dd" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
             <unittitle>Letters Re. Campaign and Election</unittitle>
-            <unitdate normal="1950">1950</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_731d4476ad3a744ee3d59959f592579f" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_145acc203aa69e76c64673d891c823c5" parent="aspace_731d4476ad3a744ee3d59959f592579f" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_32">
+        <c02 id="aspace_1b34a15bc0021a4c65b3220d6989fd73" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
             <unittitle>Mailing Lists</unittitle>
-            <unitdate normal="1950">1950</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_264f806031562c3bbc35cf5e26e51dfe" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_f9556b808c2a05f76967ef6f449cab9e" parent="aspace_264f806031562c3bbc35cf5e26e51dfe" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_33">
+        <c02 id="aspace_6eeaf8027a8c9fc568369d3cd1ee10b8" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10</container>
             <unittitle>Material for Letters and Speeches</unittitle>
-            <unitdate normal="1949">1949</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_ad4e40d7f6863c0bb6106e54d44a48c7" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_6b5d803c29f246c401b5723411c8c37d" parent="aspace_ad4e40d7f6863c0bb6106e54d44a48c7" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_34">
+        <c02 id="aspace_dd08f673b9568fd9cfd3b52a44dd6d12" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">11</container>
             <unittitle>Meeting- Budget and Finance Committee</unittitle>
-            <unitdate normal="1948/1950">1948-1950</unitdate>
+            <unitdate normal="1948/1950" type="inclusive">1948-1950</unitdate>
+            <container id="aspace_3e3e279c2248cf40f2a961523033544e" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_4802b2ed7fc6eca304d96b296e09a967" parent="aspace_3e3e279c2248cf40f2a961523033544e" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_35">
+        <c02 id="aspace_f2280a2280fc8c805619f3b9aef06d33" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">12</container>
             <unittitle>Meeting- Exec. Committee-RNC Chicago</unittitle>
-            <unitdate normal="1950-05">1950 May</unitdate>
+            <unitdate normal="1950-05/1950-05" type="inclusive">1950 May</unitdate>
+            <container id="aspace_1b4a4d4e290df6bdf60e68a0d8c4a542" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_66a8df7f4b5dd283770116c71fcfda65" parent="aspace_1b4a4d4e290df6bdf60e68a0d8c4a542" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_36">
+        <c02 id="aspace_688336e119eeb133c99f03f72c3fe75a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">13</container>
             <unittitle>Meeting- Exec. Committee-RNC Washington D.C.</unittitle>
-            <unitdate normal="1950-12">1950 December</unitdate>
+            <unitdate normal="1950-12/1950-12" type="inclusive">1950 December</unitdate>
+            <container id="aspace_283382135df196926a3958d87b19b7a6" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_5da2a36b772d4392fe654bf9542f6144" parent="aspace_283382135df196926a3958d87b19b7a6" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_37">
+        <c02 id="aspace_1424221351da7f203a6958d02d9c62db" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">14</container>
             <unittitle>Member Lists of State Central Committees</unittitle>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_efcfadb500170269684b37e856c85275" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_21a13f61319c00162a51193117f94d06" parent="aspace_efcfadb500170269684b37e856c85275" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_38">
+        <c02 id="aspace_fdc397dca716351d477c0ebc0f31e4c3" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">15</container>
             <unittitle>Minutes- RNC Washington, D.C</unittitle>
-            <unitdate normal="1951-01">1951 January</unitdate>
+            <unitdate normal="1951-01/1951-01" type="inclusive">1951 January</unitdate>
+            <container id="aspace_e60e2574bc876e4805a3e43eb8219bd5" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_de4ec3ede4c792da622d18936494b0b0" parent="aspace_e60e2574bc876e4805a3e43eb8219bd5" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_39">
+        <c02 id="aspace_d0802e01e613f027fc01deb1dcb78998" level="file">
           <did>
-            <container type="Oversized">2</container>
-            <container type="Folder">1</container>
             <unittitle>Missouri Republican Club Certificate</unittitle>
-            <unitdate normal="1949">1949</unitdate>
+            <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+            <container id="aspace_b2294a198e694350030301e3d07fecbf" label="Mixed Materials" type="Oversized">2</container>
+            <container id="aspace_7b133000c4f7642bd62334d090b0019a" parent="aspace_b2294a198e694350030301e3d07fecbf" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_40">
+        <c02 id="aspace_d01c434b5a8e9a56856269fe9f59a34a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">16</container>
             <unittitle>Mock Conventions</unittitle>
-            <unitdate normal="1952">1952</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_4eea62a346c0c6afe3eca7ea9518b189" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_f29ef70488f87fb5a66efc97921157df" parent="aspace_4eea62a346c0c6afe3eca7ea9518b189" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_41">
+        <c02 id="aspace_8d5f56df8c5bafa70d44c0460ae8175a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">17</container>
             <unittitle>National Committee Meeting Chicago</unittitle>
-            <unitdate normal="1950-09-15/1950-09-16">1950 September 15-1950 September 16</unitdate>
+            <unitdate normal="1950-09-15/1950-09-16" type="inclusive">1950 September 15-1950 September 16</unitdate>
+            <container id="aspace_99f73099117664e0659b9204a1684402" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_f3484e85e185450953048e83f4fb10a1" parent="aspace_99f73099117664e0659b9204a1684402" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_42">
+        <c02 id="aspace_765502dd6b746b44e46cfcefdb8e2936" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">18</container>
             <unittitle>National Committee Meeting Chicago</unittitle>
-            <unitdate normal="1951-01">1951 January</unitdate>
+            <unitdate normal="1951-01/1951-01" type="inclusive">1951 January</unitdate>
+            <container id="aspace_f5bdf5add8f82b312b059d469db5d155" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_5509d231055d72f7e5f9f8c27711a398" parent="aspace_f5bdf5add8f82b312b059d469db5d155" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_43">
+        <c02 id="aspace_eec1d64efe91c7f90e5b69ec161ed656" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">19-20</container>
             <unittitle>National Federation of Women's Republican Clubs</unittitle>
-            <unitdate normal="1949/1955">1949-1955</unitdate>
+            <unitdate normal="1949/1955" type="inclusive">1949-1955</unitdate>
+            <container id="aspace_084544b1bb47225eb2eae65351498bd9" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_737806c7d6137fca5d4ff1a0f3595b1d" parent="aspace_084544b1bb47225eb2eae65351498bd9" type="Folder">19-20</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_44">
+        <c02 id="aspace_c9a6b943e4f847876697331d29377a81" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">21</container>
             <unittitle>"On the Political Front"</unittitle>
-            <unitdate normal="1950/1952">1950-1952</unitdate>
+            <unitdate normal="1950/1952" type="inclusive">1950-1952</unitdate>
+            <container id="aspace_c0a1868b51031bc41a21f49497e1a107" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_bf2a396327b4f5b1093163de4185131a" parent="aspace_c0a1868b51031bc41a21f49497e1a107" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_45">
+        <c02 id="aspace_092b049d9e6dc0a7cc67faf2e40726ab" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">22</container>
             <unittitle>Pro- America</unittitle>
-            <unitdate normal="1942/1943">1942-1943</unitdate>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1942/1943" type="inclusive">1942-1943</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_d8614491c964ce3f29560ea7d81df112" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_94f95efb998d17bdbb561e5ae09f24f5" parent="aspace_d8614491c964ce3f29560ea7d81df112" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_46">
+        <c02 id="aspace_d60821c2b78cf22e4623180235dc8e37" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">23</container>
             <unittitle>Re- Christmas Cards</unittitle>
-            <unitdate normal="1950/1951">1950-1951</unitdate>
+            <unitdate normal="1950/1951" type="inclusive">1950-1951</unitdate>
+            <container id="aspace_e3bcf00734183964af83a851447f0d24" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_d1e23dd069a3c03e6bf61abd036e6bb6" parent="aspace_e3bcf00734183964af83a851447f0d24" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_47">
+        <c02 id="aspace_218b05e5a11d9d617c4dff670fd2bc07" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">24</container>
             <unittitle>Regional Conferences Eastern Seaboard</unittitle>
-            <unitdate normal="1950">1950</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_35beccef28bd247aab7bab3a1eea3809" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_e051a90123936d6983ff245ba396f934" parent="aspace_35beccef28bd247aab7bab3a1eea3809" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_48">
+        <c02 id="aspace_3560803e33f5915555d5c1983ff727d9" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">25</container>
             <unittitle>Regional Meetings</unittitle>
-            <unitdate normal="1960/1961">1960-1961</unitdate>
+            <unitdate normal="1960/1961" type="inclusive">1960-1961</unitdate>
+            <container id="aspace_24aad3e8702482ec753adf1ff402a827" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_428a7aece72cd83fe195a1b6088b5d65" parent="aspace_24aad3e8702482ec753adf1ff402a827" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_49">
+        <c02 id="aspace_bf6c83e59388981a22428dca786bc8b7" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">26</container>
             <unittitle>Releases, Biogs, etc.</unittitle>
-            <unitdate normal="1949/1952">1949-1952</unitdate>
+            <unitdate normal="1949/1952" type="inclusive">1949-1952</unitdate>
+            <container id="aspace_701cf800f5a8faff5fccbf51dd1b1a15" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_7c9f09dff312286fb0a617b6ac46e698" parent="aspace_701cf800f5a8faff5fccbf51dd1b1a15" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_50">
+        <c02 id="aspace_73a1a90cf62e0cd0912bafb86ab9a34e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">27</container>
             <unittitle>Report from George Murphy and Associates Re Go- Party</unittitle>
-            <unitdate normal="1962">1962</unitdate>
+            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+            <container id="aspace_f5bf70903d665a53e895916b43aa51f1" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_644039fa900b45968f69deacaa94d8c6" parent="aspace_f5bf70903d665a53e895916b43aa51f1" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_51">
+        <c02 id="aspace_ab7e2029f5e987ed0134adf3118cdd1d" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">28</container>
             <unittitle>Report of the Chairman of the Finance Committee</unittitle>
-            <unitdate normal="1950">1950</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_47675fac7a9e00819b594af66bbb4092" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_3e199a17bf999a91bac932672b0a4f9f" parent="aspace_47675fac7a9e00819b594af66bbb4092" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_52">
+        <c02 id="aspace_2966659e602b767957ec1b9b6c9da592" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">29-30</container>
             <unittitle>Republican Farm Conference- Sioux City</unittitle>
-            <unitdate normal="1949/1950">1949-1950</unitdate>
+            <unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate>
+            <container id="aspace_f6629c35e30b7ee8b37fab42080d6905" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_72bf9d69d65e3323255c472216e4241d" parent="aspace_f6629c35e30b7ee8b37fab42080d6905" type="Folder">29-30</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_53">
+        <c02 id="aspace_e14fea74680dc43f1bad47e52a24d580" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">31</container>
             <unittitle>RNC</unittitle>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_1d6255f6dedfd16e88e07d02fd7ef284" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_cc0c5383a25daadea47be551ae223a62" parent="aspace_1d6255f6dedfd16e88e07d02fd7ef284" type="Folder">31</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_54">
+        <c02 id="aspace_918ff86d54d54340f6f913b268c964f1" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">32</container>
             <unittitle>RNC</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_a3d1e414079cd798b67b8c038c4f1325" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_bb9c2808bfc314f35c092a7dc1c45eff" parent="aspace_a3d1e414079cd798b67b8c038c4f1325" type="Folder">32</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_55">
+        <c02 id="aspace_14264ab47338e111bad1c3a770b9c0fb" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">33</container>
             <unittitle>RNC Committee Meetings</unittitle>
-            <unitdate normal="1950">1950</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_5a8eee0d83d901a01321a815385a21b3" label="Mixed Materials" type="Box">2 (2-Republican National Committee Papers)</container>
+            <container id="aspace_75ed5eae3413662a5668b341395460ca" parent="aspace_5a8eee0d83d901a01321a815385a21b3" type="Folder">33</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_56">
+        <c02 id="aspace_61196005556ea1246ae389e9eecc641d" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>RNC Lists of Officers, Exec. Committee and Members</unittitle>
-            <unitdate normal="1949/1952">1949-1952</unitdate>
+            <unitdate normal="1949/1952" type="inclusive">1949-1952</unitdate>
+            <container id="aspace_b632691946fdac07c16bff64134fb19c" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_b4176924b3d575521602570ffdc2faaf" parent="aspace_b632691946fdac07c16bff64134fb19c" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_57">
+        <c02 id="aspace_8c7133ddee6e224fc3ef7cdfae414505" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>RNC Meeting and Midwestern and Western National Conference Tulsa</unittitle>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_0ff5dfc5292ed93d9ed59564be174075" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_c92d9dd3b3f496e84af565e0b603ecf5" parent="aspace_0ff5dfc5292ed93d9ed59564be174075" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_58">
+        <c02 id="aspace_57d3f9fc86dddcdd4500cf947717ec8d" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">3</container>
             <unittitle>RNC Meeting and Midwestern and Western National Conference Tulsa, Okla. Gen. Info</unittitle>
-            <unitdate normal="1951-05-11/1951-05-12">1951 May 11-1951 May 12</unitdate>
+            <unitdate normal="1951-05-11/1951-05-12" type="inclusive">1951 May 11-1951 May 12</unitdate>
+            <container id="aspace_c157d7576967f5d1212f42c9f6acbe6f" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_6bce8075cb87b82f481e0a00221088c6" parent="aspace_c157d7576967f5d1212f42c9f6acbe6f" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_59">
+        <c02 id="aspace_4e90db9034efa62a50ba06a30c85d230" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4-5</container>
             <unittitle>RNC Meeting and Report of Finance Committee San Francisco</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_815a16a0ce8749fd20d523e9ecbcdde5" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_1a474bcd3e2a463bb5c41df5a756a191" parent="aspace_815a16a0ce8749fd20d523e9ecbcdde5" type="Folder">4-5</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_60">
+        <c02 id="aspace_32b85aecb4ec98da79c2ddf9baa9c762" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">6</container>
             <unittitle>RNC Meeting Chicago</unittitle>
-            <unitdate normal="1952">1952</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_f7303aaf6c13ac7b89306481f73e236a" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_2175ebaea1ac08dbe052835387a33b57" parent="aspace_f7303aaf6c13ac7b89306481f73e236a" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_61">
+        <c02 id="aspace_9b66265de174379b4509318518f1aef3" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">7</container>
             <unittitle>RNC Meeting- Executive Session Washington, D.C.</unittitle>
-            <unitdate normal="1951-10">1951 October</unitdate>
+            <unitdate normal="1951-10/1951-10" type="inclusive">1951 October</unitdate>
+            <container id="aspace_35829c54f07180d48fd6f30ed0c471f9" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_d526e8b8b8db7a2a74bcec10478250e5" parent="aspace_35829c54f07180d48fd6f30ed0c471f9" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_62">
+        <c02 id="aspace_6cc2fae9d05a4dedf4aa2edd1cc5667f" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">8</container>
             <unittitle>RNC Meeting Executive Session Washington, D.C</unittitle>
-            <unitdate normal="1951-01">1951 January</unitdate>
+            <unitdate normal="1951-01/1951-01" type="inclusive">1951 January</unitdate>
+            <container id="aspace_ec9b6a9a572b83ebaf317fac63d3bbd9" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_43083c52c09c840ebe5aa3281bb519c7" parent="aspace_ec9b6a9a572b83ebaf317fac63d3bbd9" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_63">
+        <c02 id="aspace_3d5bb0fd025a507a7458ea294348dbfb" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">9</container>
             <unittitle>RNC Meeting Minutes</unittitle>
-            <unitdate normal="1950/1951">1950-1951</unitdate>
+            <unitdate normal="1950/1951" type="inclusive">1950-1951</unitdate>
+            <container id="aspace_30672fa3708087c3b173b286aa942d6c" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_97ead2fd4910836afb209908e951d3e4" parent="aspace_30672fa3708087c3b173b286aa942d6c" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_64">
+        <c02 id="aspace_dae4897cd9517371b98ad9675f334bd7" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">10</container>
             <unittitle>RNC Meeting San Francisco</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_b6539f9f3a205d4ed8ae06770a4ab249" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_b2ff87842c2e0a5b472cadc07df98071" parent="aspace_b6539f9f3a205d4ed8ae06770a4ab249" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_65">
+        <c02 id="aspace_98ba7685f97121113dd7dca6bc37673e" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">11-12</container>
             <unittitle>RNC Meeting San Francisco</unittitle>
-            <unitdate normal="1952-01">1952 January</unitdate>
+            <unitdate normal="1952-01/1952-01" type="inclusive">1952 January</unitdate>
+            <container id="aspace_80e010330f13138c41f6cb2e6d568535" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_63cff496c22462012c254ede35021a97" parent="aspace_80e010330f13138c41f6cb2e6d568535" type="Folder">11-12</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_66">
+        <c02 id="aspace_2fd1269983fddc9844089f3d2059785a" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">13</container>
             <unittitle>RNC Meeting- Tulsa, Oklahoma</unittitle>
-            <unitdate normal="1951-05">1951 May</unitdate>
+            <unitdate normal="1951-05/1951-05" type="inclusive">1951 May</unitdate>
+            <container id="aspace_c54a3e19259d805381eb707765fb3ae1" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_ff58bedda8f236ed1f96891f0c27d2e9" parent="aspace_c54a3e19259d805381eb707765fb3ae1" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_67">
+        <c02 id="aspace_9f31f583333010b33864380281467e70" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">14</container>
             <unittitle>RNC Meeting Washington, D.C.</unittitle>
-            <unitdate normal="1949/1950">1949-1950</unitdate>
+            <unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate>
+            <container id="aspace_e3d2a74f19b827762c75e20db56913b5" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_ae322b3a88dbe772e8910b6491ff0c1c" parent="aspace_e3d2a74f19b827762c75e20db56913b5" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_68">
+        <c02 id="aspace_8e76da6b177d3202b159e6cd94c41936" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">15</container>
             <unittitle>RNC Meeting Washington, D.C.</unittitle>
-            <unitdate normal="1950">1950</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_c1e553b02b85ed46d9dcde845ed1c2ed" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_5e1f2de12518a548fd99705ffdef16fe" parent="aspace_c1e553b02b85ed46d9dcde845ed1c2ed" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_69">
+        <c02 id="aspace_f866e6044d80e28f54a54cf64648eafa" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">16</container>
             <unittitle>RNC Meeting Washington, D.C.</unittitle>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_800e22afe89cbb4f5d148e0b9836ec2d" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_5b6e88341ddef48db085b69c45c503c6" parent="aspace_800e22afe89cbb4f5d148e0b9836ec2d" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_70">
+        <c02 id="aspace_8779f14b1f284235906452bb2130ab41" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">17</container>
             <unittitle>RNC National Farm Conference Sioux City</unittitle>
-            <unitdate normal="1949-09-23">1949 September 23</unitdate>
+            <unitdate normal="1949-09-23/1949-09-23" type="inclusive">1949 September 23</unitdate>
+            <container id="aspace_1b4d8f06a07b03b57e96abc00cef4dc2" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_5d4eb84cadbea78136610d73f0f71724" parent="aspace_1b4d8f06a07b03b57e96abc00cef4dc2" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_71">
+        <c02 id="aspace_277dbd976ea95e3f76b324d755691ee6" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">18</container>
             <unittitle>RNC National Farm Conference Sioux City</unittitle>
-            <unitdate normal="1949-09-24">1949 September 24</unitdate>
+            <unitdate normal="1949-09-24/1949-09-24" type="inclusive">1949 September 24</unitdate>
+            <container id="aspace_7d551716c12ad8948f420394583563f8" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_9119e1c3fd91e3914815f246dad30504" parent="aspace_7d551716c12ad8948f420394583563f8" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_72">
+        <c02 id="aspace_ed714d60dca27f029c89ab76fc9a10c7" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">19</container>
             <unittitle>RNC News Releases and Publications</unittitle>
-            <unitdate normal="1950/1951">1950-1951</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1950/1951" type="inclusive">1950-1951</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_d7d2d374c01a54ef22106e6449b1145c" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_11c002a5645f0c28a484370496c15577" parent="aspace_d7d2d374c01a54ef22106e6449b1145c" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_73">
+        <c02 id="aspace_c788aeec4eb44cfc34c28953f83707f4" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">20</container>
             <unittitle>RNC Publications- Campaign/Organizations Strategy</unittitle>
-            <unitdate normal="1951">1951</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_4f482f77f5ee052132066955acd8c6de" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_651fd702bb22ec5783d6bccfca4bdc96" parent="aspace_4f482f77f5ee052132066955acd8c6de" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_74">
+        <c02 id="aspace_7f36798355e24e9ca221ded455e8cce0" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">21</container>
             <unittitle>RNC Publications- History and Background</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
-            <unitdate normal="1967">1967</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_c5c1a25aba07f212aa6558940c4b662b" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_46b90108879862854a1155b0f0f37625" parent="aspace_c5c1a25aba07f212aa6558940c4b662b" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_75">
+        <c02 id="aspace_849ba59896102ff6eba1a05f4dab85bd" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">22</container>
             <unittitle>RNC Regional Conferences</unittitle>
-            <unitdate normal="1950/1951">1950-1951</unitdate>
+            <unitdate normal="1950/1951" type="inclusive">1950-1951</unitdate>
+            <container id="aspace_b42fba8ae7066a1a50359095a532fd30" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_02a50322dfbed99b0b3e2af356fa09ff" parent="aspace_b42fba8ae7066a1a50359095a532fd30" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_76">
+        <c02 id="aspace_9cddceac34afdbc3821dc9b37a80e97a" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">23</container>
             <unittitle>RNC Secretary Mrs. Charles P. Howard</unittitle>
-            <unitdate normal="1949/1952">1949-1952</unitdate>
+            <unitdate normal="1949/1952" type="inclusive">1949-1952</unitdate>
+            <container id="aspace_add21885ee22e4e025c685241dfd7c25" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_35cabae9774d314d35eb33ffdd4738e0" parent="aspace_add21885ee22e4e025c685241dfd7c25" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_77">
+        <c02 id="aspace_7fb3e57c05d8aa389b6dc03b96d8113e" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">24</container>
             <unittitle>RNC Secretary- Mrs. Knowles</unittitle>
-            <unitdate normal="1949">1949</unitdate>
+            <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+            <container id="aspace_66261560d0dc8db5c544be18b53e1f66" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_96ab71d2b0ebc5a62bf7c8f972b5eb6a" parent="aspace_66261560d0dc8db5c544be18b53e1f66" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_78">
+        <c02 id="aspace_a0fbba1dc64495e527ba6f03d17fa049" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">25</container>
             <unittitle>School of Politics</unittitle>
-            <unitdate normal="1950">1950</unitdate>
-            <unitdate normal="1950/1952">1950-1952</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <unitdate normal="1950/1952" type="inclusive">1950-1952</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_0c2b419c87a5332e9eac4c27ea8bfa8d" label="Mixed Materials" type="Box">3 (2-Republican National Committee Papers)</container>
+            <container id="aspace_a3322e8c3b4b59153e6c9921ef8d0988" parent="aspace_0c2b419c87a5332e9eac4c27ea8bfa8d" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_79">
+        <c02 id="aspace_0dd3bf22fc0aa2fe8f3e6946c208d8ab" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">1</container>
             <unittitle>Speakers Bureau- Radio/TV</unittitle>
-            <unitdate normal="1950">1950</unitdate>
-            <unitdate normal="1954">1954</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <unitdate normal="1954/1954" type="inclusive">1954</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_c5c1b5d85311c0716ef4a838a62936a1" label="Mixed Materials" type="Box">4 (2-Republican National Committee Papers)</container>
+            <container id="aspace_b1413e61d223a0b2dcd5c73a7ec1fe26" parent="aspace_c5c1b5d85311c0716ef4a838a62936a1" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_80">
+        <c02 id="aspace_e94f004254ca4779dbc176d736f53b2e" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">2-3</container>
             <unittitle>State Elections</unittitle>
-            <unitdate normal="1948/1950">1948-1950</unitdate>
+            <unitdate normal="1948/1950" type="inclusive">1948-1950</unitdate>
+            <container id="aspace_2c4eb9158f14ea0b2c9064c6c1b886cd" label="Mixed Materials" type="Box">4 (2-Republican National Committee Papers)</container>
+            <container id="aspace_a3230203a1d2b4514932c714d013a848" parent="aspace_2c4eb9158f14ea0b2c9064c6c1b886cd" type="Folder">2-3</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_81">
+        <c02 id="aspace_e554fda32bfed4210a63a103af1b9c65" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">4</container>
             <unittitle>Truman Research</unittitle>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_b3393dae9afd154cfe8f95d4b1582626" label="Mixed Materials" type="Box">4 (2-Republican National Committee Papers)</container>
+            <container id="aspace_d12c319c9fc7dfe54a6fabf89d0b0acc" parent="aspace_b3393dae9afd154cfe8f95d4b1582626" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_82">
+        <c02 id="aspace_71a9c55bb3bfb67af0b7f24432c3b90d" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">5</container>
             <unittitle>Women's Division</unittitle>
-            <unitdate normal="1950/1952">1950-1952</unitdate>
+            <unitdate normal="1950/1952" type="inclusive">1950-1952</unitdate>
+            <container id="aspace_3ff42299071f5a36405632a32fd3934f" label="Mixed Materials" type="Box">4 (2-Republican National Committee Papers)</container>
+            <container id="aspace_445a8e9bee999f167a2258656627bb15" parent="aspace_3ff42299071f5a36405632a32fd3934f" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_83">
+        <c02 id="aspace_f85c5c4978d14e30c5c382bd9bc27273" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">6</container>
             <unittitle>Women's Federation</unittitle>
-            <unitdate normal="1950">1950</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_5a74cd1f744052a877787269e4925860" label="Mixed Materials" type="Box">4 (2-Republican National Committee Papers)</container>
+            <container id="aspace_a384f9826ac259ce9c5b0eeef0a13dcb" parent="aspace_5a74cd1f744052a877787269e4925860" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-2_84">
+        <c02 id="aspace_651ddd15d17334d3534f19f987721d0a" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">7</container>
             <unittitle>Young Republicans</unittitle>
-            <unitdate normal="1950/1952">1950-1952</unitdate>
+            <unitdate normal="1950/1952" type="inclusive">1950-1952</unitdate>
+            <container id="aspace_dcd0e67bf97810f670423c4a586f4903" label="Mixed Materials" type="Box">4 (2-Republican National Committee Papers)</container>
+            <container id="aspace_8bb7faf7757ba171b1bc17a1fee4fb29" parent="aspace_dcd0e67bf97810f670423c4a586f4903" type="Folder">7</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap248-3">
+      <c01 id="aspace_c332451ff6938cbf79e372469dc3c780" level="series">
         <did>
+          <unittitle>Republican National Committee 1952 Convention</unittitle>
           <unitid>3</unitid>
-          <unittitle label="Series">Republican National Committee 1952   Convention</unittitle>
-          <unitdate normal="1948/1956" type="inclusive">1948-1956</unitdate>
-          <physdesc>
+          <physdesc altrender="whole">
             <dimensions unit="Digital Files">1</dimensions>
           </physdesc>
+          <unitdate normal="1948/1956" type="inclusive">1948-1956</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_f5506046c8e4e69ea9c2ddd051522d78">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
-          <p>The bulk of this series is a by-product of the exhaustive planning for the 1952   Republican National Convention that nominated General Dwight D. Eisenhower for   president. It includes committee reports, correspondence with local businesses,   candidate information, the official convention program and campaign materials. Topics   include finance, hotels/housing, chaplains, doorkeepers and preparatory actions by   various state committees.</p>
+        <scopecontent id="aspace_17780f8d9336ed6082dbeff943e8c4a7">
+          <head>Scope and Contents</head>
+          <p>The bulk of this series is a by-product of the exhaustive planning for the 1952 Republican National Convention that nominated General Dwight D. Eisenhower for president. It includes committee reports, correspondence with local businesses, candidate information, the official convention program and campaign materials. Topics include finance, hotels/housing, chaplains, doorkeepers and preparatory actions by various state committees.</p>
         </scopecontent>
-        <c02 id="nam_apap248-3_1">
+        <c02 id="aspace_f0c20c27378ed1b9d81ab7048d1294b3" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">8</container>
             <unittitle>Applications- General</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_f5a73d247098fd779bbdb315d8fcfbcc" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_6e1ae8df09fe1d18e442220db93c87ed" parent="aspace_f5a73d247098fd779bbdb315d8fcfbcc" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_2">
+        <c02 id="aspace_8c0c4db7cdde4e0784c1cef2fb889747" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">9</container>
             <unittitle>Assignments</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_1c4f85518e661e1373b13dc81a406dfc" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_5304ccc15ae198b14e19ef4a5cfaf669" parent="aspace_1c4f85518e661e1373b13dc81a406dfc" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_3">
+        <c02 id="aspace_be72b80da6d7ca6cc9b3208a355edaec" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">10</container>
             <unittitle>Assistant Chairman</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_9d02def958d48a0e77d1cf93a70a5fa9" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_7d501ee3829436d6ed2e758bdd01653a" parent="aspace_9d02def958d48a0e77d1cf93a70a5fa9" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_4">
+        <c02 id="aspace_bd5395f7d88ca03545a5161f7189eec2" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">11</container>
             <unittitle>Background Information</unittitle>
-            <unitdate normal="1948">1948</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_8808c3337d4891949a7bcd7ba5bf9920" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_3e5be85185c9ab26003e869fd8675b67" parent="aspace_8808c3337d4891949a7bcd7ba5bf9920" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_5">
+        <c02 id="aspace_8417e1a57a5298e78b3ac782438ca42f" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">12</container>
             <unittitle>California</unittitle>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_fe91bf93f18328e11d1d64599560e147" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_4b44e8027348c575faf55643d19a10f2" parent="aspace_fe91bf93f18328e11d1d64599560e147" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_6">
+        <c02 id="aspace_f6e80b7dc78ff1480a8d55492893b473" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">13</container>
             <unittitle>Campaign</unittitle>
-            <unitdate normal="1952">1952</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_295662c838a420c6c4e9d9437bcb2109" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_159dcb1bd36aa1b1594929efa9d819ea" parent="aspace_295662c838a420c6c4e9d9437bcb2109" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_7">
+        <c02 id="aspace_9a602d3f692b18f5e941d8df3f93f4e5" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">14</container>
             <unittitle>Campaign Material</unittitle>
-            <unitdate normal="1950/1952">1950-1952</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1950/1952" type="inclusive">1950-1952</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_98d35ce42f989c03c126d72d40ede132" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_ea39d328f9b4ef1e4d7fe900e6f3efe4" parent="aspace_98d35ce42f989c03c126d72d40ede132" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_8">
+        <c02 id="aspace_bd74f770185e078c4ee48005781624e1" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">15</container>
             <unittitle>Candidate Eisenhower, Dwight D.</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
-            <unitdate normal="1956">1956</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_c4854702adee9c7a5db81f338ed0957c" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_cbf99fe96bb71d20717e889b7672860a" parent="aspace_c4854702adee9c7a5db81f338ed0957c" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_9">
+        <c02 id="aspace_b09bee7c7df397e7040358aede4b328a" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">16</container>
             <unittitle>Candidate Macarthur, Douglas</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_10e4ba3b6042bfa569c60a15a1c05477" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_b378ff870baa972d312d5847f3acfb5c" parent="aspace_10e4ba3b6042bfa569c60a15a1c05477" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_10">
+        <c02 id="aspace_1094a329b207f7fc2c89765f16ed2142" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">17</container>
             <unittitle>Candidate Stassen, Harold, E.</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_757c2861076d6a06e402a196ccd364c1" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_deee912650d933a82565c6137df371dc" parent="aspace_757c2861076d6a06e402a196ccd364c1" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_11">
+        <c02 id="aspace_ebb6d6893357167701f9d5d9731c664f" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">18</container>
             <unittitle>Candidate Taft, Robert A.</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_d5e388a186ceacf0f09b7c66900861f3" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_fdffb0a794872621190eff24f472febb" parent="aspace_d5e388a186ceacf0f09b7c66900861f3" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_12">
+        <c02 id="aspace_6086d1a242829802169b07373f4c10b6" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">19</container>
             <unittitle>Candidate Warren, Earl</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_310dc31556c75c17549310557d7adfaf" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_1a385b047ccccf5b6b974110529007e6" parent="aspace_310dc31556c75c17549310557d7adfaf" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_13">
+        <c02 id="aspace_cc000c398584ab2483abea7794e7b238" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">20</container>
             <unittitle>Chairman</unittitle>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_a622c8222991041b6fe85055e7bed6d0" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_d5f5e26f64f97b53114fc4983c5cd5a6" parent="aspace_a622c8222991041b6fe85055e7bed6d0" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_14">
+        <c02 id="aspace_4d4819c9a1b175b4d9e890713bad2756" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">21</container>
             <unittitle>Chairman- Finance</unittitle>
-            <unitdate normal="1950/1951">1950-1951</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1950/1951" type="inclusive">1950-1951</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_f208222ed8f3279b3596f00ea108f866" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_66fabdef8c25cc281c6c664c034634b4" parent="aspace_f208222ed8f3279b3596f00ea108f866" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_15">
+        <c02 id="aspace_2cc9c60fc95930d395ea3b5b8ac2bbaa" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">22</container>
             <unittitle>Chaplains</unittitle>
-            <unitdate normal="1952">1952</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_46401c60bfa90180d3eda06e446a9ba2" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_b73450306a7ae1167847fcfa279dbb83" parent="aspace_46401c60bfa90180d3eda06e446a9ba2" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_16">
+        <c02 id="aspace_3094692ff492e2e81cf0a2e17985ed65" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">23</container>
             <unittitle>Chicago Convention Bldg. and International Amphitheatre</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_e1f66a3fe22fa895b26fc51427c9d809" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_b789c4c266314e8c41fa8a3226ff96c7" parent="aspace_e1f66a3fe22fa895b26fc51427c9d809" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_17">
+        <c02 id="aspace_0ffd933db8c1ef13a28a8e0942806e2c" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">24-25</container>
             <unittitle>Chicago Site Solicitation</unittitle>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_b2f7c61746ca3b1eec6f275aaf520f9d" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_68dd29054f78df72d7ee010ab849f4da" parent="aspace_b2f7c61746ca3b1eec6f275aaf520f9d" type="Folder">24-25</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_18">
+        <c02 id="aspace_b87819123ec4fe75e7390df935c5797e" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">26</container>
             <unittitle>Convent Information/Official Program</unittitle>
-            <unitdate normal="1952">1952</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_143b0d476f83d656487f765123d4c533" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_fb298675fa19db719d1ea73ac2994df7" parent="aspace_143b0d476f83d656487f765123d4c533" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_19">
+        <c02 id="aspace_9b8f2b88578db810bdbbc8abb3b3a02e" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">27</container>
             <unittitle>Committee on Arrangements</unittitle>
-            <unitdate normal="1950/1952">1950-1952</unitdate>
+            <unitdate normal="1950/1952" type="inclusive">1950-1952</unitdate>
+            <container id="aspace_55d806cf30312b6d7d7a3d61a24a9967" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_9d3d83011995c072aa1aed4d94654bc0" parent="aspace_55d806cf30312b6d7d7a3d61a24a9967" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_20">
+        <c02 id="aspace_1b2f13513600853bded6f8965a4b4b88" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">28-29</container>
             <unittitle>Committee on Arrangements</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_cfffff3dd2987ec5177398d1f42cea61" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_8e05443b6ad07be9f21fea9ce4a4949d" parent="aspace_cfffff3dd2987ec5177398d1f42cea61" type="Folder">28-29</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_21">
+        <c02 id="aspace_7af5f0bc971f877bcd3a4c680f5269b4" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">30-34</container>
             <unittitle>Committee on Arrangements</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_3799b9c3c2603261462e41a31c909d33" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_59ce12cb73ccd51610f016e49f970967" parent="aspace_3799b9c3c2603261462e41a31c909d33" type="Folder">30-34</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_22">
+        <c02 id="aspace_43916ea8ab41f6e4a56064356a783e60" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">35</container>
             <unittitle>Committee on Arrangements- Mooberg, Henry E.</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_a44fa5aac92ca3594d5c7f254c9699ba" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_1cd76fcde164cf3c44fd37a384e920d3" parent="aspace_a44fa5aac92ca3594d5c7f254c9699ba" type="Folder">35</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_23">
+        <c02 id="aspace_9e8a8e9f552c452423d41704338bb7e4" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">36</container>
             <unittitle>Committee on Arrangements- Report of Housing Subcommittee</unittitle>
-            <unitdate normal="1953">1953</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_e22cea91c42b8fe6287841c46fbbab9f" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_86e8a70fc5cfd65dce44d9f492af0826" parent="aspace_e22cea91c42b8fe6287841c46fbbab9f" type="Folder">36</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_24">
+        <c02 id="aspace_d7fb039497db5503bd7ee0c222446326" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">37</container>
             <unittitle>Committee on Arrangements San Francisco</unittitle>
-            <unitdate normal="1952-01">1952 January</unitdate>
+            <unitdate normal="1952-01/1952-01" type="inclusive">1952 January</unitdate>
+            <container id="aspace_0be22e34c1a0e32b16f798fe053adf43" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_e56d9d26ac39418c0bfb7552609a04b3" parent="aspace_0be22e34c1a0e32b16f798fe053adf43" type="Folder">37</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_25">
+        <c02 id="aspace_8b4bf7761c8c9c253d70e0d4d1780692" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">38</container>
             <unittitle>Committee on Arrangements San Francisco Executive Session</unittitle>
-            <unitdate normal="1952-01">1952 January</unitdate>
+            <unitdate normal="1952-01/1952-01" type="inclusive">1952 January</unitdate>
+            <container id="aspace_fbe7a78c6807e184a33787f3e4ab43fa" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_947bdd55ba12b77109b9cc76264bf875" parent="aspace_fbe7a78c6807e184a33787f3e4ab43fa" type="Folder">38</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_26">
+        <c02 id="aspace_26780d5ff45dcdeb1ec0a94b06206759" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">39</container>
             <unittitle>Committee on Arrangements Treasurer</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_12ecb1636941ca4b5596b0027b16db56" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_56305ae631c8482e0342d8379a641b04" parent="aspace_12ecb1636941ca4b5596b0027b16db56" type="Folder">39</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_27">
+        <c02 id="aspace_08fa1c94323c1e49a3b0978bb8757638" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">40</container>
             <unittitle>Committee on Call</unittitle>
-            <unitdate normal="1950/1952">1950-1952</unitdate>
+            <unitdate normal="1950/1952" type="inclusive">1950-1952</unitdate>
+            <container id="aspace_0a7684445bde1a1ff35f3e77aad32427" label="Mixed Materials" type="Box">4 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_5fec01c4271b3f44b353467bf826e5e6" parent="aspace_0a7684445bde1a1ff35f3e77aad32427" type="Folder">40</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_28">
+        <c02 id="aspace_109a797d09820771ebd9203cda984fd3" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">1</container>
             <unittitle>Committee on Call</unittitle>
-            <unitdate normal="1950/1952">1950-1952</unitdate>
+            <unitdate normal="1950/1952" type="inclusive">1950-1952</unitdate>
+            <container id="aspace_5fd003c75fb689ca8e38bc042a5c5be8" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_eac95e9f2ded8615772d1f17968fceaf" parent="aspace_5fd003c75fb689ca8e38bc042a5c5be8" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_29">
+        <c02 id="aspace_e826ac406adfad6953ba180e3a394d2e" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">2</container>
             <unittitle>Committee on Contests</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_e8f10829b7a167def38281cd6fc2c68d" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_9001544398b98c8c9bb0f289e9f9065c" parent="aspace_e8f10829b7a167def38281cd6fc2c68d" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_30">
+        <c02 id="aspace_eb8dcc251f91e0fda4400863e470551d" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">3</container>
             <unittitle>Committee on Resolutions (Platform)</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_50cf7cd149c9cbef659ae53e7a3d4271" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_b5a0ccbbf34eb6010ba100843740a0fe" parent="aspace_50cf7cd149c9cbef659ae53e7a3d4271" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_31">
+        <c02 id="aspace_1988661e1296f81647f025ff3945397a" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">4</container>
             <unittitle>Committee on Rules</unittitle>
-            <unitdate normal="1948">1948</unitdate>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_f0ba9ffb6dfd7355bf3ed0cacc718cbc" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_cec3f66c18534aa004775723270c7181" parent="aspace_f0ba9ffb6dfd7355bf3ed0cacc718cbc" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_32">
+        <c02 id="aspace_659e547d3cae6667347ea66a150467ae" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">5</container>
             <unittitle>Committee on Site</unittitle>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_f50ad51ca2076a980b4214ffba3ec58e" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_5c6d143690704dde2128eb8da8d198b7" parent="aspace_f50ad51ca2076a980b4214ffba3ec58e" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_33">
+        <c02 id="aspace_3f5ef13af7082057f908e183199dec13" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">6</container>
             <unittitle>Committee on Site</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_c9b7ca4eae5c9c4e8a58299058938eb2" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_ada1739501f897fcc85002e24574b8d3" parent="aspace_c9b7ca4eae5c9c4e8a58299058938eb2" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_34">
+        <c02 id="aspace_90b02e7b2dec743c9532365bae7c8f3a" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">7</container>
             <unittitle>Committee on Site- Meetings</unittitle>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_71e52e4b5127c995f0cb6fe91d98d0a5" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_dd3449270fbf7b14362a519d165f06d7" parent="aspace_71e52e4b5127c995f0cb6fe91d98d0a5" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_35">
+        <c02 id="aspace_c0f4421d6cc6298b7258d37483e7abb8" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">8</container>
             <unittitle>Committee Reports</unittitle>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_261d13a0b060be82c85c989f293a41a5" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_f2643e1529b58b9716ede1fddfeb9cca" parent="aspace_261d13a0b060be82c85c989f293a41a5" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_36">
+        <c02 id="aspace_a20e7d908a4fd9c4ef291e6c8cdf4081" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">9</container>
             <unittitle>Committees and Subcommittees</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_33f9a65c52829ff1a4769a8f9ddd28d6" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_b64d9b71b0f9c45d1b1986b5c227b55b" parent="aspace_33f9a65c52829ff1a4769a8f9ddd28d6" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_37">
+        <c02 id="aspace_14f3c800d8dc9c098c4822327cf6f6cd" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">10</container>
             <unittitle>Contest- Florida</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_2e9f31324609695ca7711d0567e6f11b" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_18ced20f665b09dc3a5be0f54a03cb04" parent="aspace_2e9f31324609695ca7711d0567e6f11b" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_38">
+        <c02 id="aspace_121f50f3c247021f82d99bff33ea6149" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">11</container>
             <unittitle>Contest- Georgia</unittitle>
-            <unitdate normal="1952">1952</unitdate>
-            <dao actuate="onrequest" href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/apap248/nam_apap248-3_38.pdf" linktype="simple" show="new"/>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_374dab07d0e9d2a448afb8f50384187d" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_0e5064b676901e853c5c615e8bc93053" parent="aspace_374dab07d0e9d2a448afb8f50384187d" type="Folder">11</container>
+            <dao xlink:actuate="onrequest" xlink:href="http://library.albany.edu/speccoll/findaids/eresources/digital_objects/apap248/nam_apap248-3_38.pdf" xlink:show="new" xlink:title="Contest- Georgia">
+              <daodesc>
+                <p>Contest- Georgia</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_39">
+        <c02 id="aspace_e6546e4b3efa62b7fc31f5556c0334a8" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">12</container>
             <unittitle>Contest- Louisiana</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_9b0ac8c2504c2e42669dfa0943ad03b2" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_6410950ca8c321a26a8d4fd5a60ccd80" parent="aspace_9b0ac8c2504c2e42669dfa0943ad03b2" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_40">
+        <c02 id="aspace_0a4bf7166400de0138b652dd8679516a" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">13</container>
             <unittitle>Contests</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_4a1d78d1b75ed6c10fb96419c0dc42ec" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_79761fd0aad9429929ba14ad510f175c" parent="aspace_4a1d78d1b75ed6c10fb96419c0dc42ec" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_41">
+        <c02 id="aspace_ccc0c8c7aa6708e26cb530c3108c711b" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">14</container>
             <unittitle>Contracts</unittitle>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_8b4f952f780183b77bacdaed2a23a766" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_f764bd8d26af8754b570042450f1f2b9" parent="aspace_8b4f952f780183b77bacdaed2a23a766" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_42">
+        <c02 id="aspace_79351473d86e91f90e785e920299cb9b" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">15</container>
             <unittitle>Convention Assignments</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_a8a61c8dff93b88f4f63c70d7d16b53c" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_2f440a9468a8844e5650175b1c3a25b1" parent="aspace_a8a61c8dff93b88f4f63c70d7d16b53c" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_43">
+        <c02 id="aspace_fa98bc8eab929a75fe7dc8f9c300a8ae" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">16</container>
             <unittitle>Convention Balloons</unittitle>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_f6feb0e4722d8bb15cda6dea14a8ed18" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_e23a37346492d88bb7881d2683859398" parent="aspace_f6feb0e4722d8bb15cda6dea14a8ed18" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_44">
+        <c02 id="aspace_cc8ec748a4eb3eee2e185ac043711912" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">17</container>
             <unittitle>Convention Prayers</unittitle>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_93c23e71fb8bb9f68de26a16078e1fdc" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_037c60e3558ede6416840073925ffd7b" parent="aspace_93c23e71fb8bb9f68de26a16078e1fdc" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_45">
+        <c02 id="aspace_110eb21d83b5b9f418a47276d80cf696" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">18</container>
             <unittitle>Credentials Committee</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_4666d374ff37216a22a439eb2edeea37" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_79077de4e7c3524be96490367ec7913c" parent="aspace_4666d374ff37216a22a439eb2edeea37" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_46">
+        <c02 id="aspace_f176bbebc952abd971665cb645774938" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">19</container>
             <unittitle>Delegates</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_f42024ba45658c89d9600aa25983ef2a" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_5a3341a3f28cf4e8fc9180ac4a46d0a2" parent="aspace_f42024ba45658c89d9600aa25983ef2a" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_47">
+        <c02 id="aspace_b9d353230ee1519327470d2c2662d6f0" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">20</container>
             <unittitle>Doorkeepers</unittitle>
-            <unitdate normal="1952">1952</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_8bb16ae4559fd7896cab5f2a0be5ffb1" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_4684b0bf72cde89729184da2d5d022fd" parent="aspace_8bb16ae4559fd7896cab5f2a0be5ffb1" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_48">
+        <c02 id="aspace_7166d8ae3c4ff2e75d3e26701cd5a02b" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">21</container>
             <unittitle>Finance</unittitle>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_e896db2303e8eb35a138d62405acca3b" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_878eae08973fc8911c16baf9a5ff5d26" parent="aspace_e896db2303e8eb35a138d62405acca3b" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_49">
+        <c02 id="aspace_3aecae0d4ffefea9003c8ed0cd4c8040" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">22</container>
             <unittitle>Florida</unittitle>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_435953fc0fadf8a664647dee220ed6cc" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_ad87160788df058bd1a9555203fb416c" parent="aspace_435953fc0fadf8a664647dee220ed6cc" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_50">
+        <c02 id="aspace_4379971a71cc64427781d1deb787c113" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">23</container>
             <unittitle>Form Letters</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_afa2e1785a19df5dad389bc55c30b9a1" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_1d395a443eae0e86f93b065c45e45aa7" parent="aspace_afa2e1785a19df5dad389bc55c30b9a1" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_51">
+        <c02 id="aspace_7641f1e72dd4561f49dcfdea3683f6f3" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">24</container>
             <unittitle>Hotels</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_573c457451f2c66d2b908bf1d16daaad" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_3d38ffd9ce2fc212562e746cb711f430" parent="aspace_573c457451f2c66d2b908bf1d16daaad" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_52">
+        <c02 id="aspace_c42a0bb7810a950bfb1b9a735c523ca2" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">25</container>
             <unittitle>Housing</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_fc79fc2ce4499ffe60fcd1d4f2585aac" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_59623521361b53a9623504989b546ec7" parent="aspace_fc79fc2ce4499ffe60fcd1d4f2585aac" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_53">
+        <c02 id="aspace_582f7f884fe72d24066bb4bf2c950197" level="file">
           <did>
-            <container type="Oversized">2</container>
-            <container type="Folder">2</container>
             <unittitle>Invitation to Hold 1952 Convention in Philadelphia, Shaped Like a Key</unittitle>
-            <unitdate normal="1945/1955">ca. 1950</unitdate>
+            <unitdate normal="1945/1955" type="inclusive">ca. 1950</unitdate>
+            <container id="aspace_fafe4f5e2d70834b8d19c7d896fb79ec" label="Mixed Materials" type="Oversized">2</container>
+            <container id="aspace_790b9b744f0f472da5ef23599486f822" parent="aspace_fafe4f5e2d70834b8d19c7d896fb79ec" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_54">
+        <c02 id="aspace_a7355855d56647681d7a2fc21ec54043" level="file">
           <did>
-            <container type="Flat-File">1</container>
             <unittitle>Invitation to Hold 1956 Convention in San Francisco, Including Magazine and Brochures</unittitle>
-            <unitdate normal="1953">1953</unitdate>
+            <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+            <container id="aspace_8cc1ce4dfccfd077d7e6e18c7373c122" label="Mixed Materials" type="Flat-File">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_55">
+        <c02 id="aspace_0fbae28d2fd71d8b95c27e65d19762e6" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">26</container>
             <unittitle>Invocations</unittitle>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_2f2fc433c7a1f3ec260bc39e064a356c" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_061c29a57a625e7021ae5bbcbc6014d6" parent="aspace_2f2fc433c7a1f3ec260bc39e064a356c" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_56">
+        <c02 id="aspace_1035e65726ea834a62c88277dbb458c9" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">27</container>
             <unittitle>Miscellaneous Correspondence</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_36fbf57e1e525460ef8db3c6046a7337" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_d366b2f8d6ebf6e15004e9b592957bd9" parent="aspace_36fbf57e1e525460ef8db3c6046a7337" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_57">
+        <c02 id="aspace_4054cbac47eda6ece9769525ba2c3c91" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">28</container>
             <unittitle>Mississippi</unittitle>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_a993f0e037076616acc694e9064fcdfe" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_ff8958b09a2c2b2b4cd87613b4d9312d" parent="aspace_a993f0e037076616acc694e9064fcdfe" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_58">
+        <c02 id="aspace_a53edf58b969ed54a002b20a47e7c583" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">29</container>
             <unittitle>Missouri</unittitle>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_954d5f7971167ac78402cf48d2a05713" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_0d81d15580e38bf4893e8578737d061f" parent="aspace_954d5f7971167ac78402cf48d2a05713" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_59">
+        <c02 id="aspace_3753ad546002b6a91323b52804b105b4" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">30</container>
             <unittitle>New York</unittitle>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_3cb43286a07a713a2156b466f52b7557" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_a338f9471060664143286b8c7cbd401c" parent="aspace_3cb43286a07a713a2156b466f52b7557" type="Folder">30</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_60">
+        <c02 id="aspace_caf035cf304ad019f3e81059f573e5ef" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">31</container>
             <unittitle>Oklahoma</unittitle>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_9ed28476cf84616aa1d5c0941404b06c" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_00c674dfb1cd9c9202fa337f513eeb77" parent="aspace_9ed28476cf84616aa1d5c0941404b06c" type="Folder">31</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_61">
+        <c02 id="aspace_a2ef652a6da178fb0cbbf0343f73a393" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">32</container>
             <unittitle>Parliamentarians</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_234b4a474e5541566d552d9e6c69142f" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_3df4ff951dc01ccda6fa88acfda09c3b" parent="aspace_234b4a474e5541566d552d9e6c69142f" type="Folder">32</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_62">
+        <c02 id="aspace_00404445071ad574a96b5e14ecd51259" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">33</container>
             <unittitle>Permanent Chairman</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_9ecdae783b735729390e0d3b8d4ae83c" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_1565ed664a0910490772c23582c8fc08" parent="aspace_9ecdae783b735729390e0d3b8d4ae83c" type="Folder">33</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_63">
+        <c02 id="aspace_2b0ea007879bb7762370738fd0b25fd7" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">34</container>
             <unittitle>Proxies</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_509fdda885d6a1ab2c8dc166a25d3f50" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_4c9acf6554c79f2c64c16831267e7f96" parent="aspace_509fdda885d6a1ab2c8dc166a25d3f50" type="Folder">34</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_64">
+        <c02 id="aspace_52b7788716c2e7c23fe6f1d0ef41caa8" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">35</container>
             <unittitle>Reapportionment- General</unittitle>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_9d0c99e9a3c73448562da49c6cd97a83" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_de557e77ae645b71901120a1c90e4571" parent="aspace_9d0c99e9a3c73448562da49c6cd97a83" type="Folder">35</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_65">
+        <c02 id="aspace_0cdcf2f15a81bad7cde99fcfca3c2425" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">36</container>
             <unittitle>Republican National Committee- Nominations</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_037e0a6805a720032034735166bf6ad6" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_eee62b9169bf6a1e0e2c84b8073758a0" parent="aspace_037e0a6805a720032034735166bf6ad6" type="Folder">36</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_66">
+        <c02 id="aspace_f4ae21690ecbabf016c8c98d9e969cac" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">37</container>
             <unittitle>Resolutions</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_830379dc5bf14cc4a74f1f10983e5113" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_f059fe20dc651542e1ce7908894a3998" parent="aspace_830379dc5bf14cc4a74f1f10983e5113" type="Folder">37</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_67">
+        <c02 id="aspace_e97502c96facb49a8042d1adc08b7a6a" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">38</container>
             <unittitle>Sergeant-at-Arms</unittitle>
-            <unitdate normal="1952">1952</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_dde02fa3475f120cd3507274bbbdc429" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_3322417299fa4ac8825af816867c5cdc" parent="aspace_dde02fa3475f120cd3507274bbbdc429" type="Folder">38</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_68">
+        <c02 id="aspace_a8624c0c46c875ab10c6641632038dc4" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">39</container>
             <unittitle>Site Committee- Correspondence</unittitle>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_ba860a296abb51da63a2681c34d8486a" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_3a54a7ec6666ab951d64e97c8ae9b007" parent="aspace_ba860a296abb51da63a2681c34d8486a" type="Folder">39</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_69">
+        <c02 id="aspace_34efb60419c6869dac61cd638b150315" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">40</container>
             <unittitle>Subcommittee- Television and Motion Pictures</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_935e4812ece2823b8a3cc87441a8bfae" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_0b1759c48e8c2d21777f6290c2206f53" parent="aspace_935e4812ece2823b8a3cc87441a8bfae" type="Folder">40</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_70">
+        <c02 id="aspace_3c30f2ffcd4221f75cb4bfc8d3c17263" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">41</container>
             <unittitle>Subcommittee- Tickets</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_aed76ded63d148608c9c26ea7b5dfa7b" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_b4346bf1f1539bbcb2f4483ee8eaaa6e" parent="aspace_aed76ded63d148608c9c26ea7b5dfa7b" type="Folder">41</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_71">
+        <c02 id="aspace_14019c42f7b25c441f8c3630c2ec8381" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">42</container>
             <unittitle>Subcommittee- Music and Decorations</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_05bf4a1059671c36c97275ffd4b9ddd3" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_5494bfdd6203acfce31c3f9ac00770bb" parent="aspace_05bf4a1059671c36c97275ffd4b9ddd3" type="Folder">42</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_72">
+        <c02 id="aspace_7a8489058fea3cd9b504b723a9ad64fc" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">43</container>
             <unittitle>Subcommittee on Badges</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_0e8b87e8348916b79761c021cc1fd3d5" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_9c485781a3ee13df8ec6ba517524ea17" parent="aspace_0e8b87e8348916b79761c021cc1fd3d5" type="Folder">43</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_73">
+        <c02 id="aspace_da35180f577a4cd867e5ebe69f0653da" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">44</container>
             <unittitle>Subcommittee or Housing- General</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_2daaecea762214435853e515e4012b10" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_c54585cc81551532bd541039d2f05646" parent="aspace_2daaecea762214435853e515e4012b10" type="Folder">44</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_74">
+        <c02 id="aspace_6d61e2998465c564a661ae7ce456ed59" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">45</container>
             <unittitle>Subcommittee on Transportation and Parking</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_98165552d114c69b2092953c95a285bf" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_6102d663898bee7a00b14745394bc75d" parent="aspace_98165552d114c69b2092953c95a285bf" type="Folder">45</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_75">
+        <c02 id="aspace_50e02a6d2b4ab0dbed84004930c11edc" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">46</container>
             <unittitle>Subcommittee- Program and Concessions</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
-            <unitdate normal="1925/1967">Undated</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <unitdate normal="1925/1967" type="inclusive">Undated</unitdate>
+            <container id="aspace_c0f00b1ffea7ca51f8dfef6fba8bbcff" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_2a2f8f246bdca3f71637cab9cad860a2" parent="aspace_c0f00b1ffea7ca51f8dfef6fba8bbcff" type="Folder">46</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_76">
+        <c02 id="aspace_3f747694e7be0d094ca457cd0c516e95" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">47</container>
             <unittitle>Subcommittee- Radio and Press- General</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_4f1b1315b945429182b467893da41ac1" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_2bb8fdc7fe71d1b2b47bca00d03e456a" parent="aspace_4f1b1315b945429182b467893da41ac1" type="Folder">47</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_77">
+        <c02 id="aspace_99e672e56841c1d6eb46fad602822eac" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">48</container>
             <unittitle>Temporary Chairman</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_68abbac1a81f9578e549547cd150c7a7" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_92c2916d3bf601c3a0da19f66d16653c" parent="aspace_68abbac1a81f9578e549547cd150c7a7" type="Folder">48</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_78">
+        <c02 id="aspace_6c1897a18925c368bc64827c745b4d56" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">49</container>
             <unittitle>Tickets</unittitle>
-            <unitdate normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_58b064e9a715c8a75c52fff95ab4d8bf" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_22ff0d5eb756c1c3d27d34f04ba1d4d5" parent="aspace_58b064e9a715c8a75c52fff95ab4d8bf" type="Folder">49</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_79">
+        <c02 id="aspace_d31265538deeb31755b0ff0492541cae" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">50</container>
             <unittitle>Tickets</unittitle>
-            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_647ba47dfbedebe8c85c54e2b1b61156" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_27a5c697aa9d4939ef33ce81c0f42146" parent="aspace_647ba47dfbedebe8c85c54e2b1b61156" type="Folder">50</container>
           </did>
         </c02>
-        <c02 id="nam_apap248-3_80">
+        <c02 id="aspace_81b54f8ce4984c3bcd71eaa21ebce632" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">51</container>
             <unittitle>Washington</unittitle>
-            <unitdate normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_4267d45c9e2df86b796bd2c6f967414b" label="Mixed Materials" type="Box">5 (3-Republican National Committee 1952 Convention)</container>
+            <container id="aspace_1c7de2130829d6784c0983c4cc2461dc" parent="aspace_4267d45c9e2df86b796bd2c6f967414b" type="Folder">51</container>
           </did>
         </c02>
       </c01>

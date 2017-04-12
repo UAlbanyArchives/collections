@@ -1,143 +1,126 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap022">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/apap022.html">nam_apap022</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap022">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap022.xml">apap022</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS, LOCAL 166 RECORDS (APAP022)<date normal="1909/1980" type="inclusive">1909-1980</date></titleproper>
+        <titleproper>International Brotherhood of Electrical Workers, Local 166; Records <num>apap022</num></titleproper>
         <author>Geoffrey A. Huth</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="1990" type="publication">Copyright 1990 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>1990</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Gregory Wiedeman<date normal="2015">2015</date>
-      </creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 18:01:35 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2015-12">2015 December</date>
+        <date>2015 December</date>
         <item>Converted to EAD</item>
+      </change>
+      <change>
+        <date>2015</date>
+        <item>Encoded in EAD by Gregory Wiedeman</item>
       </change>
     </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>International Brotherhood of Electrical Workers, Local 166 Records<date normal="1909/1980" type="inclusive">1909-1980</date></titleproper>
-      <publisher>
-			</publisher>
-      <date type="publication">Copyright 2015 By the University at Albany, SUNY. All rights reserved.</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap022</unitid>
-      <unittitle>International Brotherhood of Electrical Workers, Local 166 Records<unitdate label="Date:" normal="1909/1980" type="inclusive">1909-1980</unitdate></unittitle>
-      <abstract label="Abstract:">Inactive records of IBEW Local 166, based in the Capital District. Shops were located at General Electric and WTEN Channel 10</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="local">International Brotherhood of Electrical Workers. Local 166 (Albany, NY.) </corpname>
-      </origination>
-      <physdesc>
-        <physfacet>2 microfilm reels</physfacet>
-      </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>International Brotherhood of Electrical Workers, Local 166 Records<unitdate normal="1909/1980" type="inclusive">1909-1980</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">International Brotherhood of Electrical Workers. Local 166 (Albany, NY.)</corpname>
+      </origination>
+      <unitid>apap022</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Reelss</extent>
+      </physdesc>
+      <abstract id="aspace_166c2799dee3bca43a2f0d9113fedc96">Inactive records of IBEW Local 166, based in the Capital District. Shops were located at General Electric and WTEN Channel 10</abstract>
+      <langmaterial id="aspace_501435347bddd2a204992c3a0f8644da">English</langmaterial>
+      <physloc id="aspace_82887581f3df3a763225990c25c7d5e0">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_30edea13966a86e3359d65ea8fd478ba">
+      <head>Processing Information</head>
+      <p>Processed in 1990 by Geoffrey A. Huth.</p>
+    </processinfo>
+    <accessrestrict id="aspace_3c03e4bf7674d042e7291ca8197e84f9">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_3e167dd71379ae56beb5ef4077716457">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites. </p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
-      <p>The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future. </p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
+      <p> The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_ea9df3b6adc6da896e080642efd26247">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by the by the Local 166 of the International Brotherhood of Electrical Workers and subsequently microfilmed as a part of the Harry Van Arsdale, Jr., Labor History Project. The originals have been returned to Local 166.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_9e7c9b433e625df036e66c1cb2dfafbf">
       <head>Biographical History</head>
-      <p>Local 166 of the International Brotherhood of Electrical Workers (IBEW) was chartered on March 20, 1934, with jurisdiction over inside electrical work in Schenectady, New York.  Jurisdiction in 1990 also includes work done in radio and television, telephone, and cable television, although inside electrical remains the most important unit of the local.  This unit comprised the bulk of Local 166, and the monthly meeting minutes enumerate the opening of new work sites and the completion of others as the members looked for work in a fluctuating trade.  Although Local 166 was based in Schenectady, its members worked on sites spread across the greater Capital District:  Albany, Gloversville, Canajoharie, Amsterdam, and Saratoga are a few of the cities where members of Local 166 worked.  Contracts were usually held between the local and contractors.  General Electric's Schenectady plant was a frequent job site for the decades of Local 166's existence. </p>
-      <p>The jurisdiction of Local 166 expanded slowly.  In 1945, jurisdiction was gained over telephone work in the area. [1]  After a National Labor Relations Board election in 1974 where the membership of Schenectady Cable T.V. voted unanimously to affiliate with Local 166, the local added cable television to its jurisdiction. [2]  IBEW Local 1415 of the RCA radio shop merged with Local 166 in 1975. [3]</p>
-      <p>In the 1970's, Local 166 experienced a number of problems in finding and keeping work for its members.  In the early 1970's there was a serious downturn in the job market for electrical workers, which Local 166 blamed on the expanding open shop movement. [4]  The local protested this phenomenon by picketing open shop job sites, often with the assistance of other labor unions. [5]  Competition from non-union workers for jobs that otherwise would have gone to Local 166 was especially prevalent in residential work.  By the mid-1970's, Local 166 was feeling the effects of the energy crisis as it slowed down work. [6]  Since the 1970's, the continuing fluctuation of the job market has been a perennial problem facing the local. </p>
-      <p>Also included in the records of Local 166 are some minutes (1909-11) of IBEW District Council 4, the district council for Schenectady.  This council was overseer for all IBEW locals then operating in the Schenectady area.  These minutes coincide with one of the most divisive splits in the IBEW, the split between the linemen and wiremen which lasted from 1908 to 1913 and which included the two factions' holding separate international conventions in 1908. [7]  District Council 4 was opposed to the Reid-Murphy faction that splintered from the main body of the IBEW.  When that faction sent spokesmen to the capital district, District Council 4 decided not even to debate their opposition but to picket the meeting instead. [8]  Also in 1911, the district council endorsed the Electrical Industry Trades Alliance of Schenectady, of which little is known. </p>
-      <p>1. International Brotherhood of Electrical Workers, Local 166, Regular Meeting Minutes, Sept. 4, 1945.
-2. International Brotherhood of Electrical Workers, Local 166, Regular Meeting Minutes, May 7, 1974.
-3. International Brotherhood of Electrical Workers, Local 166, Regular Meeting Minutes, December 3, 1974.
-4. International Brotherhood of Electrical Workers, Local 166, Regular Meeting Minutes, June 6, 1972.
-5. International Brotherhood of Electrical Workers, Local 166, Regular Meeting Minutes, February 6, 1973.
-6. International Brotherhood of Electrical Workers, Local 166, Regular Meeting Minutes, February 5, 1974.
-7. Fink, Gary M.  Labor Unions.  "Electrical Workers; International Brotherhood of (IBEW)," pp.83-85.
-8. International Brotherhood of Electrical Workers, District Council 4, Minutes, April 4, 1911. </p>
+      <p>Local 166 of the International Brotherhood of Electrical Workers (IBEW) was chartered on March 20, 1934, with jurisdiction over inside electrical work in Schenectady, New York. Jurisdiction in 1990 also includes work done in radio and television, telephone, and cable television, although inside electrical remains the most important unit of the local. This unit comprised the bulk of Local 166, and the monthly meeting minutes enumerate the opening of new work sites and the completion of others as the members looked for work in a fluctuating trade. Although Local 166 was based in Schenectady, its members worked on sites spread across the greater Capital District: Albany, Gloversville, Canajoharie, Amsterdam, and Saratoga are a few of the cities where members of Local 166 worked. Contracts were usually held between the local and contractors. General Electric's Schenectady plant was a frequent job site for the decades of Local 166's existence. </p>
+      <p> The jurisdiction of Local 166 expanded slowly. In 1945, jurisdiction was gained over telephone work in the area. [1] After a National Labor Relations Board election in 1974 where the membership of Schenectady Cable T.V. voted unanimously to affiliate with Local 166, the local added cable television to its jurisdiction. [2] IBEW Local 1415 of the RCA radio shop merged with Local 166 in 1975. [3]</p>
+      <p> In the 1970's, Local 166 experienced a number of problems in finding and keeping work for its members. In the early 1970's there was a serious downturn in the job market for electrical workers, which Local 166 blamed on the expanding open shop movement. [4] The local protested this phenomenon by picketing open shop job sites, often with the assistance of other labor unions. [5] Competition from non-union workers for jobs that otherwise would have gone to Local 166 was especially prevalent in residential work. By the mid-1970's, Local 166 was feeling the effects of the energy crisis as it slowed down work. [6] Since the 1970's, the continuing fluctuation of the job market has been a perennial problem facing the local. </p>
+      <p> Also included in the records of Local 166 are some minutes (1909-11) of IBEW District Council 4, the district council for Schenectady. This council was overseer for all IBEW locals then operating in the Schenectady area. These minutes coincide with one of the most divisive splits in the IBEW, the split between the linemen and wiremen which lasted from 1908 to 1913 and which included the two factions' holding separate international conventions in 1908. [7] District Council 4 was opposed to the Reid-Murphy faction that splintered from the main body of the IBEW. When that faction sent spokesmen to the capital district, District Council 4 decided not even to debate their opposition but to picket the meeting instead. [8] Also in 1911, the district council endorsed the Electrical Industry Trades Alliance of Schenectady, of which little is known. </p>
+      <p> 1. International Brotherhood of Electrical Workers, Local 166, Regular Meeting Minutes, Sept. 4, 1945.2. International Brotherhood of Electrical Workers, Local 166, Regular Meeting Minutes, May 7, 1974.3. International Brotherhood of Electrical Workers, Local 166, Regular Meeting Minutes, December 3, 1974.4. International Brotherhood of Electrical Workers, Local 166, Regular Meeting Minutes, June 6, 1972.5. International Brotherhood of Electrical Workers, Local 166, Regular Meeting Minutes, February 6, 1973.6. International Brotherhood of Electrical Workers, Local 166, Regular Meeting Minutes, February 5, 1974.7. Fink, Gary M. Labor Unions. "Electrical Workers; International Brotherhood of (IBEW)," pp.83-85.8. International Brotherhood of Electrical Workers, District Council 4, Minutes, April 4, 1911.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The regular and special meeting minutes of Local 166 are the most significant of the different types of minutes in Local 166's records, because these minutes cover the most years and contain the most information about the local.  The minutes delineate the status of jobs for Local 166's members and note any lay-offs and new jobs.  The executive board meetings are always mentioned and sometimes read into the minutes, so for years where there are no executive board meeting minutes something can still be discovered about those meetings.  Occasionally, loose sheets of correspondence, contract negotiations or by-laws revisions are included in the minutes when this documentation relates to the subject of the minutes.  The relationship of Local 166 with other local labor organizations is also well documented, as is the wildly fluctuating job market Local 166 was faced with. </p>
-      <p>Only the minutes from 1909 to 1911 exist for IBEW District Council 4.  Only speculation can be made about the disposition of the minutes after 1911, but in the first entry for this minutebook (16 Mar 1909) the previous minutes were said to have been "mutilated."  No reason or motive was given for this action, although it is possible that the motive could have had something to do with the split in the IBEW at that time.  The minutes include some information on labor union interaction in Schenectady, and information about General Electric's Schenectady plant. </p>
+    <scopecontent id="aspace_959247335ee4d5fefc93cf9a33eac08c">
+      <head>Scope and Contents</head>
+      <p>The regular and special meeting minutes of Local 166 are the most significant of the different types of minutes in Local 166's records, because these minutes cover the most years and contain the most information about the local. The minutes delineate the status of jobs for Local 166's members and note any lay-offs and new jobs. The executive board meetings are always mentioned and sometimes read into the minutes, so for years where there are no executive board meeting minutes something can still be discovered about those meetings. Occasionally, loose sheets of correspondence, contract negotiations or by-laws revisions are included in the minutes when this documentation relates to the subject of the minutes. The relationship of Local 166 with other local labor organizations is also well documented, as is the wildly fluctuating job market Local 166 was faced with. </p>
+      <p> Only the minutes from 1909 to 1911 exist for IBEW District Council 4. Only speculation can be made about the disposition of the minutes after 1911, but in the first entry for this minutebook (16 Mar 1909) the previous minutes were said to have been "mutilated." No reason or motive was given for this action, although it is possible that the motive could have had something to do with the split in the IBEW at that time. The minutes include some information on labor union interaction in Schenectady, and information about General Electric's Schenectady plant.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_2401029a80e7810cf159ff7983bc702d">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series:</p>
     </arrangement>
-    <prefercite>
+    <prefercite id="aspace_20a5e18acf50298eaff86423717cbf84">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, International Brotherhood of Electrical Workers, Local 166 Records,  1909-1980. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the  IBEW Local 166 Records).</p>
+      <p> Identification of specific item, series, box, folder, International Brotherhood of Electrical Workers, Local 166 Records, 1909-1980. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the IBEW Local 166 Records).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Schenectady, New York</subject>
-      <subject source="meg" encodinganalog="650">Labor</subject>
-      <corpname encodinganalog="611" source="local">International Brotherhood of Electrical Workers. Local 166 (Albany, NY.) </corpname>
-      <subject encodinganalog="650" source="lcsh">Labor unions--New York (State) </subject>
+      <subject source="meg">Schenectady, New York</subject>
+      <subject source="meg">Labor</subject>
+      <subject source="lcsh">Labor unions--New York (State)</subject>
+      <corpname source="local">International Brotherhood of Electrical Workers. Local 166 (Albany, NY.)</corpname>
     </controlaccess>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_apap022-1">
+    <dsc>
+      <c01 id="aspace_0cbbfdfcb55254c8b48b49d72bd66293" level="otherlevel">
         <did>
-          <container type="Reel">1</container>
           <unittitle>Regular Meeting Minutes</unittitle>
-          <unitdate normal="1942/1962">1942-1962</unitdate>
-          <unitdate normal="1966/1977">1966-1977</unitdate>
+          <unitdate normal="1942/1962" type="inclusive">1942-1962</unitdate>
+          <unitdate normal="1966/1977" type="inclusive">1966-1977</unitdate>
+          <container id="aspace_64bf0cf4b804458b00c6331aaf10cf57" label="Mixed Materials" type="Reel">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap022-2">
+      <c01 id="aspace_92f97c85de9c284fe06d23dbd944be19" level="otherlevel">
         <did>
-          <container type="Reel">2</container>
           <unittitle>Executive Board Meeting Minutes</unittitle>
-          <unitdate normal="1964/1980">1964-1980</unitdate>
+          <unitdate normal="1964/1980" type="inclusive">1964-1980</unitdate>
+          <container id="aspace_53144c8124264b9308edf4c304d3e7aa" label="Mixed Materials" type="Reel">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap022-3">
+      <c01 id="aspace_4b67b5c2bc040a2e7d64e7871f05fcee" level="otherlevel">
         <did>
-          <container type="Reel">2</container>
           <unittitle>Labor/Management Meeting Minutes</unittitle>
-          <unitdate normal="1977/1980">1977-1980</unitdate>
+          <unitdate normal="1977/1980" type="inclusive">1977-1980</unitdate>
+          <container id="aspace_fe98c254fe6ca47378a921ba479fe5fe" label="Mixed Materials" type="Reel">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap022-4">
+      <c01 id="aspace_07a881b8ae4ac3e4e935a13ca9532a67" level="otherlevel">
         <did>
-          <container type="Reel">2</container>
           <unittitle>District Council # 4, Meeting Minutes</unittitle>
-          <unitdate normal="1909/1911">1909-1911</unitdate>
+          <unitdate normal="1909/1911" type="inclusive">1909-1911</unitdate>
+          <container id="aspace_2d83074e0d03eb639ec7d1c80a97cbd4" label="Mixed Materials" type="Reel">2</container>
         </did>
       </c01>
     </dsc>

@@ -1,477 +1,398 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap324">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap324.xml" identifier="##">nam_apap324</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap324">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap324.xml">apap324</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>ILLINOIS COALITION TO ABOLISH THE DEATH PENALTY RECORDS (APAP324)<date normal="1963/2011" type="inclusive">1963-2011</date></titleproper>
+        <titleproper>Illinois Coalition to Abolish the Death Penalty Records; Records <num>apap324</num></titleproper>
         <author>Melissa McMullen</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2012">Copyright 2012 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2012</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Melissa McMullen<date normal="2012">2012</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 15:46:06 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2012</date>
+        <item>Encoded in EAD by Melissa McMullen</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>ILLINOIS COALITION TO ABOLISH THE DEATH PENALTY RECORDS (APAP324)<date normal="1963/2011" type="inclusive">1963-2011</date>
-      </titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2011</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap324</unitid>
-      <unittitle>Illinois Coalition to Abolish the Death Penalty Records <unitdate type="inclusive" normal="1963/2011" label="Date:"> 1963-2011</unitdate>
-      </unittitle>
-      <physdesc label="Physical Characteristics:">
-        <extent unit="cubic ft.">0.6</extent>
-      </physdesc>
-      <origination>
-        <corpname encodinganalog="110" source="lcsh">Illinois Coalition to Abolish the Death Penalty</corpname>
-      </origination>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">The Illinois Coalition to Abolish the Death Penalty (ICADP) formed
-        in 1976 as the Illinois Coalition Against the Death Penalty by Mary Alice Rankin and other
-        activist groups and organizations to try to prevent passage of capital punishment
-        legislation in Illinois. After the state adopted the death penalty in 1977, ICADP expanded
-        its grassroots legislative, education, and communication activities to try to inform the
-        public about flaws and injustices in the Illinois capital punishment system and promote
-        humane alternatives to the death penalty.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Illinois Coalition to Abolish the Death Penalty Records<unitdate normal="1963/2011" type="inclusive">1963-2011</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="lcsh">Illinois Coalition to Abolish the Death Penalty</corpname>
+      </origination>
+      <unitid>apap324</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.6 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_a11b412c4a74136ba73fc65bd8e89db4">The Illinois Coalition to Abolish the Death Penalty (ICADP) formed in 1976 as the Illinois Coalition Against the Death Penalty by Mary Alice Rankin and other activist groups and organizations to try to prevent passage of capital punishment legislation in Illinois. After the state adopted the death penalty in 1977, ICADP expanded its grassroots legislative, education, and communication activities to try to inform the public about flaws and injustices in the Illinois capital punishment system and promote humane alternatives to the death penalty.</abstract>
+      <langmaterial id="aspace_ccdf6b7fe46ec301209263ffb3c55f42">English</langmaterial>
+      <physloc id="aspace_9ff5756ffef0a3b658031d781004857d">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_384e16d40e5461e82d8829276e70e764">
+      <head>Processing Information</head>
+      <p>Processed in 2012 by Melissa McMullen.</p>
+    </processinfo>
+    <accessrestrict id="aspace_bcec324a4c0b6f3fee2f7a3119e44e7a">
       <head>Access</head>
-      <p> Access to this record group is unrestricted. </p>
+      <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_dd6876fbf9e138b537714e0e0550be92">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_2df2b9c4eed85a5987a0705ec3149329">
       <head>Acquisition Information</head>
-      <p>The Illinois Coalition to Abolish the Death Penalty donated its materials in 2011 to the
-        M.E. Grenander Department of Special Collections and Archives. </p>
+      <p>The Illinois Coalition to Abolish the Death Penalty donated its materials in 2011 to the M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_afd619e73b3c9a2239bd6de6d119883a">
       <head>Biographical Sketch</head>
-      <p>The Illinois Coalition to Abolish the Death Penalty (ICADP) formed in 1976 as the Illinois
-        Coalition Against the Death Penalty by Mary Alice Rankin and other activist groups and
-        organizations to try to prevent passage of capital punishment legislation in Illinois. After
-        the state adopted the death penalty in 1977, ICADP expanded its grassroots legislative,
-        education, and communication activities to try to inform the public about flaws and
-        injustices in the Illinois capital punishment system and promote humane alternatives to the
-        death penalty.</p>
-      <p>ICADP helped have a dramatic impact on the successes in the Illinois capital punishment
-        conversation, promoting campaigns that highlighted flaws with the death penalty to the
-        public and legislators in the state and forming strong bonds with other groups that also
-        believed the abolishment of the death penalty is the best solution for the public. These
-        groups included the Illinois Bar Association, ACLU, Amnesty International, Catholic
-        Conference, Jewish Council on Urban Affairs, League of Women Voters and others. </p>
-      <p>In March 2011, ICADP’s campaign succeeded in passing legislation that repealed the death
-        penalty in the state, and as of July 1st, 2011, Illinois became the sixteenth state to be
-        death penalty-free. </p>
-      <p>ICADP’s work is not finished. Recently members of the Illinois legislature introduced bills
-        in the General Assembly to reinstate capital punishment. ICADP is now focused on fighting
-        reinstatement efforts and maintaining a death penalty-free state. </p>
+      <p>The Illinois Coalition to Abolish the Death Penalty (ICADP) formed in 1976 as the Illinois Coalition Against the Death Penalty by Mary Alice Rankin and other activist groups and organizations to try to prevent passage of capital punishment legislation in Illinois. After the state adopted the death penalty in 1977, ICADP expanded its grassroots legislative, education, and communication activities to try to inform the public about flaws and injustices in the Illinois capital punishment system and promote humane alternatives to the death penalty.</p>
+      <p> ICADP helped have a dramatic impact on the successes in the Illinois capital punishment conversation, promoting campaigns that highlighted flaws with the death penalty to the public and legislators in the state and forming strong bonds with other groups that also believed the abolishment of the death penalty is the best solution for the public. These groups included the Illinois Bar Association, ACLU, Amnesty International, Catholic Conference, Jewish Council on Urban Affairs, League of Women Voters and others. </p>
+      <p> In March 2011, ICADP’s campaign succeeded in passing legislation that repealed the death penalty in the state, and as of July 1st, 2011, Illinois became the sixteenth state to be death penalty-free. </p>
+      <p> ICADP’s work is not finished. Recently members of the Illinois legislature introduced bills in the General Assembly to reinstate capital punishment. ICADP is now focused on fighting reinstatement efforts and maintaining a death penalty-free state.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The Illinois Coalition to Abolish the Death Penalty (ICADP) donated its records in 2011
-        following repeal of the death penalty in the state. The archivist retained the original
-        order of the files and the collection includes annual reports, newsletters, clippings and
-        press releases. ICADP gained national attention with its campaign to rid Illinois of capital
-        punishment; this is evident with materials documenting the case of John Wayne Gacy, executed
-        in 1994, and the murder of nine year old Jeanine Nicarico in 1983.</p>
-      <p>The collection also contains the 2002 documentary film <emph render="italic">Too Flawed to Fix: The Illinois Death
-        Penalty Experience</emph> which explores the legal flaws in the capital punishment system in
-        Illinois and materials pertaining to Amnesty International. There are clippings of
-        Northwestern University School of Law’s National Conference on Wrongful Convictions and the
-        Death Penalty during which former Death Row inmates later found innocent of their crimes
-        participated on a panel. In addition, the collection features clippings about the 2000
-        moratorium on the death penalty by Governor George H. Ryan and the 2011 signing of the bill
-        SB 3539, Abolition of the Death Penalty, by Governor Pat Quinn.</p>
-      <p>There are materials related to key ICADP members Mary Alice Rankin, Miriam Wilson, and Dick
-        Cunningham. </p>
-      <p>For additional files pertaining to ICADP, please see its collection at the University
-        of Illinois at Chicago’s Richard J. Daley Library of Special Collections and Archives:
-        http://www.uic.edu/depts/lib/findingaids/MSICAD11.html. </p>
+    <scopecontent id="aspace_2a5b4e2e93880979a54d251273ae316d">
+      <head>Scope and Contents</head>
+      <p>The Illinois Coalition to Abolish the Death Penalty (ICADP) donated its records in 2011 following repeal of the death penalty in the state. The archivist retained the original order of the files and the collection includes annual reports, newsletters, clippings and press releases. ICADP gained national attention with its campaign to rid Illinois of capital punishment; this is evident with materials documenting the case of John Wayne Gacy, executed in 1994, and the murder of nine year old Jeanine Nicarico in 1983.</p>
+      <p> The collection also contains the 2002 documentary film <emph render="italic">Too Flawed to Fix: The Illinois Death Penalty Experience</emph> which explores the legal flaws in the capital punishment system in Illinois and materials pertaining to Amnesty International. There are clippings of Northwestern University School of Law’s National Conference on Wrongful Convictions and the Death Penalty during which former Death Row inmates later found innocent of their crimes participated on a panel. In addition, the collection features clippings about the 2000 moratorium on the death penalty by Governor George H. Ryan and the 2011 signing of the bill SB 3539, Abolition of the Death Penalty, by Governor Pat Quinn.</p>
+      <p> There are materials related to key ICADP members Mary Alice Rankin, Miriam Wilson, and Dick Cunningham. </p>
+      <p> For additional files pertaining to ICADP, please see its collection at the University of Illinois at Chicago’s Richard J. Daley Library of Special Collections and Archives: http://www.uic.edu/depts/lib/findingaids/MSICAD11.html.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_4e9d42ae22258506adc84057c71c9055">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized alphabetically. There are no series.</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-           Try to give as many access points as you can to increase the chances of 
-           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-           to comment them out! -->
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Death Penalty</subject>
-      <subject source="meg" encodinganalog="650">Criminal Justice and Prisons</subject>
-      <persname encodinganalog="600" source="lcsh">Quinn, Pat</persname>
-      <persname encodinganalog="600" source="lcsh">Ryan, George H.</persname>
-      <corpname encodinganalog="610" source="lcsh">Illinois Coalition Against the Death Penalty </corpname>
-      <corpname encodinganalog="610" source="local">Illinois Coalition to Abolish the Death Penalty </corpname>
-      <corpname encodinganalog="610" source="lcsh">Amnesty International</corpname>
-      <corpname encodinganalog="610" source="lcsh">American Civil Liberties Union</corpname>
-      <corpname encodinganalog="610" source="lcsh">Illinois. Governor's Commission on Capital
-        Punishment</corpname>
-      <subject encodinganalog="650" source="lcsh">Capital punishment--Illinois</subject>
-      <subject encodinganalog="650" source="local">Death penalty</subject>
-      <subject encodinganalog="650" source="lcsh">Capital punishment--Moral and ethical
-        aspects</subject>
-      <subject encodinganalog="650" source="lcsh">Executions (Law)--United States--Cases</subject>
-      <geogname encodinganalog="651" source="lcsh">Illinois</geogname>
-      <geogname encodinganalog="651" source="lcsh">Chicago (Ill.)</geogname>
-      <genreform encodinganalog="655" source="aat">Clippings</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Fliers (printed matter)</genreform>
-    </controlaccess>
-    <prefercite encodinganalog="524">
+    <prefercite id="aspace_3b5c419a8c82186ea26cb288bac75596">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Illinois Coalition to Abolish the
-        Death Penalty Papers, 1963-2011. M.E. Grenander Department of Special Collections and
-        Archives, University Libraries, University at Albany, State University of New York
-        (hereafter referred to as the Illinois Coalition to Abolish the Death Penalty Papers).</p>
+      <p> Identification of specific item, series, box, folder, Illinois Coalition to Abolish the Death Penalty Papers, 1963-2011. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Illinois Coalition to Abolish the Death Penalty Papers).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_apap324-1">
+    <controlaccess>
+      <subject source="meg">Death Penalty</subject>
+      <subject source="meg">Criminal Justice and Prisons</subject>
+      <subject source="lcsh">Capital punishment--Illinois</subject>
+      <subject source="local">Death Penalty</subject>
+      <subject source="lcsh">Capital punishment--Moral and ethical aspects</subject>
+      <subject source="lcsh">Executions (Law)--United States--Cases</subject>
+      <geogname source="lcsh">Illinois</geogname>
+      <geogname source="lcsh">Chicago (Ill.)</geogname>
+      <genreform source="aat">Clippings</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Fliers (printed matter)</genreform>
+      <persname source="lcsh">Quinn, Pat</persname>
+      <persname source="lcsh">Ryan, George H.</persname>
+      <corpname source="lcsh">Illinois Coalition Against the Death Penalty</corpname>
+      <corpname source="local">Illinois Coalition to Abolish the Death Penalty</corpname>
+      <corpname source="lcsh">Amnesty International</corpname>
+      <corpname source="lcsh">American Civil Liberties Union</corpname>
+      <corpname source="lcsh">Illinois. Governor's Commission on Capital Punishment</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_4f9a4aa63d5387f9ebeba6e151866487" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>Annual Meeting Flier, Benefit Flier, and Membership Card</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2009">2009</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2010">2010</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/2011">Undated</unitdate>
+          <unitdate normal="2009/2009" type="inclusive">2009</unitdate>
+          <unitdate normal="2010/2010" type="inclusive">2010</unitdate>
+          <unitdate normal="1963/2011" type="inclusive">Undated</unitdate>
+          <container id="aspace_06bc7e9c8ef6fb568ee2a4874a1ce88a" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_2fe87a17d49babfebce0deee6e92bb76" parent="aspace_06bc7e9c8ef6fb568ee2a4874a1ce88a" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-2">
+      <c01 id="aspace_ecc7d72b0726627c0b144df78ddfb9a8" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Annual Reports</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2004">2004</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2006">2006</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2008">2008</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2010">2010</unitdate>
+          <unitdate normal="2004/2004" type="inclusive">2004</unitdate>
+          <unitdate normal="2006/2006" type="inclusive">2006</unitdate>
+          <unitdate normal="2008/2008" type="inclusive">2008</unitdate>
+          <unitdate normal="2010/2010" type="inclusive">2010</unitdate>
+          <container id="aspace_481abcb37e85dbf6b5ca2e9fa2d57f25" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_e519b455de0345766a1cb096296db5dd" parent="aspace_481abcb37e85dbf6b5ca2e9fa2d57f25" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-3">
+      <c01 id="aspace_3f949c9b351c7a60f80f39e61bd9f836" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>"Beyond Repair" Suburban Speaking Tour</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2010">2010</unitdate>
+          <unitdate normal="2010/2010" type="inclusive">2010</unitdate>
+          <container id="aspace_2b14519f0a0a0e0e09b6514afec03167" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_991b079ec6cf9680d69384ebfd3841ec" parent="aspace_2b14519f0a0a0e0e09b6514afec03167" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-4">
+      <c01 id="aspace_da06b27fd7823ce092eaa946726b90f4" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Brochures, Newsletters, and Report on Activities</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2001">2001</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2005/2007">2005-2007</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/2011">Undated</unitdate>
+          <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+          <unitdate normal="2005/2007" type="inclusive">2005-2007</unitdate>
+          <unitdate normal="1963/2011" type="inclusive">Undated</unitdate>
+          <container id="aspace_325d18e9706674c366acb25e7888e7ba" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_46cbd181c6eb5777e2cec1f6ef6fa268" parent="aspace_325d18e9706674c366acb25e7888e7ba" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-5">
+      <c01 id="aspace_2ad26e87da75fefacd1ae6ecf56805d5" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Charles Walker-First Illinois Execution in 28 Years</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/2011">Undated</unitdate>
+          <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+          <unitdate normal="1963/2011" type="inclusive">Undated</unitdate>
+          <container id="aspace_9ceb6c99da11b1d73b1fd7401f369c75" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_2046388c187c06820c1416278736a00b" parent="aspace_9ceb6c99da11b1d73b1fd7401f369c75" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-6">
+      <c01 id="aspace_d6fd670d384b7944f5c46a93c326a65e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Death Penalty Moratorium- Clippings and Press</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000">2000</unitdate>
+          <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+          <container id="aspace_0cb29c59178fb43f6a36570e2eefcfbb" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_8f68620aa0a569aa038aeca68e30ac83" parent="aspace_0cb29c59178fb43f6a36570e2eefcfbb" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-7">
+      <c01 id="aspace_66fc1157abfa8e0afc8a0dc079f6ddf1" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
-          <unittitle>"Disarming the State's Lethal Weapon" A Look at the Death Penalty Journey
-            Problems, Flaws, Reforms and Moratorium</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002">2002</unitdate>
+          <unittitle>"Disarming the State's Lethal Weapon" A Look at the Death Penalty Journey Problems, Flaws, Reforms and Moratorium</unittitle>
+          <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_8cb17ff5f40c4fbfaf1939926f65fffe" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_117e9ca3f5fb9afea68da375914be8ee" parent="aspace_8cb17ff5f40c4fbfaf1939926f65fffe" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-8">
+      <c01 id="aspace_c8cc937a61c8c9815436b28971d4303a" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8-9</container>
           <unittitle>Events, Photos, and Copies of Petitions</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002">2002</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/2011">Undated</unitdate>
+          <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+          <unitdate normal="1963/2011" type="inclusive">Undated</unitdate>
+          <container id="aspace_a35f5809fbcd9aaf5593e113578b4728" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_2014be92e938832dea4c25827ae5392b" parent="aspace_a35f5809fbcd9aaf5593e113578b4728" type="Folder">8-9</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-9">
+      <c01 id="aspace_2525d25f160e2887b05ed27dd4fb5bdc" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Fact Sheets on the Repeal of the Death Penalty</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2006">2006</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2011">2011</unitdate>
+          <unitdate normal="2006/2006" type="inclusive">2006</unitdate>
+          <unitdate normal="2011/2011" type="inclusive">2011</unitdate>
+          <container id="aspace_910a967aa66a96535d79b269a0874e3f" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_9ac60c91b46c125a4f0e96963ae8bc1a" parent="aspace_910a967aa66a96535d79b269a0874e3f" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-10">
+      <c01 id="aspace_f37a10d92b77727df7aebf0ddcc0f284" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
-          <unittitle>Founding Materials, Dick Cunningham Memorial, and Tenth Anniversary of ICADP
-            Celebration</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976/1977">1976-1977</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2001">2001</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/2011">Undated</unitdate>
+          <unittitle>Founding Materials, Dick Cunningham Memorial, and Tenth Anniversary of ICADP Celebration</unittitle>
+          <unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate>
+          <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+          <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+          <unitdate normal="1963/2011" type="inclusive">Undated</unitdate>
+          <container id="aspace_55bbd8918841de80891c1347cf361f8a" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_df421842a2a1625eac479908ce0f9c19" parent="aspace_55bbd8918841de80891c1347cf361f8a" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-11">
+      <c01 id="aspace_e273d022daea81a86c8787c90917fb53" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">12</container>
-          <unittitle>Governor Quinn's Office Announcement of the Abolition of the Death Penalty in
-            Illinois, Remarks from the Floor of the House Assembly</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2011">2011</unitdate>
+          <unittitle>Governor Quinn's Office Announcement of the Abolition of the Death Penalty in Illinois, Remarks from the Floor of the House Assembly</unittitle>
+          <unitdate normal="2011/2011" type="inclusive">2011</unitdate>
+          <container id="aspace_281d5a497f2fe5bc353d446dd025464f" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_7bb1149aa12b1377ad90ad4339b73ff2" parent="aspace_281d5a497f2fe5bc353d446dd025464f" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-12">
+      <c01 id="aspace_8ea10e0b8b9978a255bdf29d3afd2b7b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">13</container>
           <unittitle>Grant Proposals</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989">1989</unitdate>
+          <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+          <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+          <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+          <container id="aspace_bc9def6ae25aefb4249a8d1c5cf6a630" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_a510fb39be3a0fc6cd84e79ea63d4c45" parent="aspace_bc9def6ae25aefb4249a8d1c5cf6a630" type="Folder">13</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-13">
+      <c01 id="aspace_c4601953b174681ea1d5bff5a1fa53f6" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">14</container>
           <unittitle>Illinois ' Death Penalty: Too Flawed to Fix- Resource Manual</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+          <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+          <container id="aspace_1bee27f40051aaa4ee738b8fbeff6569" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_42e31d659762baaf6c4f26ad340dc0b8" parent="aspace_1bee27f40051aaa4ee738b8fbeff6569" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-14">
+      <c01 id="aspace_68c91e9b0fa5967860212aa918964bf2" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">15</container>
           <unittitle>John Wayne Gacy- Execution Materials, Press Packet, and Clippings</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994">1994</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/2011">Undated</unitdate>
+          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+          <unitdate normal="1963/2011" type="inclusive">Undated</unitdate>
+          <container id="aspace_a0f5d2a8893f29191603f910a8207d8f" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_89e98691d4dc39129269994f9225ab37" parent="aspace_a0f5d2a8893f29191603f910a8207d8f" type="Folder">15</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-15">
+      <c01 id="aspace_ea5c8e3fd691147e71e80385b2cbcb74" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">16</container>
-          <unittitle>Letters Commending Governor George H. Ryan on the Death Penalty
-            Moratorium</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002">2002</unitdate>
+          <unittitle>Letters Commending Governor George H. Ryan on the Death Penalty Moratorium</unittitle>
+          <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_dcc95877e2df69428e95d245210b8387" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_302c87af3f5e91a2019908180525e36e" parent="aspace_dcc95877e2df69428e95d245210b8387" type="Folder">16</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-16">
+      <c01 id="aspace_6b5e93be99ed744b36a425413239fb18" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">17</container>
           <unittitle>Media Materials- Clippings</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/1989">1963-1989</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/2011">Undated</unitdate>
+          <unitdate normal="1963/1989" type="inclusive">1963-1989</unitdate>
+          <unitdate normal="1963/2011" type="inclusive">Undated</unitdate>
+          <container id="aspace_7f13ec2de03ae6de0e0e5c7c0024be4e" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_df5919bea689063c7ceb9e182f34d388" parent="aspace_7f13ec2de03ae6de0e0e5c7c0024be4e" type="Folder">17</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-17">
+      <c01 id="aspace_4b4a30f3af32baa9a5abe78d5ca4890d" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">18</container>
           <unittitle>Media Materials- Clippings</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993/1998">1993-1998</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/2011">Undated</unitdate>
+          <unitdate normal="1993/1998" type="inclusive">1993-1998</unitdate>
+          <unitdate normal="1963/2011" type="inclusive">Undated</unitdate>
+          <container id="aspace_108cc2732651278be1f300388d9faca1" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_e1717397130475566f72c4f417dc6095" parent="aspace_108cc2732651278be1f300388d9faca1" type="Folder">18</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-18">
+      <c01 id="aspace_76478e3460abad6453dec8cbfb453316" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">19</container>
           <unittitle>Media Materials- Clippings, Internet Articles</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002/2007">2002-2007</unitdate>
+          <unitdate normal="2002/2007" type="inclusive">2002-2007</unitdate>
+          <container id="aspace_5561a8e8a52377aa9d66c8e18b6390d5" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_aa99af61ffd492275b93513d780d7132" parent="aspace_5561a8e8a52377aa9d66c8e18b6390d5" type="Folder">19</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-19">
+      <c01 id="aspace_081414963bbff8e7b9e5de85b3095be7" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">20</container>
           <unittitle>Miscellaneous Materials</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2003">2003</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2006">2006</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2009">2009</unitdate>
+          <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
+          <unitdate normal="2006/2006" type="inclusive">2006</unitdate>
+          <unitdate normal="2009/2009" type="inclusive">2009</unitdate>
+          <container id="aspace_d610c25fcecea4e8f799534863948935" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_4fdb09b4ee5c159a1f403b6b41945ae7" parent="aspace_d610c25fcecea4e8f799534863948935" type="Folder">20</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-20">
+      <c01 id="aspace_c39c0ecf107cd555e0262fc5f6a39bab" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">21</container>
           <unittitle>Mission Statement of ICADP, Amnesty International Events and Fliers</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991/2002">1991-2002</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/2011">Undated</unitdate>
+          <unitdate normal="1991/2002" type="inclusive">1991-2002</unitdate>
+          <unitdate normal="1963/2011" type="inclusive">Undated</unitdate>
+          <container id="aspace_b104dac3502bfb914a9d362a1274f3a2" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_f6006d80257d2d69b60a969a6cdec868" parent="aspace_b104dac3502bfb914a9d362a1274f3a2" type="Folder">21</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-21">
+      <c01 id="aspace_5ae4e020c3feff75ae00b712da6ffd6b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">22</container>
           <unittitle>Newsletters</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1997">1990-1997</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2008/2010">2008-2010</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/2011">Undated</unitdate>
+          <unitdate normal="1990/1997" type="inclusive">1990-1997</unitdate>
+          <unitdate normal="2008/2010" type="inclusive">2008-2010</unitdate>
+          <unitdate normal="1963/2011" type="inclusive">Undated</unitdate>
+          <container id="aspace_e3355584dd85eb54080de9d1337e2c01" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_bb77c0ad9b87fa59ba96dc827b6e60be" parent="aspace_e3355584dd85eb54080de9d1337e2c01" type="Folder">22</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-22">
+      <c01 id="aspace_bff848cde3a3f7a272af06941c9ce256" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">23</container>
           <unittitle>Nicarico Case- Press Releases and News Clippings</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985/1997">1985-1997</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/2011">Undated</unitdate>
+          <unitdate normal="1985/1997" type="inclusive">1985-1997</unitdate>
+          <unitdate normal="1963/2011" type="inclusive">Undated</unitdate>
+          <container id="aspace_d7d1b84fe1ff580fe3084e48c4fdc2d6" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_03bf2e9b47ec1af367299002c0680d9a" parent="aspace_d7d1b84fe1ff580fe3084e48c4fdc2d6" type="Folder">23</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-23">
+      <c01 id="aspace_19ab818b0eec17e11392960f4293cd9a" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">24</container>
           <unittitle>Post Repeal Records</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2011">2011</unitdate>
+          <unitdate normal="2011/2011" type="inclusive">2011</unitdate>
+          <container id="aspace_0ffcad743458cc7fe87fc7bce027d28a" label="Mixed Materials" type="Box">1 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_373ff8554ab0fca151f3cae7d2f7cd95" parent="aspace_0ffcad743458cc7fe87fc7bce027d28a" type="Folder">24</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-24">
+      <c01 id="aspace_6e40198e90281d887186e0140534f43a" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">1</container>
           <unittitle>Press Releases</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000/2006">2000-2006</unitdate>
+          <unitdate normal="2000/2006" type="inclusive">2000-2006</unitdate>
+          <container id="aspace_882966c73687bcc655183182f58b42ec" label="Mixed Materials" type="Box">2 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_8f9d5d46628dbc51f82d4eefbd7597e9" parent="aspace_882966c73687bcc655183182f58b42ec" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-25">
+      <c01 id="aspace_88e9369fea21d6f0e99b5478caac6dfd" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">2</container>
           <unittitle>Prison Visit Materials for Both Inmates and ICADP Members</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000">2000</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002">2002</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2003">2003</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/2011">Undated</unitdate>
+          <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+          <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+          <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
+          <unitdate normal="1963/2011" type="inclusive">Undated</unitdate>
+          <container id="aspace_be105d61c4bd30e7e5d07c043c83aa59" label="Mixed Materials" type="Box">2 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_4607bf737e68776f8735d48541c5a2e8" parent="aspace_be105d61c4bd30e7e5d07c043c83aa59" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-26">
+      <c01 id="aspace_72a0980897b42f4720866370111939e3" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">3</container>
           <unittitle>Prosecutorial Misconduct Clippings</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1999">1999</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000">2000</unitdate>
+          <unitdate normal="1999/1999" type="inclusive">1999</unitdate>
+          <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+          <container id="aspace_1aa37bd12012c02be65f3819e661ede9" label="Mixed Materials" type="Box">2 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_9f120df92d50706d56b1edc5f5bec3cd" parent="aspace_1aa37bd12012c02be65f3819e661ede9" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-27">
+      <c01 id="aspace_56681e5bc159e9b1f4ab6c61d262cb98" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">4</container>
-          <unittitle>Report of the Commission on Capital Punishment- Governor George H.
-            Ryan</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002">2002</unitdate>
+          <unittitle>Report of the Commission on Capital Punishment- Governor George H. Ryan</unittitle>
+          <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_1a7e553c85e682990d7bf149df71e965" label="Mixed Materials" type="Box">2 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_a50a4cc115e9f7b2246cda68b289a557" parent="aspace_1a7e553c85e682990d7bf149df71e965" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-28">
+      <c01 id="aspace_9cdd1b2ee14ef0d3091a4f9d907ab66b" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">5</container>
           <unittitle>Road Trip for Justice Materials</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2004">2004</unitdate>
+          <unitdate normal="2004/2004" type="inclusive">2004</unitdate>
+          <container id="aspace_10ade2530728f9e224a2baa54a7512ed" label="Mixed Materials" type="Box">2 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_ef1436b564a5083a9feb4813243305b6" parent="aspace_10ade2530728f9e224a2baa54a7512ed" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-29">
+      <c01 id="aspace_1fdb320aa2aee7b124fc83714417aa72" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">6</container>
           <unittitle>Speaking Events</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2010">2010</unitdate>
+          <unitdate normal="2010/2010" type="inclusive">2010</unitdate>
+          <container id="aspace_6c019a561c4bf3c847b7aed684116639" label="Mixed Materials" type="Box">2 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_12cafaff71b80c09b44e7d829af5107d" parent="aspace_6c019a561c4bf3c847b7aed684116639" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-30">
+      <c01 id="aspace_2fabd194f2ec89a1a50cd9367a7d82ff" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">7</container>
           <unittitle>Strategic Planning</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2010">2010</unitdate>
+          <unitdate normal="2010/2010" type="inclusive">2010</unitdate>
+          <container id="aspace_81d0a28a4fb3f3294fcc865600d583cb" label="Mixed Materials" type="Box">2 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_af8d454e416ff151bf88f437d2a09309" parent="aspace_81d0a28a4fb3f3294fcc865600d583cb" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-31">
+      <c01 id="aspace_24f6f36809a3b0cb2e64083e29961a6b" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">8</container>
-          <unittitle>Testimony in Favor of Abolishing the Death Penalty and the Passing of the Bill
-            SB 3539</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2011">2011</unitdate>
+          <unittitle>Testimony in Favor of Abolishing the Death Penalty and the Passing of the Bill SB 3539</unittitle>
+          <unitdate normal="2011/2011" type="inclusive">2011</unitdate>
+          <container id="aspace_549726bca003d973d44d4589eb45119a" label="Mixed Materials" type="Box">2 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_ee03ff3f40f6282468c5ca0bd59ef339" parent="aspace_549726bca003d973d44d4589eb45119a" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-32">
+      <c01 id="aspace_5d5ec49a561813e688f629475a6cce43" level="otherlevel">
         <did>
-          <container type="Video-Tape">1</container>
           <unittitle>
             <emph render="italic">Too Flawed to Fix</emph>
           </unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002">2002</unitdate>
+          <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_bde28de13993a4abc01d08219a284e2b" label="Mixed Materials" type="Video-Tape">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap324-33">
+      <c01 id="aspace_fe73e9be812d8cb14e9e66413fc2258f" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">9</container>
           <unittitle><emph render="italic">Too Flawed to Fix</emph> Study Guide and Documentary Advertisement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002">2002</unitdate>
+          <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_fd4d252ac67b0812c9858dd19aab4319" label="Mixed Materials" type="Box">2 (Illinois Coalition to Abolish the Death Penalty Re)</container>
+          <container id="aspace_56cd2910cc8ee15a8d177069135c5428" parent="aspace_fd4d252ac67b0812c9858dd19aab4319" type="Folder">9</container>
         </did>
       </c01>
     </dsc>

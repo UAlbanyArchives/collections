@@ -1,124 +1,120 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap362">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/apap362.html">nam_apap362</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap362">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap362.xml">apap362</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>PARKS &amp; TRAILS NEW YORK (APAP362)<date normal="1988/2004" type="inclusive">1988-2004</date></titleproper>
+        <titleproper>Parks &amp; Trails New York; Records <num>apap362</num></titleproper>
         <author>unprocessed</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2016" type="publication">Copyright 2016 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2016</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Jodi Boyle<date normal="2016-02-16">2016 February 16</date></creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 15:50:47 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date/>
-        <item/>
+        <date>2016 February 16</date>
+        <item>Encoded in EAD by Jodi Boyle</item>
       </change>
     </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>Parks &amp; Trails New York<date normal="1988/2004" type="inclusive">1988-2004</date></titleproper>
-      <publisher/>
-      <date type="publication">Copyright 2016 By the University at Albany, SUNY. All rights reserved.</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap362</unitid>
-      <unittitle>Parks &amp; Trails New York<unitdate label="Date:" normal="1988/2004" type="inclusive">1988-2004</unitdate></unittitle>
-      <abstract label="Abstract:">This collection documents the day-to-day activities of Parks &amp; Trails New York, the leading statewide advocate for parks and trails in New York State.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="lcsh">Parks &amp; Trails New York</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">30.25</extent>
-      </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Parks &amp; Trails New York<unitdate normal="1988/2004" type="inclusive">1988-2004</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="lcsh">Parks &amp; Trails New York</corpname>
+      </origination>
+      <unitid>apap362</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">30.25 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_850d47791c0f6057fecd0a9d0ab039a1">This collection documents the day-to-day activities of Parks &amp; Trails New York, the leading statewide advocate for parks and trails in New York State.</abstract>
+      <langmaterial id="aspace_172654157bf4cba3d0ba79397007f38a">English</langmaterial>
+      <physloc id="aspace_3ebfe590ce6d5738ad08b6cb38985aa0">The materials are located onsite in the department.</physloc>
+      <container id="aspace_66844886a37789fd789e76b7cb4b5646" label="Mixed Materials" type="Collection">X</container>
     </did>
-    <phystech>
+    <processinfo id="aspace_ac9cc6765ebe54fe69a580110a6ade1b">
+      <head>Processing Information</head>
+      <p>Processed in 2016 by unprocessed.</p>
+    </processinfo>
+    <phystech id="aspace_bea412f56f217274eccac6dd38fa6318">
+      <head>Physical Characteristics and Technical Requirements</head>
       <p>Web Archives</p>
     </phystech>
-    <accessrestrict>
+    <accessrestrict id="aspace_4bff2f90166423b01033077a48e6ba67">
       <head>Access</head>
       <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. Please contact an archivist for more information.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_699c25d3698743c7cef0c5fd63689421">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
-      <p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p> The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_c4b7a86eda7696f49086df8b641edc20">
       <head>Acquisition Information</head>
       <p>All items in this collection were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives by Jackie Gonzales, Ph.D. of Parks &amp; Trails New York.<date normal="2016-01">2016 January</date></p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_c532ff6ac2c094ef75165e9ef6985f5a">
       <head>Historical Note</head>
       <p>Founded in 1985 as the New York Parks and Conservation Association, Parks &amp; Trails New York (which assumed its current name in 2004) is the leading statewide advocate for parks and trails in New York State.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_1d2b92241798977ed1037cfaab9904e0">
+      <head>Scope and Contents</head>
       <p>The collection includes correspondence, publications, annual reports, general subject files, park trails, and maps.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_c4006627bd982d610b36d5a0ca91f3f2">
       <head>Arrangement of the Collection</head>
       <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <prefercite>
+    <prefercite id="aspace_dac6bf78b81d5563e78a2cea18e38cba">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Parks &amp; Trails New York, 1988-2004. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Parks &amp; Trails New York).</p>
+      <p> Identification of specific item, series, box, folder, Parks &amp; Trails New York, 1988-2004. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Parks &amp; Trails New York).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <corpname source="lcsh" encodinganalog="610">Parks &amp; Trails New York</corpname>
-      <genreform source="meg" encodinganalog="655">Web Archives</genreform>
+      <genreform source="meg">Web Archives</genreform>
+      <corpname source="lcsh">Parks &amp; Trails New York</corpname>
     </controlaccess>
     <dsc>
-      <c01 id="nam_apap362-1" level="series">
+      <c01 id="aspace_feb98853a3f9b30d1c7d65537417a1c8" level="series">
         <did>
-          <unitid>1</unitid>
           <unittitle>Web Archives</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2004-06-10/2016-07-23">2004 June 10-2016 July 23</unitdate>
-          <physdesc>
-            <extent unit="captures">187</extent>
+          <unitid>1</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">187 captures</extent>
           </physdesc>
+          <unitdate normal="2004-06-10/2016-07-23" type="inclusive">2004 June 10-2016 July 23</unitdate>
         </did>
-        <acqinfo>
+        <acqinfo id="aspace_339a6dc7db13745b3baea430ab056a86">
+          <head>Immediate Source of Acquisition</head>
           <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both the university's collection and the Internet Archive's public collection.</p>
-          <p/>
         </acqinfo>
-        <phystech>
+        <phystech id="aspace_1d931ef2d3f10ec99c862da167ee427d">
+          <head>Physical Characteristics and Technical Requirements</head>
           <p>Web Archives</p>
         </phystech>
-        <c02 id="nam_apap362-1_1">
+        <c02 id="aspace_533cb7bf266312369e7998d7182e269a" level="file">
           <did>
-            <container type="Web-Archive">2</container>
             <unittitle>http://www.ptny.org/ - Internet Archive collection</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2004-06-10/2016-07-23">2004 June 10-2016 July 23</unitdate>
-            <dao actuate="onrequest" linktype="simple" show="new" href="https://web.archive.org/web/*/http://www.ptny.org/"/>
+            <unitdate normal="2004-06-10/2016-07-23" type="inclusive">2004 June 10-2016 July 23</unitdate>
+            <container id="aspace_f9efbc1fbd90dde45c03d7f4a5d6357d" label="Mixed Materials" type="Web-Archive">2</container>
+            <dao xlink:actuate="onrequest" xlink:href="https://web.archive.org/web/*/http://www.ptny.org/" xlink:show="new" xlink:title="http://www.ptny.org/ - Internet Archive collection">
+              <daodesc>
+                <p>http://www.ptny.org/ - Internet Archive collection</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
       </c01>

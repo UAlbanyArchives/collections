@@ -1,149 +1,150 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua615">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/[COLLECTIONID].html">nam_ua615</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua615">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua615.xml">ua615</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>DEPARTMENT OF HISTORY RECORDS (UA615)<date normal="1943/2001" type="inclusive">ca. 1943-2001</date>
-        </titleproper>
+        <titleproper>History, Department of; Records <num>ua615</num></titleproper>
         <author>n/a</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2015" type="publication">Copyright 2015 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2015</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Justin Holzer<date normal="2015-09">2015 September</date>
-      </creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:52:55 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2015-09">2015 September</date>
+        <date>2015 September</date>
         <item>Collection-level finding aid created.</item>
+      </change>
+      <change>
+        <date>2015 September</date>
+        <item>Encoded in EAD by Justin Holzer</item>
       </change>
     </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>DEPARTMENT OF HISTORY RECORDS (UA615)<date normal="1943/2001" type="inclusive">ca. 1943-2001</date>
-      </titleproper>
-      <publisher>
-			</publisher>
-      <date type="publication">Copyright 2015 By the University at Albany, SUNY. All rights reserved.</date>
-      <p>&amp;contact</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua615</unitid>
-      <unittitle>Department of History Records<unitdate label="Date:" normal="1943/2001" type="inclusive">ca. 1943-2001</unitdate>
-        </unittitle>
-      <abstract label="Abstract:">The Department of History Records contains documents related to the Bachelor of Arts degree, a Doctor of Philosophy degree, a Masters of Arts Degree, and a Certificate of Advanced Study in Public History. Documents also relate to the changing thematic and geographic focus of various degree tracks.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="local">Department of History, University at Albany, SUNY</corpname>
-      </origination>
-      <physdesc label="Physical Characteristics:">
-        <extent unit="cubic ft.">3.3</extent>
-      </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Department of History Records<unitdate normal="1943/2001" type="inclusive">ca. 1943-2001</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">Department of History, University at Albany, SUNY</corpname>
+      </origination>
+      <unitid>ua615</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3.3 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_3bb1fdbfe62e65d56a47555b9dc0dc3a">The Department of History Records contains documents related to the Bachelor of Arts degree, a Doctor of Philosophy degree, a Masters of Arts Degree, and a Certificate of Advanced Study in Public History. Documents also relate to the changing thematic and geographic focus of various degree tracks.</abstract>
+      <langmaterial id="aspace_573e89198b2d7e8fbbb07cd629fe4722">English</langmaterial>
+      <physloc id="aspace_b6bfdc1d859f8bc45c28c63603c5a28e">The materials are located onsite in the department.</physloc>
+      <container id="aspace_518aa4e673d6f5a66158f3129394444c" label="Mixed Materials" type="Collection">X</container>
     </did>
-    <phystech>
+    <processinfo id="aspace_19e0ce72433838790e9265e3c849f4ea">
+      <head>Processing Information</head>
+      <p>Processed in 2015 by n/a.</p>
+    </processinfo>
+    <phystech id="aspace_14a4e2bf76f7735d7f5f0ea1f1d02244">
+      <head>Physical Characteristics and Technical Requirements</head>
       <p>Web Archives</p>
     </phystech>
-    <accessrestrict>
+    <accessrestrict id="aspace_4d6b084c50b6048034b4570464588e3e">
       <head>Access</head>
       <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. While it is likely that portions of the collection may be viewed, access must be managed by an archivist.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_db8a919fc060beaafdaa72e0eb7e8518">
       <head>Copyright</head>
       <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_bacaf9bdc4ccf669c3620053347a025f">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_f9416ec41f7ac64d5dce3cbd888a7d3e">
       <head>Administrative History</head>
-      <p> This collection contains material that relates to the establishment and/or retrenchment of the PhD Program, various social studies degrees and the Public History Program. The Doctoral Program in History was established in 1965 with the rapid expansion of the school into a research university, but was de-certified in 1975 in the wake of widespread cuts. The program was reintroduced in 1992.</p>
+      <p>This collection contains material that relates to the establishment and/or retrenchment of the PhD Program, various social studies degrees and the Public History Program. The Doctoral Program in History was established in 1965 with the rapid expansion of the school into a research university, but was de-certified in 1975 in the wake of widespread cuts. The program was reintroduced in 1992.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_a9b127fb7edcc34e6d5a281a4690a3a4">
+      <head>Scope and Contents</head>
       <p>The Department of History Records is roughly dated from 1943 to 2001. Items include correspondence, memorandums, and meeting minutes related to the administrative operations of the History Department. Items also include course descriptions, resource directories, and programs of various events. Interdepartmental programs with Library Science, Social Studies, and Liberal Arts are also documented. This collection also contains a Nobel Prize Nomination that was developed by a faculty member of the History Department.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_99cbbb90dc8b2c53e29ac16065277957">
       <head>Arrangement of the Collection</head>
       <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <prefercite encodinganalog="524">
+    <prefercite id="aspace_21c01d50c2a2c9f60fa8e57c593fe43d">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Department of History Records,  ca. 1943-2001. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the  Department of History Records).</p>
+      <p> Identification of specific item, series, box, folder, Department of History Records, ca. 1943-2001. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Department of History Records).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany</corpname>
-      <subject encodinganalog="650" source="lcsh">Academic disciplines</subject>
-      <geogname encodinganalog="651" source="lcsh">Albany (N.Y.)</geogname>
-      <genreform encodinganalog="655" source="aat">Administrative Records</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Minutes</genreform>
-      <genreform source="meg" encodinganalog="655">Web Archives</genreform>
+      <subject source="lcsh">Academic disciplines</subject>
+      <geogname source="lcsh">Albany (N.Y.)</geogname>
+      <genreform source="aat">Administrative records</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Minutes</genreform>
+      <genreform source="meg">Web Archives</genreform>
+      <corpname source="lcsh">State University of New York at Albany</corpname>
     </controlaccess>
     <dsc>
-      <c01 id="nam_ua615-1" level="series">
+      <c01 id="aspace_455430868be9ce6a40f0d3ff13e1338c" level="series">
         <did>
-          <unitid>nam_ua615-1</unitid>
           <unittitle>Web Archives</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997-06-07/2016-09-18">1997 June 7-2016 September 18</unitdate>
-          <physdesc>
-            <extent unit="captures">787</extent>
+          <unitid>nam_ua615-1</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">787 captures</extent>
           </physdesc>
+          <unitdate normal="1997-06-07/2016-09-18" type="inclusive">1997 June 7-2016 September 18</unitdate>
         </did>
-        <acqinfo>
+        <acqinfo id="aspace_635a4d628e17b87148a1eb401a274cbb">
+          <head>Immediate Source of Acquisition</head>
           <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both the university's collection and the Internet Archive's public collection.</p>
-          <p>Surface-level crawling of www.albany.edu is performed daily which should includes most top-level webpages. Separate targeted crawls of every albany.edu subdomain are performed monthly to attempt to gather all content. This includes: www.albany.edu, www.rna.albany.edu, www.ctg.albany.edu, www.ualbanysports.com, www.albany.edu/rockefeller, www.albany.edu/cela, www.albany.edu/asrc, m.albany.edu,	library.albany.edu,	events.albany.edu,	cstar.cestm.albany.edu, csda.albany.edu, and alumni.albany.edu</p>
+          <p> Surface-level crawling of www.albany.edu is performed daily which should includes most top-level webpages. Separate targeted crawls of every albany.edu subdomain are performed monthly to attempt to gather all content. This includes: www.albany.edu, www.rna.albany.edu, www.ctg.albany.edu, www.ualbanysports.com, www.albany.edu/rockefeller, www.albany.edu/cela, www.albany.edu/asrc, m.albany.edu,	library.albany.edu,	events.albany.edu,	cstar.cestm.albany.edu, csda.albany.edu, and alumni.albany.edu</p>
         </acqinfo>
-        <phystech>
+        <phystech id="aspace_10b603b30986223a08f4db4a17ef4f0b">
+          <head>Physical Characteristics and Technical Requirements</head>
           <p>Web Archives</p>
         </phystech>
-        <c02 id="nam_ua615-1_1">
+        <c02 id="aspace_139710761b8bcd6b5b8fdb4c49fa0a4a" level="file">
           <did>
-            <container type="Web-Archive">1</container>
             <unittitle>http://www.albany.edu/history/ - University Archives collection</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2013-05-08/2016-09-18">2013 May 8-2016 September 18</unitdate>
-            <dao actuate="onrequest" linktype="simple" show="new" href="http://wayback.archive-it.org/3308/*/http://www.albany.edu/history/"/>
+            <unitdate normal="2013-05-08/2016-09-18" type="inclusive">2013 May 8-2016 September 18</unitdate>
+            <container id="aspace_b67fb47956afb34c60e7e6a4d937ea0e" label="Mixed Materials" type="Web-Archive">1</container>
+            <dao xlink:actuate="onrequest" xlink:href="http://wayback.archive-it.org/3308/*/http://www.albany.edu/history/" xlink:show="new" xlink:title="http://www.albany.edu/history/ - University Archives collection">
+              <daodesc>
+                <p>http://www.albany.edu/history/ - University Archives collection</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
-        <c02 id="nam_ua615-1_2">
+        <c02 id="aspace_33b8c972e65d9c9096d7a5d1fa12eef7" level="file">
           <did>
-            <container type="WARC">1</container>
             <unittitle>WARC file for http://www.albany.edu/history/, (please see https://en.wikipedia.org/wiki/Web_ARChive for more details)</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2013-05-08/2016-09-18">2013 May 8-2016 September 18</unitdate>
+            <unitdate normal="2013-05-08/2016-09-18" type="inclusive">2013 May 8-2016 September 18</unitdate>
+            <container id="aspace_6f39424501a4739d7ec43e214b5449bb" label="Mixed Materials" type="WARC">1</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_84eec70933cf86d71d736a2d94a8a65f">
+            <head>Conditions Governing Access</head>
             <p>WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in researching with web archives.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua615-1_3">
+        <c02 id="aspace_31a5c108af18cba98bbfe93733bb44b4" level="file">
           <did>
-            <container type="Web-Archive">2</container>
             <unittitle>http://www.albany.edu/history/ - Internet Archive collection</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1997-06-07/2016-09-18">1997 June 7-2016 September 18</unitdate>
-            <dao actuate="onrequest" linktype="simple" show="new" href="https://web.archive.org/web/*/http://www.albany.edu/history/"/>
+            <unitdate normal="1997-06-07/2016-09-18" type="inclusive">1997 June 7-2016 September 18</unitdate>
+            <container id="aspace_9f7e74ecc5d58358d9a09d5a442b1cd8" label="Mixed Materials" type="Web-Archive">2</container>
+            <dao xlink:actuate="onrequest" xlink:href="https://web.archive.org/web/*/http://www.albany.edu/history/" xlink:show="new" xlink:title="http://www.albany.edu/history/ - Internet Archive collection">
+              <daodesc>
+                <p>http://www.albany.edu/history/ - Internet Archive collection</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
       </c01>

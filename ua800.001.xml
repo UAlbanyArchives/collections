@@ -1,694 +1,673 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua800.001">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua800.001.html">nam_ua800.001</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua800.001">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua800.001.xml">ua800.001</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>MYSKANIA RECORDS (UA800.001)<date normal="1915/1984" type="inclusive">1915-1984</date>
-        </titleproper>
+        <titleproper>Myskania; Records <num>ua800.001</num></titleproper>
         <author>Richard Duro, Justin Holzer</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2015" type="publication">Copyright 2015 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2015</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Justin Holzer<date normal="2015">2015</date>
-      </creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 17:07:52 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="1989-08-18">1989 August 18</date>
+        <date>1989 August 18</date>
         <item>HTML finding aid created</item>
       </change>
       <change>
-        <date normal="2015-09">2015 September</date>
+        <date>2015 September</date>
         <item>Reprocessed and encoded in EAD</item>
       </change>
       <change>
-        <date/>
-        <item/>
-      </change>
-      <change>
-        <date/>
-        <item/>
+        <date>2015</date>
+        <item>Encoded in EAD by Justin Holzer</item>
       </change>
     </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>MYSKANIA RECORDS (UA800.001)<date normal="1915/1984" type="inclusive">1915-1984</date>
-      </titleproper>
-      <publisher>
-			</publisher>
-      <date type="publication">Copyright 2015 By the University at Albany, SUNY. All rights reserved.</date>
-      <p>&amp;contact</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua800.001</unitid>
-      <unittitle>Myskania Records<unitdate label="Date:" normal="1915/1984" type="inclusive">1915-1984</unitdate>
-        </unittitle>
-      <abstract label="Abstract:">The original student government of the State College for Teachers, founded in 1917. Myskania acted as a secret society which selected its own members, but its duties were gradually assumed by the Student Association and it was disbaned in 1979.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="local">Myskania</corpname>
-      </origination>
-      <physdesc label="Physical Characteristics:">
-        <extent unit="cubic ft.">1.42</extent>
-      </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Myskania Records<unitdate normal="1915/1984" type="inclusive">1915-1984</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">Myskania</corpname>
+      </origination>
+      <unitid>ua800.001</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.42 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_a333f5f8cce12b6793d328103d5e5a4b">The original student government of the State College for Teachers, founded in 1917. Myskania acted as a secret society which selected its own members, but its duties were gradually assumed by the Student Association and it was disbaned in 1979.</abstract>
+      <langmaterial id="aspace_2c3e53ba73a11f74a3bd7afc9111ae21">English</langmaterial>
+      <physloc id="aspace_f0a742ac594f000bc1ef10820a833a1e">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_d59790fe3afa64311004a4bb72e120b1">
+      <head>Processing Information</head>
+      <p>Processed in 2015 by Richard Duro, Justin Holzer.</p>
+    </processinfo>
+    <accessrestrict id="aspace_77b305f019ba8b63e99ccf688525d6ca">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_869e1bcece8a3f3aa66b0894c1f6085d">
       <head>Copyright</head>
       <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_595278d8d017d6c1fbc4316f65fbae2e">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_1343678fe99fbeee1b37af207453c56c">
       <head>Administrative History</head>
       <p>In 1915 a petition was submitted to President Abraham Brubacher asking that a student government be organized. In April of 1917, a faculty committee appointed by Brubacher announced the decision to create a student council comprised of seniors. This council would take charge of student affairs and concerns. Soon after, the council adopted the name Myskania, the meaning of which has been kept secret.</p>
-      <p>Secrecy was to pervade most aspects of Myskania's early history. The organization was self-perpetuating, with senior members selecting their replacements from among the intellectual, moral, and civic leaders of the junior class. Prior to 1931, the student association chose three of its members, but after 1931 Myskania chose all of its own members. </p>
-      <p>Myskania's role was defined in section 11, article 11 of its constitution: "Myskania shall regulate all undergraduate activities, not academic in nature." These activities included the oversight of student publications, student entertainment, class constitutions, the time and manner of the election of class officers, the organization of the freshman class, and the protection of college traditions. </p>
-      <p>Myskania's early years saw an active assertion of its powers. In 1921, Myskania suggested the formation of the Student Association as the official student government and even wrote its constitution.</p>
-      <p>Myskania's eventual demise stemmed from the gradual assumption of its functions by the Student Association. By 1935, the Student Association decided that certain functions, such as the freshman-sophomore rivalries were an executive function, not a judicial one, and thus, Myskania lost one of its main functions. In 1946, due to the disappearance of its governmental powers and the hostility shown to its secret functions and rituals, Myskania announced its dissolution. Later that same year, former Myskania members burned its records and constitution. In 1946, former members of Myskania resurrected it as a volunteer group. It was declared a temporary judicial council in 1946. One year later, Myskania would rise again as an official organization. In 1963, Myskania was called upon to adjudicate the Cortland Case involving the commission of lewd acts by Albany students at a basketball tournament in Cortland, N.Y. Myskania issued summonses, placed some students on probation, and expelled another. This was the last vigorous act ever taken by Myskania. In 1964, one of Myskania's chief duties was taken away, the freshman-sophomore rivalries. Since 1946, Myskania had been allowed only to supervise the function, but now it was not to be involved at all. Under a revised constitution, Myskania's role was to act as guardian of the freshman class and of school tradition, and to screen appointments to the school judiciary. By 1968, the student newspaper was calling Myskania a useless organization that should be abolished. Despite this opposition, Myskania continued to function until 1979, when it appeared before the Student Association to justify its budget. Unable to define an adequate set of functions, Myskania was excluded from the budget. There were no elections to Myskania in 1980. Myskania's own creation, the Student Association, had taken all of Myskania's power, and was thus the main instrument of its dissolution.</p>
-      <p>As Myskania's basic purpose was to create and preserve school traditions through the control of student conduct and functions, panicularly with regard to the freshman class, the research use of these records would best suit someone interested in development of school tradition, conduct of students, and the development of student government.</p>
+      <p> Secrecy was to pervade most aspects of Myskania's early history. The organization was self-perpetuating, with senior members selecting their replacements from among the intellectual, moral, and civic leaders of the junior class. Prior to 1931, the student association chose three of its members, but after 1931 Myskania chose all of its own members. </p>
+      <p> Myskania's role was defined in section 11, article 11 of its constitution: "Myskania shall regulate all undergraduate activities, not academic in nature." These activities included the oversight of student publications, student entertainment, class constitutions, the time and manner of the election of class officers, the organization of the freshman class, and the protection of college traditions. </p>
+      <p> Myskania's early years saw an active assertion of its powers. In 1921, Myskania suggested the formation of the Student Association as the official student government and even wrote its constitution.</p>
+      <p> Myskania's eventual demise stemmed from the gradual assumption of its functions by the Student Association. By 1935, the Student Association decided that certain functions, such as the freshman-sophomore rivalries were an executive function, not a judicial one, and thus, Myskania lost one of its main functions. In 1946, due to the disappearance of its governmental powers and the hostility shown to its secret functions and rituals, Myskania announced its dissolution. Later that same year, former Myskania members burned its records and constitution. In 1946, former members of Myskania resurrected it as a volunteer group. It was declared a temporary judicial council in 1946. One year later, Myskania would rise again as an official organization. In 1963, Myskania was called upon to adjudicate the Cortland Case involving the commission of lewd acts by Albany students at a basketball tournament in Cortland, N.Y. Myskania issued summonses, placed some students on probation, and expelled another. This was the last vigorous act ever taken by Myskania. In 1964, one of Myskania's chief duties was taken away, the freshman-sophomore rivalries. Since 1946, Myskania had been allowed only to supervise the function, but now it was not to be involved at all. Under a revised constitution, Myskania's role was to act as guardian of the freshman class and of school tradition, and to screen appointments to the school judiciary. By 1968, the student newspaper was calling Myskania a useless organization that should be abolished. Despite this opposition, Myskania continued to function until 1979, when it appeared before the Student Association to justify its budget. Unable to define an adequate set of functions, Myskania was excluded from the budget. There were no elections to Myskania in 1980. Myskania's own creation, the Student Association, had taken all of Myskania's power, and was thus the main instrument of its dissolution.</p>
+      <p> As Myskania's basic purpose was to create and preserve school traditions through the control of student conduct and functions, panicularly with regard to the freshman class, the research use of these records would best suit someone interested in development of school tradition, conduct of students, and the development of student government.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_bd86edbcb7cd8ffc0f6092844831abc1">
+      <head>Scope and Contents</head>
       <p>Myskania survived as an organization from 1917-1979, but in 1946 Myskania declared itself defunct and burned all its records to demonstrate against its lack of power and to preserve the secrecy of the organization, especially the way in which its members were chosen. The meaning of "Myskania" remains a mystery that only its members know.</p>
-      <p>Collection uncludes bylaws and the constitution, 1928, 1956–63; minutes, 1917–47, 1961–62; correspondence and memoranda, 1962–63, 1978; announcements; and a brief history of Myskania, 1984. Founded in 1917,</p>
-      <p>The original documents in this collection all stem from the period 1946-79. These records include minutes, announcements, decisions, proposals, tabulations of votes for membership, a membership list from 1917-70 and a history of the organization, written in 1984. The records from the time period of 1946-62 are not very extensive, since during this period Myskania's role had been severely limited.</p>
+      <p> Collection uncludes bylaws and the constitution, 1928, 1956–63; minutes, 1917–47, 1961–62; correspondence and memoranda, 1962–63, 1978; announcements; and a brief history of Myskania, 1984. Founded in 1917,</p>
+      <p> The original documents in this collection all stem from the period 1946-79. These records include minutes, announcements, decisions, proposals, tabulations of votes for membership, a membership list from 1917-70 and a history of the organization, written in 1984. The records from the time period of 1946-62 are not very extensive, since during this period Myskania's role had been severely limited.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_659a37d160158d15ddc427ab8e910c22">
       <head>Arrangement of the Collection</head>
       <p>The collection has no series.</p>
     </arrangement>
-    <prefercite encodinganalog="524">
+    <prefercite id="aspace_dae60fa656089c0f7977ac1c501250fc">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Myskania Records, 1915-1984. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the  Myskania Records).</p>
+      <p> Identification of specific item, series, box, folder, Myskania Records, 1915-1984. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Myskania Records).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany</corpname>
-      <subject encodinganalog="650" source="lcsh">Student government</subject>
-      <geogname encodinganalog="651" source="lcsh">Albany (N.Y.)</geogname>
-      <genreform encodinganalog="655" source="aat">Administrative Records</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Membership</genreform>
-      <genreform encodinganalog="655" source="aat">Minutes</genreform>
+      <subject source="lcsh">Student government</subject>
+      <geogname source="lcsh">Albany (N.Y.)</geogname>
+      <genreform source="aat">Administrative records</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Membership</genreform>
+      <genreform source="aat">Minutes</genreform>
+      <corpname source="lcsh">State University of New York at Albany</corpname>
     </controlaccess>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_ua800.001-1">
+    <dsc>
+      <c01 id="aspace_aa5101d366c136dffbe099ef01e609ed" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
-          <unittitle>Copy-Petition by Students for Establishment of a Student Organization </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1915-02-15">1915 February 15</unitdate>
+          <unittitle>Copy-Petition by Students for Establishment of a Student Organization</unittitle>
+          <unitdate normal="1915-02-15/1915-02-15" type="inclusive">1915 February 15</unitdate>
+          <container id="aspace_24fffcb6a86cd02401160c25f0a3e70c" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_61bd3a1eea80bd3f492ceafeee91dee9" parent="aspace_24fffcb6a86cd02401160c25f0a3e70c" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-2">
+      <c01 id="aspace_48859b4bc15a874ca33422d008318d27" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Constitution for Myskania</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1928">ca. 1928</unitdate>
+          <unitdate normal="1928/1928" type="inclusive">ca. 1928</unitdate>
+          <container id="aspace_15f5bd57f4265ff61bb08d2d90a42b4d" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_673c799dbe918786fb8e8923bd1639b0" parent="aspace_15f5bd57f4265ff61bb08d2d90a42b4d" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-3">
+      <c01 id="aspace_42d92f1dd936033b2387eee2f7fa6171" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>MYSCANIA: A Restatement of Purpose</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1937-05-20">1937 May 20</unitdate>
+          <unitdate normal="1937-05-20/1937-05-20" type="inclusive">1937 May 20</unitdate>
+          <container id="aspace_8bed8285e5b6817604feb1d0478e0a87" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_46c6ce9976c1b022ce3c36968a7cee49" parent="aspace_8bed8285e5b6817604feb1d0478e0a87" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-4">
+      <c01 id="aspace_47286077bd20ffb43670804de7164902" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Minutes of Myskania Formal Initiation</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941-04-19">1941 April 19</unitdate>
+          <unitdate normal="1941-04-19/1941-04-19" type="inclusive">1941 April 19</unitdate>
+          <container id="aspace_695517f1bef9aa4e65574b485fb2a0b5" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_6afa8b093750e41b8150393192cce25d" parent="aspace_695517f1bef9aa4e65574b485fb2a0b5" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-5">
+      <c01 id="aspace_ccc37a392d6ab9e097a4050fde771492" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Resolutions (Includes Some Student Council)</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1937">1937</unitdate>
-          <unitdate calendar="gregorian" era="ce" normal="1943/1945">1943-1945</unitdate>
+          <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+          <unitdate normal="1943/1945" type="inclusive">1943-1945</unitdate>
+          <container id="aspace_2a1c0213c997d45f0f9ee57aceea1bde" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_ed066227647539b9afb9a82f62175211" parent="aspace_2a1c0213c997d45f0f9ee57aceea1bde" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-6">
+      <c01 id="aspace_27d925eeb6796644acb46caaf09caa77" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Recommendations- Moving Up Day</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1945">1945</unitdate>
+          <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+          <container id="aspace_d7266ffe38ff18807ff3ae4b0c09de7a" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_8ba0682f196b5983dbd40aab27a9c7d3" parent="aspace_d7266ffe38ff18807ff3ae4b0c09de7a" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-7">
+      <c01 id="aspace_279a4d9ad3c0b045383ce3d61487d4a5" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Minutes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1946/1949">1946-1949</unitdate>
+          <unitdate normal="1946/1949" type="inclusive">1946-1949</unitdate>
+          <container id="aspace_7a79841df6c4cadbb264dc894c9929a1" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_52283fde7227d312291f24b123d6efc4" parent="aspace_7a79841df6c4cadbb264dc894c9929a1" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-8">
+      <c01 id="aspace_8786169c4c72a7e313c970d53f404893" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
-          <unittitle>History of Myskania (Brief) </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1946/1947">ca. 1946-1947</unitdate>
+          <unittitle>History of Myskania (Brief)</unittitle>
+          <unitdate normal="1946/1947" type="inclusive">ca. 1946-1947</unitdate>
+          <container id="aspace_d88712e4e0641ee75a74bdd424930ff5" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_96c7d8f0abc775dbc3b0aa4d70ce18af" parent="aspace_d88712e4e0641ee75a74bdd424930ff5" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-9">
+      <c01 id="aspace_a504460b5507a036e72ffd24908224f4" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
-          <unittitle>Announcements and Correspondence </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1948/1949">1948-1949</unitdate>
+          <unittitle>Announcements and Correspondence</unittitle>
+          <unitdate normal="1948/1949" type="inclusive">1948-1949</unitdate>
+          <container id="aspace_8ba8ae7e478c340ef0f30b4d89776bcb" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_f3e983b82d2c549b0e2f94f294bb564e" parent="aspace_8ba8ae7e478c340ef0f30b4d89776bcb" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-10">
+      <c01 id="aspace_3170afc1ce10262e7243009b81e2f0b9" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Major-Minor Office Plan</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1949/1951">1949-1951</unitdate>
+          <unitdate normal="1949/1951" type="inclusive">1949-1951</unitdate>
+          <container id="aspace_c15a3c699e92b1e4ea8825b087f18f1e" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_a232f2e9f19c26ac7b3663b088b7ed9a" parent="aspace_c15a3c699e92b1e4ea8825b087f18f1e" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-11">
+      <c01 id="aspace_4fde009cb5768853968d87853ef87c89" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Minutes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1949/1952">1949-1952</unitdate>
+          <unitdate normal="1949/1952" type="inclusive">1949-1952</unitdate>
+          <container id="aspace_32cd31481706187cdb91220baa394f4f" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_6ef5c88406c9c6a7c25a2c6c1ce718c8" parent="aspace_32cd31481706187cdb91220baa394f4f" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-12">
+      <c01 id="aspace_a3abba7df9f3e3eaf307326c6ac1235d" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">12</container>
           <unittitle>Regulation Governing Freshman Class and Sophmore Replacement Elections</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1950">1950</unitdate>
+          <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+          <container id="aspace_f94bdf3e748953c1b5d315dfa6e88579" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_2aabe5d4d771b9adef927ae19610035d" parent="aspace_f94bdf3e748953c1b5d315dfa6e88579" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-13">
+      <c01 id="aspace_e0aad5e05bbfa6430cca9a5844fae7f0" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">13</container>
           <unittitle>Announcements</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1951">1951</unitdate>
+          <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+          <container id="aspace_762a87c177011d5fbe906e67b6ef698c" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_81c71c2d9630e9c7ee09325d4aafba77" parent="aspace_762a87c177011d5fbe906e67b6ef698c" type="Folder">13</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-14">
+      <c01 id="aspace_fdac48e55b66f57e70919376e2baaebd" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">14</container>
-          <unittitle>Decisions </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1951">1951</unitdate>
-          <unitdate calendar="gregorian" era="ce" normal="1959/1966">1959-1966</unitdate>
-        </did>
-      </c01>
-      <c01 id="nam_ua800.001-15">
-        <did>
-          <container type="Box">1</container>
-          <container type="Folder">15</container>
-          <unittitle>"A Committee Report to Rivalry Committee Concerning the Revision of the Inter-Class Rivalry Rules"</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1951">ca. 1951</unitdate>
-        </did>
-      </c01>
-      <c01 id="nam_ua800.001-16">
-        <did>
-          <container type="Box">1</container>
-          <container type="Folder">16</container>
-          <unittitle>Constitution of Student Council of NYSCT</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1953/1955">1953-1955</unitdate>
-        </did>
-      </c01>
-      <c01 id="nam_ua800.001-17">
-        <did>
-          <container type="Box">1</container>
-          <container type="Folder">17</container>
-          <unittitle>Student Activity Sheets</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1953/1958">1953-1958</unitdate>
-        </did>
-      </c01>
-      <c01 id="nam_ua800.001-18">
-        <did>
-          <container type="Box">1</container>
-          <container type="Folder">18</container>
-          <unittitle>Myskania Pin Donor: John Franklin Orser </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1954">1954</unitdate>
-        </did>
-      </c01>
-      <c01 id="nam_ua800.001-19">
-        <did>
-          <container type="Box">1</container>
-          <container type="Folder">19</container>
-          <unittitle>Minutes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1953/1957">1953-1957</unitdate>
-        </did>
-      </c01>
-      <c01 id="nam_ua800.001-20">
-        <did>
-          <container type="Box">1</container>
-          <container type="Folder">20</container>
-          <unittitle>Announcements and Election Tabulations </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1955">1955</unitdate>
-        </did>
-      </c01>
-      <c01 id="nam_ua800.001-21">
-        <did>
-          <container type="Box">1</container>
-          <container type="Folder">21</container>
-          <unittitle>Decisions and Tabulations</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1956/1957">1956-1957</unitdate>
-        </did>
-      </c01>
-      <c01 id="nam_ua800.001-22">
-        <did>
-          <container type="Box">1</container>
-          <container type="Folder">22</container>
-          <unittitle>Constitution of The Student Association of the NYSCT at Albany- Annotated</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1956">ca. 1956</unitdate>
-        </did>
-      </c01>
-      <c01 id="nam_ua800.001-23">
-        <did>
-          <container type="Box">1</container>
-          <container type="Folder">23</container>
-          <unittitle>Rules and Procedures </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1957">1957</unitdate>
-        </did>
-      </c01>
-      <c01 id="nam_ua800.001-24">
-        <did>
-          <container type="Box">1</container>
-          <container type="Folder">24</container>
-          <unittitle>Procedure For the Enforcement of Traditions at State College</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1957">1957</unitdate>
-        </did>
-      </c01>
-      <c01 id="nam_ua800.001-25">
-        <did>
-          <container type="Box">1</container>
-          <container type="Folder">25</container>
-          <unittitle>Student Senate Rulings (Constitutionality of)</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1957/1958">1957-1958</unitdate>
-        </did>
-      </c01>
-      <c01 id="nam_ua800.001-26">
-        <did>
-          <container type="Box">1</container>
-          <container type="Folder">26</container>
           <unittitle>Decisions</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1958">1958</unitdate>
+          <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+          <unitdate normal="1959/1966" type="inclusive">1959-1966</unitdate>
+          <container id="aspace_d1c38cdcd920f8127f1542d30c7b5443" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_c218883011086fd3c855cc5a7abbea9b" parent="aspace_d1c38cdcd920f8127f1542d30c7b5443" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-27">
+      <c01 id="aspace_3a2a3f44e6868ccefb9b3a5fa0acce64" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">1</container>
+          <unittitle>"A Committee Report to Rivalry Committee Concerning the Revision of the Inter-Class Rivalry Rules"</unittitle>
+          <unitdate normal="1951/1951" type="inclusive">ca. 1951</unitdate>
+          <container id="aspace_ffeaffd03cc25101c88fcd59785849d0" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_2fbc6e12ac55fbcbe64782aa7f79661f" parent="aspace_ffeaffd03cc25101c88fcd59785849d0" type="Folder">15</container>
+        </did>
+      </c01>
+      <c01 id="aspace_c14f0dcd2363a41e65a9a5ec6fa2dd50" level="file">
+        <did>
+          <unittitle>Constitution of Student Council of NYSCT</unittitle>
+          <unitdate normal="1953/1955" type="inclusive">1953-1955</unitdate>
+          <container id="aspace_7f0fcd57349bd7622131802418b840c3" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_e19e110e998c19317f6489172d357210" parent="aspace_7f0fcd57349bd7622131802418b840c3" type="Folder">16</container>
+        </did>
+      </c01>
+      <c01 id="aspace_3543499a28b8c81768c6233361fa0ca6" level="file">
+        <did>
+          <unittitle>Student Activity Sheets</unittitle>
+          <unitdate normal="1953/1958" type="inclusive">1953-1958</unitdate>
+          <container id="aspace_86f64137ea6641415138afa71aa7e4bd" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_e7a29b490177c56fbb85949acf661f22" parent="aspace_86f64137ea6641415138afa71aa7e4bd" type="Folder">17</container>
+        </did>
+      </c01>
+      <c01 id="aspace_a8808404b89088b072090b2da1d07ec9" level="file">
+        <did>
+          <unittitle>Myskania Pin Donor: John Franklin Orser</unittitle>
+          <unitdate normal="1954/1954" type="inclusive">1954</unitdate>
+          <container id="aspace_b4bacf4adc2d12c227ff1234434004dd" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_18a7074b447569a60a550824dc1e6f3f" parent="aspace_b4bacf4adc2d12c227ff1234434004dd" type="Folder">18</container>
+        </did>
+      </c01>
+      <c01 id="aspace_f483deb7fe42c9e4f66be340616f91db" level="file">
+        <did>
           <unittitle>Minutes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1958/1959">1958-1959</unitdate>
+          <unitdate normal="1953/1957" type="inclusive">1953-1957</unitdate>
+          <container id="aspace_02ac1f55a0809aa1064c0ed256c0147b" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_7b5f3340f83c1f5d074d457a07c2f459" parent="aspace_02ac1f55a0809aa1064c0ed256c0147b" type="Folder">19</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-28">
+      <c01 id="aspace_e60c2fec9c7448a9c414da7d14788352" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">2</container>
-          <unittitle>History of Myskania </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1959/1960">1959-1960</unitdate>
+          <unittitle>Announcements and Election Tabulations</unittitle>
+          <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
+          <container id="aspace_46b0aa0ed040337bd80f52e94ee85221" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_855ba92140ff9d564387d698a58141a4" parent="aspace_46b0aa0ed040337bd80f52e94ee85221" type="Folder">20</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-29">
+      <c01 id="aspace_66bdb2e44b5e914a58447c746122bba9" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">3</container>
+          <unittitle>Decisions and Tabulations</unittitle>
+          <unitdate normal="1956/1957" type="inclusive">1956-1957</unitdate>
+          <container id="aspace_32ea5630f7306b87fb5d966aa54d4902" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_8bace38a899b35171ebf5cef9493866d" parent="aspace_32ea5630f7306b87fb5d966aa54d4902" type="Folder">21</container>
+        </did>
+      </c01>
+      <c01 id="aspace_0e474843e06b0de4d920e4f9f38ae135" level="file">
+        <did>
+          <unittitle>Constitution of The Student Association of the NYSCT at Albany- Annotated</unittitle>
+          <unitdate normal="1956/1956" type="inclusive">ca. 1956</unitdate>
+          <container id="aspace_0cfbb1e00cb2c64cae0dee284772575f" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_1e9a371b0b8a40993b30f37e658bd347" parent="aspace_0cfbb1e00cb2c64cae0dee284772575f" type="Folder">22</container>
+        </did>
+      </c01>
+      <c01 id="aspace_90a0abf5c0c5201e8c6ae6449c17e8ad" level="file">
+        <did>
+          <unittitle>Rules and Procedures</unittitle>
+          <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
+          <container id="aspace_ee4bc30596983f59fb50cfd28bc442fe" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_47ee29cc964c9b62aa40cce9571b0b0f" parent="aspace_ee4bc30596983f59fb50cfd28bc442fe" type="Folder">23</container>
+        </did>
+      </c01>
+      <c01 id="aspace_00f3ddcab705a8af950567238d92516f" level="file">
+        <did>
+          <unittitle>Procedure For the Enforcement of Traditions at State College</unittitle>
+          <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
+          <container id="aspace_bdea9bd1fd7128123fbcbde2ffa14ec1" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_ce96042f7877be7c79a069d8ff6b1e11" parent="aspace_bdea9bd1fd7128123fbcbde2ffa14ec1" type="Folder">24</container>
+        </did>
+      </c01>
+      <c01 id="aspace_29197dace1d7f95f54d1bb50989a2d4c" level="file">
+        <did>
+          <unittitle>Student Senate Rulings (Constitutionality of)</unittitle>
+          <unitdate normal="1957/1958" type="inclusive">1957-1958</unitdate>
+          <container id="aspace_e498f31f47c445f2b1fa7e059ae1e08f" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_009434ec607aba4af2c089f88c820587" parent="aspace_e498f31f47c445f2b1fa7e059ae1e08f" type="Folder">25</container>
+        </did>
+      </c01>
+      <c01 id="aspace_469d7cef7459aad556c6a560baa43d51" level="file">
+        <did>
+          <unittitle>Decisions</unittitle>
+          <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+          <container id="aspace_afc9e7589af814522c08a2a966431169" label="Mixed Materials" type="Box">1 (Myskania Records)</container>
+          <container id="aspace_2280cddc0b877b5c0534ecefd56037a5" parent="aspace_afc9e7589af814522c08a2a966431169" type="Folder">26</container>
+        </did>
+      </c01>
+      <c01 id="aspace_937aad054ae116e1802c8ae0209ea833" level="file">
+        <did>
+          <unittitle>Minutes</unittitle>
+          <unitdate normal="1958/1959" type="inclusive">1958-1959</unitdate>
+          <container id="aspace_95c854b3489a53966f07785694f8ace0" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_87ee398470d9096bbf0cb20e14705c58" parent="aspace_95c854b3489a53966f07785694f8ace0" type="Folder">1</container>
+        </did>
+      </c01>
+      <c01 id="aspace_63619f1711361e6689f7642fea427afe" level="file">
+        <did>
+          <unittitle>History of Myskania</unittitle>
+          <unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate>
+          <container id="aspace_31ca74d8060fe65ee99c0ac474bbe764" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_801fe20125e70bffeeac92aa4bdd2fc6" parent="aspace_31ca74d8060fe65ee99c0ac474bbe764" type="Folder">2</container>
+        </did>
+      </c01>
+      <c01 id="aspace_b03c3d98a68a75f61b7c3c53c6e2d2f0" level="file">
+        <did>
           <unittitle>Minutes, etc.</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1959-04-16/1961-02-16">1959 April 16-1961 February 16</unitdate>
+          <unitdate normal="1959-04-16/1961-02-16" type="inclusive">1959 April 16-1961 February 16</unitdate>
+          <container id="aspace_3560545eb4fc5455a90c8805626731b5" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_b98dbdad90a79aec1aadb369753f85d1" parent="aspace_3560545eb4fc5455a90c8805626731b5" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-30">
+      <c01 id="aspace_609c778179ad5defd5ac8ff4601815e4" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">4</container>
           <unittitle>Potsdam Case</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1960">1960</unitdate>
+          <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+          <container id="aspace_2583af091c24f39069026a5289c2e7f1" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_4c95ba676a6a6c13fa1550db094bfe30" parent="aspace_2583af091c24f39069026a5289c2e7f1" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-31">
+      <c01 id="aspace_c463c7be4ff372cce8f2d39fb2b16c0f" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">5</container>
           <unittitle>Correspondence</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1961-03">1961 March</unitdate>
+          <unitdate normal="1961-03/1961-03" type="inclusive">1961 March</unitdate>
+          <container id="aspace_36d0e1afc87dc49a7b34d2d7a5f5c5ae" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_728ae662e31571d0fec49a051910c888" parent="aspace_36d0e1afc87dc49a7b34d2d7a5f5c5ae" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-32">
+      <c01 id="aspace_ce3a66384b98651bee3bef7028578afe" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">6</container>
           <unittitle>Minutes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1961-03-09/1962-02-22">1961 March 9-1962 February 22</unitdate>
+          <unitdate normal="1961-03-09/1962-02-22" type="inclusive">1961 March 9-1962 February 22</unitdate>
+          <container id="aspace_cd04ad3e1889a6d4ef463c6e8d070721" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_8e723c7f9ebdad1f828af107a9481a2f" parent="aspace_cd04ad3e1889a6d4ef463c6e8d070721" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-33">
+      <c01 id="aspace_29219d1d7e7d50f96fc72e012c569199" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">7</container>
           <unittitle>Ideas for Role of Myskania</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1962/1963">1962-1963</unitdate>
+          <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
+          <container id="aspace_0f2a98a53b9281794661d7393a441b5a" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_381eafe44331e2c2e1971531988926c2" parent="aspace_0f2a98a53b9281794661d7393a441b5a" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-34">
+      <c01 id="aspace_1f46d99526c8c95b7ca16a8153fabc98" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">8</container>
           <unittitle>Student Senate-Government Reogranization Committee Part 1</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1962/1963">1962-1963</unitdate>
+          <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
+          <container id="aspace_80b0c4537eb01164a0bef6d22c845bfe" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_6863b4e2b76d93fc851df78b3706e4a4" parent="aspace_80b0c4537eb01164a0bef6d22c845bfe" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-35">
+      <c01 id="aspace_8dab28797f6b8f76b4d855b18b75c0a4" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">9</container>
           <unittitle>Student Senate - Government Reorganization Committee Part 2</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1962/1963">1962-1963</unitdate>
+          <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
+          <container id="aspace_bcb4d0a49d29212dcb67a4c37c27185c" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_bcf1ad0ab72b132be3314f1aa4e8c7f8" parent="aspace_bcb4d0a49d29212dcb67a4c37c27185c" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-36">
+      <c01 id="aspace_6ac42bdc32616ded2cd3a37df2ca72ac" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">10</container>
           <unittitle>Cortland Case</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1963">1963</unitdate>
+          <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+          <container id="aspace_62a9674f3ddf5b01eabacb584a250bbe" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_6522e3135c8153006769eb87d958bf94" parent="aspace_62a9674f3ddf5b01eabacb584a250bbe" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-37">
+      <c01 id="aspace_91f2687e463100cead112b857da0f0f0" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">11</container>
           <unittitle>Minutes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1963-03-14/1964-03-05">1963 March 14-1964 March 5</unitdate>
+          <unitdate normal="1963-03-14/1964-03-05" type="inclusive">1963 March 14-1964 March 5</unitdate>
+          <container id="aspace_5d43c816186830f06bdd52183d4e0486" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_671d1b182d55b92222b8234415af2129" parent="aspace_5d43c816186830f06bdd52183d4e0486" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-38">
+      <c01 id="aspace_86d5802e341bbc40427f19e64178191e" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">12</container>
           <unittitle>Student Senate-Minutes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1963/1964">1963-1964</unitdate>
+          <unitdate normal="1963/1964" type="inclusive">1963-1964</unitdate>
+          <container id="aspace_2d2915e8fb78f99d99aec8f97ce53309" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_00249d58874c748ab83653ae92da96ca" parent="aspace_2d2915e8fb78f99d99aec8f97ce53309" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-39">
+      <c01 id="aspace_ccc399e8413e091bfc32c9da583d037b" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">13</container>
-          <unittitle>Correspondence and Referrals </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1963/1964">1963-1964</unitdate>
+          <unittitle>Correspondence and Referrals</unittitle>
+          <unitdate normal="1963/1964" type="inclusive">1963-1964</unitdate>
+          <container id="aspace_77e572abc8d5573a8f722f3b53ee4fc8" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_9ef3c104a932a81ca317d567d4f40de5" parent="aspace_77e572abc8d5573a8f722f3b53ee4fc8" type="Folder">13</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-40">
+      <c01 id="aspace_afdbbd46c2fc02ab0e5a69a6e5bdb3e6" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">14</container>
           <unittitle>Student Senate-Reports</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1963/1964">1963-1964</unitdate>
+          <unitdate normal="1963/1964" type="inclusive">1963-1964</unitdate>
+          <container id="aspace_ae02cee79c0e9345131628eeaa4d275b" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_b58719ef70395e88b4e3d375d723bb37" parent="aspace_ae02cee79c0e9345131628eeaa4d275b" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-41">
+      <c01 id="aspace_fb2ef4558fe0a153fea4e45a009ef75e" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">15</container>
           <unittitle>Role of Myskania</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1965">1965</unitdate>
+          <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+          <container id="aspace_db341e553426961cc287f7e2c1bd7b0e" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_30463bc9b4e3667f9d68b54590209376" parent="aspace_db341e553426961cc287f7e2c1bd7b0e" type="Folder">15</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-42">
+      <c01 id="aspace_069ac66f6568dc7cba879231e7755d30" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">16</container>
           <unittitle>University Athletics Council-Final Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1968">1968</unitdate>
+          <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+          <container id="aspace_c53443179211ccfe143d8226f6c7cfbd" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_9adef7198322eb8176a56c3c2286e43a" parent="aspace_c53443179211ccfe143d8226f6c7cfbd" type="Folder">16</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-43">
+      <c01 id="aspace_c924fbd9517d46e45b63bb9529f46aba" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">17</container>
           <unittitle>Constitution for Myskania</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1975">1975</unitdate>
+          <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+          <container id="aspace_71535bf371c8f865d3447a46ecead4cf" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_9eaeac115bc1159ce324bc5f533b2a3f" parent="aspace_71535bf371c8f865d3447a46ecead4cf" type="Folder">17</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-44">
+      <c01 id="aspace_b2e0e98e8da9346a009a713825d48a78" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">18</container>
           <unittitle>History - "The Life and Death of Myskania" by Alfred Basch '31</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1984">1984</unitdate>
+          <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+          <container id="aspace_348baab91ed1bf0ad99eaa8bb276ba31" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_79120fb9723a41de623f7c76c1c676e8" parent="aspace_348baab91ed1bf0ad99eaa8bb276ba31" type="Folder">18</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-45">
+      <c01 id="aspace_d365ce33751c81403da0a48328c07704" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">19</container>
-          <unittitle>Activities Classification </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1915/1984">Undated</unitdate>
+          <unittitle>Activities Classification</unittitle>
+          <unitdate normal="1915/1984" type="inclusive">Undated</unitdate>
+          <container id="aspace_e42f790bb52f0ebf4e0c2793a9c045c6" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_a27065594e7f424d73b0f7e9f13dfa4f" parent="aspace_e42f790bb52f0ebf4e0c2793a9c045c6" type="Folder">19</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-46">
+      <c01 id="aspace_993e4e955ff8d884c27d3afd2e066f00" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">20</container>
-          <unittitle>Parliamentary Procedures </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1915/1984">Undated</unitdate>
+          <unittitle>Parliamentary Procedures</unittitle>
+          <unitdate normal="1915/1984" type="inclusive">Undated</unitdate>
+          <container id="aspace_711f6922ad59f9ba0475b814d5bdfda6" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_f30aa90fca02ddc06c51b66e3d750de4" parent="aspace_711f6922ad59f9ba0475b814d5bdfda6" type="Folder">20</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-47">
+      <c01 id="aspace_0be58a29f05ba198c2dfe6a1f6995093" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">21</container>
           <unittitle>The Purpose of Student Government</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1915/1984">Undated</unitdate>
+          <unitdate normal="1915/1984" type="inclusive">Undated</unitdate>
+          <container id="aspace_075e1d918a2a89f4b01d2175cefa6070" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_0da04bffdd76d78b095def13aba1c5a6" parent="aspace_075e1d918a2a89f4b01d2175cefa6070" type="Folder">21</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-48">
+      <c01 id="aspace_c82c236c2a61d1e61c31507a0856c28d" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">22</container>
-          <unittitle>Transportation Committee-Rules and Regulations </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1915/1984">Undated</unitdate>
+          <unittitle>Transportation Committee-Rules and Regulations</unittitle>
+          <unitdate normal="1915/1984" type="inclusive">Undated</unitdate>
+          <container id="aspace_612f23413d274f8af81503120f71e4cf" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_8ec1e079ec8c28792844afe3e85298b9" parent="aspace_612f23413d274f8af81503120f71e4cf" type="Folder">22</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-49">
+      <c01 id="aspace_3f9c321c51e5309c6884e0ff0fd1032e" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">23</container>
           <unittitle>Constitution of the Inter-Collegiate Association of the New York State Teachers Colleges</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1915/1984">Undated</unitdate>
+          <unitdate normal="1915/1984" type="inclusive">Undated</unitdate>
+          <container id="aspace_d4ce2a76d0a31c1a14902f3f3c64bc62" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_7a19e38be2e249ef898c043631273921" parent="aspace_d4ce2a76d0a31c1a14902f3f3c64bc62" type="Folder">23</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-50">
+      <c01 id="aspace_1986ff44fb146b1ed419326737768369" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">24</container>
           <unittitle>Constitution of the Student Association of the NYSCT-Proposed Amendments (as revised in Myskania meeting)</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1915/1984">Undated</unitdate>
+          <unitdate normal="1915/1984" type="inclusive">Undated</unitdate>
+          <container id="aspace_4ed2055314441ed868952ecd6f3fdd80" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_b60ad895f7a85c5e083d4b1dca46b58a" parent="aspace_4ed2055314441ed868952ecd6f3fdd80" type="Folder">24</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-51">
+      <c01 id="aspace_71df5e9800b17b4bc8c4e36606c2d670" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">25</container>
-          <unittitle>Constitution of the NYSCT - Student Association </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1915/1984">Undated</unitdate>
+          <unittitle>Constitution of the NYSCT - Student Association</unittitle>
+          <unitdate normal="1915/1984" type="inclusive">Undated</unitdate>
+          <container id="aspace_498b372389350f5347e9bdc1b5877fdd" label="Mixed Materials" type="Box">2 (Myskania Records)</container>
+          <container id="aspace_24d2c973110fcae9bbe42fba5d4fa641" parent="aspace_498b372389350f5347e9bdc1b5877fdd" type="Folder">25</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-52">
+      <c01 id="aspace_390cfd0c88a39eb3e45ae6ddeb504726" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">1</container>
           <unittitle>Minutes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1917">1917</unitdate>
+          <unitdate normal="1917/1917" type="inclusive">1917</unitdate>
+          <container id="aspace_5d4899a4a945c6586317c066e4a80654" label="Mixed Materials" type="Box">3 (Myskania Records)</container>
+          <container id="aspace_e86cb085306d37c7edccc0db55f7eb09" parent="aspace_5d4899a4a945c6586317c066e4a80654" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-53">
+      <c01 id="aspace_b939c756a2960eac3912ef8acabb7ec5" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">2</container>
           <unittitle>Minutes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1919/1920">1919-1920</unitdate>
+          <unitdate normal="1919/1920" type="inclusive">1919-1920</unitdate>
+          <container id="aspace_20e338062ff42a5e685d7438d1a8e44a" label="Mixed Materials" type="Box">3 (Myskania Records)</container>
+          <container id="aspace_efb9212e74bf4187a1191fe583afd3dc" parent="aspace_20e338062ff42a5e685d7438d1a8e44a" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-54">
+      <c01 id="aspace_d409874ba6eff36a8ceea40bcfa90718" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">3</container>
           <unittitle>Minutes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1920/1921">1920-1921</unitdate>
+          <unitdate normal="1920/1921" type="inclusive">1920-1921</unitdate>
+          <container id="aspace_eacdba926eb9d9d3890eb963940aa4cc" label="Mixed Materials" type="Box">3 (Myskania Records)</container>
+          <container id="aspace_f3b610d6ecf748bfc242a1860b1475a8" parent="aspace_eacdba926eb9d9d3890eb963940aa4cc" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-55">
+      <c01 id="aspace_7f9a4a4585d25ea9b9414d104df3b3f6" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">4</container>
           <unittitle>Minutes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1922/1923">1922-1923</unitdate>
+          <unitdate normal="1922/1923" type="inclusive">1922-1923</unitdate>
+          <container id="aspace_31f1dee02e75058e6d418f8ecf226058" label="Mixed Materials" type="Box">3 (Myskania Records)</container>
+          <container id="aspace_bebf79d11ef914239e022cf03efc6595" parent="aspace_31f1dee02e75058e6d418f8ecf226058" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-56">
+      <c01 id="aspace_bd665b987dda26a0799ec2d21e894fd6" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">5</container>
           <unittitle>Minutes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1923/1924">1923-1924</unitdate>
+          <unitdate normal="1923/1924" type="inclusive">1923-1924</unitdate>
+          <container id="aspace_f220d6c727a1b2413b872501b429c27e" label="Mixed Materials" type="Box">3 (Myskania Records)</container>
+          <container id="aspace_c4e1eccd574cd0221a7b4ddea74e292c" parent="aspace_f220d6c727a1b2413b872501b429c27e" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-57">
+      <c01 id="aspace_ecf1cc1d6d00e24b1d03424350cfbdc7" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">6</container>
           <unittitle>Minutes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1924/1925">1924-1925</unitdate>
+          <unitdate normal="1924/1925" type="inclusive">1924-1925</unitdate>
+          <container id="aspace_60df6e58df586c65a40abb9b0568480b" label="Mixed Materials" type="Box">3 (Myskania Records)</container>
+          <container id="aspace_b7e1f578673a055739520f854d894c3b" parent="aspace_60df6e58df586c65a40abb9b0568480b" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-58">
+      <c01 id="aspace_62f71c7f6236bf448b4431471977b4cc" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">7</container>
           <unittitle>Minutes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1925/1926">1925-1926</unitdate>
+          <unitdate normal="1925/1926" type="inclusive">1925-1926</unitdate>
+          <container id="aspace_74319dd5130ba164475cb3c0b5502943" label="Mixed Materials" type="Box">3 (Myskania Records)</container>
+          <container id="aspace_cd87480424c5ba0e9e21dec24b7386e9" parent="aspace_74319dd5130ba164475cb3c0b5502943" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-59">
+      <c01 id="aspace_e8142aebd3eb64595d21dc85636cef42" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">8</container>
           <unittitle>Minutes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1926/1927">1926-1927</unitdate>
+          <unitdate normal="1926/1927" type="inclusive">1926-1927</unitdate>
+          <container id="aspace_84342ff5af41e786692ae8cf73256b0b" label="Mixed Materials" type="Box">3 (Myskania Records)</container>
+          <container id="aspace_746b03d7b368d4ae1f203fc79d5335df" parent="aspace_84342ff5af41e786692ae8cf73256b0b" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-60">
+      <c01 id="aspace_71a31249233d7364d93e136dcdfcaeea" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">9</container>
           <unittitle>Minutes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1927/1928">1927-1928</unitdate>
+          <unitdate normal="1927/1928" type="inclusive">1927-1928</unitdate>
+          <container id="aspace_ff21fd845ccbf1c1567942887d181fab" label="Mixed Materials" type="Box">3 (Myskania Records)</container>
+          <container id="aspace_908dd3f494a6adc9e40db219606f16c6" parent="aspace_ff21fd845ccbf1c1567942887d181fab" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-61">
+      <c01 id="aspace_cc5f05be50d90731ecb5ffaf3ac5ad9f" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">10</container>
           <unittitle>Minutes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1928/1932">1928-1932</unitdate>
+          <unitdate normal="1928/1932" type="inclusive">1928-1932</unitdate>
+          <container id="aspace_00b6dc4897fceb0e6c0c642dd1ad00b4" label="Mixed Materials" type="Box">3 (Myskania Records)</container>
+          <container id="aspace_c142f105c6716dd79bb17f70485d5ff7" parent="aspace_00b6dc4897fceb0e6c0c642dd1ad00b4" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-62">
+      <c01 id="aspace_f69cbb0559e024b18a94b7a2f0f452dc" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">11</container>
           <unittitle>In Envelope-Invitations</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1928/1934">1928-1934</unitdate>
+          <unitdate normal="1928/1934" type="inclusive">1928-1934</unitdate>
+          <container id="aspace_208a48e76af1466402c385967749842e" label="Mixed Materials" type="Box">3 (Myskania Records)</container>
+          <container id="aspace_f3efaa46168200db5a69f8f14169fce9" parent="aspace_208a48e76af1466402c385967749842e" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-63">
+      <c01 id="aspace_f14d6c641ee52f05809fca90bc18a543" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">12</container>
           <unittitle>Financial Records</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1930/1941">1930-1941</unitdate>
+          <unitdate normal="1930/1941" type="inclusive">1930-1941</unitdate>
+          <container id="aspace_3216d4bc65a0402323523bcb93bf082f" label="Mixed Materials" type="Box">3 (Myskania Records)</container>
+          <container id="aspace_4e81b346ab253408e87adcf01f1af80b" parent="aspace_3216d4bc65a0402323523bcb93bf082f" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-64">
+      <c01 id="aspace_06eb947261ff74257b0d18056456ee5e" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">13</container>
           <unittitle>In Binder- Alumni Association with Two Pins</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1930/1941">1930-1941</unitdate>
+          <unitdate normal="1930/1941" type="inclusive">1930-1941</unitdate>
+          <container id="aspace_da8533cf49d59c48c9977aeb5efe9186" label="Mixed Materials" type="Box">3 (Myskania Records)</container>
+          <container id="aspace_f3ed4c6bd80231fe121bf13fba0fc44e" parent="aspace_da8533cf49d59c48c9977aeb5efe9186" type="Folder">13</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-65">
+      <c01 id="aspace_3e8c7ff5d48a8ce40073bf9968debe38" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">14</container>
           <unittitle>Minutes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1932/1935">1932-1935</unitdate>
+          <unitdate normal="1932/1935" type="inclusive">1932-1935</unitdate>
+          <container id="aspace_b1c83277f36b552b817a54cdbc637ce8" label="Mixed Materials" type="Box">3 (Myskania Records)</container>
+          <container id="aspace_87b329d0d26d761e6cacc3dcde4d4404" parent="aspace_b1c83277f36b552b817a54cdbc637ce8" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-66">
+      <c01 id="aspace_2f81742110428d67a09a25918dca9ed8" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">15</container>
           <unittitle>Procedures</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1932/1935">ca. 1932-1935</unitdate>
+          <unitdate normal="1932/1935" type="inclusive">ca. 1932-1935</unitdate>
+          <container id="aspace_2f92e28f5a6ca45caf90ad8b4b5293a0" label="Mixed Materials" type="Box">3 (Myskania Records)</container>
+          <container id="aspace_0a3074b1c1a7655a3411ef36a815c23f" parent="aspace_2f92e28f5a6ca45caf90ad8b4b5293a0" type="Folder">15</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-67">
+      <c01 id="aspace_0de6e408868269c3bb6c2dcdbc891805" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">16</container>
           <unittitle>Contract</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941">1941</unitdate>
+          <unitdate normal="1941/1941" type="inclusive">1941</unitdate>
+          <container id="aspace_55451c75ba2ff3e5e8cac3698526a9f0" label="Mixed Materials" type="Box">3 (Myskania Records)</container>
+          <container id="aspace_3500a502647243273f9d22823b2a04a5" parent="aspace_55451c75ba2ff3e5e8cac3698526a9f0" type="Folder">16</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-68">
+      <c01 id="aspace_5e0c9e078544ac998a1836f3a13f4959" level="file">
         <did>
-          <container type="Oversized">1</container>
-          <container type="Folder">1</container>
           <unittitle>Receipts</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941">1941</unitdate>
+          <unitdate normal="1941/1941" type="inclusive">1941</unitdate>
+          <container id="aspace_a3eff0a6b6fb7b7051db8ea492b51e05" label="Mixed Materials" type="Oversized">1</container>
+          <container id="aspace_bf0d6760e54dadf42d4676ffe2016ddc" parent="aspace_a3eff0a6b6fb7b7051db8ea492b51e05" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-69">
+      <c01 id="aspace_b9ac3c268b0e58d656e9ebb3a699ee81" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">17</container>
           <unittitle>Meeting Minutes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1943/1944">1943-1944</unitdate>
+          <unitdate normal="1943/1944" type="inclusive">1943-1944</unitdate>
+          <container id="aspace_c2f1eec2ae0db952226d1e781bff1302" label="Mixed Materials" type="Box">3 (Myskania Records)</container>
+          <container id="aspace_90a76983a0e41de54cb7c6cc3ab55b2a" parent="aspace_c2f1eec2ae0db952226d1e781bff1302" type="Folder">17</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-70">
+      <c01 id="aspace_878232a65187b966908b325f422a05a7" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">18</container>
           <unittitle>Receipts</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1944/1945">1944-1945</unitdate>
+          <unitdate normal="1944/1945" type="inclusive">1944-1945</unitdate>
+          <container id="aspace_d78d106777fd8b5c1d5582f85b0c0308" label="Mixed Materials" type="Box">3 (Myskania Records)</container>
+          <container id="aspace_44f6673299afe9c80579ec530a6f97ed" parent="aspace_d78d106777fd8b5c1d5582f85b0c0308" type="Folder">18</container>
         </did>
       </c01>
-      <c01 id="nam_ua800.001-71">
+      <c01 id="aspace_e3f259c02e2b9575aa8fbb89c217760f" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">19</container>
           <unittitle>Constitution of The State College Student Association</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1945">1945</unitdate>
+          <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+          <container id="aspace_683021836fd912fe04680093b05f301d" label="Mixed Materials" type="Box">3 (Myskania Records)</container>
+          <container id="aspace_be842cb048719b704219d2e9f17e7ca8" parent="aspace_683021836fd912fe04680093b05f301d" type="Folder">19</container>
         </did>
       </c01>
     </dsc>

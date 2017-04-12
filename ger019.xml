@@ -1,252 +1,248 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ger019">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ger019.html">nam_ger019</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ger019">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ger019.xml">ger019</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>MAX BARTH PAPERS (GER019)<date normal="1916/1962" type="inclusive">1916-1962</date></titleproper>
+        <titleproper>Barth, Max; Papers <num>ger019</num></titleproper>
         <author>Mary Osielski</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2002-09" type="publication">Copyright 2002 September by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2002 September</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Mark Wolfe<date normal="2015">2015</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:06:02 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2015-12">2015 December</date>
+        <date>2015 December</date>
         <item>Converted to EAD</item>
+      </change>
+      <change>
+        <date>2015</date>
+        <item>Encoded in EAD by Mark Wolfe</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ger019</unitid>
-      <unittitle>Max Barth Papers<unitdate normal="1916/1962" type="inclusive">1916-1962</unitdate></unittitle>
-      <abstract label="Abstract:">The Correctional Association of New York Records includes records
-        from the Board of Directors, annual reports, prison visit files, Narcotics Committee files,
-        program and bureau files, project files, subject files, and publications. The only records
-        of the organization available from the nineteenth century are the annual reports, which have
-        been microfilmed and are available in the University Library.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <persname encodinganalog="100" source="lcsh">Barth, Max, 1896-1970</persname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">0.25</extent>
-      </physdesc>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Max Barth Papers<unitdate normal="1916/1962" type="inclusive">1916-1962</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="lcsh">Barth, Max, 1896-1970</persname>
+      </origination>
+      <unitid>ger019</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.25 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_a2b0be73779e3a41e08c084f5bdc2350">The Correctional Association of New York Records includes records from the Board of Directors, annual reports, prison visit files, Narcotics Committee files, program and bureau files, project files, subject files, and publications. The only records of the organization available from the nineteenth century are the annual reports, which have been microfilmed and are available in the University Library.</abstract>
+      <langmaterial id="aspace_0effb5aa7200cb95ee159f865bb29a76">English</langmaterial>
+      <physloc id="aspace_005ece595e2bdb2631bba5be0e35f1fd">The materials are located onsite in the department.</physloc>
     </did>
-    <bioghist>
+    <processinfo id="aspace_4ec25f76cc45bc423cf33d57bc9113f4">
+      <head>Processing Information</head>
+      <p>Processed in 2002 September by Mary Osielski.</p>
+    </processinfo>
+    <bioghist id="aspace_401809089dbec51d9662e13ae989ef7f">
       <head>Biographical History</head>
-      <p>Max Barth was born in Waldkirch in Baden-Wurttemberg, Germany.He was a poet, writer,  and journalist.  Barth founded his own small weekly newspaper, <emph render="italic">The Direction</emph>. </p>
+      <p>Max Barth was born in Waldkirch in Baden-Wurttemberg, Germany.He was a poet, writer, and journalist. Barth founded his own small weekly newspaper, <emph render="italic">The Direction</emph>.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>Photocopies of handcorrected typescripts of poetry, 19161940; and offprints of articles, 19611962. </p>
+    <scopecontent id="aspace_53ce03cccf71554ad8740cc44c303447">
+      <head>Scope and Contents</head>
+      <p>Photocopies of handcorrected typescripts of poetry, 19161940; and offprints of articles, 19611962.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_2e2cd16a96118b37614583b433eeaf77">
       <head>Arrangement of the Collection</head>
       <p>The collection has no series, arranged chronologically.</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_a0b3fa508e57f10578a80c35d37ca895">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_ff6acfc7da78d05a5c865772cb4fed4e">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_34ba4e34d68dd7493945ffc6f4af7caa">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites. </p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
-      <p>The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future. </p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
+      <p> The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_9206222abb9e24773c0ab13385639ea4">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, [COLLECTION NAME],  [DATE]. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the  [ABBREVIATED NAME]).</p>
+      <p> Identification of specific item, series, box, folder, [COLLECTION NAME], [DATE]. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the [ABBREVIATED NAME]).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Literature</subject>
-      <persname encodinganalog="600" source="lcsh">Barth, Max, 1896-1970</persname>
-      <subject encodinganalog="650" source="lcsh">German poetry</subject>
-      <genreform encodinganalog="655" source="aat">typescripts</genreform>
+      <subject source="meg">Literature</subject>
+      <subject source="lcsh">German poetry</subject>
+      <genreform source="aat">typescripts</genreform>
+      <persname source="lcsh">Barth, Max, 1896-1970</persname>
     </controlaccess>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_ger019-1">
+    <dsc>
+      <c01 id="aspace_83a190f42c0176e61833eafa3d24bba0" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
-          <unittitle>Traum and tag (70 poems, some missing) </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unittitle>Traum and tag (70 poems, some missing)</unittitle>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
+          <container id="aspace_8fa4b921ba4020c9bfe2eb37e3534754" label="Mixed Materials" type="Box">1 (Max Barth Papers)</container>
+          <container id="aspace_cb7b757dbd35004ffe18db6f3980e839" parent="aspace_8fa4b921ba4020c9bfe2eb37e3534754" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ger019-2">
+      <c01 id="aspace_7f3b674450466539a89b5e60aa0dd459" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
-          <unittitle>13 miscellaneous poems with no title page preceding them </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unittitle>13 miscellaneous poems with no title page preceding them</unittitle>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
+          <container id="aspace_e0f60b20c4b101d4149be63c403b08eb" label="Mixed Materials" type="Box">1 (Max Barth Papers)</container>
+          <container id="aspace_f408e37629c34822a2dec71d27dabbc3" parent="aspace_e0f60b20c4b101d4149be63c403b08eb" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ger019-3">
+      <c01 id="aspace_aeb47cbaa66fdecc7f6879fd63dbf8c7" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
-          <unittitle>Stimme aus nirgendwo, (28 poems, some missing) </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unittitle>Stimme aus nirgendwo, (28 poems, some missing)</unittitle>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
+          <container id="aspace_ace4b1cd1f472fa970e774b6c0eb0592" label="Mixed Materials" type="Box">1 (Max Barth Papers)</container>
+          <container id="aspace_5a56c9e51f813b50a29bcfa639fc88f7" parent="aspace_ace4b1cd1f472fa970e774b6c0eb0592" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ger019-4">
+      <c01 id="aspace_89eb0b0d02c78565a4ca805c944af32e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
-          <unittitle>Frauen (12 poems, some missing) </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unittitle>Frauen (12 poems, some missing)</unittitle>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
+          <container id="aspace_fa9a8f25a0856eceaac1cdd915194e83" label="Mixed Materials" type="Box">1 (Max Barth Papers)</container>
+          <container id="aspace_3ff900b20011e4c73fd60f1fee35a308" parent="aspace_fa9a8f25a0856eceaac1cdd915194e83" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_ger019-5">
+      <c01 id="aspace_9cb1ab4c326f6137844a2898b20d646a" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Mufti Buftis Wundertute Von Ihm Selber</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
+          <container id="aspace_2c56a59435461f8e287caceb03a5a1ca" label="Mixed Materials" type="Box">1 (Max Barth Papers)</container>
+          <container id="aspace_4fdeac28904bbb225e53b683483cddf9" parent="aspace_2c56a59435461f8e287caceb03a5a1ca" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_ger019-6">
+      <c01 id="aspace_14984bd2ebc0c51fc7a2660704b6d16b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
-          <unittitle>Reprints by Barth: Deutsche Sprache - wohin? </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unittitle>Reprints by Barth: Deutsche Sprache - wohin?</unittitle>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
+          <container id="aspace_ffe1d049b3ea6d3d42dbeca9b62c5327" label="Mixed Materials" type="Box">1 (Max Barth Papers)</container>
+          <container id="aspace_55537ece800cd6861a18745ec19ed434" parent="aspace_ffe1d049b3ea6d3d42dbeca9b62c5327" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_ger019-7">
+      <c01 id="aspace_c91e72bd3c241c7974018ce88d3664e6" level="otherlevel">
         <did>
           <unittitle>Deutsche Sprache - wohin? II</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
         </did>
       </c01>
-      <c01 id="nam_ger019-8">
+      <c01 id="aspace_81a9f680216e295240f9d73e4a5469a0" level="otherlevel">
         <did>
           <unittitle>Das Deutsche und die Fremdworter II</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
         </did>
       </c01>
-      <c01 id="nam_ger019-9">
+      <c01 id="aspace_8117978de4aa89364ff4339a508502b8" level="otherlevel">
         <did>
           <unittitle>Die Gleichschaltung der Sprache</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
         </did>
       </c01>
-      <c01 id="nam_ger019-10">
+      <c01 id="aspace_91b158483b604faaa5a18fb871348c3e" level="otherlevel">
         <did>
           <unittitle>Gobbeldiguck</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
         </did>
       </c01>
-      <c01 id="nam_ger019-11">
+      <c01 id="aspace_afc8454638745a572650fa6d99a3c165" level="otherlevel">
         <did>
           <unittitle>Im Irrgarten der Sprache I</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
         </did>
       </c01>
-      <c01 id="nam_ger019-12">
+      <c01 id="aspace_1d839d89ca4850cbc737089f0c060fff" level="otherlevel">
         <did>
           <unittitle>Lob des Strichpunkts</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
         </did>
       </c01>
-      <c01 id="nam_ger019-13">
+      <c01 id="aspace_451b932b6f0d82d8e9be43e1e4465629" level="otherlevel">
         <did>
           <unittitle>Neuerungen in der Sprache</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
         </did>
       </c01>
-      <c01 id="nam_ger019-14">
+      <c01 id="aspace_b8f301c3e91c2cab189169f7fb8fa2e9" level="otherlevel">
         <did>
-          <unittitle> Ein neues Alfabet</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unittitle>Ein neues Alfabet</unittitle>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
         </did>
       </c01>
-      <c01 id="nam_ger019-15">
+      <c01 id="aspace_915769da99e5030906bda0ac746e11d5" level="otherlevel">
         <did>
           <unittitle>Das peinliche Neudeutsch I</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
         </did>
       </c01>
-      <c01 id="nam_ger019-16">
+      <c01 id="aspace_2cb7dcfd76a056edb7b60bfb7d0e183a" level="otherlevel">
         <did>
-          <unittitle> Das peinliche Neudeutsch II </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unittitle>Das peinliche Neudeutsch II</unittitle>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
         </did>
       </c01>
-      <c01 id="nam_ger019-17">
+      <c01 id="aspace_d2841ad707493959d355d228cd27c3a4" level="otherlevel">
         <did>
-          <unittitle> Problem der Wortbildung </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unittitle>Problem der Wortbildung</unittitle>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
         </did>
       </c01>
-      <c01 id="nam_ger019-18">
+      <c01 id="aspace_f0a1215330b7986488a8ec736e441cc3" level="otherlevel">
         <did>
-          <unittitle>Der Sieg Uber die Fremdworter </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unittitle>Der Sieg Uber die Fremdworter</unittitle>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
         </did>
       </c01>
-      <c01 id="nam_ger019-19">
+      <c01 id="aspace_d5639684106a47eea0fab6bd5efb1670" level="otherlevel">
         <did>
-          <unittitle>Die Sprache der Rundfunkredner </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unittitle>Die Sprache der Rundfunkredner</unittitle>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
         </did>
       </c01>
-      <c01 id="nam_ger019-20">
+      <c01 id="aspace_75b436729769a49424a3f0383c40912a" level="otherlevel">
         <did>
-          <unittitle>Sprache und Aussprache </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unittitle>Sprache und Aussprache</unittitle>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
         </did>
       </c01>
-      <c01 id="nam_ger019-21">
+      <c01 id="aspace_186f533a70a39466662c26134fcf6bd4" level="otherlevel">
         <did>
-          <unittitle>Unkraut im Garten </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unittitle>Unkraut im Garten</unittitle>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
         </did>
       </c01>
-      <c01 id="nam_ger019-22">
+      <c01 id="aspace_3bf6e2a83184c8206e6da0509c7e1295" level="otherlevel">
         <did>
-          <unittitle>Das Worterbuch als Bildungsmittel I </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unittitle>Das Worterbuch als Bildungsmittel I</unittitle>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
         </did>
       </c01>
-      <c01 id="nam_ger019-23">
+      <c01 id="aspace_a7933dfd918a5f4d98b43aaca94579fd" level="otherlevel">
         <did>
-          <unittitle>Das Worterbuch als Bildungsmittel II </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unittitle>Das Worterbuch als Bildungsmittel II</unittitle>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
         </did>
       </c01>
-      <c01 id="nam_ger019-24">
+      <c01 id="aspace_3e6c974fd6920d006e317d914756ed03" level="otherlevel">
         <did>
           <unittitle>Das Worterbuch als Bildungsmittel III</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1962 ">Undated</unitdate>
+          <unitdate normal="1916/1962" type="inclusive">Undated</unitdate>
         </did>
       </c01>
     </dsc>

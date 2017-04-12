@@ -1,909 +1,928 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap048">
-  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" countryencoding="iso3166-1" repositoryencoding="iso15511" dateencoding="iso8601">
-    <eadid countrycode="US" mainagencycode="nalsu" identifier="apap048">nam_apap048</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap048">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap048.xml">apap048</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>RUFUS EDWARD MILES, JR. PAPERS (APAP048)<date normal="1934/1985" type="inclusive">1934-1985</date></titleproper>
+        <titleproper>Miles, Rufus E., Jr.; Papers <num>apap048</num></titleproper>
         <author>Preliminary Finding Aid Compiled by William F. Young, Jr.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2015">Copyright 2015 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2015</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Conversion and encoding by ArchProteus, <date normal="2016">2016</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 13:38:32 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2014">2014</date>
+        <date>2014</date>
         <item>EAD file created</item>
+      </change>
+      <change>
+        <date>2016</date>
+        <item>Encoded in EAD by Conversion and encoding by ArchProteus</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap048</unitid>
-      <unittitle>Rufus Edward Miles, Jr. Papers<unitdate type="inclusive" label="Date: " era="ce" calendar="gregorian" normal="1934/1985">1934-1985</unitdate></unittitle>
-      <origination>
-        <persname encodinganalog="100" source="local">Miles, Jr., Rufus Edward</persname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">8</extent>
-      </physdesc>
-      <abstract label="Abstract:">Miles served fifteen years as a top level administrator at the Federal Security Agency and the Department of Health Education and Welfare.</abstract>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Rufus Edward Miles, Jr. Papers<unitdate normal="1934/1985" type="inclusive">1934-1985</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="local">Miles, Jr., Rufus Edward</persname>
+      </origination>
+      <unitid>apap048</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">8 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_f52fead787f7db6441252ff5bc51aa26">Miles served fifteen years as a top level administrator at the Federal Security Agency and the Department of Health Education and Welfare.</abstract>
+      <physloc id="aspace_d10d56570fefebcd92572d9a963b4a9b">The materials are located onsite in the department.</physloc>
+      <langmaterial id="aspace_daedb1676fdff423e22266ad46e70d97">English</langmaterial>
     </did>
-    <bioghist>
+    <processinfo id="aspace_0cc01c8f4ce0208c1bcac66cbbf8ec8e">
+      <head>Processing Information</head>
+      <p>Processed in 2015 by Preliminary Finding Aid Compiled by William F. Young, Jr..</p>
+    </processinfo>
+    <bioghist id="aspace_51ba492eb7e914ac21efbd7f43520a76">
       <head>Biographical Sketch</head>
       <p>Rufus Edward Miles Jr. was born in Cincinnati, Ohio on June 14, 1910 and grew up in that same state in Columbus "in the shadow of Ohio State University". His father was a New Englander who attended Amherst and Harvard and was one of the first individuals engaged in the new profession of "public administration". Rufus' mother, Mable Arnold Rufus, was a graduate of Radcliffe, a professional social worker and eventually president of the Columbus Chapter of the League of Women Voters. Both parents were Unitarians and descendants of ancestors who came over on the Mayflower in 1620 [Some of his biographical details are contained in Miles' manuscript "True Tales From Tin Lizzy Time and Other Sketches", unpublished manuscript, 1983 especially in his "prefatory note" p. 1-5. A sketch of the essential details of his career are contained in Who's Who in America, 43rd. ed., vol. II. Chicago: Marquis, 1984].</p>
-      <p>Rufus Miles attended Antioch College where in 1932 he won a nationwide essay contest on the subject of "How Can American Colleges Promote World Peace". His essay, later published in the American Scholar, was an outline of a college course concerning war with particular emphasis on the role of irrationality [His essay was reprinted in a book of essays for college use: "A Student Requests a Course on War" in <emph render="italic">Essays of Three Decades</emph>. New York: Harper, 1939]. His leanings toward pacifism was modified by the advent of Hitler's aggressions. He remained however a lifelong advocate for the disarmament of conventional and nuclear weapons [Miles, "An Innocent Half-Student in Pre-Hitler Germany" in "True Tales..." p. 24-25]. He also maintained a belief in government intervention as a benign force for bringing about social change [Perhaps best expressed in Miles' <emph render="italic">history of HEW, The Department of Health, Education, and Welfare</emph> (New York: Praeger, 1974), 299-300].</p>
-      <p>Miles graduated from Antioch in 1932 in the midst of the Great Depression. He subsequently embarked on a lifetime career as a public administrator, bureaucrat and writer on public issues. His first position was that of budget officer for the Ohio Relief Production Units (1934-1935) which he describes as "a modest and unsuccessful experiment in state socialism" [Rufus E. Miles, "Index of Papers and Accompanying Explanatory Notes of Rufus E. Miles, Jr"., unpublished manuscript, 1988(?) p. 1]. His first federal position was that of Ohio Superintendent of Selection for the Civilian Conservation Corp. (1935-1936). This was followed by a distinguished career in Washington D.C. in a series of federal positions: Administrative Assistant to the Director of the Civilian Conservation Corp for Selection (1936-1941), The Navy Department, Bureau of Ships, Finance Division (1942-1945), various posts at the Bureau of the Budget (1941-1942) and (1945-1950), Assistant Administrator of the Federal Security Agency (1950-1955). The remainder of Miles' career was spent at the Department of Health Education and Welfare where he regarded himself as the "male midwife" for that newly formed bureaucracy [as Rufus E. Miles describes himself in "Index of Papers..." p.]. There he held the positions of Director of Administration (1953-1955) and (1956-1961), Comptroller (1955), Administrative Assistant Secretary (1961-1964) Assistant Secretary for Administration (1964-1965). The title of "Assistant Secretary" was specifically designed for Miles as a top official who would be expected to continue from one administration to another. During this period he served under Presidents Eisenhower, Kennedy, and Johnson and under six Cabinet Secretaries: Hobby, Folsom, Flemming, Ribicoff, Celebrezze and Gardner.</p>
-      <p>Upon his retirement from public service he was appointed a lecturer in public affairs and Director of the Mid-Career Program at the Woodrow Wilson School of Public and International Affairs at Princeton University (1966-1975) and then as a Senior Fellow at that same School (1975-1982).</p>
-      <p>Among Rufus Miles' publications are <emph render="italic">Now They are Men</emph> (Washington DC: National Home Library Foundation, 1940), a ghostwritten paperback about the Civilian Conservation Corps; [The author of record is James J. McEntee, the Director of the Civilian Conservation Corp.] <emph render="italic">The Department of Health Education and Welfare</emph> (Praeger, 1974), a history of that agency; A Cabinet Department of Education (American Council on Education, 1976). In the latter he took the lead in making the analytical arguments for a cabinet level Department separate from HEW, a position which became a reality, under Jimmy Carter, in 1979. In 1976 he authored <emph render="italic">Awakening From the American Dream: The Social and Political Consequences of Growth</emph> (Universe, 1976). In this work he argued that future high-level economic growth was not sustainable and envisioned a future less affluent but a caring society based on a new value of doing with less. This influential book, published during a period of general pessimism about the future economy [The economy was in recession between 1973 and 1975], was a runner-up for the National Book Award in 1977. It may well have been an influence on President Carter's controversial "malaise" speech at the mid-term of his administration. Throughout his lengthy and distinguished career, Miles also wrote newspaper and journal articles dealing with the subjects of population control, energy consumption, world peace and public administration. Many of the latter articles appeared in <emph render="italic">Public Administration Review</emph>.</p>
-      <p>Rufus E. Miles Jr. married Nelle Mary Petrouski in 1938. They had two children: Barbara Miles and Mary (Mrs. Joseph Patten). Mrs. Miles died in 1988. Rufus Miles died in Ithaca, New York on April 9, 1996 at age 85. He is survived by his children and his second wife, Elizabeth Klaer Miles.</p>
+      <p> Rufus Miles attended Antioch College where in 1932 he won a nationwide essay contest on the subject of "How Can American Colleges Promote World Peace". His essay, later published in the American Scholar, was an outline of a college course concerning war with particular emphasis on the role of irrationality [His essay was reprinted in a book of essays for college use: "A Student Requests a Course on War" in <emph render="italic">Essays of Three Decades</emph>. New York: Harper, 1939]. His leanings toward pacifism was modified by the advent of Hitler's aggressions. He remained however a lifelong advocate for the disarmament of conventional and nuclear weapons [Miles, "An Innocent Half-Student in Pre-Hitler Germany" in "True Tales..." p. 24-25]. He also maintained a belief in government intervention as a benign force for bringing about social change [Perhaps best expressed in Miles' <emph render="italic">history of HEW, The Department of Health, Education, and Welfare</emph> (New York: Praeger, 1974), 299-300].</p>
+      <p> Miles graduated from Antioch in 1932 in the midst of the Great Depression. He subsequently embarked on a lifetime career as a public administrator, bureaucrat and writer on public issues. His first position was that of budget officer for the Ohio Relief Production Units (1934-1935) which he describes as "a modest and unsuccessful experiment in state socialism" [Rufus E. Miles, "Index of Papers and Accompanying Explanatory Notes of Rufus E. Miles, Jr"., unpublished manuscript, 1988(?) p. 1]. His first federal position was that of Ohio Superintendent of Selection for the Civilian Conservation Corp. (1935-1936). This was followed by a distinguished career in Washington D.C. in a series of federal positions: Administrative Assistant to the Director of the Civilian Conservation Corp for Selection (1936-1941), The Navy Department, Bureau of Ships, Finance Division (1942-1945), various posts at the Bureau of the Budget (1941-1942) and (1945-1950), Assistant Administrator of the Federal Security Agency (1950-1955). The remainder of Miles' career was spent at the Department of Health Education and Welfare where he regarded himself as the "male midwife" for that newly formed bureaucracy [as Rufus E. Miles describes himself in "Index of Papers..." p.]. There he held the positions of Director of Administration (1953-1955) and (1956-1961), Comptroller (1955), Administrative Assistant Secretary (1961-1964) Assistant Secretary for Administration (1964-1965). The title of "Assistant Secretary" was specifically designed for Miles as a top official who would be expected to continue from one administration to another. During this period he served under Presidents Eisenhower, Kennedy, and Johnson and under six Cabinet Secretaries: Hobby, Folsom, Flemming, Ribicoff, Celebrezze and Gardner.</p>
+      <p> Upon his retirement from public service he was appointed a lecturer in public affairs and Director of the Mid-Career Program at the Woodrow Wilson School of Public and International Affairs at Princeton University (1966-1975) and then as a Senior Fellow at that same School (1975-1982).</p>
+      <p> Among Rufus Miles' publications are <emph render="italic">Now They are Men</emph> (Washington DC: National Home Library Foundation, 1940), a ghostwritten paperback about the Civilian Conservation Corps; [The author of record is James J. McEntee, the Director of the Civilian Conservation Corp.] <emph render="italic">The Department of Health Education and Welfare</emph> (Praeger, 1974), a history of that agency; A Cabinet Department of Education (American Council on Education, 1976). In the latter he took the lead in making the analytical arguments for a cabinet level Department separate from HEW, a position which became a reality, under Jimmy Carter, in 1979. In 1976 he authored <emph render="italic">Awakening From the American Dream: The Social and Political Consequences of Growth</emph> (Universe, 1976). In this work he argued that future high-level economic growth was not sustainable and envisioned a future less affluent but a caring society based on a new value of doing with less. This influential book, published during a period of general pessimism about the future economy [The economy was in recession between 1973 and 1975], was a runner-up for the National Book Award in 1977. It may well have been an influence on President Carter's controversial "malaise" speech at the mid-term of his administration. Throughout his lengthy and distinguished career, Miles also wrote newspaper and journal articles dealing with the subjects of population control, energy consumption, world peace and public administration. Many of the latter articles appeared in <emph render="italic">Public Administration Review</emph>.</p>
+      <p> Rufus E. Miles Jr. married Nelle Mary Petrouski in 1938. They had two children: Barbara Miles and Mary (Mrs. Joseph Patten). Mrs. Miles died in 1988. Rufus Miles died in Ithaca, New York on April 9, 1996 at age 85. He is survived by his children and his second wife, Elizabeth Klaer Miles.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_c5a72ab5be4b1f40fe7661ea6f283be8">
+      <head>Scope and Contents</head>
       <p>Rufus E. Miles, Jr. papers contain published and unpublished essays and articles, personnel papers, proposed draft legislation, memoranda, public testimony, lectures, addresses and speeches, reports, opinion pieces in journals and newspapers, correspondence, photos and awards primarily related to his fifteen years as a top level administrator at the Federal Security Agency and the Department of Health Education and Welfare (1950-1965).</p>
-      <p>The same types of papers, also including course related materials, conferences, and award programs, are contained in his papers while serving as a faculty member at Princeton's Woodrow Wilson School of Public and International Affairs (1965-1976) and then as a Senior Fellow at that same institution (1976-1982). This period holds papers related to his service on President Johnson's Task Force on Government Organization (1964-1967), President Nixon's Transition Task Force (1968) and Nixon's Advisory Council on Management (1970-1973). These years include significant materials related to President Jimmy Carter's welfare reform program and Miles' role in making the analytical argument for a new cabinet level Department of Education. This period also includes his writings and lectures on the issues of population and energy as related to social and environmental consequences as well as the broader issue of world peace cumulating in his book Awakening from the American Dream (1976) but continuing, through the early 1980s, after his retirement from Princeton in 1982.</p>
-      <p>Miles papers also encompass other materials related to his work on advisory councils and committees including the National Academy of Public Administration (1971-1988). In addition the papers hold items concerning Miles' deputy at HEW, James F. Kelly, documents by former Secretary of HEW Marion Folsom, correspondence with Congresswoman Millicent Fenwick and with Shirley Hufstedler, first Secretary of the Department of Education (1980). Personal notes from all the HEW Secretaries under whom he served are included as well as one from Under Secretary Nelson A. Rockefeller.</p>
-      <p>A small portion of the Miles collection includes materials related to his career before 1950: a program of "Self-Help Cooperatives" in Ohio (1935), The Ohio Relief Production Units (1934-1935), The Navy Department, Bureau of Ships, Finance Division (1942-1945), The Civilian Conservation Corp. in Ohio and Washington DC (1935-1941) and the Bureau of the Budget (1941-1942, 1945-1950).</p>
-      <p>The collection also holds a series of personal reminiscences written for his children and grandchildren which Miles entitled True Tales From Tin Lizzy Times and Other Essays (unpublished; 1983, 138 p.).</p>
+      <p> The same types of papers, also including course related materials, conferences, and award programs, are contained in his papers while serving as a faculty member at Princeton's Woodrow Wilson School of Public and International Affairs (1965-1976) and then as a Senior Fellow at that same institution (1976-1982). This period holds papers related to his service on President Johnson's Task Force on Government Organization (1964-1967), President Nixon's Transition Task Force (1968) and Nixon's Advisory Council on Management (1970-1973). These years include significant materials related to President Jimmy Carter's welfare reform program and Miles' role in making the analytical argument for a new cabinet level Department of Education. This period also includes his writings and lectures on the issues of population and energy as related to social and environmental consequences as well as the broader issue of world peace cumulating in his book Awakening from the American Dream (1976) but continuing, through the early 1980s, after his retirement from Princeton in 1982.</p>
+      <p> Miles papers also encompass other materials related to his work on advisory councils and committees including the National Academy of Public Administration (1971-1988). In addition the papers hold items concerning Miles' deputy at HEW, James F. Kelly, documents by former Secretary of HEW Marion Folsom, correspondence with Congresswoman Millicent Fenwick and with Shirley Hufstedler, first Secretary of the Department of Education (1980). Personal notes from all the HEW Secretaries under whom he served are included as well as one from Under Secretary Nelson A. Rockefeller.</p>
+      <p> A small portion of the Miles collection includes materials related to his career before 1950: a program of "Self-Help Cooperatives" in Ohio (1935), The Ohio Relief Production Units (1934-1935), The Navy Department, Bureau of Ships, Finance Division (1942-1945), The Civilian Conservation Corp. in Ohio and Washington DC (1935-1941) and the Bureau of the Budget (1941-1942, 1945-1950).</p>
+      <p> The collection also holds a series of personal reminiscences written for his children and grandchildren which Miles entitled True Tales From Tin Lizzy Times and Other Essays (unpublished; 1983, 138 p.).</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_e872573342a5c46fccedb0e66958525a">
       <head>Arrangement of the Collection</head>
       <p>Collection is divieded into 6 series by topic.</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_de7bbc7cdef7c0b4880abe3a995017e9">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by Rufus E. Miles from July 1989 to September 1997.</p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_7ccd4c9d92ccc5904369e656f8be1fc4">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_e6c831b1a8b59b3abd1c66f218d16a72">
       <head>Copyright</head>
       <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_71f68262ac66a598fb18158a13a712f4">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Rufus Edward Miles, Jr. Papers, 1934-1985. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, Rufus Edward Miles, Jr. Papers, 1934-1985. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Public Servants </subject>
-      <persname encodinganalog="600" source="lcsh">Miles, Rufus E.</persname>
-      <corpname encodinganalog="610" source="lcsh">United States. Bureau of the Budget</corpname>
-      <corpname encodinganalog="610" source="lcsh">United States. Federal Security Agency</corpname>
-      <corpname encodinganalog="610" source="lcsh">United States. Department of Health, Education, and Welfare</corpname>
-      <corpname encodinganalog="610" source="lcsh">United States. Department of Education.</corpname>
-      <corpname encodinganalog="610" source="lcsh">Woodrow Wilson School of Public and International Affairs.</corpname>
-      <subject encodinganalog="650" source="lcsh">Education -- United States.</subject>
-      <subject encodinganalog="650" source="lcsh">Public administration -- United States.</subject>
-      <subject encodinganalog="650" source="lcsh">Public welfare -- United States.</subject>
-      <subject encodinganalog="650" source="lcsh">Lobbying -- New York (State).</subject>
-      <genreform encodinganalog="655" source="aat">Lectures.</genreform>
-      <genreform encodinganalog="655" source="aat">Manuscripts (document genre).</genreform>
-      <genreform encodinganalog="655" source="aat">Reports.</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence.</genreform>
-      <subject encodinganalog="650" source="meg">Education</subject>
-      <subject encodinganalog="650" source="meg">Medicine and Health Care</subject>
-      <subject encodinganalog="650" source="meg">Public Servants</subject>
+      <subject source="meg">Public Servants</subject>
+      <subject source="lcsh">Education -- United States.</subject>
+      <subject source="lcsh">Public administration -- United States.</subject>
+      <subject source="lcsh">Public welfare -- United States.</subject>
+      <subject source="lcsh">Lobbying -- New York (State).</subject>
+      <genreform source="aat">Lectures.</genreform>
+      <genreform source="aat">Manuscripts (document genre).</genreform>
+      <genreform source="aat">Reports.</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <subject source="meg">Education</subject>
+      <subject source="meg">Medicine and Health Care</subject>
+      <subject source="meg">Public Servants</subject>
+      <persname source="lcsh">Miles, Rufus E.</persname>
+      <corpname source="lcsh">United States. Bureau of the Budget</corpname>
+      <corpname source="lcsh">United States. Federal Security Agency</corpname>
+      <corpname source="lcsh">United States. Department of Health, Education, and Welfare</corpname>
+      <corpname source="lcsh">United States. Department of Education.</corpname>
+      <corpname source="lcsh">Woodrow Wilson School of Public and International Affairs.</corpname>
     </controlaccess>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 level="series" id="nam_apap048-1">
+    <dsc>
+      <c01 id="aspace_c5c9ef5c345ca0b400d358046445d3c0" level="series">
         <did>
+          <unittitle>Autobiographical and Biographical Information</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Autobiographical and Biographical Information</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1910/1964">1910-1964</unitdate>
+          <unitdate normal="1910/1964" type="inclusive">1910-1964</unitdate>
         </did>
-        <scopecontent>
+        <scopecontent id="aspace_19bdfcaf6ef189390279a36b1e4921c9">
+          <head>Scope and Contents</head>
           <p>The highlights of Miles' life up to about 1945 are contained in a typewritten manuscript of 138 pages. This item, meant for his children and grandchildren, is divided into eleven chapters and titled True Tales From Tin Lizzy Times and Other Sketches. Biographical information can be found on Boyd Fisher (chap. VI), the force behind the Ohio Relief Production Units (1934-1935) and the Rural Electrification Administration; Sally Rand (chap. IX), the exotic dancer; Franklin Roosevelt's Aunt Bessie (chap. X) and John Pratt Whitman (chap.XI), mystic, teacher, social worker, actor, journalist and author who is Miles' "most unforgettable character". This series also includes a five page statement, written in 1986, concerning his undergraduate experience at Antioch College as well as materials related to his first published article in 1932.</p>
         </scopecontent>
-        <c02 id="nam_apap048-1_1">
+        <c02 id="aspace_1ad8962c7f989979036fbd21979379d0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Miles, R. E. "True Tales From Tin Lizzy Times and Other Essays", unpublished manuscript</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
-            <physdesc>
-              <extent>138 pages</extent>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">138 pages</extent>
             </physdesc>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_ec3c37faf0d181a0dcfadffa7f368efb" label="Mixed Materials" type="Box">1 (1-Autobiographical and Biographical Information)</container>
+            <container id="aspace_ce7f7b9fe8c157830411adf3969761ac" parent="aspace_ec3c37faf0d181a0dcfadffa7f368efb" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-1_2">
+        <c02 id="aspace_5f0959f19720ecf1ef57061f3f13c62e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Miles, R. E. "Antioch College Years"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1928/1932">1928-1932</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
-            <physdesc>
-              <extent>1 folder</extent>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
             </physdesc>
+            <unitdate normal="1928/1932" type="inclusive">1928-1932</unitdate>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_2d332d282f07f188c3a0c440ed64b69b" label="Mixed Materials" type="Box">1 (1-Autobiographical and Biographical Information)</container>
+            <container id="aspace_2183721c4b00fb4fdcae4e1817a6262c" parent="aspace_2d332d282f07f188c3a0c440ed64b69b" type="Folder">2</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap048-2">
+      <c01 id="aspace_cb37dc74c0f2460a4981e3bb30b91514" level="series">
         <did>
+          <unittitle>Early career</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Early career</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1933/1953">1933-1953</unitdate>
+          <unitdate normal="1933/1953" type="inclusive">1933-1953</unitdate>
         </did>
-        <scopecontent>
+        <scopecontent id="aspace_26908848ba75b3a507ddaf031a90d70f">
+          <head>Scope and Contents</head>
           <p>This series is divided into five subseries all arranged chronologically.</p>
-          <p>The first subseries contains mainly materials related to his work as auditor to the Ohio Relief Production Units (1934-1935).</p>
-          <p>The second subseries consists of appointment papers, correspondence, memoranda, publications and other items related to Miles' responsibility for the selection of boys for the Civilian Conservation Corp camps (1936-1941).</p>
-          <p>The third subseries is concerned with his military service as a Lieutenant Commander in the U.S. Navy, Bureau of Ships, Finance Division (1942-1945). Here he was responsible for budgeting for the U.S. Fleet.</p>
-          <p>The fourth subseries contains papers relevant to his work with the U.S. Bureau of the Budget (1941-1942, 1945-1950). Most notable is Miles' work in formulating the "G.I. Bill of Rights". Also contained here is his unpublished essay concerning the Bureau of the Budget in the 1940s.</p>
-          <p>The final subseries holds some sparse and miscellaneous items having to do with his years as Assistant Administrator of the Federal Security Agency (1950-1953). Included is an unpublished essay regarding his years at that Agency and documentation related to an inquiry as to Miles' loyalty to the Government of the United States; an inquiry which exonerated him. Photographs for this period are also in this subseries.</p>
+          <p> The first subseries contains mainly materials related to his work as auditor to the Ohio Relief Production Units (1934-1935).</p>
+          <p> The second subseries consists of appointment papers, correspondence, memoranda, publications and other items related to Miles' responsibility for the selection of boys for the Civilian Conservation Corp camps (1936-1941).</p>
+          <p> The third subseries is concerned with his military service as a Lieutenant Commander in the U.S. Navy, Bureau of Ships, Finance Division (1942-1945). Here he was responsible for budgeting for the U.S. Fleet.</p>
+          <p> The fourth subseries contains papers relevant to his work with the U.S. Bureau of the Budget (1941-1942, 1945-1950). Most notable is Miles' work in formulating the "G.I. Bill of Rights". Also contained here is his unpublished essay concerning the Bureau of the Budget in the 1940s.</p>
+          <p> The final subseries holds some sparse and miscellaneous items having to do with his years as Assistant Administrator of the Federal Security Agency (1950-1953). Included is an unpublished essay regarding his years at that Agency and documentation related to an inquiry as to Miles' loyalty to the Government of the United States; an inquiry which exonerated him. Photographs for this period are also in this subseries.</p>
         </scopecontent>
-        <c02 level="subseries" id="nam_apap048-2.1">
+        <c02 id="aspace_f8c059ccf2a37384b49db070d0103d2a" level="subseries">
           <did>
+            <unittitle>Subseries 1: Introduction and the Ohio Years</unittitle>
             <unitid>2.1</unitid>
-            <unittitle label="Subseries">Subseries 1: Introduction and the Ohio Years</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1932/1935">1932-1935</unitdate>
+            <unitdate normal="1932/1935" type="inclusive">1932-1935</unitdate>
           </did>
-          <c03 id="nam_apap048-2.1_1">
+          <c03 id="aspace_c1f5d2c1a4a1b6293dbf0e7f5b00eeb1" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">3</container>
               <unittitle>Miles, R. E. Introduction to his papers</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
-              <physdesc>
-                <extent>1 folder</extent>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
               </physdesc>
+              <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+              <container id="aspace_c1f9601fa1ce0e8b7bf25d39722af4e0" label="Mixed Materials" type="Box">1 (2-Early career)</container>
+              <container id="aspace_141af6611aba43f5a17b10f17d25c413" parent="aspace_c1f9601fa1ce0e8b7bf25d39722af4e0" type="Folder">3</container>
             </did>
           </c03>
-          <c03 id="nam_apap048-2.1_2">
+          <c03 id="aspace_0972bba188afd1a44a9d361e34a0d09a" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">4</container>
               <unittitle>Miles, R. E. "Self Help Cooperatives in Ohio", "Ohio Relief Production Units: An Experiment in Production for Use"</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1935">1935</unitdate>
-              <physdesc>
-                <extent>1 folder</extent>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
               </physdesc>
+              <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+              <container id="aspace_7e690d2e657cc580bd0e8208f0d3ceb1" label="Mixed Materials" type="Box">1 (2-Early career)</container>
+              <container id="aspace_716ff5d649dc4520f517305b1b40acf5" parent="aspace_7e690d2e657cc580bd0e8208f0d3ceb1" type="Folder">4</container>
             </did>
           </c03>
         </c02>
-        <c02 level="subseries" id="nam_apap048-2.2">
+        <c02 id="aspace_e5eb3139e0d9cfb9621f4403d95db8ef" level="subseries">
           <did>
+            <unittitle>Subseries 2: Civilian Conservation Corp</unittitle>
             <unitid>2.2</unitid>
-            <unittitle label="Subseries">Subseries 2: Civilian Conservation Corp</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1936/1941">1936-1941</unitdate>
+            <unitdate normal="1936/1941" type="inclusive">1936-1941</unitdate>
           </did>
-          <c03 id="nam_apap048-2.2_1">
+          <c03 id="aspace_238b08141ac2ad3f7ff06ed644a22d5d" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">5</container>
               <unittitle>Appointment papers and other personnel items</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+              <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+              <container id="aspace_a7b46d24487489c374c7ce9f333732da" label="Mixed Materials" type="Box">1 (2-Early career)</container>
+              <container id="aspace_732ea55d5229a6665257b78151fb1b65" parent="aspace_a7b46d24487489c374c7ce9f333732da" type="Folder">5</container>
             </did>
           </c03>
-          <c03 id="nam_apap048-2.2_2">
+          <c03 id="aspace_60bf22f2aa8f12e494fc3dca72a994ca" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">6</container>
               <unittitle>Memos on improving the CCC</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+              <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+              <container id="aspace_3df89f308c7b648501464481a7e2f27b" label="Mixed Materials" type="Box">1 (2-Early career)</container>
+              <container id="aspace_51527c6132876d84043a968a1212b6ad" parent="aspace_3df89f308c7b648501464481a7e2f27b" type="Folder">6</container>
             </did>
           </c03>
-          <c03 id="nam_apap048-2.2_3">
+          <c03 id="aspace_880c1e5aa3c592d2aabe8e55a1a0d065" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">6</container>
               <unittitle>Miles, R.E.<emph render="italic">The CCC: A Young Man's Opportunity</emph></unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937">1937</unitdate>
+              <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+              <container id="aspace_66a4d010306600be0c430a6945281f93" label="Mixed Materials" type="Box">1 (2-Early career)</container>
+              <container id="aspace_3de2ef3be2ddd486929131f35ee52e97" parent="aspace_66a4d010306600be0c430a6945281f93" type="Folder">6</container>
             </did>
-            <scopecontent>
+            <scopecontent id="aspace_72e42619ed3867df0500211a26f7b271">
+              <head>Scope and Contents</head>
               <p>[a pamphlet]. "Selecting 1,800,000 Young Men for the CCC", <emph render="italic">Monthly Labor Review</emph>, April, 1938 [ghostwritten by Miles].</p>
             </scopecontent>
           </c03>
-          <c03 id="nam_apap048-2.2_4">
+          <c03 id="aspace_206bcadcef0829bba3555afe9318f247" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">6</container>
               <unittitle>"The CCC and the Employment Service"<emph render="italic">Employment Service News</emph></unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1939-05">1939 May</unitdate>
+              <unitdate normal="1939-05/1939-05" type="inclusive">1939 May</unitdate>
+              <container id="aspace_a682d07a4fd89672cad59a67b41840ee" label="Mixed Materials" type="Box">1 (2-Early career)</container>
+              <container id="aspace_078d6cf3d10ed1dc1d4c6a212541db91" parent="aspace_a682d07a4fd89672cad59a67b41840ee" type="Folder">6</container>
             </did>
-            <scopecontent>
+            <scopecontent id="aspace_70caaab6253da8ca24abb1793ca183e7">
+              <head>Scope and Contents</head>
               <p>[ghostwritten by Miles].</p>
             </scopecontent>
           </c03>
-          <c03 id="nam_apap048-2.2_5">
+          <c03 id="aspace_64cb273a4a47cfcaf56e6e3906caedd8" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">6</container>
               <unittitle>"The CCC Celebrates"<emph render="italic">Employment Service News</emph></unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1938-05">1938 May</unitdate>
+              <unitdate normal="1938-05/1938-05" type="inclusive">1938 May</unitdate>
+              <container id="aspace_1951e6ea47c933bbc917859f8187e088" label="Mixed Materials" type="Box">1 (2-Early career)</container>
+              <container id="aspace_4fb56e72a734c6f334d91a64d39b9fff" parent="aspace_1951e6ea47c933bbc917859f8187e088" type="Folder">6</container>
             </did>
-            <scopecontent>
+            <scopecontent id="aspace_3be63cf349095d363d41af96e53d8ef2">
+              <head>Scope and Contents</head>
               <p>[ghostwritten by Miles].</p>
             </scopecontent>
           </c03>
-          <c03 id="nam_apap048-2.2_6">
+          <c03 id="aspace_149eedc961321f6dbd9e23d605efc337" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">6</container>
               <unittitle>"U.S. Department of Labor. Standard of Eligibility for Junior Enrollees of the Civilian". Conservation Corp. Washington D.C.: G.P.O.</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1938">1938</unitdate>
+              <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+              <container id="aspace_9266e3c401fa545b29e42475688e0796" label="Mixed Materials" type="Box">1 (2-Early career)</container>
+              <container id="aspace_b220751640f925d1063aa68e550ba5ce" parent="aspace_9266e3c401fa545b29e42475688e0796" type="Folder">6</container>
             </did>
-            <scopecontent>
+            <scopecontent id="aspace_14c9bc24caf692036c72bd47f55ce20b">
+              <head>Scope and Contents</head>
               <p>[ghostwritten by Miles].</p>
             </scopecontent>
           </c03>
-          <c03 id="nam_apap048-2.2_7">
+          <c03 id="aspace_b86570780be47fa5004dab76be293be5" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">6</container>
               <unittitle><emph render="italic">Now They Are Men</emph>. Washington, D.C.: National Home Library Foundation</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940">1940</unitdate>
+              <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
+              <container id="aspace_de9c7bb81f0474ae8c7660e5d7fec326" label="Mixed Materials" type="Box">1 (2-Early career)</container>
+              <container id="aspace_ede620b6a3d042321b3c043abbc55c94" parent="aspace_de9c7bb81f0474ae8c7660e5d7fec326" type="Folder">6</container>
             </did>
-            <scopecontent>
+            <scopecontent id="aspace_59f564f8f73c7d27d5aff35e3332eb9d">
+              <head>Scope and Contents</head>
               <p>[ghostwritten by Miles].</p>
             </scopecontent>
           </c03>
         </c02>
-        <c02 level="subseries" id="nam_apap048-2.3">
+        <c02 id="aspace_857ca8e66ce66d52515a9779e0c1d65c" level="subseries">
           <did>
+            <unittitle>Subseries 3: Navy Department, Bureau of Ships</unittitle>
             <unitid>2.3</unitid>
-            <unittitle label="Subseries">Subseries 3: Navy Department, Bureau of Ships</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1942/1945">1942-1945</unitdate>
+            <unitdate normal="1942/1945" type="inclusive">1942-1945</unitdate>
             <physdesc>
-              <physfacet>1 folder</physfacet>
+              <physfacet id="aspace_34ff12222511454e2dec86dd576a68f1">1 folder</physfacet>
             </physdesc>
           </did>
-          <c03 id="nam_apap048-2.3_1">
+          <c03 id="aspace_112c0a4098026966129a7e74c872d640" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">7</container>
               <unittitle>Appointment, personnel, promotion papers and citations, one signed by James Forrestal, Secretary of the Navy</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+              <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+              <container id="aspace_cf694adbf15c9064fff7f5772e3b8544" label="Mixed Materials" type="Box">1 (2-Early career)</container>
+              <container id="aspace_1e2f1cdde7749101498f65d8cb8548eb" parent="aspace_cf694adbf15c9064fff7f5772e3b8544" type="Folder">7</container>
             </did>
           </c03>
-          <c03 id="nam_apap048-2.3_2">
+          <c03 id="aspace_ca01095bef2d7db06419da2ef0afd57b" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">7</container>
               <unittitle>Memos regarding suggestions for improving the morale of civilian employees and greater economy in the procurement process</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+              <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+              <container id="aspace_b12f1ce209a66d3c14b7d696463191ce" label="Mixed Materials" type="Box">1 (2-Early career)</container>
+              <container id="aspace_406843a7d348bd59f8ac9a18c923d221" parent="aspace_b12f1ce209a66d3c14b7d696463191ce" type="Folder">7</container>
             </did>
           </c03>
-          <c03 id="nam_apap048-2.3_3">
+          <c03 id="aspace_83e2d58d84978c650b5362a068934572" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">7</container>
               <unittitle>A one page statement by Miles [undated] regarding his experience during the war</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+              <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+              <container id="aspace_d58035f00497885d06133daf742f5a85" label="Mixed Materials" type="Box">1 (2-Early career)</container>
+              <container id="aspace_60b277c4baf1af1abbd9b745b27e10dc" parent="aspace_d58035f00497885d06133daf742f5a85" type="Folder">7</container>
             </did>
           </c03>
         </c02>
-        <c02 level="subseries" id="nam_apap048-2.4">
+        <c02 id="aspace_9b6f9c782fbace429ee830175aef498a" level="subseries">
           <did>
+            <unittitle>Subseries 4: Bureau of the Budget</unittitle>
             <unitid>2.4</unitid>
-            <unittitle label="Subseries">Subseries 4: Bureau of the Budget</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941/1950">1941-1950</unitdate>
+            <unitdate normal="1941/1950" type="inclusive">1941-1950</unitdate>
             <physdesc>
-              <physfacet>2 folders</physfacet>
+              <physfacet id="aspace_e61486f541090c47283fc491cbe9d895">2 folders</physfacet>
             </physdesc>
           </did>
-          <c03 id="nam_apap048-2.4_1">
+          <c03 id="aspace_b4cc4159accacdb80847e8bed05e0068" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">8</container>
               <unittitle>Twelve page essay by Miles on his years at the Bureau</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+              <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+              <container id="aspace_35d4b36107f3143c6204288d4b256ecf" label="Mixed Materials" type="Box">1 (2-Early career)</container>
+              <container id="aspace_dedf002fa2271e243ad85b72adde8673" parent="aspace_35d4b36107f3143c6204288d4b256ecf" type="Folder">8</container>
             </did>
           </c03>
-          <c03 id="nam_apap048-2.4_2">
+          <c03 id="aspace_cb51c458a27b4f4ba0bc13aa5faa818e" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">8</container>
               <unittitle>Appointment and other personnel papers</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+              <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+              <container id="aspace_7ce56f399a7805d41b6e54f976eccbf8" label="Mixed Materials" type="Box">1 (2-Early career)</container>
+              <container id="aspace_f9dbeb46883701c7c10ad9ada514274d" parent="aspace_7ce56f399a7805d41b6e54f976eccbf8" type="Folder">8</container>
             </did>
           </c03>
-          <c03 id="nam_apap048-2.4_3">
+          <c03 id="aspace_a5b0216f600228a5478891bb074ca4c4" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">9</container>
               <unittitle>Eight page memo on "Recommended Basis for a Long-Range National Policy for Youth"</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1947">1947</unitdate>
+              <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+              <container id="aspace_e29da1cb3384398358b23f1ace4bbb91" label="Mixed Materials" type="Box">1 (2-Early career)</container>
+              <container id="aspace_f5251496012dd694fbc341c163a62775" parent="aspace_e29da1cb3384398358b23f1ace4bbb91" type="Folder">9</container>
             </did>
           </c03>
-          <c03 id="nam_apap048-2.4_4">
+          <c03 id="aspace_970a05712030ee3ab3c0ef6552d772b8" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">9</container>
               <unittitle>Materials related to Miles' work on the "Serviceman's Readjustment Act" of 1944 i.e. the "GI Bill of Rights"</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+              <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+              <container id="aspace_f5f684bad7b635aa2dc2593902646624" label="Mixed Materials" type="Box">1 (2-Early career)</container>
+              <container id="aspace_9c0298cb989326456018beb6f07fe025" parent="aspace_f5f684bad7b635aa2dc2593902646624" type="Folder">9</container>
             </did>
           </c03>
         </c02>
-        <c02 level="subseries" id="nam_apap048-2.5">
+        <c02 id="aspace_2333058da725b27019e0a52a211d2d47" level="subseries">
           <did>
+            <unittitle>Subseries 5: Federal Security Agency</unittitle>
             <unitid>2.5</unitid>
-            <unittitle label="Subseries">Subseries 5: Federal Security Agency</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950/1953">1950-1953</unitdate>
+            <unitdate normal="1950/1953" type="inclusive">1950-1953</unitdate>
             <physdesc>
-              <physfacet>1 folder</physfacet>
+              <physfacet id="aspace_e70d6d3479298f28565acefb0bf60a43">1 folder</physfacet>
             </physdesc>
           </did>
-          <c03 id="nam_apap048-2.5_1">
+          <c03 id="aspace_8213e9085b8aefe6333ff872b87b9f0c" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">10</container>
               <unittitle>Eight page retrospective essay by Miles</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+              <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+              <container id="aspace_4a8e3ee57713e9ff5990d9fa5d3f0de2" label="Mixed Materials" type="Box">1 (2-Early career)</container>
+              <container id="aspace_55824d281bf012120d6e1f075f229ef5" parent="aspace_4a8e3ee57713e9ff5990d9fa5d3f0de2" type="Folder">10</container>
             </did>
           </c03>
-          <c03 id="nam_apap048-2.5_2">
+          <c03 id="aspace_af0649ecd802b5a3aa00c5bc7c40d517" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">10</container>
               <unittitle>Personnel and appointment papers</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+              <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+              <container id="aspace_15a95136d76d229ee35efedba6e70aca" label="Mixed Materials" type="Box">1 (2-Early career)</container>
+              <container id="aspace_87ed1c202dcffa5ebbc2d38de1867b4e" parent="aspace_15a95136d76d229ee35efedba6e70aca" type="Folder">10</container>
             </did>
           </c03>
-          <c03 id="nam_apap048-2.5_3">
+          <c03 id="aspace_a2bdc5d62a8290976ee22837d4b10225" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">10</container>
               <unittitle>Photos</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+              <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+              <container id="aspace_fb1528a77feefdcf27110aaa3a41aa52" label="Mixed Materials" type="Box">1 (2-Early career)</container>
+              <container id="aspace_3f39a0db9fd399cb6cb39ed0875c52b3" parent="aspace_fb1528a77feefdcf27110aaa3a41aa52" type="Folder">10</container>
             </did>
           </c03>
-          <c03 id="nam_apap048-2.5_4">
+          <c03 id="aspace_b27a398539c3a76fe18a6a12e01e67bf" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">10</container>
               <unittitle>Items related to an inquiry by the Agency's concerning Miles loyalty to the U.S. Government</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+              <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+              <container id="aspace_ea636fc49d1bb0092775fd0a044f36e3" label="Mixed Materials" type="Box">1 (2-Early career)</container>
+              <container id="aspace_778b784e551413e39d250005131ca684" parent="aspace_ea636fc49d1bb0092775fd0a044f36e3" type="Folder">10</container>
             </did>
           </c03>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap048-3">
+      <c01 id="aspace_01e4d0fb68b7ac54f8d686cf15997f91" level="series">
         <did>
+          <unittitle>Rufus E. Miles Years at Health, Education and Welfare</unittitle>
           <unitid>3</unitid>
-          <unittitle label="Series">Rufus E. Miles Years at Health, Education and Welfare</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1953/1965">1953-1965</unitdate>
+          <unitdate normal="1953/1965" type="inclusive">1953-1965</unitdate>
           <physdesc>
-            <physfacet>13 folders</physfacet>
+            <physfacet id="aspace_d030bcdbaa3cb97532a4aac0af9a72bf">13 folders</physfacet>
           </physdesc>
         </did>
-        <scopecontent>
+        <scopecontent id="aspace_8a783b6f217e7cf7d29982d6147d4152">
+          <head>Scope and Contents</head>
           <p>The major items in this series are an unpublished essay by Miles on his years at HEW, published articles and other materials that resulted from his receiving the Rockefeller Public Service Award (1956), other published articles, speeches, materials concerning Miles' deputy James F. Kelly, items related to the polio vaccination campaign in the 1950s and a official trip to India in 1961, copies of correspondence and memoranda, photographs. This series also contains Miles' proposal for a reorganization of HEW (1965) as well as personal notes, and other letters, signed by Secretaries Hobby, Folsom, Fleming, Richardson and Under Secretary Nelson A. Rockefeller.</p>
         </scopecontent>
-        <arrangement>
+        <arrangement id="aspace_2a71d2f5059ea70343f679526066fcaf">
+          <head>Arrangement</head>
           <p>Arranged largely chronologically.</p>
         </arrangement>
-        <c02 id="nam_apap048-3_1">
+        <c02 id="aspace_f1a939cd98de298e18d67b6a1219703b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Sixteen page overview by Miles on his years at the Department</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+            <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+            <container id="aspace_f6972d4f49601c340b6fef95394fa938" label="Mixed Materials" type="Box">1 (3-Rufus E. Miles Years at Health, Education and Welf)</container>
+            <container id="aspace_6531938727c360acf83cf12ee0244663" parent="aspace_f6972d4f49601c340b6fef95394fa938" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-3_2">
+        <c02 id="aspace_4b2c993922a689f92e01145f9136096e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Materials on the polio vaccination program in the 1950s</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+            <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+            <container id="aspace_34cb1c1b4e24c31df94dffa17b00c142" label="Mixed Materials" type="Box">1 (3-Rufus E. Miles Years at Health, Education and Welf)</container>
+            <container id="aspace_db3629e3fe2f8728f8e59c3bf5e30e9b" parent="aspace_34cb1c1b4e24c31df94dffa17b00c142" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-3_3">
+        <c02 id="aspace_38b7234daea2c85aac4ac28bd901f195" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Miles statement before the Senate Appropriations Committee on HEW salaries and expenses</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1953">1953</unitdate>
+            <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+            <container id="aspace_609759a0446c190460f7131aa591eb6f" label="Mixed Materials" type="Box">1 (3-Rufus E. Miles Years at Health, Education and Welf)</container>
+            <container id="aspace_71328a9b801c4da2bed294ae49ddf0bc" parent="aspace_609759a0446c190460f7131aa591eb6f" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-3_4">
+        <c02 id="aspace_ec288dcc9110fcd16dea44c66abb0f8f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Papers related to Miles receiving a Rockefeller Public Service Award (1956) and subsequent publications by him</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+            <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+            <container id="aspace_82b1afad0daba8045e262bfb53cfed5f" label="Mixed Materials" type="Box">1 (3-Rufus E. Miles Years at Health, Education and Welf)</container>
+            <container id="aspace_322f788a01d86dfe96fdbe9a959b5c3f" parent="aspace_82b1afad0daba8045e262bfb53cfed5f" type="Folder">14</container>
           </did>
-          <scopecontent>
+          <scopecontent id="aspace_7536851d9a23289f66c40b3ac327b122">
+            <head>Scope and Contents</head>
             <p>"The Orientation of Presidential Appointees", <emph render="italic">Public Administration Review</emph>, Winter 1958; "The Orientation of Presidential Appointees: A Continuing Challenge", <emph render="italic">Public Administration Review</emph>, Spring 1958.</p>
           </scopecontent>
         </c02>
-        <c02 id="nam_apap048-3_5">
+        <c02 id="aspace_9fd0c9820f32ab38c482be18b2c1e8c0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Other publications during this period</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+            <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+            <container id="aspace_ec44584c02bdcf40562be6c692c9c2f8" label="Mixed Materials" type="Box">1 (3-Rufus E. Miles Years at Health, Education and Welf)</container>
+            <container id="aspace_48a5d0000b35d2c78f94048bbb72e98a" parent="aspace_ec44584c02bdcf40562be6c692c9c2f8" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-3_6">
+        <c02 id="aspace_ab01c3899360ca3d4e54a0cedf3f02ea" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Miles memo to the Secretary of HEW : "A Theory of Foreign Aid and its Logistics" (1959) and related items</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+            <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+            <container id="aspace_7a67096a8310ea56b5e791b48fa9dfd1" label="Mixed Materials" type="Box">1 (3-Rufus E. Miles Years at Health, Education and Welf)</container>
+            <container id="aspace_e46a083eb1a7e94698f675d6b5c1259d" parent="aspace_7a67096a8310ea56b5e791b48fa9dfd1" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-3_7">
+        <c02 id="aspace_32ce408849f9b0212f5df2cfef9ca44b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>Items related to Miles' trip to India in 1961 including photos</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+            <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+            <container id="aspace_1fe3351c74d6fd0c622f3a4941a67841" label="Mixed Materials" type="Box">1 (3-Rufus E. Miles Years at Health, Education and Welf)</container>
+            <container id="aspace_dfa1dd8b5dd6c3677b80b22849347d9d" parent="aspace_1fe3351c74d6fd0c622f3a4941a67841" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-3_8">
+        <c02 id="aspace_9962d2d68ebb984f8c63097eba357664" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>Materials connected to the issue of a Social Security " earnings test"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960">1960</unitdate>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_ed5076ded4cb68cc8098462cd439e436" label="Mixed Materials" type="Box">1 (3-Rufus E. Miles Years at Health, Education and Welf)</container>
+            <container id="aspace_19440af14f96f002cb6df8d0a03f3af2" parent="aspace_ed5076ded4cb68cc8098462cd439e436" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-3_9">
+        <c02 id="aspace_271faa1607ede3ac172592f2444e5103" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>Miles' proposal regarding the reorganization of HEW</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_7fe55f15330d2384d83b184a0d2c9175" label="Mixed Materials" type="Box">1 (3-Rufus E. Miles Years at Health, Education and Welf)</container>
+            <container id="aspace_a932071dbc237b0143db3ff58b976a7d" parent="aspace_7fe55f15330d2384d83b184a0d2c9175" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-3_10">
+        <c02 id="aspace_ccd3fdb46a9d8532b6a09918605aad4b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>Miscellaneous documents</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+            <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+            <container id="aspace_e80e6e60079593e7d3fc8cb96f71c0a1" label="Mixed Materials" type="Box">1 (3-Rufus E. Miles Years at Health, Education and Welf)</container>
+            <container id="aspace_681cdb344068feff9b16e8d167751f65" parent="aspace_e80e6e60079593e7d3fc8cb96f71c0a1" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-3_11">
+        <c02 id="aspace_5365f870c91125ba310e0cc6e036a12e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>Miles' appointment, personnel papers and awards</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+            <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+            <container id="aspace_94d4e2e122a857d396b75d0e133ab7bd" label="Mixed Materials" type="Box">1 (3-Rufus E. Miles Years at Health, Education and Welf)</container>
+            <container id="aspace_b54961f7113b691d0a8331cd3677341f" parent="aspace_94d4e2e122a857d396b75d0e133ab7bd" type="Folder">21</container>
           </did>
-          <scopecontent>
+          <scopecontent id="aspace_b47cee3095bf7d454f192d8ce8ea8187">
+            <head>Scope and Contents</head>
             <p>Including documents connected to his winning the National Civil Service League Career Service Award in 1960. Included here are personal notes signed by the Secretaries of HEW and numerous photos.</p>
           </scopecontent>
         </c02>
-        <c02 id="nam_apap048-3_12">
+        <c02 id="aspace_5b7486d0db68700c3abfee946f684e9e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>Papers associated with his retirement from HEW in 1965 with photos</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+            <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+            <container id="aspace_3a513c84ce656007d3b9b786fc924804" label="Mixed Materials" type="Box">1 (3-Rufus E. Miles Years at Health, Education and Welf)</container>
+            <container id="aspace_be9a34ec1d8be1356387ede44f042321" parent="aspace_3a513c84ce656007d3b9b786fc924804" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-3_13">
+        <c02 id="aspace_24e44344f2d061b22d7a01bcd3598f8d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23</container>
             <unittitle>Miscellaneous materials regarding HEW after his retirement</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+            <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+            <container id="aspace_24dad3bff0a356c25031dcdc10f49465" label="Mixed Materials" type="Box">1 (3-Rufus E. Miles Years at Health, Education and Welf)</container>
+            <container id="aspace_f0fe961734eb16758f71baf9c61d9f1e" parent="aspace_24dad3bff0a356c25031dcdc10f49465" type="Folder">23</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap048-4">
+      <c01 id="aspace_acfbb43034d6b88b79d4e687e6c36eae" level="series">
         <did>
+          <unittitle>Rufus E. Miles Campaign to Form a Seperate Cabinet Level Department of Education</unittitle>
           <unitid>4</unitid>
-          <unittitle label="Series">Rufus E. Miles Campaign to Form a Seperate Cabinet Level Department of Education</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964/1980">1964-1980</unitdate>
+          <unitdate normal="1964/1980" type="inclusive">1964-1980</unitdate>
           <physdesc>
-            <physfacet>10 folders</physfacet>
+            <physfacet id="aspace_022c142018b18834d100d1d6219d76db">10 folders</physfacet>
           </physdesc>
         </did>
-        <scopecontent>
+        <scopecontent id="aspace_33e261c7552fdc39ad11222d5ccf1ea3">
+          <head>Scope and Contents</head>
           <p>This series includes a copy of the "Report of the President's Task Force on Government Reorganization" (Nov.1964) which recommended a cabinet level Department of Education; documents by former Secretary of HEW, Marion Folsom, opposing a separate Department; materials dealing with Miles' association with the American Council on Education and lobbying efforts on Jimmy Carter regarding this issue; Miles' testimony before Congress; correspondence with Shirley Hufstedler, the first Secretary of the Department of Education; Miles' articles, speeches etc. on this subject. Copies of and materials related to his studies <emph render="italic">The Department of Health Education and Welfare</emph> (1974) and <emph render="italic">A Cabinet Department of Education</emph> (1976) are contained here.</p>
         </scopecontent>
-        <c02 id="nam_apap048-4_1">
+        <c02 id="aspace_173dbf67e2ae06a1e52c786c317c387a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Miscellaneous papers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">ca. 1970</unitdate>
+            <unitdate normal="1970/1970" type="inclusive">ca. 1970</unitdate>
+            <container id="aspace_0a19b111ba3d4351a9c8c670dedc8cb4" label="Mixed Materials" type="Box">2 (4-Rufus E. Miles Campaign to Form a Seperate Cabinet)</container>
+            <container id="aspace_f7e12cc672e4ea87b7cc2932afeb7a9e" parent="aspace_0a19b111ba3d4351a9c8c670dedc8cb4" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-4_2">
+        <c02 id="aspace_59db78a49bdd532cb8565c828065dc6e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>Miles' essay on President Nixon's plans for Departmental Reorganization and two copies of Papers Related to the President's Departmental Reorganization Program, Washington, DC: GPO</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972">1972</unitdate>
+            <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_59af7af5e60f6763d03929f7e1fdd7c4" label="Mixed Materials" type="Box">2 (4-Rufus E. Miles Campaign to Form a Seperate Cabinet)</container>
+            <container id="aspace_2df19dae69379a9f1a6396138f023542" parent="aspace_59af7af5e60f6763d03929f7e1fdd7c4" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-4_3">
+        <c02 id="aspace_60581959fc2ee204d7611f31314266dd" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Papers related to Miles' book on the history of HEW</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_13014160bd0c52890ed04361124a93d8" label="Mixed Materials" type="Box">2 (4-Rufus E. Miles Campaign to Form a Seperate Cabinet)</container>
+            <container id="aspace_edbc7bd32ede39a20ceb5207824cfecd" parent="aspace_13014160bd0c52890ed04361124a93d8" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-4_4">
+        <c02 id="aspace_885631813c1e3136042b14bb2fca1fed" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Multiple copies of his<emph render="italic">A Cabinet Department of Education</emph>, Washington, DC: American Council on Education</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976">1976</unitdate>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_7300f0f2ac9044b5e452a9737bd7da58" label="Mixed Materials" type="Box">2 (4-Rufus E. Miles Campaign to Form a Seperate Cabinet)</container>
+            <container id="aspace_0b9e769b7203d9e64a77d390fc11f344" parent="aspace_7300f0f2ac9044b5e452a9737bd7da58" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-4_5">
+        <c02 id="aspace_05e2cdeee4b7594d84bdc0c4184ff59f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>Materials related to the publication of A Cabinet Level Department of Education</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+            <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+            <container id="aspace_7295874441bb877cd9e2930702fd4fd3" label="Mixed Materials" type="Box">2 (4-Rufus E. Miles Campaign to Form a Seperate Cabinet)</container>
+            <container id="aspace_30c7de1992bbefc841db5b9ee771ee00" parent="aspace_7295874441bb877cd9e2930702fd4fd3" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-4_6">
+        <c02 id="aspace_b99568965eebd6e2698063d72f1fbe36" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6-8</container>
             <unittitle>Miles' Senate testimony regarding the Department of Education Act of 1977, Oct. 12, 13, 1977</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1979">1977-1979</unitdate>
-            <physdesc>
-              <extent>3 folders</extent>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">3 folders</extent>
             </physdesc>
+            <unitdate normal="1977/1979" type="inclusive">1977-1979</unitdate>
+            <container id="aspace_1579f4b7877ad1b30b841cbea5add247" label="Mixed Materials" type="Box">2 (4-Rufus E. Miles Campaign to Form a Seperate Cabinet)</container>
+            <container id="aspace_7ff3bf753f09f695a3ad33f429ea9a0d" parent="aspace_1579f4b7877ad1b30b841cbea5add247" type="Folder">6-8</container>
           </did>
-          <scopecontent>
+          <scopecontent id="aspace_fae3d19b9c420e4e7960ff84fca2176e">
+            <head>Scope and Contents</head>
             <p>Miscellaneous documents connected with the proposed new Department.</p>
           </scopecontent>
         </c02>
-        <c02 id="nam_apap048-4_7">
+        <c02 id="aspace_93ab4ec362550b75e42b2f31225c9326" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
             <unittitle>Journal articles by Rufus E. Miles concerning the proposed Department</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+            <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+            <container id="aspace_65d0eef9bd19bd563a6a011b981c47e7" label="Mixed Materials" type="Box">2 (4-Rufus E. Miles Campaign to Form a Seperate Cabinet)</container>
+            <container id="aspace_4937a80610584c90948480996ee8fc69" parent="aspace_65d0eef9bd19bd563a6a011b981c47e7" type="Folder">9</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap048-5">
+      <c01 id="aspace_de0ed8251baba5af31c8ed82426acec9" level="series">
         <did>
+          <unittitle>Rufus Miles Activities as a Member of the Faculty at Princeton's Woodrow Wilson School of Public and International Affairs</unittitle>
           <unitid>5</unitid>
-          <unittitle label="Series">Rufus Miles Activities as a Member of the Faculty at Princeton's Woodrow Wilson School of Public and International Affairs</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966/1975">1966-1975</unitdate>
+          <unitdate normal="1966/1975" type="inclusive">1966-1975</unitdate>
           <physdesc>
-            <physfacet>22 folders</physfacet>
+            <physfacet id="aspace_ad9599b69c98085ee92a8ea6962748cf">22 folders</physfacet>
           </physdesc>
         </did>
-        <scopecontent>
+        <scopecontent id="aspace_405c03de40f9a2dbe7a3c447bcafc427">
+          <head>Scope and Contents</head>
           <p>This series largely contains Miles' scholarly and teaching efforts in the area of management and public policy. It encompasses both published and unpublished materials. The former includes articles in <emph render="italic">Public Administration Review</emph> and the <emph render="italic">Journal of Higher Education</emph>. A subseries is made up of his continued part-time role in government service: his participation in a self-study of the Bureau of the Budget's organization (1967), testimony before Senator Abraham's Ribicoff's Committee on Government Organization (1968) and membership on President Nixon's transition team (1968).</p>
         </scopecontent>
-        <c02 id="nam_apap048-5_1">
+        <c02 id="aspace_9ef5155c990de96f518852aab9f37e53" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10</container>
             <unittitle>Materials related to Miles' role on the Advisory Council of the Woodrow Wilson School</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960/1962">1960-1962</unitdate>
+            <unitdate normal="1960/1962" type="inclusive">1960-1962</unitdate>
+            <container id="aspace_e728500a644e4ffee31f1b418f44cba0" label="Mixed Materials" type="Box">2 (5-Rufus Miles Activities as a Member of the Faculty )</container>
+            <container id="aspace_f3c5f4829ab3fec4dc29458c45ce432b" parent="aspace_e728500a644e4ffee31f1b418f44cba0" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-5_2">
+        <c02 id="aspace_74bec25d3d002c8bac30e0d3dbd6c8ff" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">11</container>
             <unittitle>Miles' appointment papers and other personnel documents related to the School</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+            <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+            <container id="aspace_a8b7eb15908e10b1995cced113cedc5e" label="Mixed Materials" type="Box">2 (5-Rufus Miles Activities as a Member of the Faculty )</container>
+            <container id="aspace_ad4b9df5a875f6b23c1186d576ad9e65" parent="aspace_a8b7eb15908e10b1995cced113cedc5e" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-5_3">
+        <c02 id="aspace_f81e29cd9056a90b70b226b7fb5a0e07" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">12</container>
             <unittitle>Miles' report evaluating the Woodrow Wilson School</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+            <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+            <container id="aspace_cef11dd732f9df05de56d6dd8676e14c" label="Mixed Materials" type="Box">2 (5-Rufus Miles Activities as a Member of the Faculty )</container>
+            <container id="aspace_9e99d7d76998c86cd3d52636546681fd" parent="aspace_cef11dd732f9df05de56d6dd8676e14c" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-5_4">
+        <c02 id="aspace_e9815f2b8b7958bc3202db3a4abdd5f9" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">13</container>
             <unittitle>Papers related to conferences on the Public Service (Dec.1965) and Mid-Career Education (Feb.1966)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+            <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+            <container id="aspace_eeb188c51a85c4aac603bbba9b3eceb8" label="Mixed Materials" type="Box">2 (5-Rufus Miles Activities as a Member of the Faculty )</container>
+            <container id="aspace_4b6cb957b097d9a839f119c683bdb962" parent="aspace_eeb188c51a85c4aac603bbba9b3eceb8" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-5_5">
+        <c02 id="aspace_bcfcb7de2fce7ee0ac1ea72cb82fa4ba" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">14</container>
             <unittitle>Miles' critique of a "Super Department of HEW for the Heineman Task Force"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996-11-29">1996 November 29</unitdate>
+            <unitdate normal="1996-11-29/1996-11-29" type="inclusive">1996 November 29</unitdate>
+            <container id="aspace_b712c4ff1aca7f4c27ff261c048da0b3" label="Mixed Materials" type="Box">2 (5-Rufus Miles Activities as a Member of the Faculty )</container>
+            <container id="aspace_237f89c6aebc791750eb16f59e8863ed" parent="aspace_b712c4ff1aca7f4c27ff261c048da0b3" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-5_6">
+        <c02 id="aspace_ed0dc340b32c3b7cdeda548c1dd3e9b5" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">15</container>
             <unittitle>Miles' unpublished paper: "Some Observations on the President's Problems of Managing the Executive Branch".</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967-04-07">1967 April 7</unitdate>
+            <unitdate normal="1967-04-07/1967-04-07" type="inclusive">1967 April 7</unitdate>
+            <container id="aspace_75f4a65c8aa753643bac26eeff496d73" label="Mixed Materials" type="Box">2 (5-Rufus Miles Activities as a Member of the Faculty )</container>
+            <container id="aspace_8e537543e1625b85b033c9b519d74a0f" parent="aspace_75f4a65c8aa753643bac26eeff496d73" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-5_7">
+        <c02 id="aspace_86fb4c79b25314fb346df37369cb6793" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">16</container>
             <unittitle>Final copy of the Heineman Task Force Report, i.e. A Final Report of the President's Task Force on Government Organization</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967-06-15">1967 June 15</unitdate>
+            <unitdate normal="1967-06-15/1967-06-15" type="inclusive">1967 June 15</unitdate>
+            <container id="aspace_d7727a459340b40b8dd1b0ef27b505de" label="Mixed Materials" type="Box">2 (5-Rufus Miles Activities as a Member of the Faculty )</container>
+            <container id="aspace_4fca70b5c0e13add72aae8a03312a417" parent="aspace_d7727a459340b40b8dd1b0ef27b505de" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-5_8">
+        <c02 id="aspace_f099e641ea7e634d90520806693391db" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">17</container>
             <unittitle>Documents concerning Miles' work on the U.S. Bureau of the Budget's Self Study</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">1967</unitdate>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_95d68db3dd164347872a179736d1b62b" label="Mixed Materials" type="Box">2 (5-Rufus Miles Activities as a Member of the Faculty )</container>
+            <container id="aspace_beb9251583c487d73ba869377bf0dfb1" parent="aspace_95d68db3dd164347872a179736d1b62b" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-5_9">
+        <c02 id="aspace_c72017d91a1dcea2c18538f4d2356e01" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">18</container>
             <unittitle>Materials related to Miles' article: "Search for Identity of Graduate Schools of Public Affairs".<emph render="italic">Public Administration Review</emph> XXVII</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967-11">1967 November</unitdate>
+            <unitdate normal="1967-11/1967-11" type="inclusive">1967 November</unitdate>
+            <container id="aspace_d52549de5e20eb9b753b7390e03402e7" label="Mixed Materials" type="Box">2 (5-Rufus Miles Activities as a Member of the Faculty )</container>
+            <container id="aspace_ae7be1c9fd67fcb29f575cc7dd868cfb" parent="aspace_d52549de5e20eb9b753b7390e03402e7" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-5_10">
+        <c02 id="aspace_40311257c19c03591272f4759d9ea408" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">19</container>
             <unittitle>Miles' testimony before the U.S. Senate's Subcommittee on Government Organization</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967-01-23">1967 January 23</unitdate>
+            <unitdate normal="1967-01-23/1967-01-23" type="inclusive">1967 January 23</unitdate>
+            <container id="aspace_da3a16400015affb93f3cdb73be34d16" label="Mixed Materials" type="Box">2 (5-Rufus Miles Activities as a Member of the Faculty )</container>
+            <container id="aspace_bfc4c6f45dda3e10ca0c1f44d6675c0b" parent="aspace_da3a16400015affb93f3cdb73be34d16" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-5_11">
+        <c02 id="aspace_67b320f640d2d6a3d40c2dfe490ee910" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">20</container>
             <unittitle>Miles' lecture on "Population and Public Policy"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967-03-31">1967 March 31</unitdate>
+            <unitdate normal="1967-03-31/1967-03-31" type="inclusive">1967 March 31</unitdate>
+            <container id="aspace_db365a41b00e892a599eff8bade5fcd1" label="Mixed Materials" type="Box">2 (5-Rufus Miles Activities as a Member of the Faculty )</container>
+            <container id="aspace_9ed7b443f3d92769b904f892297a1371" parent="aspace_db365a41b00e892a599eff8bade5fcd1" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-5_12">
+        <c02 id="aspace_b58a9821f06ca9ce6677ac7f20b00a3b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">21</container>
             <unittitle>Memoranda, etc. regarding 31 students arrested at Princeton during a demonstration</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/1968">1967-1968</unitdate>
+            <unitdate normal="1967/1968" type="inclusive">1967-1968</unitdate>
+            <container id="aspace_62fae4ee157f48aa2f80ab75b44a893f" label="Mixed Materials" type="Box">2 (5-Rufus Miles Activities as a Member of the Faculty )</container>
+            <container id="aspace_4ff1e00e3882331029f16a75e66fce2f" parent="aspace_62fae4ee157f48aa2f80ab75b44a893f" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-5_13">
+        <c02 id="aspace_389e8f9485cc52a79a125205cd6cce28" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">22</container>
             <unittitle>Lectures, Syllabi, etc. for course on "Philosophies and Techniques of Public Management"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966/1970">1966-1970</unitdate>
+            <unitdate normal="1966/1970" type="inclusive">1966-1970</unitdate>
+            <container id="aspace_1db7933a88e08b11bfda4a5d1109b96d" label="Mixed Materials" type="Box">2 (5-Rufus Miles Activities as a Member of the Faculty )</container>
+            <container id="aspace_5053f3f911b74d7aa89aaaa15980b70f" parent="aspace_1db7933a88e08b11bfda4a5d1109b96d" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-5_14">
+        <c02 id="aspace_deee156f0211bbe168d145011ad8dcde" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">23</container>
             <unittitle>Papers connected to President Nixon's Task Force on Organization of the Executive Branch (1968) and related Ash council Report (1969)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+            <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
+            <container id="aspace_fbe2aaef795cc2c844cc638ae879ce50" label="Mixed Materials" type="Box">2 (5-Rufus Miles Activities as a Member of the Faculty )</container>
+            <container id="aspace_5aacc15ca631a3a9c0698c4237e1e7fb" parent="aspace_fbe2aaef795cc2c844cc638ae879ce50" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-5_15">
+        <c02 id="aspace_b68f9c2bdffd3f4c993f77ae2a72820f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">24</container>
             <unittitle>Materials regarding Miles' lecture at the U.S. civil Service Executive Seminar Center: The Role of the Agency Head"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968-04-23">1968 April 23</unitdate>
+            <unitdate normal="1968-04-23/1968-04-23" type="inclusive">1968 April 23</unitdate>
+            <container id="aspace_61806cf867b0a98119342be718f93c85" label="Mixed Materials" type="Box">2 (5-Rufus Miles Activities as a Member of the Faculty )</container>
+            <container id="aspace_1d83e1c7fdae98273038624e582ea8c8" parent="aspace_61806cf867b0a98119342be718f93c85" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-5_16">
+        <c02 id="aspace_cfc9a80101ce0211e3fdd6284bfc53fc" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">25</container>
             <unittitle>Unpublished papers by Miles on management</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969">1969</unitdate>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_6dac9ca6a7221adfd73dfb274e0c0852" label="Mixed Materials" type="Box">2 (5-Rufus Miles Activities as a Member of the Faculty )</container>
+            <container id="aspace_2a490770baf632d6558e47a82923b834" parent="aspace_6dac9ca6a7221adfd73dfb274e0c0852" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-5_17">
+        <c02 id="aspace_398e7e689f3f65e1e7e03e2372651c12" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">26</container>
             <unittitle>Papers connected to Miles' unpublished essay: "Is Leadership Teachable?"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969-04">1969 April</unitdate>
+            <unitdate normal="1969-04/1969-04" type="inclusive">1969 April</unitdate>
+            <container id="aspace_c62131164938df66c1233c9609179bb3" label="Mixed Materials" type="Box">2 (5-Rufus Miles Activities as a Member of the Faculty )</container>
+            <container id="aspace_709a30d961fff824f5d61c0739a9823a" parent="aspace_c62131164938df66c1233c9609179bb3" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-5_18">
+        <c02 id="aspace_c92e7efbf8b042f10e05307194f48910" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">27</container>
             <unittitle>Note on and copies of Miles' article: "The Pathology of Institutional Breakdown".<emph render="italic">Journal of Higher Education</emph> XL</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969-05">1969 May</unitdate>
+            <unitdate normal="1969-05/1969-05" type="inclusive">1969 May</unitdate>
+            <container id="aspace_6d9f15633baaf54c98178c410c9afe61" label="Mixed Materials" type="Box">2 (5-Rufus Miles Activities as a Member of the Faculty )</container>
+            <container id="aspace_887d799c30db800eb14341f418ae829f" parent="aspace_6d9f15633baaf54c98178c410c9afe61" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-5_19">
+        <c02 id="aspace_5ddfcc5bd4b136bd3d4e4a1b7df83bbe" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">28</container>
             <unittitle>Documents from a conference paper: "Policy Options in Coping with Problems of Poverty"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969-06-18">1969 June 18</unitdate>
+            <unitdate normal="1969-06-18/1969-06-18" type="inclusive">1969 June 18</unitdate>
+            <container id="aspace_7b184009aa653bbd67aeb2626d510578" label="Mixed Materials" type="Box">2 (5-Rufus Miles Activities as a Member of the Faculty )</container>
+            <container id="aspace_20a9eba47fc9ca92e1cf402d29dfff97" parent="aspace_7b184009aa653bbd67aeb2626d510578" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-5_20">
+        <c02 id="aspace_6ee18c3478a91cf8167e085590844087" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">29</container>
             <unittitle>Materials regarding Miles course on "Poverty and Public Policy"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969">1969</unitdate>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_768e8c6e6f95ec924b31bff82d74da68" label="Mixed Materials" type="Box">2 (5-Rufus Miles Activities as a Member of the Faculty )</container>
+            <container id="aspace_6c34cc268a5740fd66a76e0907a71113" parent="aspace_768e8c6e6f95ec924b31bff82d74da68" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-5_21">
+        <c02 id="aspace_2febb786f2aa5882d30283e54c454b0c" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">30</container>
             <unittitle>Papers related to Miles' "Non-Subservient Public Servant" and editorial in<emph render="italic">Public Administration Review</emph></unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970-11/1970-12">1970 November-1970 December</unitdate>
+            <unitdate normal="1970-11/1970-12" type="inclusive">1970 November-1970 December</unitdate>
+            <container id="aspace_11a8b8018bea1ec6d01f2cf2b3b9151a" label="Mixed Materials" type="Box">2 (5-Rufus Miles Activities as a Member of the Faculty )</container>
+            <container id="aspace_a0a079c3070d6f9051d8f62d683035e5" parent="aspace_11a8b8018bea1ec6d01f2cf2b3b9151a" type="Folder">30</container>
           </did>
         </c02>
-        <c02 id="nam_apap048-5_22">
+        <c02 id="aspace_7b2e4012896e778f76e355719285b4a9" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">31</container>
             <unittitle>Documents dealing with Miles seminar on "Issues of Government Organization"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972-01">1972 January</unitdate>
+            <unitdate normal="1972-01/1972-01" type="inclusive">1972 January</unitdate>
+            <container id="aspace_bb1a3c23ac75ed0b736a190e717e889c" label="Mixed Materials" type="Box">2 (5-Rufus Miles Activities as a Member of the Faculty )</container>
+            <container id="aspace_929ea6d6bfe8daf996dc4e25d46a44d8" parent="aspace_bb1a3c23ac75ed0b736a190e717e889c" type="Folder">31</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap048-6">
+      <c01 id="aspace_f2381456af25bb7e45c79e4a860159ce" level="series">
         <did>
+          <unittitle>Rufus Miles Writings and Activities while a Senior Fellow at the Woodrow Wilson School, Princeton University</unittitle>
           <unitid>6</unitid>
-          <unittitle label="Series">Rufus Miles Writings and Activities while a Senior Fellow at the Woodrow Wilson School, Princeton University</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976/1982">1976-1982</unitdate>
+          <unitdate normal="1976/1982" type="inclusive">1976-1982</unitdate>
           <physdesc>
-            <physfacet>26 folders</physfacet>
+            <physfacet id="aspace_61be224cf1863471b741dd87e5c60f1b">26 folders</physfacet>
           </physdesc>
         </did>
-        <scopecontent>
+        <scopecontent id="aspace_772a35c9116cd3e092b93165d8549cb5">
+          <head>Scope and Contents</head>
           <p>This series encompasses lectures, published articles, materials related to conference participation on various public policy issues. In particular it contains items related to the Presidency of Jimmy Carter namely Carter's Welfare and Civil Service Reform Programs. It also holds a copy of Miles' testimony before Congress regarding Social Security Organization (Jan.1984) and materials related to the Rockefeller Public Service Awards Program.</p>
         </scopecontent>
-        <c02 id="nam_apap048-6_1">
+        <c02 id="aspace_312976d6a6d0337bc9b2fb942e8394e1" level="file">
           <did>
             <unittitle>Personnel papers, photos, miscellaneous items for this period</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/1982">1975-1982</unitdate>
+            <unitdate normal="1975/1982" type="inclusive">1975-1982</unitdate>
           </did>
         </c02>
-        <c02 id="nam_apap048-6_2">
+        <c02 id="aspace_b251262594b72ecbd25a23b09c3addaf" level="file">
           <did>
             <unittitle>Rockefeller Public Service Awards Program</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974/1982">1974-1982</unitdate>
-            <physdesc>
-              <extent>7 folders</extent>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">7 folders</extent>
             </physdesc>
+            <unitdate normal="1974/1982" type="inclusive">1974-1982</unitdate>
           </did>
-          <scopecontent>
+          <scopecontent id="aspace_a3ac668251b9d5adf5a4542bc889f5f1">
+            <head>Scope and Contents</head>
             <p>Including Miles' leading role in reforming the nature of that program (1975).</p>
           </scopecontent>
         </c02>
-        <c02 id="nam_apap048-6_3">
+        <c02 id="aspace_6372471d9fbb16061b57852a6fe6386c" level="file">
           <did>
             <unittitle>Papers pertaining to lectures given at private colleges (Carleton, Guildford, Hamilton, Hiram, Middlebury) sponsored by the Woodrow Wilson Foundation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974/1978">1974-1978</unitdate>
+            <unitdate normal="1974/1978" type="inclusive">1974-1978</unitdate>
           </did>
         </c02>
-        <c02 id="nam_apap048-6_4">
+        <c02 id="aspace_f78be8bee6e385acfb62a2694f72ede8" level="file">
           <did>
             <unittitle>Documents related to a Policy task Force on Youth Employment and two conferences on that same subject</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976">1976</unitdate>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
           </did>
         </c02>
-        <c02 id="nam_apap048-6_5">
+        <c02 id="aspace_1e327d1764d9cd2407499a6381d0b188" level="file">
           <did>
             <unittitle>Notes regarding and copies of Miles' "Considerations for a President Bent on Reorganization"<emph render="italic">Public Administration Review</emph>, Vol. 37(2)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977-03/1977-04">1977 March-1977 April</unitdate>
+            <unitdate normal="1977-03/1977-04" type="inclusive">1977 March-1977 April</unitdate>
           </did>
         </c02>
-        <c02 id="nam_apap048-6_6">
+        <c02 id="aspace_3ab0e8fe5d0f06e12d67e1cc6e94d30b" level="file">
           <did>
             <unittitle>Materials related to Miles' opinion on and other views of President Carter's Welfare Reform Program</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1978">1977-1978</unitdate>
+            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
           </did>
         </c02>
-        <c02 id="nam_apap048-6_7">
+        <c02 id="aspace_88f2279112d83178e2fc588105162a38" level="file">
           <did>
             <unittitle>Documents related to Miles view of President Carter's Civil Service Reform program including correspondence with Alan K. Campbell, Chairman of the Civil Service Commission, and a letter from Jimmy Carter urging support</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1978">1977-1978</unitdate>
+            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
           </did>
         </c02>
-        <c02 id="nam_apap048-6_8">
+        <c02 id="aspace_6a70ab9ede37a523884edd5c6eb70d85" level="file">
           <did>
             <unittitle>Correspondence regarding and copies of Miles' "The Origin and Meaning of Miles' Law"<emph render="italic">Public Administration Review</emph>, 38</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978-09/1978-10">1978 September-1978 October</unitdate>
+            <unitdate normal="1978-09/1978-10" type="inclusive">1978 September-1978 October</unitdate>
           </did>
         </c02>
-        <c02 id="nam_apap048-6_9">
+        <c02 id="aspace_6fe117e1c061fb77421b785de6276fc6" level="file">
           <did>
             <unittitle>Correspondence pertaining to and copies of Miles' "Six Other Maxims of Management"<emph render="italic">Organizational Dynamics</emph></unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979-06/1979-08">1979 Summer</unitdate>
+            <unitdate normal="1979-06/1979-08" type="inclusive">1979 Summer</unitdate>
           </did>
         </c02>
-        <c02 id="nam_apap048-6_10">
+        <c02 id="aspace_65426b4fde1213e2c1743c4324a1df41" level="file">
           <did>
             <unittitle>Materials regarding Miles' and others opinions on management including a proposal to the National Academy of Public administration titled "A Typology of Management"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
-            <physdesc>
-              <extent>2 folders</extent>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">2 folders</extent>
             </physdesc>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
           </did>
         </c02>
-        <c02 id="nam_apap048-6_11">
+        <c02 id="aspace_459f4b9e4819c2e2c9d727ff3e40a5c4" level="file">
           <did>
             <unittitle>Papers related to actuarial forecasting and an "earnings test" for Social security</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/1979">1975-1979</unitdate>
+            <unitdate normal="1975/1979" type="inclusive">1975-1979</unitdate>
           </did>
-          <scopecontent>
+          <scopecontent id="aspace_99c876510c3c26893edb4ca64f3e88cb">
+            <head>Scope and Contents</head>
             <p>Including his statement before HEW's Advisory Council on social Security (1979).</p>
           </scopecontent>
         </c02>
-        <c02 id="nam_apap048-6_12">
+        <c02 id="aspace_79c9b084a9c2bf1b3e9bdac8831610d2" level="file">
           <did>
             <unittitle>Documents pertaining to and copy of Miles' "The Abominable Myth of 48% Waste" appearing untitled in the<emph render="italic">Public Administration Times</emph></unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981-04-15">1981 April 15</unitdate>
+            <unitdate normal="1981-04-15/1981-04-15" type="inclusive">1981 April 15</unitdate>
           </did>
         </c02>
-        <c02 id="nam_apap048-6_13">
+        <c02 id="aspace_bbae022ad72de74b5e5bffffce7bb097" level="file">
           <did>
             <unittitle>Copy of Miles' paper "Rethinking some Premises of the Senior Executive Service" read at a Brookings Institute Seminar: "Dialogue on the Public Service"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981-05-06">1981 May 6</unitdate>
+            <unitdate normal="1981-05-06/1981-05-06" type="inclusive">1981 May 6</unitdate>
           </did>
         </c02>
-        <c02 id="nam_apap048-6_14">
+        <c02 id="aspace_317294122c98c12a6ac4b11f25e47d80" level="file">
           <did>
             <unittitle>Papers related to the Woodrow Wilson's School's Public Management Task Force and Mid-Career Task force</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1981">1980-1981</unitdate>
+            <unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate>
           </did>
         </c02>
-        <c02 id="nam_apap048-6_15">
+        <c02 id="aspace_2a54e81d06381cd0fc8b87246b241b09" level="file">
           <did>
             <unittitle>Miscellaneous correspondence with Richard Nathan</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1982">1979-1982</unitdate>
+            <unitdate normal="1979/1982" type="inclusive">1979-1982</unitdate>
           </did>
         </c02>
-        <c02 id="nam_apap048-6_16">
+        <c02 id="aspace_62c547181579d69bfc903ba12042b5b9" level="file">
           <did>
             <unittitle>Miscellaneous correspondence etc.</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1982">1977-1982</unitdate>
+            <unitdate normal="1977/1982" type="inclusive">1977-1982</unitdate>
           </did>
-          <scopecontent>
+          <scopecontent id="aspace_16835f14c7c579f294642bdb723a347d">
+            <head>Scope and Contents</head>
             <p>Including Miles letter of resignation (1982).</p>
           </scopecontent>
         </c02>
-        <c02 id="nam_apap048-6_17">
+        <c02 id="aspace_08abff2166cd0cf033cb660f0f7371b3" level="file">
           <did>
             <unittitle>Related matter after retirement</unittitle>
-            <physdesc>
-              <extent>2 folders</extent>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">2 folders</extent>
             </physdesc>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1985">Undated</unitdate>
+            <unitdate normal="1934/1985" type="inclusive">Undated</unitdate>
           </did>
-          <scopecontent>
+          <scopecontent id="aspace_f3ebab0d526b0f9739a677d6ea7db8ad">
+            <head>Scope and Contents</head>
             <p>Testimony before Congressional Panel on Social Security Organization (January 13, 1984) and related materials to this testimony and the history of Social Security in general. *excluding most materials concerning his work in creating a cabinet level Department of Education (see Series 4).</p>
           </scopecontent>
         </c02>

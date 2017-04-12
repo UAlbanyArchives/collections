@@ -1,265 +1,210 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_mss141">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/mss141.xml" identifier="##">nam_mss141</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="mss141">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=mss141.xml">mss141</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>TERWILLIGER FAMILY COLLECTION (MSS141)<date normal="1912/1919" type="inclusive">1912-1919</date></titleproper>
+        <titleproper>Terwilliger Family Collection; Papers <num>mss141</num></titleproper>
         <author>Jamie Brinkman</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2014">Copyright 2014 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2014</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Jamie Brinkman<date normal="2014">2014</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 17:26:02 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date/>
-        <item/>
+        <date>2014</date>
+        <item>Encoded in EAD by Jamie Brinkman</item>
       </change>
     </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>TERWILLIGER FAMILY COLLECTION (MSS141)<date normal="1912/1919" type="inclusive">1912-1919</date>
-      </titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2014</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_mss141</unitid>
-      <unittitle>Terwilliger Family Collection <unitdate type="inclusive" normal="1912/1919" label="Date:"> 1912-1919</unitdate>
-      </unittitle>
-      <physdesc label="Physical Characteristics:">
-        <extent unit="cubic ft.">0.40</extent>
-      </physdesc>
-      <origination>
-        <persname encodinganalog="100" source="local">Beebe, Harvey </persname>
-      </origination>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:"> The Terwilliger Family Collection contains numerous letters
-        written by Harvey Beebe, an American soldier from southwestern New York during World War
-        I.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Terwilliger Family Collection<unitdate normal="1912/1919" type="inclusive">1912-1919</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="local">Beebe, Harvey</persname>
+      </origination>
+      <unitid>mss141</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.40 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_a1cba32bdb95a368f142188b7ed2e47f">The Terwilliger Family Collection contains numerous letters written by Harvey Beebe, an American soldier from southwestern New York during World War I.</abstract>
+      <langmaterial id="aspace_15a18cac25dfba7555f36330459d0bce">English</langmaterial>
+      <physloc id="aspace_ca1ce56a3956e6b6348b71822d382c40">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_a12a1777961bdc094a4011e67019b97a">
+      <head>Processing Information</head>
+      <p>Processed in 2014 by Jamie Brinkman.</p>
+    </processinfo>
+    <accessrestrict id="aspace_4369c318f37918ba4d25ba87dd37477f">
       <head>Access</head>
-      <p> Access to this record group is unrestricted. </p>
+      <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_6b468acb9f949ecc500f67513b8861d0">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_9535925f7642c48f979e6e705c60e9fe">
       <head>Acquisition Information</head>
-      <p>Gordon Terwilliger, grandson of Harvey Beebe, donated this collection to the M.E. Grenander
-        Department of Special Collections in 2014. </p>
+      <p>Gordon Terwilliger, grandson of Harvey Beebe, donated this collection to the M.E. Grenander Department of Special Collections in 2014.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_5b351f754d08e260f55bcd817df64454">
       <head>Biographical Sketch</head>
-      <p>Harvey Beebe was from Falconer, New York. He worked at the National Chautauqua County Bank
-        until 1918, when he left his position to serve in the Navy during World War I. Beebe
-        completed basic training in the United States and then served in France during the war. He
-        returned home and was stationed in Hampton Roads, Virginia beginning in February 1919.
-        During his service, Beebe frequently wrote letters home to his family, especially his mother
-        Grace Frankenfield, and future wife, Hazel Ames. Harvey and Hazel Beebe married in early
-        1919 after his return to the United States and their daughter was Shirley Beebe
-        Terwilliger.</p>
+      <p>Harvey Beebe was from Falconer, New York. He worked at the National Chautauqua County Bank until 1918, when he left his position to serve in the Navy during World War I. Beebe completed basic training in the United States and then served in France during the war. He returned home and was stationed in Hampton Roads, Virginia beginning in February 1919. During his service, Beebe frequently wrote letters home to his family, especially his mother Grace Frankenfield, and future wife, Hazel Ames. Harvey and Hazel Beebe married in early 1919 after his return to the United States and their daughter was Shirley Beebe Terwilliger.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The vast majority of this collection is handwritten correspondence sent by Harvey Beebe to
-        his family and girlfriend back home. There are some additional items such as correspondence
-        from others, Beebe's local draft board card, a machine gun manual, and a list of sailors
-        staying in a U.S. Naval Barrack in France.</p>
+    <scopecontent id="aspace_58e43c832806d6b6f0d5da92a9357308">
+      <head>Scope and Contents</head>
+      <p>The vast majority of this collection is handwritten correspondence sent by Harvey Beebe to his family and girlfriend back home. There are some additional items such as correspondence from others, Beebe's local draft board card, a machine gun manual, and a list of sailors staying in a U.S. Naval Barrack in France.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_eac8187251c10cd818cab504e836b349">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized chronologically. There are no series.</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-           Try to give as many access points as you can to increase the chances of 
-           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-           to comment them out! -->
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Travel</subject>
-      <subject source="meg" encodinganalog="650">Military and Armed Conflict</subject>
-      <persname encodinganalog="600" source="local">Harvey Beebe</persname>
-      <subject encodinganalog="650" source="lcsh">World War, 1914-1918--Personal narratives, American.</subject>
-      <subject encodinganalog="650" source="lcsh">World War, 1914-1918--Naval operations, American.</subject>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-    </controlaccess>
-    <prefercite encodinganalog="524">
+    <prefercite id="aspace_e8e14c7b3c19a35699de291fe6b5c71f">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Terwilliger Family Collection,
-        1912-1919. M.E. Grenander Department of Special Collections and Archives, University
-        Libraries, University at Albany, State University of New York (hereafter referred to as the
-        Terwilliger Collection).</p>
+      <p> Identification of specific item, series, box, folder, Terwilliger Family Collection, 1912-1919. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Terwilliger Collection).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_mss141-1">
+    <controlaccess>
+      <subject source="meg">Travel</subject>
+      <subject source="meg">Military and Armed Conflict</subject>
+      <subject source="lcsh">World War, 1914-1918--Personal narratives, American.</subject>
+      <subject source="lcsh">World War, 1914-1918--Naval operations, American.</subject>
+      <genreform source="aat">Correspondence</genreform>
+      <persname source="local">Harvey Beebe</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_594e36e4534474f8ec881bd3ca030163" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>Correspondence</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1912">1912</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914">1914</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1917">1917</unitdate>
+          <unitdate normal="1912/1912" type="inclusive">1912</unitdate>
+          <unitdate normal="1914/1914" type="inclusive">1914</unitdate>
+          <unitdate normal="1917/1917" type="inclusive">1917</unitdate>
+          <container id="aspace_90626676d8e12c852d421b5b2ba3c1ce" label="Mixed Materials" type="Box">1 (Terwilliger Family Collection )</container>
+          <container id="aspace_33ac1f8b5bfe92fc840bcf49907397a7" parent="aspace_90626676d8e12c852d421b5b2ba3c1ce" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_mss141-2">
+      <c01 id="aspace_933aab82af1610def3229fac28892f93" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>42nd Annual Report of Prudential Insurance Company</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1917">1917</unitdate>
+          <unitdate normal="1917/1917" type="inclusive">1917</unitdate>
+          <container id="aspace_ff47edc789617c614f9802ee78201c31" label="Mixed Materials" type="Box">1 (Terwilliger Family Collection )</container>
+          <container id="aspace_554a54e0a4eb6c7ddf2764c38d299ec5" parent="aspace_ff47edc789617c614f9802ee78201c31" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_mss141-3">
+      <c01 id="aspace_551a05cd34bba660d2896743bffd07fe" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
-          <unittitle>Harvey Beebe Draft Car, Troop Billet Ticket, and Article about Leaving for
-            War</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1918">1918</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1912/1919">Undated</unitdate>
+          <unittitle>Harvey Beebe Draft Car, Troop Billet Ticket, and Article about Leaving for War</unittitle>
+          <unitdate normal="1918/1918" type="inclusive">1918</unitdate>
+          <unitdate normal="1912/1919" type="inclusive">Undated</unitdate>
+          <container id="aspace_1ad21518e10123f6199e5f6ecbcf1d57" label="Mixed Materials" type="Box">1 (Terwilliger Family Collection )</container>
+          <container id="aspace_7a3d28d4c69f259a8d7e2591c6ebc5be" parent="aspace_1ad21518e10123f6199e5f6ecbcf1d57" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_mss141-4">
+      <c01 id="aspace_ee1b3052cf1c6d8dfd592c5fdf563537" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Correspondence</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1918-01/1918-04">1918 January-1918 April</unitdate>
+          <unitdate normal="1918-01/1918-04" type="inclusive">1918 January-1918 April</unitdate>
+          <container id="aspace_f906979db1ba0f254f52cfb92cd44f62" label="Mixed Materials" type="Box">1 (Terwilliger Family Collection )</container>
+          <container id="aspace_3986c32c871cbe12ec3e887a75822982" parent="aspace_f906979db1ba0f254f52cfb92cd44f62" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_mss141-5">
+      <c01 id="aspace_78d353722ad1f6849dee176a474b21f9" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Correspondence</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1918-07">1918 July</unitdate>
+          <unitdate normal="1918-07/1918-07" type="inclusive">1918 July</unitdate>
+          <container id="aspace_245e78b6ef94ad44dfe55d09316a68d7" label="Mixed Materials" type="Box">1 (Terwilliger Family Collection )</container>
+          <container id="aspace_33b045faa458cf49a0d55d1135537cac" parent="aspace_245e78b6ef94ad44dfe55d09316a68d7" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_mss141-6">
+      <c01 id="aspace_f450c83f20ae378130ec55178a604e1f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Correspondence</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1918-08">1918 August</unitdate>
+          <unitdate normal="1918-08/1918-08" type="inclusive">1918 August</unitdate>
+          <container id="aspace_67389e7cb9cc12ea4670d27190483136" label="Mixed Materials" type="Box">1 (Terwilliger Family Collection )</container>
+          <container id="aspace_8b13d3daab028f71dd836464fe674aa2" parent="aspace_67389e7cb9cc12ea4670d27190483136" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_mss141-7">
+      <c01 id="aspace_ac51727e896810383871ab32a90db5b2" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Correspondence</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1918-09">1918 September</unitdate>
+          <unitdate normal="1918-09/1918-09" type="inclusive">1918 September</unitdate>
+          <container id="aspace_a346a2b611ff771b4959dcd78326ac30" label="Mixed Materials" type="Box">1 (Terwilliger Family Collection )</container>
+          <container id="aspace_fed9a1e2c28b033933416127b0f6eb35" parent="aspace_a346a2b611ff771b4959dcd78326ac30" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_mss141-8">
+      <c01 id="aspace_daeecbcb8d95b59f6a93184188ef76c5" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
           <unittitle>Correspondence</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1918-10">1918 October</unitdate>
+          <unitdate normal="1918-10/1918-10" type="inclusive">1918 October</unitdate>
+          <container id="aspace_ca5fafc32730d586b595608ff072af5d" label="Mixed Materials" type="Box">1 (Terwilliger Family Collection )</container>
+          <container id="aspace_af446fe2bfdc802b0dffb299141928d7" parent="aspace_ca5fafc32730d586b595608ff072af5d" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_mss141-9">
+      <c01 id="aspace_2e7700b016b6fa5f3df36beb8aa6c18f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Correspondence</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1918-11">1918 November</unitdate>
+          <unitdate normal="1918-11/1918-11" type="inclusive">1918 November</unitdate>
+          <container id="aspace_beb2ac8afc25e4ec2d088285c3551546" label="Mixed Materials" type="Box">1 (Terwilliger Family Collection )</container>
+          <container id="aspace_36cec5d6b0599daa630e63df4e21dc6d" parent="aspace_beb2ac8afc25e4ec2d088285c3551546" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_mss141-10">
+      <c01 id="aspace_2b25ac69472f2c45ba7f8651cf0e6bcd" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Correspondence</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1918-12">1918 December</unitdate>
+          <unitdate normal="1918-12/1918-12" type="inclusive">1918 December</unitdate>
+          <container id="aspace_7e7d0c867c125dd224d7e480fe242823" label="Mixed Materials" type="Box">1 (Terwilliger Family Collection )</container>
+          <container id="aspace_27c0693e2b2be886b8a8d8c0e75d9713" parent="aspace_7e7d0c867c125dd224d7e480fe242823" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_mss141-11">
+      <c01 id="aspace_dad76237793f019ab25d91c3cff7a6a1" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Correspondence</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1919-01/1919-04">1919 January-1919 April</unitdate>
+          <unitdate normal="1919-01/1919-04" type="inclusive">1919 January-1919 April</unitdate>
+          <container id="aspace_24f197660d4456f8bdfa84dbf801edd8" label="Mixed Materials" type="Box">1 (Terwilliger Family Collection )</container>
+          <container id="aspace_4a8539736096094203d796820bf4d0eb" parent="aspace_24f197660d4456f8bdfa84dbf801edd8" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_mss141-12">
+      <c01 id="aspace_5969a56717829c64cb5842da5cd772de" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">12</container>
           <unittitle>Correspondence</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1912/1919">Undated</unitdate>
+          <unitdate normal="1912/1919" type="inclusive">Undated</unitdate>
+          <container id="aspace_75c6623fba4905dba8b5668608b5b921" label="Mixed Materials" type="Box">1 (Terwilliger Family Collection )</container>
+          <container id="aspace_bc0110136a4ba0d3031b620cb772c1da" parent="aspace_75c6623fba4905dba8b5668608b5b921" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_mss141-13">
+      <c01 id="aspace_7b26e0924570c1fcc8f50b4520ef4581" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">13</container>
           <unittitle>Lewis Machine Gun Manual</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1912/1919">Undated</unitdate>
+          <unitdate normal="1912/1919" type="inclusive">Undated</unitdate>
+          <container id="aspace_081c08254e5999025bc4b99e0bd42085" label="Mixed Materials" type="Box">1 (Terwilliger Family Collection )</container>
+          <container id="aspace_98a522c1c33907be4bb872af4c23472c" parent="aspace_081c08254e5999025bc4b99e0bd42085" type="Folder">13</container>
         </did>
       </c01>
-      <c01 id="nam_mss141-14">
+      <c01 id="aspace_b9ce031c939e8c043a2544132f6a74d3" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">14</container>
-          <unittitle>List of Sailors in Barracks 12 of the U.S. Naval Station in Pauillac,
-            France</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1912/1919">Undated</unitdate>
+          <unittitle>List of Sailors in Barracks 12 of the U.S. Naval Station in Pauillac, France</unittitle>
+          <unitdate normal="1912/1919" type="inclusive">Undated</unitdate>
+          <container id="aspace_8aa1cc3c77dbf48b5ef6a7a26567272d" label="Mixed Materials" type="Box">1 (Terwilliger Family Collection )</container>
+          <container id="aspace_603714998d408d1859d1e2fd50589b4e" parent="aspace_8aa1cc3c77dbf48b5ef6a7a26567272d" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_mss141-15">
+      <c01 id="aspace_9793fbe194a2600dbd6152aac77bb076" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">15</container>
           <unittitle>Notes and Math</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1912/1919">Undated</unitdate>
+          <unitdate normal="1912/1919" type="inclusive">Undated</unitdate>
+          <container id="aspace_8e0d49b5c9eab575f96f1f85bd038509" label="Mixed Materials" type="Box">1 (Terwilliger Family Collection )</container>
+          <container id="aspace_742ccde03b671e386f6a97c434b89f0b" parent="aspace_8e0d49b5c9eab575f96f1f85bd038509" type="Folder">15</container>
         </did>
       </c01>
     </dsc>

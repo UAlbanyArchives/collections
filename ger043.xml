@@ -1,91 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ger043">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ger043.html">nam_ger043</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ger043">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ger043.xml">ger043</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>HELMUT HIRSCH (GER043)<date normal="1947/1980" type="inclusive">1947-1980</date></titleproper>
+        <titleproper>Hirsch, Helmut; Papers <num>ger043</num></titleproper>
         <author>unprocessed</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2016" type="publication">Copyright 2016 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2016</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Brian Keough<date normal="2016-12-26">2016 December 26</date></creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:26:54 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2016 December 26</date>
+        <item>Encoded in EAD by Brian Keough</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>Helmut Hirsch<date normal="1947/1980" type="inclusive">1947-1980</date></titleproper>
-      <publisher/>
-      <date type="publication">Copyright 2016 By the University at Albany, SUNY. All rights reserved.</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ger043</unitid>
-      <unittitle>Helmut Hirsch<unitdate label="Date:" normal="1947/1980" type="inclusive">1947-1980</unitdate></unittitle>
-      <abstract label="Abstract:">This collection contains the papers of Helmut Hirsch.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <persname encodinganalog="100" source="lcsh">Hirsch, Helmut, 1907-2009 </persname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">3</extent>
-      </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Helmut Hirsch<unitdate normal="1947/1980" type="inclusive">1947-1980</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="lcsh">Hirsch, Helmut, 1907-2009</persname>
+      </origination>
+      <unitid>ger043</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_deaaa8d1ca911a97a8dddef009e66409">This collection contains the papers of Helmut Hirsch.</abstract>
+      <langmaterial id="aspace_dda763bbe4e0f706753d4283e3fef796">English</langmaterial>
+      <physloc id="aspace_f3e43c9c571f5fa4c74faf4f93bb6bb8">The materials are located onsite in the department.</physloc>
+      <container id="aspace_adb5d279a350012d58a82112e9ddd483" label="Mixed Materials" type="Collection">X</container>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_6b904079ee199c0fbb33316a58e5e641">
+      <head>Processing Information</head>
+      <p>Processed in 2016 by unprocessed.</p>
+    </processinfo>
+    <accessrestrict id="aspace_ee10f1540ebb5a5950e3294cac909002">
       <head>Access</head>
       <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. Please contact an archivist for more information.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_3dc8d2eeeee8709bfa9da97116f14421">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
-      <p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p> The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_4d4c29507e024a962235d89789528a27">
       <head>Acquisition Information</head>
       <p>All items in this collection were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_1f097f77591e3995cdedc1d5d275b973">
       <head>Historical Note</head>
-      <p>Helmut Hirsch cofounded Roosevelt College (which became Roosevelt University) and taught at the University of Wyoming in Laramie, the University of Chicago, and the Institute of Design in Chicago before returning to Germany in 1957. 
-</p>
+      <p>Helmut Hirsch cofounded Roosevelt College (which became Roosevelt University) and taught at the University of Wyoming in Laramie, the University of Chicago, and the Institute of Design in Chicago before returning to Germany in 1957.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>This collection contains Helmut Hirsch's correspondence with Alfred Doblin, Manfred George, Thomas Mann, and others, as well as with the Goethe Institute and Aufbau, 1947-1980. The collection also includes manuscripts and offprints of articles, 1930-1969. </p>
+    <scopecontent id="aspace_896d3af7b1975cea7beefc0b5678d064">
+      <head>Scope and Contents</head>
+      <p>This collection contains Helmut Hirsch's correspondence with Alfred Doblin, Manfred George, Thomas Mann, and others, as well as with the Goethe Institute and Aufbau, 1947-1980. The collection also includes manuscripts and offprints of articles, 1930-1969.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_ec252bd9dc5dea199f08506baea75538">
       <head>Arrangement of the Collection</head>
       <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <prefercite>
+    <prefercite id="aspace_415a2114a09615f0540821fe555da0cf">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Helmut Hirsch, 1947-1980. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Helmut Hirsch).</p>
+      <p> Identification of specific item, series, box, folder, Helmut Hirsch, 1947-1980. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Helmut Hirsch).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <persname source="lcsh" encodinganalog="600">Aufbau (New York) </persname>
+      <persname source="lcsh">Aufbau (New York)</persname>
     </controlaccess>
+    <dsc/>
   </archdesc>
 </ead>

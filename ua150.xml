@@ -1,605 +1,591 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua150">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua150.html">nam_ua150</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua150">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua150.xml">ua150</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>UNIVERSITY FACULTY RECORDS (UA150)<date normal="1915/1999" type="inclusive">1915-1999</date></titleproper>
+        <titleproper>University Faculty; Records <num>ua150</num></titleproper>
         <author>Geoffrey A. Huth and Geoffrey P. Williams</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="1989-08-28" type="publication">Copyright 1989 August 28 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>1989 August 28</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Mark Wolfe<date normal="2015">2015</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:37:20 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2015-12">2015 December</date>
+        <date>2015 December</date>
         <item>Converted to EAD</item>
+      </change>
+      <change>
+        <date>2015</date>
+        <item>Encoded in EAD by Mark Wolfe</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua150</unitid>
-      <unittitle>University Faculty Records<unitdate normal="1915/1999" type="inclusive">1915-1999</unitdate></unittitle>
-      <abstract label="Abstract:">The University Faculty consists of the voting faculty and is the body that grants power to the University Senate to develop and enact policy. The collection primarily consists of meeting minutes, audio recordings of meetings, and election results.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="local">University Faculty</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">4.5</extent>
-      </physdesc>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>University Faculty Records<unitdate normal="1915/1999" type="inclusive">1915-1999</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">University Faculty</corpname>
+      </origination>
+      <unitid>ua150</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4.5 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_dbbcf0577d03efb0942b240cff326d73">The University Faculty consists of the voting faculty and is the body that grants power to the University Senate to develop and enact policy. The collection primarily consists of meeting minutes, audio recordings of meetings, and election results.</abstract>
+      <langmaterial id="aspace_688db34477151640980255018dc5688f">English</langmaterial>
+      <physloc id="aspace_a0aa8240424af1ab9eeef46c69cdb28b">The materials are located onsite in the department.</physloc>
     </did>
-    <bioghist>
+    <processinfo id="aspace_90593f7d9e0899c1b0c5fd9a961c9d86">
+      <head>Processing Information</head>
+      <p>Processed in 1989 August 28 by Geoffrey A. Huth and Geoffrey P. Williams.</p>
+    </processinfo>
+    <bioghist id="aspace_c630fa1bd6a2f692088ce0df063d26d2">
       <head>Biographical History</head>
-      <p>The earliest records of Faculty Meetings date from 1915.  No by-laws define the nature or powers of the College Faculty before 1955.  The 1955 SUNY Board of Trustees defined the college faculty as composed of the President of the State University, the executive dean and chief administrative officer of the college, and the academic staff.  The responsibilities of the Faculty was to "participate in the development of the educational program  of the college and . . . be responsible for the conduct of the college's instruction, research and service programs. [1]  Subsequent SUNY Board pronouncements widened administrative representation on the College Faculty to administrative officers. [2]  In 1967, the SUNY Board strengthened the role of the college and non-voting administrative officers and professional staff designated by the Faculty by-laws. [3]  In 1968, the Chancellor of SUNY was added to the College Faculty. [4] In 1967 the SUNY Board strengthened the role of the College Faculty when it changed the wording of the responsibilities of the Faculty to state that the college faculty "shall have the obligation to participate significantly in the initiation, development and implementation of the educational program." [5]</p>
-      <p>From 1955 on, the SUNY Board of Trustees has designated the President of SUNY, the executive Dean or in their absence the chief administrative officer as the presiding officer of the College Faculty. [6]  In 1967, the SUNY Trustees changed the designation of the presiding officer to indicate that the SUNY Chancellor or the chief administrative officer of the college would serve as the chairman of the Faculty, but provided that the selection of the presiding officer would be specified by the faculty by-laws.  The same pronouncements by the SUNY Trustees gave either the chancellor or the chief administrative office the power to call faculty meetings and set agenda, and specified that either officer would be provided an opportunity to report to the faculty. [7]</p>
-      <p>The Faculty delegated its authority, granted by the SUNY Board of Trustees to "participate" in educational program development and its responsibility for "instruction, research, and service programs" to the Graduate Faculty, the Graduate Council, the Academic Council, Student Personnel Council, and the Faculty Council. [8]  The Faculty retained the functions of ratifying actions of councils and committees, appointing committees to study specific problems, establishing requirements for degrees, establishing admissions standards, voting on the conferral of degrees, attendance and assistance at commencement, and election of officers to the SUNY Faculty Senate and the Faculty Council. [9]  In 1966, the Faculty was responsible for creating the Faculty Senate out of the formerly disparate Councils of the University. [10]  The new Faculty Senate was delegated all authority granted to the Faculty by the
-
-Board of Trustees, save the power to hold regular once a semester Faculty Meetings (formerly the faculty had met once a month during the academic year), to hold special meetings, and to establish a standing committee of the Faculty.  The Nominations and Elections Committee which oversaw the nomination and election of Faculty Senators, determined the defintion of Faculty and Voting Faculty proposals for ammendments to the by-laws and referendum. [11]  The Faculty has remained the ultimate source of Faculty and University Senate's authority.  The subsequent Faculty By-Laws specifically empower the Senate to place items on the agenda of the Faculty Meeting, to call Faculty referenda, and issue an annual report of its activities to the Faculty. [12]  The powers and responsibilities of the faculty have not undergone and substantial changes since 1969.</p>
-      <p>Notes 
-1.  Policies of the Board of Trustees, SUNY, 1955, pp. 12-13. 
-2.  Policies of the Board of Trustees, SUNY, 1959, p. 12. 
-3.  Policies of the Board of Trustees, SUNY, 1966, p. 14. 
-4.  Policies of the Board of Trustees, SUNY, 1967, p. 19. 
-5.  Ibid., p. 15. 
-6.  Policies of the Board of Trustees, SUNY, 1955, p. 13. 
-7.  Policies of the Board of Trustees, SUNY 1967, p. 14-15. 
-8.  Faculty Handbook, 1962, p. 21. 
-9.  Faculty Handbook, 1962, p. 21. 
-10. Faculty Handbook, 1966-67, p. 7.1, section 3.2. 
-11. Ibid., p. 7.2-7.3, sections 5-6. 
-12. Faculty Handbook, 1968-69, p. 11, section 1.2, 1.5, 1.6.</p>
+      <p>The earliest records of Faculty Meetings date from 1915. No by-laws define the nature or powers of the College Faculty before 1955. The 1955 SUNY Board of Trustees defined the college faculty as composed of the President of the State University, the executive dean and chief administrative officer of the college, and the academic staff. The responsibilities of the Faculty was to "participate in the development of the educational program of the college and . . . be responsible for the conduct of the college's instruction, research and service programs. [1] Subsequent SUNY Board pronouncements widened administrative representation on the College Faculty to administrative officers. [2] In 1967, the SUNY Board strengthened the role of the college and non-voting administrative officers and professional staff designated by the Faculty by-laws. [3] In 1968, the Chancellor of SUNY was added to the College Faculty. [4] In 1967 the SUNY Board strengthened the role of the College Faculty when it changed the wording of the responsibilities of the Faculty to state that the college faculty "shall have the obligation to participate significantly in the initiation, development and implementation of the educational program." [5]</p>
+      <p> From 1955 on, the SUNY Board of Trustees has designated the President of SUNY, the executive Dean or in their absence the chief administrative officer as the presiding officer of the College Faculty. [6] In 1967, the SUNY Trustees changed the designation of the presiding officer to indicate that the SUNY Chancellor or the chief administrative officer of the college would serve as the chairman of the Faculty, but provided that the selection of the presiding officer would be specified by the faculty by-laws. The same pronouncements by the SUNY Trustees gave either the chancellor or the chief administrative office the power to call faculty meetings and set agenda, and specified that either officer would be provided an opportunity to report to the faculty. [7]</p>
+      <p> The Faculty delegated its authority, granted by the SUNY Board of Trustees to "participate" in educational program development and its responsibility for "instruction, research, and service programs" to the Graduate Faculty, the Graduate Council, the Academic Council, Student Personnel Council, and the Faculty Council. [8] The Faculty retained the functions of ratifying actions of councils and committees, appointing committees to study specific problems, establishing requirements for degrees, establishing admissions standards, voting on the conferral of degrees, attendance and assistance at commencement, and election of officers to the SUNY Faculty Senate and the Faculty Council. [9] In 1966, the Faculty was responsible for creating the Faculty Senate out of the formerly disparate Councils of the University. [10] The new Faculty Senate was delegated all authority granted to the Faculty by the Board of Trustees, save the power to hold regular once a semester Faculty Meetings (formerly the faculty had met once a month during the academic year), to hold special meetings, and to establish a standing committee of the Faculty. The Nominations and Elections Committee which oversaw the nomination and election of Faculty Senators, determined the defintion of Faculty and Voting Faculty proposals for ammendments to the by-laws and referendum. [11] The Faculty has remained the ultimate source of Faculty and University Senate's authority. The subsequent Faculty By-Laws specifically empower the Senate to place items on the agenda of the Faculty Meeting, to call Faculty referenda, and issue an annual report of its activities to the Faculty. [12] The powers and responsibilities of the faculty have not undergone and substantial changes since 1969.</p>
+      <p> Notes 1. Policies of the Board of Trustees, SUNY, 1955, pp. 12-13. 2. Policies of the Board of Trustees, SUNY, 1959, p. 12. 3. Policies of the Board of Trustees, SUNY, 1966, p. 14. 4. Policies of the Board of Trustees, SUNY, 1967, p. 19. 5. Ibid., p. 15. 6. Policies of the Board of Trustees, SUNY, 1955, p. 13. 7. Policies of the Board of Trustees, SUNY 1967, p. 14-15. 8. Faculty Handbook, 1962, p. 21. 9. Faculty Handbook, 1962, p. 21. 10. Faculty Handbook, 1966-67, p. 7.1, section 3.2. 11. Ibid., p. 7.2-7.3, sections 5-6. 12. Faculty Handbook, 1968-69, p. 11, section 1.2, 1.5, 1.6.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The University Faculty consists of the voting faculty and is the body that grants power to the University Senate to develop and enact policy.  On some overarching policy matters (such as amendments to the by-laws), decisions are voted on by the University Faculty.</p>
-      <p>Since the University Faculty has delegated most of its powers, the records it has created are not extensive.  All that were created are minutes (and agendas for the later years).  The minutes of the meetings contain synopses of reports presented by councils and committees of the University Senate and by the President of the University.  Minutes from 1915 to 1937 are bound with the Minutes of the Faculty Council (200/01/01), which are a part of the records of the University Senate. Also included in the University Faculty records are the records of the Committee on Nominations and Elections. This committee is responsible for the elections of the senators to the University Senate.</p>
-      <p>Note: Minutes, 1915-1937 are interfiled with University Senate Minutes (200/01/01)</p>
+    <scopecontent id="aspace_9e7b93cb65011c32aab64b92b6bdbb30">
+      <head>Scope and Contents</head>
+      <p>The University Faculty consists of the voting faculty and is the body that grants power to the University Senate to develop and enact policy. On some overarching policy matters (such as amendments to the by-laws), decisions are voted on by the University Faculty.</p>
+      <p> Since the University Faculty has delegated most of its powers, the records it has created are not extensive. All that were created are minutes (and agendas for the later years). The minutes of the meetings contain synopses of reports presented by councils and committees of the University Senate and by the President of the University. Minutes from 1915 to 1937 are bound with the Minutes of the Faculty Council (200/01/01), which are a part of the records of the University Senate. Also included in the University Faculty records are the records of the Committee on Nominations and Elections. This committee is responsible for the elections of the senators to the University Senate.</p>
+      <p> Note: Minutes, 1915-1937 are interfiled with University Senate Minutes (200/01/01)</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_cc5226b6b655ad2b3206eb681e4a31c5">
       <head>Arrangement of the Collection</head>
       <p>The collection has no series, arranged chronologically.</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_7fdb645f59aa2677293f66d3710df1fb">
       <head>Acquisition Information</head>
       <p>These records were transferred to the M.E. Grenander Department of Special Collections &amp; Archives, University Libraries, University at Albany, by the University Faculty.</p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_62a159bb2f4b83cdb3fbafe8352e9903">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_5cc97763577956dbb2b14d6296919ca2">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites. </p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
-      <p>The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future. </p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
+      <p> The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_b6398d90cb52356e091c30e0a8b7f59e">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, University Faculty,  1915-1999. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the  University Faculty).</p>
+      <p> Identification of specific item, series, box, folder, University Faculty, 1915-1999. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the University Faculty).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <corpname encodinganalog="611" source="lcsh">State University of New York. University Faculty Senate</corpname>
-      <subject encodinganalog="650" source="lcsh">State University of New York -- Faculty</subject>
-      <genreform encodinganalog="655" source="aat">elections</genreform>
-      <genreform encodinganalog="655" source="aat">minutes (administrative records) </genreform>
-      <genreform encodinganalog="655" source="aat">audiocassettes</genreform>
+      <subject source="lcsh">State University of New York -- Faculty</subject>
+      <genreform source="aat">elections</genreform>
+      <genreform source="aat">Minutes (administrative records)</genreform>
+      <genreform source="aat">Audiocassettes</genreform>
+      <corpname source="lcsh">State University of New York. University Faculty Senate</corpname>
     </controlaccess>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_ua150-1" level="series">
+    <dsc>
+      <c01 id="aspace_38ddafd8e73ccb8d8b32ea367c753a5a" level="series">
         <did>
+          <unittitle>University Faculty, Records</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">University Faculty, Records</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1949/1991">1949-1991</unitdate>
+          <unitdate normal="1949/1991" type="inclusive">1949-1991</unitdate>
         </did>
-        <c02 id="nam_ua150-1_1">
+        <c02 id="aspace_3ccc16d5e9696e1ad5f5ddbc35d1c0f0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Minutes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1949/1952">1949-1952</unitdate>
+            <unitdate normal="1949/1952" type="inclusive">1949-1952</unitdate>
+            <container id="aspace_52debc1cf91f7a50d54b710fbb0ada01" label="Mixed Materials" type="Box">1 (1-University Faculty, Records)</container>
+            <container id="aspace_171baa3f7d3448962f1c95a2e81dafa1" parent="aspace_52debc1cf91f7a50d54b710fbb0ada01" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-1_2">
+        <c02 id="aspace_0980d7348c62ad4c6a2be3f0506834b2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Minutes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1953/1956">1953-1956</unitdate>
+            <unitdate normal="1953/1956" type="inclusive">1953-1956</unitdate>
+            <container id="aspace_37caf7d6c2e0661e2f384846e2aacf64" label="Mixed Materials" type="Box">1 (1-University Faculty, Records)</container>
+            <container id="aspace_5f9af89872588803d71fd063c19cc8a0" parent="aspace_37caf7d6c2e0661e2f384846e2aacf64" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-1_3">
+        <c02 id="aspace_f0482e05f59684f6f98eccff102c5be1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Minutes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1957/1961">1957-1961</unitdate>
+            <unitdate normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_fd8d7ef42a60c4119875780a1923091c" label="Mixed Materials" type="Box">1 (1-University Faculty, Records)</container>
+            <container id="aspace_5b13953eb6f90fcfbb08db185fff9c2e" parent="aspace_fd8d7ef42a60c4119875780a1923091c" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-1_4">
+        <c02 id="aspace_939f0dfbf030a00a7b08ae2c0676df1a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Minutes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1962/1969">1962-1969</unitdate>
+            <unitdate normal="1962/1969" type="inclusive">1962-1969</unitdate>
+            <container id="aspace_6e6a98c3c7d139fc36e25bac09c76ad7" label="Mixed Materials" type="Box">1 (1-University Faculty, Records)</container>
+            <container id="aspace_351753645487e8ee9066bcd76bf7bee3" parent="aspace_6e6a98c3c7d139fc36e25bac09c76ad7" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-1_5">
+        <c02 id="aspace_d00e4842163968171924863038690688" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Minutes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_712acf9282a22856b25bd33acd07e2d5" label="Mixed Materials" type="Box">1 (1-University Faculty, Records)</container>
+            <container id="aspace_ea1de032a638602de60c225454bdf28e" parent="aspace_712acf9282a22856b25bd33acd07e2d5" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-1_6">
+        <c02 id="aspace_d422d7b51064759450597255c8b68f29" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Minutes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1971/1974">1971-1974</unitdate>
+            <unitdate normal="1971/1974" type="inclusive">1971-1974</unitdate>
+            <container id="aspace_a3f4423d377d8b370dd8a6a319faece8" label="Mixed Materials" type="Box">1 (1-University Faculty, Records)</container>
+            <container id="aspace_4087afcc3fb5ec48d8392da8eb2e7b16" parent="aspace_a3f4423d377d8b370dd8a6a319faece8" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-1_7">
+        <c02 id="aspace_0dfc7e53f3fe608bbf5410afb592a4f1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Minutes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1975/1980">1975-1980</unitdate>
+            <unitdate normal="1975/1980" type="inclusive">1975-1980</unitdate>
+            <container id="aspace_9f6fa878fc8fce13a81efabdf97e0b5c" label="Mixed Materials" type="Box">1 (1-University Faculty, Records)</container>
+            <container id="aspace_dabb788b9639184d60b85a46ffa0b6e0" parent="aspace_9f6fa878fc8fce13a81efabdf97e0b5c" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-1_8">
+        <c02 id="aspace_9fde1f2ab16195abcfd9765a4bb2ad5b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Minutes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1981/1988">1981-1988</unitdate>
+            <unitdate normal="1981/1988" type="inclusive">1981-1988</unitdate>
+            <container id="aspace_069892419ce3fb9b54379040f7ee6237" label="Mixed Materials" type="Box">1 (1-University Faculty, Records)</container>
+            <container id="aspace_b8fc8c2c60b38e2c00783ebe1551f795" parent="aspace_069892419ce3fb9b54379040f7ee6237" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-1_9">
+        <c02 id="aspace_ab80d0d5bba82d453fff89c31e8ec556" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
-            <unittitle>Audio Cassette of Faculty Meeting </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1986-09-12">1986 September 9</unitdate>
+            <unittitle>Audio Cassette of Faculty Meeting</unittitle>
+            <unitdate normal="1986-09-12/1986-09-12" type="inclusive">1986 September 9</unitdate>
+            <container id="aspace_45fb6131637b37176fcb79ef2908d942" label="Mixed Materials" type="Box">2 (1-University Faculty, Records)</container>
+            <container id="aspace_198c74a1944ed0aa85212d32ed0824c9" parent="aspace_45fb6131637b37176fcb79ef2908d942" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-1_10">
+        <c02 id="aspace_d7be3e8a0061cadd5f531a5168c3585a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
-            <unittitle>Audio Cassette of Faculty Meeting </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1987-09-16">1987 September 16</unitdate>
+            <unittitle>Audio Cassette of Faculty Meeting</unittitle>
+            <unitdate normal="1987-09-16/1987-09-16" type="inclusive">1987 September 16</unitdate>
+            <container id="aspace_d05bf529d065204de8bb098d3305dd6f" label="Mixed Materials" type="Box">2 (1-University Faculty, Records)</container>
+            <container id="aspace_b93b06812df7cbe430d644d450c4d378" parent="aspace_d05bf529d065204de8bb098d3305dd6f" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-1_11">
+        <c02 id="aspace_9dc64dc68e7830994d455f0a7c3436b3" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
-            <unittitle>Audio Cassette of Faculty Meeting </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1988-05-06">1988 May 6</unitdate>
+            <unittitle>Audio Cassette of Faculty Meeting</unittitle>
+            <unitdate normal="1988-05-06/1988-05-06" type="inclusive">1988 May 6</unitdate>
+            <container id="aspace_1d2803238b85430d02dc0b9259a80b15" label="Mixed Materials" type="Box">2 (1-University Faculty, Records)</container>
+            <container id="aspace_6c535bc160fba41f29c096b3b1299a53" parent="aspace_1d2803238b85430d02dc0b9259a80b15" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-1_12">
+        <c02 id="aspace_506bcf327c75989de6bf10baa103e562" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
-            <unittitle>Audio Cassette of Faculty Meeting </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1989-05-10">1989 May 10</unitdate>
+            <unittitle>Audio Cassette of Faculty Meeting</unittitle>
+            <unitdate normal="1989-05-10/1989-05-10" type="inclusive">1989 May 10</unitdate>
+            <container id="aspace_51016a8c980ce34a1d0ee46ff7db1848" label="Mixed Materials" type="Box">2 (1-University Faculty, Records)</container>
+            <container id="aspace_cf24e9a1056428f5466e2bc05af94d26" parent="aspace_51016a8c980ce34a1d0ee46ff7db1848" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-1_13">
+        <c02 id="aspace_658b2ccf097ed9103a9767fc60aea095" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
-            <unittitle>Audio Cassette of Faculty Meeting </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1989-09-14">1989 September 14</unitdate>
+            <unittitle>Audio Cassette of Faculty Meeting</unittitle>
+            <unitdate normal="1989-09-14/1989-09-14" type="inclusive">1989 September 14</unitdate>
+            <container id="aspace_699ffbb1c9b3a0f338180695dcd7c56c" label="Mixed Materials" type="Box">2 (1-University Faculty, Records)</container>
+            <container id="aspace_4771c90394e5acf7dd75a48bcc1da2e7" parent="aspace_699ffbb1c9b3a0f338180695dcd7c56c" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-1_14">
+        <c02 id="aspace_556b9da410129261c08b44ab1161e55b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
-            <unittitle>Audio Cassette of Faculty Meeting </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1990-05-09">1990 May 9</unitdate>
+            <unittitle>Audio Cassette of Faculty Meeting</unittitle>
+            <unitdate normal="1990-05-09/1990-05-09" type="inclusive">1990 May 9</unitdate>
+            <container id="aspace_4ad57080860ca88696a03eb57368ed53" label="Mixed Materials" type="Box">2 (1-University Faculty, Records)</container>
+            <container id="aspace_348e2e0e7ffbd963d01252bc4cfb1dda" parent="aspace_4ad57080860ca88696a03eb57368ed53" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-1_15">
+        <c02 id="aspace_858ac70c492edf674074ada60d2ad2ca" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
-            <unittitle>Audio Cassette of Faculty Meeting  (2 tapes)</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1991-05-08">1991 May 08</unitdate>
+            <unittitle>Audio Cassette of Faculty Meeting (2 tapes)</unittitle>
+            <unitdate normal="1991-05-08/1991-05-08" type="inclusive">1991 May 08</unitdate>
+            <container id="aspace_87c11612e18ac0529741c54b22d4cecf" label="Mixed Materials" type="Box">2 (1-University Faculty, Records)</container>
+            <container id="aspace_9480939d0dca62daacbbbf21ceadc288" parent="aspace_87c11612e18ac0529741c54b22d4cecf" type="Folder">7</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_ua150-2" level="series">
+      <c01 id="aspace_d39c227d9751aeae5b73ecec0392db1e" level="series">
         <did>
+          <unittitle>Committee on Nominations and Elections</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Committee on Nominations and Elections</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1966/1999">1966-1999</unitdate>
+          <unitdate normal="1966/1999" type="inclusive">1966-1999</unitdate>
         </did>
-        <c02 id="nam_ua150-2_1">
+        <c02 id="aspace_b067522a33f5c3764214aa54d61304c7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Committee on Nominations and Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/1967 ">1966-1967 </unitdate>
+            <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
+            <container id="aspace_415d8a6c6384b97b84c70241f6f78b72" label="Mixed Materials" type="Box">1 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_4244e521d049dc9bb0fdc69359de4e58" parent="aspace_415d8a6c6384b97b84c70241f6f78b72" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_2">
+        <c02 id="aspace_5a02112a2a1c8e352a2bfbeaa13ae470" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Committee on Nominations and Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1969/1970 ">1969-1970 </unitdate>
+            <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
+            <container id="aspace_0be63a286de9306ebfb8fafc1069f03f" label="Mixed Materials" type="Box">1 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_6bbab49a903bf4c844470d6d313ebccd" parent="aspace_0be63a286de9306ebfb8fafc1069f03f" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_3">
+        <c02 id="aspace_185215afba568fba0f03251bdd0ae860" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Committee on Nominations and Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1970/1971 ">1970-1971 </unitdate>
+            <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
+            <container id="aspace_351595453c7e1e60046fddbdedae3f21" label="Mixed Materials" type="Box">1 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_32c58fba2b29bbb4d1b5bc479ab6ed7d" parent="aspace_351595453c7e1e60046fddbdedae3f21" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_4">
+        <c02 id="aspace_678e2678f9a5e35b342fb20c76460b1d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Committee on Nominations and Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1972/1976 ">1972-1976 </unitdate>
+            <unitdate normal="1972/1976" type="inclusive">1972-1976</unitdate>
+            <container id="aspace_1dcda2e417aa88422e14c94a81a69e3f" label="Mixed Materials" type="Box">1 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_337fa5cc6093e27bfd9742fb4b540acc" parent="aspace_1dcda2e417aa88422e14c94a81a69e3f" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_5">
+        <c02 id="aspace_60f8a367cb2a8a1b9b167d95cfe101c0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Committee on Nominations and Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1976/1979 ">1976-1979 </unitdate>
+            <unitdate normal="1976/1979" type="inclusive">1976-1979</unitdate>
+            <container id="aspace_218fee5abe77a210df8dc9334967df63" label="Mixed Materials" type="Box">1 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_79418b2fb7dd51eb70da9956a69592c6" parent="aspace_218fee5abe77a210df8dc9334967df63" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_6">
+        <c02 id="aspace_ea7a924ca2dba09cec0be6e1c36b00be" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Committee on Nominations and Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1979/1981 ">1979-1981 </unitdate>
+            <unitdate normal="1979/1981" type="inclusive">1979-1981</unitdate>
+            <container id="aspace_e1e0220d807b1ef99408b8edeeb01d4b" label="Mixed Materials" type="Box">1 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_997a67e5dbaf13be5279f868ef4a50b7" parent="aspace_e1e0220d807b1ef99408b8edeeb01d4b" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_7">
+        <c02 id="aspace_b173c37d03c6b0bc46d3cbc68cb33479" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Committee on Nominations and Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1981/1983 ">1981-1983 </unitdate>
+            <unitdate normal="1981/1983" type="inclusive">1981-1983</unitdate>
+            <container id="aspace_11a907e824aa1ab3fb55de98884d1f0a" label="Mixed Materials" type="Box">1 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_dd8a59a60fe77d6c971e3161df65f443" parent="aspace_11a907e824aa1ab3fb55de98884d1f0a" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_8">
+        <c02 id="aspace_e19aa87efe8a67b0205b750c1c89dcc5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Committee on Nominations and Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1983/1984 ">1983-1984 </unitdate>
+            <unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate>
+            <container id="aspace_5bafb7a6d34fec1170446ccb13a15d70" label="Mixed Materials" type="Box">1 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_18a29cebbe4a34a7c4aac7bbdc1d7b28" parent="aspace_5bafb7a6d34fec1170446ccb13a15d70" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_9">
+        <c02 id="aspace_bf8896ae43d0f46d1b2ec784e0d3d04d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Committee on Nominations and Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1984/1985 ">1984-1985 </unitdate>
+            <unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate>
+            <container id="aspace_713ba2eb70e726d7648024869f8c9031" label="Mixed Materials" type="Box">1 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_7a5fa5640bb0154630acd3468581d066" parent="aspace_713ba2eb70e726d7648024869f8c9031" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_10">
+        <c02 id="aspace_0a83b342e853934b8c629e5dc08a222e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Committee on Nominations and Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1985-1986 ">1985-1986 </unitdate>
+            <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
+            <container id="aspace_6954859c560d34ab835c86315f401476" label="Mixed Materials" type="Box">1 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_70a12f954521f1a9224e9c497ac7efaa" parent="aspace_6954859c560d34ab835c86315f401476" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_11">
+        <c02 id="aspace_313bafdfb882415751b563bb3b10670b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Committee on Nominations and Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1986-1987 ">1986-1987 </unitdate>
+            <unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate>
+            <container id="aspace_9520977689782a507c6f20b6449ba960" label="Mixed Materials" type="Box">1 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_013ca24ad11e0dd57df64d26dd8ed1d6" parent="aspace_9520977689782a507c6f20b6449ba960" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_12">
+        <c02 id="aspace_dd416a438035a8a3fc40e3c1169cb829" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Committee on Nominations and Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1987-1988 ">1987-1988 </unitdate>
+            <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <container id="aspace_4544d3e45aca657b471862804f49b49f" label="Mixed Materials" type="Box">1 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_4696a0856b0436730689387ee9169206" parent="aspace_4544d3e45aca657b471862804f49b49f" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_13">
+        <c02 id="aspace_f073b22b3fa88e188d7dcabb3eed22cb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Committee on Nominations and Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1988-1991 ">1988-1991 </unitdate>
+            <unitdate normal="1988/1991" type="inclusive">1988-1991</unitdate>
+            <container id="aspace_17089d4346bc25e817aa1503cdcbba15" label="Mixed Materials" type="Box">1 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_4965de1116c76e7f8e834db0f8349917" parent="aspace_17089d4346bc25e817aa1503cdcbba15" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_14">
+        <c02 id="aspace_d31792af81a0139f09a6fa01286a3f52" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Committee on Nominations and Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1991-1992 ">1991-1992 </unitdate>
+            <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
+            <container id="aspace_a3583a03179bc966aa51094bd57233d0" label="Mixed Materials" type="Box">1 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_ab42d282b95f8ce40497e548672b201c" parent="aspace_a3583a03179bc966aa51094bd57233d0" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_15">
+        <c02 id="aspace_d2194ec29195e24e723c5e3c0a0c43d7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Committee on Nominations and Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1992-1993 ">1992-1993 </unitdate>
+            <unitdate normal="1992/1993" type="inclusive">1992-1993</unitdate>
+            <container id="aspace_e7087ae3c3756201c24e2a812f5783e4" label="Mixed Materials" type="Box">1 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_34ff55fae1a2d652d6e594b8c76fe98b" parent="aspace_e7087ae3c3756201c24e2a812f5783e4" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_16">
+        <c02 id="aspace_9c17372a7d830eb7c236958122acd987" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Committee on Nominations and Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1993-1994 ">1993-1994 </unitdate>
+            <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_a488c97fb7ba2d12805843942c922321" label="Mixed Materials" type="Box">1 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_2a9a7bbf11c643ae3681fe479646b0c7" parent="aspace_a488c97fb7ba2d12805843942c922321" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_17">
+        <c02 id="aspace_e1200de9d9ca54bbf8720165b753aebe" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>Committee on Nominations and Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1994-1995 ">1994-1995 </unitdate>
+            <unitdate normal="1994/1995" type="inclusive">1994-1995</unitdate>
+            <container id="aspace_25590ab650d524a42097c381c53c453b" label="Mixed Materials" type="Box">1 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_6a323065913022e055a9305688996a92" parent="aspace_25590ab650d524a42097c381c53c453b" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_18">
+        <c02 id="aspace_10b9317201f1c1d0398c76b2be7291d4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>Committee on Nominations and Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1995-1996 ">1995-1996 </unitdate>
+            <unitdate normal="1995/1996" type="inclusive">1995-1996</unitdate>
+            <container id="aspace_770d0fb2d24e86ef7c85d92c3922c6a6" label="Mixed Materials" type="Box">1 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_66b5ead1e6eb376ee09f47065e7c90a4" parent="aspace_770d0fb2d24e86ef7c85d92c3922c6a6" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_19">
+        <c02 id="aspace_3ea2cb9e8d4f98f8214945e9604b7676" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>Committee on Nominations and Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1996-1997 ">1996-1997 </unitdate>
+            <unitdate normal="1996/1997" type="inclusive">1996-1997</unitdate>
+            <container id="aspace_9fafc3e27af16bc7d8c87bde0c832c93" label="Mixed Materials" type="Box">1 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_b7425c1453a4d98b209c8cf8a05a3934" parent="aspace_9fafc3e27af16bc7d8c87bde0c832c93" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_20">
+        <c02 id="aspace_8e41164974f5743f3dc0f502f02b3860" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>Committee on Nominations and Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1997-1998 ">1997-1998 </unitdate>
+            <unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate>
+            <container id="aspace_40e36ca8eb9d757e932555683bb4eef5" label="Mixed Materials" type="Box">1 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_a12668b9b50d85dece16840f8d0e3298" parent="aspace_40e36ca8eb9d757e932555683bb4eef5" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_21">
+        <c02 id="aspace_edf9e618a676ec5510cff988114ded1d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>Committee on Nominations and Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1998-1999">1998-1999</unitdate>
+            <unitdate normal="1998/1999" type="inclusive">1998-1999</unitdate>
+            <container id="aspace_4700df7f854bfc6ebdbbaeeb35f69164" label="Mixed Materials" type="Box">1 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_6ca935514b5cac86f4c04a4625e8d464" parent="aspace_4700df7f854bfc6ebdbbaeeb35f69164" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_22">
+        <c02 id="aspace_13470ef17560df99f4b8145aa6bd5768" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/1967 ">1966-67 </unitdate>
+            <unitdate normal="1966/1967" type="inclusive">1966-67</unitdate>
+            <container id="aspace_7b4c332c5d75e6f431cbb098332d0737" label="Mixed Materials" type="Box">2 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_0a34deb52bec0bbd9e11a74df083bfba" parent="aspace_7b4c332c5d75e6f431cbb098332d0737" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_23">
+        <c02 id="aspace_4e5843bef8fd96d985a47984c604d557" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1967/1968 ">1967-68 </unitdate>
+            <unitdate normal="1967/1968" type="inclusive">1967-68</unitdate>
+            <container id="aspace_41b5efc93bf60065d4ae7d3458eee13f" label="Mixed Materials" type="Box">2 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_971e512d6fb3af29d10c1b101ae00070" parent="aspace_41b5efc93bf60065d4ae7d3458eee13f" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_24">
+        <c02 id="aspace_2a8073990c64b0134edc9ff60e9c1265" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1968/1969 ">1968-69 </unitdate>
+            <unitdate normal="1968/1969" type="inclusive">1968-69</unitdate>
+            <container id="aspace_9fbff48fce90fed3e62c48f8d4ccd1b4" label="Mixed Materials" type="Box">2 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_db1b22961e435c05d06107879938cb31" parent="aspace_9fbff48fce90fed3e62c48f8d4ccd1b4" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_25">
+        <c02 id="aspace_e1c312a66a8b97f672fc10b05ddad0c3" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1969/1970 ">1969-70 </unitdate>
+            <unitdate normal="1969/1970" type="inclusive">1969-70</unitdate>
+            <container id="aspace_1f7609c60d7f73458eef917b1f7f8201" label="Mixed Materials" type="Box">2 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_7abb20a3a45c598132a3e3801cd0fcbf" parent="aspace_1f7609c60d7f73458eef917b1f7f8201" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_26">
+        <c02 id="aspace_0a647647b3bffe74f6e5e3bd0cf4575e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1970/1971 ">1970-71 </unitdate>
+            <unitdate normal="1970/1971" type="inclusive">1970-71</unitdate>
+            <container id="aspace_5bcba49d5b3cd3a3f0e460863b405bde" label="Mixed Materials" type="Box">2 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_16977881102f7184a8b7e6eaa530e913" parent="aspace_5bcba49d5b3cd3a3f0e460863b405bde" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_27">
+        <c02 id="aspace_ed1abcb83f39cc7888fbf28a4a50d1df" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1971/1972 ">1971-72 </unitdate>
+            <unitdate normal="1971/1972" type="inclusive">1971-72</unitdate>
+            <container id="aspace_6a5ae930a73d00fbeac81a9be2221ac1" label="Mixed Materials" type="Box">2 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_ce201f0e025e48727cf237621b736d33" parent="aspace_6a5ae930a73d00fbeac81a9be2221ac1" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_28">
+        <c02 id="aspace_2ee687617387a87e7a67a0674ac02132" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1972/1973 ">1972-73 </unitdate>
+            <unitdate normal="1972/1973" type="inclusive">1972-73</unitdate>
+            <container id="aspace_d6402acc5aee3897b0a6001357b09679" label="Mixed Materials" type="Box">2 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_dfab88a9ab4663c3aa1ca8cb7dcb7201" parent="aspace_d6402acc5aee3897b0a6001357b09679" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_29">
+        <c02 id="aspace_0c335f7c18534477ee697051b3072ff7" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1973/1974">1973-74</unitdate>
+            <unitdate normal="1973/1974" type="inclusive">1973-74</unitdate>
+            <container id="aspace_10ad9d8b9afbe669b86ebc30965d552b" label="Mixed Materials" type="Box">2 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_4ac7c58443eebe5114eb8ee397245438" parent="aspace_10ad9d8b9afbe669b86ebc30965d552b" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_30">
+        <c02 id="aspace_a5993ddaffc5f2d390c624493a0b5e75" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1974/1975 ">1974-75 </unitdate>
+            <unitdate normal="1974/1975" type="inclusive">1974-75</unitdate>
+            <container id="aspace_c0c15a165ff63726064f045f9914be9f" label="Mixed Materials" type="Box">2 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_9fcff7d81214d1504018c62ae49a3244" parent="aspace_c0c15a165ff63726064f045f9914be9f" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_31">
+        <c02 id="aspace_64ed0be53c0cdb0f6830b1cb155831a5" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1975/1976 ">1975-76 </unitdate>
+            <unitdate normal="1975/1976" type="inclusive">1975-76</unitdate>
+            <container id="aspace_7f5fd72dda4be24fc08742285b8b1637" label="Mixed Materials" type="Box">2 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_06bc8b03d2548f57aff17f0f166d9917" parent="aspace_7f5fd72dda4be24fc08742285b8b1637" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_32">
+        <c02 id="aspace_f7531c24ce929f98a0acebf707b5ba43" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">11</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1976/1977 ">1976-77 </unitdate>
+            <unitdate normal="1976/1977" type="inclusive">1976-77</unitdate>
+            <container id="aspace_43049771f8c3f223a8f20a41723cd058" label="Mixed Materials" type="Box">2 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_c98093fbdc6c29334e1ae301b4616a3c" parent="aspace_43049771f8c3f223a8f20a41723cd058" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_33">
+        <c02 id="aspace_73a27d62728f42c5e2b1793a1d226a3f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">12</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1977/1978 ">1977-1978 </unitdate>
+            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container id="aspace_697dc6ef7c9d46032b2143e320802f99" label="Mixed Materials" type="Box">2 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_fd96bec61ce0b8c63fe5dfef75ebff3a" parent="aspace_697dc6ef7c9d46032b2143e320802f99" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_34">
+        <c02 id="aspace_198c065520831ce14aad438bc5fb7141" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">13</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1978/1979 ">1978-1979 </unitdate>
+            <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container id="aspace_5e395cbc198833e3ca1a8b27353c2f67" label="Mixed Materials" type="Box">2 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_6504b5075e3bcec02c5fd69497dd0c7d" parent="aspace_5e395cbc198833e3ca1a8b27353c2f67" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_35">
+        <c02 id="aspace_306e91dbc757858c5fe3591875de550a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">14</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1979/1980">1979-1980 </unitdate>
+            <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
+            <container id="aspace_8421f85dabb30331ccf269dd99f0472c" label="Mixed Materials" type="Box">2 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_980cbbafaf314b2ef2c18c2ca9157a2d" parent="aspace_8421f85dabb30331ccf269dd99f0472c" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_36">
+        <c02 id="aspace_b6ea5cf462413a1d179f778be1d57ec0" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">15</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1980/1981">1980-1981 </unitdate>
+            <unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate>
+            <container id="aspace_2f919513d55327c4b53369a4b39a2a74" label="Mixed Materials" type="Box">2 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_b3d0056880ad4f0eab1b1e41c729722e" parent="aspace_2f919513d55327c4b53369a4b39a2a74" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_37">
+        <c02 id="aspace_37547c925d78b96549ba88f2cd39c258" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">16</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1981/1982">1981-1982 </unitdate>
+            <unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate>
+            <container id="aspace_e3dd69dfae048814e01579495e86d4e5" label="Mixed Materials" type="Box">2 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_3f66121b8fffe5a1c4df0e502cf0b187" parent="aspace_e3dd69dfae048814e01579495e86d4e5" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_38">
+        <c02 id="aspace_7b7ba575ba463847febf46f9e3b36aaf" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">17</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1982/1983">1982-1983</unitdate>
+            <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate>
+            <container id="aspace_1a4d5b73585e30b86acf9b694c7090af" label="Mixed Materials" type="Box">2 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_05d11d055b7848c5b64c8418f1888ab1" parent="aspace_1a4d5b73585e30b86acf9b694c7090af" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_39">
+        <c02 id="aspace_d51b3165089f8a9583de8cb4f405b007" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1983/1984 ">1983-1984 </unitdate>
+            <unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate>
+            <container id="aspace_02d5f9195fa8b3d1beb835a9fbd9b5e4" label="Mixed Materials" type="Box">3 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_1dfed741392b989d1a62aea565026c7a" parent="aspace_02d5f9195fa8b3d1beb835a9fbd9b5e4" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_40">
+        <c02 id="aspace_d757fece8ce64f60c8cc6e935041b968" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">2</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1984/1985 ">1984-1985 </unitdate>
+            <unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate>
+            <container id="aspace_954d808cc9fd63c52224905870dc05c3" label="Mixed Materials" type="Box">4 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_099114d8f3143452df04dd26ce9c6399" parent="aspace_954d808cc9fd63c52224905870dc05c3" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_41">
+        <c02 id="aspace_c17ce43e11b2574bc7532036cfc2a43f" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">3</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1985/1986 ">1985-1986 </unitdate>
+            <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
+            <container id="aspace_a44858a7a97333ea6b54bec70a4716f2" label="Mixed Materials" type="Box">5 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_e4ab5705679e0751eb320e70ea82621e" parent="aspace_a44858a7a97333ea6b54bec70a4716f2" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_42">
+        <c02 id="aspace_1b1d1a6c57bf3518a13e59c64190eb03" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">4</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1986/1987 ">1986-1987 </unitdate>
+            <unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate>
+            <container id="aspace_98c3a961a7e02e3fe3907f68d029b260" label="Mixed Materials" type="Box">6 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_1be9f7c54174665cd28ba3b203fc9e55" parent="aspace_98c3a961a7e02e3fe3907f68d029b260" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_43">
+        <c02 id="aspace_d71857014b3f9ea9a4273a2473b195ed" level="file">
           <did>
-            <container type="Box">7</container>
-            <container type="Folder">5</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1987/1988 ">1987-1988 </unitdate>
+            <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <container id="aspace_e45cfe7f5ee327b5232f1c1f8fa6a3b4" label="Mixed Materials" type="Box">7 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_41fcc5b6501a8aca8253c0530592a36a" parent="aspace_e45cfe7f5ee327b5232f1c1f8fa6a3b4" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_44">
+        <c02 id="aspace_d3804495f2b00d7cf2ca116838b19966" level="file">
           <did>
-            <container type="Box">8</container>
-            <container type="Folder">6</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1988/1989 ">1988-1989 </unitdate>
+            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container id="aspace_4009020543f6ea79038cd2eeea05a46f" label="Mixed Materials" type="Box">8 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_a1804720038855f72434929217478015" parent="aspace_4009020543f6ea79038cd2eeea05a46f" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua150-2_45">
+        <c02 id="aspace_20cf2f7862aaf08442a76a0c4d28d3b1" level="file">
           <did>
-            <container type="Box">9</container>
-            <container type="Folder">7</container>
             <unittitle>Senate Elections</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1989/1990">1989-1990</unitdate>
+            <unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate>
+            <container id="aspace_dbdd6afcc9361ba9b133c4c51c8ce111" label="Mixed Materials" type="Box">9 (2-Committee on Nominations and Elections)</container>
+            <container id="aspace_85d4474ba12e031122fedf4781f757ae" parent="aspace_dbdd6afcc9361ba9b133c4c51c8ce111" type="Folder">7</container>
           </did>
         </c02>
       </c01>

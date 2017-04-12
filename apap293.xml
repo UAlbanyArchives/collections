@@ -1,889 +1,886 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap293">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/apap293.html">nam_apap293</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap293">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap293.xml">apap293</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>HINSDILL PARSONS PAPERS  (APAP293)<date normal="1890/1912" type="inclusive">1890-1912</date></titleproper>
+        <titleproper>Parsons, Hinsdill; Papers <num>apap293</num></titleproper>
         <author>Michelle Scott</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2009">Copyright 2009 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Encoded with EADMachine by Melissa McMullen, <date normal="2016-12">2016 December</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 15:24:28 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2016">2016</date>
+        <date>2016</date>
         <item>EAD file created</item>
+      </change>
+      <change>
+        <date>2016 December</date>
+        <item>Encoded in EAD by Encoded with EADMachine by Melissa McMullen</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap293</unitid>
-      <unittitle>Hinsdill Parsons Papers<unitdate normal="1890/1912" type="inclusive">1890-1912</unitdate></unittitle>
-      <origination>
-        <persname encodinganalog="100" source="local">Hinsdill Parsons</persname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">2</extent>
-      </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">Hinsdill Parsons, Esq. was born on February 10, 1864 in Hoosick Falls, New York, the son of J. Russell Parsons.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage: ">The materials are located on site in the department.</physloc>
+      <unittitle>Hinsdill Parsons Papers<unitdate normal="1890/1912" type="inclusive">1890-1912</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="local">Hinsdill Parsons</persname>
+      </origination>
+      <unitid>apap293</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_f47738839be41f93aaf300215b4b452b">Hinsdill Parsons, Esq. was born on February 10, 1864 in Hoosick Falls, New York, the son of J. Russell Parsons.</abstract>
+      <langmaterial id="aspace_096d34ffb82b54ca1fe20cdd81fd5914">English</langmaterial>
+      <physloc id="aspace_46b360276fb5f704f24b215905f20285">The materials are located on site in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_265ddf3e99bbeac72e9ed8a59e7fc6c1">
+      <head>Processing Information</head>
+      <p>Processed in 2009 by Michelle Scott.</p>
+    </processinfo>
+    <accessrestrict id="aspace_ba59c0764010710230e76edef2a03d1f">
       <head>Access</head>
       <p>Access to these records is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_8edd8027fcf26c842e407f02f823c388">
       <head>Copyright</head>
-      <p>
-				The researcher assumes full responsibility for conforming with the laws of copyright.
-				Whenever possible, the M.E. Grenander Department of Special Collections and Archives
-				will provide information about copyright owners and other restrictions, but the legal
-				determination ultimately rests with the researcher. Requests for permission to publish
-				material from this collection should be discussed with the Head of Special Collections
-				and Archives.
-			</p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_34135cda63081705ae80faed9ffe7acb">
       <head>Acquisition Information</head>
-      <p>
-				 These documents were discovered in the Parsons' previous residence at 21 Front Street, Schenectady. Upon the death of Hinsdill Parsons' wife, Jessie Burchard Parsons, in 1951, this residence and its contents were bequeathed to Saint George's Episcopal Church, 28 North Ferry Street, Schenectady. Saint George's sold the house in 1989, and in 2000, a Mr. Kevin Decker wrote Dr. Gerald Zahavi, University at Albany Professor of History, to inform him of the existence of these documents. All items in this manuscript group were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives, in 2006.
-			</p>
+      <p>These documents were discovered in the Parsons' previous residence at 21 Front Street, Schenectady. Upon the death of Hinsdill Parsons' wife, Jessie Burchard Parsons, in 1951, this residence and its contents were bequeathed to Saint George's Episcopal Church, 28 North Ferry Street, Schenectady. Saint George's sold the house in 1989, and in 2000, a Mr. Kevin Decker wrote Dr. Gerald Zahavi, University at Albany Professor of History, to inform him of the existence of these documents. All items in this manuscript group were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives, in 2006.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_ad79daaaffbff3ccdcb58bc2e466d638">
       <head>Biographical History</head>
       <p>Hinsdill Parsons, Esq. was born on February 10, 1864 in Hoosick Falls, New York, the son of J. Russell Parsons. One of five sons, he attended Trinity College in Hartford, Connecticut, graduating in 1884. While in college, Parsons joined Phi Beta Kappa and Delta Psi fraternities. He attended Albany Law School and graduated in 1885; he was admitted to the New York State Bar in the same year. In September 1889, he married Jessie Mary Burchard in Hoosick Falls, NY. In the same year, Parsons also became patent attorney for the Walter A. Wood Harvester Company in Hoosick Falls, of which his father was an incorporator. He worked there until he left for Schenectady to serve as General Counsel for the General Electric Company in 1894. In May, 1901, he was given control of General Electrics legal affairs and was elected vice-president of the company. At this time, Parsons was also elected President of the Schenectady Railroad Company. During his tenure with General Electric, Parsons was involved with various company anti-trust legal issues.</p>
-      <p>Parsons served on the board of directors for the Electric Bond and Share, the Washington Water Power, and the Knickerbocker Trust Companies, as a trustee for the General Electric Investment Club, as co-president of the Bully Hill Copper Mining &amp; Smelting Company, and was a member of the University Club and the American Academy of Political and Social Science.</p>
-      <p>In a letter dated November 22nd, 1897, Parsons divulges to Mr. W. V. Baker of the Northwestern Mutual Life Insurance Company that his two life insurance policies held by Northwestern state differing birthdates because he is unsure of his age. No mention of his mother has been found in either Parsons records or in research materials. On April 28th, 1912, Parsons died in a car accident. He is buried in Vale Cemetery in Schenectady, NY.</p>
+      <p> Parsons served on the board of directors for the Electric Bond and Share, the Washington Water Power, and the Knickerbocker Trust Companies, as a trustee for the General Electric Investment Club, as co-president of the Bully Hill Copper Mining &amp; Smelting Company, and was a member of the University Club and the American Academy of Political and Social Science.</p>
+      <p> In a letter dated November 22nd, 1897, Parsons divulges to Mr. W. V. Baker of the Northwestern Mutual Life Insurance Company that his two life insurance policies held by Northwestern state differing birthdates because he is unsure of his age. No mention of his mother has been found in either Parsons records or in research materials. On April 28th, 1912, Parsons died in a car accident. He is buried in Vale Cemetery in Schenectady, NY.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The Hinsdill Parsons collection contains 2 cubic feet of paper records from Parsons employment at General Electric, as well as personal and financial papers. The majority of the collection is comprised of correspondence between Parsons and various professional and personal contacts, but the collection also includes financial reports and spreadsheets from General Electric and other companies on which Parsons served as a board member or trustee. Other areas of particular interest include records of stock and bond transactions  both professional and personal  and several maps of areas affected by GE-affiliated railway or utilities companies.</p>
-      <p>This collection covers the years between 1890 and 1912, with the bulk of the documents dating from 1900-1912. The General Electric and other financial documents deal primarily with investments in the United States; the majority of the documents are related to upstate New York matters, although interests in other locations include Pennsylvania, Colorado, and Oregon. General Electric and Parsons were also involved in activities in Europe and Mexico. Parsons also kept records of the various clubs and organizations of which he was a member, including meeting minutes and dues records. Other personal documents include legal documents such as insurance papers and estate records, as well as general correspondence with and financial advice given to friends and family members.</p>
-      <p>These documents were discovered in the Parsons' previous residence at 21 Front Street, Schenectady. Upon the death of Hinsdill Parsons' wife, Jessie Burchard Parsons, in 1951, this residence and its contents were bequeathed to Saint George's Episcopal Church, 28 North Ferry Street, Schenectady. Saint George's sold the house in 1989, and in 2000, a Mr. Kevin Decker wrote Dr. Gerald Zahavi, University at Albany Professor of History, to inform him of the existence of these documents. </p>
-      <p>The collection is divided into three series. All three series are arranged alphabetically by subject name and are generally in reverse chronological order within each folder. Series 1: General Electric, Oct. 1900-April 1911, contains correspondence, financial records, and company reports relating to GE business matters. Series 2: Financial Investments, April 1895-April 1912, contains documents regarding Parsons personal financial matters. Series 3: Personal, June 1890-April 1912, contains all other material of a personal nature not included in Series 2. Subjects in this series include family correspondence, property rights and deeds, Parsons involvement in committees and clubs, and personal investment advice. Two significant subjects in this series involve Parsons automotive interests and family estate communications.</p>
+    <scopecontent id="aspace_4d112d113cb20b28847a33c796f576be">
+      <head>Scope and Contents</head>
+      <p>The Hinsdill Parsons collection contains 2 cubic feet of paper records from Parsons employment at General Electric, as well as personal and financial papers. The majority of the collection is comprised of correspondence between Parsons and various professional and personal contacts, but the collection also includes financial reports and spreadsheets from General Electric and other companies on which Parsons served as a board member or trustee. Other areas of particular interest include records of stock and bond transactions both professional and personal and several maps of areas affected by GE-affiliated railway or utilities companies.</p>
+      <p> This collection covers the years between 1890 and 1912, with the bulk of the documents dating from 1900-1912. The General Electric and other financial documents deal primarily with investments in the United States; the majority of the documents are related to upstate New York matters, although interests in other locations include Pennsylvania, Colorado, and Oregon. General Electric and Parsons were also involved in activities in Europe and Mexico. Parsons also kept records of the various clubs and organizations of which he was a member, including meeting minutes and dues records. Other personal documents include legal documents such as insurance papers and estate records, as well as general correspondence with and financial advice given to friends and family members.</p>
+      <p> These documents were discovered in the Parsons' previous residence at 21 Front Street, Schenectady. Upon the death of Hinsdill Parsons' wife, Jessie Burchard Parsons, in 1951, this residence and its contents were bequeathed to Saint George's Episcopal Church, 28 North Ferry Street, Schenectady. Saint George's sold the house in 1989, and in 2000, a Mr. Kevin Decker wrote Dr. Gerald Zahavi, University at Albany Professor of History, to inform him of the existence of these documents. </p>
+      <p> The collection is divided into three series. All three series are arranged alphabetically by subject name and are generally in reverse chronological order within each folder. Series 1: General Electric, Oct. 1900-April 1911, contains correspondence, financial records, and company reports relating to GE business matters. Series 2: Financial Investments, April 1895-April 1912, contains documents regarding Parsons personal financial matters. Series 3: Personal, June 1890-April 1912, contains all other material of a personal nature not included in Series 2. Subjects in this series include family correspondence, property rights and deeds, Parsons involvement in committees and clubs, and personal investment advice. Two significant subjects in this series involve Parsons automotive interests and family estate communications.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_078323bb0709fd6d096249902bd27120">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series: Series 1- General Electric, 1900-1911, Series 2- Financial Investments, 1985-1912, and Series 3- Personal, 1890-1912</p>
     </arrangement>
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Business and Industry</subject>
-      <subject source="meg" encodinganalog="650">Albany, New York</subject>
-      <persname encodinganalog="600" source="local">Parson, Hinsdill</persname>
-    </controlaccess>
-    <accessrestrict>
+    <accessrestrict id="aspace_1fcb21c6126e54a89555f496092bcbc8">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <prefercite>
+    <prefercite id="aspace_06e41acff949ad8a1fbf17ffb0e35b8d">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, The Hinsdill Parsons Papers, 1890-1912. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Hinsdill Parsons Papers).</p>
+      <p> Identification of specific item, series, box, folder, The Hinsdill Parsons Papers, 1890-1912. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Hinsdill Parsons Papers).</p>
     </prefercite>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_apap293-1" level="series">
+    <controlaccess>
+      <subject source="meg">Business and Industry</subject>
+      <subject source="meg">Albany, New York</subject>
+      <persname source="local">Parson, Hinsdill</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_e8bcf8a5ee5c907a6323624666922ff9" level="series">
         <did>
-          <unittitle label="Series">General Electric</unittitle>
+          <unittitle>General Electric</unittitle>
           <unitid>1</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1900/1911" type="inclusive">1900-1911</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.33</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.33 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1900/1911" type="inclusive">1900-1911</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_67383a031bff09baa03325dab8b9655d">
+          <head>Arrangement</head>
           <p>Arranged Alphabetically.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_4d9b567e62c451f0377c3979efe46e84">
+          <head>Scope and Contents</head>
           <p>This series contains correspondence, financial records, and company reports relating to GE business matters. This series includes administrative correspondence within the company, as well as correspondence with other GE affiliates and outside corporations.</p>
         </scopecontent>
-        <c02 id="nam_apap293-1_1">
+        <c02 id="aspace_5757fc40352dccb757b44ab7ddfe8295" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
-            <unittitle>Birmingham Gas Co., Consolidated Electric Light Co., &amp; Birmingham Railway, Light &amp; Power Co. </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901-05/1901-06">1901 May- June</unitdate>
+            <unittitle>Birmingham Gas Co., Consolidated Electric Light Co., &amp; Birmingham Railway, Light &amp; Power Co.</unittitle>
+            <unitdate normal="1901-05/1901-06" type="inclusive">1901 May- June</unitdate>
+            <container id="aspace_d7034f1ce1c7a0074882d19ed7442e79" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_900f577406329766d1f068924391ece8" parent="aspace_d7034f1ce1c7a0074882d19ed7442e79" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_2">
+        <c02 id="aspace_4c112a7a9088e51ab2b4dd7c85c6c471" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
-            <unittitle>Binghamton General Electric Bonds  sales &amp; communications.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901-12/1902-01">1901 December- 1902 January</unitdate>
+            <unittitle>Binghamton General Electric Bonds sales &amp; communications.</unittitle>
+            <unitdate normal="1901-12/1902-01" type="inclusive">1901 December- 1902 January</unitdate>
+            <container id="aspace_2d46409211fe0c010f04095494069670" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_25ae1db2c1072de74f3f4a7a41c55ad5" parent="aspace_2d46409211fe0c010f04095494069670" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_3">
+        <c02 id="aspace_115caaa115c4879577d83d4421759763" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Culver, A. I. Phone conversation memorandum re: Railroad Rate Regulating Commission</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1905-05-16">1905 May 16</unitdate>
+            <unitdate normal="1905-05-16/1905-05-16" type="inclusive">1905 May 16</unitdate>
+            <container id="aspace_5c1781f1ba56abcdf69358baf3c01aad" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_4244b7274d19c5f3b283f3fddaf7746e" parent="aspace_5c1781f1ba56abcdf69358baf3c01aad" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_4">
+        <c02 id="aspace_dafceabe45fd1ddb17e553f55d1eb04b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Chicago City Railway Company. GE rebate contracts; correspondence re: contracts, Chicago mayoral bookkeeping investigation/audit, Chicago co. personnel issues; newspaper clippings re: audit, contract cancellations.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1907-02/1909-05">1907 Febraury- 1909 May</unitdate>
+            <unitdate normal="1907-02/1909-05" type="inclusive">1907 Febraury- 1909 May</unitdate>
+            <container id="aspace_8c1f69443b43148e9c8e23ef05ab9c5f" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_ba2b9d6d560bb013ca5434b1ff137aa8" parent="aspace_8c1f69443b43148e9c8e23ef05ab9c5f" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_5">
+        <c02 id="aspace_a5005fd10a9670af2b52ff008312cf96" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Chicago Edison Company. Royalty contract memorandum/clarification</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1904-07-16">1904 July 16</unitdate>
+            <unitdate normal="1904-07-16/1904-07-16" type="inclusive">1904 July 16</unitdate>
+            <container id="aspace_25f620fdd421a0f267149ddf83bf7c70" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_4c99744b6ef446fbb0c18cad4bab3592" parent="aspace_25f620fdd421a0f267149ddf83bf7c70" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_6">
+        <c02 id="aspace_bc33d2fa16eed34cffe7da6df3f456f6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Electric Properties Company. Confidential advance copy of prospectus of new Westinghouse Company</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1906-04">1906 April</unitdate>
+            <unitdate normal="1906-04/1906-04" type="inclusive">1906 April</unitdate>
+            <container id="aspace_c7df66df4997a9285fc4fd1806ebaad1" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_19def651e22db79a5ca7306e1112f0ba" parent="aspace_c7df66df4997a9285fc4fd1806ebaad1" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_7">
+        <c02 id="aspace_d98e4370e07011e69abf6a9688ac22a9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Electric Undertakings Company. Prospectus.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1890/1912">Undated</unitdate>
+            <unitdate normal="1890/1912" type="inclusive">Undated</unitdate>
+            <container id="aspace_939f7feb0e0744e90b84b0ac447582a8" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_4bc5d17f89f5f082b62abe2c47828a28" parent="aspace_939f7feb0e0744e90b84b0ac447582a8" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_8">
+        <c02 id="aspace_16f7b0b3401aeff1b23c9bf537173694" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>The Egyptian Petroleum Company, LTD. Annual general meeting report</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1908-12-08">1908 December 30</unitdate>
+            <unitdate normal="1908-12-08/1908-12-08" type="inclusive">1908 December 30</unitdate>
+            <container id="aspace_5623f1953a88fe04e523cf095718cb67" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_e7b042d77ea8b0658857a71d50ee17e5" parent="aspace_5623f1953a88fe04e523cf095718cb67" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_9">
+        <c02 id="aspace_5517206ee40fe62209ec2bddfc29eb13" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>GE Finances. Audit, collections/delinquent accounts, company expense statements, P&amp;L reports, communications re: delinquent companies accounts &amp; personnel issues, executive committee report.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1905-02/1910-02">1905 February- 1910 February</unitdate>
+            <unitdate normal="1905-02/1910-02" type="inclusive">1905 February- 1910 February</unitdate>
+            <container id="aspace_74e274dcc9253de3fe315079ff92de74" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_d48e8264af0581e3625798b48ff44c4d" parent="aspace_74e274dcc9253de3fe315079ff92de74" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_10">
+        <c02 id="aspace_e991794d7f59f09e98014339655d52fc" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>GE Investment Club. Correspondence, financial reports/summaries, stock/bond purchases, minutes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1904-04/1911-04">1904 April- 1911 April</unitdate>
+            <unitdate normal="1904-04/1911-04" type="inclusive">1904 April- 1911 April</unitdate>
+            <container id="aspace_bb68d55b51421f62f138dbf3052b41e5" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_aad379de3e07b3f33b022d800e6151e3" parent="aspace_bb68d55b51421f62f138dbf3052b41e5" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_11">
+        <c02 id="aspace_aebaa384aaabdd5a31c68b7a654d5c7d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Greene Copper. Business transactions</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901-12/1904-11">1901 December- 1904 November</unitdate>
+            <unitdate normal="1901-12/1904-11" type="inclusive">1901 December- 1904 November</unitdate>
+            <container id="aspace_ef50da5478560455c26b9751114a3620" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_f4c7a6462274c7be8d04b09a95aecf69" parent="aspace_ef50da5478560455c26b9751114a3620" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_12">
+        <c02 id="aspace_f2a2b03f12ea72da25938805b18c8c4a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Hotel (unnamed). Property sale, correspondence.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1904-05/1904-06">1904 May-June</unitdate>
+            <unitdate normal="1904-05/1904-06" type="inclusive">1904 May-June</unitdate>
+            <container id="aspace_dc2b0ef3437b8540ebc533f7e8ca218d" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_3ade71b70ec8264a6e094fe5d293b014" parent="aspace_dc2b0ef3437b8540ebc533f7e8ca218d" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_13">
+        <c02 id="aspace_0a7edff87ef42863704cdc6a293c0995" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Houston Municipal Plant. Letter re: proposed municipal plant</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1900-10-16">1900 October 16</unitdate>
+            <unitdate normal="1900-10-16/1900-10-16" type="inclusive">1900 October 16</unitdate>
+            <container id="aspace_b97c6755bc268dbab03902879d80a7ab" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_05c745df69dcda10ef448fac17041a65" parent="aspace_b97c6755bc268dbab03902879d80a7ab" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_14">
+        <c02 id="aspace_de765d1710db3c4c2abcb6da0878a5a1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Hudson River Telephone Company. Proposed ordinance</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1902-01-31">1902 January 31</unitdate>
+            <unitdate normal="1902-01-31/1902-01-31" type="inclusive">1902 January 31</unitdate>
+            <container id="aspace_467b74934af8ece80630298f89eddfda" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_700438b86d1dd886ccbe0431a84815ca" parent="aspace_467b74934af8ece80630298f89eddfda" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_15">
+        <c02 id="aspace_aa71b42066b53ec9a68272918041cad1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Magee, Louis J. Business correspondence, foreign companies</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1906-05/1907-04">1906 May- 1907 April</unitdate>
+            <unitdate normal="1906-05/1907-04" type="inclusive">1906 May- 1907 April</unitdate>
+            <container id="aspace_cd91c32615255aa5a1e78ed85de2322a" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_3ebd6ffdac66ac19d64d0c7fcc57bd55" parent="aspace_cd91c32615255aa5a1e78ed85de2322a" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_16">
+        <c02 id="aspace_47fee74b089fc5b9d74aff6980e16724" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Manhattan Railway Company. Bill cancellation</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1903-06-15">1903 June 15</unitdate>
+            <unitdate normal="1903-06-15/1903-06-15" type="inclusive">1903 June 15</unitdate>
+            <container id="aspace_dd0d8af19259b8edf587fa12211d0791" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_a8948a9d05c7cfefd996682479167db8" parent="aspace_dd0d8af19259b8edf587fa12211d0791" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_17">
+        <c02 id="aspace_cf9244be5cb277cde23b8de5050fb0ca" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>National Electric Lamp Company. Bonds. New York State National Bank</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901-07/1911-07">1901 July- 1911 July</unitdate>
+            <unitdate normal="1901-07/1911-07" type="inclusive">1901 July- 1911 July</unitdate>
+            <container id="aspace_1737dd222a67c981d3c00328c6d058ca" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_d4c49014a97c931494cef09ca31e21ef" parent="aspace_1737dd222a67c981d3c00328c6d058ca" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_18">
+        <c02 id="aspace_dc83c734d7555157604d68642526a57f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>Niagara County Irrigation &amp; Water Supply Company. Legislative monitoring expense</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1906-03">1906 March</unitdate>
+            <unitdate normal="1906-03/1906-03" type="inclusive">1906 March</unitdate>
+            <container id="aspace_559e2fa9b15090baf7d3fca2d9ba3219" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_5df08d27ee7001a489a261a05deb6791" parent="aspace_559e2fa9b15090baf7d3fca2d9ba3219" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_19">
+        <c02 id="aspace_7f5a6894690c182b0904ef2dd3fdb6d8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>Nicholls, William S. Personal contact, business communications.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1903-07/1904-12">1903 July- 1904 December</unitdate>
+            <unitdate normal="1903-07/1904-12" type="inclusive">1903 July- 1904 December</unitdate>
+            <container id="aspace_0aca8900d549c04f6338415510d844c5" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_2278332529cc4c032dcb442887079c4f" parent="aspace_0aca8900d549c04f6338415510d844c5" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_20">
+        <c02 id="aspace_cab2d5ff7021a968041fbdbc5e8e46fd" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>Peabody, George Foster. The Otis Inclined Railway</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1905-05/1905-06">1905 May-June</unitdate>
+            <unitdate normal="1905-05/1905-06" type="inclusive">1905 May-June</unitdate>
+            <container id="aspace_5c5db1219a1510fe0f8c1ccb7eab5d24" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_8cb0d85acfcbfa8a7c71319b72d82009" parent="aspace_5c5db1219a1510fe0f8c1ccb7eab5d24" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_21">
+        <c02 id="aspace_ce5a952c01a22ee04ee637e4c1695ebc" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>Proposed Incandescent Lamp Company. Company proposal.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="3640">1909 December 18</unitdate>
+            <unitdate normal="3640/3640" type="inclusive">1909 December 18</unitdate>
+            <container id="aspace_4fb93b7a0c452676834ecbf66ff097c8" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_645eb065e76a3fc004c18be410a5bb06" parent="aspace_4fb93b7a0c452676834ecbf66ff097c8" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_22">
+        <c02 id="aspace_afcdbfc1f035806c995d3aa126fc9fe0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>Schenectady Railway Company. Financial statements, trolley line, bonds</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1903-08/1912-01"> 1903 August- 1912 January</unitdate>
+            <unitdate normal="1903-08/1912-01" type="inclusive">1903 August- 1912 January</unitdate>
+            <container id="aspace_0d82250c180470d75eca6f12626e04af" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_b2901a6fec040e246f7c523e17da3a13" parent="aspace_0d82250c180470d75eca6f12626e04af" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_23">
+        <c02 id="aspace_490da2b55cc475e82b42c4c16f06246c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23</container>
             <unittitle>The Schenectady Star Printing Company. Consolidation with The Daily Union (Schenectady Union-Star). Stock purchases.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1902-01/1911-08">1902 January- 1911 August</unitdate>
+            <unitdate normal="1902-01/1911-08" type="inclusive">1902 January- 1911 August</unitdate>
+            <container id="aspace_3d3325db96dde5da44dc2f30ca6c5668" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_d297afb884bc8bdc4162dda811c3e9de" parent="aspace_3d3325db96dde5da44dc2f30ca6c5668" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_24">
+        <c02 id="aspace_0f632451f1b8f281e8af045c902fd5a7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">24</container>
             <unittitle>Standard Light &amp; Power Company. Stock purchase &amp; communications. United Electric Securities Company</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901-10/1901-11">1901 October-November</unitdate>
+            <unitdate normal="1901-10/1901-11" type="inclusive">1901 October-November</unitdate>
+            <container id="aspace_a5e1869614cfc50c0381d10cc78408a8" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_b86b1517b30aac09c8278d43d49766c7" parent="aspace_a5e1869614cfc50c0381d10cc78408a8" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_25">
+        <c02 id="aspace_fb327e1789e2cfa5ed595bb579c75439" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">25</container>
             <unittitle>Special Collection Department. GE customer debt collection</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1907-08/1908-10">1907 August- 1908 October</unitdate>
+            <unitdate normal="1907-08/1908-10" type="inclusive">1907 August- 1908 October</unitdate>
+            <container id="aspace_bbc92170f79608337728cbfaa046b4f3" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_60f9d9bbfa14a151d99f305a7ab764f5" parent="aspace_bbc92170f79608337728cbfaa046b4f3" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-1_26">
+        <c02 id="aspace_83726e35fcbb442346c9ed2289960f45" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">26</container>
             <unittitle>Unnamed. Magazine advertisement, paid confirmations, communications re: viaduct licensing/right-of-way issue.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901-10/1904-07">1901 October- 1904 July</unitdate>
+            <unitdate normal="1901-10/1904-07" type="inclusive">1901 October- 1904 July</unitdate>
+            <container id="aspace_59ee7bee556667b620ac3446dc2a4390" label="Mixed Materials" type="Box">1 (1-General Electric)</container>
+            <container id="aspace_c9795a1ea5acf0b807b81843a1b0f61f" parent="aspace_59ee7bee556667b620ac3446dc2a4390" type="Folder">26</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_apap293-2" level="series">
+      <c01 id="aspace_601451d0fcacc78a9089367c9dbdc987" level="series">
         <did>
-          <unittitle label="Series">Financial Investments</unittitle>
+          <unittitle>Financial Investments</unittitle>
           <unitid>2</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1895/1912" type="inclusive">1895-1912</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">1.12</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.12 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1895/1912" type="inclusive">1895-1912</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_0c544199be46b7e47dffd02ced3e591d">
+          <head>Arrangement</head>
           <p>Arranged Alphabetically.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_dfb6a159ef05f6a8053378b96ba012bb">
+          <head>Scope and Contents</head>
           <p>This series contains documents regarding Parsons personal financial matters. In some cases, the demarcation between Parsons personal and professional financial involvement is blurred, and a number of the financial documents in this series involve colleagues at General Electric. The series contains correspondence relating to personal loans and debts, stock and bond transactions, cancelled checks and receipts, insurance and tax information, property rights information, and various companies financial statements and plans.</p>
         </scopecontent>
-        <c02 id="nam_apap293-2_1">
+        <c02 id="aspace_01de83ba3c476efdae92afc9ba13fe13" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>American Gas &amp; Electric Co./Electric Bond &amp; Share Co. Stock shares communication, purchase agreements, plan &amp; reports. Railroad rights/eminent domain</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1906-12/1912-01">1906 December- 1912 January</unitdate>
+            <unitdate normal="1906-12/1912-01" type="inclusive">1906 December- 1912 January</unitdate>
+            <container id="aspace_a0f707e1bd18a85eeac5b7e287be673b" label="Mixed Materials" type="Box">2 (2-Financial Investments)</container>
+            <container id="aspace_f60ac4fc691b0131c91d2b1148771741" parent="aspace_a0f707e1bd18a85eeac5b7e287be673b" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_2">
+        <c02 id="aspace_0a9504ee477d08349759eb36c75198e0" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>Brooklyn City Railroad. Stock purchases &amp; communications</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1910-07/1911-07">1910 July- 1911 July</unitdate>
+            <unitdate normal="1910-07/1911-07" type="inclusive">1910 July- 1911 July</unitdate>
+            <container id="aspace_7afd0bfeac5c14612680dfa4901a5239" label="Mixed Materials" type="Box">2 (2-Financial Investments)</container>
+            <container id="aspace_45c775bbf18f7f3c243dd382c568533b" parent="aspace_7afd0bfeac5c14612680dfa4901a5239" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_3">
+        <c02 id="aspace_58a103800b02b2c38c20b388809ede0e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Cohoes Gas Light Company. Stock purchase, communication with brother Willard P. Parsons, Anson Burchard</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1910-02/1911-01">1910 February- 1911 January</unitdate>
+            <unitdate normal="1910-02/1911-01" type="inclusive">1910 February- 1911 January</unitdate>
+            <container id="aspace_65f76212b8c513468c079c70a2cb0d13" label="Mixed Materials" type="Box">2 (2-Financial Investments)</container>
+            <container id="aspace_9b57bf2e81684fda2fc3558373712c5b" parent="aspace_65f76212b8c513468c079c70a2cb0d13" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_4">
+        <c02 id="aspace_5ec668cbc2a1bc34e91d67613d4e6c9d" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Central Colorado Power Company. Purchase agreements, financial plans, annual reports, collections letters. Financial insolvency, Knickerbocker Trust Company</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1906-10/1912-03">1906 October- 1912 March</unitdate>
+            <unitdate normal="1906-10/1912-03" type="inclusive">1906 October- 1912 March</unitdate>
+            <container id="aspace_d0c7057aee13aad578ee1f971916cad9" label="Mixed Materials" type="Box">2 (2-Financial Investments)</container>
+            <container id="aspace_9542d2b4ccb5233efcbb3f1d260b9677" parent="aspace_d0c7057aee13aad578ee1f971916cad9" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_5">
+        <c02 id="aspace_ddc004a54807443d213592ac5fdfb16f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
-            <unittitle>Cincinnati Gas &amp; Electric Company.  Blueprint map  Schenectady railroad route. Leases between Cincinnatti Co. &amp; Union Gas &amp; Electric Company</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1905-03/1912-04">1905 March- 1912 April</unitdate>
+            <unittitle>Cincinnati Gas &amp; Electric Company. Blueprint map Schenectady railroad route. Leases between Cincinnatti Co. &amp; Union Gas &amp; Electric Company</unittitle>
+            <unitdate normal="1905-03/1912-04" type="inclusive">1905 March- 1912 April</unitdate>
+            <container id="aspace_36bff78757bdc3f72fb7f305cd8ffc07" label="Mixed Materials" type="Box">2 (2-Financial Investments)</container>
+            <container id="aspace_d82d83096f9925da87f9fd348cbfd43b" parent="aspace_36bff78757bdc3f72fb7f305cd8ffc07" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_6">
+        <c02 id="aspace_15c51f6e3fcd33397c7eb606305bb1a5" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
-            <unittitle>Carnegie Trust Company.  Account book, cancelled checks, personal investments.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1909-01/1910-12">1909 January- 1910 December</unitdate>
+            <unittitle>Carnegie Trust Company. Account book, cancelled checks, personal investments.</unittitle>
+            <unitdate normal="1909-01/1910-12" type="inclusive">1909 January- 1910 December</unitdate>
+            <container id="aspace_aa7b6f9ef0e1901a1c746e35cf4347ce" label="Mixed Materials" type="Box">2 (2-Financial Investments)</container>
+            <container id="aspace_ca8e5744f0070405750412aaf9488770" parent="aspace_aa7b6f9ef0e1901a1c746e35cf4347ce" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_7">
+        <c02 id="aspace_6c4a57a103c40685880be86aabefe5f9" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
-            <unittitle> United States Mortgage &amp; Trust Company.. Charles Coffin  investments, IOUs, receipts.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1903-03/1910-11">1903 March- 1910 November</unitdate>
+            <unittitle>United States Mortgage &amp; Trust Company.. Charles Coffin investments, IOUs, receipts.</unittitle>
+            <unitdate normal="1903-03/1910-11" type="inclusive">1903 March- 1910 November</unitdate>
+            <container id="aspace_48e28a72553d381819b4a53ce1466d99" label="Mixed Materials" type="Box">2 (2-Financial Investments)</container>
+            <container id="aspace_ce834109e696c1e0dbfc1cfc74e3a1cc" parent="aspace_48e28a72553d381819b4a53ce1466d99" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_8">
+        <c02 id="aspace_77de2a02c0a283101527c238d8ddf7a2" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
-            <unittitle> Chicago &amp; Milwaukee Electric Railroad Company.. Stock shares.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1905-03/1905-04">1905 March-April</unitdate>
+            <unittitle>Chicago &amp; Milwaukee Electric Railroad Company.. Stock shares.</unittitle>
+            <unitdate normal="1905-03/1905-04" type="inclusive">1905 March-April</unitdate>
+            <container id="aspace_c4de19ddec2955fde805a35af3c41344" label="Mixed Materials" type="Box">2 (2-Financial Investments)</container>
+            <container id="aspace_7587d90e76fa74aa9f79511059fa4c7e" parent="aspace_c4de19ddec2955fde805a35af3c41344" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_9">
+        <c02 id="aspace_f412f419f15127be79e1472120199f09" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
             <unittitle>Chesapeake &amp; Ohio Company.. Stock shares.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1899-07/1900-11">1899 July- 1900 November</unitdate>
+            <unitdate normal="1899-07/1900-11" type="inclusive">1899 July- 1900 November</unitdate>
+            <container id="aspace_7bb85e01f33265860b8aad29699d75c6" label="Mixed Materials" type="Box">2 (2-Financial Investments)</container>
+            <container id="aspace_8155d444e12c1f05c18a403b04eaa57e" parent="aspace_7bb85e01f33265860b8aad29699d75c6" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_10">
+        <c02 id="aspace_65668fd8ba8203de9408c33acdcaa04b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10</container>
-            <unittitle>Fisher, A.M.  Debt correspondence, IOU.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1908-08/1911-02">1908 August- 1911 February</unitdate>
+            <unittitle>Fisher, A.M. Debt correspondence, IOU.</unittitle>
+            <unitdate normal="1908-08/1911-02" type="inclusive">1908 August- 1911 February</unitdate>
+            <container id="aspace_380514cbd57ccabe0ef5d8fcc907c0c3" label="Mixed Materials" type="Box">2 (2-Financial Investments)</container>
+            <container id="aspace_db08a41e0e78972d79b2ba6195d89eda" parent="aspace_380514cbd57ccabe0ef5d8fcc907c0c3" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_11">
+        <c02 id="aspace_518d6f70d205f3bbb35d2f7da2bdba28" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">11</container>
             <unittitle>F.J.&amp;G. (Fonda, Johnstown &amp; Gloversville Railroad Company). . Stock &amp; bonds.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1903-04/1904-01">1903 April- 1904 January</unitdate>
+            <unitdate normal="1903-04/1904-01" type="inclusive">1903 April- 1904 January</unitdate>
+            <container id="aspace_5af86041d075a07da4568263cffa14ee" label="Mixed Materials" type="Box">2 (2-Financial Investments)</container>
+            <container id="aspace_c050d6733b679f89ea0f83ecd41be39c" parent="aspace_5af86041d075a07da4568263cffa14ee" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_12">
+        <c02 id="aspace_4a13e5f04043fa3113f48baed3ac824d" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">12</container>
             <unittitle>Great Northern Power Development Company. . Underwriters agreements, subscription correspondence, invoice letters.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1904-12/1908-05">1904 December- 1908 May</unitdate>
+            <unitdate normal="1904-12/1908-05" type="inclusive">1904 December- 1908 May</unitdate>
+            <container id="aspace_91cf083fe6fee3f0df49677dc66a898d" label="Mixed Materials" type="Box">2 (2-Financial Investments)</container>
+            <container id="aspace_8382442abe7fdc250a97b0808dbc78d6" parent="aspace_91cf083fe6fee3f0df49677dc66a898d" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_13">
+        <c02 id="aspace_a438e4cac75f269724ff2b88dc84a986" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">13</container>
             <unittitle>Grenfell Syndicate. . Subscription; Grenfell Mexican Exploration Co. (copper mine).</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1906-05/1906-08">1906 May-August</unitdate>
+            <unitdate normal="1906-05/1906-08" type="inclusive">1906 May-August</unitdate>
+            <container id="aspace_1610ddfd952b5c262965b317de720b54" label="Mixed Materials" type="Box">2 (2-Financial Investments)</container>
+            <container id="aspace_79c463920072de8047388718ec4bfbc1" parent="aspace_1610ddfd952b5c262965b317de720b54" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_14">
+        <c02 id="aspace_3c34d71e745d62f37e788226cfad73e7" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">14</container>
             <unittitle>Guanajuato Power and Electric Company. . Stockholder reports, banking &amp; loan documentation, subscription/stock communication. Stone Canon Consolidated Coal Company of Maine stocks.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1899-12/1910-11">1899 December- 1910 November</unitdate>
+            <unitdate normal="1899-12/1910-11" type="inclusive">1899 December- 1910 November</unitdate>
+            <container id="aspace_94ef8d9fb478a2ba48c70eea029b5950" label="Mixed Materials" type="Box">2 (2-Financial Investments)</container>
+            <container id="aspace_b489934c11feb374b224a83483b95ed7" parent="aspace_94ef8d9fb478a2ba48c70eea029b5950" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_15">
+        <c02 id="aspace_f0cf58c5c0efabee79e54b42327d67fb" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">15</container>
             <unittitle>Golf Club Realty Company. . Stock communications.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1907-01">1907 January</unitdate>
+            <unitdate normal="1907-01/1907-01" type="inclusive">1907 January</unitdate>
+            <container id="aspace_6f559d96be164c8754073998a6ee8272" label="Mixed Materials" type="Box">2 (2-Financial Investments)</container>
+            <container id="aspace_980f8d2dd79f2133348c30ce5d4b8998" parent="aspace_6f559d96be164c8754073998a6ee8272" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_16">
+        <c02 id="aspace_f07845076c2f01bea8ca5f4d58edd0ef" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">16</container>
             <unittitle>Harrington, F.A.. Investment correspondence (New York Air Brake Co., Electric Bond &amp; Share Co.), memorandum, news clipping.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1905-03/1905-06">1905 March-June</unitdate>
+            <unitdate normal="1905-03/1905-06" type="inclusive">1905 March-June</unitdate>
+            <container id="aspace_01cf8f7e17f707e1fce4ff9dafb768ca" label="Mixed Materials" type="Box">2 (2-Financial Investments)</container>
+            <container id="aspace_627485a8679adeaddff97b9cad3ef705" parent="aspace_01cf8f7e17f707e1fce4ff9dafb768ca" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_17">
+        <c02 id="aspace_f7e8a8678f6dbde6677e75acd3314ce7" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">17</container>
             <unittitle>Huston, Ernest. . Loan correspondence.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1906-11/1908-09">1906 November- 1908 September</unitdate>
+            <unitdate normal="1906-11/1908-09" type="inclusive">1906 November- 1908 September</unitdate>
+            <container id="aspace_74085e6e6ea23e7d56b811e03e440467" label="Mixed Materials" type="Box">2 (2-Financial Investments)</container>
+            <container id="aspace_86bd0d33f42848c4105068bb89e4c8d9" parent="aspace_74085e6e6ea23e7d56b811e03e440467" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_18">
+        <c02 id="aspace_ee4e51254860f8a298f5c109ac4b01d6" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>Home insurance policies, tax bills. . Receipts &amp; correspondence.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1903-05/1912-07">1903 May- 1912 July</unitdate>
+            <unitdate normal="1903-05/1912-07" type="inclusive">1903 May- 1912 July</unitdate>
+            <container id="aspace_0b6983c3d5a5a5497589756a439b237d" label="Mixed Materials" type="Box">3 (2-Financial Investments)</container>
+            <container id="aspace_b9698283eecdee4f8fed6692cb94066d" parent="aspace_0b6983c3d5a5a5497589756a439b237d" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_19">
+        <c02 id="aspace_cf4bfe9b97abb65f4e7e20e8ce1ebc49" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>Home electrical inspection. . Reports, correspondence.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1905-03/1910-03">1905 March- 1910 March</unitdate>
+            <unitdate normal="1905-03/1910-03" type="inclusive">1905 March- 1910 March</unitdate>
+            <container id="aspace_2502d1d14e198ca58dfef0594096b753" label="Mixed Materials" type="Box">3 (2-Financial Investments)</container>
+            <container id="aspace_0d0754d23ebe41a04e5e1280c6c1c0d9" parent="aspace_2502d1d14e198ca58dfef0594096b753" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_20">
+        <c02 id="aspace_e0f24d495c3b120dfa2c756f751425a6" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">3</container>
             <unittitle>Hyatt, Marshall. . Loan correspondence.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1909-11/1911-05">1909 November- 1911 May</unitdate>
+            <unitdate normal="1909-11/1911-05" type="inclusive">1909 November- 1911 May</unitdate>
+            <container id="aspace_242001325e9b64a3caed6f20597ba0c6" label="Mixed Materials" type="Box">3 (2-Financial Investments)</container>
+            <container id="aspace_2419c859edc67f9d39b2949ff55ad986" parent="aspace_242001325e9b64a3caed6f20597ba0c6" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_21">
+        <c02 id="aspace_a84e830fe3d2433688db29b0b3b99a2b" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4</container>
             <unittitle>Lindsay, Charles. . Handwritten paid note.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1890/1912">Undated</unitdate>
+            <unitdate normal="1890/1912" type="inclusive">Undated</unitdate>
+            <container id="aspace_48a6f6f24efa14688d3bb62adca77d44" label="Mixed Materials" type="Box">3 (2-Financial Investments)</container>
+            <container id="aspace_805429e245417dfafecd478d7b88e466" parent="aspace_48a6f6f24efa14688d3bb62adca77d44" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_22">
+        <c02 id="aspace_f07c4944f759bd58995c27f65434e49b" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">5</container>
             <unittitle>The Citizens Lighting Company of Louisville. . Stock/bond communications.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901-07/1903-03">1901 July- 1903 March</unitdate>
+            <unitdate normal="1901-07/1903-03" type="inclusive">1901 July- 1903 March</unitdate>
+            <container id="aspace_b84d04d966c12f4ef2d007e024d4637b" label="Mixed Materials" type="Box">3 (2-Financial Investments)</container>
+            <container id="aspace_2a9455bba6107093ee16d693739dfaf0" parent="aspace_b84d04d966c12f4ef2d007e024d4637b" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_23">
+        <c02 id="aspace_eab7602741d9d395ad0b1231a8338f57" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">6</container>
             <unittitle>Miller, Elmer A.. Bank note communication, Schenectady Trust Company.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1908-06-03"> June 3rd 1908</unitdate>
+            <unitdate normal="1908-06-03/1908-06-03" type="inclusive">June 3rd 1908</unitdate>
+            <container id="aspace_63c388a7ad8563ada0a1f10a6d0f290d" label="Mixed Materials" type="Box">3 (2-Financial Investments)</container>
+            <container id="aspace_c8d9f280ddf5f97c8c67501e7db37e62" parent="aspace_63c388a7ad8563ada0a1f10a6d0f290d" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_24">
+        <c02 id="aspace_f84b01fa8ac97427589a2fac082c4aaa" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">7</container>
             <unittitle>Miller, John H. . Loan communications.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1907-12/1908-01">1907 December- 1908 January</unitdate>
+            <unitdate normal="1907-12/1908-01" type="inclusive">1907 December- 1908 January</unitdate>
+            <container id="aspace_ce656d7b9bb507d0a7faec5d215280af" label="Mixed Materials" type="Box">3 (2-Financial Investments)</container>
+            <container id="aspace_f80b2ada39b2a17f6607642e501aec0d" parent="aspace_ce656d7b9bb507d0a7faec5d215280af" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_25">
+        <c02 id="aspace_e6b2ac8d8c8cfc6520efd0a99a27891b" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">8</container>
             <unittitle>National Commercial Bank. . Payments/deposits.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1911-06/1912-02">1911 June- 1912 February</unitdate>
+            <unitdate normal="1911-06/1912-02" type="inclusive">1911 June- 1912 February</unitdate>
+            <container id="aspace_fbdff0d15920774efd8cf38044b2fa8a" label="Mixed Materials" type="Box">3 (2-Financial Investments)</container>
+            <container id="aspace_000a1efa4b41afaf337ae316aabf5666" parent="aspace_fbdff0d15920774efd8cf38044b2fa8a" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_26">
+        <c02 id="aspace_9f73d52a0964f5e1dbc1120aaa04d8b1" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">9</container>
             <unittitle>Nicholson, James. (Parsons chauffeur). . Expense accounts. Mortgage &amp; deed. Receipts &amp; bills.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1908-03/1912-03">1908 October- 1912 March</unitdate>
+            <unitdate normal="1908-03/1912-03" type="inclusive">1908 October- 1912 March</unitdate>
+            <container id="aspace_246ea67038ae62d2562838c362c82771" label="Mixed Materials" type="Box">3 (2-Financial Investments)</container>
+            <container id="aspace_ec3145b7b4a48b8660584f0e0269f4a9" parent="aspace_246ea67038ae62d2562838c362c82771" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_27">
+        <c02 id="aspace_a5b88c920d94cf13843698828d2c2603" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">10</container>
             <unittitle>Pennsylvania Water &amp; Power Company. . Stock communications.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1911-10/1912-04">1911 October- 1912 April</unitdate>
+            <unitdate normal="1911-10/1912-04" type="inclusive">1911 October- 1912 April</unitdate>
+            <container id="aspace_80950e2cac339cac7a66dda79a2aefaf" label="Mixed Materials" type="Box">3 (2-Financial Investments)</container>
+            <container id="aspace_8c2c396c3edafb117779cde420972337" parent="aspace_80950e2cac339cac7a66dda79a2aefaf" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_28">
+        <c02 id="aspace_e1acf6fdaef7a3cf33ff8c5a6eca7ffb" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">11</container>
             <unittitle>Parsons, Hinsdill (A). . Assorted financial reports, communications, cancelled checks, receipts.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1895-04/1908-10">1895 April- 1908 October</unitdate>
+            <unitdate normal="1895-04/1908-10" type="inclusive">1895 April- 1908 October</unitdate>
+            <container id="aspace_63eee68729577534646bf26312bae905" label="Mixed Materials" type="Box">3 (2-Financial Investments)</container>
+            <container id="aspace_6a9903a8016230879aa891f88940ef68" parent="aspace_63eee68729577534646bf26312bae905" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_29">
+        <c02 id="aspace_975cd73ee7af985b1f703f675418e478" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">12</container>
             <unittitle>Parsons, Hinsdill (B). . Assorted financial reports, communications, cancelled checks, receipts</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1895-04/1908-10">1895 April- 1908 October</unitdate>
+            <unitdate normal="1895-04/1908-10" type="inclusive">1895 April- 1908 October</unitdate>
+            <container id="aspace_a3ca57f7bef1f674fcead2a2a3a05d57" label="Mixed Materials" type="Box">3 (2-Financial Investments)</container>
+            <container id="aspace_c9b8125369deb2bb7105b30b1a284b5d" parent="aspace_a3ca57f7bef1f674fcead2a2a3a05d57" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_30">
+        <c02 id="aspace_c6782071690b4654bd2aff8173b84652" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">13</container>
             <unittitle>Philadelphia Electric Company. . Annual reports, trust &amp; land title documents. Stock purchases, communications. Documented rumor of GE takeover</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1896-03/1912-04">1896 March- 1912 April</unitdate>
+            <unitdate normal="1896-03/1912-04" type="inclusive">1896 March- 1912 April</unitdate>
+            <container id="aspace_0367a6dd989a8f1c2fbe190b706c3622" label="Mixed Materials" type="Box">3 (2-Financial Investments)</container>
+            <container id="aspace_6a63104f87dd394c5d76ebdb2ee7023c" parent="aspace_0367a6dd989a8f1c2fbe190b706c3622" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_31">
+        <c02 id="aspace_af486a8d3b19b005cfc20f37f4387e80" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">1</container>
             <unittitle>Portland Gas &amp; Electric Company/City &amp; Suburban Railway Company of Portland, Oregon/Portland Street Railway Company.. Company consolidation (Portland Consolidated Railway Company). Stock purchases &amp; communications, stock pool.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1904-03/1909-12">1904 March- 1909 December</unitdate>
+            <unitdate normal="1904-03/1909-12" type="inclusive">1904 March- 1909 December</unitdate>
+            <container id="aspace_28c479361eb4a513cc01961d015190fc" label="Mixed Materials" type="Box">4 (2-Financial Investments)</container>
+            <container id="aspace_1a2bf4aa723ec5433f3919dcce9f9412" parent="aspace_28c479361eb4a513cc01961d015190fc" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_32">
+        <c02 id="aspace_01581ee06e4dc4a67644eb63e347168f" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">2</container>
             <unittitle>Portland-Salem (Oregon) Electric Railway Company Syndicate. . Syndicate shares communications</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1905-12/1910-02">1905 December- 1910 February</unitdate>
+            <unitdate normal="1905-12/1910-02" type="inclusive">1905 December- 1910 February</unitdate>
+            <container id="aspace_28cc8fa14e7721545faa0ac9c7e41fab" label="Mixed Materials" type="Box">4 (2-Financial Investments)</container>
+            <container id="aspace_d879f46da4922ca97d139f2211c44d54" parent="aspace_28cc8fa14e7721545faa0ac9c7e41fab" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_33">
+        <c02 id="aspace_32cc452908448789d7963646477b5203" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">3</container>
             <unittitle>Schenectady Trust Company (A). . Stock shares. Financial receipts, communications. Loans, IOUs, cancelled checks. Washington Water Power Company stocks.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1902-04/1912-04">1902 April- 1912 April</unitdate>
+            <unitdate normal="1902-04/1912-04" type="inclusive">1902 April- 1912 April</unitdate>
+            <container id="aspace_149a8e2951c46c894830cffe207923b4" label="Mixed Materials" type="Box">4 (2-Financial Investments)</container>
+            <container id="aspace_798c1dccf165f897b71406479454bdb8" parent="aspace_149a8e2951c46c894830cffe207923b4" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_34">
+        <c02 id="aspace_052ff5dfe4fbf96cc38dd0db681000ce" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">4</container>
             <unittitle>Schenectady Trust Company (B).. Stock shares. Financial receipts, communications. Loans, IOUs, cancelled checks. Washington Water Power Company stocks.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1203-04/1912-03"> 1902 April-1912 March</unitdate>
+            <unitdate normal="1203-04/1912-03" type="inclusive">1902 April-1912 March</unitdate>
+            <container id="aspace_26fbd82a8ffb61a596bc2351aebe22b4" label="Mixed Materials" type="Box">4 (2-Financial Investments)</container>
+            <container id="aspace_0a74be5ca38d539e945de21020189e80" parent="aspace_26fbd82a8ffb61a596bc2351aebe22b4" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_35">
+        <c02 id="aspace_05b299173bf771572d4408f673a0ede5" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">5</container>
             <unittitle>Security Savings &amp; Trust Company. . Stocks.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1911-06/1912-04">1911 June- 1912 April</unitdate>
+            <unitdate normal="1911-06/1912-04" type="inclusive">1911 June- 1912 April</unitdate>
+            <container id="aspace_db338e706ef2455db6bcc2d9484702bd" label="Mixed Materials" type="Box">4 (2-Financial Investments)</container>
+            <container id="aspace_0bcdca68b57c10060a1b3b3e9661754d" parent="aspace_db338e706ef2455db6bcc2d9484702bd" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_36">
+        <c02 id="aspace_5c020178e005fc6008c55c922ad18952" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">6</container>
             <unittitle>Southern California Edison Company. . Stock purchase &amp; communication. Annual report.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1911-01/1912-04"> 1911 January- 1912 April</unitdate>
+            <unitdate normal="1911-01/1912-04" type="inclusive">1911 January- 1912 April</unitdate>
+            <container id="aspace_b0bd941a91e19a6cc514732f98a2cd41" label="Mixed Materials" type="Box">4 (2-Financial Investments)</container>
+            <container id="aspace_e76bd438e27e1ad934ad5a8b4a6c8381" parent="aspace_b0bd941a91e19a6cc514732f98a2cd41" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_37">
+        <c02 id="aspace_71370eeccdedd144b81dbd9931b2ff22" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">7</container>
             <unittitle>Stanislaus Power Development / Stanislaus Electric Power Company (A).. Prospectus, underwriters agreements, financial plans. Electric Bond and Share Company. Knickerbocker Trust Company. Sierra &amp; San Francisco Power Company.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1905-09/1912-04">1905 September- 1912 April</unitdate>
+            <unitdate normal="1905-09/1912-04" type="inclusive">1905 September- 1912 April</unitdate>
+            <container id="aspace_35dee194345e1861ea1c9cb0fcf09264" label="Mixed Materials" type="Box">4 (2-Financial Investments)</container>
+            <container id="aspace_29377b8a7bfe2f2bc2b95f3d2f7a9e36" parent="aspace_35dee194345e1861ea1c9cb0fcf09264" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_38">
+        <c02 id="aspace_df8786549ba12687b390dc1f4785642e" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">8</container>
             <unittitle>Stanislaus Power Development / Stanislaus Electric Power Company (B). . Prospectus, underwriters agreements, financial plans. Electric Bond and Share Company. Knickerbocker Trust Company. Sierra &amp; San Francisco Power Company.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1905-09/1912-04">1905 September- 1912 April</unitdate>
+            <unitdate normal="1905-09/1912-04" type="inclusive">1905 September- 1912 April</unitdate>
+            <container id="aspace_e6be3ead9f2588ffa20e741cc503a034" label="Mixed Materials" type="Box">4 (2-Financial Investments)</container>
+            <container id="aspace_2d0f48aebe6b1ce0355fffd29a75e53b" parent="aspace_e6be3ead9f2588ffa20e741cc503a034" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_39">
+        <c02 id="aspace_4f31aa2fec1340ee332f101ed327c269" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">1</container>
             <unittitle>The Tehuantepec Rubber Culture Company. . Mortgage bonds, life insurance. Rubber plantation investment.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901-08/1904-11">1901 August- 1904 November</unitdate>
+            <unitdate normal="1901-08/1904-11" type="inclusive">1901 August- 1904 November</unitdate>
+            <container id="aspace_ce51009ff58ec5c64f4de24531b82e2f" label="Mixed Materials" type="Box">5 (2-Financial Investments)</container>
+            <container id="aspace_7c72541139dc09e4b7be0609be3b299c" parent="aspace_ce51009ff58ec5c64f4de24531b82e2f" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_40">
+        <c02 id="aspace_3191246860400f8a7afcbba434fea508" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">2</container>
-            <unittitle> The Tiffin Edison Electric Illuminating Company. . Syndicate subscription.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1909-10/1911-10">1909 October- 1911 October</unitdate>
+            <unittitle>The Tiffin Edison Electric Illuminating Company. . Syndicate subscription.</unittitle>
+            <unitdate normal="1909-10/1911-10" type="inclusive">1909 October- 1911 October</unitdate>
+            <container id="aspace_b55f2950547106ab22938121e3c30ed5" label="Mixed Materials" type="Box">5 (2-Financial Investments)</container>
+            <container id="aspace_c3c5bdcfd048e043f5209324b0d966e2" parent="aspace_b55f2950547106ab22938121e3c30ed5" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_41">
+        <c02 id="aspace_101f2ba8119bbfd534cdc7b6e2407549" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">3</container>
             <unittitle>Walter A. Wood Mowing &amp; Reaping Machine Company. . Reorganization, stock/bond transactions.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1895-10/1912-01">1895 October- 1912 January</unitdate>
+            <unitdate normal="1895-10/1912-01" type="inclusive">1895 October- 1912 January</unitdate>
+            <container id="aspace_8604b3dd78433c6b95b7cd151ab1e7b2" label="Mixed Materials" type="Box">5 (2-Financial Investments)</container>
+            <container id="aspace_aee537fa9d204bcc54a6e8ddc6852de3" parent="aspace_8604b3dd78433c6b95b7cd151ab1e7b2" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-2_42">
+        <c02 id="aspace_c9be8d6f811878cd31b37f7f5fd144eb" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">4</container>
             <unittitle>Washington Water Power Company. . Stock transactions &amp; communications. By-laws, financial statements.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1909-01/1912-04">1909 January- 1912 April</unitdate>
+            <unitdate normal="1909-01/1912-04" type="inclusive">1909 January- 1912 April</unitdate>
+            <container id="aspace_20fea9e3909d99eaa36605506ca4ba73" label="Mixed Materials" type="Box">5 (2-Financial Investments)</container>
+            <container id="aspace_293af75aa9bc284580e85d9978dd9fc0" parent="aspace_20fea9e3909d99eaa36605506ca4ba73" type="Folder">4</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_apap293-3" level="series">
+      <c01 id="aspace_2af41df105a7e875d9a9f18928a890a9" level="series">
         <did>
-          <unittitle label="Series">Personal</unittitle>
+          <unittitle>Personal</unittitle>
           <unitid>3</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1890/1912" type="inclusive">1890-1912</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.55</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.55 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1890/1912" type="inclusive">1890-1912</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_a1b2756cb5ef276be38cfff42b1b79ba">
+          <head>Arrangement</head>
           <p>Arranged Alphabetically.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_54f21757e63dbe8926fcc5a793d38a1c">
+          <head>Scope and Contents</head>
           <p>This series contains all other material of a personal nature not included in Series 2. Subjects in this series range from family correspondence to property rights and deeds to Parsons involvement in committees and clubs, to personal investment advice. Two significant subjects in this series involved Parsons automotive interests and family estate communications.</p>
         </scopecontent>
-        <c02 id="nam_apap293-3_1">
+        <c02 id="aspace_edea10448905852f1c7108658838487c" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">5</container>
             <unittitle>Automobile interests. . Parts/purchases, accidents, arrest, miscellaneous.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1908/1912">1908-1912</unitdate>
+            <unitdate normal="1908/1912" type="inclusive">1908-1912</unitdate>
+            <container id="aspace_425953e057593cdf4741d8d698f1e593" label="Mixed Materials" type="Box">5 (3-Personal)</container>
+            <container id="aspace_000a1150cf4d87af5358b321d59330e5" parent="aspace_425953e057593cdf4741d8d698f1e593" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_2">
+        <c02 id="aspace_1482b1609b95c4e206c8dd2132aa0a3a" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">6</container>
-            <unittitle> Blodgett, Katherine Burr. . Investments</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1908-06/1910-11">1908 June- 1910 November</unitdate>
+            <unittitle>Blodgett, Katherine Burr. . Investments</unittitle>
+            <unitdate normal="1908-06/1910-11" type="inclusive">1908 June- 1910 November</unitdate>
+            <container id="aspace_f4f4da26bb45ae73e1e87bdc56e3faee" label="Mixed Materials" type="Box">5 (3-Personal)</container>
+            <container id="aspace_50e390cd71d974fe6fae501c8b26161b" parent="aspace_f4f4da26bb45ae73e1e87bdc56e3faee" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_3">
+        <c02 id="aspace_386fcb3456ed540ba0e015dae2fb8bb6" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">7</container>
             <unittitle>Burchard, Anson.. Communications, personal financial dealings</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1902-02/1912-04">1902 February- 1912 April</unitdate>
+            <unitdate normal="1902-02/1912-04" type="inclusive">1902 February- 1912 April</unitdate>
+            <container id="aspace_01dd35b6d2a126ee3da82d5ba575f965" label="Mixed Materials" type="Box">5 (3-Personal)</container>
+            <container id="aspace_7b1e1d9e0e70faf28b2dba45c4d9f174" parent="aspace_01dd35b6d2a126ee3da82d5ba575f965" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_4">
+        <c02 id="aspace_c4a1cf76942aeec752a9c87aece9c736" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">8</container>
-            <unittitle>Coffin, Charles A. (President, GE). . Land purchase in Maine  title dispute, legal proceedings correspondence</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1911-04/1912-04">1911 January-1912 April</unitdate>
+            <unittitle>Coffin, Charles A. (President, GE). . Land purchase in Maine title dispute, legal proceedings correspondence</unittitle>
+            <unitdate normal="1911-04/1912-04" type="inclusive">1911 January-1912 April</unitdate>
+            <container id="aspace_9b2ad09a7441cbaa95f2b119afac0a58" label="Mixed Materials" type="Box">5 (3-Personal)</container>
+            <container id="aspace_1fe1866eeb57a0b298abb0bd9658bd89" parent="aspace_9b2ad09a7441cbaa95f2b119afac0a58" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_5">
+        <c02 id="aspace_a099f7e0674f984a14d000f3feee6ba5" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">9</container>
-            <unittitle> Cranston, William Jr. family correspondence.. Personal loan repayment, Farmers Loan &amp; Trust Co.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1908-11/1911-12">1908 November-1911 December</unitdate>
+            <unittitle>Cranston, William Jr. family correspondence.. Personal loan repayment, Farmers Loan &amp; Trust Co.</unittitle>
+            <unitdate normal="1908-11/1911-12" type="inclusive">1908 November-1911 December</unitdate>
+            <container id="aspace_43e26c0d76422feb66ba34670573393e" label="Mixed Materials" type="Box">5 (3-Personal)</container>
+            <container id="aspace_7fb3fd5d046597e13076bdc2fc8f3590" parent="aspace_43e26c0d76422feb66ba34670573393e" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_6">
+        <c02 id="aspace_71ce4a2c2c2458bf677bbebc33159dfb" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">10</container>
             <unittitle>Copeland, William H.. Correspondence.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1897-03/1901-06">1897 March- 1901 June</unitdate>
+            <unitdate normal="1897-03/1901-06" type="inclusive">1897 March- 1901 June</unitdate>
+            <container id="aspace_9ea0c366e09a7b01527f205f15ef3d27" label="Mixed Materials" type="Box">5 (3-Personal)</container>
+            <container id="aspace_68efb27545da4908bef13a9a60ac118a" parent="aspace_9ea0c366e09a7b01527f205f15ef3d27" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_7">
+        <c02 id="aspace_0d053b7c39d8123cbda2ebedfd95bbd8" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">11</container>
             <unittitle>Down Town Association. Annual dues, receipts.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1904-07/1911-05">1904 July- 1911 May</unitdate>
+            <unitdate normal="1904-07/1911-05" type="inclusive">1904 July- 1911 May</unitdate>
+            <container id="aspace_9d70fa3ba69846adb9257b7baf66502d" label="Mixed Materials" type="Box">5 (3-Personal)</container>
+            <container id="aspace_18a6547943f09250aa2fd19d0682d64a" parent="aspace_9d70fa3ba69846adb9257b7baf66502d" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_8">
+        <c02 id="aspace_f6eb25b0afe2501c645dd75d42b33320" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">12</container>
-            <unittitle>Committees &amp; Clubs.. Knickerbocker Trust Company committee. Resumption of business, staffing/appointments, committee meeting minutes. Clubs list. Hoosac Club  dues notices &amp; payments. Cancelled checks. Miscellaneous.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1904-07/1911-12">1904 July- 1911 December</unitdate>
+            <unittitle>Committees &amp; Clubs.. Knickerbocker Trust Company committee. Resumption of business, staffing/appointments, committee meeting minutes. Clubs list. Hoosac Club dues notices &amp; payments. Cancelled checks. Miscellaneous.</unittitle>
+            <unitdate normal="1904-07/1911-12" type="inclusive">1904 July- 1911 December</unitdate>
+            <container id="aspace_86c1632cbbc5a99184ebbdab031b1a85" label="Mixed Materials" type="Box">5 (3-Personal)</container>
+            <container id="aspace_694bec8ac3dd03a6ceff984fbb4e3490" parent="aspace_86c1632cbbc5a99184ebbdab031b1a85" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_9">
+        <c02 id="aspace_c2f6bd7bd882a5e14c963768ec41977a" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">13</container>
-            <unittitle> Ives, J. M. . Estate dispute papers. Southern New England Telephone Company.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1905-01/1909-07">1905 January- 1909 July</unitdate>
+            <unittitle>Ives, J. M. . Estate dispute papers. Southern New England Telephone Company.</unittitle>
+            <unitdate normal="1905-01/1909-07" type="inclusive">1905 January- 1909 July</unitdate>
+            <container id="aspace_557aff7544e284e424573168e5e3bc25" label="Mixed Materials" type="Box">5 (3-Personal)</container>
+            <container id="aspace_fe0c9e75e7f15ecf633d17ce0adee708" parent="aspace_557aff7544e284e424573168e5e3bc25" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_10">
+        <c02 id="aspace_97fa70d810375f13f1759fc093c95cb7" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">14</container>
             <unittitle>Legal documents. . Life insurance policies &amp; correspondence, property deeds, titles, &amp; bonds, loan payments, house &amp; auto insurance</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1892-01/1912-04">1892 January 1912 April</unitdate>
+            <unitdate normal="1892-01/1912-04" type="inclusive">1892 January 1912 April</unitdate>
+            <container id="aspace_5a6626d14ccda34feb99a7279f95fa5e" label="Mixed Materials" type="Box">5 (3-Personal)</container>
+            <container id="aspace_5fe4458592fc2b1417675a572be97d75" parent="aspace_5a6626d14ccda34feb99a7279f95fa5e" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_11">
+        <c02 id="aspace_de21ae97d3e9aa817511c41dfa6863b4" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">1</container>
-            <unittitle> Merritt, Charles H. . Personal correspondence</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1900-12/1903-07">1900 December-1903 July</unitdate>
+            <unittitle>Merritt, Charles H. . Personal correspondence</unittitle>
+            <unitdate normal="1900-12/1903-07" type="inclusive">1900 December-1903 July</unitdate>
+            <container id="aspace_397db33e6369030564898ce7aafbeb61" label="Mixed Materials" type="Box">6 (3-Personal)</container>
+            <container id="aspace_0d11006d23e4e3a0f1845fadeb73ec24" parent="aspace_397db33e6369030564898ce7aafbeb61" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_12">
+        <c02 id="aspace_79c9e59a1f5bfa91f9e070238c66bb48" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">2</container>
             <unittitle>The Noble &amp; Wood Machine Company. . License contract</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1906-05">1906 May</unitdate>
+            <unitdate normal="1906-05/1906-05" type="inclusive">1906 May</unitdate>
+            <container id="aspace_b4beb07cf540602098f2e9d28eb89f09" label="Mixed Materials" type="Box">6 (3-Personal)</container>
+            <container id="aspace_83354d2bcdf976fd79d9826e4e43e416" parent="aspace_b4beb07cf540602098f2e9d28eb89f09" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_13">
+        <c02 id="aspace_eac3aa44f2e7b231ab9b780f501c8dd3" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">3</container>
             <unittitle>Parsons, James Russell Jr. (brother). . Property sale correspondence. Elevator repairs at the NY State Library. Schenectady Superintendant of Schools appointment. Death while serving as Consul General of the United States to Mexico.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1895-01/1905-12">1895 January- 1905 December</unitdate>
+            <unitdate normal="1895-01/1905-12" type="inclusive">1895 January- 1905 December</unitdate>
+            <container id="aspace_f60e3d4c792cd4ba8400f2489ac5f5bd" label="Mixed Materials" type="Box">6 (3-Personal)</container>
+            <container id="aspace_96f7845389c5cf08f39603a5c3f988c4" parent="aspace_f60e3d4c792cd4ba8400f2489ac5f5bd" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_14">
+        <c02 id="aspace_fe2c9523865cae96b43744a7655d8d45" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">4</container>
             <unittitle>Parsons, Willard P. (brother). . Correspondence</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1897-11/1905-03">1897 November- 1905 March</unitdate>
+            <unitdate normal="1897-11/1905-03" type="inclusive">1897 November- 1905 March</unitdate>
+            <container id="aspace_2c8964461a144e0e5a08b594a68e5700" label="Mixed Materials" type="Box">6 (3-Personal)</container>
+            <container id="aspace_2bf18842c54097981fbdf783fd4b2126" parent="aspace_2c8964461a144e0e5a08b594a68e5700" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_15">
+        <c02 id="aspace_925616cc6dbf29470d1438a885051dc9" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">5</container>
             <unittitle>Parsons, James Russell Sr. . Life summary. Estate, legal proceedings</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1890-06/1900-06">1890 June- 1900 June</unitdate>
+            <unitdate normal="1890-06/1900-06" type="inclusive">1890 June- 1900 June</unitdate>
+            <container id="aspace_1d726b326daeb7887b88cdf4c6d2525f" label="Mixed Materials" type="Box">6 (3-Personal)</container>
+            <container id="aspace_ba7a177cbae8b19460568ec925cd472a" parent="aspace_1d726b326daeb7887b88cdf4c6d2525f" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_16">
+        <c02 id="aspace_ee52af91e84f7dca517b7645d322314a" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">6</container>
             <unittitle>Peck, S. . Estate</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1913-03-01">1913 March 1</unitdate>
+            <unitdate normal="1913-03-01/1913-03-01" type="inclusive">1913 March 1</unitdate>
+            <container id="aspace_58dab673c116837dca65ad3bdd794878" label="Mixed Materials" type="Box">6 (3-Personal)</container>
+            <container id="aspace_d75fc74d3750b433096a13611471e57e" parent="aspace_58dab673c116837dca65ad3bdd794878" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_17">
+        <c02 id="aspace_4846e083a21d9c1f0951d622538f4e68" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">7</container>
             <unittitle>Piping Rock Club. . Membership, dues communications</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1912-03/1912-04">1912 March-April</unitdate>
+            <unitdate normal="1912-03/1912-04" type="inclusive">1912 March-April</unitdate>
+            <container id="aspace_3bbb18c7f1e2f2a9754f52925e2f1406" label="Mixed Materials" type="Box">6 (3-Personal)</container>
+            <container id="aspace_022a68f647a970737acacfc84f931836" parent="aspace_3bbb18c7f1e2f2a9754f52925e2f1406" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_18">
+        <c02 id="aspace_b40cdaf5a215426bc9bb137bfd3e2827" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">8</container>
-            <unittitle> Potter, Nathaniel Bowditch M.D. . Financial, medical communications</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1904-07/1911-01">1904 July- 1911 January</unitdate>
+            <unittitle>Potter, Nathaniel Bowditch M.D. . Financial, medical communications</unittitle>
+            <unitdate normal="1904-07/1911-01" type="inclusive">1904 July- 1911 January</unitdate>
+            <container id="aspace_58bd49b7da203086e4b83dfc9612fc0c" label="Mixed Materials" type="Box">6 (3-Personal)</container>
+            <container id="aspace_db9c4611322dc0771298bc26daf95d33" parent="aspace_58bd49b7da203086e4b83dfc9612fc0c" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_19">
+        <c02 id="aspace_e300af552a9e1ea1b15c1e866a2a0afb" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">9</container>
             <unittitle>Starr, Howard W. . Personal correspondence</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1905-01/1906-05">1905 January- 1906 May</unitdate>
+            <unitdate normal="1905-01/1906-05" type="inclusive">1905 January- 1906 May</unitdate>
+            <container id="aspace_4d0d02679394b049719446f27e87ceac" label="Mixed Materials" type="Box">6 (3-Personal)</container>
+            <container id="aspace_53ca51f43c27e8762416467467839711" parent="aspace_4d0d02679394b049719446f27e87ceac" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_20">
+        <c02 id="aspace_4fa99a0ec1116bfe814fe680e81c0cf5" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">10</container>
             <unittitle>Shearon, John &amp; Bridget. . Property title legalities. Mortgages &amp; deeds records.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1903-06/1903-10">1903 June- October</unitdate>
+            <unitdate normal="1903-06/1903-10" type="inclusive">1903 June- October</unitdate>
+            <container id="aspace_cdc096e3b67d037958c04013d9d2b4ea" label="Mixed Materials" type="Box">6 (3-Personal)</container>
+            <container id="aspace_5005191e542aaf113fb5b72ae5d199b4" parent="aspace_cdc096e3b67d037958c04013d9d2b4ea" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_21">
+        <c02 id="aspace_7d2046364992261729dc7857924ea8da" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">11</container>
             <unittitle>Steele, Mr. &amp; Mrs. Robert E. . Personal correspondence, medical issues</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1910-07/1911-11">1910 July- 1911 November</unitdate>
+            <unitdate normal="1910-07/1911-11" type="inclusive">1910 July- 1911 November</unitdate>
+            <container id="aspace_c2fccd2f52704342fcbc3f398d93eaca" label="Mixed Materials" type="Box">6 (3-Personal)</container>
+            <container id="aspace_89d2596e53011be8299bcf9568369081" parent="aspace_c2fccd2f52704342fcbc3f398d93eaca" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_22">
+        <c02 id="aspace_5daf8dad369357e6449f27a73b79f4f3" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">12</container>
             <unittitle>Van Voast, James A. . Nicholson mortgage</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1911-02/1911-05">1911 February- May</unitdate>
+            <unitdate normal="1911-02/1911-05" type="inclusive">1911 February- May</unitdate>
+            <container id="aspace_0812179a11226952dcacf104ddc0b95e" label="Mixed Materials" type="Box">6 (3-Personal)</container>
+            <container id="aspace_b895fe56faed9d507b267a5c78b3b01a" parent="aspace_0812179a11226952dcacf104ddc0b95e" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_23">
+        <c02 id="aspace_541114850d0220cb0c306de6fde280d0" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">13</container>
             <unittitle>Knickerbocker Trust Company stocks communications, Board of Directors appointments &amp; communications</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1908-03/1910-09">1908 March- 1910 September</unitdate>
+            <unitdate normal="1908-03/1910-09" type="inclusive">1908 March- 1910 September</unitdate>
+            <container id="aspace_c3f8d8a24b79a0ceafa94359966cb17e" label="Mixed Materials" type="Box">6 (3-Personal)</container>
+            <container id="aspace_233186ddfa1b951304577cb91090aa65" parent="aspace_c3f8d8a24b79a0ceafa94359966cb17e" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap293-3_24">
+        <c02 id="aspace_5608cec66ca29aab715ba0bf61b18942" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">14</container>
             <unittitle>Knickerbocker Trust Company. Deposit communications &amp; receipts</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1910-10/1912-01">1910 December- 1912 January</unitdate>
+            <unitdate normal="1910-10/1912-01" type="inclusive">1910 December- 1912 January</unitdate>
+            <container id="aspace_29bc35692aac13d6820a4e95f653fb22" label="Mixed Materials" type="Box">6 (3-Personal)</container>
+            <container id="aspace_0a6cf7d1d5c042d2ddb4035609dbe964" parent="aspace_29bc35692aac13d6820a4e95f653fb22" type="Folder">14</container>
           </did>
         </c02>
       </c01>

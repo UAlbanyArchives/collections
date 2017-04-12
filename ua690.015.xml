@@ -1,1398 +1,1309 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua690.015">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua690.015.html" identifier="##">nam_ua690.015</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua690.015">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua690.015.xml">ua690.015</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>INSTITUTE OF GERONTOLOGY RECORDS (UA690.015)<date normal="1968/1995" type="inclusive">1968-1995</date></titleproper>
+        <titleproper>Gerontology, Institute for; Records <num>ua690.015</num></titleproper>
         <author>Jason Kibby</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2013">Copyright 2013 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2013</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Jason Kibby<date normal="2013">2013</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 18:05:43 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2013</date>
+        <item>Encoded in EAD by Jason Kibby</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>INSTITUTE OF GERONTOLOGY RECORDS (UA690.015)<date normal="1968/1995" type="inclusive">1968-1995</date>
-      </titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2013</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua690.015</unitid>
-      <unittitle>Institute of Gerontology Records <unitdate type="inclusive" normal="1968/1995" label="Date:"> 1968-1995</unitdate>
-      </unittitle>
-      <physdesc label="Physical Characteristics:">
-        <extent unit="cubic ft.">11.6</extent>
-      </physdesc>
-      <origination>
-        <corpname encodinganalog="110" source="local">Institute of Gerontology (University at Albany)</corpname>
-      </origination>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:"> The records of the Institute of Gerontology include materials
-        from the Institute on Aging, the Institute of Gerontology and the Ringel Institute of
-        Gerontology, all of which served the same function within the State University of New York
-        at Albany. Records include materials about program creation, correspondence, day files,
-        grant applications, budgets, publications, research materials and professional development. </abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Institute of Gerontology Records<unitdate normal="1968/1995" type="inclusive">1968-1995</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">Institute of Gerontology (University at Albany)</corpname>
+      </origination>
+      <unitid>ua690.015</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">11.6 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_f6772674078910995014e59850b3b6d6">The records of the Institute of Gerontology include materials from the Institute on Aging, the Institute of Gerontology and the Ringel Institute of Gerontology, all of which served the same function within the State University of New York at Albany. Records include materials about program creation, correspondence, day files, grant applications, budgets, publications, research materials and professional development.</abstract>
+      <langmaterial id="aspace_3310171c1fd2b064774300b383a8037f">English</langmaterial>
+      <physloc id="aspace_984b49f17e45e48617ed43de9baf7c55">The materials are located onsite in the department.</physloc>
     </did>
-    <phystech>
+    <processinfo id="aspace_7984d4ae7394e6b1dc189c2e4fc4a3a7">
+      <head>Processing Information</head>
+      <p>Processed in 2013 by Jason Kibby.</p>
+    </processinfo>
+    <phystech id="aspace_914f493a566a8b59effb461d531e0d3a">
+      <head>Physical Characteristics and Technical Requirements</head>
       <p>Web Archives</p>
     </phystech>
-    <accessrestrict>
+    <accessrestrict id="aspace_33c2224936769ee5b9285dd1e271c27c">
       <head>Access</head>
-      <p> Access to this record group is unrestricted. </p>
+      <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_ada07084482ecd8a636baa886cf14652">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_c35e6d0b4f0d199b6b3b140afd4519ed">
       <head>Acquisition Information</head>
-      <p> All items in this manuscript group were donated to the University Libraries, M.E.
-        Grenander Department of Special Collections and Archives, by the Ringel Institute for
-        Gerontology in March 1995. </p>
+      <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by the Ringel Institute for Gerontology in March 1995.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_e774460c19a46353e9792392218a1cb7">
       <head>Administrative History</head>
-      <p>The Institute of Gerontology was the successor to the Institute on Aging, created in 1968
-        as part of the College of General Studies at the University at Albany, State University of
-        New York. The purpose of the Institute, and all subsequent iterations, was to provide
-        knowledge and research into the experience and care of elderly citizens. Specific issues
-        such as nursing home care, criminal offenders and social interaction were the focus of
-        instruction, communication and research through degree programs and certificates, seminars,
-        conferences, newsletters, consortial committees and research studies. In 1972, the
-        organization was renamed as the Institute of Gerontology, and became part of the
-        University's School of Social Welfare. Within a few years, it received status as an
-        established research unit. In 1982, it became the Ringel Institute for
-        Gerontology, named for Rhoda and Stan Ringel, both of whom supported the mission of the
-        institute. The name was changed again in 1997, back to the Institute of Gerontology, which
-        it remains. It is currently comprised of two units, the Center for Research and the Center
-        for Excellence in Aging Services. </p>
-      <p>Previous directors for the program include Father Anthony Rocha, Steven. I. Pflanczer,
-        Susan R. Sherman and Sheldon S. Tobin. Primary researchers for the Institute include Evelyn
-        S. Newman and Susan R. Sherman. Research topics continued to include elderly offenders,
-        nursing home care, social interaction for seniors as well as the role of the University in
-        advocating for this population, among others. Beyond research papers, the Institute hosted a
-        number of conferences, seminars and training sessions. </p>
-      <p>Funding was initially provided through grants. After the first director, Father Anthony
-        Rocha, failed to secure a necessary grant for a second consecutive year, he resigned from
-        the Institute, which then was absorbed by the School of Social Welfare. From this point on,
-        funding was received through a mix of grants and institutional funding. </p>
+      <p>The Institute of Gerontology was the successor to the Institute on Aging, created in 1968 as part of the College of General Studies at the University at Albany, State University of New York. The purpose of the Institute, and all subsequent iterations, was to provide knowledge and research into the experience and care of elderly citizens. Specific issues such as nursing home care, criminal offenders and social interaction were the focus of instruction, communication and research through degree programs and certificates, seminars, conferences, newsletters, consortial committees and research studies. In 1972, the organization was renamed as the Institute of Gerontology, and became part of the University's School of Social Welfare. Within a few years, it received status as an established research unit. In 1982, it became the Ringel Institute for Gerontology, named for Rhoda and Stan Ringel, both of whom supported the mission of the institute. The name was changed again in 1997, back to the Institute of Gerontology, which it remains. It is currently comprised of two units, the Center for Research and the Center for Excellence in Aging Services. </p>
+      <p> Previous directors for the program include Father Anthony Rocha, Steven. I. Pflanczer, Susan R. Sherman and Sheldon S. Tobin. Primary researchers for the Institute include Evelyn S. Newman and Susan R. Sherman. Research topics continued to include elderly offenders, nursing home care, social interaction for seniors as well as the role of the University in advocating for this population, among others. Beyond research papers, the Institute hosted a number of conferences, seminars and training sessions. </p>
+      <p> Funding was initially provided through grants. After the first director, Father Anthony Rocha, failed to secure a necessary grant for a second consecutive year, he resigned from the Institute, which then was absorbed by the School of Social Welfare. From this point on, funding was received through a mix of grants and institutional funding.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>Records contained in this collection include administrative files such as records
-        documenting program creation, committee minutes and agendas, day files and correspondence
-        from 1970-1995, financial records related to grand funding and budgets from 1968-1993, and
-        publications including research projects, training seminars and conferences from 1970-1990.
-        Records from the Ringel Institute of Gerontology follow those of the Institute of
-        Gerontology within the same series. There are few remaining records from the Institute on
-        Aging. Photographs and slides are included in the same boxes and folders as paper documents.
-        Cassettes are housed separately in the Special Collections Cold Room.</p>
+    <scopecontent id="aspace_07d465a7c9741de68379fe571579c740">
+      <head>Scope and Contents</head>
+      <p>Records contained in this collection include administrative files such as records documenting program creation, committee minutes and agendas, day files and correspondence from 1970-1995, financial records related to grand funding and budgets from 1968-1993, and publications including research projects, training seminars and conferences from 1970-1990. Records from the Ringel Institute of Gerontology follow those of the Institute of Gerontology within the same series. There are few remaining records from the Institute on Aging. Photographs and slides are included in the same boxes and folders as paper documents. Cassettes are housed separately in the Special Collections Cold Room.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_11d13481a0a1ee17943bb20ddf40dab1">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series:</p>
-      <list type="simple">
-        <item>Series 1 - Administrative Files 1970-1995, Undated</item>
-        <item>Series 2 - Financial Files 1968-1993, Undated</item>
-        <item>Series 3 - Publicity, Research and Professional Development 1970-1990, Undated</item>
-      </list>
       <p>Series are arranged chronologically.</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-           Try to give as many access points as you can to increase the chances of 
-           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-           to comment them out! -->
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Senior Citizens</subject>
-      <subject source="meg" encodinganalog="650">Criminal Justice and Prisons</subject>
-      <persname encodinganalog="600" source="lcsh">Newman, Evelyn S.</persname>
-      <persname encodinganalog="600" source="lcsh">Sherman, Susan--(Susan R.)</persname>
-      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany--Institute
-        of Gerontology</corpname>
-      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany--School of
-        Social Welfare</corpname>
-      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany</corpname>
-      <subject encodinganalog="650" source="lcsh">Education, Higher--New York (State)</subject>
-      <subject encodinganalog="650" source="lcsh">Older people--Social networks--New York
-        (State)</subject>
-      <subject encodinganalog="650" source="lcsh">Elderly poor--New York (State)</subject>
-      <subject encodinganalog="650" source="lcsh">Frail elderly--Care--New York (State)</subject>
-      <subject encodinganalog="650" source="lcsh">Nursing home care--New York (State)</subject>
-      <subject encodinganalog="650" source="lcsh">Older offenders--United States</subject>
-      <genreform encodinganalog="655" source="aat">Financial records</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Curricula</genreform>
-      <genreform encodinganalog="655" source="aat">Research notes</genreform>
-      <genreform encodinganalog="655" source="aat">Audiocassettes</genreform>
-      <genreform encodinganalog="655" source="aat">Videocassettes</genreform>
-      <genreform encodinganalog="655" source="aat">Files by subject</genreform>
-      <genreform source="meg" encodinganalog="655">Web Archives</genreform>
-    </controlaccess>
-    <prefercite encodinganalog="524">
+    <prefercite id="aspace_199e14cb2030ea9c02db5d1221c3706e">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Institute of Gerontology Records,
-        1968-1995. M.E. Grenander Department of Special Collections and Archives, University
-        Libraries, University at Albany, State University of New York (hereafter referred to as the
-        Institute of Gerontology Records).</p>
+      <p> Identification of specific item, series, box, folder, Institute of Gerontology Records, 1968-1995. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Institute of Gerontology Records).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <!-- Start series 1-->
-      <c01 level="series" id="nam_ua690.015-1">
+    <controlaccess>
+      <subject source="meg">Senior Citizens</subject>
+      <subject source="meg">Criminal Justice and Prisons</subject>
+      <subject source="lcsh">Education, Higher--New York (State)</subject>
+      <subject source="lcsh">Older people--Social networks--New York (State)</subject>
+      <subject source="lcsh">Elderly poor--New York (State)</subject>
+      <subject source="lcsh">Frail elderly--Care--New York (State)</subject>
+      <subject source="lcsh">Nursing home care--New York (State)</subject>
+      <subject source="lcsh">Older offenders--United States</subject>
+      <genreform source="aat">Financial Records</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">curricula</genreform>
+      <genreform source="aat">Research Notes</genreform>
+      <genreform source="aat">Audiocassettes</genreform>
+      <genreform source="aat">Videocassettes</genreform>
+      <genreform source="aat">Files by subject</genreform>
+      <genreform source="meg">Web Archives</genreform>
+      <persname source="lcsh">Newman, Evelyn S.</persname>
+      <persname source="lcsh">Sherman, Susan--(Susan R.)</persname>
+      <corpname source="lcsh">State University of New York at Albany--Institute of Gerontology</corpname>
+      <corpname source="lcsh">State University of New York at Albany--School of Social Welfare</corpname>
+      <corpname source="lcsh">State University of New York at Albany</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_71657dc2889c51af6a9e9a6b4bba2ee1" level="series">
         <did>
+          <unittitle>General Correspondence</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">General Correspondence</unittitle>
-          <physdesc>
-            <extent unit="cubic ft.">2.1</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2.1 cubic ft.</extent>
           </physdesc>
           <unitdate normal="1970/1995" type="inclusive">1970-1995</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+          <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
         </did>
-        <arrangement>
-          <p> Arranged chronologically. </p>
+        <arrangement id="aspace_d1ba827b440037ed4adbdecbe0a3b02c">
+          <head>Arrangement</head>
+          <p>Arranged chronologically.</p>
         </arrangement>
-        <scopecontent>
-          <p>This series contains files relating to the creation of specific programs and
-            certificates including the Nursing Home Ombudsman Program and Elderhostel Senior
-            Seminar, day files, faculty searches, memos and correspondence of Evelyn Newman and
-            Susan Sherman. </p>
+        <scopecontent id="aspace_c75822282364cf025d3600a614c01c9d">
+          <head>Scope and Contents</head>
+          <p>This series contains files relating to the creation of specific programs and certificates including the Nursing Home Ombudsman Program and Elderhostel Senior Seminar, day files, faculty searches, memos and correspondence of Evelyn Newman and Susan Sherman.</p>
         </scopecontent>
-        <c02 id="nam_ua690.015-1_1">
+        <c02 id="aspace_d5fc61812cbdc6876c12bbbaf4d20fdc" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Partial Report on Activities</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970/1971">1970-1971</unitdate>
+            <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
+            <container id="aspace_b95acddba747ac1b28f3d3062ddbeb9e" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_22b70ab10d5023869afdb43c4c71636c" parent="aspace_b95acddba747ac1b28f3d3062ddbeb9e" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_2">
+        <c02 id="aspace_ee96a842b15b6ec7080006e9c644868e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Day Files</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971/1972">1971-1972</unitdate>
+            <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+            <container id="aspace_d644fec794f57d891097690c187238cb" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_533ee0af53e31cb1d5a3f20d90e74406" parent="aspace_d644fec794f57d891097690c187238cb" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_3">
+        <c02 id="aspace_27549c30e26baaf3bd1301d98b518a2f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3-4</container>
             <unittitle>Day Files</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972/1973">1972-1973</unitdate>
+            <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
+            <container id="aspace_2dc573fcd42c5921c7500be3e83a9f06" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_6509c26b2ae58e04b4534d22eea167dc" parent="aspace_2dc573fcd42c5921c7500be3e83a9f06" type="Folder">3-4</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_4">
+        <c02 id="aspace_4092d2e1362f99f19c056d2d15dafe5f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5-6</container>
             <unittitle>Day Files</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973-03/1973-08">1973 March-August</unitdate>
+            <unitdate normal="1973-03/1973-08" type="inclusive">1973 March-August</unitdate>
+            <container id="aspace_3d5d9d9e46ccee9df433528265bab03c" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_2090e0bf4b4e10ba5bec5e9c989681fa" parent="aspace_3d5d9d9e46ccee9df433528265bab03c" type="Folder">5-6</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_5">
+        <c02 id="aspace_32fc6af7cee15581beeaa57782051d56" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7-8</container>
             <unittitle>Day Files</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973/1974">1973-1974</unitdate>
+            <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+            <container id="aspace_4c41ad47e7d59fed0b15a880e52cb0b7" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_9018aca911e0a47e2adac346e50f53dc" parent="aspace_4c41ad47e7d59fed0b15a880e52cb0b7" type="Folder">7-8</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_6">
+        <c02 id="aspace_d7463cf36f444339bf7386ebba6a4fed" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Day Files</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974/1975">1974-1975</unitdate>
+            <unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate>
+            <container id="aspace_3c1fde4985631e8ae0b3b84b9b2d55e9" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_0d321f19e88a771bcf1c566f9d02770d" parent="aspace_3c1fde4985631e8ae0b3b84b9b2d55e9" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_7">
+        <c02 id="aspace_fc1e9d9c097634bb2ebf730aa1741d30" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Evelyn Newman Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974/1975">1974-1975</unitdate>
+            <unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate>
+            <container id="aspace_7e7c5fa2a365c4cd84c716c3ec9b07c8" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_d6c401b80c8192b52b0dd69b0196e8d3" parent="aspace_7e7c5fa2a365c4cd84c716c3ec9b07c8" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_8">
+        <c02 id="aspace_55e55285d1101fcd9f0ad2edbd38b2a2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Day Files</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975">1975</unitdate>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_c0ed0785754ac24624ff01b7f72acede" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_c8fbf8a75bd479fef15fec6e158ac209" parent="aspace_c0ed0785754ac24624ff01b7f72acede" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_9">
+        <c02 id="aspace_9ce101e726c7f4c38dedf25ae8b11fb4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Michelle Levy Certificate, Photo</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975">1975</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_7442468b401901f49548fe1eeb754154" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_321196169a9a8cdc001af7541f5f083b" parent="aspace_7442468b401901f49548fe1eeb754154" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_10">
+        <c02 id="aspace_231980b484cacb790da600ebb7af0f6d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Annual Report</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/1976">1975-1976</unitdate>
+            <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
+            <container id="aspace_e01696f326364fd825df1ea8a6988a73" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_d7466109750644b895791e28366719e3" parent="aspace_e01696f326364fd825df1ea8a6988a73" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_11">
+        <c02 id="aspace_d80ecc5b84ad31f7db32041d629af8be" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Annual Reports</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/1976">1975-1976</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1983">1980-1983</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+            <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <unitdate normal="1980/1983" type="inclusive">1980-1983</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_e0783edb2fc80305fe75659fdc1f3a73" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_5206b588ce87ba9c0c47ebcfaff172b0" parent="aspace_e0783edb2fc80305fe75659fdc1f3a73" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_12">
+        <c02 id="aspace_94608a5026d5239d76e775920353b8fa" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Day Files</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976">1976</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_a37970a68e9656f9022f15b22fd09423" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_7b70bfb2818a1c123f8d06731d1147cb" parent="aspace_a37970a68e9656f9022f15b22fd09423" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_13">
+        <c02 id="aspace_543725333a424dfe365a28cf33b0a1cb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Local (Community) Advisory Committee Notebook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976/1980">1976-1980</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1976/1980" type="inclusive">1976-1980</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_8d5d4d70e1e8c25eb84681a6e2294657" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_6107d01b5a55a7fc371639a705af6c77" parent="aspace_8d5d4d70e1e8c25eb84681a6e2294657" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_14">
+        <c02 id="aspace_7c442d6ce1d2f8c7f59569f6a1610aeb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>General Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976/1983">1976-1983</unitdate>
+            <unitdate normal="1976/1983" type="inclusive">1976-1983</unitdate>
+            <container id="aspace_1645c618ada1712e2bc31275ff75a13e" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_8ca50d985e04ed1b24453ee5f4d0401b" parent="aspace_1645c618ada1712e2bc31275ff75a13e" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_15">
+        <c02 id="aspace_2df4bdeb9e2ceeb64a230618120fb98a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>Day Files</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977">1977</unitdate>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_443df00da51a6d49ff71714270216f30" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_d6d5cd21715486d4750842eb7741151f" parent="aspace_443df00da51a6d49ff71714270216f30" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_16">
+        <c02 id="aspace_5c6fbeb21b48fda7c3bb3591bcc17b2a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19-20</container>
             <unittitle>Nursing Home Ombudsman Program</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1978">1977-1978</unitdate>
+            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container id="aspace_95e3488923a415a622aaf4eb8e120ab0" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_4feb6a9c0bc98ba883feaef408ee33da" parent="aspace_95e3488923a415a622aaf4eb8e120ab0" type="Folder">19-20</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_17">
+        <c02 id="aspace_8e5fd6af836167e600e982746d72b100" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>Campus Advisory Board</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1980">1977-1980</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1977/1980" type="inclusive">1977-1980</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_de8c43a50f9f89b45b1310f3531470a1" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_43b73fc41c0a6c366aea9dc0244768b1" parent="aspace_de8c43a50f9f89b45b1310f3531470a1" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_18">
+        <c02 id="aspace_de7fd79063291f9194f4cc0531492197" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>Elderhostel Senior Seminar</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1981">1977-1981</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1977/1981" type="inclusive">1977-1981</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_4c258c31fe4230284ff7de6ac752d5b6" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_5a5eae9bd49fc39f473174c81188e4a7" parent="aspace_4c258c31fe4230284ff7de6ac752d5b6" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_19">
+        <c02 id="aspace_7fee3041cd94b93c05a00ba692d54159" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23</container>
             <unittitle>Evelyn Newman Memos</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1982">1977-1982</unitdate>
+            <unitdate normal="1977/1982" type="inclusive">1977-1982</unitdate>
+            <container id="aspace_111e26c80ea3b3cdfec8348f97cca02a" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_8f5daea0fc770d06ae973e6c0dd9ba97" parent="aspace_111e26c80ea3b3cdfec8348f97cca02a" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_20">
+        <c02 id="aspace_022bcd13febb4e49dd25bbfc30973ef2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">24</container>
             <unittitle>NY State Nursing Home Ombudsman Final Report</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_c3932ffd316be66398f214387941b97c" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_f693840f5a351ac165a36cca1f04e705" parent="aspace_c3932ffd316be66398f214387941b97c" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_21">
+        <c02 id="aspace_9d9c27abd4f65cb96dbda385a542203a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">25</container>
             <unittitle>Day Files</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_8015ca7c7077a8f087f2f60627a23cd4" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_05a42dacc7eb6104c71b8ec0d38c5d03" parent="aspace_8015ca7c7077a8f087f2f60627a23cd4" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_22">
+        <c02 id="aspace_821e301976948ca5864e70f9fd767e60" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">26</container>
             <unittitle>Basic Adult Services: Model Curriculum</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978/1981">1978-1981</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1978/1981" type="inclusive">1978-1981</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_e18d337e194a360b9b1a45d81be6ed8c" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_3f8fe3d5449453b8a6feafe9064448f4" parent="aspace_e18d337e194a360b9b1a45d81be6ed8c" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_23">
+        <c02 id="aspace_a22c77d1392d9993bd03a0f337667dc8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">27</container>
             <unittitle>Day Files</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_48cc1ee434b1a64ce2417d603d1f5df8" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_df0a65ff83bc26e9e32f8bddf757f821" parent="aspace_48cc1ee434b1a64ce2417d603d1f5df8" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_24">
+        <c02 id="aspace_7d099a2ace2d759fe36d63e06b799e7d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">28</container>
             <unittitle>Susan M. Sherman Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1980">1979-1980</unitdate>
+            <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
+            <container id="aspace_8143d57e5ef21010d4c611c6faf565a8" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_f0bc01f9f03caa16c663deff088d65b5" parent="aspace_8143d57e5ef21010d4c611c6faf565a8" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_25">
+        <c02 id="aspace_d7a6eb323c7639ff40285ffd97915aac" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">29</container>
             <unittitle>Undergraduate 2nd Field in Aging</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1980">1979-1980</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_a18d8adba50e00fbf0a5bcab7832b109" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_debf92c66afa438f25bcc75651f4b683" parent="aspace_a18d8adba50e00fbf0a5bcab7832b109" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_26">
+        <c02 id="aspace_1f88094225fda1a393a9fcd5777a14fc" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1-2</container>
             <unittitle>Adult Family Care Training</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1980">1979-1980</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_6096b84ad3028995e23144fb106bb498" label="Mixed Materials" type="Box">2 (1-General Correspondence)</container>
+            <container id="aspace_a2a60f7bdb1143ce78480c394264bd6b" parent="aspace_6096b84ad3028995e23144fb106bb498" type="Folder">1-2</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_27">
+        <c02 id="aspace_3c5911ec388b671e613b9f44adae7eab" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Elderhostel Senior Seminar</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1981">1979-1981</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1979/1981" type="inclusive">1979-1981</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_d4057d51fda620d6343f26026c664a49" label="Mixed Materials" type="Box">2 (1-General Correspondence)</container>
+            <container id="aspace_50e978a6bb9f79a929fff21c894cce39" parent="aspace_d4057d51fda620d6343f26026c664a49" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_28">
+        <c02 id="aspace_782195f9172d88b3e2bdf06eb94e17ff" level="file">
           <did>
-            <container type="Cassette">1</container>
             <unittitle>Community University Day</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/1979">late 1970s</unitdate>
+            <unitdate normal="1975/1979" type="inclusive">late 1970s</unitdate>
+            <container id="aspace_26e32db6c5b77994e6e5e4bae7cf7e83" label="Mixed Materials" type="Cassette">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_29">
+        <c02 id="aspace_d3aad4f296b5ddc2086d1f0cffbea4de" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Certificate Program for Nursing Home Administrators</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980">1980</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_357fdd5c0fa2a4e5be83d114a00ca361" label="Mixed Materials" type="Box">2 (1-General Correspondence)</container>
+            <container id="aspace_7068898db9ec7d7322acefb2b9019d9e" parent="aspace_357fdd5c0fa2a4e5be83d114a00ca361" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_30">
+        <c02 id="aspace_10d570b62659fe89ae7d45f587a3ee41" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>Day Files</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980">1980</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_fd15ed7f0e9f5022f8e408129199524e" label="Mixed Materials" type="Box">2 (1-General Correspondence)</container>
+            <container id="aspace_be3340e52cf218fdad6eb16180f3153a" parent="aspace_fd15ed7f0e9f5022f8e408129199524e" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_31">
+        <c02 id="aspace_d4ace39679cd77eb116f11f022ec1bab" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>Field of Study</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1981">1980-1981</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_e6829d5d0e0e2c32e78e169478d037db" label="Mixed Materials" type="Box">2 (1-General Correspondence)</container>
+            <container id="aspace_a95fd077cb03b4f8c4e46addda22261d" parent="aspace_e6829d5d0e0e2c32e78e169478d037db" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_32">
+        <c02 id="aspace_f40bf9a5a04e833f79df35a5279e97dd" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7-8</container>
             <unittitle>General Memos</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1982">1980-1982</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984/1989">1984-1989</unitdate>
+            <unitdate normal="1980/1982" type="inclusive">1980-1982</unitdate>
+            <unitdate normal="1984/1989" type="inclusive">1984-1989</unitdate>
+            <container id="aspace_66d4a8cc0b53c5553a4bfd9af834f0f2" label="Mixed Materials" type="Box">2 (1-General Correspondence)</container>
+            <container id="aspace_6824c29060e15072e1df043c5b3798fe" parent="aspace_66d4a8cc0b53c5553a4bfd9af834f0f2" type="Folder">7-8</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_33">
+        <c02 id="aspace_6c22f6678c7f0984b8dffc20901c8f7a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9-10</container>
             <unittitle>General Information</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1985">1980-1985</unitdate>
+            <unitdate normal="1980/1985" type="inclusive">1980-1985</unitdate>
+            <container id="aspace_f1f5b0f5954da1d5603389ccba4ecd46" label="Mixed Materials" type="Box">2 (1-General Correspondence)</container>
+            <container id="aspace_d77af0bbf2e0467c1a3f7383671f4685" parent="aspace_f1f5b0f5954da1d5603389ccba4ecd46" type="Folder">9-10</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_34">
+        <c02 id="aspace_28fa99137abc0c3aae04e529846555d2" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>Day Files</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_32d7de60b3531a8c1976781126cba0e5" label="Mixed Materials" type="Box">3 (1-General Correspondence)</container>
+            <container id="aspace_de7f3d9e1e6525e99c693e43891f7e8c" parent="aspace_32d7de60b3531a8c1976781126cba0e5" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_35">
+        <c02 id="aspace_da5396c31b51d7812bd1d92705dba5ae" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>Faculty Search</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_b66771d8b47ceed0199c53c57d4f469e" label="Mixed Materials" type="Box">3 (1-General Correspondence)</container>
+            <container id="aspace_5cb144740d6285f5e05294ec800aafa4" parent="aspace_b66771d8b47ceed0199c53c57d4f469e" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_36">
+        <c02 id="aspace_0d4c3d5041dbc830d86b2222ea355453" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">3</container>
             <unittitle>Student Orientation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1982">1981-1982</unitdate>
+            <unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate>
+            <container id="aspace_d2ee1ffc561afa93d0044d7fb5384418" label="Mixed Materials" type="Box">3 (1-General Correspondence)</container>
+            <container id="aspace_27fd27f72f7e3c310a84c827b4876f56" parent="aspace_d2ee1ffc561afa93d0044d7fb5384418" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_37">
+        <c02 id="aspace_67f439f2eb28da24826f7ff46d190d38" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4</container>
             <unittitle>Agreement with the Ringels</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1982">1981-1982</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_77e2670d7303363411c86d7fe28f858a" label="Mixed Materials" type="Box">3 (1-General Correspondence)</container>
+            <container id="aspace_baa875db1ea47f78617f76173a302d16" parent="aspace_77e2670d7303363411c86d7fe28f858a" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_38">
+        <c02 id="aspace_be4b2464879cdbb7db708d8632aa23e6" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">5</container>
             <unittitle>Committees on Centers and Institutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1982">1981-1982</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_9383d75407f934d1a5349754037664e7" label="Mixed Materials" type="Box">3 (1-General Correspondence)</container>
+            <container id="aspace_dc923a30404d801db2ad539a8b020ad0" parent="aspace_9383d75407f934d1a5349754037664e7" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_39">
+        <c02 id="aspace_92dba2644bf6a72cd53d021323ef33c4" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">6-7</container>
             <unittitle>Development of Program</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1982">1981-1982</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_183c61f9edfd013e76a10bd377e90990" label="Mixed Materials" type="Box">3 (1-General Correspondence)</container>
+            <container id="aspace_695fd2647168be1b4b27c44b23c09df3" parent="aspace_183c61f9edfd013e76a10bd377e90990" type="Folder">6-7</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_40">
+        <c02 id="aspace_90ee8ceb365d0c959d3512bdc0b561c7" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">8</container>
             <unittitle>Five-Year Plan</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1982">1981-1982</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1989">1988-1989</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate>
+            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_d5e40eaf2736c32a3b2232748f277acd" label="Mixed Materials" type="Box">3 (1-General Correspondence)</container>
+            <container id="aspace_84f7b11bd2edb495367f0979b11fadbb" parent="aspace_d5e40eaf2736c32a3b2232748f277acd" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_41">
+        <c02 id="aspace_1d1fc5c631fea11ea8a58288fab7a5a3" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">9</container>
             <unittitle>Day Files</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_f21e2b8adb697a21101f8d1c2f726bca" label="Mixed Materials" type="Box">3 (1-General Correspondence)</container>
+            <container id="aspace_1306520e487f49b9323e94044ff93763" parent="aspace_f21e2b8adb697a21101f8d1c2f726bca" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_42">
+        <c02 id="aspace_c9f8b44eaa15367af5ae7045c8b52397" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">10</container>
             <unittitle>Minor in Maturity and Aging</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982/1983">1982-1983</unitdate>
+            <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate>
+            <container id="aspace_17e4085f985f932d82da55126b5e007e" label="Mixed Materials" type="Box">3 (1-General Correspondence)</container>
+            <container id="aspace_4dbde9f3410d9e15f22bf3ea7fd4947c" parent="aspace_17e4085f985f932d82da55126b5e007e" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_43">
+        <c02 id="aspace_dd8dda2f9c5cc47e933ee79c6439da21" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">11</container>
             <unittitle>Annual Lecture</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986/1988">1986-1988</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991/1993">1991-1993</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995">1995</unitdate>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <unitdate normal="1986/1988" type="inclusive">1986-1988</unitdate>
+            <unitdate normal="1991/1993" type="inclusive">1991-1993</unitdate>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_c50f8fde539848dfaf2de20ce3ad0513" label="Mixed Materials" type="Box">3 (1-General Correspondence)</container>
+            <container id="aspace_a8a1e91d439e8e9d9157b0b555cf5682" parent="aspace_c50f8fde539848dfaf2de20ce3ad0513" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_44">
+        <c02 id="aspace_3ea1ac76269f75f2f368c65399286766" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">12</container>
             <unittitle>Director's Report</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1989">1987-1989</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992">1992</unitdate>
+            <unitdate normal="1987/1989" type="inclusive">1987-1989</unitdate>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_7574d823482d08174d3620bd0c3acb68" label="Mixed Materials" type="Box">3 (1-General Correspondence)</container>
+            <container id="aspace_3f8eef76b00fabc0e1ae801605625795" parent="aspace_7574d823482d08174d3620bd0c3acb68" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_45">
+        <c02 id="aspace_0d89218c95fae311f34d329dbfc42715" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">13</container>
             <unittitle>Search for PSTP Associate Director</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_ad6d7d6e9bab5d956565cbdf05539dc5" label="Mixed Materials" type="Box">3 (1-General Correspondence)</container>
+            <container id="aspace_1aa5f0f26c05ca06664caf038eee20e8" parent="aspace_ad6d7d6e9bab5d956565cbdf05539dc5" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_46">
+        <c02 id="aspace_0b82fd4d092d4fcf0315aec772f6af78" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">14</container>
             <unittitle>Evaluation of Library Resources</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989">1989</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_ea4c7a1d13c878731412ac47311a7e4c" label="Mixed Materials" type="Box">3 (1-General Correspondence)</container>
+            <container id="aspace_13fcec4b1c493655f293968e505009d1" parent="aspace_ea4c7a1d13c878731412ac47311a7e4c" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_47">
+        <c02 id="aspace_c7188e00cb5cf49bd8312126e3ed6652" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">15</container>
             <unittitle>Institute Review</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989">1989</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_bac0dae83b21cc6934cd67cd77601bab" label="Mixed Materials" type="Box">3 (1-General Correspondence)</container>
+            <container id="aspace_5d3e4d43f60ef051ec3517d8de423fdf" parent="aspace_bac0dae83b21cc6934cd67cd77601bab" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_48">
+        <c02 id="aspace_e34c6d351c00a2c2567eef2a4c20c4c4" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">16</container>
             <unittitle>Search for Center for Women in Government Director</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_dd34fb1753e524c993e2009cfb5003de" label="Mixed Materials" type="Box">3 (1-General Correspondence)</container>
+            <container id="aspace_e71c8a6b78c09fdbd58913325af1269c" parent="aspace_dd34fb1753e524c993e2009cfb5003de" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_49">
+        <c02 id="aspace_5cfb02dd3f35a297e7ac891050d05d6a" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">17</container>
             <unittitle>General Memos</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1994">1990-1994</unitdate>
+            <unitdate normal="1990/1994" type="inclusive">1990-1994</unitdate>
+            <container id="aspace_6e9f3da6bdc0e39139cb0c9494266ec2" label="Mixed Materials" type="Box">3 (1-General Correspondence)</container>
+            <container id="aspace_a8b0291759123e1ce575539ff43111ed" parent="aspace_6e9f3da6bdc0e39139cb0c9494266ec2" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_50">
+        <c02 id="aspace_47d3c36e6c0a02e9d86dd582e3bf16f8" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">18</container>
             <unittitle>Consortium on Aging</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_654c0b9efd58404c145d0c377a44dea0" label="Mixed Materials" type="Box">3 (1-General Correspondence)</container>
+            <container id="aspace_203d2244bb0d3f6aaabb98b0638554fd" parent="aspace_654c0b9efd58404c145d0c377a44dea0" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_51">
+        <c02 id="aspace_1d5dae813f88016f6da8c4a5a013ff91" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">19</container>
             <unittitle>Memo re: Registration</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_25acfe17c8cde25b2744b50e6b8788c8" label="Mixed Materials" type="Box">3 (1-General Correspondence)</container>
+            <container id="aspace_9e32da77bb7fc00c08dca12e642d94b3" parent="aspace_25acfe17c8cde25b2744b50e6b8788c8" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_52">
+        <c02 id="aspace_a467801b3d935f8ef9588e4649fc9415" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">20</container>
             <unittitle>Research Associate</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_96e548c08cb7b23f85f119077a93d98d" label="Mixed Materials" type="Box">3 (1-General Correspondence)</container>
+            <container id="aspace_772d66ff5bc70125bf2b058207196670" parent="aspace_96e548c08cb7b23f85f119077a93d98d" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_53">
+        <c02 id="aspace_f737aad59f54365fd908640a7279df2f" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">21</container>
             <unittitle>Review and Site Visit</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_8889faf0df77c6d81bf6d1fe4a4e1ffc" label="Mixed Materials" type="Box">3 (1-General Correspondence)</container>
+            <container id="aspace_932e39eff33c6c767c26e67771794144" parent="aspace_8889faf0df77c6d81bf6d1fe4a4e1ffc" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_54">
+        <c02 id="aspace_3c1920052452ac58e928818714962129" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">22</container>
             <unittitle>Steering Committee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_7f33ea37bb6687eb0f8cb10a5b59ae37" label="Mixed Materials" type="Box">3 (1-General Correspondence)</container>
+            <container id="aspace_e15f9066d4486d5511336debf77f9d93" parent="aspace_7f33ea37bb6687eb0f8cb10a5b59ae37" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-1_55">
+        <c02 id="aspace_a0691eca2d3883a133878036c1ba96e7" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">1</container>
             <unittitle>Consortium on Aging</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991/1995">1991-1995</unitdate>
+            <unitdate normal="1991/1995" type="inclusive">1991-1995</unitdate>
+            <container id="aspace_58925b30978b7fdb1f69e23cb1484bb4" label="Mixed Materials" type="Box">4 (1-General Correspondence)</container>
+            <container id="aspace_c0d2c3ad897975758deb2328a422b1b6" parent="aspace_58925b30978b7fdb1f69e23cb1484bb4" type="Folder">1</container>
           </did>
         </c02>
       </c01>
-      <!-- Start series 2-->
-      <c01 level="series" id="nam_ua690.015-2">
+      <c01 id="aspace_5e91a8683f210301908b0788e97b2b9a" level="series">
         <did>
+          <unittitle>Financial Files</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Financial Files</unittitle>
-          <physdesc>
-            <physfacet>1.0 cu. ft.</physfacet>
-          </physdesc>
           <unitdate normal="1968/1993" type="inclusive">1968-1993</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+          <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+          <physdesc>
+            <physfacet id="aspace_a54c4b2b723384ab0c9969f2c9b2aada">1.0 cu. ft.</physfacet>
+          </physdesc>
         </did>
-        <arrangement>
-          <p> Arranged chronologically. </p>
+        <arrangement id="aspace_d12f8c70b002f722acf6a95b531de0be">
+          <head>Arrangement</head>
+          <p>Arranged chronologically.</p>
         </arrangement>
-        <scopecontent>
-          <p>This series contains financial records that include funding proposals, grant
-            applications and budgets.</p>
+        <scopecontent id="aspace_7f52e934d93cbd6b325a14931f4a71ae">
+          <head>Scope and Contents</head>
+          <p>This series contains financial records that include funding proposals, grant applications and budgets.</p>
         </scopecontent>
-        <c02 id="nam_ua690.015-2_1">
+        <c02 id="aspace_a581db6ae9e109c89726fbdc5b3686ed" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
-            <unittitle>Draft Proposal for Funding the Program on Aging of the State University of
-              New York at Albany</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968">1968</unitdate>
+            <unittitle>Draft Proposal for Funding the Program on Aging of the State University of New York at Albany</unittitle>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_a6dac1d6aaef7c4f1f7b894adba174a8" label="Mixed Materials" type="Box">1 (2-Financial Files)</container>
+            <container id="aspace_3fb22e045ec4c20e053cfbb2f3b8bb65" parent="aspace_a6dac1d6aaef7c4f1f7b894adba174a8" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-2_2">
+        <c02 id="aspace_df68af7a1b8c46181b3f3dd4c2d1b3f0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Institute of Gerontology Funding</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1980">1979-1980</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_f865f2594ad9f2dbc6c2b5b0d999341c" label="Mixed Materials" type="Box">1 (2-Financial Files)</container>
+            <container id="aspace_3c637e12886ce9a7acdeac40edb45df0" parent="aspace_f865f2594ad9f2dbc6c2b5b0d999341c" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-2_3">
+        <c02 id="aspace_f3df7faa8c207652801261de1850a433" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3-4</container>
             <unittitle>Regional Multidisciplinary Gerontology Center, Title IV-C Grant</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976/1980">1976-1980</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1976/1980" type="inclusive">1976-1980</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_64d51cbd3d398f04c7fc08df05319618" label="Mixed Materials" type="Box">1 (2-Financial Files)</container>
+            <container id="aspace_a1b6071a4df2b33221cc99c5b6d461af" parent="aspace_64d51cbd3d398f04c7fc08df05319618" type="Folder">3-4</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-2_4">
+        <c02 id="aspace_01b29950099077b2bb306f8d9c857bae" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Title IV-A Grant, Year 2, Supporting Documents</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1980">1977-1980</unitdate>
+            <unitdate normal="1977/1980" type="inclusive">1977-1980</unitdate>
+            <container id="aspace_e0a4c0cb4ca6b57ed9b74f0ae3f5a529" label="Mixed Materials" type="Box">1 (2-Financial Files)</container>
+            <container id="aspace_da4bdd77bb6f14ba46c8456b22c9f9f8" parent="aspace_e0a4c0cb4ca6b57ed9b74f0ae3f5a529" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-2_5">
+        <c02 id="aspace_5880b5e85316c2f76fa704278dc82d72" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Title IV-C Grant, Quarterly and Final Reports</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1980">1977-1980</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1977/1980" type="inclusive">1977-1980</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_db26cb3a9fd02c1b84095d22906fdc2e" label="Mixed Materials" type="Box">1 (2-Financial Files)</container>
+            <container id="aspace_f897513d04586a3e99a67c7ef564ffcc" parent="aspace_db26cb3a9fd02c1b84095d22906fdc2e" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-2_6">
+        <c02 id="aspace_ca9ed7ba685b14d9a6777a8d8c37f1b8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Title IV-C Grant Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978/1979">1978-1979</unitdate>
+            <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container id="aspace_4532cb21b6d171dc358b5a6719bce75a" label="Mixed Materials" type="Box">1 (2-Financial Files)</container>
+            <container id="aspace_f5357d43ff9f3a841b512e5289636f74" parent="aspace_4532cb21b6d171dc358b5a6719bce75a" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-2_7">
+        <c02 id="aspace_ee32b4fa778bdb82d6e7fea8fc7ce0f9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
-            <unittitle>US Administration on Aging, Title IV-A Grant, Final Report and Other
-              Materials</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978/1980">1978-1980</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unittitle>US Administration on Aging, Title IV-A Grant, Final Report and Other Materials</unittitle>
+            <unitdate normal="1978/1980" type="inclusive">1978-1980</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_c1e7bef958dab48beb9b24037de1aea2" label="Mixed Materials" type="Box">1 (2-Financial Files)</container>
+            <container id="aspace_5ad5407ca78137c1cbddf9dadf6b4e5d" parent="aspace_c1e7bef958dab48beb9b24037de1aea2" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-2_8">
+        <c02 id="aspace_1d6e1ac6cd226f730db636bf4f34f8f5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Title IV-A Grant Proposal Year 2 Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_24c50bb89f5aa3940979bd4fccea84ba" label="Mixed Materials" type="Box">1 (2-Financial Files)</container>
+            <container id="aspace_65650c0f89d9104cdfac0c0431aca045" parent="aspace_24c50bb89f5aa3940979bd4fccea84ba" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-2_9">
+        <c02 id="aspace_f93f9a9674ec2b3e633a4bd1751a6610" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1-2</container>
             <unittitle>Title IV-A Grant Proposal, Year 2</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_89af299be5e707593fc22c608f3519c2" label="Mixed Materials" type="Box">2 (2-Financial Files)</container>
+            <container id="aspace_77f2e89dd671f1897c45ab6476171010" parent="aspace_89af299be5e707593fc22c608f3519c2" type="Folder">1-2</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-2_10">
+        <c02 id="aspace_6027fa87646ec2d801560bec75726a1d" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Advocacy Assistance Training Grant</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1980">1979-1980</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_0eef9a6a25aba8d256787ab518c7559d" label="Mixed Materials" type="Box">2 (2-Financial Files)</container>
+            <container id="aspace_552061454c78a9a9a5154a7b5f0962e3" parent="aspace_0eef9a6a25aba8d256787ab518c7559d" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-2_11">
+        <c02 id="aspace_4cb6aa15ab69e7ebc950a8e65d01c0ef" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Research Foundation of SUNY, Preapplication Grant. Not Funded</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_b3f594b82c72f785ab18e6e3822e77c7" label="Mixed Materials" type="Box">2 (2-Financial Files)</container>
+            <container id="aspace_0decc5e04ba0b4bd78c1c1928df7fece" parent="aspace_b3f594b82c72f785ab18e6e3822e77c7" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-2_12">
+        <c02 id="aspace_b39cfc731f2310b975cf02a657fc9fa1" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>Budget</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982/1989">1982-1989</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1982/1989" type="inclusive">1982-1989</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_83decedbbda0977a5d243924b088b0fb" label="Mixed Materials" type="Box">2 (2-Financial Files)</container>
+            <container id="aspace_1dd309a64195636343671a2aae870aa1" parent="aspace_83decedbbda0977a5d243924b088b0fb" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-2_13">
+        <c02 id="aspace_f21f5d9d6fc9b136feb87e1fc65b2397" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6-8</container>
             <unittitle>NIA Program Project Grant</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_753db82e0eeffd32a60f25b32c7294d6" label="Mixed Materials" type="Box">2 (2-Financial Files)</container>
+            <container id="aspace_5e05a2fe0e137ea971548f21bebebdd0" parent="aspace_753db82e0eeffd32a60f25b32c7294d6" type="Folder">6-8</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-2_14">
+        <c02 id="aspace_dd28c775e362dfe8d749e7b1a04b2a9e" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>Budget</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985/1991">1985-1991</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1985/1991" type="inclusive">1985-1991</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_c6615c88f079c5a8eb3babcc872aadac" label="Mixed Materials" type="Box">3 (2-Financial Files)</container>
+            <container id="aspace_9ad56ccaa095b6bef7da4d8825430638" parent="aspace_c6615c88f079c5a8eb3babcc872aadac" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-2_15">
+        <c02 id="aspace_22953eb05fe7e01bf52e500c8343a33d" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>IFR Budget</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993">1993</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_58977fa3e240356933ce4694303fa64a" label="Mixed Materials" type="Box">3 (2-Financial Files)</container>
+            <container id="aspace_cf45ecfd814dd844efe7e25669daa2dd" parent="aspace_58977fa3e240356933ce4694303fa64a" type="Folder">2</container>
           </did>
         </c02>
       </c01>
-      <!-- Start series 3-->
-      <c01 level="series" id="nam_ua690.015-3">
+      <c01 id="aspace_8d17a0e865b901204cc206e621d9edfa" level="series">
         <did>
+          <unittitle>Publicity, Research and Professional Development</unittitle>
           <unitid>3</unitid>
-          <unittitle label="Series">Publicity, Research and Professional
-            Development</unittitle>
-          <physdesc>
-            <physfacet> 1.91 cu. ft.</physfacet>
-          </physdesc>
           <unitdate normal="1970/1990" type="inclusive">1970-1990</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+          <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+          <physdesc>
+            <physfacet id="aspace_3d123156a27bf41252fdf95f6d32ea34">1.91 cu. ft.</physfacet>
+          </physdesc>
         </did>
-        <arrangement>
-          <p> Arranged chronologically. </p>
+        <arrangement id="aspace_4440e33b445dd18ff417833c2805c0a0">
+          <head>Arrangement</head>
+          <p>Arranged chronologically.</p>
         </arrangement>
-        <scopecontent>
-          <p>This series contains newsletters and brochures, materials developed for conferences and
-            seminars and faculty research publications.</p>
+        <scopecontent id="aspace_6c38787e3f8cbea6bcc64892f5eb53df">
+          <head>Scope and Contents</head>
+          <p>This series contains newsletters and brochures, materials developed for conferences and seminars and faculty research publications.</p>
         </scopecontent>
-        <c02 id="nam_ua690.015-3_1">
+        <c02 id="aspace_80db8e910f8aee522d3bfefdaece4057" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
-            <unittitle>County Aging Profile Series Demographics and Housing Patterns -
-              1930-1970</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unittitle>County Aging Profile Series Demographics and Housing Patterns - 1930-1970</unittitle>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_7ac1b8c77731f30af7dd501a32db2a96" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_4808de9891e1b99dacef3f0309540645" parent="aspace_7ac1b8c77731f30af7dd501a32db2a96" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_2">
+        <c02 id="aspace_e365da64c7c6477a3909d26ff7250ac5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>“The Poor of the Capital District” A Research Memo</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_06c747ebc54234927de40ecf7c1aadda" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_86f23c96116a92b1605da5439abf4c8e" parent="aspace_06c747ebc54234927de40ecf7c1aadda" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_3">
+        <c02 id="aspace_7093986494a95dd1e2510b075e759c2a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>“Public Policy and the Elderly in NY State” Notebook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971/1975">1971-1975</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1982">1980-1982</unitdate>
+            <unitdate normal="1971/1975" type="inclusive">1971-1975</unitdate>
+            <unitdate normal="1980/1982" type="inclusive">1980-1982</unitdate>
+            <container id="aspace_dade610d0b1d839781a76d214b3bdcdf" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_0044bab831be97e67b20d82b1d45bbff" parent="aspace_dade610d0b1d839781a76d214b3bdcdf" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_4">
+        <c02 id="aspace_d2bf8fad2c24803a4f14fb01e4f33bc3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Publicity Notebook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971/1975">1971-1975</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1982">1980-1982</unitdate>
+            <unitdate normal="1971/1975" type="inclusive">1971-1975</unitdate>
+            <unitdate normal="1980/1982" type="inclusive">1980-1982</unitdate>
+            <container id="aspace_e20a2c855efea0e7dd91649654091b24" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_602cfd8656b4a7cf47204014bd0ed815" parent="aspace_e20a2c855efea0e7dd91649654091b24" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_5">
+        <c02 id="aspace_4fe73e6dbc4e052e612ace6244cae880" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
-            <unittitle>“Planning for Social Welfare: Coordinating Area Number 3” A Regional Factbook
-              – IG Report</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972">1972</unitdate>
+            <unittitle>“Planning for Social Welfare: Coordinating Area Number 3” A Regional Factbook – IG Report</unittitle>
+            <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_63e88389aa46a80677d0bf1acc407d2a" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_4d6521e2a660ff636389583196f1a6ff" parent="aspace_63e88389aa46a80677d0bf1acc407d2a" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_6">
+        <c02 id="aspace_94583bf3a5dc03fb89b6db97aacda465" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
-            <unittitle>“Planning for Social Welfare: The People of Albany, Selected Census Data for
-              Albany, NY”</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973">1973</unitdate>
+            <unittitle>“Planning for Social Welfare: The People of Albany, Selected Census Data for Albany, NY”</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_6cda22445b6afced7804e394c5c5ffbd" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_b50b2e2e2f24e582d9afc336354b95f6" parent="aspace_6cda22445b6afced7804e394c5c5ffbd" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_7">
+        <c02 id="aspace_2518a520bdf5e1bee0e984e7bc2f8df9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Proceedings of the Regional Conference on Aging</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973">1973</unitdate>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_2595f008db889ffc46c00141298a882f" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_21322b27844e25ae16a47079aa6937e4" parent="aspace_2595f008db889ffc46c00141298a882f" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_8">
+        <c02 id="aspace_bc3e2d6dafe11523103606faaec64ae1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Regional Conference on Aging</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973">1973</unitdate>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_452ca6b9f9648105b8b1fef33524f49c" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_022824e78a775e85ff443a502749ea37" parent="aspace_452ca6b9f9648105b8b1fef33524f49c" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_9">
+        <c02 id="aspace_6dc8bba5c37458011f9929da0250be40" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Research Memo: “Poverty in Albany County”</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973">1973</unitdate>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_fe9e73b87e6283de8a98286bc013a142" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_d1c0e99ff1b1c9f7e4cfc4f59c845fd0" parent="aspace_fe9e73b87e6283de8a98286bc013a142" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_10">
+        <c02 id="aspace_3ee63980974661833840bdeca36cd57f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Regional Conference on Aging - Sonoma Nixon Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973">1973</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_584ed6209cbc3a8e58fbdc90a16af33c" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_0d51e5bf6aee21480dda4ed5dde94d85" parent="aspace_584ed6209cbc3a8e58fbdc90a16af33c" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_11">
+        <c02 id="aspace_20d1be437d9412dc0535716638c043b5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Slides of Conference Photos and Presentations</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973">1973</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975">1975</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_85a3f1f3dc658d286d3fcfc1961926a2" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_fc5fde3695faa64b757e033b0eccda3c" parent="aspace_85a3f1f3dc658d286d3fcfc1961926a2" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_12">
+        <c02 id="aspace_dd24176e392cbe3a4349f6dffc6a52ca" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Conference Brochures</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973/1976">1973-1976</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1980">1979-1980</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1973/1976" type="inclusive">1973-1976</unitdate>
+            <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_8b2fac8ab9f51f2190a526d9bb8f04d3" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_8ef7011e3f054400b933f772cca7f692" parent="aspace_8b2fac8ab9f51f2190a526d9bb8f04d3" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_13">
+        <c02 id="aspace_9153a8898bd9d2937e40f723ebb3d1b9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
-            <unittitle>“The Albany Senior Service Center Nutritional Program: Its Characteristics,
-              Its Participants”</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975">1975</unitdate>
+            <unittitle>“The Albany Senior Service Center Nutritional Program: Its Characteristics, Its Participants”</unittitle>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_d2a61ce016fc02209a8d06127f57c2a0" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_83b8bdf494c82028f158e45ecfadbc97" parent="aspace_d2a61ce016fc02209a8d06127f57c2a0" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_14">
+        <c02 id="aspace_d6c70c41947ef6ca80a5063ac18688f6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
-            <unittitle>“Crimes Against the Elderly in Public Housing: Policy
-              Alternatives”</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975">1975</unitdate>
+            <unittitle>“Crimes Against the Elderly in Public Housing: Policy Alternatives”</unittitle>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_e44131a4cec4fc0845a325f725355629" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_b15bfa22e9dab20d2b71fdfd4d57f203" parent="aspace_e44131a4cec4fc0845a325f725355629" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_15">
+        <c02 id="aspace_49dd475841b38efce9d0cf7c0aded7c1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
-            <unittitle>Gerontology Colloquium Slide Presentation and Discussion by Dr. Jane Ives.
-              “Services to the Elderly in Denmark.” (Flyer)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976">1976</unitdate>
+            <unittitle>Gerontology Colloquium Slide Presentation and Discussion by Dr. Jane Ives. “Services to the Elderly in Denmark.” (Flyer)</unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_34a4104739dd3f74fb087c8cb03185da" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_fa65c6c1e2c93fdff4cbb42dc30524ed" parent="aspace_34a4104739dd3f74fb087c8cb03185da" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_16">
+        <c02 id="aspace_490e654189edd9c2bb3492380e38303f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
-            <unittitle> “The Meaning of Cherished Personal Possessions for the Elderly”</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976">1976</unitdate>
+            <unittitle>“The Meaning of Cherished Personal Possessions for the Elderly”</unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_7d72ca036a2b164dfabca27b058dadb8" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_7ca178dd75daa7bdd9106410af02122a" parent="aspace_7d72ca036a2b164dfabca27b058dadb8" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_17">
+        <c02 id="aspace_17a6942539f1f23f36710e67e36a2ff0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
-            <unittitle>“Modes of Retirement Housing for the Elderly,” Brief Summary of the Final
-              Report</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976">1976</unitdate>
+            <unittitle>“Modes of Retirement Housing for the Elderly,” Brief Summary of the Final Report</unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_c9e476c02ba1539841d1ad48030e2489" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_a5a0d79f2dec19d7500283e31caaea0e" parent="aspace_c9e476c02ba1539841d1ad48030e2489" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_18">
+        <c02 id="aspace_d6c6325cb704dc3ef90a84a997aa6270" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18-19</container>
             <unittitle>“Options in Intermediate Sheltered Housing for the Elderly”</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976">1976</unitdate>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_c1c8253ed158329152d396985ae5af20" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_e6c9d039ef81865d5430354fe4ba1dec" parent="aspace_c1c8253ed158329152d396985ae5af20" type="Folder">18-19</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_19">
+        <c02 id="aspace_b659334941220095da6bb1822f3a554e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
-            <unittitle>“The Role of State University Systems in Opportunities for Senior
-              Citizens”</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976">1976</unitdate>
+            <unittitle>“The Role of State University Systems in Opportunities for Senior Citizens”</unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_ccd1ac7b81404555cc37bb648cb1e2b5" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_e4b39f3881e1935480b0c64eb6209441" parent="aspace_ccd1ac7b81404555cc37bb648cb1e2b5" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_20">
+        <c02 id="aspace_3be527b228c8b263742a9ea83686a147" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
-            <unittitle>Questionnaire for Retirement Planning Sent to Faculty and Non-teaching
-              Professionals of SUNY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976">1976</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
+            <unittitle>Questionnaire for Retirement Planning Sent to Faculty and Non-teaching Professionals of SUNY</unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_e9496e28093f65c600334b2005184b60" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_1804a505847d549ce3d40669f23d5e63" parent="aspace_e9496e28093f65c600334b2005184b60" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_21">
+        <c02 id="aspace_f11c354afc393a16536ea2c1ce718a51" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>Publicity Notebook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976/1979">1976-1979</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1976/1979" type="inclusive">1976-1979</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_df8a2185a80a88e848b06456c202d3c6" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_f43073f5c2b57aed811388ad4f652695" parent="aspace_df8a2185a80a88e848b06456c202d3c6" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_22">
+        <c02 id="aspace_1aaac9972c0fce32ccc98975256ea047" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23</container>
-            <unittitle>“Toward Services for the Elderly: Regional Data of a Roman Catholic
-              Diocese”</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977">1977</unitdate>
+            <unittitle>“Toward Services for the Elderly: Regional Data of a Roman Catholic Diocese”</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_1a739a3919f31b4628c5528eacac255c" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_1a736a1a251d2b766f620f75331a4f11" parent="aspace_1a739a3919f31b4628c5528eacac255c" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_23">
+        <c02 id="aspace_ae8a6c3ab3008d95c689802311154eb9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">24</container>
             <unittitle>Miscellaneous</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977">1977</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1985">1980-1985</unitdate>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <unitdate normal="1980/1985" type="inclusive">1980-1985</unitdate>
+            <container id="aspace_3d424b67de80c3698dd6e6b78c71c048" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_047085595e8c6cb506a228f19b512ac7" parent="aspace_3d424b67de80c3698dd6e6b78c71c048" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_24">
+        <c02 id="aspace_1fcf4943cc4cb4f85bb02b53935f1eec" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">25</container>
             <unittitle>“Reading, Language and Communication”</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1978">1977-1978</unitdate>
+            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container id="aspace_9455da803fe27364d5a48318e84390dc" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_460ff13dc99db4a1a96a752171469d43" parent="aspace_9455da803fe27364d5a48318e84390dc" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_25">
+        <c02 id="aspace_985e54d7adaf67788a1d49d3d21d8a57" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">26</container>
             <unittitle>Newsletters</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1981">1977-1981</unitdate>
+            <unitdate normal="1977/1981" type="inclusive">1977-1981</unitdate>
+            <container id="aspace_3b375e03786a315b2843d558aab090f7" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_227a74e1686be74b5adccee8f9cc67c4" parent="aspace_3b375e03786a315b2843d558aab090f7" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_26">
+        <c02 id="aspace_40bd7df6f4632d7a85d376f3db51f097" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">27</container>
-            <unittitle>“Differences in Attitudes Toward Retirement Among Male and Female Faculty and
-              Other University Professionals”</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
+            <unittitle>“Differences in Attitudes Toward Retirement Among Male and Female Faculty and Other University Professionals”</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_89cbe9bf70d53c6cd7e159f93116261d" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_daedc57f459ac19b00ff5dfe908e4978" parent="aspace_89cbe9bf70d53c6cd7e159f93116261d" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_27">
+        <c02 id="aspace_e98d9225b84a971fb71465bbb7d8295f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">28</container>
-            <unittitle>“Foster-family Care for the Elderly: Surrogate Family or
-              Mini-Institution?”</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
+            <unittitle>“Foster-family Care for the Elderly: Surrogate Family or Mini-Institution?”</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_7bbcb1ffb63a01c838d4ca590045dea0" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_a19d6324df502c4194ad1c5267927269" parent="aspace_7bbcb1ffb63a01c838d4ca590045dea0" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_28">
+        <c02 id="aspace_ac177c864c315201f8b25e519daa9565" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">29</container>
             <unittitle>“The Role of the Case Worker in Adult Foster Care”</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_02ce113e6d76006475aafbb5dc12ca7e" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_9ec182be3b31768fb5578b38ec881c11" parent="aspace_02ce113e6d76006475aafbb5dc12ca7e" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_29">
+        <c02 id="aspace_c6b32fab94c56a33907dbd599a558192" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">30</container>
-            <unittitle>Survey of Opportunities in the Field of Gerontology in Forty-three
-              Educational Institutions in N.Y.S.: Summary of Findings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
+            <unittitle>Survey of Opportunities in the Field of Gerontology in Forty-three Educational Institutions in N.Y.S.: Summary of Findings</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_cc6e2bf7c130e078ae59d93149835067" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_a65e68eef7a0c9cc69b466fbbf040476" parent="aspace_cc6e2bf7c130e078ae59d93149835067" type="Folder">30</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_30">
+        <c02 id="aspace_a3182d5d0f878084522b6d2ce3fa318d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">31</container>
             <unittitle>Advocacy Assistance for Older Adults Conference</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_adf13724e0a26600eb6ec82a8f1f0bca" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_b30aa98185a892e51fe9440e421445be" parent="aspace_adf13724e0a26600eb6ec82a8f1f0bca" type="Folder">31</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_31">
+        <c02 id="aspace_aaa9ebe5348f869dd4d515479b8aa241" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">32</container>
             <unittitle>“Day Treatment for the Elderly: An Overview”</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_8e66ebec14c89f008534a95cbb2df246" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_b9f2403e44553821c9f7bbaa9e959861" parent="aspace_8e66ebec14c89f008534a95cbb2df246" type="Folder">32</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_32">
+        <c02 id="aspace_3857597e5386806407ffba9d7c2e7a69" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">33</container>
-            <unittitle>Directory of Services: A Guide for Adult Family Care Providers Participating
-              in the 1979 Summer Training Session</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
+            <unittitle>Directory of Services: A Guide for Adult Family Care Providers Participating in the 1979 Summer Training Session</unittitle>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_0b96a45e78915bd06febad9198a2a3bb" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_5876a8b91a6802720e3d8404858d96be" parent="aspace_0b96a45e78915bd06febad9198a2a3bb" type="Folder">33</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_33">
+        <c02 id="aspace_9a534889737c55f4624562a843ae20fe" level="file">
           <did>
-            <container type="Cassette">2-7</container>
             <unittitle>Elderly Offender Conference</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_3d81de9d323d7b8a94366914cb6a198d" label="Mixed Materials" type="Cassette">2-7</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_34">
+        <c02 id="aspace_3b22c27d94b6a39c8c6ff727290dd091" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">34</container>
             <unittitle>“Group Services for the Elderly in Albany County: A Directory”</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_26dc519deaf72cd52a7516d97f072371" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_2547237250ede039c595f00cdb63b2ea" parent="aspace_26dc519deaf72cd52a7516d97f072371" type="Folder">34</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_35">
+        <c02 id="aspace_fa9c3f5ecae7805f136a50ccb8e9a829" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">35</container>
-            <unittitle> “Social Participation in Adult Homes: Deinstitutionalized Mental Patients
-              and the Frail Elderly”</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
+            <unittitle>“Social Participation in Adult Homes: Deinstitutionalized Mental Patients and the Frail Elderly”</unittitle>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_aacec733781ad8a18d0b9ea8bb81ae1a" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_81206d87d4410ede0c49dd726042f471" parent="aspace_aacec733781ad8a18d0b9ea8bb81ae1a" type="Folder">35</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_36">
+        <c02 id="aspace_0d769c2b7e46f5af3728ca1314042a54" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">36</container>
-            <unittitle>“Training Citizen Ombudsmen” (Prepared for presentation at Educational
-              Innovations Exchange, Annual Program Meeting)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
+            <unittitle>“Training Citizen Ombudsmen” (Prepared for presentation at Educational Innovations Exchange, Annual Program Meeting)</unittitle>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_90fbe72a589695790dd10bd6b7379048" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_79f323f67e1045998018dc61a9462194" parent="aspace_90fbe72a589695790dd10bd6b7379048" type="Folder">36</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_37">
+        <c02 id="aspace_9d86d6d71747bf898bff980640b63dfe" level="file">
           <did>
-            <container type="Video-Tape">1-3</container>
             <unittitle>A Workshop for Family Care Takers: Problem Solving Part I</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
-            <physdesc>
-              <extent>1 U-matic tape.</extent>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 U-matic tape.</extent>
+              <physfacet>2 VHS tapes.</physfacet>
             </physdesc>
-            <physdesc>
-              <extent>2 VHS tapes.</extent>
+            <physdesc altrender="whole">
               <physfacet>Both duplicates of U-matic tape.</physfacet>
             </physdesc>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_b183280950aa2fa4bb4c73b68b824a8f" label="Mixed Materials" type="Video-Tape">1-3</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_38">
+        <c02 id="aspace_3ce292a6029f4ed7767e6f7cef20413f" level="file">
           <did>
-            <container type="Video-Tape">4-6</container>
             <unittitle>A Workshop for Family Care Takers: Problem Solving Part II</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
-            <physdesc>
-              <extent>1 U-matic tape.</extent>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 U-matic tape.</extent>
+              <physfacet>2 VHS tapes.</physfacet>
             </physdesc>
-            <physdesc>
-              <extent>2 VHS tapes.</extent>
+            <physdesc altrender="whole">
               <physfacet>Both duplicates of U-matic tape.</physfacet>
             </physdesc>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_5ba40a730265640ca018f72ce3440e8f" label="Mixed Materials" type="Video-Tape">4-6</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_39">
+        <c02 id="aspace_272183fd3cd10c088346f20ad6c7c82d" level="file">
           <did>
-            <container type="Video-Tape">7-9</container>
             <unittitle>A Workshop for Family Care Takers: Problem Solving Part III</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
-            <physdesc>
-              <extent>1 U-matic tape.</extent>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 U-matic tape.</extent>
+              <physfacet>2 VHS tapes.</physfacet>
             </physdesc>
-            <physdesc>
-              <extent>2 VHS tapes.</extent>
+            <physdesc altrender="whole">
               <physfacet>Both duplicates of U-matic tape.</physfacet>
             </physdesc>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_508042181bdb7a046dc048069d4e1896" label="Mixed Materials" type="Video-Tape">7-9</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_40">
+        <c02 id="aspace_ffd1b57b89ae5d79316752e8f28563f5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">37</container>
-            <unittitle>“Understanding the Psycho-Social Needs of the Elderly in Family Care
-              Residents” Training</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unittitle>“Understanding the Psycho-Social Needs of the Elderly in Family Care Residents” Training</unittitle>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_5500a962882de6c5bfe1f180cdd43333" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_77a1061d3508cfb0d31ff170da87f66d" parent="aspace_5500a962882de6c5bfe1f180cdd43333" type="Folder">37</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_41">
+        <c02 id="aspace_5db9d7727d4ad3eda25dfd15d2daf776" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">38</container>
             <unittitle>Homebound Elderly, Includes Photo</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1980">1979-1980</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_02db7a773c9ed1e030f8d0124aa44b88" label="Mixed Materials" type="Box">1 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_d1deab1bf07c29b0e30e87bbadf19fdc" parent="aspace_02db7a773c9ed1e030f8d0124aa44b88" type="Folder">38</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_42">
+        <c02 id="aspace_95aa9070d1bc71e5ecfcc6f3a079882e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Conference Proceedings: New York State Perspectives on Aging</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980">1980</unitdate>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_d0f44ec6cf5c139ae201473af5519a0b" label="Mixed Materials" type="Box">2 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_34e2c2246c9775e9c5a2ffd1647dd5a9" parent="aspace_d0f44ec6cf5c139ae201473af5519a0b" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_43">
+        <c02 id="aspace_4874e6c8f8f58e35640b79b13e6ef2bf" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
-            <unittitle>“The Development of a Curriculum in Gerontology for the Public Health
-              Sector”</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980">1980</unitdate>
+            <unittitle>“The Development of a Curriculum in Gerontology for the Public Health Sector”</unittitle>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_af89d02ced7cfea2bcc8af504c62a8a0" label="Mixed Materials" type="Box">2 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_34f35962dca8fedf0b906a68163d8203" parent="aspace_af89d02ced7cfea2bcc8af504c62a8a0" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_44">
+        <c02 id="aspace_faeb1ce440da207a33d29e56ec57e384" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Miscellaneous Conferences and Seminars</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1982">1980-1982</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1980/1982" type="inclusive">1980-1982</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_2235c19476af7fd3ea36a1f61746fc33" label="Mixed Materials" type="Box">2 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_0183ccefdb2850a0c046c72270fb8b94" parent="aspace_2235c19476af7fd3ea36a1f61746fc33" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_45">
+        <c02 id="aspace_6202042abe2254668e1a4cbb2604ec5c" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Al Abrams Dinner</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_2b0694cc8f79e6bf6ac7870a3090d91e" label="Mixed Materials" type="Box">2 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_a6e9897697688f0589fc3f959e914a03" parent="aspace_2b0694cc8f79e6bf6ac7870a3090d91e" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_46">
+        <c02 id="aspace_97c0bb6160b030e9ecd36d4c9a15c69e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>Newsletters</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_827d878f94e0ed5425681057a38f71df" label="Mixed Materials" type="Box">2 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_7db8bd51997ea8def5376358b226cc62" parent="aspace_827d878f94e0ed5425681057a38f71df" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_47">
+        <c02 id="aspace_48bd491fe3ba53708f0dbd5dfe94566a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>Mental Health and the Elderly Lecture Series</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_3cd0e764f76f325b13b39974e9f6bae5" label="Mixed Materials" type="Box">2 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_a16fbe06427767390040e8924a69b552" parent="aspace_3cd0e764f76f325b13b39974e9f6bae5" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_48">
+        <c02 id="aspace_2dc20a79cbbf3140b1cfa24e371784e3" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
             <unittitle>Rockefeller Research Committees</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_2d74fe1763f0bf16e1067a7971c19124" label="Mixed Materials" type="Box">2 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_320b672582a50595f3870ae567ae87f9" parent="aspace_2d74fe1763f0bf16e1067a7971c19124" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_49">
+        <c02 id="aspace_60d277eb1d4f403a82d3ab4c4d0e95dd" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
-            <unittitle>“Community Integration of Mentally Ill Adults in (Foster) Family
-              Care”</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1982">1981-1982</unitdate>
+            <unittitle>“Community Integration of Mentally Ill Adults in (Foster) Family Care”</unittitle>
+            <unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate>
+            <container id="aspace_e3cd4bd284232067ce4f3ade6ba79399" label="Mixed Materials" type="Box">2 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_d239b51020d8acc5ec43a2eeec52cbb9" parent="aspace_e3cd4bd284232067ce4f3ade6ba79399" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_50">
+        <c02 id="aspace_79e6a29d29e5d2d7556f92c6a793eaa2" level="file">
           <did>
-            <container type="Cassette">8-11</container>
             <unittitle>Elderly Offender Conference</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_c5755d52ebf2f54247e0840aa937f95d" label="Mixed Materials" type="Cassette">8-11</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_51">
+        <c02 id="aspace_9456224b5887649d78d10d918d894990" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
             <unittitle>Elderly Offender Conference</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_da066383d9ef52b5e248f44ac757a7b7" label="Mixed Materials" type="Box">2 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_e1899ac832a2389ef56506be8e5bbe13" parent="aspace_da066383d9ef52b5e248f44ac757a7b7" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_52">
+        <c02 id="aspace_3bc516518b7b3652d8fc420398b363e5" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10-11</container>
             <unittitle>Elderly Offender Conference Planning Documents</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_bc84ec15b854aef0be4b70538997df87" label="Mixed Materials" type="Box">2 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_4256e52ff93a3bf63d3a3a00c9583c95" parent="aspace_bc84ec15b854aef0be4b70538997df87" type="Folder">10-11</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_53">
+        <c02 id="aspace_77abef9f320a4713efd3e7e46e0c7889" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">12</container>
             <unittitle>Survey of Graduate Degree Recipients</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982/1985">1982-1985</unitdate>
+            <unitdate normal="1982/1985" type="inclusive">1982-1985</unitdate>
+            <container id="aspace_4424b0b6d6b36f46735d26fc31eb5b7b" label="Mixed Materials" type="Box">2 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_6e989a4472a6ac869fe6b7c41421fc50" parent="aspace_4424b0b6d6b36f46735d26fc31eb5b7b" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_54">
+        <c02 id="aspace_3751bcf68d493e68eac5549115f80869" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">13</container>
             <unittitle>Research Proposal</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985/1987">1985-1987</unitdate>
+            <unitdate normal="1985/1987" type="inclusive">1985-1987</unitdate>
+            <container id="aspace_e242eddfb0ddfd1684819a74c6579762" label="Mixed Materials" type="Box">2 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_a8c1ee045289a7669503306131f31328" parent="aspace_e242eddfb0ddfd1684819a74c6579762" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_55">
+        <c02 id="aspace_5eda21e4dcf2f15bf0533db4b2dba816" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">14</container>
-            <unittitle>Eugene S. Callender will Present the Fourth Annual Ringel Lecture on
-              “Targeting the Needs of the Elderly” (Flyer)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+            <unittitle>Eugene S. Callender will Present the Fourth Annual Ringel Lecture on “Targeting the Needs of the Elderly” (Flyer)</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_c01a8ba3ce37c935443f195950c19325" label="Mixed Materials" type="Box">2 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_18417b999048fd0def63e82c75cfac29" parent="aspace_c01a8ba3ce37c935443f195950c19325" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_56">
+        <c02 id="aspace_b0d8fecb634c70cf6eda66a1fd1fcdb3" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1-2</container>
             <unittitle>Self-Study Team</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989">1989</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1995">Undated</unitdate>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <unitdate normal="1968/1995" type="inclusive">Undated</unitdate>
+            <container id="aspace_54bfac1df40d4457be47724795c68668" label="Mixed Materials" type="Box">3 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_d59cb1d472ccee6fa769a8b3ce181c56" parent="aspace_54bfac1df40d4457be47724795c68668" type="Folder">1-2</container>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-3_57">
+        <c02 id="aspace_71ba960280e4a8c2d18c7c38c68a6b96" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">3</container>
             <unittitle>“Peterson’s Annual Survey of Graduate Institutions”</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_f36fd56b59aca34f5bd079ae4021fe23" label="Mixed Materials" type="Box">3 (3-Publicity, Research and Professional D)</container>
+            <container id="aspace_d4c28cf3d66d588ab5ceea0626738b2c" parent="aspace_f36fd56b59aca34f5bd079ae4021fe23" type="Folder">3</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_ua690.015-4" level="series">
+      <c01 id="aspace_75f421e13cbd759a239975eb30c33dce" level="series">
         <did>
-          <unitid>4</unitid>
           <unittitle>Web Archives</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2010-05-28/2016-09-18">2010 May 28-2016 September 18</unitdate>
-          <physdesc>
-            <extent unit="captures">278</extent>
+          <unitid>4</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">278 captures</extent>
           </physdesc>
+          <unitdate normal="2010-05-28/2016-09-18" type="inclusive">2010 May 28-2016 September 18</unitdate>
         </did>
-        <acqinfo>
+        <acqinfo id="aspace_2464de59bf225eadfc953136230abbc9">
+          <head>Immediate Source of Acquisition</head>
           <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both the university's collection and the Internet Archive's public collection.</p>
-          <p>Surface-level crawling of www.albany.edu is performed daily which should includes most top-level webpages. Separate targeted crawls of every albany.edu subdomain are performed monthly to attempt to gather all content. This includes: www.albany.edu, www.rna.albany.edu, www.ctg.albany.edu, www.ualbanysports.com, www.albany.edu/rockefeller, www.albany.edu/cela, www.albany.edu/asrc, m.albany.edu,	library.albany.edu,	events.albany.edu,	cstar.cestm.albany.edu, csda.albany.edu, and alumni.albany.edu</p>
+          <p> Surface-level crawling of www.albany.edu is performed daily which should includes most top-level webpages. Separate targeted crawls of every albany.edu subdomain are performed monthly to attempt to gather all content. This includes: www.albany.edu, www.rna.albany.edu, www.ctg.albany.edu, www.ualbanysports.com, www.albany.edu/rockefeller, www.albany.edu/cela, www.albany.edu/asrc, m.albany.edu,	library.albany.edu,	events.albany.edu,	cstar.cestm.albany.edu, csda.albany.edu, and alumni.albany.edu</p>
         </acqinfo>
-        <phystech>
+        <phystech id="aspace_bc7cd739170a9acede8ddbb89695defc">
+          <head>Physical Characteristics and Technical Requirements</head>
           <p>Web Archives</p>
         </phystech>
-        <c02 id="nam_ua690.015-4_1">
+        <c02 id="aspace_a97d6e68151011f50da2f1433ff53a93" level="file">
           <did>
-            <container type="Web-Archive">1</container>
             <unittitle>http://www.albany.edu/outreach/Institute_of_Gerontology.php - University Archives collection</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2013-05-08/2016-09-18">2013 May 8-2016 September 18</unitdate>
-            <dao actuate="onrequest" linktype="simple" show="new" href="http://wayback.archive-it.org/3308/*/http://www.albany.edu/outreach/Institute_of_Gerontology.php"/>
+            <unitdate normal="2013-05-08/2016-09-18" type="inclusive">2013 May 8-2016 September 18</unitdate>
+            <container id="aspace_304b80d51c44a2484df5cac37219c877" label="Mixed Materials" type="Web-Archive">1</container>
+            <dao xlink:actuate="onrequest" xlink:href="http://wayback.archive-it.org/3308/*/http://www.albany.edu/outreach/Institute_of_Gerontology.php" xlink:show="new" xlink:title="http://www.albany.edu/outreach/Institute_of_Gerontology.php - University Archives collection">
+              <daodesc>
+                <p>http://www.albany.edu/outreach/Institute_of_Gerontology.php - University Archives collection</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
-        <c02 id="nam_ua690.015-4_2">
+        <c02 id="aspace_9fe84ef1a943338ccdecd6fa382685d9" level="file">
           <did>
-            <container type="WARC">1</container>
             <unittitle>WARC file for http://www.albany.edu/outreach/Institute_of_Gerontology.php, (please see https://en.wikipedia.org/wiki/Web_ARChive for more details)</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2013-05-08/2016-09-18">2013 May 8-2016 September 18</unitdate>
+            <unitdate normal="2013-05-08/2016-09-18" type="inclusive">2013 May 8-2016 September 18</unitdate>
+            <container id="aspace_e96bda7f545b87d3bb356b2946617718" label="Mixed Materials" type="WARC">1</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_bb2b0c01afdf785e78ebdc5ad11dfd95">
+            <head>Conditions Governing Access</head>
             <p>WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in researching with web archives.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua690.015-4_3">
+        <c02 id="aspace_1ca96f58eb3297c6d678e042a2280916" level="file">
           <did>
-            <container type="Web-Archive">2</container>
             <unittitle>http://www.albany.edu/outreach/Institute_of_Gerontology.php - Internet Archive collection</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2010-05-28/2016-09-18">2010 May 28-2016 September 18</unitdate>
-            <dao actuate="onrequest" linktype="simple" show="new" href="https://web.archive.org/web/*/http://www.albany.edu/outreach/Institute_of_Gerontology.php"/>
+            <unitdate normal="2010-05-28/2016-09-18" type="inclusive">2010 May 28-2016 September 18</unitdate>
+            <container id="aspace_c6170c2bee59ea506973c7789bb73cc5" label="Mixed Materials" type="Web-Archive">2</container>
+            <dao xlink:actuate="onrequest" xlink:href="https://web.archive.org/web/*/http://www.albany.edu/outreach/Institute_of_Gerontology.php" xlink:show="new" xlink:title="http://www.albany.edu/outreach/Institute_of_Gerontology.php - Internet Archive collection">
+              <daodesc>
+                <p>http://www.albany.edu/outreach/Institute_of_Gerontology.php - Internet Archive collection</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
       </c01>

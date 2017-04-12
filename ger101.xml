@@ -1,770 +1,778 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ger101">
-  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" countryencoding="iso3166-1" repositoryencoding="iso15511" dateencoding="iso8601">
-    <eadid countrycode="US" mainagencycode="nalsu" identifier="ger101">nam_ger101</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ger101">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ger101.xml">ger101</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>FRIEDA WUNDERLICH PAPERS (GER101)<date normal="1920/1941" type="inclusive">1920-1941</date></titleproper>
+        <titleproper>Wunderlich, Frieda; Papers <num>ger101</num></titleproper>
         <author>Sandra Hunt Hawrylchak (October 13, 2005)</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2005">Copyright 2005 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2005</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Conversion and encoding by ArchProteus, <date normal="2016">2016</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:28:53 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2014">2014</date>
+        <date>2014</date>
         <item>EAD file created</item>
+      </change>
+      <change>
+        <date>2016</date>
+        <item>Encoded in EAD by Conversion and encoding by ArchProteus</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ger101</unitid>
-      <unittitle>Frieda Wunderlich Papers<unitdate type="inclusive" label="Date: " era="ce" calendar="gregorian" normal="1920/1941">1920-1941</unitdate></unittitle>
-      <origination>
-        <persname encodinganalog="100" source="lcsh">Wunderlich, Frieda, 1884-1965 </persname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">1</extent>
-      </physdesc>
-      <abstract label="Abstract:">Wunderlich taught at the New School for Social Research and was an authority on farm labor in Germany and the Soviet Union. The bulk of the collection consists of publications of Frieda Wunderlich, primarily in the anti-Hitler periodical Soziale Praxis, which she edited from 1923 until she emigrated to the United States in 1933.</abstract>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <langmaterial>
-        <language langcode="eng">English</language>
-        <language langcode="ger">German</language>
-      </langmaterial>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Frieda Wunderlich Papers<unitdate normal="1920/1941" type="inclusive">1920-1941</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="lcsh">Wunderlich, Frieda, 1884-1965</persname>
+      </origination>
+      <unitid>ger101</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_f3e75bb782b6be3f9cfc9fd624a42034">Wunderlich taught at the New School for Social Research and was an authority on farm labor in Germany and the Soviet Union. The bulk of the collection consists of publications of Frieda Wunderlich, primarily in the anti-Hitler periodical Soziale Praxis, which she edited from 1923 until she emigrated to the United States in 1933.</abstract>
+      <physloc id="aspace_45811243610ad619cf2a291ba6f8803f">The materials are located onsite in the department.</physloc>
     </did>
-    <bioghist>
+    <processinfo id="aspace_6b19af79e65aed89645ad093b4e942e9">
+      <head>Processing Information</head>
+      <p>Processed in 2005 by Sandra Hunt Hawrylchak (October 13, 2005).</p>
+    </processinfo>
+    <bioghist id="aspace_020516f52ec45c13380df28021e025a7">
       <head>Biographical Sketch</head>
       <p>Frieda Wunderlich was one of ten German professors brought to the United States by the New School for Social Research in 1933 to form the Graduate Faculty of the New School, also known as the "University in Exile".</p>
-      <p>Frieda Wunderlich was born in Berlin Germany on November 8, 1884. She received her doctorate in economics from the University of Freiburg in 1919 and became a professor at the Handelshochschule in Berlin shortly after graduation.</p>
-      <p>Wunderlich became one of the leading women figures in pre-Hitler Germany, holding positions in the Berlin City Council and the Prussian State Parliament. In 1930 she was appointed to Judge of the German Supreme Court for Social Welfare.</p>
-      <p>During the years from 1923 to 1933, she was the editor of the anti-Hitler publication <emph render="italic">Soziale Praxis</emph>, to which she contributed numerous articles on social welfare, unemployment and labor. In 1926 she published <emph render="italic">Produktivität</emph>, which received a great deal of attention not only in Germany, but in the United States as well.</p>
-      <p>After leaving Hitler's Germany to come to New York and the New School for Social Research in 1933, Wunderlich remained on the faculty for the next two decades. In 1939, she became the first woman in the United States to be elected as Dean of a graduate school when she was elected Dean of the Graduate Faculty of Political and Social Science of the New School. Dr. Wunderlich wrote a series of books on labor and social problems, eight of which were published in the United States and include: <emph render="italic">Labor under German Democracy</emph> (1940), <emph render="italic">Arbitration, 1918-1933</emph> (1940), <emph render="italic">British Labor and the War</emph> (1941), <emph render="italic">German Labor Courts</emph> (1946), and <emph render="italic">Farm Labor in Germany, 1810-1945</emph> (1961).</p>
-      <p>Chronology of Events: <chronlist><chronitem><date>1884</date><event>Born in Berlin, Germany on November 8.</event></chronitem><chronitem><date>1919</date><event>Received a doctorate in economics from the University of Freiburg.</event></chronitem><chronitem><date>1919-1933</date><event>Professor at the Handelshochschule, Berlin.</event></chronitem><chronitem><date>1923-1933</date><event>Editor of <emph render="italic">Soziale Praxis</emph>, an anti-Hitler political weekly.</event></chronitem><chronitem><date>1925</date><event>Became a member of the Berlin City Council and the Prussian Landtag for the Deutsche Demokratische Partei (DDP).</event></chronitem><chronitem><date>1926</date><event>Publication of <emph render="italic">Produktivität</emph>.</event></chronitem><chronitem><date>1930</date><event>Appointed to Judge of the German Supreme Court for Social Welfare. Promoted to Professor at the Berufspädagogisches Institut, Berlin.</event></chronitem><chronitem><date>1933</date><event>Brought over from Germany as an expert in social policy by the New School for Social Research.</event></chronitem><chronitem><date>1933-1954</date><event>Member of the Graduate Faculty of Political and Social Science of the New School for Social Research.</event></chronitem><chronitem><date>1939</date><event>January 4 - Elected Dean of the Graduate Faculty of Political and Social Science, the first woman dean of an American graduate school. </event></chronitem><chronitem><date>1965</date><event>Died on December 9 in East Orange, New Jersey.</event></chronitem></chronlist></p>
+      <p> Frieda Wunderlich was born in Berlin Germany on November 8, 1884. She received her doctorate in economics from the University of Freiburg in 1919 and became a professor at the Handelshochschule in Berlin shortly after graduation.</p>
+      <p> Wunderlich became one of the leading women figures in pre-Hitler Germany, holding positions in the Berlin City Council and the Prussian State Parliament. In 1930 she was appointed to Judge of the German Supreme Court for Social Welfare.</p>
+      <p> During the years from 1923 to 1933, she was the editor of the anti-Hitler publication <emph render="italic">Soziale Praxis</emph>, to which she contributed numerous articles on social welfare, unemployment and labor. In 1926 she published <emph render="italic">Produktivität</emph>, which received a great deal of attention not only in Germany, but in the United States as well.</p>
+      <p> After leaving Hitler's Germany to come to New York and the New School for Social Research in 1933, Wunderlich remained on the faculty for the next two decades. In 1939, she became the first woman in the United States to be elected as Dean of a graduate school when she was elected Dean of the Graduate Faculty of Political and Social Science of the New School. Dr. Wunderlich wrote a series of books on labor and social problems, eight of which were published in the United States and include: <emph render="italic">Labor under German Democracy</emph> (1940), <emph render="italic">Arbitration, 1918-1933</emph> (1940), <emph render="italic">British Labor and the War</emph> (1941), <emph render="italic">German Labor Courts</emph> (1946), and <emph render="italic">Farm Labor in Germany, 1810-1945</emph> (1961).</p>
+      <p> Chronology of Events: <chronlist><chronitem><date>1884</date><event>Born in Berlin, Germany on November 8.</event></chronitem><chronitem><date>1919</date><event>Received a doctorate in economics from the University of Freiburg.</event></chronitem><chronitem><date>1919-1933</date><event>Professor at the Handelshochschule, Berlin.</event></chronitem><chronitem><date>1923-1933</date><event>Editor of <emph render="italic">Soziale Praxis</emph>, an anti-Hitler political weekly.</event></chronitem><chronitem><date>1925</date><event>Became a member of the Berlin City Council and the Prussian Landtag for the Deutsche Demokratische Partei (DDP).</event></chronitem><chronitem><date>1926</date><event>Publication of <emph render="italic">Produktivität</emph>.</event></chronitem><chronitem><date>1930</date><event>Appointed to Judge of the German Supreme Court for Social Welfare. Promoted to Professor at the Berufspädagogisches Institut, Berlin.</event></chronitem><chronitem><date>1933</date><event>Brought over from Germany as an expert in social policy by the New School for Social Research.</event></chronitem><chronitem><date>1933-1954</date><event>Member of the Graduate Faculty of Political and Social Science of the New School for Social Research.</event></chronitem><chronitem><date>1939</date><event>January 4 - Elected Dean of the Graduate Faculty of Political and Social Science, the first woman dean of an American graduate school. </event></chronitem><chronitem><date>1965</date><event>Died on December 9 in East Orange, New Jersey.</event></chronitem></chronlist></p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_2d847d2201bdee3f56a89f53307a2e55">
+      <head>Scope and Contents</head>
       <p>The Frieda Wunderlich Papers have been divided into five series: 1) Biographical materials, 1927-1931; 2) Correspondence, 1926-1930; 3) Protokolls and transcripts of meetings, 1928-1931; 4) Unpublished writings, speech texts, 1927-1933; and 5) Published writings of Frieda Wunderlich, 1920-1941.</p>
-      <p>The bulk of the collection consists of publications of Frieda Wunderlich, primarily in the anti-Hitler periodical <emph render="italic">Soziale Praxis</emph>, which she edited from 1923 until she emigrated to the United States in 1933. In addition, there are several typescripts of speeches delivered by Wunderlich in Germany during the years 1927-1933. The collection contains only a few letters (primarily concerned with speeches delivered by Dr. Wunderlich), but does contain numerous clippings documenting Dr. Wunderlich's activities during the years 1927-1931.</p>
+      <p> The bulk of the collection consists of publications of Frieda Wunderlich, primarily in the anti-Hitler periodical <emph render="italic">Soziale Praxis</emph>, which she edited from 1923 until she emigrated to the United States in 1933. In addition, there are several typescripts of speeches delivered by Wunderlich in Germany during the years 1927-1933. The collection contains only a few letters (primarily concerned with speeches delivered by Dr. Wunderlich), but does contain numerous clippings documenting Dr. Wunderlich's activities during the years 1927-1931.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_e346feec52b7f67b51e0377b635d3aef">
       <head>Arrangement of the Collection</head>
-      <p>The collection is organized as follows: <list type="simple"><item>Series 1: Biographical materials, 1927-1931</item><item>Series 2: Correspondence, 1926-1930</item><item>Series 3: Protokolls and transcripts of meetings, 1928-1931</item><item>Series 4: Unpublished writings, speech texts, 1927-1933</item><item>Series 5: Published writings of Frieda Wunderlich, 1920-1941</item></list>.</p>
+      <p>The collection is organized as follows:</p>
+      <p>.</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_6be6796b369191dc92e262b532b14be9">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives, from the New School for Social Research in New York in 1979.</p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_69892772a803cf30b949fe9614099cb0">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_9b3a7a3000ccea6c993edaed659f19a4">
       <head>Copyright</head>
       <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_e97baff59e4c2cb128742f6db02e801a">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Frieda Wunderlich Papers, 1920-1941. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, Frieda Wunderlich Papers, 1920-1941. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Labor</subject>
-      <corpname encodinganalog="610" source="lcsh">New School for Social Research (New York, N.Y. : 1919-1997)</corpname>
-      <subject encodinganalog="650" source="lcsh">Social work education.</subject>
-      <subject encodinganalog="650" source="lcsh">Agricultural laborers -- Germany.</subject>
-      <subject encodinganalog="650" source="lcsh">Agricultural laborers -- Soviet Union.</subject>
-      <genreform encodinganalog="655" source="aat">Manuscripts.</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence.</genreform>
-      <subject encodinganalog="650" source="meg">Agriculture</subject>
+      <subject source="meg">Labor</subject>
+      <subject source="lcsh">Social work education.</subject>
+      <subject source="lcsh">Agricultural laborers -- Germany.</subject>
+      <subject source="lcsh">Agricultural laborers -- Soviet Union.</subject>
+      <genreform source="aat">Manuscripts.</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <subject source="meg">Agriculture</subject>
+      <corpname source="lcsh">New School for Social Research (New York, N.Y. : 1919-1997)</corpname>
     </controlaccess>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 level="series" id="nam_ger101-1">
+    <dsc>
+      <c01 id="aspace_81298b0a18fee11a110be5b7e37ee080" level="series">
         <did>
+          <unittitle>Biographical materials</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Biographical materials</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1927/1931">1927-1931</unitdate>
+          <unitdate normal="1927/1931" type="inclusive">1927-1931</unitdate>
           <physdesc>
-            <physfacet>7 file folders</physfacet>
+            <physfacet id="aspace_728954f222da970b6af86fd54f420400">7 file folders</physfacet>
           </physdesc>
         </did>
-        <scopecontent>
+        <scopecontent id="aspace_ec72247c4857a160bdb50b296834547c">
+          <head>Scope and Contents</head>
           <p>This series consists primarily of newspaper clippings about Dr. Wunderlich's activities, promotions, and lectures delivered during the years 1927 to 1931.</p>
         </scopecontent>
-        <arrangement>
+        <arrangement id="aspace_55020f0caf1ee28b7bdf62fa142c00c1">
+          <head>Arrangement</head>
           <p>Arranged chronologically.</p>
         </arrangement>
-        <c02 id="nam_ger101-1_1">
+        <c02 id="aspace_0ee031633b6be63f1e07416414e4e40f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Clippings about Wunderlich</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1927">1927</unitdate>
+            <unitdate normal="1927/1927" type="inclusive">1927</unitdate>
+            <container id="aspace_2a9893edd07b0027849b698c6d265f0d" label="Mixed Materials" type="Box">1 (1-Biographical materials)</container>
+            <container id="aspace_c4c4edf012a420af35922ac872b2d300" parent="aspace_2a9893edd07b0027849b698c6d265f0d" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-1_2">
+        <c02 id="aspace_3b896d47a7fd8bec141a7d0980bb844e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Clippings pertaining to the 40. Deutscher Fürsorgetag</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1927-05">1927 May</unitdate>
+            <unitdate normal="1927-05/1927-05" type="inclusive">1927 May</unitdate>
+            <container id="aspace_6eba7e701c0fbe4fff3977d247bbe1c8" label="Mixed Materials" type="Box">1 (1-Biographical materials)</container>
+            <container id="aspace_6be0f3a22d5e5bffb65708d9aa8a9513" parent="aspace_6eba7e701c0fbe4fff3977d247bbe1c8" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-1_3">
+        <c02 id="aspace_d469c4b4eeaf20b11ad037ed7e7d3120" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Clippings about Wunderlich</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1928">1928</unitdate>
+            <unitdate normal="1928/1928" type="inclusive">1928</unitdate>
+            <container id="aspace_f68eb2a653f9f4b4765a8e8ce9cb7eee" label="Mixed Materials" type="Box">1 (1-Biographical materials)</container>
+            <container id="aspace_f171de2b1eb79543f30ebad40f3f8345" parent="aspace_f68eb2a653f9f4b4765a8e8ce9cb7eee" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-1_4">
+        <c02 id="aspace_58cf1523cf86c8ae10699c0c20e24180" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Clippings about Wunderlich</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929">1929</unitdate>
+            <unitdate normal="1929/1929" type="inclusive">1929</unitdate>
+            <container id="aspace_74681f322d59a7fc466a429793ab9fe5" label="Mixed Materials" type="Box">1 (1-Biographical materials)</container>
+            <container id="aspace_2a69f1b57c70a710cead4a4ed81a7916" parent="aspace_74681f322d59a7fc466a429793ab9fe5" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-1_5">
+        <c02 id="aspace_5117835d5bedf9e3a3ed069cba4ef459" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Clippings about Wunderlich</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1930">1930</unitdate>
+            <unitdate normal="1930/1930" type="inclusive">1930</unitdate>
+            <container id="aspace_e3665e10aaeddecd0053df580bc5ae6c" label="Mixed Materials" type="Box">1 (1-Biographical materials)</container>
+            <container id="aspace_53f3bdc1f89a533bc061e196700e90ac" parent="aspace_e3665e10aaeddecd0053df580bc5ae6c" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-1_6">
+        <c02 id="aspace_1d00ad5833975c11287c500b93ad4df0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Clippings about Wunderlich</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1931">1931</unitdate>
+            <unitdate normal="1931/1931" type="inclusive">1931</unitdate>
+            <container id="aspace_f867892887bfe24334797acd0909c2a1" label="Mixed Materials" type="Box">1 (1-Biographical materials)</container>
+            <container id="aspace_5fd381066746a401fcfc3093919ac226" parent="aspace_f867892887bfe24334797acd0909c2a1" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-1_7">
+        <c02 id="aspace_0cde9875be9fdf9f4862c01fc51a3a96" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Lecture announcements</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1928/1931">1928-1931</unitdate>
+            <unitdate normal="1928/1931" type="inclusive">1928-1931</unitdate>
+            <container id="aspace_1a52e037030daf1cf7aa4cc78aa472f5" label="Mixed Materials" type="Box">1 (1-Biographical materials)</container>
+            <container id="aspace_7c77b6a4ef34981a4dd08df4e9cffbc6" parent="aspace_1a52e037030daf1cf7aa4cc78aa472f5" type="Folder">7</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_ger101-2">
+      <c01 id="aspace_b295013232bdad4385398b0a7c6db9aa" level="series">
         <did>
+          <unittitle>Correspondence</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Correspondence</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1926/1930">1926-1930</unitdate>
+          <unitdate normal="1926/1930" type="inclusive">1926-1930</unitdate>
           <physdesc>
-            <physfacet>1 file folder</physfacet>
+            <physfacet id="aspace_7318987d6836941a34d5c18ecaddd634">1 file folder</physfacet>
           </physdesc>
         </did>
-        <scopecontent>
+        <scopecontent id="aspace_903bc19528aab9a0811777eaac809f2e">
+          <head>Scope and Contents</head>
           <p>Primarily correspondence relating to lectures.</p>
         </scopecontent>
-        <c02 id="nam_ger101-2_1">
+        <c02 id="aspace_a5b68738a4ffdc9c1081d45ef9644755" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Correspondence primarily dealing with lectures given by Wunderlich</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920/1941">Undated</unitdate>
+            <unitdate normal="1920/1941" type="inclusive">Undated</unitdate>
+            <container id="aspace_32dc2dba0fc5eaf912af12b9b2995cf6" label="Mixed Materials" type="Box">1 (2-Correspondence)</container>
+            <container id="aspace_88eaf05decf1f63dd97ead1c9182c22f" parent="aspace_32dc2dba0fc5eaf912af12b9b2995cf6" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-2_2">
+        <c02 id="aspace_d6def0a37302b916bd32bd0422aa0e31" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8a</container>
             <unittitle>Simon, Helene</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929">1929</unitdate>
+            <unitdate normal="1929/1929" type="inclusive">1929</unitdate>
+            <container id="aspace_86035c3ffd2d9368b38a3bbd9763aee6" label="Mixed Materials" type="Box">1 (2-Correspondence)</container>
+            <container id="aspace_c23e1c60ee6014c125ab1bae3b318ff0" parent="aspace_86035c3ffd2d9368b38a3bbd9763aee6" type="Folder">8a</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_ger101-3">
+      <c01 id="aspace_4defbb459f1be7f5fb8cb1d002b6ce21" level="series">
         <did>
+          <unittitle>Protokolls and transcripts of meetings</unittitle>
           <unitid>3</unitid>
-          <unittitle label="Series">Protokolls and transcripts of meetings</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1928/1931">1928-1931</unitdate>
+          <unitdate normal="1928/1931" type="inclusive">1928-1931</unitdate>
           <physdesc>
-            <physfacet>6 file folders</physfacet>
+            <physfacet id="aspace_f9a36745bdeb118e815cb610a3709db3">6 file folders</physfacet>
           </physdesc>
         </did>
-        <scopecontent>
+        <scopecontent id="aspace_08c45dbb5a9f3fdddcad9ab4e6d4dfd6">
+          <head>Scope and Contents</head>
           <p>This series contains transcripts of testimonies of Frieda Wunderlich before sessions of the Landstag and other governmental representative bodies.</p>
         </scopecontent>
-        <arrangement>
+        <arrangement id="aspace_e980df07f94e28fefbe8946ee1b1ef08">
+          <head>Arrangement</head>
           <p>Arranged chronologically.</p>
         </arrangement>
-        <c02 id="nam_ger101-3_1">
+        <c02 id="aspace_d336756930f4286ce1c1d8cb48ef2e91" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Protokolls of meetings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1928/1930">1928-1930</unitdate>
+            <unitdate normal="1928/1930" type="inclusive">1928-1930</unitdate>
+            <container id="aspace_9accf317c3f4b34f79a66e0b5164bc9f" label="Mixed Materials" type="Box">1 (3-Protokolls and transcripts of meetings)</container>
+            <container id="aspace_958b18ec945e6a65c59d0cd35a4e41ce" parent="aspace_9accf317c3f4b34f79a66e0b5164bc9f" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-3_2">
+        <c02 id="aspace_77b5832c63fba144eca3f20a3e7b454e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>"Amtlicher stenographischer Bericht über die Sitzung der Berliner Stadtverordnetenversammlung am 3. Mai 1928". Printed transcript of Wunderlich's testimony</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920/1941">Undated</unitdate>
+            <unitdate normal="1920/1941" type="inclusive">Undated</unitdate>
+            <container id="aspace_afbeb0f06e181335c89aea7a790fc2ea" label="Mixed Materials" type="Box">1 (3-Protokolls and transcripts of meetings)</container>
+            <container id="aspace_c91f4dd999445eb1a8d8261c4ace96ed" parent="aspace_afbeb0f06e181335c89aea7a790fc2ea" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-3_3">
+        <c02 id="aspace_6cec11ea0ee7cdf79caab68e519c7bfa" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>"Amtlicher stenographischer Bericht über die Sitzung der Berliner Stadtverordnetenversammlung am 17. März 1930". Printed transcript of Wunderlich's testimony</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920/1941">Undated</unitdate>
+            <unitdate normal="1920/1941" type="inclusive">Undated</unitdate>
+            <container id="aspace_4cce3a8faafd7def7258c471e18fa249" label="Mixed Materials" type="Box">1 (3-Protokolls and transcripts of meetings)</container>
+            <container id="aspace_fe15462bdc615a9fe85938d0f67bb476" parent="aspace_4cce3a8faafd7def7258c471e18fa249" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-3_4">
+        <c02 id="aspace_9ad9a8c08dcfb2c164bd78256450c973" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>"Außerordentliche Sitzung am 29. April 1930". Printed transcript of Wunderlich's testimony</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920/1941">Undated</unitdate>
+            <unitdate normal="1920/1941" type="inclusive">Undated</unitdate>
+            <container id="aspace_2143f10bcf5330aeedba1e63f7c8c5b4" label="Mixed Materials" type="Box">1 (3-Protokolls and transcripts of meetings)</container>
+            <container id="aspace_217a5606705a5465b696e32975a68c29" parent="aspace_2143f10bcf5330aeedba1e63f7c8c5b4" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-3_5">
+        <c02 id="aspace_f421ba1db6956edbf4d4fd0ad8d41b31" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>"Preußischer Landtag 198. Sitzung am 31. Januar 1931". Printed transcript of Wunderlich's testimony</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920/1941">Undated</unitdate>
+            <unitdate normal="1920/1941" type="inclusive">Undated</unitdate>
+            <container id="aspace_6c53eb263df03d15dc1a1142e5782851" label="Mixed Materials" type="Box">1 (3-Protokolls and transcripts of meetings)</container>
+            <container id="aspace_d62adf91c7449f5c2a8f30d8cccfc2cf" parent="aspace_6c53eb263df03d15dc1a1142e5782851" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-3_6">
+        <c02 id="aspace_33ecb6d928e5be5224ee79bbcc0211b5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>"Preußischer Landtag Sitzung am 26. November 1931". Printed transcript of Wunderlich's testimony</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920/1941">Undated</unitdate>
+            <unitdate normal="1920/1941" type="inclusive">Undated</unitdate>
+            <container id="aspace_e94877b9e1f262bafa879ef623e51ee9" label="Mixed Materials" type="Box">1 (3-Protokolls and transcripts of meetings)</container>
+            <container id="aspace_d64ea7178eaedc66d0f2b5e13de901ee" parent="aspace_e94877b9e1f262bafa879ef623e51ee9" type="Folder">14</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_ger101-4">
+      <c01 id="aspace_a0b6dedf472419123e958508d1fb313e" level="series">
         <did>
+          <unittitle>Unpublished writings, speech texts</unittitle>
           <unitid>4</unitid>
-          <unittitle label="Series">Unpublished writings, speech texts</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1927/1933">1927-1933</unitdate>
+          <unitdate normal="1927/1933" type="inclusive">1927-1933</unitdate>
           <physdesc>
-            <physfacet>9 file folders</physfacet>
+            <physfacet id="aspace_05cf14648a192847bc7111abafe7c36b">9 file folders</physfacet>
           </physdesc>
         </did>
-        <scopecontent>
+        <scopecontent id="aspace_88e2ae76f0437f8ae089a6b7eed386a3">
+          <head>Scope and Contents</head>
           <p>This series contains primarily texts of lectures delivered by Dr. Wunderlich from 1927 to 1933.</p>
         </scopecontent>
-        <arrangement>
+        <arrangement id="aspace_4ce213a514a26c8f916623bbd263e1d0">
+          <head>Arrangement</head>
           <p>Arranged chronologically.</p>
         </arrangement>
-        <c02 id="nam_ger101-4_1">
+        <c02 id="aspace_86baabbd3f42c9315ac1e63a91f1a732" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>"Verordnung über die Fürsorgepflicht vom 3. Februar 1924"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920/1941">Undated</unitdate>
+            <unitdate normal="1920/1941" type="inclusive">Undated</unitdate>
+            <container id="aspace_37f9f19a91f7ffaa6da3daf75b0827c3" label="Mixed Materials" type="Box">1 (4-Unpublished writings, speech texts)</container>
+            <container id="aspace_38dee4469fcdc83d1372552a3e72c152" parent="aspace_37f9f19a91f7ffaa6da3daf75b0827c3" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-4_2">
+        <c02 id="aspace_cce59d62d571b2979bf88b7ec05297d6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Miscellaneous speech texts</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1922/1932">ca. 1927</unitdate>
+            <unitdate normal="1922/1932" type="inclusive">ca. 1927</unitdate>
+            <container id="aspace_d0a87ff3ef1f1898e18a52e018c5d7c5" label="Mixed Materials" type="Box">1 (4-Unpublished writings, speech texts)</container>
+            <container id="aspace_f51fc8dc4e45c650ec76b4b4f4fec1c8" parent="aspace_d0a87ff3ef1f1898e18a52e018c5d7c5" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-4_3">
+        <c02 id="aspace_5106d9427f6542d72e505506487ca6c2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>"Der Produktivitätsbegriff"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920/1941">Undated</unitdate>
+            <unitdate normal="1920/1941" type="inclusive">Undated</unitdate>
+            <container id="aspace_492534ae9a0d37ffa45095c05fcd2a57" label="Mixed Materials" type="Box">1 (4-Unpublished writings, speech texts)</container>
+            <container id="aspace_c5b2349cf797f30a34335c31991f41d8" parent="aspace_492534ae9a0d37ffa45095c05fcd2a57" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-4_4">
+        <c02 id="aspace_081d4a9467f6f86400075b171d09f5ef" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>Speech on "Wirtschaft, Sozialpolitik und Wohlfahrtspflege"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1922/1932">ca. 1927</unitdate>
+            <unitdate normal="1922/1932" type="inclusive">ca. 1927</unitdate>
+            <container id="aspace_cbd6efb93d97c73ab5b0ed88b7d433a3" label="Mixed Materials" type="Box">1 (4-Unpublished writings, speech texts)</container>
+            <container id="aspace_3b55686ab91ac296b82a3ba17fb3d2fb" parent="aspace_cbd6efb93d97c73ab5b0ed88b7d433a3" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-4_5">
+        <c02 id="aspace_1060f168a4c01873863acddf42cc2e57" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>Speech on German welfare system</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1928-03-20">1928 March 20</unitdate>
+            <unitdate normal="1928-03-20/1928-03-20" type="inclusive">1928 March 20</unitdate>
+            <container id="aspace_9b762d8d7a4d93a9572f2678b0a10beb" label="Mixed Materials" type="Box">1 (4-Unpublished writings, speech texts)</container>
+            <container id="aspace_8ee84b3a12c3ea75667c12611269c5f9" parent="aspace_9b762d8d7a4d93a9572f2678b0a10beb" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-4_6">
+        <c02 id="aspace_7c075f3cbad1197cd333072a2f39bf8f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>Speech on "Sozialpolitik und Wohlfahrtspflege"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920/1941">Undated</unitdate>
+            <unitdate normal="1920/1941" type="inclusive">Undated</unitdate>
+            <container id="aspace_ac8a4981ef6198310a8cafef145ba932" label="Mixed Materials" type="Box">1 (4-Unpublished writings, speech texts)</container>
+            <container id="aspace_710d129cdfdf70ccfd8d66eabb6db13c" parent="aspace_ac8a4981ef6198310a8cafef145ba932" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-4_7">
+        <c02 id="aspace_4f922c063337e20a929f8993219fe480" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>Speech on productivity</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1931">1931</unitdate>
+            <unitdate normal="1931/1931" type="inclusive">1931</unitdate>
+            <container id="aspace_4bc592ae6c13fe39b8ce14124aa1ea93" label="Mixed Materials" type="Box">1 (4-Unpublished writings, speech texts)</container>
+            <container id="aspace_29b25e64b67b821aad01ff92b4af31c2" parent="aspace_4bc592ae6c13fe39b8ce14124aa1ea93" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-4_8">
+        <c02 id="aspace_95afde95f57e8b8745ca46d102e3cbc2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>Speech on "Socialpolitik und Arbeitsrecht"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1932-04-21">1932 April 21</unitdate>
+            <unitdate normal="1932-04-21/1932-04-21" type="inclusive">1932 April 21</unitdate>
+            <container id="aspace_50100e42d07882e57b3d7481fb462d1e" label="Mixed Materials" type="Box">1 (4-Unpublished writings, speech texts)</container>
+            <container id="aspace_b43abfddc85c8743591f4d9a24669bea" parent="aspace_50100e42d07882e57b3d7481fb462d1e" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-4_9">
+        <c02 id="aspace_6625497bb0bedbf83aaa6402251a6642" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23</container>
             <unittitle>"Die deutsche Sozialversicherung"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1932">1932</unitdate>
+            <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
+            <container id="aspace_d5a62eaa2c2f2b4ce3d736e0901bbf35" label="Mixed Materials" type="Box">1 (4-Unpublished writings, speech texts)</container>
+            <container id="aspace_7a82459d3b7254096f0ab2f7eb8e7abf" parent="aspace_d5a62eaa2c2f2b4ce3d736e0901bbf35" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-4_10">
+        <c02 id="aspace_ffda00aae8f0b8c1880a6a6e17e98016" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">24</container>
             <unittitle>"Social Insurance in Germany". German version of "Die deutsche Sozialversicherung"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1932-07-09/1932-07-10">1932 July 9-1932 July 10</unitdate>
+            <unitdate normal="1932-07-09/1932-07-10" type="inclusive">1932 July 9-1932 July 10</unitdate>
+            <container id="aspace_f16fb2819a5b05dc6aa0e99d9477eecc" label="Mixed Materials" type="Box">1 (4-Unpublished writings, speech texts)</container>
+            <container id="aspace_734b6f817a0d740b87d774983bdc5446" parent="aspace_f16fb2819a5b05dc6aa0e99d9477eecc" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-4_11">
+        <c02 id="aspace_f3de292b26438152eb82958f6ef93f32" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">25</container>
             <unittitle>"Reform der Arbeitslosenversicherung"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1932">1932</unitdate>
+            <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
+            <container id="aspace_d2ef797937c621cccdc0c778d5ca9be9" label="Mixed Materials" type="Box">1 (4-Unpublished writings, speech texts)</container>
+            <container id="aspace_19288df19c2556d2b5f8bbdad6d109a7" parent="aspace_d2ef797937c621cccdc0c778d5ca9be9" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-4_12">
+        <c02 id="aspace_b6d78f40aa3d3511c72d94fabb57d396" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">26</container>
             <unittitle>Speech on "Berufsschulen"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1932">1932</unitdate>
+            <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
+            <container id="aspace_805a9267c300c7756f6c748b1b8ddeb7" label="Mixed Materials" type="Box">1 (4-Unpublished writings, speech texts)</container>
+            <container id="aspace_3080da5572e6b8a668c07d46349260a9" parent="aspace_805a9267c300c7756f6c748b1b8ddeb7" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-4_13">
+        <c02 id="aspace_73463279e6f8ac7c30eb0e6ac6be774b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">27</container>
             <unittitle>Speech on unemployment insurance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1932">1932</unitdate>
+            <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
+            <container id="aspace_04cb84502a3a227b6dc668aee9b51aea" label="Mixed Materials" type="Box">1 (4-Unpublished writings, speech texts)</container>
+            <container id="aspace_cc5d66cf8e21c871389432ed5d079d91" parent="aspace_04cb84502a3a227b6dc668aee9b51aea" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-4_14">
+        <c02 id="aspace_380fe18b995cf8ca721874a58f36cf8b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">28</container>
             <unittitle>Speech on unemployment</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1933-04-07">1933 April 7</unitdate>
+            <unitdate normal="1933-04-07/1933-04-07" type="inclusive">1933 April 7</unitdate>
+            <container id="aspace_7624c539c190fc5e1288a94a5a9ba1eb" label="Mixed Materials" type="Box">1 (4-Unpublished writings, speech texts)</container>
+            <container id="aspace_a02d1f098bcc4118bd7eaf3d06e6b848" parent="aspace_7624c539c190fc5e1288a94a5a9ba1eb" type="Folder">28</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_ger101-5">
+      <c01 id="aspace_c117e0e18f1dac1581ccfa8060f780ea" level="series">
         <did>
+          <unittitle>Published writings of Frieda Wunderlich</unittitle>
           <unitid>5</unitid>
-          <unittitle label="Series">Published writings of Frieda Wunderlich</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920/1941">1920-1941</unitdate>
+          <unitdate normal="1920/1941" type="inclusive">1920-1941</unitdate>
           <physdesc>
-            <physfacet>44 file folders</physfacet>
+            <physfacet id="aspace_cc6e32dbbfc15e5974d6a09e1dfae1e8">44 file folders</physfacet>
           </physdesc>
         </did>
-        <scopecontent>
+        <scopecontent id="aspace_56c94cd6b37eae156198029ff6a5319a">
+          <head>Scope and Contents</head>
           <p>This is the largest series in the collection and contains primarily publications by Wunderlich in the periodical <emph render="italic">Soziale Praxis</emph>, which she also edited for over ten years, 1923-1933. Also included in this series are reviews of Wunderlich's writings.</p>
         </scopecontent>
-        <arrangement>
+        <arrangement id="aspace_458b866b54ce78208539282c9ccfd92a">
+          <head>Arrangement</head>
           <p>Arranged chronologically.</p>
         </arrangement>
-        <c02 id="nam_ger101-5_1">
+        <c02 id="aspace_5b49baef8b05c60a9de772e7fa7236f1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">29</container>
             <unittitle>"Die gleitende Lohnskala"<emph render="italic">Deutsche Tiefbau-Zeitung</emph>, No. 37, 340-342</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920-09-15">15 September 1920</unitdate>
+            <unitdate normal="1920-09-15/1920-09-15" type="inclusive">15 September 1920</unitdate>
+            <container id="aspace_6f8d53f5fa6836b7b4dc0f9471937ddf" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_9fc2225a6617059e869a0707194cde51" parent="aspace_6f8d53f5fa6836b7b4dc0f9471937ddf" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_2">
+        <c02 id="aspace_64e1adbb7f5870c35b37e9a103fd27e6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">30</container>
             <unittitle>"Teuerungszahlen"<emph render="italic">Deutsche Tiefbau-Zeitung</emph>, No. 38, 348-349</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920-09-22">22 September 1920</unitdate>
+            <unitdate normal="1920-09-22/1920-09-22" type="inclusive">22 September 1920</unitdate>
+            <container id="aspace_afae02aaaf0822a588b1fbaf950f405a" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_9f9d06983c3fdcea2b0ec430e5eb366e" parent="aspace_afae02aaaf0822a588b1fbaf950f405a" type="Folder">30</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_3">
+        <c02 id="aspace_b1a73d3ae88e8c2851fe8376de315e09" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">31</container>
             <unittitle>"Sozialpolitik und Wirtschaftspolitik. Betrachtungen über den Ort der Sozialpolitik"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 31, 707-710</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1923-08-02">2 August 1923</unitdate>
+            <unitdate normal="1923-08-02/1923-08-02" type="inclusive">2 August 1923</unitdate>
+            <container id="aspace_982b10d56284456b791fccaf87f81c6e" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_56f1d1340f7f42bb3fd6acca9d76f8ff" parent="aspace_982b10d56284456b791fccaf87f81c6e" type="Folder">31</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_4">
+        <c02 id="aspace_cb60e34e4501d3db21f476614ec48e0d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">32</container>
             <unittitle>"Aus den deutschen Gewerbeaufsichtsberichten. (Sachsen, Württemberg, Hamburg, Braunschweig), I, II, IV, V, VI"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 28, 29, 34, 35, 39</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1923-07-12/1923-09-27">12 July-27 September 1923</unitdate>
+            <unitdate normal="1923-07-12/1923-09-27" type="inclusive">12 July-27 September 1923</unitdate>
+            <container id="aspace_96ee051475c5626fb8f382e6fa95b929" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_d7be662e3d8822c0c342bc40c1d509d5" parent="aspace_96ee051475c5626fb8f382e6fa95b929" type="Folder">32</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_5">
+        <c02 id="aspace_27e8bbcffc3c32690d0d04ed09295429" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">33</container>
             <unittitle>"Deutschlands 'soziales Dumping'"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 9, 161-164</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1924-02-28">28 February 1924</unitdate>
+            <unitdate normal="1924-02-28/1924-02-28" type="inclusive">28 February 1924</unitdate>
+            <container id="aspace_fdab754cdf5ae96d4e49bde078555faa" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_98222c8b6a2a87a394b43e1a1f61caca" parent="aspace_fdab754cdf5ae96d4e49bde078555faa" type="Folder">33</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_6">
+        <c02 id="aspace_e98b642a3557f125d9da673fb75ea9d0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">34</container>
             <unittitle>"Der Streit um das 'Soziale Dumping'. Zur Auseinandersetzung über den Abbau der Sozialpolitik"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 17, 337-341</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1924-04-14">14 April 1924</unitdate>
+            <unitdate normal="1924-04-14/1924-04-14" type="inclusive">14 April 1924</unitdate>
+            <container id="aspace_7248c85dc37d77e5451b5dbde6a06d3a" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_4b57d0b244a61dcfca08c7ac7b87e6c7" parent="aspace_7248c85dc37d77e5451b5dbde6a06d3a" type="Folder">34</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_7">
+        <c02 id="aspace_c3ab5b094226ea414ac45432e9ee358d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">35</container>
             <unittitle>"Die Sozialpolitik in der Schweiz"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 36, 743-745</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1924-09-04">4 September 1924</unitdate>
+            <unitdate normal="1924-09-04/1924-09-04" type="inclusive">4 September 1924</unitdate>
+            <container id="aspace_f986a4eee24e3d8a8d34e7e4310809b0" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_302c09a33fc97e7e3c65384215039e3e" parent="aspace_f986a4eee24e3d8a8d34e7e4310809b0" type="Folder">35</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_8">
+        <c02 id="aspace_ca10f88d3b488845dbf232cd0e1f021d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">36</container>
             <unittitle>"Nelsons Sozialpolitik I, II, III"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 48-50</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1924-11-27/1924-12-11">27 November-11 December 1924</unitdate>
+            <unitdate normal="1924-11-27/1924-12-11" type="inclusive">27 November-11 December 1924</unitdate>
+            <container id="aspace_729b3ff1e702ef8e87bd8debfacc4741" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_ff6098f026a0394330aa8acc670cf77a" parent="aspace_729b3ff1e702ef8e87bd8debfacc4741" type="Folder">36</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_9">
+        <c02 id="aspace_8485847a1ca2f710fb58912b312b98cb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">37</container>
             <unittitle>"Ein Gang durch die deutsche Heimarbeitausstellung 1925"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 19-25</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1925-05-07/1925-06-18">7 May-18 June 1925</unitdate>
+            <unitdate normal="1925-05-07/1925-06-18" type="inclusive">7 May-18 June 1925</unitdate>
+            <container id="aspace_3f3084a067838317ec4a41dab7f4f5af" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_4b9b434614ff76e97dc0844ec1f56c52" parent="aspace_3f3084a067838317ec4a41dab7f4f5af" type="Folder">37</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_10">
+        <c02 id="aspace_bbf4fde8c5e95b9d20f672c6ef262493" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">38</container>
             <unittitle>"Die Denkschrift der Vereinigung der deutschen Arbeitgeberverbände zur Lohnfrage"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 26, 567-571</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1925-06-25">25 June 1925</unitdate>
+            <unitdate normal="1925-06-25/1925-06-25" type="inclusive">25 June 1925</unitdate>
+            <container id="aspace_f351d020ca9a000d94ad3ed33cfd3fec" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_8b8cca33c4827b66eb491a51a7e54e95" parent="aspace_f351d020ca9a000d94ad3ed33cfd3fec" type="Folder">38</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_11">
+        <c02 id="aspace_de1982de3f9f1df9b64274851a4ddc58" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">39</container>
             <unittitle>"Psychoshysische Arbeitsforschung"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 38, 836-839</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1925-09-17">17 September 1925</unitdate>
+            <unitdate normal="1925-09-17/1925-09-17" type="inclusive">17 September 1925</unitdate>
+            <container id="aspace_b5b911443d8705b9f982bde95487dab6" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_2733fc1185af2e25c5fea842c961f65c" parent="aspace_b5b911443d8705b9f982bde95487dab6" type="Folder">39</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_12">
+        <c02 id="aspace_ca957173e4d17bf2ab398aa980f001a5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">40</container>
             <unittitle>"Stand und Entwicklungsmöglichkeiten der Fabrikpflege in Deutschland"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 49, 1107-1110</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1925-12-03">3 December 1925</unitdate>
+            <unitdate normal="1925-12-03/1925-12-03" type="inclusive">3 December 1925</unitdate>
+            <container id="aspace_d36438be74e5af8fca72819d064048fd" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_bca2993f14c82e7e5fdaf9b7688b4077" parent="aspace_d36438be74e5af8fca72819d064048fd" type="Folder">40</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_13">
+        <c02 id="aspace_7642a6609becde01d7655eaba7f29ca4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">41</container>
             <unittitle>"Die Sozialpolitik der Schweiz"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 3, 64-68</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1926-01-21">21 January 1926</unitdate>
+            <unitdate normal="1926-01-21/1926-01-21" type="inclusive">21 January 1926</unitdate>
+            <container id="aspace_ea6ff47210445ab10c7387f325e18795" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_33f269afc3790153ef3abf98105e3910" parent="aspace_ea6ff47210445ab10c7387f325e18795" type="Folder">41</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_14">
+        <c02 id="aspace_680947f3e3fc8f325450dff2b0dbad80" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">42</container>
             <unittitle>"Der Weltbund für Frauenstimmrecht", Soziale Praxis und Archiv für Volkswohlfahrt, No. 26, 645-646</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1926-06-30">30 June 1926</unitdate>
+            <unitdate normal="1926-06-30/1926-06-30" type="inclusive">30 June 1926</unitdate>
+            <container id="aspace_3843dba4a57e89cc48209a13cf2aea1f" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_21996cc1877226c41935389ab87964f3" parent="aspace_3843dba4a57e89cc48209a13cf2aea1f" type="Folder">42</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_15">
+        <c02 id="aspace_763e789fecc7190701ccfec331910ffa" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">43</container>
             <unittitle>"Die Heimatarbeit nach den Berichten der Gewerbeaufsichtsbeamten. I"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 27, 674-678</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1926-07-08">8 July 1926</unitdate>
+            <unitdate normal="1926-07-08/1926-07-08" type="inclusive">8 July 1926</unitdate>
+            <container id="aspace_04730996123f8d17431e2daf9884d705" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_85e7084a22e45e10506558809964efdb" parent="aspace_04730996123f8d17431e2daf9884d705" type="Folder">43</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_16">
+        <c02 id="aspace_c63ba6bc07fbccda149f3ad7eeb7eab7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">44</container>
             <unittitle>"Die Frage der Verhütung der Arbeitslosigkeit durch Beeinflussung der Volkswirtschaft"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 30, 753-754</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1926-07-29">29 July 1926</unitdate>
+            <unitdate normal="1926-07-29/1926-07-29" type="inclusive">29 July 1926</unitdate>
+            <container id="aspace_e802f1a125676eee43a32fa21459d33c" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_71c7ebcb6296b79fd99e4673de395b9b" parent="aspace_e802f1a125676eee43a32fa21459d33c" type="Folder">44</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_17">
+        <c02 id="aspace_4f6177d263932e6c6b314af399d1e64a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">45</container>
             <unittitle>"Die Frage des Verhältnisses der unproduktiven zu den produktiven Arbeitskräften"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 32, 805-807</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1926-08-12">12 August 1926</unitdate>
+            <unitdate normal="1926-08-12/1926-08-12" type="inclusive">12 August 1926</unitdate>
+            <container id="aspace_c9504f7eaff49728cfb61e603109582c" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_c37071880d10038c6e5a4f1ea5591999" parent="aspace_c9504f7eaff49728cfb61e603109582c" type="Folder">45</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_18">
+        <c02 id="aspace_6afa5d8a08be1a96b11f4833cefbe6b1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">46</container>
             <unittitle>"Aus den Berichten der Gewerbeaufsichtsbeamten (Preußen, Bayern, Sachsen, Baden, Württemberg, Braunschweig, Hamburg) für das Jahr 1925"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 31, 32, 34, 35, 38</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1926-08-05/1926-09-23">5 August-23 September 1926</unitdate>
+            <unitdate normal="1926-08-05/1926-09-23" type="inclusive">5 August-23 September 1926</unitdate>
+            <container id="aspace_ecb90decca7d14c1440472fbed1b6eed" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_3e9928648a0a49aacfe812da3d6555cf" parent="aspace_ecb90decca7d14c1440472fbed1b6eed" type="Folder">46</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_19">
+        <c02 id="aspace_2cddc5762a178d62a32d942cb8ba39d9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">47</container>
             <unittitle>"Neue Ergebnisse der Ermüdungsforschung"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 36, 914-918</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1926-09-09">9 September 1926</unitdate>
+            <unitdate normal="1926-09-09/1926-09-09" type="inclusive">9 September 1926</unitdate>
+            <container id="aspace_553ca04569893be7641c753ef0e4de8c" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_3032377162141894555f497eccb146c6" parent="aspace_553ca04569893be7641c753ef0e4de8c" type="Folder">47</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_20">
+        <c02 id="aspace_7bf15d15783cee17f7c417dfb702cf8f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">48</container>
             <unittitle>"Die wirtschaftliche Lage der Arbeitnehmer in der Schweiz und die sozialpolitische Entwicklung im Jahre 1925"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 45, 1140-1144</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1926-11-11">11 November 1926</unitdate>
+            <unitdate normal="1926-11-11/1926-11-11" type="inclusive">11 November 1926</unitdate>
+            <container id="aspace_17319514deba92dac2a4a6f26090314c" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_9b4125a99015729134363b21e49f1ebe" parent="aspace_17319514deba92dac2a4a6f26090314c" type="Folder">48</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_21">
+        <c02 id="aspace_df05c9de6e4a66ce0b141107c3843dab" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">49</container>
             <unittitle><emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>. Scattered issues</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1923/1926">1923-1926</unitdate>
+            <unitdate normal="1923/1926" type="inclusive">1923-1926</unitdate>
+            <container id="aspace_7849568d99e96827516aa26fd5674178" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_e1b1c74c25b07e50f9fa5703a7367af2" parent="aspace_7849568d99e96827516aa26fd5674178" type="Folder">49</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_22">
+        <c02 id="aspace_6e15d9353847fb6d99da404e05a951a9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">50</container>
             <unittitle>"Dienstverhältnisse und Ausbildung der Arbeitsvermittler"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 5, 107-111</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1927-02-03">3 February 1927</unitdate>
+            <unitdate normal="1927-02-03/1927-02-03" type="inclusive">3 February 1927</unitdate>
+            <container id="aspace_edc6a06251f836fbce272099f63ed8ab" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_471a908ae451e9ecd925a9578471fc72" parent="aspace_edc6a06251f836fbce272099f63ed8ab" type="Folder">50</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_23">
+        <c02 id="aspace_05eab49e617bd7fc727fddc83b7ed2f4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">51</container>
             <unittitle>"The German Accidental Death or (Personal Injury) Insurance"<emph render="italic">Welfare Work</emph>, 29-39</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1927-02">1927 February</unitdate>
+            <unitdate normal="1927-02/1927-02" type="inclusive">1927 February</unitdate>
+            <container id="aspace_b7d68b819a76a079a34352a2b6934cea" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_a76c41f3e859fcead9a9cc06ff6382e1" parent="aspace_b7d68b819a76a079a34352a2b6934cea" type="Folder">51</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_24">
+        <c02 id="aspace_3afa320e42223065b589c397870ed984" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">52</container>
             <unittitle>"Der Entwurf eines Gesetzes zur Abänderung der Arbeitszeitverordnung"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 10, 241-242</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1927-03-10">10 March 1927</unitdate>
+            <unitdate normal="1927-03-10/1927-03-10" type="inclusive">10 March 1927</unitdate>
+            <container id="aspace_d38399bdb3ed2810fe0a6103fe014ce5" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_edf53755471030fcce8b9a6903d40b14" parent="aspace_d38399bdb3ed2810fe0a6103fe014ce5" type="Folder">52</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_25">
+        <c02 id="aspace_62a230a24b13ca21b039bc5cd6e530a2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">53</container>
             <unittitle>"Schlußwort zur Diskussion um Cassel"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 16, 395-397</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1927-04-21">21 April 1927</unitdate>
+            <unitdate normal="1927-04-21/1927-04-21" type="inclusive">21 April 1927</unitdate>
+            <container id="aspace_a6c8e6e9280c90e5f80cdd091104315c" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_3ee2203065bb3db44dc46ac3c078c9a3" parent="aspace_a6c8e6e9280c90e5f80cdd091104315c" type="Folder">53</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_26">
+        <c02 id="aspace_ad9e7947a781052d63fe97beae051f70" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">54</container>
             <unittitle>"Aus den Berichten der Gewerbeaufsichtsbeamten (Preußen, Bayern, Sachsen, Baden, Württemberg, Braunschweig, Hamburg, Thüringen, Oldenburg) für das Jahr 1926, I -- X", No. 36-45</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1927-09-08/1927-11-10">8 September-10 November 1927</unitdate>
+            <unitdate normal="1927-09-08/1927-11-10" type="inclusive">8 September-10 November 1927</unitdate>
+            <container id="aspace_7c112bef902f03eb14b9d3f4d4f2db7e" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_a8f87443d19b325eb2476066d1f3cd92" parent="aspace_7c112bef902f03eb14b9d3f4d4f2db7e" type="Folder">54</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_27">
+        <c02 id="aspace_f37a17dd91220e93f7f47a70bb4ccfbd" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">55</container>
             <unittitle>"Die endgültige Festsetzung der Grenzen der Landesarbeitsämter"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 46, 1156-1158</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1927-11-17">17 November 1927</unitdate>
+            <unitdate normal="1927-11-17/1927-11-17" type="inclusive">17 November 1927</unitdate>
+            <container id="aspace_3c3370b245ad01091df216096b18687a" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_01f76a2bf6c3e9987d9d7c6a875942aa" parent="aspace_3c3370b245ad01091df216096b18687a" type="Folder">55</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_28">
+        <c02 id="aspace_e7dbdef89a153d64589842e5d63914cc" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">56</container>
             <unittitle>"Die Arbeit von Kindern, Jugendlichen und Frauen. Aus den Berichten der Gewerbeaufsichtsbeamten für das Jahr 1926"<emph render="italic">Fortschritte der Gesundheitsfürsorge</emph>, No. 6</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1928">1928</unitdate>
+            <unitdate normal="1928/1928" type="inclusive">1928</unitdate>
+            <container id="aspace_ef939193ca48aff7ed3120e48a9aa0a8" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_b9d1009a25df9c27a9ee29f51266c9fe" parent="aspace_ef939193ca48aff7ed3120e48a9aa0a8" type="Folder">56</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_29">
+        <c02 id="aspace_789c3bbdb763a614df7c951f57d340d0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">57</container>
             <unittitle>"Evangelische Wirtschaftsethik"<emph render="italic">Soziale Praxis. Zentralblatt für Sozialpolitik und Wohlfahrtspflege</emph>, No. 6, 121-127</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1928-02-09">9 February 1928</unitdate>
+            <unitdate normal="1928-02-09/1928-02-09" type="inclusive">9 February 1928</unitdate>
+            <container id="aspace_48f6799cefd43faec2b4d2af1ddd6c53" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_3d6ccbc77d183f51cd034b4e7f3e929d" parent="aspace_48f6799cefd43faec2b4d2af1ddd6c53" type="Folder">57</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_30">
+        <c02 id="aspace_c584e196c3474c8f3e20c83288c6d50c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">58</container>
             <unittitle>"Sozialpolitische Selbstverwaltung. II. Zur Problematik"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 41, 969-974</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1928-10-11">11 October 1928</unitdate>
+            <unitdate normal="1928-10-11/1928-10-11" type="inclusive">11 October 1928</unitdate>
+            <container id="aspace_20cc2535ce9990686ec5608c20310dd3" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_8f54e9a797b5c7d194a31c27c838361f" parent="aspace_20cc2535ce9990686ec5608c20310dd3" type="Folder">58</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_31">
+        <c02 id="aspace_0b0d97748fea72bfd8a485ca32a63471" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">59</container>
             <unittitle>"Worte zur sozialen Arbeit". Excerpt from<emph render="italic">Der Kampf um die Sozialversicherung</emph>, in <emph render="italic">Soziale Arbeit</emph>, Ausgabe A, No. 14, [1]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1930-04-12">12 April 1930</unitdate>
+            <unitdate normal="1930-04-12/1930-04-12" type="inclusive">12 April 1930</unitdate>
+            <container id="aspace_b200989f21a1c8f60be7625e0af7cfac" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_19cb08708f03d1ab5a7938a949b96a23" parent="aspace_b200989f21a1c8f60be7625e0af7cfac" type="Folder">59</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_32">
+        <c02 id="aspace_d96ee0812d65052ddeaf0847da5d4559" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">60</container>
             <unittitle>"Der Einfluß der Rationalisierung auf die Arbeitnehmer nach den Berichten der Gewerbeaufsichtsbeamten für das Jahr 1927"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 42, 43</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1928-10-18/1928-10-25">18-25 October 1928</unitdate>
+            <unitdate normal="1928-10-18/1928-10-25" type="inclusive">18-25 October 1928</unitdate>
+            <container id="aspace_59882b06d02cb37890b261c6ed736650" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_9d1f4acad55fd93212e468570fef6367" parent="aspace_59882b06d02cb37890b261c6ed736650" type="Folder">60</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_33">
+        <c02 id="aspace_e77d99a4d316f0794ffa2a573b95f575" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">61</container>
             <unittitle>"Vom Sinn der Wohlfahrtspflege. Gedanken zur Jubiläumstagung des Deutschen Vereins für öffentliche und private Fürsorge"<emph render="italic">Soziale Praxis und Archiv für Volkswohlfahrt</emph>, No. 47, 1104-1106</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1930-11-20">20 November 1930</unitdate>
+            <unitdate normal="1930-11-20/1930-11-20" type="inclusive">20 November 1930</unitdate>
+            <container id="aspace_2a8524a8d6b66fa2910b3f2c6750a8d3" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_748474a7f93f303cb79f20d1d0ae24c7" parent="aspace_2a8524a8d6b66fa2910b3f2c6750a8d3" type="Folder">61</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_34">
+        <c02 id="aspace_5e9f01bf06a264b3ca2583875711654c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">62</container>
             <unittitle>"Jastrow, Ignaz"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1926/1937">ca. 1931-1932</unitdate>
+            <unitdate normal="1926/1937" type="inclusive">ca. 1931-1932</unitdate>
+            <container id="aspace_b89a7baeb75ea89e44200324219ce966" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_ed93ad9cb7d371ad4ca4d2d07863d72b" parent="aspace_b89a7baeb75ea89e44200324219ce966" type="Folder">62</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_35">
+        <c02 id="aspace_f057d1daf0db60f933b81e6444917fab" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">63</container>
             <unittitle>"Die Kreditkrise"<emph render="italic">Soziale Praxis. Zentralblatt für Sozialpolitik und Wohlfahrtspflege</emph>, No. 31, 1009-1013</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1931-07-30">30 July 1931</unitdate>
+            <unitdate normal="1931-07-30/1931-07-30" type="inclusive">30 July 1931</unitdate>
+            <container id="aspace_30ec8031c65e5c5b2fb2502f29e0fe91" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_8fc4ff901f61ef12ff9fb3fa2f9a2610" parent="aspace_30ec8031c65e5c5b2fb2502f29e0fe91" type="Folder">63</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_36">
+        <c02 id="aspace_9a6ebf2b11447dcf919438804ff3c9e2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">64</container>
             <unittitle>"Weltkrise"<emph render="italic">Soziale Praxis. Zentralblatt für Sozialpolitik und Wohlfahrtspflege</emph>, No. 41, 1361-1368</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1931-10-08">8 October 1931</unitdate>
+            <unitdate normal="1931-10-08/1931-10-08" type="inclusive">8 October 1931</unitdate>
+            <container id="aspace_92d781c6377f053cfdc4160fa55719a8" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_26a96d0c27e0c2756eb7ab9cf8a9d329" parent="aspace_92d781c6377f053cfdc4160fa55719a8" type="Folder">64</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_37">
+        <c02 id="aspace_1e8893c4a00f8e3da743003c4d9179d5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">65</container>
             <unittitle>"Die Zweite Internationale Konferenz für Soziale Arbeit. II (Schluß)"<emph render="italic">Soziale Praxis. Zentralblatt für Sozialpolitik und Wohlfahrtspflege</emph>, No. 30, 28 July 1932, 936-945; "Die deutsche Wirtschaft nach Lausanne", 945-951</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920/1941">Undated</unitdate>
+            <unitdate normal="1920/1941" type="inclusive">Undated</unitdate>
+            <container id="aspace_0c817811838bbb171bf8f77aa4a8fa32" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_72234fed3f7690c40e5f67da2d92c6dd" parent="aspace_0c817811838bbb171bf8f77aa4a8fa32" type="Folder">65</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_38">
+        <c02 id="aspace_62b18b5e18ae84234721a4e538b78f5c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">66</container>
             <unittitle><emph render="italic">Soziale Praxis. Zentralblatt für Sozialpolitik und Wohlfahrtspflege</emph>. Scattered issues</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1933">1933</unitdate>
+            <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
+            <container id="aspace_27df5c9eb87750fc8e9114954b9f72d0" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_789f12e362b524b12979035f914eaa72" parent="aspace_27df5c9eb87750fc8e9114954b9f72d0" type="Folder">66</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5_39">
+        <c02 id="aspace_4f8f8278d64afd5739a64cff6b9283c7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">67</container>
             <unittitle>"The Tragedy of Unionism in Germany"<emph render="italic">The Management Circle</emph>, 16, 20</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941-02">1941 February</unitdate>
+            <unitdate normal="1941-02/1941-02" type="inclusive">1941 February</unitdate>
+            <container id="aspace_033eee548d7c1c088754c12cb5a74ca2" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+            <container id="aspace_c9ab0e7197bfc3d03a4bae99863fefc4" parent="aspace_033eee548d7c1c088754c12cb5a74ca2" type="Folder">67</container>
           </did>
         </c02>
-        <c02 id="nam_ger101-5.40">
+        <c02 id="aspace_a23de687afa725ccc8fd3877bd176941" level="otherlevel">
           <did>
+            <unittitle>Reviews of writings by Frieda Wunderlich</unittitle>
             <unitid>5.40</unitid>
-            <unittitle label="Subseries">Reviews of writings by Frieda Wunderlich</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920/1941">Undated</unitdate>
+            <unitdate normal="1920/1941" type="inclusive">Undated</unitdate>
           </did>
-          <c03 id="nam_ger101-5.40_1">
+          <c03 id="aspace_752251901e3121e62081594bdff00ebe" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">68</container>
               <unittitle>"Der Kampf um die Sozialversicherung"</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920/1941">Undated</unitdate>
+              <unitdate normal="1920/1941" type="inclusive">Undated</unitdate>
+              <container id="aspace_da79a8d050ff674641a6f12676b2581f" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+              <container id="aspace_0ddf38920d3f18301b99827699e2417e" parent="aspace_da79a8d050ff674641a6f12676b2581f" type="Folder">68</container>
             </did>
           </c03>
-          <c03 id="nam_ger101-5.40_2">
+          <c03 id="aspace_e27b05b0b2bd6abab86da0fda732148a" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">69</container>
               <unittitle>"Der Zweck der Wirtschaft"</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1924">1924</unitdate>
+              <unitdate normal="1924/1924" type="inclusive">1924</unitdate>
+              <container id="aspace_2753c3338239aa6dac63ecd1d7c4e3f4" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+              <container id="aspace_6c9ff7f7f5bee4e7160abb79dff0ff61" parent="aspace_2753c3338239aa6dac63ecd1d7c4e3f4" type="Folder">69</container>
             </did>
           </c03>
-          <c03 id="nam_ger101-5.40_3">
+          <c03 id="aspace_d84949d77d0c745dccbd1dff4cbc2805" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">70</container>
               <unittitle>
                 <emph render="italic">Produktivität</emph>
               </unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1926">1926</unitdate>
+              <unitdate normal="1926/1926" type="inclusive">1926</unitdate>
+              <container id="aspace_b1d5d6f95f30519bf210fca8ebc34af9" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+              <container id="aspace_4deacc3c9e76dd0f774843d315a282b0" parent="aspace_b1d5d6f95f30519bf210fca8ebc34af9" type="Folder">70</container>
             </did>
           </c03>
-          <c03 id="nam_ger101-5.40_4">
+          <c03 id="aspace_778a52c74e4804359a1f2f350dda989f" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">71</container>
               <unittitle>"Krisenursachen -- Krisenüberwindung"</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1931">1931</unitdate>
+              <unitdate normal="1931/1931" type="inclusive">1931</unitdate>
+              <container id="aspace_d78eac342f1ccab729212ae09ade9b45" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+              <container id="aspace_196c94036e107572028e2e7aa58c6e26" parent="aspace_d78eac342f1ccab729212ae09ade9b45" type="Folder">71</container>
             </did>
           </c03>
-          <c03 id="nam_ger101-5.40_5">
+          <c03 id="aspace_c5c747cf657bd300205c946dbc68dbf0" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">72</container>
               <unittitle>
                 <emph render="italic">Versicherung, Fürsorge und Krisenrisiko</emph>
               </unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1932">1932</unitdate>
+              <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
+              <container id="aspace_f799a89301e8ff0595bbf98a2de54cec" label="Mixed Materials" type="Box">1 (5-Published writings of Frieda Wunderlich)</container>
+              <container id="aspace_0a960a65ea49f9c3447fa65e71230d96" parent="aspace_f799a89301e8ff0595bbf98a2de54cec" type="Folder">72</container>
             </did>
           </c03>
         </c02>

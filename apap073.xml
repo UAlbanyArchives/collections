@@ -1,1525 +1,1406 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap073">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="nalsu" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" url="http://library.albany.edu/speccoll/findaids/apap073.htm" identifier="##">nam_apap073</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap073">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap073.xml">apap073</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>CARLETON P. SIMON PAPERS (APAP073)<date normal="1881/1956" type="inclusive">1881-1952, 1956</date></titleproper>
+        <titleproper>Simon, Carleton; Papers <num>apap073</num></titleproper>
         <author>Geoffrey Huth</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="1988">Copyright 1988 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>1988</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Aristeo C. Munoz<date normal="2013">2013</date>
-			</creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 14:14:18 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2013</date>
+        <item>Encoded in EAD by Aristeo C. Munoz</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>CARLETON P. SIMON PAPERS (APAP073)<date normal="1881/1956" type="inclusive">1881-1952, 1956</date></titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">1988</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap073</unitid>
-      <unittitle>Carleton P. Simon Papers<unitdate type="inclusive" normal="1881/1956" label="Date:"> 1881-1952, 1956</unitdate></unittitle>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <origination>
-        <persname encodinganalog="100" source="local">Simon, Carleton P.</persname>
+      <unittitle>Carleton P. Simon Papers<unitdate normal="1881/1956" type="inclusive">1881-1952, 1956</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="local">Simon, Carleton P.</persname>
       </origination>
-      <physdesc>
-        <extent unit="cubic ft.">2.0</extent>
+      <unitid>apap073</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.0 cubic ft.</extent>
       </physdesc>
-      <abstract label="Abstract:">The collection of papers is about drugs and drug related crimes in the United States. It is written by Carleton P. Simons. Simons is a psychiatrist by profession and is very much interested in crimes.  This passion led to his next profession as a criminlogist.  His writings focus on crimes and examine the motives behind the crimes. Simons has also written fiction magazines and poems.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <abstract id="aspace_a0a2eda64ec582b77e560032fada1e43">The collection of papers is about drugs and drug related crimes in the United States. It is written by Carleton P. Simons. Simons is a psychiatrist by profession and is very much interested in crimes. This passion led to his next profession as a criminlogist. His writings focus on crimes and examine the motives behind the crimes. Simons has also written fiction magazines and poems.</abstract>
+      <langmaterial id="aspace_dd40f87143132548aed4c885969e21ef">English</langmaterial>
+      <physloc id="aspace_45a8380bdc22aa822255ffec60e1df5e">The materials are located onsite in the department.</physloc>
     </did>
-    <acqinfo>
+    <processinfo id="aspace_3ecdc00309d868f9d78e65e80b3b82d3">
+      <head>Processing Information</head>
+      <p>Processed in 1988 by Geoffrey Huth.</p>
+    </processinfo>
+    <acqinfo id="aspace_eb9e7285833204c35848da7446876537">
       <head>Acquisition Information</head>
-      <p> All items in this manuscript collection were purchased from Charles Apfelbaum, a dealer in rare books and collections, by the University Libraries, M.E. Grenander Department of Special Collections and Archives, on November 22, 1988.</p>
+      <p>All items in this manuscript collection were purchased from Charles Apfelbaum, a dealer in rare books and collections, by the University Libraries, M.E. Grenander Department of Special Collections and Archives, on November 22, 1988.</p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_b18a9a43848d842b964c21bc63f9dca2">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_687969c47fdab440b5afaab9856acf33">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-				Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-				provide information about copyright owners and other restrictions, but the legal
-				determination ultimately rests with the researcher. Requests for permission to publish
-				material from this collection should be discussed with the Head of Special Collections and
-				Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <bioghist>
+    <bioghist id="aspace_947481fd2a193332bee4a09a5eea5c2b">
       <head>Administrative History</head>
-      <p>Carleton Simon was born on the 28th of February 1871 in New York City and attended 
-				college in Vienna and Paris, graduating with an M.D. in 1890. In 1893, he married 
-				Monetta Worthington Marler. The couple had two children, Rosa and Carleton, 
-				Jr. </p>
-      <p>A psychiatrist by profession, Simon became interested in the criminal mind, 
-				and that interest eventually led to his career as a criminologist. In 1901, 
-				Simon conducted a psychiatric study of Leon Czolgosz, the assassin of President 
-				McKinley. Also in 1901, he studied the water cure, a torture used by the U.S. 
-				Army to interrogate Philippine prisoners, at the request of the <emph render="italic">New York Herald.</emph> 
-				His findings led to the abolition 
-				of this form of questioning.</p>
-      <p>Phrenology was an early interest of Simon's. In 1904, George Francis Train, 
-				an American eccentric who financed the Union Pacific Railway, built the first 
-				tramway in England and ran the first clipper ships to Australia, left his brain 
-				to Simon, who dissected it and made a report to the American Institute of Phrenology. 
-				Carleton Simon also believed that the face was an indicator of personality and 
-				that a criminal's face was therefore a mirror into his actions; Some facial 
-				characteristics Simon believed were congenital, but most he thought were caused 
-				by the etching of experience on the face.</p>
-      <p>From 1918 to 1920, Simon examined addicts for the New York State Narcotic Commission. 
-				In 1920, he was appointed Special Deputy Police Commissioner in charge of the 
-				Narcotics Bureau. Simon was credited with increasing the number of people arrested 
-				for drug related crimes, In 1921, Simon was also responsible for the formation 
-				of the International Narcotic Criminal Identification Bureau which collected records, 
-				including photography and fingerprints, an over 100,000 people convicted 
-				of narcotic-connected crimes in 700 cities in the United States and 27 foreign 
-				countries. Following his tenure as deputy commissioner, Simon compiled a narcotic 
-				survey for the state of Louisiana which estimated the number of addicts and the extent 
-				of drug trafficking in the state.</p>
-      <p>From 1928 to 1938, Simon served as special adviser to the Will Hays Commission, 
-				which developed a production code that all the movie studios agreed to follow. 
-				Simon's role was to read proposed film scripts and to watch movies to ensure 
-				that crime was not being glorified. He also advised about whether certain films 
-				were indirect causes to specific crimes.</p>
-      <p>Simon was an advocate of universal, compulsory fingerprinting and of the use 
-				of identification badges as means of establishing positive identity. In 1936 
-				he and Dr. Isadore Goldstein developed a retinal method of identification whereby 
-				a photograph was made of the pattern of blood vessels of the retina. This method 
-				was supposed to be superior to fingerprinting because the pattern of blood vessels 
-				could not be changed whereas fingerprints could at least be disfigured. </p>
-      <p>Carleton Simon had other interests besides criminology. He was known as "The 
-				Father of Casting" and was World Surf Casting Champion from 1914 to 1919. In 
-				1914, he organized the Association of Surf Angling Clubs. He wrote about fish 
-				and fishing under the pseudonyms Baron Munchausen, Grape Juice, and John O'Neill. 
-				He also wrote poems, a few of which were published in newspaper, under the name 
-				"The Ancient Mariner," Carlisle Simon, his own name and anonymously. At least 
-				a couple of police stories that fictionalized his experience at the NY Police 
-				Department were published under the name Charles Somerville. </p>
-      <p>Carleton Simon continued to present his ideal as a criminologist to
-				the public in his last years. He gave addresses, often to law enforcement
-				organizations, and continued to write. He was the criminologist for the
-				New York State and the New England associations for Chiefs of Police. He
-				died an the eighteenth of February 1951, just before his eightieth birthday.</p>
+      <p>Carleton Simon was born on the 28th of February 1871 in New York City and attended college in Vienna and Paris, graduating with an M.D. in 1890. In 1893, he married Monetta Worthington Marler. The couple had two children, Rosa and Carleton, Jr. </p>
+      <p> A psychiatrist by profession, Simon became interested in the criminal mind, and that interest eventually led to his career as a criminologist. In 1901, Simon conducted a psychiatric study of Leon Czolgosz, the assassin of President McKinley. Also in 1901, he studied the water cure, a torture used by the U.S. Army to interrogate Philippine prisoners, at the request of the <emph render="italic">New York Herald.</emph> His findings led to the abolition of this form of questioning.</p>
+      <p> Phrenology was an early interest of Simon's. In 1904, George Francis Train, an American eccentric who financed the Union Pacific Railway, built the first tramway in England and ran the first clipper ships to Australia, left his brain to Simon, who dissected it and made a report to the American Institute of Phrenology. Carleton Simon also believed that the face was an indicator of personality and that a criminal's face was therefore a mirror into his actions; Some facial characteristics Simon believed were congenital, but most he thought were caused by the etching of experience on the face.</p>
+      <p> From 1918 to 1920, Simon examined addicts for the New York State Narcotic Commission. In 1920, he was appointed Special Deputy Police Commissioner in charge of the Narcotics Bureau. Simon was credited with increasing the number of people arrested for drug related crimes, In 1921, Simon was also responsible for the formation of the International Narcotic Criminal Identification Bureau which collected records, including photography and fingerprints, an over 100,000 people convicted of narcotic-connected crimes in 700 cities in the United States and 27 foreign countries. Following his tenure as deputy commissioner, Simon compiled a narcotic survey for the state of Louisiana which estimated the number of addicts and the extent of drug trafficking in the state.</p>
+      <p> From 1928 to 1938, Simon served as special adviser to the Will Hays Commission, which developed a production code that all the movie studios agreed to follow. Simon's role was to read proposed film scripts and to watch movies to ensure that crime was not being glorified. He also advised about whether certain films were indirect causes to specific crimes.</p>
+      <p> Simon was an advocate of universal, compulsory fingerprinting and of the use of identification badges as means of establishing positive identity. In 1936 he and Dr. Isadore Goldstein developed a retinal method of identification whereby a photograph was made of the pattern of blood vessels of the retina. This method was supposed to be superior to fingerprinting because the pattern of blood vessels could not be changed whereas fingerprints could at least be disfigured. </p>
+      <p> Carleton Simon had other interests besides criminology. He was known as "The Father of Casting" and was World Surf Casting Champion from 1914 to 1919. In 1914, he organized the Association of Surf Angling Clubs. He wrote about fish and fishing under the pseudonyms Baron Munchausen, Grape Juice, and John O'Neill. He also wrote poems, a few of which were published in newspaper, under the name "The Ancient Mariner," Carlisle Simon, his own name and anonymously. At least a couple of police stories that fictionalized his experience at the NY Police Department were published under the name Charles Somerville. </p>
+      <p> Carleton Simon continued to present his ideal as a criminologist to the public in his last years. He gave addresses, often to law enforcement organizations, and continued to write. He was the criminologist for the New York State and the New England associations for Chiefs of Police. He died an the eighteenth of February 1951, just before his eightieth birthday.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The bulk of this collection consists of the writings of Carleton Simon, mostly 
-				on crime, but also included are a couple of stories published under a pseudonym 
-				in a detective fiction magazine and a few poems. The pamphlets and other published 
-				writings, together with the unpublished writings, give fairly complete view 
-				of Simon's ideas on crime and criminology. Although Simon was particularly interested 
-				in crimes related to narcotics, his pamphlets and speeches show an interest 
-				in a wide range of crimes and in examining the causes of crime and how those 
-				might be eliminated. Some of his pamphlets are missing from this collection, 
-				notably one written about his examination of Leon Czolgosz. In addition, there 
-				is no documentation in the collection of his research of the water cure at the 
-				request of the <emph render="italic">New York Herald.</emph></p>
-      <p>Many of his unpublished writings are speeches to law enforcement groups and 
-				a few of these pieces are drafts of published essays. Besides these, there are 
-				a few books that Simon had worked on. One, "Spotting the Junkies", seems to 
-				be nearly finished, but it was never published. The book is a description of 
-				the lives of drug addicts, and it includes many illustrations, mostly of drug 
-				paraphernalia. There is also a folder titled "Criminal Word Book" which apparently 
-				was intended to be a glossary of criminals' slang. This work appears to be an 
-				early draft and consists of little more than illustrations many of which seem 
-				to have been borrowed from the manuscript for "Spotting the Junkies". A third 
-				unpublished work consists of two draft chapters describing the lives of individual 
-				addicts. </p>
-      <p>The correspondence and newspaper clippings contain articles about Simon's work 
-				and a few letters, notably his correspondence with Sir Percy Sillitoe, a Scottish 
-				law enforcement officer. Also included are subject files on specific projects 
-				of Simon's: his psychiatric clinic in the Bowery Mission, his part in proving 
-				the sanity of a Swedish immigrant, May Johnson, and his interest in his friend 
-				George Francis Train. </p>
-      <p>The series on the Hay's Code contains reports by Simon on the suitability of 
-				certain movies and scripts. It shows the morals of the time and how the movie 
-				industry attempted to protect itself from public censure by developing a commission 
-				that would devise and regulate a production code A the entire movie industry. 
-				Simon appears to have been chosen to report on films that use crime as a central 
-				element in the plot because of his renown as a criminologist. Simon's role was 
-				to determine if any of the films glorified crime or the actions of criminals. 
-			</p>
-      <p>The biographical files contain distilled information 	about Simon's accomplishments
-				which are augmented by the published news stories about his work as a criminologist.</p>
+    <scopecontent id="aspace_99abc5f5559e011f6ae415191f2d7ec9">
+      <head>Scope and Contents</head>
+      <p>The bulk of this collection consists of the writings of Carleton Simon, mostly on crime, but also included are a couple of stories published under a pseudonym in a detective fiction magazine and a few poems. The pamphlets and other published writings, together with the unpublished writings, give fairly complete view of Simon's ideas on crime and criminology. Although Simon was particularly interested in crimes related to narcotics, his pamphlets and speeches show an interest in a wide range of crimes and in examining the causes of crime and how those might be eliminated. Some of his pamphlets are missing from this collection, notably one written about his examination of Leon Czolgosz. In addition, there is no documentation in the collection of his research of the water cure at the request of the <emph render="italic">New York Herald.</emph></p>
+      <p> Many of his unpublished writings are speeches to law enforcement groups and a few of these pieces are drafts of published essays. Besides these, there are a few books that Simon had worked on. One, "Spotting the Junkies", seems to be nearly finished, but it was never published. The book is a description of the lives of drug addicts, and it includes many illustrations, mostly of drug paraphernalia. There is also a folder titled "Criminal Word Book" which apparently was intended to be a glossary of criminals' slang. This work appears to be an early draft and consists of little more than illustrations many of which seem to have been borrowed from the manuscript for "Spotting the Junkies". A third unpublished work consists of two draft chapters describing the lives of individual addicts. </p>
+      <p> The correspondence and newspaper clippings contain articles about Simon's work and a few letters, notably his correspondence with Sir Percy Sillitoe, a Scottish law enforcement officer. Also included are subject files on specific projects of Simon's: his psychiatric clinic in the Bowery Mission, his part in proving the sanity of a Swedish immigrant, May Johnson, and his interest in his friend George Francis Train. </p>
+      <p> The series on the Hay's Code contains reports by Simon on the suitability of certain movies and scripts. It shows the morals of the time and how the movie industry attempted to protect itself from public censure by developing a commission that would devise and regulate a production code A the entire movie industry. Simon appears to have been chosen to report on films that use crime as a central element in the plot because of his renown as a criminologist. Simon's role was to determine if any of the films glorified crime or the actions of criminals. </p>
+      <p> The biographical files contain distilled information about Simon's accomplishments which are augmented by the published news stories about his work as a criminologist.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_033fc64447ed1dcda3574782c2f0eb38">
       <head>Arrangement of the Collection</head>
       <p>Series Descriptions</p>
-      <list type="simple">
-        <item>Series 1: Biographical Files. 1894, 1901, 1911, 1915-52, 1956. 4 in.</item>
-        <item>Series 2: Correspondence and Newspaper Clippings. 1881, 1911, 1920-26, 1931-37, 1940-50. 3 in.</item>
-        <item>Series 3: Pamphlets and Other Published Material by Carleton Simon. 1901, 1904-05, 1919-52. 6 in.</item>
-        <item>Series 4: Unpublished Writings by Carleton Simon. 1900-25, 1935-38, 1940-48. 7 in.</item>
-        <item>Series 5: The Hay's Code. 1926-37, 1946, 1940. 2.5 in.</item>
-        <item>Series 6: Photographs.  1900, 1925, 1936, 1938, 1944, 1950. 1.5 in.</item>
-        <item>Series 7: Memorabilia.  1982-1889, 1094-96, 1902, 1907, 1911-50. 3 in.</item>
-        <item>Series 8: Publications About Carleton Simon and His Work. 1900, 1906, 1921, 1923-34, 1935, 1939, 1949. 1 in.</item>
-      </list>
     </arrangement>
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Criminal Justice and Prisons</subject>
-      <corpname encodinganalog="610" source="local">CARLETON P. SIMON PAPERS,(APAP-073)</corpname>
-      <subject encodinganalog="650" source="lcsh">Criminology--United States</subject>
-      <subject encodinganalog="650" source="lcsh">Drugs</subject>
-      <genreform encodinganalog="655" source="aat">Scrapbooks</genreform>
-      <genreform encodinganalog="655" source="aat">Newsletters</genreform>
-      <genreform encodinganalog="655" source="aat">Administrative Records</genreform>
-      <genreform encodinganalog="655" source="aat">Programs (documents)</genreform>
-      <genreform encodinganalog="655" source="aat">Photographs</genreform>
-    </controlaccess>
-    <prefercite>
+    <prefercite id="aspace_b7c5ba48f60bffb890a7a05121b1ec26">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Carleton P. Simon Papers,  1881-1952, 1956. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, Carleton P. Simon Papers, 1881-1952, 1956. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 level="series" id="nam_apap073-1">
+    <controlaccess>
+      <subject source="meg">Criminal Justice and Prisons</subject>
+      <subject source="lcsh">Criminology--United States</subject>
+      <subject source="lcsh">Drugs</subject>
+      <genreform source="aat">Scrapbooks</genreform>
+      <genreform source="aat">Newsletters</genreform>
+      <genreform source="aat">Administrative records</genreform>
+      <genreform source="aat">Programs (documents)</genreform>
+      <genreform source="aat">Photographs</genreform>
+      <corpname source="local">CARLETON P. SIMON PAPERS,(APAP-073)</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_0ef8a22e1cbc68b0712e7bb3b95499ed" level="series">
         <did>
+          <unittitle>Biographical Files.</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Biographical Files.</unittitle>
-          <unitdate type="inclusive" normal="1894">1894</unitdate>
-          <unitdate type="inclusive" normal="1901">1901</unitdate>
-          <unitdate type="inclusive" normal="1911">1911 p915-52</unitdate>
-          <unitdate type="inclusive" normal="1956">1956</unitdate>
+          <unitdate normal="1894/1894" type="inclusive">1894</unitdate>
+          <unitdate normal="1901/1901" type="inclusive">1901</unitdate>
+          <unitdate normal="1911/1911" type="inclusive">1911 p915-52</unitdate>
+          <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
           <physdesc>
-            <physfacet>4 in.</physfacet>
+            <physfacet id="aspace_5a29aaa0c110b58a0009c190d9bbefa0">4 in.</physfacet>
           </physdesc>
         </did>
-        <arrangement>
+        <arrangement id="aspace_16130e47df0f59fa9fac0abba08adb86">
+          <head>Arrangement</head>
           <p>Arranged alphabetically by folder title.</p>
         </arrangement>
-        <scopecontent>
-          <p>Vitae and brief biographies of Carleton Simon, along with other biographical
-						items, including his will, obituaries, and professional certificates.</p>
+        <scopecontent id="aspace_3a709a6347554b9f14324ea7181129e1">
+          <head>Scope and Contents</head>
+          <p>Vitae and brief biographies of Carleton Simon, along with other biographical items, including his will, obituaries, and professional certificates.</p>
         </scopecontent>
-        <c02 id="nam_apap073-1_1">
+        <c02 id="aspace_1aa0f57121fce84501bf2e87239fdd65" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Brief Biographies of Carleton Simon</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1924/1925">1924-1925</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1933">1933</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1924/1925">1936</unitdate>
+            <unitdate normal="1924/1925" type="inclusive">1924-1925</unitdate>
+            <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
+            <unitdate normal="1924/1925" type="inclusive">1936</unitdate>
+            <container id="aspace_a5313b7d4e5c78248099590bacc453ed" label="Mixed Materials" type="Box">1 (1-Biographical Files.)</container>
+            <container id="aspace_7ec7b19281e968b95bc43094fa216ea6" parent="aspace_a5313b7d4e5c78248099590bacc453ed" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-1_2">
+        <c02 id="aspace_7bee631b22cb13f7d56ff7c7cf37ff07" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Funeral and Memorial Documents and the Final Letters of Simon</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1949/1951">1949-1951</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1949/1951" type="inclusive">1949-1951</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_506486a10b47af0a5dba555f2dad5149" label="Mixed Materials" type="Box">1 (1-Biographical Files.)</container>
+            <container id="aspace_2e1840ca6ecaf39e9813e4fcf48b3ef2" parent="aspace_506486a10b47af0a5dba555f2dad5149" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-1_3">
+        <c02 id="aspace_28bdce51a745bcba7b4fb1600fc5a640" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Last Will and Testament</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1911">1911</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1954">1954</unitdate>
+            <unitdate normal="1911/1911" type="inclusive">1911</unitdate>
+            <unitdate normal="1954/1954" type="inclusive">1954</unitdate>
+            <container id="aspace_75346a051429db90a93d3411fbf14d92" label="Mixed Materials" type="Box">1 (1-Biographical Files.)</container>
+            <container id="aspace_e79f0e86d7f2d3ffea4a2479fa5c3297" parent="aspace_75346a051429db90a93d3411fbf14d92" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-1_4">
+        <c02 id="aspace_3521babc438ed7d24e6181de3e18fb8e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Obituaries</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_bcc6fe23edf3e07f96de6a905d28e70d" label="Mixed Materials" type="Box">1 (1-Biographical Files.)</container>
+            <container id="aspace_e43a284ae86d9473b27f7e2e5d5aa5b4" parent="aspace_bcc6fe23edf3e07f96de6a905d28e70d" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-1_5">
+        <c02 id="aspace_e54a96e33e93f99cb9ca4360a4bfc5b7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Professional Certificates.</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1894">1894</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1901">1901</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1915/1948">1915-1948</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951">1951</unitdate>
+            <unitdate normal="1894/1894" type="inclusive">1894</unitdate>
+            <unitdate normal="1901/1901" type="inclusive">1901</unitdate>
+            <unitdate normal="1915/1948" type="inclusive">1915-1948</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_a013ab432906530e65276d661e9d1001" label="Mixed Materials" type="Box">1 (1-Biographical Files.)</container>
+            <container id="aspace_50630cad9750333893bf5a4146326c58" parent="aspace_a013ab432906530e65276d661e9d1001" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-1_6">
+        <c02 id="aspace_06a19ca527054d19f720b25225a05e34" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Tax Returns</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1917/1945">1917-1945</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1918/1945">1918-1945</unitdate>
+            <unitdate normal="1917/1945" type="inclusive">1917-1945</unitdate>
+            <unitdate normal="1918/1945" type="inclusive">1918-1945</unitdate>
+            <container id="aspace_86bec366cf28be2cd87f0d2f6eabd407" label="Mixed Materials" type="Box">1 (1-Biographical Files.)</container>
+            <container id="aspace_feb9fdd67dc0c8864964ed1bb5de6286" parent="aspace_86bec366cf28be2cd87f0d2f6eabd407" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-1_7">
+        <c02 id="aspace_ef9277761857366d767f9c6990b72ac3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Tax Returns</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945/1951">1917-1951</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1918/1945">1918-1945</unitdate>
+            <unitdate normal="1945/1951" type="inclusive">1917-1951</unitdate>
+            <unitdate normal="1918/1945" type="inclusive">1918-1945</unitdate>
+            <container id="aspace_73c429eae073137b810018b0137312a8" label="Mixed Materials" type="Box">1 (1-Biographical Files.)</container>
+            <container id="aspace_81022ff83edabd72a018c39d9f4c2ba5" parent="aspace_73c429eae073137b810018b0137312a8" type="Folder">7</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap073-2">
+      <c01 id="aspace_72d7efcdab178d961701c8819b421d58" level="series">
         <did>
+          <unittitle>Series 2:Correspondence and Newspaper Clippings.</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Series 2:Correspondence and Newspaper Clippings.</unittitle>
-          <unitdate type="inclusive" normal="1881">1881</unitdate>
-          <unitdate type="inclusive" normal="1911">1911</unitdate>
-          <unitdate type="inclusive" normal="1920/1926">1920-1926</unitdate>
-          <unitdate type="inclusive" normal="1931/1937">1931-1937</unitdate>
-          <unitdate type="inclusive" normal="1940/1950">1940-1950</unitdate>
+          <unitdate normal="1881/1881" type="inclusive">1881</unitdate>
+          <unitdate normal="1911/1911" type="inclusive">1911</unitdate>
+          <unitdate normal="1920/1926" type="inclusive">1920-1926</unitdate>
+          <unitdate normal="1931/1937" type="inclusive">1931-1937</unitdate>
+          <unitdate normal="1940/1950" type="inclusive">1940-1950</unitdate>
           <physdesc>
-            <physfacet>3 in.</physfacet>
+            <physfacet id="aspace_24209502a9f32a70e68329ab4aad82a8">3 in.</physfacet>
           </physdesc>
         </did>
-        <arrangement>
+        <arrangement id="aspace_c2f5f54d2651c7e21b7ce78b65364d0b">
+          <head>Arrangement</head>
           <p>Arranged alphabetically by folder title.</p>
         </arrangement>
-        <scopecontent>
-          <p>Separate files for incoming correspondence and newspaper clippings,
-						as well as three subject files which include both correspondence and newspaper
-						clippings on some of Simon's projects. </p>
+        <scopecontent id="aspace_e496e11196c31900ce2bf20dd1095417">
+          <head>Scope and Contents</head>
+          <p>Separate files for incoming correspondence and newspaper clippings, as well as three subject files which include both correspondence and newspaper clippings on some of Simon's projects.</p>
         </scopecontent>
-        <c02 id="nam_apap073-2_1">
+        <c02 id="aspace_40580d17e7c410dfe8c4fe9faeb00b2f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1881">1881</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1911">1911</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1922/1925">1922-1925</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1931/1937">1931-1937</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941/1949">1941-1949</unitdate>
+            <unitdate normal="1881/1881" type="inclusive">1881</unitdate>
+            <unitdate normal="1911/1911" type="inclusive">1911</unitdate>
+            <unitdate normal="1922/1925" type="inclusive">1922-1925</unitdate>
+            <unitdate normal="1931/1937" type="inclusive">1931-1937</unitdate>
+            <unitdate normal="1941/1949" type="inclusive">1941-1949</unitdate>
+            <container id="aspace_cf1dd2bb7f2e9145abb1a7396dfe6249" label="Mixed Materials" type="Box">1 (2-Series 2:Correspondence and Newspaper Clippings.)</container>
+            <container id="aspace_6f3f664a54f790eeb1d89a9268d362e1" parent="aspace_cf1dd2bb7f2e9145abb1a7396dfe6249" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-2_2">
+        <c02 id="aspace_d4e869109366c3f9a9f468cb4078c2de" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
-            <unittitle>Correspondence and Newspaper Clippings Concerning Simon's Efforts
-							Against Crime</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920/1926">1920-1926</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1931/1937">1931-1937</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945">1945</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950">1950</unitdate>
+            <unittitle>Correspondence and Newspaper Clippings Concerning Simon's Efforts Against Crime</unittitle>
+            <unitdate normal="1920/1926" type="inclusive">1920-1926</unitdate>
+            <unitdate normal="1931/1937" type="inclusive">1931-1937</unitdate>
+            <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_ecb1723da854b51680b553067b548d09" label="Mixed Materials" type="Box">1 (2-Series 2:Correspondence and Newspaper Clippings.)</container>
+            <container id="aspace_47e826204eab5206caceeb98bd95d528" parent="aspace_ecb1723da854b51680b553067b548d09" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-2_3">
+        <c02 id="aspace_762e61d90e8023302d941653579e6c92" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Correspondence from Sir Percy Sillitoe</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1935">1935</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1950">1943-1950</unitdate>
+            <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+            <unitdate normal="1943/1950" type="inclusive">1943-1950</unitdate>
+            <container id="aspace_e3a29e7abc9fcb736039cc19d978ab74" label="Mixed Materials" type="Box">1 (2-Series 2:Correspondence and Newspaper Clippings.)</container>
+            <container id="aspace_f0793d5039c0d03a64f993cf698b7d87" parent="aspace_e3a29e7abc9fcb736039cc19d978ab74" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-2_4">
+        <c02 id="aspace_875a0e7e04a4e2d573ca39db8ed23057" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
-            <unittitle>Correspondence and Newspaper Clippings on May Johnson's Alleged
-							Insanity</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1948/1950">1948-1950</unitdate>
+            <unittitle>Correspondence and Newspaper Clippings on May Johnson's Alleged Insanity</unittitle>
+            <unitdate normal="1948/1950" type="inclusive">1948-1950</unitdate>
+            <container id="aspace_522da61ca722c0a35104467c2b1ed080" label="Mixed Materials" type="Box">1 (2-Series 2:Correspondence and Newspaper Clippings.)</container>
+            <container id="aspace_189430f22210543d511d5d67f0f0fee8" parent="aspace_522da61ca722c0a35104467c2b1ed080" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-2_5">
+        <c02 id="aspace_27561e8e3e1c4519a56ed8fa65844fee" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
-            <unittitle>Correspondence and Newspaper Clippings on Simon's Psychiatric Clinic
-							in the Bowery Mission</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1931/1932">1931-1932</unitdate>
+            <unittitle>Correspondence and Newspaper Clippings on Simon's Psychiatric Clinic in the Bowery Mission</unittitle>
+            <unitdate normal="1931/1932" type="inclusive">1931-1932</unitdate>
+            <container id="aspace_e4945c81a23559cc00f4dd3d14a3a9e4" label="Mixed Materials" type="Box">1 (2-Series 2:Correspondence and Newspaper Clippings.)</container>
+            <container id="aspace_dc3db6f6259ac9c22b07b16f601c8efb" parent="aspace_e4945c81a23559cc00f4dd3d14a3a9e4" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-2_6">
+        <c02 id="aspace_7ddacae7978656c864b26364ea7588ae" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
-            <unittitle>Correspondence, Newspaper Clippings and Notes on George Francis
-							Train</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904">1904</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1931">1931</unitdate>
+            <unittitle>Correspondence, Newspaper Clippings and Notes on George Francis Train</unittitle>
+            <unitdate normal="1904/1904" type="inclusive">1904</unitdate>
+            <unitdate normal="1931/1931" type="inclusive">1931</unitdate>
+            <container id="aspace_2b9e0f42d1898ee4f63888bb3daef6e6" label="Mixed Materials" type="Box">1 (2-Series 2:Correspondence and Newspaper Clippings.)</container>
+            <container id="aspace_50cba30544f0912ff19fdb32e949ec58" parent="aspace_2b9e0f42d1898ee4f63888bb3daef6e6" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-2_7">
+        <c02 id="aspace_e533613f055cb398347a87dac8ab1198" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Newspaper Clippings on Carleton Simon and His Cases</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920/1921">1920-1921</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1931/1932">1931-1932</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937">1937</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950">1950</unitdate>
+            <unitdate normal="1920/1921" type="inclusive">1920-1921</unitdate>
+            <unitdate normal="1931/1932" type="inclusive">1931-1932</unitdate>
+            <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_ca2b0bfa067f1e5fac10c92a79d189e5" label="Mixed Materials" type="Box">1 (2-Series 2:Correspondence and Newspaper Clippings.)</container>
+            <container id="aspace_ff9368eefd9ea44955625e137d53fd4c" parent="aspace_ca2b0bfa067f1e5fac10c92a79d189e5" type="Folder">14</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap073-3">
+      <c01 id="aspace_f2ac2cc8d56140b29b65cc2f9ad365ae" level="series">
         <did>
+          <unittitle>Pamphlets and Other Published Material by Carleton Simon</unittitle>
           <unitid>3</unitid>
-          <unittitle label="Series">Pamphlets and Other Published Material by Carleton Simon</unittitle>
-          <unitdate type="inclusive" normal="1901">1901</unitdate>
-          <unitdate type="inclusive" normal="1904/1905">1904-1905</unitdate>
-          <unitdate type="inclusive" normal="1919/1952">1919-1952</unitdate>
+          <unitdate normal="1901/1901" type="inclusive">1901</unitdate>
+          <unitdate normal="1904/1905" type="inclusive">1904-1905</unitdate>
+          <unitdate normal="1919/1952" type="inclusive">1919-1952</unitdate>
           <physdesc>
-            <physfacet>6 in.</physfacet>
+            <physfacet id="aspace_8d2b43f62b7caa55607e81a9c27bd195">6 in.</physfacet>
           </physdesc>
         </did>
-        <arrangement>
-          <p>Arranged alphabetically 
-						by title, except for two partial lists of pamphlets that precede the alphabetical 
-						listing.</p>
+        <arrangement id="aspace_c38237f257c98a2631ab7671b316d038">
+          <head>Arrangement</head>
+          <p>Arranged alphabetically by title, except for two partial lists of pamphlets that precede the alphabetical listing.</p>
         </arrangement>
-        <scopecontent>
-          <p>Many pamphlets by Simon giving his views an crime, a couple of pseudonymous
-						short stories, and two anonymous poems. </p>
+        <scopecontent id="aspace_65d7ac04a5ffae14bbed230ea3201177">
+          <head>Scope and Contents</head>
+          <p>Many pamphlets by Simon giving his views an crime, a couple of pseudonymous short stories, and two anonymous poems.</p>
         </scopecontent>
-        <c02 id="nam_apap073-3_1">
+        <c02 id="aspace_92531297c7896b8b95e8a32679d53fa3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Partial Lists of Pamphlets (written by Simon and his family)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945/1957">ca. 1950-1952</unitdate>
+            <unitdate normal="1945/1957" type="inclusive">ca. 1950-1952</unitdate>
+            <container id="aspace_e856736e0be77cf49ec5e8bba4326b33" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_611fdb9a223291c119455fd749c2dbd6" parent="aspace_e856736e0be77cf49ec5e8bba4326b33" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_2">
+        <c02 id="aspace_fb982145e9f867a6ebf7c648d0cafa37" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Address at the 1925 Meeting of the International Police Conference</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1925">1925</unitdate>
+            <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
+            <container id="aspace_63aebe93eff2cc0fef0442cb9810eb3a" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_56dfe48523099a132309d13ff1a24c9d" parent="aspace_63aebe93eff2cc0fef0442cb9810eb3a" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_3">
+        <c02 id="aspace_0eaa9d0efd9682b8f753c3621d673649" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>Address to the American Institute of Phrenology</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904">1904</unitdate>
+            <unitdate normal="1904/1904" type="inclusive">1904</unitdate>
+            <container id="aspace_905df1e55dd4ef4d5e886a244d4d0628" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_2bf09ad969527799b7ad04da55b2338b" parent="aspace_905df1e55dd4ef4d5e886a244d4d0628" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_4">
+        <c02 id="aspace_ab3f5ae4bd1732227e35ab5e00709819" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
-            <unittitle>Address to the 44th Annual Public Meeting of the New England Watch
-							and Ward Society</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1919">1922</unitdate>
+            <unittitle>Address to the 44th Annual Public Meeting of the New England Watch and Ward Society</unittitle>
+            <unitdate normal="1919/1919" type="inclusive">1922</unitdate>
+            <container id="aspace_ccd06a3b10b884bf4ebc1ada427e89c4" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_0ff03fd67bc747e4c11421089f97c74e" parent="aspace_ccd06a3b10b884bf4ebc1ada427e89c4" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_5">
+        <c02 id="aspace_d4211d2b706db11e9b645447769c3939" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>
               <emph render="italic">Alcoholism . . . Report of the Social Protection Committee</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950">1950</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_41ddee762d3aff48a010d1d2666d418f" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_95c6ef4db5f2f2f3cda83cdf329b7749" parent="aspace_41ddee762d3aff48a010d1d2666d418f" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_6">
+        <c02 id="aspace_783bcf06e239b70b765a57aa6504c78a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>
               <emph render="italic">Basic Causes of Crime</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929">1929</unitdate>
+            <unitdate normal="1929/1929" type="inclusive">1929</unitdate>
+            <container id="aspace_0b7b536dff79eb3bf76a7ffc63d9d14b" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_bbd967f81fc60d3c4177a412ad2b58d2" parent="aspace_0b7b536dff79eb3bf76a7ffc63d9d14b" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_7">
+        <c02 id="aspace_3fef06b0c01aa4c9d9dfa8292f679c40" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>
               <emph render="italic">The Causes of Juvenile Delinquency</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937">1937</unitdate>
+            <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+            <container id="aspace_57f26901469e6b4ffafaf5b9944d473e" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_fafe55fc7cd7fdd2c7b3bd1c1607b97f" parent="aspace_57f26901469e6b4ffafaf5b9944d473e" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_8">
+        <c02 id="aspace_91c14a13cef893ef704f904f1098d53b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>
               <emph render="italic">The Clue of the Tattooed Man(under the pseudonym Charles Somerville)</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1923">1923</unitdate>
+            <unitdate normal="1923/1923" type="inclusive">1923</unitdate>
+            <container id="aspace_3edaa895281a948f81b1bc1739cfda05" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_9e6b359298c80029a2c20cd453560ed6" parent="aspace_3edaa895281a948f81b1bc1739cfda05" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_9">
+        <c02 id="aspace_a3de541ad102ec332264217e018c9f11" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23</container>
             <unittitle>
               <emph render="italic">Crime and the Motion Picture</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1928">1928</unitdate>
+            <unitdate normal="1928/1928" type="inclusive">1928</unitdate>
+            <container id="aspace_65603c58b66ec90ce659e2c57fd52b98" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_eedbea199441ec6e7016b4a73e8167dd" parent="aspace_65603c58b66ec90ce659e2c57fd52b98" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_10">
+        <c02 id="aspace_cb42ddf8abd62c4d254d14ea773320ce" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">24</container>
             <unittitle>
               <emph render="italic">The Crime of Counterfeiting</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1939">1939</unitdate>
+            <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+            <container id="aspace_c8c5a886b0a210420491fba185b63992" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_72843b49a7fa4d5355c38a22980432b1" parent="aspace_c8c5a886b0a210420491fba185b63992" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_11">
+        <c02 id="aspace_3da80d298cb11a26c9ae9b251c99627f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">25</container>
             <unittitle>
               <emph render="italic">The Criminal Problems of a Big City</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920">1920</unitdate>
+            <unitdate normal="1920/1920" type="inclusive">1920</unitdate>
+            <container id="aspace_5c9e221ce3884a1dd5059067d6eeac83" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_c451c3163ab9046a985ae66002b2b9ca" parent="aspace_5c9e221ce3884a1dd5059067d6eeac83" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_12">
+        <c02 id="aspace_bdbd36cbe2f9f48a459d32b765b6e992" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">26</container>
             <unittitle>
               <emph render="italic">Control of Narcotics</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1923">1923</unitdate>
+            <unitdate normal="1923/1923" type="inclusive">1923</unitdate>
+            <container id="aspace_544ea42eb48a21921b18915a5d48455b" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_0f58ebedb5e8f343e6ec670bb570ef7f" parent="aspace_544ea42eb48a21921b18915a5d48455b" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_13">
+        <c02 id="aspace_472e0a512efa9c306a002ff8718eb86d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">27</container>
             <unittitle>
               <emph render="italic">Divorce and its Relation to Crime</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1947">1947</unitdate>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_a8379b1cc6fc9fcc484969e3bc80045e" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_41993509e564839d94ed52b3262e22bc" parent="aspace_a8379b1cc6fc9fcc484969e3bc80045e" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_14">
+        <c02 id="aspace_ebdada179de53b50f9439b28cf350c71" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">28</container>
             <unittitle>
               <emph render="italic">Dual Personality and Abnormal Behavior</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1949">1949</unitdate>
+            <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+            <container id="aspace_f8db59c1c462aaf77528b3170e2b4463" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_b7de744672f454b10d3138302ef33476" parent="aspace_f8db59c1c462aaf77528b3170e2b4463" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_15">
+        <c02 id="aspace_3f84242c4f38d903218427a5c61a0513" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">29</container>
             <unittitle>
               <emph render="italic">Dual Personality and Crime</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940/1950">ca. 1945</unitdate>
+            <unitdate normal="1940/1950" type="inclusive">ca. 1945</unitdate>
+            <container id="aspace_1460462ccf32a6145b9cd0e965756dca" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_fb67f962769d693c113539e2d03f0fd3" parent="aspace_1460462ccf32a6145b9cd0e965756dca" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_16">
+        <c02 id="aspace_dd5c32530e2fdc9976ac42f368716628" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">30</container>
             <unittitle>
               <emph render="italic">Dual Personality and the Mental Trends in Criminals</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1930">1930</unitdate>
+            <unitdate normal="1930/1930" type="inclusive">1930</unitdate>
+            <container id="aspace_e2589f46ac00e6a9f962fa271c6b839c" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_0e2f937339f5d1ae25876e652bac0531" parent="aspace_e2589f46ac00e6a9f962fa271c6b839c" type="Folder">30</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_17">
+        <c02 id="aspace_a45021e4f6b81b951e37440c5eda06c6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">31</container>
             <unittitle>
               <emph render="italic">Facial Indicators of Personality</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950">1950</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_46db5ad6d0de95c0ee1dedc777bcd2c4" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_3f71f1015034d8a02c55f27b34647887" parent="aspace_46db5ad6d0de95c0ee1dedc777bcd2c4" type="Folder">31</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_18">
+        <c02 id="aspace_7531a7e036ce81570629ca47611f4761" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">32</container>
-            <unittitle>47th Annual Conference of New York State Chiefs of Police--Publication
-							with Address by and Biography of Simon</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1947">1947</unitdate>
+            <unittitle>47th Annual Conference of New York State Chiefs of Police--Publication with Address by and Biography of Simon</unittitle>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_a139a857339375616f0a1481d993ab9e" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_38751491a5c1edff03baab887f403457" parent="aspace_a139a857339375616f0a1481d993ab9e" type="Folder">32</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_19">
+        <c02 id="aspace_938c94b69636dedb464208a22be58ae0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">33</container>
             <unittitle>
               <emph render="italic">The Gangster</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1932">1932</unitdate>
+            <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
+            <container id="aspace_472f0718eb5cc3b06190603dd06b43b4" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_b54f92af4facf1456a4ef2688b8db4e8" parent="aspace_472f0718eb5cc3b06190603dd06b43b4" type="Folder">33</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_20">
+        <c02 id="aspace_45df94188129ce105a6e7fc66fb48d04" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">34</container>
             <unittitle>
               <emph render="italic">Homosexualists and Sex Crimes</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1947">1947</unitdate>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_7734e1f4e5ef4fa3ca0a05e894b27e64" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_0e9016002cd8e26ac4d87b08b0232196" parent="aspace_7734e1f4e5ef4fa3ca0a05e894b27e64" type="Folder">34</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_21">
+        <c02 id="aspace_a835fe312ce787213de99b558040b1a3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">35</container>
             <unittitle>
               <emph render="italic">The Influence of Heredity and Environment Upon Crime</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1931">1931</unitdate>
+            <unitdate normal="1931/1931" type="inclusive">1931</unitdate>
+            <container id="aspace_4b11b20b060e6c5222912efa46b36bba" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_78beb08f04024bd7c0ae4c3140f28a2d" parent="aspace_4b11b20b060e6c5222912efa46b36bba" type="Folder">35</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_22">
+        <c02 id="aspace_dddd9498f34f03b8d289cdcf51dea474" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">36</container>
             <unittitle>
               <emph render="italic">Medico-Legal Problems of the Drug Evil</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1919">1919</unitdate>
+            <unitdate normal="1919/1919" type="inclusive">1919</unitdate>
+            <container id="aspace_311459672a77b1352c49f0d54ae486ed" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_88f136ce8f797ecd6010542bbad64b07" parent="aspace_311459672a77b1352c49f0d54ae486ed" type="Folder">36</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_23">
+        <c02 id="aspace_673d7a8f818c60d64e6a82c04dab2088" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">37</container>
             <unittitle>
               <emph render="italic">The Menace of Dope</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1924">1924</unitdate>
+            <unitdate normal="1924/1924" type="inclusive">1924</unitdate>
+            <container id="aspace_fc0ee1629b9aa551b9c2bf75facf2801" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_fc63bd42e43b7d7b024939ae8127cddc" parent="aspace_fc0ee1629b9aa551b9c2bf75facf2801" type="Folder">37</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_24">
+        <c02 id="aspace_c5578ccf84c86342ac32905c07fbb647" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">38</container>
             <unittitle>
               <emph render="italic">The Musical Temperament</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1900/1910">ca. 1905</unitdate>
+            <unitdate normal="1900/1910" type="inclusive">ca. 1905</unitdate>
+            <container id="aspace_da82376f88f43a47053e78302d403fba" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_dea9c1d6a1774e98d5ea65ec7f4f1f8c" parent="aspace_da82376f88f43a47053e78302d403fba" type="Folder">38</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_25">
+        <c02 id="aspace_ebe4dd9652b136ee0754cd436e6adc8d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">39</container>
             <unittitle>
               <emph render="italic">My Plea at the Bar of Justice</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920">1920</unitdate>
+            <unitdate normal="1920/1920" type="inclusive">1920</unitdate>
+            <container id="aspace_800131e650c1a7e428776898cb97ffcd" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_b3bccffe9fe062d97204345c379f6367" parent="aspace_800131e650c1a7e428776898cb97ffcd" type="Folder">39</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_26">
+        <c02 id="aspace_8b3dd25ff7b2057f79ed7284cdb2c0e3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">40</container>
             <unittitle>
               <emph render="italic">Narcotic Survey of the State of Louisiana</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1926">1926</unitdate>
+            <unitdate normal="1926/1926" type="inclusive">1926</unitdate>
+            <container id="aspace_0b88dcf685178f4ed1d7ee35d3e5f75a" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_6c91737484e538eb1f35a92c5314fbb6" parent="aspace_0b88dcf685178f4ed1d7ee35d3e5f75a" type="Folder">40</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_27">
+        <c02 id="aspace_2cd4db4befcc4950b21400fcafc73b92" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">41</container>
             <unittitle>
               <emph render="italic">Narcotics and Crime</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1923">1923</unitdate>
+            <unitdate normal="1923/1923" type="inclusive">1923</unitdate>
+            <container id="aspace_9da39d59b479ac0e3a470d81cc5634c9" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_09f038eff56c6a9c16d77ed1718b3d2a" parent="aspace_9da39d59b479ac0e3a470d81cc5634c9" type="Folder">41</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_28">
+        <c02 id="aspace_312b5ccb97747d07c9e680a5e7a5fc77" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">42</container>
             <unittitle>
               <emph render="italic">The Negro Criminal</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934">1934</unitdate>
+            <unitdate normal="1934/1934" type="inclusive">1934</unitdate>
+            <container id="aspace_c145a72a1c9a5dc3208d413e72dabdc3" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_cd03056910a7837a8b222f3fa955090b" parent="aspace_c145a72a1c9a5dc3208d413e72dabdc3" type="Folder">42</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_29">
+        <c02 id="aspace_6c527af626433a033228b1d77db30bdc" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">43</container>
             <unittitle>
               <emph render="italic">Observation and Its Importance to the Police</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1931">1931</unitdate>
+            <unitdate normal="1931/1931" type="inclusive">1931</unitdate>
+            <container id="aspace_27f3b4c34eda4ce845cf10754e6d6ec6" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_a9735f97c1e0a1130de96c194387f299" parent="aspace_27f3b4c34eda4ce845cf10754e6d6ec6" type="Folder">43</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_30">
+        <c02 id="aspace_2a7b90b1c34241d9d20cb947116be5e4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">44</container>
             <unittitle>
-              <emph render="italic">Onward March of Law Through Historic Crimes(series of newspaper
-								stories)</emph>
+              <emph render="italic">Onward March of Law Through Historic Crimes(series of newspaper stories)</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937">1937</unitdate>
+            <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+            <container id="aspace_c85947154773adb2035f7197016e7860" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_e6598ddd07fbb5f429f82f1dfcfd32fd" parent="aspace_c85947154773adb2035f7197016e7860" type="Folder">44</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_31">
+        <c02 id="aspace_400e0a9b07403d699dbda5e32b19e899" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">45</container>
             <unittitle>
               <emph render="italic">"Over-worked" (Poem)</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1901">1901</unitdate>
+            <unitdate normal="1901/1901" type="inclusive">1901</unitdate>
+            <container id="aspace_b77603aed2e77646804f0a80a5560583" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_93f1919eb6c9441a53536d919a2b5221" parent="aspace_b77603aed2e77646804f0a80a5560583" type="Folder">45</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_32">
+        <c02 id="aspace_3e7ca1e24b1f503a30c596d3e9958666" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">46</container>
             <unittitle>
               <emph render="italic">A Perverted Personality</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1925/1935">ca. 1930</unitdate>
+            <unitdate normal="1925/1935" type="inclusive">ca. 1930</unitdate>
+            <container id="aspace_de2a7d31e17caacd189c565d3a6d00a3" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_a7166fb105a438ddc8e6402c87819630" parent="aspace_de2a7d31e17caacd189c565d3a6d00a3" type="Folder">46</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_33">
+        <c02 id="aspace_5fc0b55ba93d97c396770c7a77f119d6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">47</container>
             <unittitle>
               <emph render="italic">Plants That Incite to Crime</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1930/1940">ca. 1935</unitdate>
+            <unitdate normal="1930/1940" type="inclusive">ca. 1935</unitdate>
+            <container id="aspace_c7ca4c2f0099396eb5489b55b001b365" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_199d8595baca22aa7db52c5e11bc9bea" parent="aspace_c7ca4c2f0099396eb5489b55b001b365" type="Folder">47</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_34">
+        <c02 id="aspace_76575ee0d7610b0a2708bfd3a6f89232" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">48</container>
             <unittitle>
               <emph render="italic">Postwar Criminal Problems</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1939/1949">ca. 1944</unitdate>
+            <unitdate normal="1939/1949" type="inclusive">ca. 1944</unitdate>
+            <container id="aspace_80c9397841e3a4e4fe3d80bd2624188b" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_cc0504debe832bcb500c72a1f3e5d590" parent="aspace_80c9397841e3a4e4fe3d80bd2624188b" type="Folder">48</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_35">
+        <c02 id="aspace_0a02a6ea54746cabd45db1798777b051" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">49</container>
             <unittitle>
               <emph render="italic">The Problem of Suicide</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1948">1948</unitdate>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <container id="aspace_a5287be94245409e9e5712335dea33ee" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_fb4526c370f43151b66081dc9cc899df" parent="aspace_a5287be94245409e9e5712335dea33ee" type="Folder">49</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_36">
+        <c02 id="aspace_7068e2380ed9877b71330244917fd7c6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">50</container>
             <unittitle>
-              <emph render="italic">Program for Annual Ball of the Honor Legion of the New York City
-								Police Department</emph>
+              <emph render="italic">Program for Annual Ball of the Honor Legion of the New York City Police Department</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1923">1923</unitdate>
+            <unitdate normal="1923/1923" type="inclusive">1923</unitdate>
+            <container id="aspace_bec27a43fd8efd2b6e777494ba44d0d3" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_445c322231801f3742e8c453be5c1e9b" parent="aspace_bec27a43fd8efd2b6e777494ba44d0d3" type="Folder">50</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_37">
+        <c02 id="aspace_9b475a8ed07b2fd017b058e78b4f1598" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">51</container>
             <unittitle>
               <emph render="italic">Pyromania and Kleptomania</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1949">1949</unitdate>
+            <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+            <container id="aspace_76d2aea56249b1092d1318eb3401b04c" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_b573edfdfd3e66adca144159e2a73dd8" parent="aspace_76d2aea56249b1092d1318eb3401b04c" type="Folder">51</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_38">
+        <c02 id="aspace_43e84ea59f897b7913abdc6558bcb278" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">52</container>
             <unittitle>
               <emph render="italic">Scientific Discussions of Causes of Behavior</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940">1940</unitdate>
+            <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
+            <container id="aspace_1b2d71c31936ddc07b5bb01fcb5debc8" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_90f4c87bfe5caaa12ac72c1b8d0ba145" parent="aspace_1b2d71c31936ddc07b5bb01fcb5debc8" type="Folder">52</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_39">
+        <c02 id="aspace_78a54bf70fa2c3cb8eccef915d0d5a10" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">53</container>
             <unittitle>
               <emph render="italic">Social Problems</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950">1950</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_d600e49e67e60896d482d2028110a4da" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_181217fb9549994e30ccbcaa2e7334d4" parent="aspace_d600e49e67e60896d482d2028110a4da" type="Folder">53</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_40">
+        <c02 id="aspace_0baaea8299c95825edb8a4d74f33510f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">54</container>
             <unittitle>
               <emph render="italic">Solution by Circles</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941">1941</unitdate>
+            <unitdate normal="1941/1941" type="inclusive">1941</unitdate>
+            <container id="aspace_a656dfa70b11085bcedc144c77789ef9" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_b908b520000babdd779156eef64d1682" parent="aspace_a656dfa70b11085bcedc144c77789ef9" type="Folder">54</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_41">
+        <c02 id="aspace_57594cc4e26c36b494c8922515dd9d09" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">55</container>
             <unittitle>
               <emph render="italic">Something You Should Know</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940/1950">ca. 1945</unitdate>
+            <unitdate normal="1940/1950" type="inclusive">ca. 1945</unitdate>
+            <container id="aspace_65cbac55a0c8b25aca42d9226d10bcea" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_8588cac5bee96c2e56526960579a614c" parent="aspace_65cbac55a0c8b25aca42d9226d10bcea" type="Folder">55</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_42">
+        <c02 id="aspace_e3a2b8d6b68353da4ac9947644ad8087" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">56</container>
-            <unittitle>Statement Before the Committee on Ways and Means of the House of
-							Representatives</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1930">1930</unitdate>
+            <unittitle>Statement Before the Committee on Ways and Means of the House of Representatives</unittitle>
+            <unitdate normal="1930/1930" type="inclusive">1930</unitdate>
+            <container id="aspace_27633e6070fe47f9d034e8cbd2943cf8" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_a5569d4393ebb4e0329e740ebe735b30" parent="aspace_27633e6070fe47f9d034e8cbd2943cf8" type="Folder">56</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_43">
+        <c02 id="aspace_91c6df3460cde6376e63caf69e43733f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">57</container>
             <unittitle>
               <emph render="italic">A Study of Inheritance, Mental, Physical and Prenatal</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1900/1910">ca. 1905</unitdate>
+            <unitdate normal="1900/1910" type="inclusive">ca. 1905</unitdate>
+            <container id="aspace_0d0dddf68794df7dfe3a02ec8b5cd365" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_8ebd9b8bb32eb36dc2ccd83265dd633d" parent="aspace_0d0dddf68794df7dfe3a02ec8b5cd365" type="Folder">57</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_44">
+        <c02 id="aspace_0235e4e093fd709b534ed14ce1221212" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">58</container>
             <unittitle>
               <emph render="italic">Survey of the Narcotic Problem</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1924">1924</unitdate>
+            <unitdate normal="1924/1924" type="inclusive">1924</unitdate>
+            <container id="aspace_22285358c83ba3c434f058b7aba99e0e" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_e4a3c5d6d7f6b7f89fa087bf23356377" parent="aspace_22285358c83ba3c434f058b7aba99e0e" type="Folder">58</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_45">
+        <c02 id="aspace_ec4bb3127960d45a036b2810597ad72d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">59</container>
             <unittitle>
               <emph render="italic">The Tap an the Door(under the pseudonym Charles Somerville)</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1923">1923</unitdate>
+            <unitdate normal="1923/1923" type="inclusive">1923</unitdate>
+            <container id="aspace_668dca7c3e556e799b071135500abd91" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_c074536947c953666d95b55a7feeaadf" parent="aspace_668dca7c3e556e799b071135500abd91" type="Folder">59</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_46">
+        <c02 id="aspace_5810376e8fff0a9091b4b5325a6a1581" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">60</container>
             <unittitle>
               <emph render="italic">Unexplainable Phenomena</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1930">1930</unitdate>
+            <unitdate normal="1930/1930" type="inclusive">1930</unitdate>
+            <container id="aspace_fb89cdd6526dc4e7014c3d4b15d137ed" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_bcf0bf7e5a4389775864fef0fbfd6cf1" parent="aspace_fb89cdd6526dc4e7014c3d4b15d137ed" type="Folder">60</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_47">
+        <c02 id="aspace_953ef199999f52ac252a20eafa0bd724" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">61</container>
             <unittitle>"A Valentine for My Children" (Poem)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1901">1901</unitdate>
+            <unitdate normal="1901/1901" type="inclusive">1901</unitdate>
+            <container id="aspace_1739f866a59a2d1e77eb5d898dfdff3b" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_d913bb0bf21d12de1887d21a783165c4" parent="aspace_1739f866a59a2d1e77eb5d898dfdff3b" type="Folder">61</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_48">
+        <c02 id="aspace_c031384fe7421bdca02ddc541c4ffe7e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">62</container>
             <unittitle>
               <emph render="italic">The War Against Criminal Forces</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1942">1942</unitdate>
+            <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
+            <container id="aspace_153a8d59dfd20343815a5b43b7cf6732" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_3c0c75d598ee80f5d1f168f8db31bdd3" parent="aspace_153a8d59dfd20343815a5b43b7cf6732" type="Folder">62</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-3_49">
+        <c02 id="aspace_e567d6cce4ddba3950becde65fa93323" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">63</container>
             <unittitle>
               <emph render="italic">What are the Basic Causes of Present Day Crime?</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929">1929</unitdate>
+            <unitdate normal="1929/1929" type="inclusive">1929</unitdate>
+            <container id="aspace_d86cbcd8a05eda3ca85d20a38d638a48" label="Mixed Materials" type="Box">1 (3-Pamphlets and Other Published Material by Carleton)</container>
+            <container id="aspace_d7c34540de767a634a59c9735dc2ffa9" parent="aspace_d86cbcd8a05eda3ca85d20a38d638a48" type="Folder">63</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap073-4">
+      <c01 id="aspace_7aae22b8751f65807588eecbfa0a4bea" level="series">
         <did>
+          <unittitle>Unpublished Writings by Carleton Simon.</unittitle>
           <unitid>4</unitid>
-          <unittitle label="Series">Unpublished Writings by Carleton Simon.</unittitle>
           <unitdate normal="1900/1925" type="inclusive">1900-1925</unitdate>
           <unitdate normal="1935/1936" type="inclusive">1935-1936</unitdate>
           <unitdate normal="1940/1943" type="inclusive">1940-1943</unitdate>
           <physdesc>
-            <physfacet>7 in</physfacet>
+            <physfacet id="aspace_6c8e9494b78e2bdb02f4485ce3e3b3df">7 in</physfacet>
           </physdesc>
         </did>
-        <arrangement>
+        <arrangement id="aspace_108b55d87ff0fe975a3d9d913e5c11df">
+          <head>Arrangement</head>
           <p>Arranged alphabetically by folder title.</p>
         </arrangement>
-        <scopecontent>
-          <p>Unpublished speeches by Simon, essays on crime and criminological techniques,
-						poems (some that were published in newspapers), the illustrations from
-						a glossary on the slang of criminals, Criminal World Book,
-						which appears to include some illustrations also intended for his book,
-						"Spotting the Junkies" , and opening chapters for a third book on the
-						lives of New York City addicts.</p>
+        <scopecontent id="aspace_2041b6b7664c697423786c7367020fdb">
+          <head>Scope and Contents</head>
+          <p>Unpublished speeches by Simon, essays on crime and criminological techniques, poems (some that were published in newspapers), the illustrations from a glossary on the slang of criminals, Criminal World Book, which appears to include some illustrations also intended for his book, "Spotting the Junkies" , and opening chapters for a third book on the lives of New York City addicts.</p>
         </scopecontent>
-        <c02 id="nam_apap073-4_1">
+        <c02 id="aspace_17247c1ddea73b8c784ec19dc0b29edc" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">64</container>
-            <unittitle>Address at the Convention of the New York Stale Association
-							of Chiefs of Police</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1936">1936</unitdate>
+            <unittitle>Address at the Convention of the New York Stale Association of Chiefs of Police</unittitle>
+            <unitdate normal="1936/1936" type="inclusive">1936</unitdate>
+            <container id="aspace_71b8adc7ae2b31b907d7adf152208fa1" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_39cc4d74dfaa192a871d46bea5c80296" parent="aspace_71b8adc7ae2b31b907d7adf152208fa1" type="Folder">64</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_2">
+        <c02 id="aspace_7db02892b628e3740ec6076f6fc3b314" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">65</container>
             <unittitle>Address on Narcotic Drug Addiction</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1925">1925</unitdate>
+            <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
+            <container id="aspace_e95fd4449678bb4d4c95df97a3d6bc0a" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_236f4da5ca78be371fb78c90d36536b6" parent="aspace_e95fd4449678bb4d4c95df97a3d6bc0a" type="Folder">65</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_3">
+        <c02 id="aspace_8b7a56241a0248cfe574b1e6560ba329" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">66</container>
             <unittitle>Address on Suicide</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1948">1948</unitdate>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <container id="aspace_63e88f2bee3559f8fcba7dbb0ba0893a" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_bd635d18ffef36148145b5e64d9c15cc" parent="aspace_63e88f2bee3559f8fcba7dbb0ba0893a" type="Folder">66</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_4">
+        <c02 id="aspace_05f1e6b44fde430b01484ac3dc00aee3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">67</container>
-            <unittitle>Address to Secret Service on the Psychological Aspect of
-							the Criminal</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941">1941</unitdate>
+            <unittitle>Address to Secret Service on the Psychological Aspect of the Criminal</unittitle>
+            <unitdate normal="1941/1941" type="inclusive">1941</unitdate>
+            <container id="aspace_e1aeedd4f4b9b17ecbb8a3dd5b5a3185" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_d0751382c8d1284386ae1edfec9ff48b" parent="aspace_e1aeedd4f4b9b17ecbb8a3dd5b5a3185" type="Folder">67</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_5">
+        <c02 id="aspace_9627549507bdd0b3430375617116a3c4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">68</container>
             <unittitle>The Cost of Incendiaries and Practical Solutions</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1933">1933</unitdate>
+            <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
+            <container id="aspace_0787c5038f90a1b6f57bbfcc32492773" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_b836e3386c37bc62bf253990531537da" parent="aspace_0787c5038f90a1b6f57bbfcc32492773" type="Folder">68</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_6">
+        <c02 id="aspace_86674a8e70b1ba7b24167377a07fe6d0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">69</container>
             <unittitle>The Criminal and his Facial Aspects</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934">1934</unitdate>
+            <unitdate normal="1934/1934" type="inclusive">1934</unitdate>
+            <container id="aspace_d9a81a9e39ee2fb4f4b7761e54439735" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_6301a9fb0e887c8c669216bd4a01aca1" parent="aspace_d9a81a9e39ee2fb4f4b7761e54439735" type="Folder">69</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_7">
+        <c02 id="aspace_32fb35077ca72b84555d8f8341238270" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">70</container>
             <unittitle>Criminal Lives</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1932">1932</unitdate>
+            <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
+            <container id="aspace_4559aea74db3646b1b132051d0b3aa26" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_bfbe48929f013bed2fbbb96d38d34cf0" parent="aspace_4559aea74db3646b1b132051d0b3aa26" type="Folder">70</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_8">
+        <c02 id="aspace_147b3bafc4a76f16706f9056343f25b7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">71</container>
             <unittitle>Criminal Narcotic Drug Addiction--A World Wide Police Problem</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1922">1922</unitdate>
+            <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
+            <container id="aspace_d21fc8124983460323f1a4a2b61a5474" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_15f019f22bfdcdf3fec93980fd46f68d" parent="aspace_d21fc8124983460323f1a4a2b61a5474" type="Folder">71</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_9">
+        <c02 id="aspace_7abcbb782217f13e4050466e2b6acf4f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">72</container>
             <unittitle>Criminal Word Book--Illustrations</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1930/1940">ca. 1935</unitdate>
+            <unitdate normal="1930/1940" type="inclusive">ca. 1935</unitdate>
+            <container id="aspace_b667b9df4cd2fa7851070e912612483a" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_f6d19504597bc5a39456bb297bb004d6" parent="aspace_b667b9df4cd2fa7851070e912612483a" type="Folder">72</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_10">
+        <c02 id="aspace_0cb39b553aa5a36c89f24b9b77dc02f3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">73</container>
-            <unittitle>The Danger of Indiscriminate Use of Red and Green Lights
-							on our Public Highways</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1933">1933</unitdate>
+            <unittitle>The Danger of Indiscriminate Use of Red and Green Lights on our Public Highways</unittitle>
+            <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
+            <container id="aspace_85f6ddf8b2d9e0f10eb2eadc3e681de8" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_549f92f97f9902d2d008119c262d960b" parent="aspace_85f6ddf8b2d9e0f10eb2eadc3e681de8" type="Folder">73</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_11">
+        <c02 id="aspace_77b9aa2ef653056d5051e59f4a1b01aa" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">74</container>
-            <unittitle>Drafts of the First Two Chapters of a Nonfiction Book an
-							Individual New York City Addicts</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1935/1945">ca. 1940</unitdate>
+            <unittitle>Drafts of the First Two Chapters of a Nonfiction Book an Individual New York City Addicts</unittitle>
+            <unitdate normal="1935/1945" type="inclusive">ca. 1940</unitdate>
+            <container id="aspace_dbd8b983ce805ce5d00128dd6793533a" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_1ffd4c44f513c5d025563fb09d32799a" parent="aspace_dbd8b983ce805ce5d00128dd6793533a" type="Folder">74</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_12">
+        <c02 id="aspace_74811bb5c1a16633376a59c3435dd10d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">75</container>
             <unittitle>Lectures and Notes for Lectures at the School for Detectives</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1923/1924">1923-1924</unitdate>
+            <unitdate normal="1923/1924" type="inclusive">1923-1924</unitdate>
+            <container id="aspace_32b1ef7dbb168f82c4edf95d063fd1f5" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_be631a24955e86f2779e511ce9d68645" parent="aspace_32b1ef7dbb168f82c4edf95d063fd1f5" type="Folder">75</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_13">
+        <c02 id="aspace_0eba69005c1edce76aab077160119603" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">76</container>
             <unittitle>Narcotic Control</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1923">1923</unitdate>
+            <unitdate normal="1923/1923" type="inclusive">1923</unitdate>
+            <container id="aspace_8255d311f3a460ef464f0b5a9d1a7adb" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_89ef836987091e4140da18946bd1ad65" parent="aspace_8255d311f3a460ef464f0b5a9d1a7adb" type="Folder">76</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_14">
+        <c02 id="aspace_4129c19be114c24b77d0692750f0098c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">77</container>
             <unittitle>The Negro Criminal</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1933">1933</unitdate>
+            <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
+            <container id="aspace_e41f866c1d9f28ff307ed644927649df" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_a12f0cdfc1162ac8e93439c6bf68d164" parent="aspace_e41f866c1d9f28ff307ed644927649df" type="Folder">77</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_15">
+        <c02 id="aspace_ddf80021d58ca11f110b5ade0f161bbc" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">78</container>
             <unittitle>New Aspects of Criminal Science</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1948">1948</unitdate>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <container id="aspace_99517570bfcd090bd44877bf23278229" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_22efdf6dc5d0621651b493379e4b90ca" parent="aspace_99517570bfcd090bd44877bf23278229" type="Folder">78</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_16">
+        <c02 id="aspace_9f3b4d6be386ac4c63b81816a06873ac" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">79</container>
             <unittitle>New Methods for Protecting Public Welfare</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1932">1932</unitdate>
+            <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
+            <container id="aspace_33f1c607aa5a02d6cd6d7b702158a113" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_162315214f4564370f0ae3209f75650a" parent="aspace_33f1c607aa5a02d6cd6d7b702158a113" type="Folder">79</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_17">
+        <c02 id="aspace_869b7135b43fdb09d031524eb73cba27" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">80</container>
             <unittitle>A New Scientific Method of Identification</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1935">1935</unitdate>
+            <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+            <container id="aspace_aa103282a85188a3f25150c94895cf3b" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_1b8e6d82b1ae3e6620591bad438fa734" parent="aspace_aa103282a85188a3f25150c94895cf3b" type="Folder">80</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_18">
+        <c02 id="aspace_c8ee9cfd6c1665cb3c502251aabb0198" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">81</container>
             <unittitle>The Phenomena of Life and Death</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1930/1940">ca. 1935</unitdate>
+            <unitdate normal="1930/1940" type="inclusive">ca. 1935</unitdate>
+            <container id="aspace_aaa8e29df91ea3e4b2307f2e47254b12" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_0f05d4bfd6d716b7c56926507929d95c" parent="aspace_aaa8e29df91ea3e4b2307f2e47254b12" type="Folder">81</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_19">
+        <c02 id="aspace_1a61f5678cebadb379209776e5c32a4c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">82</container>
-            <unittitle>Plan for New England Association of Chiefs of Police Crime
-							Detection Laboratory</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1933">1933</unitdate>
+            <unittitle>Plan for New England Association of Chiefs of Police Crime Detection Laboratory</unittitle>
+            <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
+            <container id="aspace_80b8e652b9014eb2d5b195e5647f22b7" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_06a449e3f1ec80a07fd313971488cc7e" parent="aspace_80b8e652b9014eb2d5b195e5647f22b7" type="Folder">82</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_20">
+        <c02 id="aspace_c54d8b65ca6e3ef1884e83608c807ca0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">83</container>
-            <unittitle>Plan for the New York State Association of Chiefs of Police
-							School and Crime Detection Laboratory</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934">1934</unitdate>
+            <unittitle>Plan for the New York State Association of Chiefs of Police School and Crime Detection Laboratory</unittitle>
+            <unitdate normal="1934/1934" type="inclusive">1934</unitdate>
+            <container id="aspace_9a21a006e19ffd06a9fcee9a04f2424b" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_d330697a3a44e076d4af8793deb3a00a" parent="aspace_9a21a006e19ffd06a9fcee9a04f2424b" type="Folder">83</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_21">
+        <c02 id="aspace_9be432b0c1edb95b4c11b3939ad46cc9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">84</container>
             <unittitle>Poems</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1900/1920">1900-1920</unitdate>
+            <unitdate normal="1900/1920" type="inclusive">1900-1920</unitdate>
+            <container id="aspace_98102ec60257df11611fc6aca7e0ccb5" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_1a58ec786a1a48c821fb72800f080805" parent="aspace_98102ec60257df11611fc6aca7e0ccb5" type="Folder">84</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_22">
+        <c02 id="aspace_46ecd4c4b3ef90c903abd66d95b6ca7b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">85</container>
             <unittitle>Post-War Crime Problems and Their Control</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1944">1944</unitdate>
+            <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+            <container id="aspace_78e01821e0039b3a5f93a8a633449dcc" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_d6a0e594d7c58834ec0a557926092432" parent="aspace_78e01821e0039b3a5f93a8a633449dcc" type="Folder">85</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_23">
+        <c02 id="aspace_2229f22d9dcd7fd1bfa89321cbd24e27" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">86</container>
             <unittitle>Remarks an Social Protection Measures</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
+            <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+            <container id="aspace_4736c3e36310a9b60c9448caaf368551" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_d82be985a312500343c61422160765f0" parent="aspace_4736c3e36310a9b60c9448caaf368551" type="Folder">86</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_24">
+        <c02 id="aspace_efdb40355679918a6520db7fbfe20c0b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">87</container>
-            <unittitle>Report of the Committee of Criminal Science of the New England
-							Association of Chiefs of Police</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1933">1933</unitdate>
+            <unittitle>Report of the Committee of Criminal Science of the New England Association of Chiefs of Police</unittitle>
+            <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
+            <container id="aspace_a031ff61d3b777236a6df727174a3fe2" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_94250cd4206e3c3a3897eea9919d91a0" parent="aspace_a031ff61d3b777236a6df727174a3fe2" type="Folder">87</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_25">
+        <c02 id="aspace_2c7f3a5d378921abe40d0ad1fc92a006" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">88</container>
-            <unittitle>Resolutions of the New England Association of Chiefs of Police
-							on Fingerprinting and Parole</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1942">1942</unitdate>
+            <unittitle>Resolutions of the New England Association of Chiefs of Police on Fingerprinting and Parole</unittitle>
+            <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
+            <container id="aspace_8630784982ebe9984a9d57cea3ff53a6" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_a857e886240365854ff9b170b225114d" parent="aspace_8630784982ebe9984a9d57cea3ff53a6" type="Folder">88</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_26">
+        <c02 id="aspace_5e77abc2544a529f0524548537b3ccf8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">89</container>
             <unittitle>The Retinal Method of Identification</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1936">1936</unitdate>
+            <unitdate normal="1936/1936" type="inclusive">1936</unitdate>
+            <container id="aspace_ddaae89dc28a065c3cfc5e03a3b8d649" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_5e7a0f94a103a13594dbf2fd5feb595a" parent="aspace_ddaae89dc28a065c3cfc5e03a3b8d649" type="Folder">89</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_27">
+        <c02 id="aspace_a66b1383a3075e3a341584b0d946a9be" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">90</container>
             <unittitle>Simon-Goldstein Scientific Method of Identification</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1936">ca. 1936</unitdate>
+            <unitdate normal="1936/1936" type="inclusive">ca. 1936</unitdate>
+            <container id="aspace_bccd1a173bf77540069d892e257e1ca6" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_65abdcd34d3ca420ba9a43622e7a50ea" parent="aspace_bccd1a173bf77540069d892e257e1ca6" type="Folder">90</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_28">
+        <c02 id="aspace_46e5236f87886b4346bad8fa3025f277" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">91</container>
             <unittitle>Simon-Goldstein Scientific Method of Identification</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1931/1941">ca. 1936</unitdate>
+            <unitdate normal="1931/1941" type="inclusive">ca. 1936</unitdate>
+            <container id="aspace_6bcfa12f4263b44aac01c4aad5b36011" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_704abed32978451725a1a56c24ff2319" parent="aspace_6bcfa12f4263b44aac01c4aad5b36011" type="Folder">91</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_29">
+        <c02 id="aspace_fbcda5725e1cfea13ce60d99db1d47b4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">92</container>
             <unittitle>Spotting the "Junkies,"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1930/1940">ca. 1935</unitdate>
+            <unitdate normal="1930/1940" type="inclusive">ca. 1935</unitdate>
+            <container id="aspace_d807d75e6905c1a8fad853dde7a62814" label="Mixed Materials" type="Box">1 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_51fcd0e38de056585e00c1241be0e3bd" parent="aspace_d807d75e6905c1a8fad853dde7a62814" type="Folder">92</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_30">
+        <c02 id="aspace_c93f3ae8c9708fc523465cc052814c43" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Spotting the Junkies "Contents"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1935">1935</unitdate>
+            <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+            <container id="aspace_60091765c71f9d524edfa804a1098f8a" label="Mixed Materials" type="Box">2 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_b4ab1dbd49dc14b924f3a2327575f5c7" parent="aspace_60091765c71f9d524edfa804a1098f8a" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_31">
+        <c02 id="aspace_b27d3c4789215e5c3eaf88f647750121" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
-            <unittitle>Spotting the "Junkies" Pages 301 – 342 </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1935">1935</unitdate>
+            <unittitle>Spotting the "Junkies" Pages 301 â 342</unittitle>
+            <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+            <container id="aspace_ee4de2191262465ad16e7a54647f9c3f" label="Mixed Materials" type="Box">2 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_dc91f06addae6b1c69f6a3ff08b3c3fd" parent="aspace_ee4de2191262465ad16e7a54647f9c3f" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_32">
+        <c02 id="aspace_8a71b4ef85c89b002b414900295044f9" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Talk Given by Dr. Carleton Simon on "We, the PeopIe" Subject Marijuana</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1938">1938</unitdate>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_5c68e7a52cb09700c60ae14fc2c07f93" label="Mixed Materials" type="Box">2 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_676347287dcf729532404756cd5e34ab" parent="aspace_5c68e7a52cb09700c60ae14fc2c07f93" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_33">
+        <c02 id="aspace_439db36827bce5adf46ef05c4c15fba9" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Untitled Essay on Color</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1935/1940">ca. 1940</unitdate>
+            <unitdate normal="1935/1940" type="inclusive">ca. 1940</unitdate>
+            <container id="aspace_6edd5a001d7d968655d146600e84495d" label="Mixed Materials" type="Box">2 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_8f79eb0bccff4f143271d31f36278029" parent="aspace_6edd5a001d7d968655d146600e84495d" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_34">
+        <c02 id="aspace_5296a3fd91a93165150f7430c4db6025" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>Statement Before the U.S. Senate Sub-Committee on Racketeering</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1933">1933</unitdate>
+            <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
+            <container id="aspace_41180d97fec318663dff6eab60abf06c" label="Mixed Materials" type="Box">2 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_360633940566f686d242d3b4a42ce514" parent="aspace_41180d97fec318663dff6eab60abf06c" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-4_35">
+        <c02 id="aspace_9933bd4f8f29b6b20394aecd644641c8" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>Photographs of Carleton Simon</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1900">1900</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1925">1925</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1944">1944</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950">1950</unitdate>
+            <unitdate normal="1900/1900" type="inclusive">1900</unitdate>
+            <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
+            <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_979332e087ebcdb50f856c0da35d057b" label="Mixed Materials" type="Box">2 (4-Unpublished Writings by Carleton Simon.)</container>
+            <container id="aspace_6ed58a14a320580f9d36590d47eea979" parent="aspace_979332e087ebcdb50f856c0da35d057b" type="Folder">6</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap073-5">
+      <c01 id="aspace_8212401343826f359d23b2009a76db17" level="series">
         <did>
+          <unittitle>The Hay's Code</unittitle>
           <unitid>5</unitid>
-          <unittitle label="Series">The Hay's Code</unittitle>
-          <unitdate type="inclusive" normal="1912/1937">1926-1937</unitdate>
-          <unitdate type="inclusive" normal="1946">1946</unitdate>
-          <unitdate type="inclusive" normal="1948">1948.</unitdate>
+          <unitdate normal="1912/1937" type="inclusive">1926-1937</unitdate>
+          <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+          <unitdate normal="1948/1948" type="inclusive">1948.</unitdate>
           <physdesc>
-            <physfacet>2.5 in.</physfacet>
+            <physfacet id="aspace_abc97bdd181149e3aeaab15f1a706b58">2.5 in.</physfacet>
           </physdesc>
         </did>
-        <arrangement>
+        <arrangement id="aspace_009bed2c780651099ede2464022d80d5">
+          <head>Arrangement</head>
           <p>Arranged alphabetically by folder title.</p>
         </arrangement>
-        <scopecontent>
-          <p>Correspondence to and from the Hay's Commission about the suitability
-						of proposed movie scripts and finished movies, and correspondence about
-						the connection between specific crimes and films. Also contains formal
-						reports on specific movies and scripts.</p>
+        <scopecontent id="aspace_8083eb3d92be433223884d85deaa13e9">
+          <head>Scope and Contents</head>
+          <p>Correspondence to and from the Hay's Commission about the suitability of proposed movie scripts and finished movies, and correspondence about the connection between specific crimes and films. Also contains formal reports on specific movies and scripts.</p>
         </scopecontent>
-        <c02 id="nam_apap073-5_1">
+        <c02 id="aspace_6638a768237bd91ae320c1d1e1821d1a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
             <unittitle>Copies of the Code</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1930">1930</unitdate>
+            <unitdate normal="1930/1930" type="inclusive">1930</unitdate>
+            <container id="aspace_0544842cb9b84628720e6cd8996e44ba" label="Mixed Materials" type="Box">2 (5-The Hay's Code)</container>
+            <container id="aspace_7c49d588e1bb2bc379ec899f073a6d82" parent="aspace_0544842cb9b84628720e6cd8996e44ba" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-5_2">
+        <c02 id="aspace_5202f983cee435d4d38eb06289be4244" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
             <unittitle>Correspondence, Folder 1</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1926/1931">1926-1931</unitdate>
+            <unitdate normal="1926/1931" type="inclusive">1926-1931</unitdate>
+            <container id="aspace_97401dfa49c44dc1d1ee0962eaab5293" label="Mixed Materials" type="Box">2 (5-The Hay's Code)</container>
+            <container id="aspace_7858ddec0038f090307113149244be4b" parent="aspace_97401dfa49c44dc1d1ee0962eaab5293" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-5_3">
+        <c02 id="aspace_e9dc2f42e5ea85818b6a4482070d40ca" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
             <unittitle>Correspondence, Folder 2</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1928/1937">1928-1937</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1948">1948</unitdate>
+            <unitdate normal="1928/1937" type="inclusive">1928-1937</unitdate>
+            <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <container id="aspace_0514e67ea0485cefc80fe6995cf7c3d5" label="Mixed Materials" type="Box">2 (5-The Hay's Code)</container>
+            <container id="aspace_3dba79cad15001503f00cfc28448192c" parent="aspace_0514e67ea0485cefc80fe6995cf7c3d5" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-5_4">
+        <c02 id="aspace_589b335d421396c13f23f365d59a9c11" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10</container>
             <unittitle>Simon's Reports on Motion Pictures</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1926/1934">1926-1934</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937">1937</unitdate>
+            <unitdate normal="1926/1934" type="inclusive">1926-1934</unitdate>
+            <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+            <container id="aspace_e60d5f6104ed462189aaafa53360e012" label="Mixed Materials" type="Box">2 (5-The Hay's Code)</container>
+            <container id="aspace_25a991ecda17046b8e06b3f6af9157c1" parent="aspace_e60d5f6104ed462189aaafa53360e012" type="Folder">10</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap073-6">
+      <c01 id="aspace_da49df820d4ee151b62287445d9cfe21" level="series">
         <did>
+          <unittitle>Photographs</unittitle>
           <unitid>6</unitid>
-          <unittitle label="Series">Photographs</unittitle>
-          <unitdate type="inclusive" normal="1900">1900</unitdate>
-          <unitdate type="inclusive" normal="1925">1925</unitdate>
-          <unitdate type="inclusive" normal="1039/1936">1930-1936</unitdate>
-          <unitdate type="inclusive" normal="1944">1944</unitdate>
-          <unitdate type="inclusive" normal="1950">1950</unitdate>
+          <unitdate normal="1900/1900" type="inclusive">1900</unitdate>
+          <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
+          <unitdate normal="1039/1936" type="inclusive">1930-1936</unitdate>
+          <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+          <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
           <physdesc>
-            <physfacet>1.5 in.</physfacet>
+            <physfacet id="aspace_b0c418f11bbc4bafd869ce3c6655eb6a">1.5 in.</physfacet>
           </physdesc>
         </did>
-        <arrangement>
-          <p> Arranged by subject.</p>
+        <arrangement id="aspace_893843ad39aba7cfeaae9069d624a251">
+          <head>Arrangement</head>
+          <p>Arranged by subject.</p>
         </arrangement>
-        <scopecontent>
-          <p>Two folders of photographs, one of photographs of Carleton Simon and one of 
-						photographs of other people, mostly law enforcement officials.</p>
+        <scopecontent id="aspace_a9c22190cf05443be4415d2ef570df19">
+          <head>Scope and Contents</head>
+          <p>Two folders of photographs, one of photographs of Carleton Simon and one of photographs of other people, mostly law enforcement officials.</p>
         </scopecontent>
-        <c02 id="nam_apap073-6_1">
+        <c02 id="aspace_ea933537089ee4a636cb597e52eb3eea" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>Photographs of Carleton Simon</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1900">1900</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1925">1925</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1944">1944</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950">1950</unitdate>
+            <unitdate normal="1900/1900" type="inclusive">1900</unitdate>
+            <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
+            <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_8669c169df38fa87220bfc39e916fd0c" label="Mixed Materials" type="Box">3 (6-Photographs)</container>
+            <container id="aspace_0afd89ff15966d69963008faf85e0122" parent="aspace_8669c169df38fa87220bfc39e916fd0c" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-6_2">
+        <c02 id="aspace_141075b1191bdd17521db03d81b22251" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>Photographs of Others</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1936">1936</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1938">1938</unitdate>
+            <unitdate normal="1936/1936" type="inclusive">1936</unitdate>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_89fb76073c8f00a5676350dffb89cfee" label="Mixed Materials" type="Box">3 (6-Photographs)</container>
+            <container id="aspace_76d4b4ccdc25838ef72b7b862d3288b3" parent="aspace_89fb76073c8f00a5676350dffb89cfee" type="Folder">2</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap073-7">
+      <c01 id="aspace_e6ca72ea6066ae752ecfed5be59c7a76" level="series">
         <did>
+          <unittitle>Memorabilia</unittitle>
           <unitid>7</unitid>
-          <unittitle label="Series">Memorabilia</unittitle>
-          <unitdate type="inclusive" normal="1882/1889">1882-1889</unitdate>
-          <unitdate type="inclusive" normal="1894/1896">1884-1896</unitdate>
-          <unitdate type="inclusive" normal="1902">1902</unitdate>
-          <unitdate type="inclusive" normal="1907">1907</unitdate>
-          <unitdate type="inclusive" normal="1917/1950">1917-1950</unitdate>
+          <unitdate normal="1882/1889" type="inclusive">1882-1889</unitdate>
+          <unitdate normal="1894/1896" type="inclusive">1884-1896</unitdate>
+          <unitdate normal="1902/1902" type="inclusive">1902</unitdate>
+          <unitdate normal="1907/1907" type="inclusive">1907</unitdate>
+          <unitdate normal="1917/1950" type="inclusive">1917-1950</unitdate>
           <physdesc>
-            <physfacet>3 in.</physfacet>
+            <physfacet id="aspace_03518d60e7774a0f25500b88837278f2">3 in.</physfacet>
           </physdesc>
         </did>
-        <arrangement>
+        <arrangement id="aspace_691463fb28b9c24389818dd3101f9b78">
+          <head>Arrangement</head>
           <p>Arranged alphabetically by folder title.</p>
         </arrangement>
-        <scopecontent>
-          <p>Includes a scrapbook, a report card book, a wallet, an address book, blank 
-						letterhead, awards, and citations.</p>
+        <scopecontent id="aspace_26b5a8c92aa12c8e6927dfc5298fc5fa">
+          <head>Scope and Contents</head>
+          <p>Includes a scrapbook, a report card book, a wallet, an address book, blank letterhead, awards, and citations.</p>
         </scopecontent>
-        <c02 id="nam_apap073-7_1">
+        <c02 id="aspace_139f9c489bf5a25194076e76bcc4326e" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">15</container>
             <unittitle>Address Book and Notebook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1925/1955">ca. 1930-1950</unitdate>
+            <unitdate normal="1925/1955" type="inclusive">ca. 1930-1950</unitdate>
+            <container id="aspace_1ee26d62b6b04f2b247215427c2d0fdf" label="Mixed Materials" type="Box">3 (7-Memorabilia)</container>
+            <container id="aspace_1ce0ef70d7f48309887479369f28efce" parent="aspace_1ee26d62b6b04f2b247215427c2d0fdf" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-7_2">
+        <c02 id="aspace_17b851bbf05c9cf4b733d5fa121d5786" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">16</container>
             <unittitle>Awards and Citations</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951">1951</unitdate>
+            <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_5d30782d22c2308856d8708c3aa10e5f" label="Mixed Materials" type="Box">3 (7-Memorabilia)</container>
+            <container id="aspace_8c1df86fb32c519baf52d6e369e9570e" parent="aspace_5d30782d22c2308856d8708c3aa10e5f" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-7_3">
+        <c02 id="aspace_36c52bc2911d990108b9c2a48b559530" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">17</container>
             <unittitle>Blank Letterhead</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1925/1955">ca. 1930-1950</unitdate>
+            <unitdate normal="1925/1955" type="inclusive">ca. 1930-1950</unitdate>
+            <container id="aspace_154f7dee724e81f5a81f688840491bba" label="Mixed Materials" type="Box">3 (7-Memorabilia)</container>
+            <container id="aspace_80fbb4004190b142fa555f1d230c3cc1" parent="aspace_154f7dee724e81f5a81f688840491bba" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-7_4">
+        <c02 id="aspace_a80376f4187145541cd8a5cd428a66b0" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">18</container>
             <unittitle>Honorary Membership Certificates</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1902">1902</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1907">1907</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920/1924">1920-1924</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1930/1931">1930-1931</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1949">1943-1949</unitdate>
+            <unitdate normal="1902/1902" type="inclusive">1902</unitdate>
+            <unitdate normal="1907/1907" type="inclusive">1907</unitdate>
+            <unitdate normal="1920/1924" type="inclusive">1920-1924</unitdate>
+            <unitdate normal="1930/1931" type="inclusive">1930-1931</unitdate>
+            <unitdate normal="1943/1949" type="inclusive">1943-1949</unitdate>
+            <container id="aspace_05f5988841ef5075aaa891b9bf8b8c6a" label="Mixed Materials" type="Box">3 (7-Memorabilia)</container>
+            <container id="aspace_1988903149d0c3563851c1ab78b007ca" parent="aspace_05f5988841ef5075aaa891b9bf8b8c6a" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-7_5">
+        <c02 id="aspace_f9670e2d5fafb3a3f7ee11e9ed29b24c" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">19</container>
             <unittitle>Mementos</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1894/1896">1894-1896</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1944">1944</unitdate>
+            <unitdate normal="1894/1896" type="inclusive">1894-1896</unitdate>
+            <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+            <container id="aspace_743d96e20c1eb2d345e8ea2644866feb" label="Mixed Materials" type="Box">3 (7-Memorabilia)</container>
+            <container id="aspace_4adac837744628a46e947aa1d9dce506" parent="aspace_743d96e20c1eb2d345e8ea2644866feb" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-7_6">
+        <c02 id="aspace_882c1d5a5ae53fa720e479cced0bd635" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">20</container>
-            <unittitle>Phonodisk of a Radio Broadcast from the Series, "Crime is a Losing
-							Game,"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1949">1949</unitdate>
+            <unittitle>Phonodisk of a Radio Broadcast from the Series, "Crime is a Losing Game,"</unittitle>
+            <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+            <container id="aspace_c976b9819ee79253aa10ca60ad056c3b" label="Mixed Materials" type="Box">3 (7-Memorabilia)</container>
+            <container id="aspace_032aeb453b6bff16545deaf39f876c4a" parent="aspace_c976b9819ee79253aa10ca60ad056c3b" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-7_7">
+        <c02 id="aspace_668c74510a16fb329100210daf499013" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">21</container>
             <unittitle>Plaque from the New York City Police Department</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1935/1945">ca. 1940</unitdate>
+            <unitdate normal="1935/1945" type="inclusive">ca. 1940</unitdate>
+            <container id="aspace_13349083451e536f16b8174e5bd7862e" label="Mixed Materials" type="Box">3 (7-Memorabilia)</container>
+            <container id="aspace_bb9781ce03d918cb7e832de3fcca5a5e" parent="aspace_13349083451e536f16b8174e5bd7862e" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-7_8">
+        <c02 id="aspace_907f84afc5dad063f4c83fc5a7f1a59d" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">22</container>
             <unittitle>Plaque from the New York City Police Department</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982/1983">1882-1983</unitdate>
+            <unitdate normal="1982/1983" type="inclusive">1882-1983</unitdate>
+            <container id="aspace_7c816b51e8343c9e6c1cc1596b8b7acb" label="Mixed Materials" type="Box">3 (7-Memorabilia)</container>
+            <container id="aspace_0b83fa661df4a351de224bc392b00d68" parent="aspace_7c816b51e8343c9e6c1cc1596b8b7acb" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-7_9">
+        <c02 id="aspace_f3f1748b3adc7e1116fb7582b387751c" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">23</container>
             <unittitle>Rosters of the New York State Association of Chiefs of Police</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1949/1950">1949-1950</unitdate>
+            <unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate>
+            <container id="aspace_24a6f810a59d29370dca4b12624612aa" label="Mixed Materials" type="Box">3 (7-Memorabilia)</container>
+            <container id="aspace_79f2620ec192bf3d02857694413acb4f" parent="aspace_24a6f810a59d29370dca4b12624612aa" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-7_10">
+        <c02 id="aspace_abf292276b7c51254f62ec617b60c81e" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">24</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1885/1889">1885-1889</unitdate>
+            <unitdate normal="1885/1889" type="inclusive">1885-1889</unitdate>
+            <container id="aspace_31b473d76b2f3bf5722c64b3b7d44b01" label="Mixed Materials" type="Box">3 (7-Memorabilia)</container>
+            <container id="aspace_e527b9aebd91f1d0522ee998931d8d69" parent="aspace_31b473d76b2f3bf5722c64b3b7d44b01" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-7_11">
+        <c02 id="aspace_fd9ed679fc0d983274ada58c1bbf5f3e" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">25</container>
             <unittitle>Skull X-ray</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1935">1935</unitdate>
+            <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+            <container id="aspace_f4df13d333987e37903a5591ec3f867b" label="Mixed Materials" type="Box">3 (7-Memorabilia)</container>
+            <container id="aspace_b104fe020fa75219a0bfc0e24d5c28ca" parent="aspace_f4df13d333987e37903a5591ec3f867b" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-7_12">
+        <c02 id="aspace_5af7dec2cd678395f22a6e998203d72e" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">26</container>
             <unittitle>Wallet</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1917/1950">1917-1950</unitdate>
+            <unitdate normal="1917/1950" type="inclusive">1917-1950</unitdate>
+            <container id="aspace_6dbcb70feba48f8180f92aa1206fbe80" label="Mixed Materials" type="Box">3 (7-Memorabilia)</container>
+            <container id="aspace_681db98d7861c68f5ed560da20d0b4d7" parent="aspace_6dbcb70feba48f8180f92aa1206fbe80" type="Folder">26</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap073-8">
+      <c01 id="aspace_ee932c3fbf2b096ff695d2becfe7c67a" level="series">
         <did>
+          <unittitle>Publications About Carleton Simon and His Work.</unittitle>
           <unitid>8</unitid>
-          <unittitle label="Series">Publications About Carleton Simon and His Work.</unittitle>
-          <unitdate type="inclusive" normal="1900">1900</unitdate>
-          <unitdate type="inclusive" normal="1906">1906</unitdate>
-          <unitdate type="inclusive" normal="1921/1935">1921-1935</unitdate>
-          <unitdate type="inclusive" normal="1939">1939</unitdate>
-          <unitdate type="inclusive" normal="1949">1949</unitdate>
+          <unitdate normal="1900/1900" type="inclusive">1900</unitdate>
+          <unitdate normal="1906/1906" type="inclusive">1906</unitdate>
+          <unitdate normal="1921/1935" type="inclusive">1921-1935</unitdate>
+          <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+          <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
           <physdesc>
-            <physfacet>1 in.</physfacet>
+            <physfacet id="aspace_122204bb2f5506d7524c51c90b34fa58">1 in.</physfacet>
           </physdesc>
         </did>
-        <arrangement>
+        <arrangement id="aspace_c0a788f94a9fbd70170ff003f791d2d9">
+          <head>Arrangement</head>
           <p>Arranged alphabetically by title.</p>
         </arrangement>
-        <scopecontent>
-          <p>Published articles about Carleton Simon's work as a criminologist and
-						his views on crime.</p>
+        <scopecontent id="aspace_7225e6a3c2f290ec52087599799c3cc9">
+          <head>Scope and Contents</head>
+          <p>Published articles about Carleton Simon's work as a criminologist and his views on crime.</p>
         </scopecontent>
-        <c02 id="nam_apap073-8_1">
+        <c02 id="aspace_93ed792b6aefd8b95a74ff9de0e748db" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">27</container>
             <unittitle>
               <emph render="italic">The Conqueror</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1924">1924</unitdate>
+            <unitdate normal="1924/1924" type="inclusive">1924</unitdate>
+            <container id="aspace_50e63ea2590736aefe3f3e0cd74b43c8" label="Mixed Materials" type="Box">3 (8-Publications About Carleton Simon and His Work.)</container>
+            <container id="aspace_c3145679b2648b5524207a46b4c7cb42" parent="aspace_50e63ea2590736aefe3f3e0cd74b43c8" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-8_2">
+        <c02 id="aspace_06212ffdbaf8d2cabd4cc609cdf66b0a" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">28</container>
             <unittitle>
               <emph render="italic">Gunning for Drug Smugglers</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1921">1921</unitdate>
+            <unitdate normal="1921/1921" type="inclusive">1921</unitdate>
+            <container id="aspace_27de48e10bf815da1bc98ccccf2b18d1" label="Mixed Materials" type="Box">3 (8-Publications About Carleton Simon and His Work.)</container>
+            <container id="aspace_ef28dbe4cf69121bac1467909a71b84a" parent="aspace_27de48e10bf815da1bc98ccccf2b18d1" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-8_3">
+        <c02 id="aspace_f2d6da17461c3fb73a34549b91cfe400" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">29</container>
             <unittitle>
               <emph render="italic">Have You a Wrong Way Brain?</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1939">1939</unitdate>
+            <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+            <container id="aspace_0e566d032864bc6e46d4009fd46db7a0" label="Mixed Materials" type="Box">3 (8-Publications About Carleton Simon and His Work.)</container>
+            <container id="aspace_c93bcc2f59da7a13c67a5ed2e299cbb0" parent="aspace_0e566d032864bc6e46d4009fd46db7a0" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-8_4">
+        <c02 id="aspace_1af3d8ad6f6c1c84121a4681868f7cc5" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">30</container>
             <unittitle>
               <emph render="italic">How They'll Catch Tomorrow's Kidnapers</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1935">1935</unitdate>
+            <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+            <container id="aspace_8202d463fb16ed607a574f11cf1d0082" label="Mixed Materials" type="Box">3 (8-Publications About Carleton Simon and His Work.)</container>
+            <container id="aspace_c5dd0eb81dc087ce7a88d0c574d2e30c" parent="aspace_8202d463fb16ed607a574f11cf1d0082" type="Folder">30</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-8_5">
+        <c02 id="aspace_bb0cd365df44bdc8895a88c528aedddb" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">31</container>
             <unittitle>
               <emph render="italic">News Release About Young Criminals</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1944/1954">ca. 1949</unitdate>
+            <unitdate normal="1944/1954" type="inclusive">ca. 1949</unitdate>
+            <container id="aspace_209baca38e7b6968099e1555a982d242" label="Mixed Materials" type="Box">3 (8-Publications About Carleton Simon and His Work.)</container>
+            <container id="aspace_05b40b5539765cc346b11fe7cef30b4f" parent="aspace_209baca38e7b6968099e1555a982d242" type="Folder">31</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-8_6">
+        <c02 id="aspace_93567ff593bd8d078c688cf576f64d86" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">32</container>
             <unittitle>
               <emph render="italic">Occupations in Relation to Health: The Physician</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1906">1906</unitdate>
+            <unitdate normal="1906/1906" type="inclusive">1906</unitdate>
+            <container id="aspace_55a070d6f2c5bc65757b80f4c53aa789" label="Mixed Materials" type="Box">3 (8-Publications About Carleton Simon and His Work.)</container>
+            <container id="aspace_af0587a0966e4237e9f17651d6bf51d2" parent="aspace_55a070d6f2c5bc65757b80f4c53aa789" type="Folder">32</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-8_7">
+        <c02 id="aspace_bd2e5d77435503f14753f428f58bd33a" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">33</container>
             <unittitle>Phonograph of Dr. Carleton Simon</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1900">1900</unitdate>
+            <unitdate normal="1900/1900" type="inclusive">1900</unitdate>
+            <container id="aspace_dfce5b4a12f57a44abedb553bb6da1d4" label="Mixed Materials" type="Box">3 (8-Publications About Carleton Simon and His Work.)</container>
+            <container id="aspace_8f8d2f27bc5016eb147c7ed7a221f90d" parent="aspace_dfce5b4a12f57a44abedb553bb6da1d4" type="Folder">33</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-8_8">
+        <c02 id="aspace_6622df80b115096bdcee50366bc3b12b" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">34</container>
             <unittitle>
               <emph render="italic">Sherlock Holmes Up to Date</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1935">1935</unitdate>
+            <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+            <container id="aspace_b142b96ca49ef03aaa86a800365306dc" label="Mixed Materials" type="Box">3 (8-Publications About Carleton Simon and His Work.)</container>
+            <container id="aspace_e9519bc062105e09b74d8886756708b3" parent="aspace_b142b96ca49ef03aaa86a800365306dc" type="Folder">34</container>
           </did>
         </c02>
-        <c02 id="nam_apap073-8_9">
+        <c02 id="aspace_1dc12e9b33e5e7323c4b4826df89bd02" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">35</container>
             <unittitle>
               <emph render="italic">"Try Anything Once?"--Don't!</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1923">1923</unitdate>
+            <unitdate normal="1923/1923" type="inclusive">1923</unitdate>
+            <container id="aspace_4f85f7b0380e336bd7084aa01cc70274" label="Mixed Materials" type="Box">3 (8-Publications About Carleton Simon and His Work.)</container>
+            <container id="aspace_85694a1fc484290bfda2913865c3b3ff" parent="aspace_4f85f7b0380e336bd7084aa01cc70274" type="Folder">35</container>
           </did>
         </c02>
       </c01>

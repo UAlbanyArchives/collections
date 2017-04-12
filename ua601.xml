@@ -1,132 +1,146 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua601">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua601.html">nam_ua601</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua601">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua601.xml">ua601</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>DEPARTMENT OF ART AND ART HISTORY RECORDS (UA601)<date normal="1964/1978" type="inclusive">1964-1978</date></titleproper>
+        <titleproper>Art and Art History, Department of; Records <num>ua601</num></titleproper>
         <author>unprocessed</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2015" type="publication">Copyright 2015 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2015</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Conversion and encoding by ArchProteus, <date normal="2014">2014</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:53:10 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2014">2014</date>
+        <date>2014</date>
         <item>EAD file created</item>
+      </change>
+      <change>
+        <date>2014</date>
+        <item>Encoded in EAD by Conversion and encoding by ArchProteus</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua601</unitid>
-      <unittitle>Department of Art and Art History Records<unitdate normal="1964/1978" type="inclusive">1964-1978</unitdate></unittitle>
-      <abstract label="Abstract:">The collection consists of inactive records from the University at Albany's Art Department.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="local">Art Department</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">1</extent>
-      </physdesc>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Department of Art and Art History Records<unitdate normal="1964/1978" type="inclusive">1964-1978</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">Art Department</corpname>
+      </origination>
+      <unitid>ua601</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_e1b1cbf9f1e32fb0c0d96ef572a08b9f">The collection consists of inactive records from the University at Albany's Art Department.</abstract>
+      <langmaterial id="aspace_5089a70d5fe9359f2236297c579c30c5">English</langmaterial>
+      <physloc id="aspace_913b1b73baaafc5b898dddffafefb143">The materials are located onsite in the department.</physloc>
+      <container id="aspace_248e9dbb39fc924d03be59c7c7502897" label="Mixed Materials" type="Collection">X</container>
     </did>
-    <phystech>
+    <processinfo id="aspace_be0d6823faa8ca859f0220531d795be4">
+      <head>Processing Information</head>
+      <p>Processed in 2015 by unprocessed.</p>
+    </processinfo>
+    <phystech id="aspace_98348d74f7496612d33eee5b8b82f0dc">
+      <head>Physical Characteristics and Technical Requirements</head>
       <p>Web Archives</p>
     </phystech>
-    <bioghist>
+    <bioghist id="aspace_56647f7fc59f507a775833abe8a33ff9">
       <head>Biographical History</head>
-      <p>The University at Albany's created the Art Department in 1909 as the Department of Fine Arts, the current name was adopted in 1935.  The department's mission is to train artists and art historians as well as providing education for students with broad interests in the humanities. </p>
+      <p>The University at Albany's created the Art Department in 1909 as the Department of Fine Arts, the current name was adopted in 1935. The department's mission is to train artists and art historians as well as providing education for students with broad interests in the humanities.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>This collection consists of inactive records of University at Albany's Art Department including: Includes program proposals, annual reports, 1968-69, 1971-72, 1977-78; departmental meeting minutes, 1972; and photograph albums, Art Gallery exhibition catalogs and flyers, 1954-78.  </p>
+    <scopecontent id="aspace_fb340caed9d02fa6be3ee32129998140">
+      <head>Scope and Contents</head>
+      <p>This collection consists of inactive records of University at Albany's Art Department including: Includes program proposals, annual reports, 1968-69, 1971-72, 1977-78; departmental meeting minutes, 1972; and photograph albums, Art Gallery exhibition catalogs and flyers, 1954-78.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_b01373396cd9bd3b35665e9b481c34ae">
       <head>Arrangement of the Collection</head>
       <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_6ec3b642177d2a504259e7992d974ab8">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_6e6b9fca5dd383713ac927114fd406e1">
       <head>Access</head>
       <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. While it is likely that portions of the collection may be viewed, access must be managed by an archivist.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_e65a4e156321dde660b4d69a57e87801">
       <head>Copyright</head>
       <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_b6f6ac057d4c039b8bd9ba21cff4f119">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Art Department Records. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York.</p>
+      <p> Identification of specific item, series, box, folder, Art Department Records. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York.</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Art</subject>
-      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany-Art Department</corpname>
-      <genreform source="meg" encodinganalog="655">Web Archives</genreform>
+      <subject source="meg">Art</subject>
+      <genreform source="meg">Web Archives</genreform>
+      <corpname source="lcsh">State University of New York at Albany-Art Department</corpname>
     </controlaccess>
     <dsc>
-      <c01 id="nam_ua601-1" level="series">
+      <c01 id="aspace_07adf1903aa948811dfe96575210d659" level="series">
         <did>
-          <unitid>nam_ua601-1</unitid>
           <unittitle>Web Archives</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1999-10-11/2016-09-18">1999 October 11-2016 September 18</unitdate>
-          <physdesc>
-            <extent unit="captures">705</extent>
+          <unitid>nam_ua601-1</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">705 captures</extent>
           </physdesc>
+          <unitdate normal="1999-10-11/2016-09-18" type="inclusive">1999 October 11-2016 September 18</unitdate>
         </did>
-        <acqinfo>
+        <acqinfo id="aspace_e5adcb07d3245d56fa569915f88a78cd">
+          <head>Immediate Source of Acquisition</head>
           <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both the university's collection and the Internet Archive's public collection.</p>
-          <p>Surface-level crawling of www.albany.edu is performed daily which should includes most top-level webpages. Separate targeted crawls of every albany.edu subdomain are performed monthly to attempt to gather all content. This includes: www.albany.edu, www.rna.albany.edu, www.ctg.albany.edu, www.ualbanysports.com, www.albany.edu/rockefeller, www.albany.edu/cela, www.albany.edu/asrc, m.albany.edu,	library.albany.edu,	events.albany.edu,	cstar.cestm.albany.edu, csda.albany.edu, and alumni.albany.edu</p>
+          <p> Surface-level crawling of www.albany.edu is performed daily which should includes most top-level webpages. Separate targeted crawls of every albany.edu subdomain are performed monthly to attempt to gather all content. This includes: www.albany.edu, www.rna.albany.edu, www.ctg.albany.edu, www.ualbanysports.com, www.albany.edu/rockefeller, www.albany.edu/cela, www.albany.edu/asrc, m.albany.edu,	library.albany.edu,	events.albany.edu,	cstar.cestm.albany.edu, csda.albany.edu, and alumni.albany.edu</p>
         </acqinfo>
-        <phystech>
+        <phystech id="aspace_1d22bd126653ff0003de8f1a1adf7a75">
+          <head>Physical Characteristics and Technical Requirements</head>
           <p>Web Archives</p>
         </phystech>
-        <c02 id="nam_ua601-1_1">
+        <c02 id="aspace_1429dd057546de1c005d40faab8715d8" level="file">
           <did>
-            <container type="Web-Archive">1</container>
             <unittitle>http://www.albany.edu/finearts/ - University Archives collection</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2013-05-08/2016-09-18">2013 May 8-2016 September 18</unitdate>
-            <dao actuate="onrequest" linktype="simple" show="new" href="http://wayback.archive-it.org/3308/*/http://www.albany.edu/finearts/"/>
+            <unitdate normal="2013-05-08/2016-09-18" type="inclusive">2013 May 8-2016 September 18</unitdate>
+            <container id="aspace_ca9aa4a696459d04903591f6b28ca0b2" label="Mixed Materials" type="Web-Archive">1</container>
+            <dao xlink:actuate="onrequest" xlink:href="http://wayback.archive-it.org/3308/*/http://www.albany.edu/finearts/" xlink:show="new" xlink:title="http://www.albany.edu/finearts/ - University Archives collection">
+              <daodesc>
+                <p>http://www.albany.edu/finearts/ - University Archives collection</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
-        <c02 id="nam_ua601-1_2">
+        <c02 id="aspace_a9da21670fe9dd12eae58a549dbefef6" level="file">
           <did>
-            <container type="WARC">1</container>
             <unittitle>WARC file for http://www.albany.edu/finearts/, (please see https://en.wikipedia.org/wiki/Web_ARChive for more details)</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2013-05-08/2016-09-18">2013 May 8-2016 September 18</unitdate>
+            <unitdate normal="2013-05-08/2016-09-18" type="inclusive">2013 May 8-2016 September 18</unitdate>
+            <container id="aspace_8cf72946b80a91b702c42806ebec5989" label="Mixed Materials" type="WARC">1</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_f9c36342bc1288c9fd2f84c460e90513">
+            <head>Conditions Governing Access</head>
             <p>WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in researching with web archives.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua601-1_3">
+        <c02 id="aspace_c0691a9ed8d1c5639e3742d03aaa0184" level="file">
           <did>
-            <container type="Web-Archive">2</container>
             <unittitle>http://www.albany.edu/finearts/ - Internet Archive collection</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1999-10-11/2016-09-18">1999 October 11-2016 September 18</unitdate>
-            <dao actuate="onrequest" linktype="simple" show="new" href="https://web.archive.org/web/*/http://www.albany.edu/finearts/"/>
+            <unitdate normal="1999-10-11/2016-09-18" type="inclusive">1999 October 11-2016 September 18</unitdate>
+            <container id="aspace_d54f48a5dff943a11b04f5c05364b8b2" label="Mixed Materials" type="Web-Archive">2</container>
+            <dao xlink:actuate="onrequest" xlink:href="https://web.archive.org/web/*/http://www.albany.edu/finearts/" xlink:show="new" xlink:title="http://www.albany.edu/finearts/ - Internet Archive collection">
+              <daodesc>
+                <p>http://www.albany.edu/finearts/ - Internet Archive collection</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
       </c01>

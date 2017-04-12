@@ -1,87 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua000.003">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua000.003.html">nam_ua000.003</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua000.003">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua000.003.xml">ua000.003</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>ASSOCIATE VICE PRESIDENT FOR COMMUNITY ENGAGEMENT RECORDS (UA000.003)<date normal="2000/2015" type="inclusive">2000-2015</date></titleproper>
+        <titleproper>Community Engagement, Associate Vice President for; Records <num>ua000.003</num></titleproper>
         <author>unprocessed</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2016" type="publication">Copyright 2016 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2016</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Gregory Wiedeman<date normal="2016-02">2016 February</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:39:53 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2014">2014</date>
+        <date>2014</date>
         <item>EAD file created</item>
+      </change>
+      <change>
+        <date>2016 February</date>
+        <item>Encoded in EAD by Gregory Wiedeman</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua000.003</unitid>
-      <unittitle>Associate Vice President for Community Engagement Records<unitdate normal="2000/2015" type="inclusive">2000-2015</unitdate></unittitle>
-      <abstract label="Abstract:">Records of Miriam Trementozzi document the University at Alabny, SUNY's numerous public and community outreach efforts. </abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <persname encodinganalog="100" source="local">State University of New York at Albany. Associate Vice President for Community Engagement</persname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">3.0</extent>
-      </physdesc>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Associate Vice President for Community Engagement Records<unitdate normal="2000/2015" type="inclusive">2000-2015</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="local">State University of New York at Albany. Associate Vice President for Community Engagement</persname>
+      </origination>
+      <unitid>ua000.003</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3.0 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_c152c67d0b7ad1cda3f06996f508d9c0">Records of Miriam Trementozzi document the University at Alabny, SUNY's numerous public and community outreach efforts.</abstract>
+      <langmaterial id="aspace_5baef5cecc44bfb87ea253f82399c28b">English</langmaterial>
+      <physloc id="aspace_6483ca702d7330919afa6f2e87684017">The materials are located onsite in the department.</physloc>
+      <container id="aspace_12f22496b79947cc92dc819430f0fcfd" label="Mixed Materials" type="Collection">X</container>
     </did>
-    <bioghist>
+    <processinfo id="aspace_0499155f19ebf216dee9b243d3329bb3">
+      <head>Processing Information</head>
+      <p>Processed in 2016 by unprocessed.</p>
+    </processinfo>
+    <bioghist id="aspace_4477ee66a6d037ab20b6382a05ee0e37">
       <head>Administrative History</head>
-      <p>As Associate Vice President for Community Engagement from 2006-2016, Miriam Trementozzi led numerous public outreach efforts such as Hudson 400, Albany Promise, China Engagement, neighborhood revitalization efforts, the UAlbany-Albany High School Alliance, Summit on Preventing Student Alcohol Abuse, and the Environmental Sustainability Task Force.  </p>
+      <p>As Associate Vice President for Community Engagement from 2006-2016, Miriam Trementozzi led numerous public outreach efforts such as Hudson 400, Albany Promise, China Engagement, neighborhood revitalization efforts, the UAlbany-Albany High School Alliance, Summit on Preventing Student Alcohol Abuse, and the Environmental Sustainability Task Force.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_9f7dd161d1298ac30ee417376346bb5b">
+      <head>Scope and Contents</head>
       <p>This collection documents numerous public and community outreach efforts. Included is correspondence, working drafts, internal reference materials, brochures and other publicity documents.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_ca1e85899011c3a881f0ebb7ba20a521">
       <head>Arrangement of the Collection</head>
       <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_05dbb32ed39ae07cacdf530111478c92">
       <head>Acquisition Information</head>
       <p>All items in this collection were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives by Miriam Trementozzi.<date normal="2015-08">2015 August</date></p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_649271f9c9075c088f9dfce66c41739f">
       <head>Access</head>
       <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. While it is likely that portions of the collection may be viewed, access must be managed by an archivist.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_5952dc98c3e1595767f877b367181680">
       <head>Copyright</head>
       <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_c492ccc444963d34afe6175a3bf309d2">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Associate Vice President for Community Engagement Records,  2000-2015. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the  Associate Vice President for Community Engagement Records).</p>
+      <p> Identification of specific item, series, box, folder, Associate Vice President for Community Engagement Records, 2000-2015. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Associate Vice President for Community Engagement Records).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany.</corpname>
-      <subject encodinganalog="650" source="lcsh">Education, Higher--United States--Administration</subject>
-      <subject encodinganalog="650" source="lcsh">Community participation--United States. </subject>
+      <subject source="lcsh">Education, Higher--United States--Administration</subject>
+      <subject source="lcsh">Community participation--United States.</subject>
+      <corpname source="lcsh">State University of New York at Albany.</corpname>
     </controlaccess>
+    <dsc/>
   </archdesc>
 </ead>

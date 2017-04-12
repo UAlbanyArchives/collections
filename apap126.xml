@@ -1,1743 +1,1729 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap126">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap126.xml" identifier="##">nam_apap126</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap126">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap126.xml">apap126</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>NEW YORK PUBLIC WELFARE ASSOCIATION RECORDS (APAP126)<date normal="1928/1995" type="inclusive">1928-1995</date></titleproper>
+        <titleproper>New York Public Welfare Association; Records <num>apap126</num></titleproper>
         <author>Mike Campeta</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2012">Copyright 2012 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2012</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Christopher Velez<date normal="2013">2013</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 14:14:46 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2013</date>
+        <item>Encoded in EAD by Christopher Velez</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>NEW YORK PUBLIC WELFARE ASSOCIATION RECORDS (APAP126)<date normal="1928/1995" type="inclusive">1928-1995</date></titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2012</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap126</unitid>
-      <unittitle>New York Public Welfare Association Records<unitdate type="inclusive" normal="1928/1995" label="Date:">1928-1995</unitdate></unittitle>
-      <origination>
-        <corpname encodinganalog="110" source="local">New York Public Welfare Association</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">10.6</extent>
-      </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">The collection documents a sixty-seven year time span (1928-1995) of the New York Public Welfare Association and contains a wealth of material related to the history and diverse functions of the organization including correspondence, memos, minutes of meetings, expenditures, and other files. </abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>New York Public Welfare Association Records<unitdate normal="1928/1995" type="inclusive">1928-1995</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">New York Public Welfare Association</corpname>
+      </origination>
+      <unitid>apap126</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">10.6 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_a8479063678b6b61649d500e8bd79ecf">The collection documents a sixty-seven year time span (1928-1995) of the New York Public Welfare Association and contains a wealth of material related to the history and diverse functions of the organization including correspondence, memos, minutes of meetings, expenditures, and other files.</abstract>
+      <langmaterial id="aspace_031a8dd50c64a989e4a302d0ee4cb127">English</langmaterial>
+      <physloc id="aspace_2bc664f4a29cdf29120c4aebc67cff7a">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_99b03a47773ea5e1f452e6c037014635">
+      <head>Processing Information</head>
+      <p>Processed in 2012 by Mike Campeta.</p>
+    </processinfo>
+    <accessrestrict id="aspace_a6cd260074375bafb962399b5ad3c7e5">
       <head>Access</head>
-      <p> Access to this record group is unrestricted </p>
+      <p>Access to this record group is unrestricted</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_3d9be0aab931fb9a7baa849d75c1e58c">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_bcdb5d845182d0b3b570d896ae034fe2">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by Sheila Harrigan, president of the New York Public Welfare Association, on November 8, 2001.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_d2ff01d60eba00011cdf08d09f9684e4">
       <head>Administrative History</head>
-      <p> The New York Public Welfare Association (1949) was formerly known as the New York State Association of Public Welfare Officials (1929), the Association of County Superintendents of the Poor and Poor Law Officers (1918), and the County Superintendents of the Poor (1870). The Association is a non-profit organization acting as an agency of the public welfare districts of the state in order to establish ways for obtaining the most economical and efficient administration of public assistance. The New York Public Welfare Association studies issues of public welfare administration, provides its members with an opportunity to exchange ideas and to benefit by the advice of experts in the field and suggests and develops better ways of providing for those individuals who need public welfare services. In order to carry out its work, the New York Public Welfare Association has two regular meetings each year. A mid-winter meeting is held in Albany and an annual meeting is also held, usually in another part of the state. Special meetings may also be called by the president or members of the Executive Committee. The officers of the association are elected at the annual meeting and take office at its adjournment.</p>
-      <p>The association is able to accomplish its objectives through its standing and special committees. The constitution and by-laws of the association provide for the following standing committees: the Executive Committee which directs the work of the association and consists of the officers and several members; Legislative Committee; Program of Meeting Committee; Time and Place Committee; Nominating Committee; Audit Committee; and Entertainment Committee.[2] The chairs and members of these committees are appointed by the President. Any member of the association is eligible for appointment on any standing or special committee of the association. The special committees are created to study and suggest improvements and solutions to specific problems of public welfare administration services and at times to define certain welfare theories.</p>
-      <p>If a specific modification in law is required to bring a needed change in public welfare administration practices, the Legislative Committee drafts a bill proposing such change and has it introduced in the state legislature. The decisions and influence of the association and the State Department of Social Welfare are made known and if such a change is deemed appropriate, the law is usually amended and passed by the legislature.[3] </p>
-      <p> The New York Public Welfare Association also works with the State Departments of Social Welfare and Mental Hygiene and has associate members from these departments who are active in the work of all committees. Through such close contact and cooperation changes are studied, formulated, accepted, and put into operation, which makes for a more efficient and economical administration of public welfare assistance.</p>
+      <p>The New York Public Welfare Association (1949) was formerly known as the New York State Association of Public Welfare Officials (1929), the Association of County Superintendents of the Poor and Poor Law Officers (1918), and the County Superintendents of the Poor (1870). The Association is a non-profit organization acting as an agency of the public welfare districts of the state in order to establish ways for obtaining the most economical and efficient administration of public assistance. The New York Public Welfare Association studies issues of public welfare administration, provides its members with an opportunity to exchange ideas and to benefit by the advice of experts in the field and suggests and develops better ways of providing for those individuals who need public welfare services. In order to carry out its work, the New York Public Welfare Association has two regular meetings each year. A mid-winter meeting is held in Albany and an annual meeting is also held, usually in another part of the state. Special meetings may also be called by the president or members of the Executive Committee. The officers of the association are elected at the annual meeting and take office at its adjournment.</p>
+      <p> The association is able to accomplish its objectives through its standing and special committees. The constitution and by-laws of the association provide for the following standing committees: the Executive Committee which directs the work of the association and consists of the officers and several members; Legislative Committee; Program of Meeting Committee; Time and Place Committee; Nominating Committee; Audit Committee; and Entertainment Committee.[2] The chairs and members of these committees are appointed by the President. Any member of the association is eligible for appointment on any standing or special committee of the association. The special committees are created to study and suggest improvements and solutions to specific problems of public welfare administration services and at times to define certain welfare theories.</p>
+      <p> If a specific modification in law is required to bring a needed change in public welfare administration practices, the Legislative Committee drafts a bill proposing such change and has it introduced in the state legislature. The decisions and influence of the association and the State Department of Social Welfare are made known and if such a change is deemed appropriate, the law is usually amended and passed by the legislature.[3] </p>
+      <p>  The New York Public Welfare Association also works with the State Departments of Social Welfare and Mental Hygiene and has associate members from these departments who are active in the work of all committees. Through such close contact and cooperation changes are studied, formulated, accepted, and put into operation, which makes for a more efficient and economical administration of public welfare assistance.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_1fce389821bab622d3b30cb4cdb9f7cf">
+      <head>Scope and Contents</head>
       <p>The collection documents a sixty-seven year time span (1928-1995) of the New York Public Welfare Association and contains a wealth of material related to the history and diverse functions of the organization including correspondence, memos, minutes of meetings, expenditures, and other files. Most proceedings of the association prior to this collection are held at the New York State Library in Albany.</p>
-      <p>The early portion of the collection is composed of records retained by Elsie M. (Murdoch) Bond who, from 1932 to 1949, was a secretary, assistant secretary and then the executive secretary of the association. Although the New York Public Welfare Association has always been based in Albany, Miss Bond worked at the Manhattan office. As executive secretary, she organized the association's numerous meetings, which occurred throughout the state. In 1928, the annual meeting took place at Big Moose, New York. In the 1930s and 1940s most of the association meetings were held at the Saranac Inn in Saranac Lake, the Sagamore in Bolton Landing and the Ten Eyck Hotel in Albany. The mid-winter meeting, held annually each February, took place in Albany usually at the Ten Eyck Hotel.</p>
-      <p>Throughout the 1930s and 1940s, Elsie M. Bond was one of the most respected figures in public welfare in New York State. Her correspondence, memos, reports and records are testament to her in-depth knowledge of the most current practices and procedures in public welfare of the day. Miss Bond remained active with the public welfare association until her retirement in 1949.</p>
-      <p>The Association chose to rename the organization to its current name in 1949, the same time Miss Bond retired. An interesting situation occurred in which Miss Bond had to legally prove her office and therefore the Association's headquarters resided in New York City's district number one. At that time, in order for the name change to go through, the old organization had to be dissolved and a justice of the Supreme Court from the organization's district had to sign off on the legal papers. Miss Bond's 1949 files cover this interesting event and contain duplications of the 1918 and 1928 incorporation papers as well as a certified statement that her NYC office was in fact the organization's headquarters.</p>
-      <p>Elsie M. Bond authored two books dealing with public welfare in New York State. The first, published in 1936 was entitled Public Relief in New York State: a Summary of the Public Relief Law and Related Statutes. The second was published in 1938 and was titled Public Relief in New York State: a Summary of the Public Welfare Law and Related Statutes with 1938 Amendments. The books present a summary of the comprehensive Great Depression era welfare laws and both titles are currently held by the New York State Library.</p>
-      <p>The files retained by Elsie M. Bond from 1932 to 1949 provide an overview of the New York State Association of Public Welfare Officials and its multitude of daily activities. These records are by far the best part of the collection and provide much detail regarding the numerous meetings, conferences and laws which deal with public welfare policy during the Great Depression, World War II and the post war period up to 1949.</p>
-      <p>The strength of the collection lies in the rich history and growth of this organization as seen through the papers maintained by the individuals involved. Numerous correspondence from Elsie M. Bond to government officials are noteworthy; among them is a letter dated February 25, 1932 in which Franklin D. Roosevelt, then governor of the state, is informed about a resolution passed at the Mid Winter Conference held in January of that year. Also of interest is the issue of welfare in wartime and such was the theme of the annual conference held in 1943. Copies of speeches, some given at the annual and mid-winter meetings, are also of interest. In 1933, a speech given by Governor Lehman proclaims he applied for federal aid for state relief at the height of the Great Depression. Robert T. Lansdale, New York State Commissioner of Social Welfare, delivered a speech entitled A Major Problem of Public Welfare: the Growing Complexity of Administering Public Assistance before the New York State Welfare Conference on November 17, 1952. Miss Marion Rickert presented a speech on Integration of Medical Care and Social Services in Public Welfare at a regional meeting of the association on September 11, 1959. An important case study of public welfare was conducted in Newburgh, New York in 1961; a folder is dedicated to this study. A speech entitled Perspectives on Newburgh was given by Gordon E. Brown, executive director of the State Charities Aid Association of New York City to the State Committee on Children and Public Welfare at the Gramercy Park Hotel in New York City on December 8, 1961.</p>
-      <p>From the 1930s through the 1990s, committee meetings were always a focal point and numerous correspondences, minutes of meetings and agendas are maintained which illustrate the evolving nature of public welfare in New York State. The collection does not contain many records from the mid to late 1980's and very sporadic records from the 1990's. The annual conference was crucial to the success of the organization for it allowed public welfare officials the opportunity to meet, share ideas and collaborate collectively on important issues. Several folders contain information on the annual meetings. A separate series contains conference brochures from 1928 through 1985 and an artifact box contains decorative memorabilia conference badges from the 1940s.</p>
-      <p>As the 1960s and 1970s progressed, more current issues such as Medicaid, Medicare and Social Security were often discussed in correspondence, meetings and agendas. In the 1980s and 1990s, correspondence, meetings and agendas often involved such topics as Welfare Fraud, Managed Care, Child Support and Personnel Training.</p>
-      <p>Although the collection contains a plethora of correspondence and agendas on numerous committees and meetings, it lacks the total substance of the progressive nature of public assistance as it developed through the Depression to the 1990s. Few state or federal programs existed in the 1930s to provide temporary assistance to people during the Great Depression. A more detailed analysis of the growth and development of such services as Unemployment Relief (known today as Unemployment Insurance), which began in the 1930s, would provide an in-depth overview of this program and how it evolved throughout the course of sixty years. Contemporary issues such as Managed Care are prominent in the 1990s but lack the appropriate parameters to fully understand what this federal program entails or how it developed. More information on welfare issues, how public assistance changed from the 1930s to the 1990s, and a history of welfare fraud in later years would also be beneficial to the collection.</p>
+      <p> The early portion of the collection is composed of records retained by Elsie M. (Murdoch) Bond who, from 1932 to 1949, was a secretary, assistant secretary and then the executive secretary of the association. Although the New York Public Welfare Association has always been based in Albany, Miss Bond worked at the Manhattan office. As executive secretary, she organized the association's numerous meetings, which occurred throughout the state. In 1928, the annual meeting took place at Big Moose, New York. In the 1930s and 1940s most of the association meetings were held at the Saranac Inn in Saranac Lake, the Sagamore in Bolton Landing and the Ten Eyck Hotel in Albany. The mid-winter meeting, held annually each February, took place in Albany usually at the Ten Eyck Hotel.</p>
+      <p> Throughout the 1930s and 1940s, Elsie M. Bond was one of the most respected figures in public welfare in New York State. Her correspondence, memos, reports and records are testament to her in-depth knowledge of the most current practices and procedures in public welfare of the day. Miss Bond remained active with the public welfare association until her retirement in 1949.</p>
+      <p> The Association chose to rename the organization to its current name in 1949, the same time Miss Bond retired. An interesting situation occurred in which Miss Bond had to legally prove her office and therefore the Association's headquarters resided in New York City's district number one. At that time, in order for the name change to go through, the old organization had to be dissolved and a justice of the Supreme Court from the organization's district had to sign off on the legal papers. Miss Bond's 1949 files cover this interesting event and contain duplications of the 1918 and 1928 incorporation papers as well as a certified statement that her NYC office was in fact the organization's headquarters.</p>
+      <p> Elsie M. Bond authored two books dealing with public welfare in New York State. The first, published in 1936 was entitled Public Relief in New York State: a Summary of the Public Relief Law and Related Statutes. The second was published in 1938 and was titled Public Relief in New York State: a Summary of the Public Welfare Law and Related Statutes with 1938 Amendments. The books present a summary of the comprehensive Great Depression era welfare laws and both titles are currently held by the New York State Library.</p>
+      <p> The files retained by Elsie M. Bond from 1932 to 1949 provide an overview of the New York State Association of Public Welfare Officials and its multitude of daily activities. These records are by far the best part of the collection and provide much detail regarding the numerous meetings, conferences and laws which deal with public welfare policy during the Great Depression, World War II and the post war period up to 1949.</p>
+      <p> The strength of the collection lies in the rich history and growth of this organization as seen through the papers maintained by the individuals involved. Numerous correspondence from Elsie M. Bond to government officials are noteworthy; among them is a letter dated February 25, 1932 in which Franklin D. Roosevelt, then governor of the state, is informed about a resolution passed at the Mid Winter Conference held in January of that year. Also of interest is the issue of welfare in wartime and such was the theme of the annual conference held in 1943. Copies of speeches, some given at the annual and mid-winter meetings, are also of interest. In 1933, a speech given by Governor Lehman proclaims he applied for federal aid for state relief at the height of the Great Depression. Robert T. Lansdale, New York State Commissioner of Social Welfare, delivered a speech entitled A Major Problem of Public Welfare: the Growing Complexity of Administering Public Assistance before the New York State Welfare Conference on November 17, 1952. Miss Marion Rickert presented a speech on Integration of Medical Care and Social Services in Public Welfare at a regional meeting of the association on September 11, 1959. An important case study of public welfare was conducted in Newburgh, New York in 1961; a folder is dedicated to this study. A speech entitled Perspectives on Newburgh was given by Gordon E. Brown, executive director of the State Charities Aid Association of New York City to the State Committee on Children and Public Welfare at the Gramercy Park Hotel in New York City on December 8, 1961.</p>
+      <p> From the 1930s through the 1990s, committee meetings were always a focal point and numerous correspondences, minutes of meetings and agendas are maintained which illustrate the evolving nature of public welfare in New York State. The collection does not contain many records from the mid to late 1980's and very sporadic records from the 1990's. The annual conference was crucial to the success of the organization for it allowed public welfare officials the opportunity to meet, share ideas and collaborate collectively on important issues. Several folders contain information on the annual meetings. A separate series contains conference brochures from 1928 through 1985 and an artifact box contains decorative memorabilia conference badges from the 1940s.</p>
+      <p> As the 1960s and 1970s progressed, more current issues such as Medicaid, Medicare and Social Security were often discussed in correspondence, meetings and agendas. In the 1980s and 1990s, correspondence, meetings and agendas often involved such topics as Welfare Fraud, Managed Care, Child Support and Personnel Training.</p>
+      <p> Although the collection contains a plethora of correspondence and agendas on numerous committees and meetings, it lacks the total substance of the progressive nature of public assistance as it developed through the Depression to the 1990s. Few state or federal programs existed in the 1930s to provide temporary assistance to people during the Great Depression. A more detailed analysis of the growth and development of such services as Unemployment Relief (known today as Unemployment Insurance), which began in the 1930s, would provide an in-depth overview of this program and how it evolved throughout the course of sixty years. Contemporary issues such as Managed Care are prominent in the 1990s but lack the appropriate parameters to fully understand what this federal program entails or how it developed. More information on welfare issues, how public assistance changed from the 1930s to the 1990s, and a history of welfare fraud in later years would also be beneficial to the collection.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_c11b350e01fa7d1d3614222ece88ae66">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series:</p>
-      <list type="simple">
-        <item>Series 1: Meetings, 1928-1994, 2.2 cubic ft.</item>
-        <item>Subseries 1: Brochures, 1928-1985, .2cubic ft.</item>
-        <item>Subseries 2: Minutes, 1937-1994, .2 cubic ft.</item>
-        <item>Series 2: Committees, 1938-1985, .2 cubic ft.</item>
-        <item>Series 3: Correspondence, 1938-1995, 4 cubic ft.</item>
-        <item>Series 4: Elsie M. Bond, 1932-1949, .6 cubic ft.</item>
-        <item>Series 5: Administration, 1937-1994, .6 cubic ft.</item>
-        <item>Series 6: Surveys, 1979-1986, .4 cubic ft.</item>
-        <item>Series 7: Legal Issues, 1970-1995, .4 cubic ft.</item>
-        <item>Series 8: Programs, 1961-1994, 1.4 cubic ft.</item>
-      </list>
       <p>All series are arranged alphabetically with the exception of Series 1 (subseries 2), Series 3, and Series 4 which is arranged chronologically.</p>
     </arrangement>
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Social Activists and Public Advocates</subject>
-      <subject source="meg" encodinganalog="650">Senior Citizens</subject>
-      <subject source="meg" encodinganalog="650">Medicine and Health Care</subject>
-      <corpname encodinganalog="610" source="local">New York Public Welfare Association Records</corpname>
-      <corpname encodinganalog="610" source="lcsh">Public welfare administration--New York (State)--Evaluation</corpname>
-      <subject encodinganalog="650" source="lcsh">Correspondence, Government</subject>
-      <subject encodinganalog="650" source="lcsh">Public Welfare administration--New York (State)</subject>
-      <subject encodinganalog="650" source="lcsh">Bond, Elsie Murdoch</subject>
-      <subject encodinganalog="650" source="lcsh">Income maintenance programs--New York (State)</subject>
-      <subject encodinganalog="650" source="lcsh">Surveys--Evaluation.</subject>
-      <subject encodinganalog="650" source="lcsh">Legislation--New York (State)</subject>
-      <subject encodinganalog="650" source="lcsh">New York Region--History.</subject>
-      <subject encodinganalog="650" source="lcsh">Fiscal policy--New York (State)</subject>
-      <geogname encodinganalog="651" source="lcsh">Albany (N.Y.)</geogname>
-      <genreform encodinganalog="655" source="aat">Surveys (documents)</genreform>
-      <genreform encodinganalog="655" source="aat">Public Policy</genreform>
-      <genreform encodinganalog="655" source="aat">Administrative records</genreform>
-      <genreform encodinganalog="655" source="aat">Brochures</genreform>
-      <genreform encodinganalog="655" source="aat">Minutes</genreform>
-      <genreform encodinganalog="655" source="aat">Programs (documents)</genreform>
-      <genreform encodinganalog="655" source="aat">Financial records</genreform>
-      <genreform encodinganalog="655" source="aat">Government Employees</genreform>
-      <genreform encodinganalog="655" source="aat">Speeches (documents)</genreform>
-    </controlaccess>
-    <prefercite>
+    <prefercite id="aspace_6cb1f6f071812699f020a9b8f0f0e0ae">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, New York Public Welfare Association Records, 1928-1995. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, New York Public Welfare Association Records, 1928-1995. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
-    <dsc type="combined">
-      <head>Container List</head>
-      <!-- Start series 1-->
-      <c01 level="series" id="nam_apap126-1">
+    <controlaccess>
+      <subject source="meg">Social Activists and Public Advocates</subject>
+      <subject source="meg">Senior Citizens</subject>
+      <subject source="meg">Medicine and Health Care</subject>
+      <subject source="lcsh">Correspondence, Government</subject>
+      <subject source="lcsh">Public Welfare administration--New York (State)</subject>
+      <subject source="lcsh">Bond, Elsie Murdoch</subject>
+      <subject source="lcsh">Income maintenance programs--New York (State)</subject>
+      <subject source="lcsh">Surveys--Evaluation.</subject>
+      <subject source="lcsh">Legislation--New York (State)</subject>
+      <subject source="lcsh">New York Region--History.</subject>
+      <subject source="lcsh">Fiscal policy--New York (State)</subject>
+      <geogname source="lcsh">Albany (N.Y.)</geogname>
+      <genreform source="aat">Surveys (documents)</genreform>
+      <genreform source="aat">Public Policy</genreform>
+      <genreform source="aat">Administrative records</genreform>
+      <genreform source="aat">Brochures</genreform>
+      <genreform source="aat">Minutes</genreform>
+      <genreform source="aat">Programs (documents)</genreform>
+      <genreform source="aat">Financial Records</genreform>
+      <genreform source="aat">Government Employees</genreform>
+      <genreform source="aat">Speeches (documents)</genreform>
+      <corpname source="local">New York Public Welfare Association Records</corpname>
+      <corpname source="lcsh">Public welfare administration--New York (State)--Evaluation</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_0fc8635bd6034ed77ccd7f182df738dc" level="series">
         <did>
+          <unittitle>Meetings</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Meetings</unittitle>
-          <unitdate type="inclusive" normal="1928/1994">1928-1994</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">2.2</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2.2 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1928/1994" type="inclusive">1928-1994</unitdate>
         </did>
-        <c02 level="subseries" id="nam_apap126-1.1">
+        <c02 id="aspace_4a69d5a32866abfff57692ea5f8f70e2" level="subseries">
           <did>
+            <unittitle>Brochures</unittitle>
             <unitid>1.1</unitid>
-            <unittitle label="Subseries">Brochures</unittitle>
-            <unitdate type="inclusive" normal="1928/1994">1928-1985</unitdate>
-            <physdesc>
-              <extent unit="cubic ft.">0.2</extent>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">0.2 cubic ft.</extent>
             </physdesc>
+            <unitdate normal="1928/1994" type="inclusive">1928-1985</unitdate>
           </did>
-          <arrangement>
+          <arrangement id="aspace_df781e4376a4f58b7889149ff6d81781">
+            <head>Arrangement</head>
             <p>Arranged alphabetically.</p>
           </arrangement>
-          <scopecontent>
+          <scopecontent id="aspace_1de8522fba3904d4d7d2d69c6fd6c7f5">
+            <head>Scope and Contents</head>
             <p>There are three types of brochures in this series; annual meeting, mid-winter meeting, and training. The dates are not inclusive as many of the more recent years are missing. Many of the meeting brochures contain comprehensive lists of officers. The brochures have attractive covers that picture the resort or hotel where the conference is held as well as agendas of the meetings. There are many preliminary programs dispersed throughout the brochures. The training brochures are sparse and represent only a small fraction of the training that the organization participated in.</p>
           </scopecontent>
-          <c03 id="nam_apap126-1.1_1">
+          <c03 id="aspace_fac1692313885d01e0551194eea781e0" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">1</container>
               <unittitle>Annual</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1928/1959">1928-1959</unitdate>
+              <unitdate normal="1928/1959" type="inclusive">1928-1959</unitdate>
+              <container id="aspace_2cc600035e3b524a828ff6b90891e5bd" label="Mixed Materials" type="Box">1 (1-Meetings)</container>
+              <container id="aspace_7fbb06e2fbcd0c0c3434c7485ecbcf9d" parent="aspace_2cc600035e3b524a828ff6b90891e5bd" type="Folder">1</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.1_2">
+          <c03 id="aspace_791beabb78d86a5ac314de2bc18171d0" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">2</container>
               <unittitle>Annual</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960/1983">1960-1983</unitdate>
+              <unitdate normal="1960/1983" type="inclusive">1960-1983</unitdate>
+              <container id="aspace_c140723e970d73f6e4948c03a35a9a96" label="Mixed Materials" type="Box">1 (1-Meetings)</container>
+              <container id="aspace_aaebb7afac1b1109bdbff443da5b03f0" parent="aspace_c140723e970d73f6e4948c03a35a9a96" type="Folder">2</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.1_3">
+          <c03 id="aspace_9bb3b17cce1645e1546c3c00520008a7" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">3</container>
               <unittitle>Mid-Winter</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1939/1985">1939-1985</unitdate>
+              <unitdate normal="1939/1985" type="inclusive">1939-1985</unitdate>
+              <container id="aspace_8586fafe1d613a3ebdb0cca0362a75b8" label="Mixed Materials" type="Box">1 (1-Meetings)</container>
+              <container id="aspace_8e156a58c70e89a7469fe160c5818310" parent="aspace_8586fafe1d613a3ebdb0cca0362a75b8" type="Folder">3</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.1_4">
+          <c03 id="aspace_150c068a22985c13325cef015e53d0d0" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">4</container>
               <unittitle>Training</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1983">1958-1983</unitdate>
+              <unitdate normal="1958/1983" type="inclusive">1958-1983</unitdate>
+              <container id="aspace_0593e5b78cdf6b480a9310672f4df7ea" label="Mixed Materials" type="Box">1 (1-Meetings)</container>
+              <container id="aspace_13366953e2755e55bce311ec7d05bb93" parent="aspace_0593e5b78cdf6b480a9310672f4df7ea" type="Folder">4</container>
             </did>
           </c03>
         </c02>
-        <c02 level="subseries" id="nam_apap126-1.2">
+        <c02 id="aspace_da07b6cd1fa5d6bad5492318934ae34a" level="subseries">
           <did>
+            <unittitle>Minutes</unittitle>
             <unitid>1.2</unitid>
-            <unittitle label="Subseries">Minutes</unittitle>
-            <unitdate type="inclusive" normal="1928/1995">1937-1994</unitdate>
-            <physdesc>
-              <extent unit="cubic ft.">2</extent>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">2 cubic ft.</extent>
             </physdesc>
+            <unitdate normal="1928/1995" type="inclusive">1937-1994</unitdate>
           </did>
-          <arrangement>
+          <arrangement id="aspace_fe1316b41241e96426a85bb389a54f29">
+            <head>Arrangement</head>
             <p>Arranged chronologically.</p>
           </arrangement>
-          <scopecontent>
+          <scopecontent id="aspace_8ec1864dc1c1bd1166eb35fb593484ad">
+            <head>Scope and Contents</head>
             <p>This series combines all meetings, both annual and mid-winter, into folders arranged by year. These dates are not inclusive, most years are completed but there are a couple missing. Of special note is the first folder that contains a list of locations where proceedings of meetings from the founding in 1870 until the 1930's can be found (usually the New York State Library). This series contains meeting minutes, speeches, correspondence, and agendas. There is an abundance of correspondence surrounding the planning and reservations for the meetings held bi-annually. Great care was taken with this series to arrange every record chronological by day and month within each year. Many letters related to the mid-winter conference, usually held in February, would be found in the previous year's records. Records related to the bi-annual meetings are found in other series such as Elsie M. Bond's files and the correspondence files.</p>
           </scopecontent>
-          <c03 id="nam_apap126-1.2_1">
+          <c03 id="aspace_33bd62742741a2100ba83d6ef6b80fdf" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">1</container>
               <unittitle>Minutes, Locator List</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937">ca. 1937</unitdate>
+              <unitdate normal="1937/1937" type="inclusive">ca. 1937</unitdate>
+              <container id="aspace_c18e8709cf859e2d3d703d4cf023f9ec" label="Mixed Materials" type="Box">1 (1-Meetings)</container>
+              <container id="aspace_172b4666e45823c78911f78827c7e457" parent="aspace_c18e8709cf859e2d3d703d4cf023f9ec" type="Folder">1</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_2">
+          <c03 id="aspace_2c092dcc3f3dbe2b74c1c52fbcd3e4c0" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">2</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937/1938">1937-1938</unitdate>
+              <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
+              <container id="aspace_8eba9fb7b6b864a10d712bd3c140453b" label="Mixed Materials" type="Box">1 (1-Meetings)</container>
+              <container id="aspace_857d6ca84c8fe0cd9cb19b868bc7d143" parent="aspace_8eba9fb7b6b864a10d712bd3c140453b" type="Folder">2</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_3">
+          <c03 id="aspace_59d62b37060adfd6b52bce8862d41d2d" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">3</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1939/1940">1939-1940</unitdate>
+              <unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate>
+              <container id="aspace_8a94f1217f6fa72e980688ffa31a960c" label="Mixed Materials" type="Box">1 (1-Meetings)</container>
+              <container id="aspace_ec5b4f619732044cf3c7cfc1da82d481" parent="aspace_8a94f1217f6fa72e980688ffa31a960c" type="Folder">3</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_4">
+          <c03 id="aspace_68ff59528d7e348fe2fd68635b546351" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">4</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941/1946">1941-1946</unitdate>
+              <unitdate normal="1941/1946" type="inclusive">1941-1946</unitdate>
+              <container id="aspace_967517a5aef9532e52fa008596840561" label="Mixed Materials" type="Box">1 (1-Meetings)</container>
+              <container id="aspace_8888193a9b4d571c8e65e1ae27ccbdf2" parent="aspace_967517a5aef9532e52fa008596840561" type="Folder">4</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_5">
+          <c03 id="aspace_07d48da68415b52dbff185d40eeb11f1" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">5</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1944/1946">1944-1946</unitdate>
+              <unitdate normal="1944/1946" type="inclusive">1944-1946</unitdate>
+              <container id="aspace_ed912f50f64b3e270a998e8601dee8cb" label="Mixed Materials" type="Box">1 (1-Meetings)</container>
+              <container id="aspace_4b4b4c0596838a4b172b0d7f7b9902ec" parent="aspace_ed912f50f64b3e270a998e8601dee8cb" type="Folder">5</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_6">
+          <c03 id="aspace_7b848a47ac0ff4840d66eb69dc5c81d7" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">6</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1947/1949">1947-1949</unitdate>
+              <unitdate normal="1947/1949" type="inclusive">1947-1949</unitdate>
+              <container id="aspace_f7dd442f7c973950879cdea4c05ba13f" label="Mixed Materials" type="Box">1 (1-Meetings)</container>
+              <container id="aspace_5cbf3d08892a8abec3cb29a251100301" parent="aspace_f7dd442f7c973950879cdea4c05ba13f" type="Folder">6</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_7">
+          <c03 id="aspace_740f24361da3936930e6c26baf20ac96" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">7</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950">1950</unitdate>
+              <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+              <container id="aspace_cefb6d9c2e8f5724fb3d92a4cb9b85b5" label="Mixed Materials" type="Box">1 (1-Meetings)</container>
+              <container id="aspace_d5b58ddec1a126bc3f102ed22900c593" parent="aspace_cefb6d9c2e8f5724fb3d92a4cb9b85b5" type="Folder">7</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_8">
+          <c03 id="aspace_9e6e317b0ad5ad1adce86e454ea37250" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">8</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951">1951</unitdate>
+              <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+              <container id="aspace_e46a501a077d3bc4662a2c0efb6a180d" label="Mixed Materials" type="Box">1 (1-Meetings)</container>
+              <container id="aspace_52fe125e82170a01ef5197179828ab91" parent="aspace_e46a501a077d3bc4662a2c0efb6a180d" type="Folder">8</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_9">
+          <c03 id="aspace_770e0c296152202663e112b769f834af" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">9</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1952/1953">1952-1953</unitdate>
+              <unitdate normal="1952/1953" type="inclusive">1952-1953</unitdate>
+              <container id="aspace_48e03e1c9d8c0c1b251ec11fd2c5821d" label="Mixed Materials" type="Box">1 (1-Meetings)</container>
+              <container id="aspace_6a517748288fd73b0c20622964f29c53" parent="aspace_48e03e1c9d8c0c1b251ec11fd2c5821d" type="Folder">9</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_10">
+          <c03 id="aspace_028f45c9af32b6bb93c9d1fde9c0f47a" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">10</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1954">1954</unitdate>
+              <unitdate normal="1954/1954" type="inclusive">1954</unitdate>
+              <container id="aspace_04375a9ca0ce7bc7d28f4e5255b274b8" label="Mixed Materials" type="Box">1 (1-Meetings)</container>
+              <container id="aspace_86155cc165f03d0636593d98c9ca6fdc" parent="aspace_04375a9ca0ce7bc7d28f4e5255b274b8" type="Folder">10</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_11">
+          <c03 id="aspace_1fe2818a3e743864db7fcfed77bd1c4e" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">11</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1955">1955</unitdate>
+              <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
+              <container id="aspace_baf0c0cf1af8ae336e48fd4876be9120" label="Mixed Materials" type="Box">1 (1-Meetings)</container>
+              <container id="aspace_d2fc94ab43789d4b222ce6a716af9792" parent="aspace_baf0c0cf1af8ae336e48fd4876be9120" type="Folder">11</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_12">
+          <c03 id="aspace_0fdcf397b531255e7df5d3220e3d5929" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">12</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+              <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+              <container id="aspace_4fcec1b302dda4bd03ab3d5563911185" label="Mixed Materials" type="Box">1 (1-Meetings)</container>
+              <container id="aspace_ece6b489630e5ffe0f3687fc0a30a5bf" parent="aspace_4fcec1b302dda4bd03ab3d5563911185" type="Folder">12</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_13">
+          <c03 id="aspace_634b05583a16f597495d87c4e14f5ab7" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">13</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1957/1958">1957-1958</unitdate>
+              <unitdate normal="1957/1958" type="inclusive">1957-1958</unitdate>
+              <container id="aspace_a24a933bc86f1ce816bd595ae30f3fab" label="Mixed Materials" type="Box">1 (1-Meetings)</container>
+              <container id="aspace_468af0666d4a6badfcfb1313dcf9d7b0" parent="aspace_a24a933bc86f1ce816bd595ae30f3fab" type="Folder">13</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_14">
+          <c03 id="aspace_79c1688a162debf5614bced77c0a0f07" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">14</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959/1961">1959-1961</unitdate>
+              <unitdate normal="1959/1961" type="inclusive">1959-1961</unitdate>
+              <container id="aspace_870543959a871095f88509579cabe4c0" label="Mixed Materials" type="Box">1 (1-Meetings)</container>
+              <container id="aspace_68ff1a0550850d5f64affb863a5c22fc" parent="aspace_870543959a871095f88509579cabe4c0" type="Folder">14</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_15">
+          <c03 id="aspace_df320cf24ea0fc253ceeb0bf04316a7f" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">1</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1968">1962-1968</unitdate>
+              <unitdate normal="1962/1968" type="inclusive">1962-1968</unitdate>
+              <container id="aspace_9a3d2889f90a75064912143174688ee9" label="Mixed Materials" type="Box">2 (1-Meetings)</container>
+              <container id="aspace_af68d69cbf2513b07383d37a5bb5992f" parent="aspace_9a3d2889f90a75064912143174688ee9" type="Folder">1</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_16">
+          <c03 id="aspace_da5059c2d8c327cb545f931f4a2a0fda" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">2</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966/1968">1966-1968</unitdate>
+              <unitdate normal="1966/1968" type="inclusive">1966-1968</unitdate>
+              <container id="aspace_1f542ca2e194e890f134ce30231b3e5e" label="Mixed Materials" type="Box">2 (1-Meetings)</container>
+              <container id="aspace_46730be74864b50bbc84f4c0c9517217" parent="aspace_1f542ca2e194e890f134ce30231b3e5e" type="Folder">2</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_17">
+          <c03 id="aspace_3f6fa5d2f39177497135a4a4045ac7f7" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">3</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969">1969</unitdate>
+              <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+              <container id="aspace_1886c37c70b25ace18909045ce1e757e" label="Mixed Materials" type="Box">2 (1-Meetings)</container>
+              <container id="aspace_8b22aa598df5917ed6dd8fdda360b0df" parent="aspace_1886c37c70b25ace18909045ce1e757e" type="Folder">3</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_18">
+          <c03 id="aspace_695c12ee872ed08917d3a9b11cc728d6" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">4</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+              <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+              <container id="aspace_009a064ddcea32ceeee317fdd3daa244" label="Mixed Materials" type="Box">2 (1-Meetings)</container>
+              <container id="aspace_b7b200f11f5444866f1d49ea8ccde8e9" parent="aspace_009a064ddcea32ceeee317fdd3daa244" type="Folder">4</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_19">
+          <c03 id="aspace_42370c209388405cac0a07bcde3ce1bd" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">5</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+              <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+              <container id="aspace_fac1cb2d3789f1f330a7a781f31c860a" label="Mixed Materials" type="Box">2 (1-Meetings)</container>
+              <container id="aspace_3f5dd042a7943a1d7a79f5d10d75b011" parent="aspace_fac1cb2d3789f1f330a7a781f31c860a" type="Folder">5</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_20">
+          <c03 id="aspace_b12b8041b2ed6b8e8fd483c24b981d52" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">6</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972/1973">1972-1973</unitdate>
+              <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
+              <container id="aspace_f53e275663188f08fedc2e60a1e846a1" label="Mixed Materials" type="Box">2 (1-Meetings)</container>
+              <container id="aspace_4b781e44c3b3368a6a4ab88e1d29b367" parent="aspace_f53e275663188f08fedc2e60a1e846a1" type="Folder">6</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_21">
+          <c03 id="aspace_230986dc40ed1f56403db165edf324a5" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">7</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974/1975">1974-1975</unitdate>
+              <unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate>
+              <container id="aspace_6ec2979859439a49dca0379ba1af7f5b" label="Mixed Materials" type="Box">2 (1-Meetings)</container>
+              <container id="aspace_2852dcafa199866c62bb9d9011a3a4f8" parent="aspace_6ec2979859439a49dca0379ba1af7f5b" type="Folder">7</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_22">
+          <c03 id="aspace_41c822c0459c5ec2870dfaae88659ec2" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">8</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976">1976</unitdate>
+              <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+              <container id="aspace_b1b3d15847824049eae4316b9ead2521" label="Mixed Materials" type="Box">2 (1-Meetings)</container>
+              <container id="aspace_aac684f89ddaa4e2c89056b27d5a6210" parent="aspace_b1b3d15847824049eae4316b9ead2521" type="Folder">8</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_23">
+          <c03 id="aspace_cf68d4361b1237e16d3d2d9010b79f90" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">9</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1978">1977-1978</unitdate>
+              <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+              <container id="aspace_d733cab03ae5b449e10c173c4bdd330a" label="Mixed Materials" type="Box">2 (1-Meetings)</container>
+              <container id="aspace_4c5d775fb2377009501d3850c334a208" parent="aspace_d733cab03ae5b449e10c173c4bdd330a" type="Folder">9</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_24">
+          <c03 id="aspace_d12cef2300f9c7dc1a4ccfc5e7aea312" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">10</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1980">1979-1980</unitdate>
+              <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
+              <container id="aspace_56c3bda0fdd442b5aefba77993ca8c5c" label="Mixed Materials" type="Box">2 (1-Meetings)</container>
+              <container id="aspace_b6244219438ac12a26032d7cf8f3c8e6" parent="aspace_56c3bda0fdd442b5aefba77993ca8c5c" type="Folder">10</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_25">
+          <c03 id="aspace_99c61f8594d33f0347ae509dba0fba58" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">11</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1982">1981-1982</unitdate>
+              <unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate>
+              <container id="aspace_b882c81b57532eb7710072ae55be2356" label="Mixed Materials" type="Box">2 (1-Meetings)</container>
+              <container id="aspace_42ea2a3e9c01c0cd30f354183ec92aa6" parent="aspace_b882c81b57532eb7710072ae55be2356" type="Folder">11</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_26">
+          <c03 id="aspace_306de2c15dceaca0a45ca6f81be1d2e5" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">12</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+              <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+              <container id="aspace_b54757ff1c482088bb022b18ec7749e1" label="Mixed Materials" type="Box">2 (1-Meetings)</container>
+              <container id="aspace_3e8b24195c9c1645f51970bc892f4384" parent="aspace_b54757ff1c482088bb022b18ec7749e1" type="Folder">12</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_27">
+          <c03 id="aspace_99317ae1d0ab85a325e1048b1f0be485" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">13</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+              <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+              <container id="aspace_b909c033c3fd700989e1f46949558d25" label="Mixed Materials" type="Box">2 (1-Meetings)</container>
+              <container id="aspace_24a7ba021de4ec347649d086b4c5a472" parent="aspace_b909c033c3fd700989e1f46949558d25" type="Folder">13</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_28">
+          <c03 id="aspace_b823ba81d7fcef7e40ebee4b87673d3a" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">14</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+              <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+              <container id="aspace_1b44d9e840e780d1f173cafcdf67a308" label="Mixed Materials" type="Box">2 (1-Meetings)</container>
+              <container id="aspace_8bdf69ef579dd73d7e815a3412c8391b" parent="aspace_1b44d9e840e780d1f173cafcdf67a308" type="Folder">14</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_29">
+          <c03 id="aspace_d64e31e591e01681171127533fa82d72" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">15</container>
               <unittitle>Minutes</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993/1994">1993-1994</unitdate>
+              <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+              <container id="aspace_cd1e46e5e1eea79bfc824607b643d0cf" label="Mixed Materials" type="Box">2 (1-Meetings)</container>
+              <container id="aspace_22b3531ece428b8a8d775f323fe6ec8d" parent="aspace_cd1e46e5e1eea79bfc824607b643d0cf" type="Folder">15</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_30">
+          <c03 id="aspace_58c95913691e9ce3f392066296d3a0db" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">16</container>
               <unittitle>Meeting Badge</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1939">1939</unitdate>
+              <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+              <container id="aspace_6ae0eea7d6c3658f5cec9609698dc9f9" label="Mixed Materials" type="Box">2 (1-Meetings)</container>
+              <container id="aspace_fd066c9becffa3e4a2be4abf5da7c9f5" parent="aspace_6ae0eea7d6c3658f5cec9609698dc9f9" type="Folder">16</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_31">
+          <c03 id="aspace_3c6ae8423943125e0664a2b2cae6422f" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">17</container>
               <unittitle>Meeting Badge</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940">1940</unitdate>
+              <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
+              <container id="aspace_73ad516c2b664d36756f03e9eb71f402" label="Mixed Materials" type="Box">2 (1-Meetings)</container>
+              <container id="aspace_285baeeb10763257092181124a6d9315" parent="aspace_73ad516c2b664d36756f03e9eb71f402" type="Folder">17</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_32">
+          <c03 id="aspace_84ad5cbe2b2547fb233b899d7b15c179" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">18</container>
               <unittitle>Meeting Badge</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941">1941</unitdate>
+              <unitdate normal="1941/1941" type="inclusive">1941</unitdate>
+              <container id="aspace_47a055d27dcf602d1da982d274163bdf" label="Mixed Materials" type="Box">2 (1-Meetings)</container>
+              <container id="aspace_90000fde515e554688b0ba834e7959fd" parent="aspace_47a055d27dcf602d1da982d274163bdf" type="Folder">18</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_33">
+          <c03 id="aspace_74ce862268fd84a530714dc89c3ac2e9" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">19</container>
               <unittitle>Meeting Badge</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941">1941</unitdate>
+              <unitdate normal="1941/1941" type="inclusive">1941</unitdate>
+              <container id="aspace_2ff64eb05c661b990f0ebc1649eb13a7" label="Mixed Materials" type="Box">2 (1-Meetings)</container>
+              <container id="aspace_b75761c40a45dc20cdeb9c6e8c932df8" parent="aspace_2ff64eb05c661b990f0ebc1649eb13a7" type="Folder">19</container>
             </did>
           </c03>
-          <c03 id="nam_apap126-1.2_34">
+          <c03 id="aspace_1fd8e5b24f5a0cb9affa9b546337f487" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">20</container>
               <unittitle>Meeting Badge</unittitle>
-              <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945">1945</unitdate>
+              <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+              <container id="aspace_2ab608b0f95eae29795de49858b9ad08" label="Mixed Materials" type="Box">2 (1-Meetings)</container>
+              <container id="aspace_40f174012a64a46644e69412313fbf0e" parent="aspace_2ab608b0f95eae29795de49858b9ad08" type="Folder">20</container>
             </did>
           </c03>
         </c02>
       </c01>
-      <!-- Start series 2-->
-      <c01 level="series" id="nam_apap126-2">
+      <c01 id="aspace_44ed16a47b9f7777fbb77aabc5765893" level="series">
         <did>
+          <unittitle>Committees</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Committees</unittitle>
-          <unitdate type="inclusive" normal="1938/1995">1938-1995</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">4</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">4 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1938/1995" type="inclusive">1938-1995</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_e310ac7c52265dd86338ed1c7175f34f">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_3b31a29a22556af1bc612b1b5d96e25d">
+          <head>Scope and Contents</head>
           <p>This series contains correspondence, agendas, and meeting minutes arranged by committee. These dates are not inclusive. Most of the early committee files (1938-1960) were not arranged by committee but were filed simply under the title "Committees". From the 1970's on, they are organized by type of committee. The types of records within these folders are representative of all facets of work that the NYPWA has been involved in. Types of committees include Executive, Legislative, Program, Time and Place, Nominating, Audit, Entertainment, Partnership, Income Maintenance, Attorney and Legal, Medical Assistance, Mental Hygiene, Adult and Children, Fiscal, Services, Systems, Professional Development, PC User, and Disaster Preparedness. The largest committee file is the Legislative Committee. These records contain legislative proposals, legal acts, and bills.</p>
         </scopecontent>
-        <c02 id="nam_apap126-2_1">
+        <c02 id="aspace_b49b8939f508c02e913d0caf3e0487d5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Adult Services Subcommittee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992/1995">1992-1995</unitdate>
+            <unitdate normal="1992/1995" type="inclusive">1992-1995</unitdate>
+            <container id="aspace_255abfddee7f73b9c592504e53e5aa36" label="Mixed Materials" type="Box">1 (2-Committees)</container>
+            <container id="aspace_49a86bbb77bba8f57306f684bb2ea6a3" parent="aspace_255abfddee7f73b9c592504e53e5aa36" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_2">
+        <c02 id="aspace_8dd95dc039d7ddc7f807b54ed6ea0479" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Attorney/ Legal Services</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992/1994">1992-1994</unitdate>
+            <unitdate normal="1992/1994" type="inclusive">1992-1994</unitdate>
+            <container id="aspace_14094ac53c362c7a0eff726486c9e4b6" label="Mixed Materials" type="Box">1 (2-Committees)</container>
+            <container id="aspace_e0b121704b95bc6d1d8addf9e90ddf76" parent="aspace_14094ac53c362c7a0eff726486c9e4b6" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_3">
+        <c02 id="aspace_68e4d75bccebba4576e41dece0a5f5ba" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Child Support</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992/1994">1992-1994</unitdate>
+            <unitdate normal="1992/1994" type="inclusive">1992-1994</unitdate>
+            <container id="aspace_7d8c1638950023a996c81e414ecb6a6d" label="Mixed Materials" type="Box">1 (2-Committees)</container>
+            <container id="aspace_67898a4f0e301c26bdef315533165d24" parent="aspace_7d8c1638950023a996c81e414ecb6a6d" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_4">
+        <c02 id="aspace_633bff9ecca9f9b01c0c9764502c04ac" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Children and Family Services</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992/1994">1992-1994</unitdate>
+            <unitdate normal="1992/1994" type="inclusive">1992-1994</unitdate>
+            <container id="aspace_f30f88b3f7b9e8002021447dfaaffbba" label="Mixed Materials" type="Box">1 (2-Committees)</container>
+            <container id="aspace_d7bb6e13dbf830174b5f6355b17c1876" parent="aspace_f30f88b3f7b9e8002021447dfaaffbba" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_5">
+        <c02 id="aspace_a6176a7dbf9a079828744cd1a33474a9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Conference/Program</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1976">1969-1976</unitdate>
+            <unitdate normal="1969/1976" type="inclusive">1969-1976</unitdate>
+            <container id="aspace_3ef5a97b89c9c08ce221240f20e7cd0a" label="Mixed Materials" type="Box">1 (2-Committees)</container>
+            <container id="aspace_265fd9ed96e4fa267c5f53b81e07b837" parent="aspace_3ef5a97b89c9c08ce221240f20e7cd0a" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_6">
+        <c02 id="aspace_75273dae274f0fb024e16b8202f54bdb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Conference/Program</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977">1977</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982/1983">1982-1983</unitdate>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate>
+            <container id="aspace_6703cb24c0a999a034a64bc99af89caa" label="Mixed Materials" type="Box">1 (2-Committees)</container>
+            <container id="aspace_d3edcb3455d51c5b08d48fde38f868f0" parent="aspace_6703cb24c0a999a034a64bc99af89caa" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_7">
+        <c02 id="aspace_b722b694173a75534324257c693ea5d6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Conference/Program</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994">1994</unitdate>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_6a64efcbb4e304085b15fc7443c7f308" label="Mixed Materials" type="Box">1 (2-Committees)</container>
+            <container id="aspace_9bef20ba1e7645e10bf86e792ba5005d" parent="aspace_6a64efcbb4e304085b15fc7443c7f308" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_8">
+        <c02 id="aspace_1f36ca19bc82e5ae36dfecfa19b1a8f7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Fiscal Advisory</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993">1993</unitdate>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_3deca5f7edce44ec44b6cb036021cc57" label="Mixed Materials" type="Box">1 (2-Committees)</container>
+            <container id="aspace_4f7861642ebaa7b565f298c26a65f32a" parent="aspace_3deca5f7edce44ec44b6cb036021cc57" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_9">
+        <c02 id="aspace_57f3b764dcc992ed1efc44c1476ea29b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Fiscal Advisory</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994/1995">1994-1995</unitdate>
+            <unitdate normal="1994/1995" type="inclusive">1994-1995</unitdate>
+            <container id="aspace_797b18750f48c82fb05d8ac689e11fc2" label="Mixed Materials" type="Box">1 (2-Committees)</container>
+            <container id="aspace_a3872336c99ebfe694dc26d43c97f225" parent="aspace_797b18750f48c82fb05d8ac689e11fc2" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_10">
+        <c02 id="aspace_7d9ef2949c0d14a639a51d236722c1cc" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1938">1938</unitdate>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_f04ee02a68c28746ee80db52ee98433a" label="Mixed Materials" type="Box">1 (2-Committees)</container>
+            <container id="aspace_4ecf946d69f6374a19079591e88ac537" parent="aspace_f04ee02a68c28746ee80db52ee98433a" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_11">
+        <c02 id="aspace_bbebe6af826eed0d94d197bd206bfd2b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940">1940</unitdate>
+            <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
+            <container id="aspace_be39841fd8ef775894c91c6932471c38" label="Mixed Materials" type="Box">1 (2-Committees)</container>
+            <container id="aspace_b2b8e39240f5f00ba1428d6d0839be11" parent="aspace_be39841fd8ef775894c91c6932471c38" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_12">
+        <c02 id="aspace_b4fa7a8dedde619bfe4d9bb2658eb48e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940">1940</unitdate>
+            <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
+            <container id="aspace_c5dd1a88434bc83dc15a04211241b6b6" label="Mixed Materials" type="Box">1 (2-Committees)</container>
+            <container id="aspace_0cef770c6c1dd63425c56f6708dce126" parent="aspace_c5dd1a88434bc83dc15a04211241b6b6" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_13">
+        <c02 id="aspace_6a78fef3f38f4c59002e1b89a8d57491" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941">1941</unitdate>
+            <unitdate normal="1941/1941" type="inclusive">1941</unitdate>
+            <container id="aspace_c83040eda816b8203a8c973ce640b7d4" label="Mixed Materials" type="Box">1 (2-Committees)</container>
+            <container id="aspace_fec1b40d5009c896e8ad9fbdd95f4eef" parent="aspace_c83040eda816b8203a8c973ce640b7d4" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_14">
+        <c02 id="aspace_cae5b2f6aa2bdbed6df401fadff94036" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1942">1942</unitdate>
+            <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
+            <container id="aspace_1e06066e3bf96c6b06f2b7918574c153" label="Mixed Materials" type="Box">1 (2-Committees)</container>
+            <container id="aspace_da8d22e905552d3241716625fe974095" parent="aspace_1e06066e3bf96c6b06f2b7918574c153" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_15">
+        <c02 id="aspace_65a187b5765a73734e3e26bacdeba6df" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943">1943</unitdate>
+            <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
+            <container id="aspace_3a86de9471142f42692107075f6df4bb" label="Mixed Materials" type="Box">1 (2-Committees)</container>
+            <container id="aspace_451f4b19545182c0d0f55e915802e468" parent="aspace_3a86de9471142f42692107075f6df4bb" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_16">
+        <c02 id="aspace_5ed51b6b48f874449d9c536e7275c36a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1944">1944</unitdate>
+            <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+            <container id="aspace_14b57b41a47a3367c6d9ad578f2b1542" label="Mixed Materials" type="Box">1 (2-Committees)</container>
+            <container id="aspace_1791bac1b863cf76c2525acd2ca7fd08" parent="aspace_14b57b41a47a3367c6d9ad578f2b1542" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_17">
+        <c02 id="aspace_2b87b6689aac5e97880b8feab5f93e2b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945">1945</unitdate>
+            <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+            <container id="aspace_7853f8cded24cb198cfac21117c4e970" label="Mixed Materials" type="Box">1 (2-Committees)</container>
+            <container id="aspace_3155ee5d8ffe317c5ae1d962ccfeba06" parent="aspace_7853f8cded24cb198cfac21117c4e970" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_18">
+        <c02 id="aspace_ffb89fe2bcaac70838e594c061383e85" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1947/1950">1947-1950</unitdate>
+            <unitdate normal="1947/1950" type="inclusive">1947-1950</unitdate>
+            <container id="aspace_b0749af681757d30aae69d6d07b6c0bf" label="Mixed Materials" type="Box">1 (2-Committees)</container>
+            <container id="aspace_66352dd8be84082002cf2a20025b02e7" parent="aspace_b0749af681757d30aae69d6d07b6c0bf" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_19">
+        <c02 id="aspace_79d5a591b4e76e18cb46a9ff4ff60091" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951/1958">1951-1958</unitdate>
+            <unitdate normal="1951/1958" type="inclusive">1951-1958</unitdate>
+            <container id="aspace_f4d221562b5d6362ee7de89687597111" label="Mixed Materials" type="Box">1 (2-Committees)</container>
+            <container id="aspace_d1a04595f7e3b49d1c0fc72d63f6f591" parent="aspace_f4d221562b5d6362ee7de89687597111" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_20">
+        <c02 id="aspace_d66a9b0167581ef86dfbfd7079f05856" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959">1959</unitdate>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_ada4909b5e3d6555fab9cc2cf5638281" label="Mixed Materials" type="Box">1 (2-Committees)</container>
+            <container id="aspace_d96207da6f79983a5ca82e52817cc87d" parent="aspace_ada4909b5e3d6555fab9cc2cf5638281" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_21">
+        <c02 id="aspace_09cabe48827ba29916e0b88c5569e6b8" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961/1965">1961-1965</unitdate>
+            <unitdate normal="1961/1965" type="inclusive">1961-1965</unitdate>
+            <container id="aspace_11f53304e7efe234c78eb06221eaa018" label="Mixed Materials" type="Box">2 (2-Committees)</container>
+            <container id="aspace_3dd705566d2b34dd967911a592e794aa" parent="aspace_11f53304e7efe234c78eb06221eaa018" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_22">
+        <c02 id="aspace_540924cf4970b674f76ec5467f1d5cc3" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976/1979">1976-1979</unitdate>
+            <unitdate normal="1976/1979" type="inclusive">1976-1979</unitdate>
+            <container id="aspace_0389e664f73bcc7daad3d3810ebcfa36" label="Mixed Materials" type="Box">2 (2-Committees)</container>
+            <container id="aspace_64f39ae68e1db73059e79e9d99ea4c90" parent="aspace_0389e664f73bcc7daad3d3810ebcfa36" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_23">
+        <c02 id="aspace_6db02ada35b539f1497037c65e8a2b76" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980">1980</unitdate>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_044ef6ad58c3177165cea719ba5e5e40" label="Mixed Materials" type="Box">2 (2-Committees)</container>
+            <container id="aspace_da96a8d4870d2e05c13d3c446e7d338a" parent="aspace_044ef6ad58c3177165cea719ba5e5e40" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_24">
+        <c02 id="aspace_9c5d70bc115a444698c139fcfac9096c" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_c780d76243c0a86b94f64cefcfb0fe06" label="Mixed Materials" type="Box">2 (2-Committees)</container>
+            <container id="aspace_2a1f90a0394b434bdbc9bea47c056cff" parent="aspace_c780d76243c0a86b94f64cefcfb0fe06" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_25">
+        <c02 id="aspace_83695822d65f5ce7ae5a12e931c35ffd" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_fa724678206eafec6719efcf4d32022b" label="Mixed Materials" type="Box">2 (2-Committees)</container>
+            <container id="aspace_b345613239b470533d7c26c1564a0535" parent="aspace_fa724678206eafec6719efcf4d32022b" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_26">
+        <c02 id="aspace_cf1c4296abbe4f10aefdf12c2ab088da" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1984">1983-1984</unitdate>
+            <unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate>
+            <container id="aspace_fa734e0d6c694ecb631c97fd35577b26" label="Mixed Materials" type="Box">2 (2-Committees)</container>
+            <container id="aspace_bc8dde9b7f8f6ffa057794e56044dbf8" parent="aspace_fa734e0d6c694ecb631c97fd35577b26" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_27">
+        <c02 id="aspace_f81fb06e4cb8975c1b7d107e982307a3" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
             <unittitle>Income Maintenance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976/1981">1976-1981</unitdate>
+            <unitdate normal="1976/1981" type="inclusive">1976-1981</unitdate>
+            <container id="aspace_384e5ba88380909dedd14f81aae266df" label="Mixed Materials" type="Box">2 (2-Committees)</container>
+            <container id="aspace_25db03556702b419c22cd4820b221d00" parent="aspace_384e5ba88380909dedd14f81aae266df" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_28">
+        <c02 id="aspace_d01d8e4fb792a0c0662f1bf81df6532f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
             <unittitle>Income Maintenance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_37ad8714aea51f5b8a3394b550e4be30" label="Mixed Materials" type="Box">2 (2-Committees)</container>
+            <container id="aspace_979b8eadbfa369e3d4c8c30112f77de4" parent="aspace_37ad8714aea51f5b8a3394b550e4be30" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_29">
+        <c02 id="aspace_3661133ad707b47cc2c0932973796dca" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
             <unittitle>Income Maintenance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_d758ba2a5fbc80a93381db8de626802d" label="Mixed Materials" type="Box">2 (2-Committees)</container>
+            <container id="aspace_d6ad51c77f2ec2e1de3933f9829fd6fc" parent="aspace_d758ba2a5fbc80a93381db8de626802d" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_30">
+        <c02 id="aspace_f8cd4f09f5e9a0dbbae0a71e5477e767" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10</container>
             <unittitle>Income Maintenance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_ed9f92b24279e67480664269a0221803" label="Mixed Materials" type="Box">2 (2-Committees)</container>
+            <container id="aspace_e9e08573454bb499173fbcc06ed4527f" parent="aspace_ed9f92b24279e67480664269a0221803" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_31">
+        <c02 id="aspace_ea9b33edccdf9be39b65da34053ecef9" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">11</container>
             <unittitle>Income Maintenance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_ca34e80d3a4ba1ef3da3ff9f8942e690" label="Mixed Materials" type="Box">2 (2-Committees)</container>
+            <container id="aspace_b12441eb1a80b4b48d41f56a4f4f9f2b" parent="aspace_ca34e80d3a4ba1ef3da3ff9f8942e690" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_32">
+        <c02 id="aspace_11eba2aa40fdc6148f440f53f4b061a9" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">12</container>
             <unittitle>Income Maintenance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_9db560a40f5b56af5f6ee5ee8e5c43e0" label="Mixed Materials" type="Box">2 (2-Committees)</container>
+            <container id="aspace_7513075915879305a4029c200a043262" parent="aspace_9db560a40f5b56af5f6ee5ee8e5c43e0" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_33">
+        <c02 id="aspace_84a0009b5d0481f0a0e6e76899085879" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">13</container>
             <unittitle>Income Maintenance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_f0c3a52a731b45fb2bc8a99d1fbe3ff2" label="Mixed Materials" type="Box">2 (2-Committees)</container>
+            <container id="aspace_2b73f8a064865a9aa308641f60fb5fb6" parent="aspace_f0c3a52a731b45fb2bc8a99d1fbe3ff2" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_34">
+        <c02 id="aspace_46b30f7e93675f6c5c8e6223d472015c" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">14</container>
             <unittitle>Income Maintenance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1993">1990-1993</unitdate>
+            <unitdate normal="1990/1993" type="inclusive">1990-1993</unitdate>
+            <container id="aspace_9570debf46f493465c75cf82a1edd463" label="Mixed Materials" type="Box">2 (2-Committees)</container>
+            <container id="aspace_dfdd2447d74d11e565e51e2250364b67" parent="aspace_9570debf46f493465c75cf82a1edd463" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_35">
+        <c02 id="aspace_276491694b6e0f2c2b278be7b6b3a5b2" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">15</container>
             <unittitle>Income Maintenance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994">1994</unitdate>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_1cfd09057bc0aab6b48dc275831c3f3a" label="Mixed Materials" type="Box">2 (2-Committees)</container>
+            <container id="aspace_8dd9729e812110ceb256d8b307e1245a" parent="aspace_1cfd09057bc0aab6b48dc275831c3f3a" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_36">
+        <c02 id="aspace_5708068d29f64eddb82326b80b02fc7a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">16</container>
             <unittitle>Legislative</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_adcfeff2fa9501d8416761f79dba7328" label="Mixed Materials" type="Box">2 (2-Committees)</container>
+            <container id="aspace_74e251a1f7a9f0c3156e99858597696f" parent="aspace_adcfeff2fa9501d8416761f79dba7328" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_37">
+        <c02 id="aspace_bb04cd84c47c7783585a5ab33618b90b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">17</container>
             <unittitle>Legislative</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_9090649d283d22fdb8eef5558851a78c" label="Mixed Materials" type="Box">2 (2-Committees)</container>
+            <container id="aspace_2866ca5867a10b2eca1b7f1458f2cda9" parent="aspace_9090649d283d22fdb8eef5558851a78c" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_38">
+        <c02 id="aspace_15d2d64a6a1fff9625e95d0213b19cd5" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">18</container>
             <unittitle>Legislative</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_115ac11dc1af03f02a1b29538ca53cb2" label="Mixed Materials" type="Box">2 (2-Committees)</container>
+            <container id="aspace_9a19c5450cdba06092a08eae1ee786ca" parent="aspace_115ac11dc1af03f02a1b29538ca53cb2" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_39">
+        <c02 id="aspace_1ef34d79d85984dfdd986e5208de0692" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1984</container>
             <unittitle>Legislative</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_f1b2c9531af0b8efa2462af6d8d9b42d" label="Mixed Materials" type="Box">2 (2-Committees)</container>
+            <container id="aspace_d90c80137ba09300a05e928f3c528d54" parent="aspace_f1b2c9531af0b8efa2462af6d8d9b42d" type="Folder">1984</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_40">
+        <c02 id="aspace_ac21f58e2b61697be5606ace15df78c2" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>Legislative</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_05d7b5b969ffa3f547fdd4f094fcd842" label="Mixed Materials" type="Box">3 (2-Committees)</container>
+            <container id="aspace_5ffe19e3292d8092410f95911dd9bd0d" parent="aspace_05d7b5b969ffa3f547fdd4f094fcd842" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_41">
+        <c02 id="aspace_1a88a4ce46027c3de84a4c25c153a551" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>Legislative</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1969">1968-1969</unitdate>
+            <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
+            <container id="aspace_67b9385beebd98e62d8b9db8685eaf6c" label="Mixed Materials" type="Box">3 (2-Committees)</container>
+            <container id="aspace_c44b1ddc934a45899533d8f15350449f" parent="aspace_67b9385beebd98e62d8b9db8685eaf6c" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_42">
+        <c02 id="aspace_6ed7c33eb72dd3ed8b7e10375fdcb301" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">3</container>
             <unittitle>Legislative</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970/1978">1970-1978</unitdate>
+            <unitdate normal="1970/1978" type="inclusive">1970-1978</unitdate>
+            <container id="aspace_ae44b8dca3583f6b9420d17c70df6f5f" label="Mixed Materials" type="Box">3 (2-Committees)</container>
+            <container id="aspace_3445040d4dc3c45be2ea8a3b28c5042e" parent="aspace_ae44b8dca3583f6b9420d17c70df6f5f" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_43">
+        <c02 id="aspace_7725704deaef92847e66a65907fee5b2" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4</container>
             <unittitle>Legislative</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1981">1979-1981</unitdate>
+            <unitdate normal="1979/1981" type="inclusive">1979-1981</unitdate>
+            <container id="aspace_4252d866b049c181e1aaabd5b6c66cab" label="Mixed Materials" type="Box">3 (2-Committees)</container>
+            <container id="aspace_75fbb65de4bf9c33330ed73311123c90" parent="aspace_4252d866b049c181e1aaabd5b6c66cab" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_44">
+        <c02 id="aspace_978abbfc4733c1e6c88a838de64d1533" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">5</container>
             <unittitle>Legislative</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993/1994">1993-1994</unitdate>
+            <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_25a4f281edac7b489519941b5fd98338" label="Mixed Materials" type="Box">3 (2-Committees)</container>
+            <container id="aspace_90eabcd06e5cf2b7fff1365d94a1fe93" parent="aspace_25a4f281edac7b489519941b5fd98338" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_45">
+        <c02 id="aspace_64c10728865cae043954646535c20846" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">6</container>
             <unittitle>Managed Care Sub-Committee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993">1993</unitdate>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_2700aefeec01689fdd50558abed91111" label="Mixed Materials" type="Box">3 (2-Committees)</container>
+            <container id="aspace_8fb05c290ca481c4ce2c6ba7cc31e316" parent="aspace_2700aefeec01689fdd50558abed91111" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_46">
+        <c02 id="aspace_b5e61049de3ea85d917df976af8110d8" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">7</container>
             <unittitle>Medical Assistance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971/1976">1971-1976</unitdate>
+            <unitdate normal="1971/1976" type="inclusive">1971-1976</unitdate>
+            <container id="aspace_aceca2ecdf42f44e468ba1619bc4e682" label="Mixed Materials" type="Box">3 (2-Committees)</container>
+            <container id="aspace_e126d1b8c2b40603cb691ad006ec5ff8" parent="aspace_aceca2ecdf42f44e468ba1619bc4e682" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_47">
+        <c02 id="aspace_bd9641f30bad51f60b09551c4b8b8746" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">8</container>
             <unittitle>Medical Assistance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1978">1977-1978</unitdate>
+            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container id="aspace_2d426f3b53c400e0708b3ed94109b2a5" label="Mixed Materials" type="Box">3 (2-Committees)</container>
+            <container id="aspace_5b1ad7d1515e0abf0bdc957e42fbc5a5" parent="aspace_2d426f3b53c400e0708b3ed94109b2a5" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_48">
+        <c02 id="aspace_d3bbd66b461ccafabc18152da86ee72b" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">9</container>
             <unittitle>Medical Assistance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_15521322d856ae4681a0db07549f6b6b" label="Mixed Materials" type="Box">3 (2-Committees)</container>
+            <container id="aspace_ba8933502107a6ec79df0c3b74b1f346" parent="aspace_15521322d856ae4681a0db07549f6b6b" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_49">
+        <c02 id="aspace_c4deaa2c284558bcc7ce8651dccf02a7" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">10</container>
             <unittitle>Medical Assistance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1981">1980-1981</unitdate>
+            <unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate>
+            <container id="aspace_396eb366f9032220ea25da6c0992873d" label="Mixed Materials" type="Box">3 (2-Committees)</container>
+            <container id="aspace_02699a76bfcd8931af8903f3c11e0193" parent="aspace_396eb366f9032220ea25da6c0992873d" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_50">
+        <c02 id="aspace_0275ef628a37d74e6adebffccd877633" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">11</container>
             <unittitle>Medical Assistance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_3412ff0fd9c902de66fbffdad95163e2" label="Mixed Materials" type="Box">3 (2-Committees)</container>
+            <container id="aspace_553207254d1ed5d952f61e8fd974a534" parent="aspace_3412ff0fd9c902de66fbffdad95163e2" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_51">
+        <c02 id="aspace_86f0d5397c3efe9e9b5798b0da21fbca" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">12</container>
             <unittitle>Medical Assistance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_b496ff07a8a58e8c5c6ffe5f4ca71197" label="Mixed Materials" type="Box">3 (2-Committees)</container>
+            <container id="aspace_b263c1c775286346f61117071256f8c4" parent="aspace_b496ff07a8a58e8c5c6ffe5f4ca71197" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_52">
+        <c02 id="aspace_814d3c4737b2303f3b4b5a0aa63ede69" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">13</container>
             <unittitle>Medical Assistance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_c1138d2fc260c54e6023ab6cabaef231" label="Mixed Materials" type="Box">3 (2-Committees)</container>
+            <container id="aspace_0433c3dbb0fb2e242ef90da77d5f3c88" parent="aspace_c1138d2fc260c54e6023ab6cabaef231" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_53">
+        <c02 id="aspace_b8b02a1f0d8d6f5907a939f103a1561c" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">14</container>
             <unittitle>Medical Assistance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_509b3b43816e6c841282c2cc9e8f0c15" label="Mixed Materials" type="Box">3 (2-Committees)</container>
+            <container id="aspace_a450e79f6249e9d913495574e0d4fecd" parent="aspace_509b3b43816e6c841282c2cc9e8f0c15" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_54">
+        <c02 id="aspace_b5dc5f02b9584108d50f534c9b34b422" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">15</container>
             <unittitle>Medical Assistance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992/1993">1992-1993</unitdate>
+            <unitdate normal="1992/1993" type="inclusive">1992-1993</unitdate>
+            <container id="aspace_63c936cd55c0048aec8f2b6adcf42af9" label="Mixed Materials" type="Box">3 (2-Committees)</container>
+            <container id="aspace_fba2944d8e3b79640e5bd53d11526e5f" parent="aspace_63c936cd55c0048aec8f2b6adcf42af9" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_55">
+        <c02 id="aspace_5307b3d9cf9140110895ca56d60a0722" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">1</container>
             <unittitle>Mental Hygiene</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976/1982">1976-1982</unitdate>
+            <unitdate normal="1976/1982" type="inclusive">1976-1982</unitdate>
+            <container id="aspace_45e6ae8ed371aaa938b1adbb47f1b2c4" label="Mixed Materials" type="Box">4 (2-Committees)</container>
+            <container id="aspace_9a5c555fc8199b515396de4cf9fd4332" parent="aspace_45e6ae8ed371aaa938b1adbb47f1b2c4" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_56">
+        <c02 id="aspace_37aa69e7e7d8a2fcbae25aaeece2aaa3" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">2</container>
             <unittitle>Nominating</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970/1981">1970-1981</unitdate>
+            <unitdate normal="1970/1981" type="inclusive">1970-1981</unitdate>
+            <container id="aspace_5a13a0d56376ac2e05f58ed39f911e7d" label="Mixed Materials" type="Box">4 (2-Committees)</container>
+            <container id="aspace_598fc0fc5e1664346f52fcc2e2e605c2" parent="aspace_5a13a0d56376ac2e05f58ed39f911e7d" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_57">
+        <c02 id="aspace_25f0b2b9f7047b16e27b9df326da56ed" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">3</container>
             <unittitle>Partnership</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994/1995">1994-1995</unitdate>
+            <unitdate normal="1994/1995" type="inclusive">1994-1995</unitdate>
+            <container id="aspace_6feb82ff69cf7c5623bf7d3d5c8862fd" label="Mixed Materials" type="Box">4 (2-Committees)</container>
+            <container id="aspace_9c0ee89cf0869ea2f60f58bda2af8df5" parent="aspace_6feb82ff69cf7c5623bf7d3d5c8862fd" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_58">
+        <c02 id="aspace_6c7ad4fd93c0e1106a2cc3ab888896ce" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">4</container>
             <unittitle>PC User and Disaster Preparedness</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991/1993">1991-1993</unitdate>
+            <unitdate normal="1991/1993" type="inclusive">1991-1993</unitdate>
+            <container id="aspace_ab6c6fcebabb259bcbd5c35ef0d71197" label="Mixed Materials" type="Box">4 (2-Committees)</container>
+            <container id="aspace_0e778f6016796c6e524e787e3e473720" parent="aspace_ab6c6fcebabb259bcbd5c35ef0d71197" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_59">
+        <c02 id="aspace_0931bf75ded2ee43381df1a9596a640a" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">5</container>
             <unittitle>Professional Development</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/1974">1967-1974</unitdate>
+            <unitdate normal="1967/1974" type="inclusive">1967-1974</unitdate>
+            <container id="aspace_bda99362149858aa3160f9ec22d8ec93" label="Mixed Materials" type="Box">4 (2-Committees)</container>
+            <container id="aspace_ac09d43bb87860b4a6cea58b5c49bd02" parent="aspace_bda99362149858aa3160f9ec22d8ec93" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_60">
+        <c02 id="aspace_42d0a24f0076f82f805ab1d1e4197c09" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">6</container>
             <unittitle>Professional Development</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982/1983">1982-1983</unitdate>
+            <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate>
+            <container id="aspace_4ed614f7d1ee7e1da13acd77a5bae694" label="Mixed Materials" type="Box">4 (2-Committees)</container>
+            <container id="aspace_18e0140f99430b36efb733d065fd9b3f" parent="aspace_4ed614f7d1ee7e1da13acd77a5bae694" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_61">
+        <c02 id="aspace_0dc76ac33507661c56b8b17a376c3aab" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">7</container>
             <unittitle>Professional Development</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_32659c5194906fb8f327d3ac6b6d3d27" label="Mixed Materials" type="Box">4 (2-Committees)</container>
+            <container id="aspace_ad918df75e5f2577db280b65869c169b" parent="aspace_32659c5194906fb8f327d3ac6b6d3d27" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_62">
+        <c02 id="aspace_734b4c7c548948af6393c9e5174f1df9" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">8</container>
             <unittitle>Services</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978/1979">1978-1979</unitdate>
+            <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container id="aspace_a0f09be5c4f5d39159550cb7d99469b4" label="Mixed Materials" type="Box">4 (2-Committees)</container>
+            <container id="aspace_9b282f46759409d27ba07ebeacc0d03b" parent="aspace_a0f09be5c4f5d39159550cb7d99469b4" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_63">
+        <c02 id="aspace_a78ff52428fc83b8ef073ae8966f5b92" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">9</container>
             <unittitle>Services</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980">1980</unitdate>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_a9a58a56a0d4f7a6f8977ca4fa309728" label="Mixed Materials" type="Box">4 (2-Committees)</container>
+            <container id="aspace_a437e8e3a860f55f7792bd1dc89c1c8d" parent="aspace_a9a58a56a0d4f7a6f8977ca4fa309728" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_64">
+        <c02 id="aspace_ab477428149f70b37030fafaa009e78e" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">10</container>
             <unittitle>Services</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_921df28715feb07be173336b3b8e9ca0" label="Mixed Materials" type="Box">4 (2-Committees)</container>
+            <container id="aspace_b43518bf7455da5b2d3a607c58a7b549" parent="aspace_921df28715feb07be173336b3b8e9ca0" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_65">
+        <c02 id="aspace_08c6c307c088c6ba36361ffc465bf83f" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">11</container>
             <unittitle>Services</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982/1983">1982-1983</unitdate>
+            <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate>
+            <container id="aspace_cf783e3ce8f659d70dcbc85819d93308" label="Mixed Materials" type="Box">4 (2-Committees)</container>
+            <container id="aspace_128becb82c8e34dd6618035cd2c70b2d" parent="aspace_cf783e3ce8f659d70dcbc85819d93308" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_66">
+        <c02 id="aspace_1771ac977f3ca9740cc22372660517a1" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">12</container>
             <unittitle>Services</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_00b532fc1f4e1b41dc8a43047a912569" label="Mixed Materials" type="Box">4 (2-Committees)</container>
+            <container id="aspace_a09120f84fb1a9d50c50064620a5947e" parent="aspace_00b532fc1f4e1b41dc8a43047a912569" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_67">
+        <c02 id="aspace_10011657a6d047fc1692ba91ffffc959" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">13</container>
             <unittitle>State and Local Policy</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1970">1969-1970</unitdate>
+            <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
+            <container id="aspace_cae5751730a2854f9fec4e75a86bcd9b" label="Mixed Materials" type="Box">4 (2-Committees)</container>
+            <container id="aspace_6d2f14a6e8c01adf79cc92471fab3e54" parent="aspace_cae5751730a2854f9fec4e75a86bcd9b" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_68">
+        <c02 id="aspace_1f1d9d988db75ad45aa675e532d3cf46" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">14</container>
             <unittitle>Systems</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_ea37c8741367c32c5557b27000138a0e" label="Mixed Materials" type="Box">4 (2-Committees)</container>
+            <container id="aspace_f749873bf92a118aa5247fa76732adbc" parent="aspace_ea37c8741367c32c5557b27000138a0e" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_69">
+        <c02 id="aspace_ad21fd1e33a365f9552e565e25bc1432" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">15</container>
             <unittitle>Systems</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1983">1980-1983</unitdate>
+            <unitdate normal="1980/1983" type="inclusive">1980-1983</unitdate>
+            <container id="aspace_9035988be44fe2cf08097b78269a45e4" label="Mixed Materials" type="Box">4 (2-Committees)</container>
+            <container id="aspace_46686b9e41fd5985bed440876c5d7768" parent="aspace_9035988be44fe2cf08097b78269a45e4" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-2_70">
+        <c02 id="aspace_a17e1bd73a7272526dbd66e3f43d3a71" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">16</container>
             <unittitle>Systems</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992/1995">1992-1995</unitdate>
+            <unitdate normal="1992/1995" type="inclusive">1992-1995</unitdate>
+            <container id="aspace_eb7ba2618e605d2cbcdfd97748ec42d5" label="Mixed Materials" type="Box">4 (2-Committees)</container>
+            <container id="aspace_4275ddf07e6902668c8d07cde408cda3" parent="aspace_eb7ba2618e605d2cbcdfd97748ec42d5" type="Folder">16</container>
           </did>
         </c02>
       </c01>
-      <!-- Start series 3-->
-      <c01 level="series" id="nam_apap126-3">
+      <c01 id="aspace_0fe8ce1976e79c241951fb19d1714307" level="series">
         <did>
+          <unittitle>Correspondence</unittitle>
           <unitid>3</unitid>
-          <unittitle label="Series">Correspondence</unittitle>
-          <unitdate type="inclusive" normal="1938/1993">1938-1993</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">1</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1938/1993" type="inclusive">1938-1993</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_68d4a4bf1bb6e9fb52d593662e93138b">
+          <head>Arrangement</head>
           <p>Arranged chronologically.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_073167734b2df91e4a0b4d3456cb7c39">
+          <head>Scope and Contents</head>
           <p>Correspondence contained in this series deal with meeting and program planning, special events and meetings, invitations to speakers, letters of acceptance, preparations for meetings, as well as some meeting minutes. The NYPWA corresponded with all county social services offices and related officials. These dates are not inclusive as this series does not represent the only correspondence contained in the collection. Correspondence are represented in every series.</p>
         </scopecontent>
-        <c02 id="nam_apap126-3_1">
+        <c02 id="aspace_4814ebe38706706aa62d5b644c512e09" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1938/1944">1938-1944</unitdate>
+            <unitdate normal="1938/1944" type="inclusive">1938-1944</unitdate>
+            <container id="aspace_244a31de7abac9e833a0c38b5fc5cff3" label="Mixed Materials" type="Box">1 (3-Correspondence)</container>
+            <container id="aspace_f05cf299f2403e34693b7489f12a9d03" parent="aspace_244a31de7abac9e833a0c38b5fc5cff3" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-3_2">
+        <c02 id="aspace_c812b3bc5bf5b0512440cfad0f5ebc54" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945/1949">1945-1949</unitdate>
+            <unitdate normal="1945/1949" type="inclusive">1945-1949</unitdate>
+            <container id="aspace_20566878505a633b213e562b001da07c" label="Mixed Materials" type="Box">1 (3-Correspondence)</container>
+            <container id="aspace_a6cf37e9eeb88b51502ff58a76d726a4" parent="aspace_20566878505a633b213e562b001da07c" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-3_3">
+        <c02 id="aspace_20277050917b3af151adb4d3844f9f1f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950/1953">1950-1953</unitdate>
+            <unitdate normal="1950/1953" type="inclusive">1950-1953</unitdate>
+            <container id="aspace_8224d04f8a6f93708f2153e61f8e565f" label="Mixed Materials" type="Box">1 (3-Correspondence)</container>
+            <container id="aspace_67e8bd1d30201362b0c27fab1c53539e" parent="aspace_8224d04f8a6f93708f2153e61f8e565f" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-3_4">
+        <c02 id="aspace_a0d6a38c91f52c6df406b88199a11f53" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1954/1956">1954-1956</unitdate>
+            <unitdate normal="1954/1956" type="inclusive">1954-1956</unitdate>
+            <container id="aspace_6e883c63124b4ad83a050e510cad2866" label="Mixed Materials" type="Box">1 (3-Correspondence)</container>
+            <container id="aspace_255eb94b547deb2f652a894b2022684f" parent="aspace_6e883c63124b4ad83a050e510cad2866" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-3_5">
+        <c02 id="aspace_1f9c943b1935b91d794d8a29b5e980a4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1957">1957</unitdate>
+            <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
+            <container id="aspace_79e6ce39fc9a68cf72f32ea6c237a80a" label="Mixed Materials" type="Box">1 (3-Correspondence)</container>
+            <container id="aspace_73b0cfb3cd728bd2bdf018d8d7dce60d" parent="aspace_79e6ce39fc9a68cf72f32ea6c237a80a" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-3_6">
+        <c02 id="aspace_a8e7aae14a616c51cbac209f88309079" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958">1958</unitdate>
+            <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_75be384faf0fe3c989993f7e3521952d" label="Mixed Materials" type="Box">1 (3-Correspondence)</container>
+            <container id="aspace_77585e8741d160f530041ffebce57b3c" parent="aspace_75be384faf0fe3c989993f7e3521952d" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-3_7">
+        <c02 id="aspace_d78669f1561baccaeb4b024c74b35a07" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959">1959</unitdate>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_e334a064e2219564cf96208950c38186" label="Mixed Materials" type="Box">1 (3-Correspondence)</container>
+            <container id="aspace_cdfb27fe78fdf37001bc570601976f98" parent="aspace_e334a064e2219564cf96208950c38186" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-3_8">
+        <c02 id="aspace_864a16c5802597a61ae589f51fb5576f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960">1960</unitdate>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_d7230f27c09c736f0844ee32b911155e" label="Mixed Materials" type="Box">1 (3-Correspondence)</container>
+            <container id="aspace_c8cb7fd56d2b01a5e44f4112f2047bd8" parent="aspace_d7230f27c09c736f0844ee32b911155e" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-3_9">
+        <c02 id="aspace_bb9d612b0856054ca9c940a6c1f8e78f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961">1961</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_62159cb110b48b28a3c5dafbc4359c4b" label="Mixed Materials" type="Box">1 (3-Correspondence)</container>
+            <container id="aspace_7c83193c053eaabc48fa4e9d3b9df1cd" parent="aspace_62159cb110b48b28a3c5dafbc4359c4b" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-3_10">
+        <c02 id="aspace_6992ed76ca815695934d65c87b30e42a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
+            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+            <container id="aspace_928eb27861f50f7ce90d93fa85e0412b" label="Mixed Materials" type="Box">1 (3-Correspondence)</container>
+            <container id="aspace_4dc8d8a864a82eef51e5354cba01323b" parent="aspace_928eb27861f50f7ce90d93fa85e0412b" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-3_11">
+        <c02 id="aspace_6fea5dfbbd121a2e751872207a906719" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963">1963</unitdate>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_231716ea976708ebf8918ff08fcb747a" label="Mixed Materials" type="Box">1 (3-Correspondence)</container>
+            <container id="aspace_bfe46247708f3a91d420c91694d9cfc7" parent="aspace_231716ea976708ebf8918ff08fcb747a" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-3_12">
+        <c02 id="aspace_a865578bddd90cb28e38c8cd30d0b32f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_7770928e896377b8a116afaf1b2aece5" label="Mixed Materials" type="Box">1 (3-Correspondence)</container>
+            <container id="aspace_60f7388f648f21fa6e6b6cfb2124b392" parent="aspace_7770928e896377b8a116afaf1b2aece5" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-3_13">
+        <c02 id="aspace_188f2aa003d6615cc42c94b816786eab" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_935ef7e069d1c10015447bfa91e1e3c8" label="Mixed Materials" type="Box">1 (3-Correspondence)</container>
+            <container id="aspace_bf570e74c77008dfa8a0fd54ec88beef" parent="aspace_935ef7e069d1c10015447bfa91e1e3c8" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-3_14">
+        <c02 id="aspace_39c82e4d05c7289d3996b88980493cc8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966/1968">1966-1968</unitdate>
+            <unitdate normal="1966/1968" type="inclusive">1966-1968</unitdate>
+            <container id="aspace_c8ca3bc49d0185046a1563cdc06d08cd" label="Mixed Materials" type="Box">1 (3-Correspondence)</container>
+            <container id="aspace_0db0d52de5c9bc461c6f5702a6daf203" parent="aspace_c8ca3bc49d0185046a1563cdc06d08cd" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-3_15">
+        <c02 id="aspace_4a7bb486fcf133676f90c0109656c4ae" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1984">1979-1984</unitdate>
+            <unitdate normal="1979/1984" type="inclusive">1979-1984</unitdate>
+            <container id="aspace_a53541613ae1bfa2ab558f3bd0b145a1" label="Mixed Materials" type="Box">1 (3-Correspondence)</container>
+            <container id="aspace_c75b95ecfb7e487be0c8ade3a731b741" parent="aspace_a53541613ae1bfa2ab558f3bd0b145a1" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-3_16">
+        <c02 id="aspace_3c060f7cb963624f1f19c40ef6963095" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1993">1989-1993</unitdate>
+            <unitdate normal="1989/1993" type="inclusive">1989-1993</unitdate>
+            <container id="aspace_71fc51ca09e09d1f0b3ef3bfc7a684cb" label="Mixed Materials" type="Box">1 (3-Correspondence)</container>
+            <container id="aspace_9ecf7d7627af31908cae9e1242a0edba" parent="aspace_71fc51ca09e09d1f0b3ef3bfc7a684cb" type="Folder">16</container>
           </did>
         </c02>
       </c01>
-      <!-- Start series 4-->
-      <c01 level="series" id="nam_apap126-4">
+      <c01 id="aspace_005f9f8fe6451ce95b32cc67f61e2618" level="series">
         <did>
+          <unittitle>Elsie M. Bond</unittitle>
           <unitid>4</unitid>
-          <unittitle label="Series">Elsie M. Bond</unittitle>
-          <unitdate normal="1932/1949" type="inclusive">1932-1949</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.6</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.6 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1932/1949" type="inclusive">1932-1949</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_a4ff132276c7efdeaaf40901295d2d76">
+          <head>Arrangement</head>
           <p>Arranged chronologically.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_31350921aabba78f41d9a96fb7646ee0">
+          <head>Scope and Contents</head>
           <p>This series contains correspondence concerning bills and legislation, discussions on meeting agendas, committee reports, drafts of meeting minutes, contacts with guests speakers, and correspondence with government officials. These dates are not inclusive. The series spans the tenure of Elsie M. Bond's position as executive secretary. The first letter represented in this series is her 1932 letter to New York's Governor Roosevelt and the last is the records surrounding the Association's last name change in 1949. Miss Bond's 1949 files cover this interesting event and contain duplications of the 1918 and 1928 incorporation papers as well as a certified statement that her New York City office was in fact the organization's headquarters. See the Scope and Content note for important aspects of this series.</p>
         </scopecontent>
-        <c02 id="nam_apap126-4_1">
+        <c02 id="aspace_793701b64dc5dc0d3579d568b4d29a51" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Elsie M. Bond</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1932/1935">1932-1935</unitdate>
+            <unitdate normal="1932/1935" type="inclusive">1932-1935</unitdate>
+            <container id="aspace_2e3059f625829523b62a5f3152919274" label="Mixed Materials" type="Box">1 (4-Elsie M. Bond)</container>
+            <container id="aspace_c56d95f117b0fae514e33586d1ae9ec4" parent="aspace_2e3059f625829523b62a5f3152919274" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-4_2">
+        <c02 id="aspace_8303b16b7d2562649ae17bc0e8fbbf1c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Elsie M. Bond</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1936/1939">1936-1939</unitdate>
+            <unitdate normal="1936/1939" type="inclusive">1936-1939</unitdate>
+            <container id="aspace_f6205bb1a8c29a06d336f5caab5bd8e2" label="Mixed Materials" type="Box">1 (4-Elsie M. Bond)</container>
+            <container id="aspace_d74655c012350da156dd904393e5d057" parent="aspace_f6205bb1a8c29a06d336f5caab5bd8e2" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-4_3">
+        <c02 id="aspace_711194b992ca2febdd7dd74822b59bf2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Elsie M. Bond</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941">1941</unitdate>
+            <unitdate normal="1941/1941" type="inclusive">1941</unitdate>
+            <container id="aspace_6749ec93f6c757f21c99cdf498c0f82d" label="Mixed Materials" type="Box">1 (4-Elsie M. Bond)</container>
+            <container id="aspace_80bce3c5c11e5fa186669b55459d24d0" parent="aspace_6749ec93f6c757f21c99cdf498c0f82d" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-4_4">
+        <c02 id="aspace_f0cdd8e362e9cba750e2063af47f6967" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Elsie M. Bond</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1942/1944">1942-1944</unitdate>
+            <unitdate normal="1942/1944" type="inclusive">1942-1944</unitdate>
+            <container id="aspace_5228b58918f10a4e9d299c97907c6acf" label="Mixed Materials" type="Box">1 (4-Elsie M. Bond)</container>
+            <container id="aspace_73bf1450bfafbeb533aa849368039b93" parent="aspace_5228b58918f10a4e9d299c97907c6acf" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-4_5">
+        <c02 id="aspace_10cd898304a644401d569dc3cfcc73ec" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Elsie M. Bond</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945/1946">1945-1946</unitdate>
+            <unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate>
+            <container id="aspace_d93211954a18c5e48ccbb8336a9eb9a8" label="Mixed Materials" type="Box">1 (4-Elsie M. Bond)</container>
+            <container id="aspace_499b1986327045af47796cdaff9ef230" parent="aspace_d93211954a18c5e48ccbb8336a9eb9a8" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-4_6">
+        <c02 id="aspace_59dcaf8acbdb1706d820145cb6c4f49d" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Elsie M. Bond</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1947">1947</unitdate>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_c66f7aaf6d725d3193908cd91d032355" label="Mixed Materials" type="Box">2 (4-Elsie M. Bond)</container>
+            <container id="aspace_c2ba84be112b7637ca62d1dc3caed845" parent="aspace_c66f7aaf6d725d3193908cd91d032355" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-4_7">
+        <c02 id="aspace_38489011be7866eaa0e66099309cd5b0" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>Elsie M. Bond</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1948/1949">1948-1949</unitdate>
+            <unitdate normal="1948/1949" type="inclusive">1948-1949</unitdate>
+            <container id="aspace_4425830746a7579c3d19e4fe50a2a5e4" label="Mixed Materials" type="Box">2 (4-Elsie M. Bond)</container>
+            <container id="aspace_21298015bff370b8c18ac619a513d2c1" parent="aspace_4425830746a7579c3d19e4fe50a2a5e4" type="Folder">2</container>
           </did>
         </c02>
       </c01>
-      <!-- Start series 5-->
-      <c01 level="series" id="nam_apap126-5">
+      <c01 id="aspace_871209032d7310165a79f39b83cddb37" level="series">
         <did>
+          <unittitle>Administration</unittitle>
           <unitid>5</unitid>
-          <unittitle label="Series">Administration</unittitle>
-          <unitdate type="inclusive" normal="1937/1994">1937-1994</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.6</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.6 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1937/1994" type="inclusive">1937-1994</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_b001d9027aec42480d4a66650cba573e">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_3072488ab11ce5659bc7a4b3bd23e4d4">
+          <head>Scope and Contents</head>
           <p>The Administration series contains the records of the Board of Directors and the Association's budget reports. These dates are not inclusive. The Board of Directors records (1968-1994) contain letters of nomination, directions to the association for making important decisions and changes, meeting minutes, agendas, correspondence, expenditures, and actions taken on meeting resolutions. The budgets cover most every year, but are not inclusive as some years are missing. The budget records include charts and estimates, budget proposals for the coming year, and legal issues regarding the allocation of funds.</p>
         </scopecontent>
-        <c02 id="nam_apap126-5_1">
+        <c02 id="aspace_93a22722bb962ddb8b973789a3982c9f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Advance Payments</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980">1980</unitdate>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_16beb148c576a483709dde770628dc8d" label="Mixed Materials" type="Box">1 (5-Administration)</container>
+            <container id="aspace_b4ef351ead3f5752f8b475b9a695350e" parent="aspace_16beb148c576a483709dde770628dc8d" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-5_2">
+        <c02 id="aspace_b3e28c961330ae7913108f7b90555489" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Board of Directors</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1971">1968-1971</unitdate>
+            <unitdate normal="1968/1971" type="inclusive">1968-1971</unitdate>
+            <container id="aspace_6806a82dbbfa84a46477b80f8976dc78" label="Mixed Materials" type="Box">1 (5-Administration)</container>
+            <container id="aspace_2517cce7cfc2d1b9c92eafa7b2147d5c" parent="aspace_6806a82dbbfa84a46477b80f8976dc78" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-5_3">
+        <c02 id="aspace_b063252daa4d546fc66ab0cdfc8b834e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Board of Directors</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972">1972</unitdate>
+            <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_bfa6e8f75c27b0f629c27dd9a4c05b4e" label="Mixed Materials" type="Box">1 (5-Administration)</container>
+            <container id="aspace_c7d0fe94d392368ee6ea517e61f6aabc" parent="aspace_bfa6e8f75c27b0f629c27dd9a4c05b4e" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-5_4">
+        <c02 id="aspace_3c363419e1874c433cbc8d287bd5a863" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Board of Directors</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973/1974">1973-1974</unitdate>
+            <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+            <container id="aspace_43c3c90cd18f88f99984357e7a755283" label="Mixed Materials" type="Box">1 (5-Administration)</container>
+            <container id="aspace_b9eb1443ad6e3cba3d3a91f362ad3d4f" parent="aspace_43c3c90cd18f88f99984357e7a755283" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-5_5">
+        <c02 id="aspace_9d58609aada36a0984f213266efc9c05" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Board of Directors</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975">1975</unitdate>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_54de1f5996de87ce3ed58cd501d87b63" label="Mixed Materials" type="Box">1 (5-Administration)</container>
+            <container id="aspace_1371832186a51e435cc87674e9822d68" parent="aspace_54de1f5996de87ce3ed58cd501d87b63" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-5_6">
+        <c02 id="aspace_8105a74e5a61f2633c36e3b55609c64a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Board of Directors</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976/1977">1976/1977</unitdate>
+            <unitdate normal="1976/1977" type="inclusive">1976/1977</unitdate>
+            <container id="aspace_ae8778bf182c850bd8dc970c8d05b07d" label="Mixed Materials" type="Box">1 (5-Administration)</container>
+            <container id="aspace_13c82090349f9dc6cfc74f10f352ba31" parent="aspace_ae8778bf182c850bd8dc970c8d05b07d" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-5_7">
+        <c02 id="aspace_a3940adfdbd2d07fc33ca388023b2a4f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Board of Directors</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993/1994">1993-1994</unitdate>
+            <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_31afadb373818d9ecbee6815833dc6d3" label="Mixed Materials" type="Box">1 (5-Administration)</container>
+            <container id="aspace_b7f50f72abbe587f48aabe4a9bf875a8" parent="aspace_31afadb373818d9ecbee6815833dc6d3" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-5_8">
+        <c02 id="aspace_0558f9055d3b450ec893ebbd496b1ea7" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Budget</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937/1945">1937-1945</unitdate>
+            <unitdate normal="1937/1945" type="inclusive">1937-1945</unitdate>
+            <container id="aspace_4642aa1625881d1b0e7d8adc8f38011d" label="Mixed Materials" type="Box">2 (5-Administration)</container>
+            <container id="aspace_cd54b422e8b63340d08054c6fdcf9394" parent="aspace_4642aa1625881d1b0e7d8adc8f38011d" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-5_9">
+        <c02 id="aspace_9ee7677362dd4d13d03d9f5c433b92fd" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>Budget</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960/1984">1960-1984</unitdate>
+            <unitdate normal="1960/1984" type="inclusive">1960-1984</unitdate>
+            <container id="aspace_df714672aaccecb01eab10d99408169e" label="Mixed Materials" type="Box">2 (5-Administration)</container>
+            <container id="aspace_3514914b8501747eee72c7404f282da4" parent="aspace_df714672aaccecb01eab10d99408169e" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-5_10">
+        <c02 id="aspace_0d60695e25553ce6e547085b1100cbd2" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>State Budget Analysis</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984/1985">1984-1985</unitdate>
+            <unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate>
+            <container id="aspace_818957923ae5dd7d3576b241043980d4" label="Mixed Materials" type="Box">2 (5-Administration)</container>
+            <container id="aspace_dbf93e8b768f4ed07d3e5a17bfa0e716" parent="aspace_818957923ae5dd7d3576b241043980d4" type="Folder">3</container>
           </did>
         </c02>
       </c01>
-      <!-- Start series 6-->
-      <c01 level="series" id="nam_apap126-6">
+      <c01 id="aspace_e424246f6e88cdb46e6ee4322b7eb305" level="series">
         <did>
+          <unittitle>Surveys</unittitle>
           <unitid>6</unitid>
-          <unittitle label="Series">Surveys</unittitle>
-          <unitdate type="inclusive" normal="1979/1986">1979-1986</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.4</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.4 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1979/1986" type="inclusive">1979-1986</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_8ff4b3255c55c8b019144fdba2b49491">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_359c3bdeb9fee3a9ee9a99e6bc1a0395">
+          <head>Scope and Contents</head>
           <p>Surveys were common during this period. These files contain many survey forms that were sent to all county commissioners to gain feedback on each county's local policy related to such subjects as child protection, cross matching, income maintenance, indigent burial, Medicaid, and state charge. These dates are not inclusive.</p>
         </scopecontent>
-        <c02 id="nam_apap126-6_1">
+        <c02 id="aspace_df279069c5bb10eef9040f8fb289f0b9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Child Protective Survey</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980">1980</unitdate>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_ad328ad7d9affcfee6e6d25a22f192c1" label="Mixed Materials" type="Box">1 (6-Surveys)</container>
+            <container id="aspace_ad829b358089c34722b69d1bcab9659d" parent="aspace_ad328ad7d9affcfee6e6d25a22f192c1" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-6_2">
+        <c02 id="aspace_ea3c659f6d85e2a7b1ca34cc6172f0b4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Cross Matching Survey</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_4a10cb27a83fbafdf20397f7ded10096" label="Mixed Materials" type="Box">1 (6-Surveys)</container>
+            <container id="aspace_c71954e83e25849099255b6bb9b114a0" parent="aspace_4a10cb27a83fbafdf20397f7ded10096" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-6_3">
+        <c02 id="aspace_ba97130f203313a846dae03661301fff" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Income Maintenance Survey</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1981">1980-1981</unitdate>
+            <unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate>
+            <container id="aspace_e9aa674b07767f85fb3eb8a2aa1d2591" label="Mixed Materials" type="Box">1 (6-Surveys)</container>
+            <container id="aspace_3e36e0bfddf02e64f9b68c30a03fa4df" parent="aspace_e9aa674b07767f85fb3eb8a2aa1d2591" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-6_4">
+        <c02 id="aspace_282cf4a5c60e248d9a835f8cd99a0a72" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Indigent Burial Survey</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1985">1979-1985</unitdate>
+            <unitdate normal="1979/1985" type="inclusive">1979-1985</unitdate>
+            <container id="aspace_6bef0de2d38895868ce90afeb1df4ea5" label="Mixed Materials" type="Box">1 (6-Surveys)</container>
+            <container id="aspace_086c019ae0a3295ce07e88a43944d546" parent="aspace_6bef0de2d38895868ce90afeb1df4ea5" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-6_5">
+        <c02 id="aspace_ad7a4d7c003bbc2e7869aa3bba669e86" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Indigent Burial Survey</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_7f9d443e321464de4cf5a8b197049344" label="Mixed Materials" type="Box">1 (6-Surveys)</container>
+            <container id="aspace_b08a7b9800b53ab7ac5b9a7a0eb562f7" parent="aspace_7f9d443e321464de4cf5a8b197049344" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-6_6">
+        <c02 id="aspace_4e98ac389280238e0bed254c78d82200" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Medicaid Survey</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_0b3085db2efb24c941f355dde3554868" label="Mixed Materials" type="Box">1 (6-Surveys)</container>
+            <container id="aspace_3079e4bc0ab5438c043781c11060a9cd" parent="aspace_0b3085db2efb24c941f355dde3554868" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-6_7">
+        <c02 id="aspace_3b1c5e16fe993b22c520e438af344f53" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>State Charge Survey</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984/1985">1984-1985</unitdate>
+            <unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate>
+            <container id="aspace_e9aab6972f2bef3a3e4cdea525084ff1" label="Mixed Materials" type="Box">1 (6-Surveys)</container>
+            <container id="aspace_abee81bf167efccf5951a7a6969b6e75" parent="aspace_e9aab6972f2bef3a3e4cdea525084ff1" type="Folder">7</container>
           </did>
         </c02>
       </c01>
-      <!-- Start series 7-->
-      <c01 level="series" id="nam_apap126-7">
+      <c01 id="aspace_e0e7f3a7da846464b6cc57134a2a7e5a" level="series">
         <did>
+          <unittitle>Legal Issues</unittitle>
           <unitid>7</unitid>
-          <unittitle label="Series">Legal Issues</unittitle>
-          <unitdate type="inclusive" normal="1970/1995">1970-1995</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.4</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.4 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1970/1995" type="inclusive">1970-1995</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_340c150b30645b391bf14f072336c0bd">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_282fcf0331a948e5db06d23d771f51bd">
+          <head>Scope and Contents</head>
           <p>This series is a collection of legal related folders such as the Governor's Council, Reports to the Governor, Social Security Law, Welfare Fraud Investigation, and Welfare Inspector General. These dates are not inclusive.</p>
         </scopecontent>
-        <c02 id="nam_apap126-7_1">
+        <c02 id="aspace_91f0f403252473852efd034abcf28ce7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Governor's Council</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1978">1977-1978</unitdate>
+            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container id="aspace_b9ac1a88605cca2e73237bf0e098dcdf" label="Mixed Materials" type="Box">1 (7-Legal Issues)</container>
+            <container id="aspace_8b93856cfbb82e92ceea10b378a1844e" parent="aspace_b9ac1a88605cca2e73237bf0e098dcdf" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-7_2">
+        <c02 id="aspace_0c61909325f0d1ccb4bd21e73841fce3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Reports to the Governor</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_2b31614fdd391e5d473dd2b28754a295" label="Mixed Materials" type="Box">1 (7-Legal Issues)</container>
+            <container id="aspace_129b3bbd1e5245fc70d10cfb8d5932fc" parent="aspace_2b31614fdd391e5d473dd2b28754a295" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-7_3">
+        <c02 id="aspace_52ef63291b1607520d69ec958a4efa74" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Social Security Laws</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970/1973">1970-1973</unitdate>
+            <unitdate normal="1970/1973" type="inclusive">1970-1973</unitdate>
+            <container id="aspace_26c630e447fa93b39ebd6402ff0658d0" label="Mixed Materials" type="Box">1 (7-Legal Issues)</container>
+            <container id="aspace_673e3aa069c1985d707db304bcf3420a" parent="aspace_26c630e447fa93b39ebd6402ff0658d0" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-7_4">
+        <c02 id="aspace_838d771d2b385617b9e24228f07c4d7f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Welfare Fraud Investigations Association</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985/1995">1985-1995</unitdate>
+            <unitdate normal="1985/1995" type="inclusive">1985-1995</unitdate>
+            <container id="aspace_d7d6471951f580b33a1d4a3354e0cc6d" label="Mixed Materials" type="Box">1 (7-Legal Issues)</container>
+            <container id="aspace_447bdf294ae9251c0177e87be088c589" parent="aspace_d7d6471951f580b33a1d4a3354e0cc6d" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-7_5">
+        <c02 id="aspace_1c75b5d267101bcfef90b3ff85d07a2e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Welfare Inspector General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980-1981">1980-1981</unitdate>
+            <unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate>
+            <container id="aspace_6a910777466d474a1d18b92adee86e2e" label="Mixed Materials" type="Box">1 (7-Legal Issues)</container>
+            <container id="aspace_1bf7fcf1d0676e2839c6736ca158c701" parent="aspace_6a910777466d474a1d18b92adee86e2e" type="Folder">5</container>
           </did>
         </c02>
       </c01>
-      <!-- Start series 8-->
-      <c01 level="series" id="nam_apap126-8">
+      <c01 id="aspace_21bafdb585ba2ac759d52f38d35ea844" level="series">
         <did>
+          <unittitle>Programs</unittitle>
           <unitid>8</unitid>
-          <unittitle label="Series">Programs</unittitle>
-          <unitdate type="inclusive" normal="1961/1994">1961-1994</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">1.4</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.4 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1961/1994" type="inclusive">1961-1994</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_408d1e6b0e8b1ae809e2cc563e36b0ab">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_d3ef06c50b11b4df49fa79dc7bd13842">
+          <head>Scope and Contents</head>
           <p>This series represents a plethora of public welfare programs. There is correspondence between the many departments of social services as well as reports on specific county programs. Programs include the Child Health Assurance Program (CHAP), the State Human Investment Program (SHIP), Home Energy Assistance Program (HEAP), Home Relief, Medicaid, Child Support, Food Stamps, Job Training, Employment and Homeless Issues, and a few county files. Of note is an important case study of public welfare that was conducted in Newburgh, New York in 1961; a folder is dedicated to this study.</p>
         </scopecontent>
-        <c02 id="nam_apap126-8_1">
+        <c02 id="aspace_ab00bb7b65b00c72857b789a6599b992" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Chemung County Managed Care</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1992">1990-1992</unitdate>
+            <unitdate normal="1990/1992" type="inclusive">1990-1992</unitdate>
+            <container id="aspace_3d5a3f82eff7b88821872ae0d2669432" label="Mixed Materials" type="Box">1 (8-Programs)</container>
+            <container id="aspace_8daa7bf253bee158b30638576d5e48c9" parent="aspace_3d5a3f82eff7b88821872ae0d2669432" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_2">
+        <c02 id="aspace_5c23a8045decd39854b32eafcdd5a744" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Child Health Assurance Program</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_6662aee185085175ef283db9bb71857f" label="Mixed Materials" type="Box">1 (8-Programs)</container>
+            <container id="aspace_01af163d0fe92e85f5d9f394ea03db54" parent="aspace_6662aee185085175ef283db9bb71857f" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_3">
+        <c02 id="aspace_038dc9b21c61950db22d7aeac945ae47" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Child Support</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978/1980">1978-1980</unitdate>
+            <unitdate normal="1978/1980" type="inclusive">1978-1980</unitdate>
+            <container id="aspace_b3e324658150152244f16966828e229e" label="Mixed Materials" type="Box">1 (8-Programs)</container>
+            <container id="aspace_7c6d688b9b7eaf9d6791af73ed8ec6ce" parent="aspace_b3e324658150152244f16966828e229e" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_4">
+        <c02 id="aspace_a24392d48eebaaa39ee23945831e3995" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Child Support</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_87acd9782cb435366fd45bd37ac04f8e" label="Mixed Materials" type="Box">1 (8-Programs)</container>
+            <container id="aspace_7e0d883ea8870e87c78cccef1ea8c592" parent="aspace_87acd9782cb435366fd45bd37ac04f8e" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_5">
+        <c02 id="aspace_750457ab4d6610e436c8da08c03d8f1c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Child Support</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_bba9ffbe82373fab08cfb4f29704d556" label="Mixed Materials" type="Box">1 (8-Programs)</container>
+            <container id="aspace_408b0585929c2520e4a82cb54bbaf32e" parent="aspace_bba9ffbe82373fab08cfb4f29704d556" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_6">
+        <c02 id="aspace_6550b475a3d39fee3abde614751abcc0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Child Support</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_3795afa99d0da623fed51f8a559f16db" label="Mixed Materials" type="Box">1 (8-Programs)</container>
+            <container id="aspace_bc8fe9dfd343c45ca862d9e2595b5e75" parent="aspace_3795afa99d0da623fed51f8a559f16db" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_7">
+        <c02 id="aspace_10e10c0cb26e495ffd80caea46728f8b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Employment</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_bf521adf49aeab41a5475afac4a1ecec" label="Mixed Materials" type="Box">1 (8-Programs)</container>
+            <container id="aspace_e791f49f042ce3e36967bf3f4d554c2f" parent="aspace_bf521adf49aeab41a5475afac4a1ecec" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_8">
+        <c02 id="aspace_1c1bc63b5f3695f6a49f72c37996e3db" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Employment</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_476bfbc510fb59e98509b88ec93a872f" label="Mixed Materials" type="Box">1 (8-Programs)</container>
+            <container id="aspace_c6aa5901f9e632315844f1753964b870" parent="aspace_476bfbc510fb59e98509b88ec93a872f" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_9">
+        <c02 id="aspace_9a7892efa4628d63c1804a158affb519" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Employment</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_9306cdc4afaa614b79c53211e44162dc" label="Mixed Materials" type="Box">1 (8-Programs)</container>
+            <container id="aspace_1894ce10d50ffc153648ec10d1ad789d" parent="aspace_9306cdc4afaa614b79c53211e44162dc" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_10">
+        <c02 id="aspace_0fa558f17553bef45c88fb6b89927cab" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Federal Register Grant</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_e23b266420197459b9b9ce9308c4e236" label="Mixed Materials" type="Box">1 (8-Programs)</container>
+            <container id="aspace_973b883fbb273c894ecde4364daf5fb8" parent="aspace_e23b266420197459b9b9ce9308c4e236" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_11">
+        <c02 id="aspace_b508819e53a3bd7f560989889978941d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Food Stamps</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1984">1980-1984</unitdate>
+            <unitdate normal="1980/1984" type="inclusive">1980-1984</unitdate>
+            <container id="aspace_e2a4596e81fa777f8eb3f074c5c965ed" label="Mixed Materials" type="Box">1 (8-Programs)</container>
+            <container id="aspace_184f17a92255605e7d0aeabc4f2c5919" parent="aspace_e2a4596e81fa777f8eb3f074c5c965ed" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_12">
+        <c02 id="aspace_3334039925a298dc72df304d538f9721" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Home Energy Assistance Program</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1982">1980-1982</unitdate>
+            <unitdate normal="1980/1982" type="inclusive">1980-1982</unitdate>
+            <container id="aspace_1a3aaf484162b60f004cfe1bacf9d9e0" label="Mixed Materials" type="Box">1 (8-Programs)</container>
+            <container id="aspace_7d7e19a27792b4f73f4762438dcaed76" parent="aspace_1a3aaf484162b60f004cfe1bacf9d9e0" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_13">
+        <c02 id="aspace_7bdba6bcd08e3e1b03033249a59e02d3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Home Energy Assistance Program</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1984">1983-1984</unitdate>
+            <unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate>
+            <container id="aspace_d1e4907aff1a56dcbd7ac0ddc8840e0b" label="Mixed Materials" type="Box">1 (8-Programs)</container>
+            <container id="aspace_67dd586bbe681b62393d3eab254a7717" parent="aspace_d1e4907aff1a56dcbd7ac0ddc8840e0b" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_14">
+        <c02 id="aspace_0ecc63e92a742b1dbb88dbb1285e845c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Home Relief</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_17d51f33f36a41ca09fa285c2ac85e1c" label="Mixed Materials" type="Box">1 (8-Programs)</container>
+            <container id="aspace_ed7d0f797ac9616c727c3ed0de4ab801" parent="aspace_17d51f33f36a41ca09fa285c2ac85e1c" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_15">
+        <c02 id="aspace_a27a78be1f8c8ddd9adbafbda9f5f186" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Homeless Issues in New York City</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1984">1983-1984</unitdate>
+            <unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate>
+            <container id="aspace_ef66782aaf2044ea9a244381624145eb" label="Mixed Materials" type="Box">1 (8-Programs)</container>
+            <container id="aspace_e3802943878d6bf8ffda50212dd3bf3e" parent="aspace_ef66782aaf2044ea9a244381624145eb" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_16">
+        <c02 id="aspace_c36ef75f7f839e987d13e8f06c717a00" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Nassau County Systems</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1983">1980-1983</unitdate>
+            <unitdate normal="1980/1983" type="inclusive">1980-1983</unitdate>
+            <container id="aspace_389de7b09b97a8bb532aeb525357f3d6" label="Mixed Materials" type="Box">1 (8-Programs)</container>
+            <container id="aspace_8321b7d4537f2c8dc510a0af0660d878" parent="aspace_389de7b09b97a8bb532aeb525357f3d6" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_17">
+        <c02 id="aspace_4fa9359e8735ae4a1ffbf76065ef7fb7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>Homeless Issues in Westchester County</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_ea5623f2e35deb0359278d7aecfe1322" label="Mixed Materials" type="Box">1 (8-Programs)</container>
+            <container id="aspace_95c880bf1ee6703f66b2741765505e37" parent="aspace_ea5623f2e35deb0359278d7aecfe1322" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_18">
+        <c02 id="aspace_a5b60d351fd6eeddabc7d792abd96e10" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>Newburgh File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961">1961</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_30cf4967f4a9c40d427d2ad34abbfaff" label="Mixed Materials" type="Box">1 (8-Programs)</container>
+            <container id="aspace_ecd39904ef77171d364191bfd7b131ac" parent="aspace_30cf4967f4a9c40d427d2ad34abbfaff" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_19">
+        <c02 id="aspace_e1ba4bd8e1047c3f9d51378dec4a6cce" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Medicaid</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1984">1981-1984</unitdate>
+            <unitdate normal="1981/1984" type="inclusive">1981-1984</unitdate>
+            <container id="aspace_98579f73b208df847c3e15f9fc1384f3" label="Mixed Materials" type="Box">2 (8-Programs)</container>
+            <container id="aspace_705f473fb96dc456b83e3e35adc6392f" parent="aspace_98579f73b208df847c3e15f9fc1384f3" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_20">
+        <c02 id="aspace_c441a8b3914f617a1a7908eb70cf762b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>Medicaid</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993/1994">1993-1994</unitdate>
+            <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_f2a1ebcaacd4108ba1c4625d2de44c45" label="Mixed Materials" type="Box">2 (8-Programs)</container>
+            <container id="aspace_7a48351f6615da6a373181ee72b1bdbb" parent="aspace_f2a1ebcaacd4108ba1c4625d2de44c45" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_21">
+        <c02 id="aspace_827b954dc4eea9f82dd5f10d81893cd4" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Mental Hygiene</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1979">1977-1979</unitdate>
+            <unitdate normal="1977/1979" type="inclusive">1977-1979</unitdate>
+            <container id="aspace_4e5c1f95c34ac14cccdce12f53be9064" label="Mixed Materials" type="Box">2 (8-Programs)</container>
+            <container id="aspace_0ae66bc8891c477f93dd312278a18128" parent="aspace_4e5c1f95c34ac14cccdce12f53be9064" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_22">
+        <c02 id="aspace_767d62aafb1038dbc54bc3bfa84b072a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Training</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982/1983">1982-1983</unitdate>
+            <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate>
+            <container id="aspace_d0ce037deb7055716a0c470660fabc71" label="Mixed Materials" type="Box">2 (8-Programs)</container>
+            <container id="aspace_f4300e9ba653955e3d2b3d6c8f19bc00" parent="aspace_d0ce037deb7055716a0c470660fabc71" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_23">
+        <c02 id="aspace_dd57ee5150a452c4eda1988a92e6121c" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>Training</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_2ee6b6efa889689c2f037b29d7351b58" label="Mixed Materials" type="Box">2 (8-Programs)</container>
+            <container id="aspace_2c9f7ff488277667a8c4db6876a05185" parent="aspace_2ee6b6efa889689c2f037b29d7351b58" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_24">
+        <c02 id="aspace_9f602413c66fb27ff379c844112ecaaa" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>Training</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_dd780561db81657d47b0a0d189d4ecfa" label="Mixed Materials" type="Box">2 (8-Programs)</container>
+            <container id="aspace_c10e9e3d6a429ec5594b6b53eb4cd782" parent="aspace_dd780561db81657d47b0a0d189d4ecfa" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_25">
+        <c02 id="aspace_9d3a6aef4fd419d672c0e203f3ff1c3a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
             <unittitle>Training</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_60256a6b8e759af2d5f9a113c7ab0be0" label="Mixed Materials" type="Box">2 (8-Programs)</container>
+            <container id="aspace_1ca267458bba4ab4e465cb9888306a56" parent="aspace_60256a6b8e759af2d5f9a113c7ab0be0" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_26">
+        <c02 id="aspace_9b0db0567a272f9b4e294a0321f54b05" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
             <unittitle>State Communities Aid Association Bulletin</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_dd8a4e5c636846ce152efd08a9f9ee0c" label="Mixed Materials" type="Box">2 (8-Programs)</container>
+            <container id="aspace_f69cdbe7fc62cd9016ee5a4cda702a1b" parent="aspace_dd8a4e5c636846ce152efd08a9f9ee0c" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap126-8_27">
+        <c02 id="aspace_c355dc3b571383016f7351674f31c662" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
             <unittitle>State Human Investment Program</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982/1984">1982-1984</unitdate>
+            <unitdate normal="1982/1984" type="inclusive">1982-1984</unitdate>
+            <container id="aspace_551e82291f23f0ed983f555fe797d5a6" label="Mixed Materials" type="Box">2 (8-Programs)</container>
+            <container id="aspace_b8880f543ebfe40a3fcd9f0e8f98ad3d" parent="aspace_551e82291f23f0ed983f555fe797d5a6" type="Folder">9</container>
           </did>
         </c02>
       </c01>

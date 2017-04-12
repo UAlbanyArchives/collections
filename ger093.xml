@@ -1,89 +1,84 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ger093">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ger093.html">nam_ger093</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ger093">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ger093.xml">ger093</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>UNITARIAN SERVICE COMMITTEE (GER093)<date normal="1941/1942" type="inclusive">1941-1942</date></titleproper>
+        <titleproper>Unitarian Service Committee; Records <num>ger093</num></titleproper>
         <author>unprocessed</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2016" type="publication">Copyright 2016 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2016</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Brian Keough<date normal="2016-12-29">2016 December 29</date></creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:33:31 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2016 December 29</date>
+        <item>Encoded in EAD by Brian Keough</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>Unitarian Service Committee<date normal="1941/1942" type="inclusive">1941-1942</date></titleproper>
-      <publisher/>
-      <date type="publication">Copyright 2016 By the University at Albany, SUNY. All rights reserved.</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ger093</unitid>
-      <unittitle>Unitarian Service Committee<unitdate label="Date:" normal="1941/1942" type="inclusive">1941-1942</unitdate></unittitle>
-      <abstract label="Abstract:">The collection contains materials documenting the work of the Unitarian Service Committee.
-</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="lcsh">Unitarian Service Committee</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">0.1</extent>
-      </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Unitarian Service Committee<unitdate normal="1941/1942" type="inclusive">1941-1942</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="lcsh">Unitarian Service Committee</corpname>
+      </origination>
+      <unitid>ger093</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.1 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_6abc818f513c8af5564fb5eef9c4b233">The collection contains materials documenting the work of the Unitarian Service Committee.</abstract>
+      <langmaterial id="aspace_0e75bb432fe7aede76830acd245223ab">English</langmaterial>
+      <physloc id="aspace_8292d6d3dc8bbb8f2816b77a277dfc02">The materials are located onsite in the department.</physloc>
+      <container id="aspace_38a48ab956628854c674e03ba02d3a68" label="Mixed Materials" type="Collection">X</container>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_402a1e57aa088efa688104534f33781f">
+      <head>Processing Information</head>
+      <p>Processed in 2016 by unprocessed.</p>
+    </processinfo>
+    <accessrestrict id="aspace_a854b7d9374f439a5a95357dfdb9fd84">
       <head>Access</head>
       <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. Please contact an archivist for more information.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_7563712caed5bd39da6278c2c00d6939">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
-      <p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p> The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_02a9408b907614c7bd87adcf6a6408d7">
       <head>Acquisition Information</head>
       <p>All items in this collection were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_c0de2a58337d3c708a49a8f7aa2d2034">
       <head>Historical Note</head>
-      <p>The Unitarian Service Committee was established in May 1940 as a standing committee of the American Unitarian Association to seek out possible opportunities domestically and abroad to provide humanitarian serivce.   </p>
+      <p>The Unitarian Service Committee was established in May 1940 as a standing committee of the American Unitarian Association to seek out possible opportunities domestically and abroad to provide humanitarian serivce.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The collection consists of articles from journals, such as Christian Science Register, about this society's activities and lists of recipients of aid and people who were aided in escape from Europe during World War II.
-
-</p>
+    <scopecontent id="aspace_28705174093625403afbad098648de2d">
+      <head>Scope and Contents</head>
+      <p>The collection consists of articles from journals, such as Christian Science Register, about this society's activities and lists of recipients of aid and people who were aided in escape from Europe during World War II.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_b5b21255243b4dbb20fe3f28ebea39de">
       <head>Arrangement of the Collection</head>
       <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <prefercite>
+    <prefercite id="aspace_875013430695ad3190a3a0aecc52cfe4">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Unitarian Service Committee, 1941-1942. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Unitarian Service Committee).</p>
+      <p> Identification of specific item, series, box, folder, Unitarian Service Committee, 1941-1942. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Unitarian Service Committee).</p>
     </prefercite>
+    <dsc/>
   </archdesc>
 </ead>

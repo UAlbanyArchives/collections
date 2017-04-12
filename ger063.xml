@@ -1,1078 +1,1053 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ger063">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ger063.html">nam_ger063</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ger063">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ger063.xml">ger063</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>JOACHIM MAASS PAPERS (GER063)<date normal="1901/1972" type="inclusive">1901-1972</date></titleproper>
+        <titleproper>Maass, Joachim; Papers <num>ger063</num></titleproper>
         <author>Inventory by Sandra Hunt Hawrylchak</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="1977-08" type="publication">Copyright 1977 August by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>1977 August</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Jodi Boyle<date normal="2015">2015</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:25:52 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2015-12">2015 December</date>
+        <date>2015 December</date>
         <item>Converted to EAD</item>
+      </change>
+      <change>
+        <date>2015</date>
+        <item>Encoded in EAD by Jodi Boyle</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ger063</unitid>
-      <unittitle>Joachim Maass Papers<unitdate normal="1901/1972" type="inclusive">1901-1972</unitdate></unittitle>
-      <abstract label="Abstract:">The collection contains correspondence, manuscript materials and lecture notes.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-        <language langcode="ger">German</language>
-      </langmaterial>
-      <origination>
-        <persname encodinganalog="100" source="lcsh">Maass, Joachim, 1901-1972</persname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">2.5</extent>
-      </physdesc>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Joachim Maass Papers<unitdate normal="1901/1972" type="inclusive">1901-1972</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="lcsh">Maass, Joachim, 1901-1972</persname>
+      </origination>
+      <unitid>ger063</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.5 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_a7cc8c2595afd109ade7b8a5ca665794">The collection contains correspondence, manuscript materials and lecture notes.</abstract>
+      <physloc id="aspace_d71ceedd533d821cd40f147951f64f30">The materials are located onsite in the department.</physloc>
     </did>
-    <bioghist>
+    <processinfo id="aspace_bd0d2b92e1dbdde5bdeb5b32a0b1ee15">
+      <head>Processing Information</head>
+      <p>Processed in 1977 August by Inventory by Sandra Hunt Hawrylchak.</p>
+    </processinfo>
+    <bioghist id="aspace_c0ba232b75a4f54b118373f12debdfc3">
       <head>Biographical History</head>
-      <p>A writer, Joachim Maass (1901-1972) was born in Hamburg and came to the United States in 1938.  He secured a positon at Mount Holyoke College in 1940, where he taught and lectured.  He later taught German literature at Haverford College.</p>
+      <p>A writer, Joachim Maass (1901-1972) was born in Hamburg and came to the United States in 1938. He secured a positon at Mount Holyoke College in 1940, where he taught and lectured. He later taught German literature at Haverford College.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The collection is composed entirely of photocopied materials.  The originals are in the Deutsches Literaturarchiv, Marbach.  The collection includes correspondence, manuscripts of novels, short stories, plays, poetry, and essays, 1940-46; lecture notes, 1956-61; and clippings, offprints, reviews, and biographies, 1927-36. </p>
+    <scopecontent id="aspace_535bdfeb34517aad9a452902856e1b96">
+      <head>Scope and Contents</head>
+      <p>The collection is composed entirely of photocopied materials. The originals are in the Deutsches Literaturarchiv, Marbach. The collection includes correspondence, manuscripts of novels, short stories, plays, poetry, and essays, 1940-46; lecture notes, 1956-61; and clippings, offprints, reviews, and biographies, 1927-36.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_5e822dedda57a5a3267e47582deb4de6">
       <head>Arrangement of the Collection</head>
       <p>The collection is divided into two topical series.</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_745edf50e7ced4c5052d92ba0da4ea14">
       <head>Acquisition Information</head>
       <p>The M.E. Grenander Department of Special Collections &amp; Archives photocopied the papers before the originals were sent to the Deutsches Literaturarchiv, Marbach.<date normal="1977">1977</date></p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_03d0e1633ffb50e003d9267503248006">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_5accea6fd44834793fe4c4ae4bd8a38e">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites. </p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
-      <p>The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future. </p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
+      <p> The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_ce7e7e6a268a27994327de4609324080">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Joachim Maass Papers, 1901-1972. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Maass Papers).</p>
+      <p> Identification of specific item, series, box, folder, Joachim Maass Papers, 1901-1972. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Maass Papers).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Literature</subject>
-      <persname encodinganalog="600" source="lcsh">Maass, Joachim, 1901-1972</persname>
-      <subject encodinganalog="650" source="lcsh">World War, 1939-1945 -- Refugees</subject>
-      <genreform encodinganalog="655" source="aat">Short stories</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Poems</genreform>
-      <genreform encodinganalog="655" source="aat">Essays</genreform>
+      <subject source="meg">Literature</subject>
+      <subject source="lcsh">World War, 1939-1945 -- Refugees</subject>
+      <genreform source="aat">Short stories</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Poems</genreform>
+      <genreform source="aat">Essays</genreform>
+      <persname source="lcsh">Maass, Joachim, 1901-1972</persname>
     </controlaccess>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_ger063-1" level="series">
+    <dsc>
+      <c01 id="aspace_3e1105c1df47adc309d1ceabc09bd1b3" level="series">
         <did>
+          <unittitle>Correspondence, contracts</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Correspondence, contracts</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1930/1972" type="inclusive">1930-1972</unitdate>
+          <unitdate normal="1930/1972" type="inclusive">1930-1972</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_26dee154c7221e3ac55f9c3731a6918f">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_97c88c161435fd1a1328b6ac8766d8dd">
+          <head>Scope and Contents</head>
           <p>Contains two folders of correspondence.</p>
         </scopecontent>
-        <c02 id="nam_ger063-1_1">
+        <c02 id="aspace_f3f9f9d1f3de1730a958ee4d4a960eeb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Correspondence with the Kurt Desch Vrlag, concerning Maass' works. Also contracts</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1961">1961</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1969">1969</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1971/1972">1971-1972</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_af61ffa549946c400af95d94cd65c05c" label="Mixed Materials" type="Box">1 (1-Correspondence, contracts)</container>
+            <container id="aspace_1d6b08858d3c654a73e233076d588856" parent="aspace_af61ffa549946c400af95d94cd65c05c" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-1_2">
+        <c02 id="aspace_c7234dc18b7c736b48cae8e20fbda7a6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Stefan Zweig</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1930/1939">1930-1939</unitdate>
+            <unitdate normal="1930/1939" type="inclusive">1930-1939</unitdate>
+            <container id="aspace_4004124f00409acc2f347ae314cce55a" label="Mixed Materials" type="Box">1 (1-Correspondence, contracts)</container>
+            <container id="aspace_490fa14302a83ccb2cdac732b5117673" parent="aspace_4004124f00409acc2f347ae314cce55a" type="Folder">2</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_ger063-2" level="series">
+      <c01 id="aspace_a3862fa4cb898f7fc0eb286cb20860a2" level="series">
         <did>
+          <unittitle>Manuscripts - Novels</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Manuscripts - Novels</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1901/1972" type="inclusive">Undated</unitdate>
+          <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_8d58bd49432731542be11d8e0b8a13d4">
+          <head>Arrangement</head>
           <p>Arranged in original order.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_b7a502128f83a9003d3f8beaf69c494c">
+          <head>Scope and Contents</head>
           <p>This series contains manuscript novels and fragments of novels.</p>
         </scopecontent>
-        <c02 id="nam_ger063-2_1">
+        <c02 id="aspace_f87f78ff9bf78b66a64bac28e5d7a3c9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>
               <emph render="italic">Carl Schurz</emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_76852268c1313f65a30c57b740ef52c9" label="Mixed Materials" type="Box">1 (2-Manuscripts - Novels)</container>
+            <container id="aspace_eced47b829c0833fb98cf432142f0e77" parent="aspace_76852268c1313f65a30c57b740ef52c9" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-2_2">
+        <c02 id="aspace_172094c886c7b2d21b50b86b1eb541e9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>
               <emph render="italic">Senator, Innenministier und "Mugwump" Fuehrer [Carl Schurz]</emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_794b844109720fcdaedcc552b8d7534b" label="Mixed Materials" type="Box">1 (2-Manuscripts - Novels)</container>
+            <container id="aspace_901ed6749eb1b43e133264b5ccc681f6" parent="aspace_794b844109720fcdaedcc552b8d7534b" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-2_3">
+        <c02 id="aspace_4606473d77bfad8dc2d5b2193889fa3c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>
               <emph render="italic">Schurz </emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_be1ad7c42476e4b7e831d3ff5fd95882" label="Mixed Materials" type="Box">1 (2-Manuscripts - Novels)</container>
+            <container id="aspace_a42ed39e6404c24f15f2758aefc95dd1" parent="aspace_be1ad7c42476e4b7e831d3ff5fd95882" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-2_4">
+        <c02 id="aspace_a3ac9951f46320ba68a9a08873d630cb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>
               <emph render="italic">Schurz in Deutschland</emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_9246c42ad62fedcb2d7556a23ee801f0" label="Mixed Materials" type="Box">1 (2-Manuscripts - Novels)</container>
+            <container id="aspace_f04c51e8d6ae36c223e0a27257e8ddff" parent="aspace_9246c42ad62fedcb2d7556a23ee801f0" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-2_5">
+        <c02 id="aspace_35b9a1d358a5af03f6c89a07489baeb4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>
               <emph render="italic">The Lawmaker. Adventures ... and bequest of Carl Schurz</emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_1f9a2af8bfa38ac3ddc7aec1c7283219" label="Mixed Materials" type="Box">1 (2-Manuscripts - Novels)</container>
+            <container id="aspace_119f32a9312f322216643f3b1bfc9e56" parent="aspace_1f9a2af8bfa38ac3ddc7aec1c7283219" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-2_6">
+        <c02 id="aspace_82621a10d32b5a3a49ad39944912acb6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>"Deutsche Schule 1918. Ein Romankapitel." p. 1-7, 21-26, 34-39. Gouff +Roman de la Ronciere</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_436260a9c2c03c82a32585c2496cc409" label="Mixed Materials" type="Box">1 (2-Manuscripts - Novels)</container>
+            <container id="aspace_b8af236071d5ad3397f2a68bdf77be4d" parent="aspace_436260a9c2c03c82a32585c2496cc409" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-2_7">
+        <c02 id="aspace_1840052d113fd2e225db0c9fe9cc7c66" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>
               <emph render="italic">Zur Geschichtedes Romans. Der Fall Gouffe</emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_629fdc64727765cf1eb33235fcc4ba30" label="Mixed Materials" type="Box">1 (2-Manuscripts - Novels)</container>
+            <container id="aspace_a9436d5925263bee8c4eab2206237744" parent="aspace_629fdc64727765cf1eb33235fcc4ba30" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-2_8">
+        <c02 id="aspace_5e98d26671f967d00131f99dc9e0d288" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>
               <emph render="italic">Roman de la Ronciere</emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_05cb1b752408b64d1c109e4b65085e6e" label="Mixed Materials" type="Box">1 (2-Manuscripts - Novels)</container>
+            <container id="aspace_218a50b623ba821b032afee1141d8e61" parent="aspace_05cb1b752408b64d1c109e4b65085e6e" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-2_9">
+        <c02 id="aspace_03d627ec8d01e347a1b87b73c8ffbe42" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle><emph render="italic">Roman de la Ronciere</emph>. "Roman - 2. Band"</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_b29403fb292285f572944b4b95ab1815" label="Mixed Materials" type="Box">1 (2-Manuscripts - Novels)</container>
+            <container id="aspace_147c123277cf9f9b0793ab0dfecbf02b" parent="aspace_b29403fb292285f572944b4b95ab1815" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-2_10">
+        <c02 id="aspace_eff87e8a5062390b070c145b8ff58dc8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>
               <emph render="italic">La Ronciere und Marie Morell</emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_428f392df184438b2ec73886d0734b30" label="Mixed Materials" type="Box">1 (2-Manuscripts - Novels)</container>
+            <container id="aspace_1d0d60121a188b4584cd9d616105fc45" parent="aspace_428f392df184438b2ec73886d0734b30" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-2_11">
+        <c02 id="aspace_a56b45afb33bbb1fa119904c48cac5cb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle><emph render="italic">La Ronciere und Marie Morell</emph>. Plot summary, characters, notes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_54b949d249325737ffb7e27a6645f92c" label="Mixed Materials" type="Box">1 (2-Manuscripts - Novels)</container>
+            <container id="aspace_63bb5c48c314788102a1fb0ff1e371f1" parent="aspace_54b949d249325737ffb7e27a6645f92c" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-2_12">
+        <c02 id="aspace_cf94c47efdaff92dc99ec9c00aae5dbf" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle><emph render="italic">Thomas und Maria</emph>. Erste Fassung</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_4bb418fbfb5c72128a53f3b7e0dd3cf0" label="Mixed Materials" type="Box">1 (2-Manuscripts - Novels)</container>
+            <container id="aspace_d6861a5c76610fac1be611896f9fa08e" parent="aspace_4bb418fbfb5c72128a53f3b7e0dd3cf0" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-2_13">
+        <c02 id="aspace_f412810cc8708638a31e16a1d90c083f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>
               <emph render="italic">The Times Collapse</emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
-            <note>
-              <p>Includes: I. Das magisce Jahr / The Magic Year II. Jugendliche Hadesfahrt / Thirsty Shadows III. Der Kitregen / The Great Awakening</p>
-            </note>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_00c3f87a4c2d2f428e5194f812cafeae" label="Mixed Materials" type="Box">1 (2-Manuscripts - Novels)</container>
+            <container id="aspace_28ce1ed7656d9969fc706f265c765b06" parent="aspace_00c3f87a4c2d2f428e5194f812cafeae" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-2_14">
+        <c02 id="aspace_fa70cdd1086193d639ab43d7763ec6a0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>
               <emph render="italic">True Story?</emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_f6755de3f349cc34793980e1b6e8540c" label="Mixed Materials" type="Box">1 (2-Manuscripts - Novels)</container>
+            <container id="aspace_4b0fe1a793bde42acac56ea03e97c1e0" parent="aspace_f6755de3f349cc34793980e1b6e8540c" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-2_15">
+        <c02 id="aspace_f684af3865c63666467ffcf2efcce9b7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle><emph render="italic">Zwischen den Zeizen </emph>/ <emph render="italic">Astride the Times</emph></unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_4fc4eb4c1e683a26985ba1b79dcfca8f" label="Mixed Materials" type="Box">1 (2-Manuscripts - Novels)</container>
+            <container id="aspace_4f06a775828c64d33eb96aa2a0e7d699" parent="aspace_4fc4eb4c1e683a26985ba1b79dcfca8f" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-2_16">
+        <c02 id="aspace_d7013a5bb031a5e914f86d40027b74e7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
-            <unittitle>"Notizen zu Band II 'Zwischen den Zeiten.' Neue Fassung" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Notizen zu Band II 'Zwischen den Zeiten.' Neue Fassung"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_ce7397e079091d678fd5c3c2b4837b20" label="Mixed Materials" type="Box">1 (2-Manuscripts - Novels)</container>
+            <container id="aspace_d4de57f430b828a076a88b45cd31a224" parent="aspace_ce7397e079091d678fd5c3c2b4837b20" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-2_17">
+        <c02 id="aspace_e7d36f01236cc5acc8e3700546320733" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>Untitled Manuscript in English</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_bf480cc2007b9086746e961a6a3e48e7" label="Mixed Materials" type="Box">1 (2-Manuscripts - Novels)</container>
+            <container id="aspace_594685400379735d28b23597229ee564" parent="aspace_bf480cc2007b9086746e961a6a3e48e7" type="Folder">19</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_ger063-3" level="series">
+      <c01 id="aspace_097258ebc2543b366b8b1cab62a9351e" level="series">
         <did>
+          <unittitle>Manuscripts - Dramatic works</unittitle>
           <unitid>3</unitid>
-          <unittitle label="Series">Manuscripts - Dramatic works</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1901/1972" type="inclusive">Undated</unitdate>
+          <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_8d6613a4a7ed3d006420e4d96452560d">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_abcc87a0cf5a17e1499307eeff65be2d">
+          <head>Scope and Contents</head>
           <p>This series contains manuscripts of dramatic works.</p>
         </scopecontent>
-        <c02 id="nam_ger063-3_1">
+        <c02 id="aspace_1981d74ed5ae3ebd30bd363d1987c87a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>"The Case of Lieutenant de la Ronciere. A Television Play by Joachim Maass." Translated by Holger Hagen</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_91b2bcdc193ff06949099c4c7f662a15" label="Mixed Materials" type="Box">1 (3-Manuscripts - Dramatic works)</container>
+            <container id="aspace_da64e9d9bfa087403b2c835a891bd756" parent="aspace_91b2bcdc193ff06949099c4c7f662a15" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-3_2">
+        <c02 id="aspace_12aa41a9561334bde4c2ef17f98c9418" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>
               <emph render="italic">Heinrich der Vierte. Tragdie in 2 Teilen (22 Bilder)</emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_9912643b6c71c3a590b70d9c428a9ee2" label="Mixed Materials" type="Box">1 (3-Manuscripts - Dramatic works)</container>
+            <container id="aspace_1b2d52471023ca220ec1f9336d7a96c7" parent="aspace_9912643b6c71c3a590b70d9c428a9ee2" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-3_3">
+        <c02 id="aspace_2a14563b89f2cdf57c995436712ec1ca" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
-            <unittitle>"Kain. Dramatische Skizze von W. H. J. Maass" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Kain. Dramatische Skizze von W. H. J. Maass"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_f73f929103d51492404b3b2bfb6aff0c" label="Mixed Materials" type="Box">1 (3-Manuscripts - Dramatic works)</container>
+            <container id="aspace_e209777ea7d3ce9b6b9db3b1685444dc" parent="aspace_f73f929103d51492404b3b2bfb6aff0c" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-3_4">
+        <c02 id="aspace_ca537503ac6c8ea17ed268f128c79bc2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23</container>
             <unittitle>
               <emph render="italic">Die Zwillingsbrdder (Arbeitstitel). Kombdie in vier Akten</emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_e3042fd0067cf6931b6e93770a6105ee" label="Mixed Materials" type="Box">1 (3-Manuscripts - Dramatic works)</container>
+            <container id="aspace_df8b3fa79551ee434d59b364b52d23bd" parent="aspace_e3042fd0067cf6931b6e93770a6105ee" type="Folder">23</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_ger063-4" level="series">
+      <c01 id="aspace_84455cafd6f60a70ef4e40cfc71f69ec" level="series">
         <did>
+          <unittitle>Manuscripts - Poetry</unittitle>
           <unitid>4</unitid>
-          <unittitle label="Series">Manuscripts - Poetry</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1901/1972" type="inclusive">Undated</unitdate>
+          <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_a230db4b949abac844c7fc7ba645b73e">
+          <head>Arrangement</head>
           <p>Arranged in original order.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_46a69098a9c38137fb851d9178a4a448">
+          <head>Scope and Contents</head>
           <p>This series contains manuscripts of poems.</p>
         </scopecontent>
-        <c02 id="nam_ger063-4_1">
+        <c02 id="aspace_612e9adb01dccf97992ed6d15b619637" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">24</container>
             <unittitle>"Die enge Pforte." Collection of poems</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_0825c0e5db8cc8f4db2b7eddd8b925f5" label="Mixed Materials" type="Box">1 (4-Manuscripts - Poetry)</container>
+            <container id="aspace_402c6d05eddafa89195a2ebd8920be38" parent="aspace_0825c0e5db8cc8f4db2b7eddd8b925f5" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-4_2">
+        <c02 id="aspace_bc09b8bb72769e36ca954cf08066813f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">25</container>
-            <unittitle>"Frdhe handschriftliche Gedichte" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Frdhe handschriftliche Gedichte"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_29789d35aed4c163efa06f3402f28af5" label="Mixed Materials" type="Box">1 (4-Manuscripts - Poetry)</container>
+            <container id="aspace_24d5330d87d6925e01d01d3d4368a840" parent="aspace_29789d35aed4c163efa06f3402f28af5" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-4_3">
+        <c02 id="aspace_7d6c0a9ae3db510cf0a91172046ffb82" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">26</container>
-            <unittitle>"GesAnge vom guten Geschick" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"GesAnge vom guten Geschick"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_89d218ed3c28f3a17ccf3c073d5cfe7d" label="Mixed Materials" type="Box">1 (4-Manuscripts - Poetry)</container>
+            <container id="aspace_7d2cf936cf903900235238f78a5dfc2f" parent="aspace_89d218ed3c28f3a17ccf3c073d5cfe7d" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-4_4">
+        <c02 id="aspace_4a30d65ee749a609b3a80fd1877c00d6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">27</container>
-            <unittitle>"Handgeschriebene Gedichle" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Handgeschriebene Gedichle"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_86865d11b753051b3b85e118e16c5939" label="Mixed Materials" type="Box">1 (4-Manuscripts - Poetry)</container>
+            <container id="aspace_0ae2bd57376a14af92653a0657dc23f9" parent="aspace_86865d11b753051b3b85e118e16c5939" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-4_5">
+        <c02 id="aspace_a019ffae93af2573930b0316fcd4faf3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">28</container>
             <unittitle>"Kleine handschriftliche Arbeiten handschriftliche Gedichte"</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_7244765218287da53e338ae9606ecbb7" label="Mixed Materials" type="Box">1 (4-Manuscripts - Poetry)</container>
+            <container id="aspace_31ef4565d88864a2410541c4b67783e4" parent="aspace_7244765218287da53e338ae9606ecbb7" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-4_6">
+        <c02 id="aspace_89d39b1d7b16e67f9d3200e39cfa014a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">29</container>
-            <unittitle>"Neue Gedichte" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Neue Gedichte"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_a94060cec46791e6a8086c50498ff461" label="Mixed Materials" type="Box">1 (4-Manuscripts - Poetry)</container>
+            <container id="aspace_f7758634c2629034a30a978dc8b4f6e5" parent="aspace_a94060cec46791e6a8086c50498ff461" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-4_7">
+        <c02 id="aspace_c55dd8a7decef0190ab703eb970c9617" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">30</container>
-            <unittitle>"Vers und Prosa" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Vers und Prosa"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_524a1a28e90e1718296165558131a94f" label="Mixed Materials" type="Box">1 (4-Manuscripts - Poetry)</container>
+            <container id="aspace_b9a0cf69c6c9bc40779effd84d33e514" parent="aspace_524a1a28e90e1718296165558131a94f" type="Folder">30</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-4_8">
+        <c02 id="aspace_c9c468d09eb0ff653f4cb0993b359452" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">31</container>
-            <unittitle>"Vom lusitanischen Parnass. Nachdichtungen jngerer portugiesischer Lyrik" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Vom lusitanischen Parnass. Nachdichtungen jngerer portugiesischer Lyrik"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_e98813bd061dc298b8ed994aa8508b3f" label="Mixed Materials" type="Box">1 (4-Manuscripts - Poetry)</container>
+            <container id="aspace_787ec2d776ecdefd6d8870d1e7f4207a" parent="aspace_e98813bd061dc298b8ed994aa8508b3f" type="Folder">31</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-4_9">
+        <c02 id="aspace_72c60745eefefd6ddceffbaa1fe3fa99" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">32</container>
-            <unittitle>"Gedichte, Herbst 1927" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Gedichte, Herbst 1927"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_0825a8b2a9508b4b570e19d5d7429b26" label="Mixed Materials" type="Box">1 (4-Manuscripts - Poetry)</container>
+            <container id="aspace_3ecf501f9dd995ac84734f45bc8faf89" parent="aspace_0825a8b2a9508b4b570e19d5d7429b26" type="Folder">32</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-4_10">
+        <c02 id="aspace_e4d120768c0af483edb60ee8a299edf7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">33</container>
             <unittitle>Poems</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_73fe22000efb3fa88899d98766e315de" label="Mixed Materials" type="Box">1 (4-Manuscripts - Poetry)</container>
+            <container id="aspace_384413a55b3798dde05bb2676c81a6a0" parent="aspace_73fe22000efb3fa88899d98766e315de" type="Folder">33</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_ger063-5" level="series">
+      <c01 id="aspace_ff7f94b0eec9841767902d19aabdfa92" level="series">
         <did>
+          <unittitle>Manuscripts - Short prose works, stories</unittitle>
           <unitid>5</unitid>
-          <unittitle label="Series">Manuscripts - Short prose works, stories</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1901/1972" type="inclusive">1946, Undated</unitdate>
+          <unitdate normal="1901/1972" type="inclusive">1946, Undated</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_ffd5f69e44462e892b88a585ae8d95b8">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_5b99088d1f6472a00917bc35f8799eda">
+          <head>Scope and Contents</head>
           <p>This series contains manuscripts of short prose and stories.</p>
         </scopecontent>
-        <c02 id="nam_ger063-5_1">
+        <c02 id="aspace_10ae9a9e39abd49b7eab0bba4e4a5b54" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
-            <unittitle>"Die Alsterfahrt" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Die Alsterfahrt"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_adfca6788d8731686f5b2170275238d7" label="Mixed Materials" type="Box">2 (5-Manuscripts - Short prose works, stories)</container>
+            <container id="aspace_88e0ab0ce79917af0ee0a3bb7abc7414" parent="aspace_adfca6788d8731686f5b2170275238d7" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-5_2">
+        <c02 id="aspace_5f86fbf43062b54129346847dbadb44f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
-            <unittitle>"Anjuta odor Die Schule der Armut. I. Teil eines Erzhlungsbuch 'Junge Leute'" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Anjuta odor Die Schule der Armut. I. Teil eines Erzhlungsbuch 'Junge Leute'"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_3077147d2c69d9ba4b0e9f8dd6e3dcc3" label="Mixed Materials" type="Box">2 (5-Manuscripts - Short prose works, stories)</container>
+            <container id="aspace_e4e1ca3310d05a09cd93e5568fbc891d" parent="aspace_3077147d2c69d9ba4b0e9f8dd6e3dcc3" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-5_3">
+        <c02 id="aspace_6cbf25602eb24b9cb390e500dbd2960a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
-            <unittitle>"Das begnadete Herz" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Das begnadete Herz"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_fa51e87897f41b02b57798e3b1edc618" label="Mixed Materials" type="Box">2 (5-Manuscripts - Short prose works, stories)</container>
+            <container id="aspace_2e9f75e18c01ac2ecf61cf35cc1dea11" parent="aspace_fa51e87897f41b02b57798e3b1edc618" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-5_4">
+        <c02 id="aspace_21fa6d10c8c106515e21aee1c4076cb2" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
-            <unittitle>"Ein Leben nach dem Tode" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Ein Leben nach dem Tode"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_b49645e0ddf16ce109999af43a6e9f74" label="Mixed Materials" type="Box">2 (5-Manuscripts - Short prose works, stories)</container>
+            <container id="aspace_361af17e80363cc2c63d0b11124e0a1b" parent="aspace_b49645e0ddf16ce109999af43a6e9f74" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-5_5">
+        <c02 id="aspace_5998a3264e0c03a73cd22d270c985ab4" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
-            <unittitle>"Ein Schulmorgen" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Ein Schulmorgen"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_c2a44756377a07e7eef71c39681651a0" label="Mixed Materials" type="Box">2 (5-Manuscripts - Short prose works, stories)</container>
+            <container id="aspace_11e3de5afde90089284ea381c3901bea" parent="aspace_c2a44756377a07e7eef71c39681651a0" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-5_6">
+        <c02 id="aspace_72d2ca771f85d957da49cd10d63ba9e6" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
-            <unittitle>"Das Erwachen" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Das Erwachen"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_569726f9f30427c51fd85063902b473e" label="Mixed Materials" type="Box">2 (5-Manuscripts - Short prose works, stories)</container>
+            <container id="aspace_55b489cd2b3c0d3864d1c3d6293f521e" parent="aspace_569726f9f30427c51fd85063902b473e" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-5_7">
+        <c02 id="aspace_71d66e4c9ede8c7699836746c538b891" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
-            <unittitle>"Das Frauenbchlein. Briefe und Gedichte in Prosa" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Das Frauenbchlein. Briefe und Gedichte in Prosa"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_a43f654eab2073df43370074c8dfca1a" label="Mixed Materials" type="Box">2 (5-Manuscripts - Short prose works, stories)</container>
+            <container id="aspace_8e1b41e4de9141fdbbd0b15e8df104d2" parent="aspace_a43f654eab2073df43370074c8dfca1a" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-5_8">
+        <c02 id="aspace_164592c6e269812a73ea4afa1698945b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
-            <unittitle>"Die Hand des Herrn, oder: Der bse Blick" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1946-10-14">1946 October 14</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Die Hand des Herrn, oder: Der bse Blick"</unittitle>
+            <unitdate normal="1946-10-14/1946-10-14" type="inclusive">1946 October 14</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_fb3fa943c010e59d637f129b21e9265b" label="Mixed Materials" type="Box">2 (5-Manuscripts - Short prose works, stories)</container>
+            <container id="aspace_a0731d9357db68f16fbdf42373171cd9" parent="aspace_fb3fa943c010e59d637f129b21e9265b" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-5_9">
+        <c02 id="aspace_1f904332d497f78dece03e546d5687fb" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
-            <unittitle>"Der bse Blick. Eine Erzhlung" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Der bse Blick. Eine Erzhlung"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_5fe57f793fe1ba121b84b3d0b260dcfd" label="Mixed Materials" type="Box">2 (5-Manuscripts - Short prose works, stories)</container>
+            <container id="aspace_0e26b080aa3bba6de7ad5e384a6d25f0" parent="aspace_5fe57f793fe1ba121b84b3d0b260dcfd" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-5_10">
+        <c02 id="aspace_be88680301ace8488c213b740a33bcf3" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10</container>
-            <unittitle>"Die Liebe der Boheme. Eine Erzhlung" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Die Liebe der Boheme. Eine Erzhlung"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_449c362cfdd66a1c493ca042e1b569d4" label="Mixed Materials" type="Box">2 (5-Manuscripts - Short prose works, stories)</container>
+            <container id="aspace_713b34ab6a7e468738a5dac909ae5937" parent="aspace_449c362cfdd66a1c493ca042e1b569d4" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-5_11">
+        <c02 id="aspace_3d22fff5aaf238e0d898f5d9f13ab548" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">11</container>
-            <unittitle>"Man macht sich falsche Vorstellungen von der Emigration" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Man macht sich falsche Vorstellungen von der Emigration"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_8b0e70dab565fdf1c76d60c60b8e656f" label="Mixed Materials" type="Box">2 (5-Manuscripts - Short prose works, stories)</container>
+            <container id="aspace_b64c34ded3c03070641bf3ef7bfee689" parent="aspace_8b0e70dab565fdf1c76d60c60b8e656f" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-5_12">
+        <c02 id="aspace_973dc42ee9d2c56142d5bed569f8765d" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">12</container>
-            <unittitle>"Missdeurcete Liebe" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Missdeurcete Liebe"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_8a910c63dcde2269fc0be607866b3c0f" label="Mixed Materials" type="Box">2 (5-Manuscripts - Short prose works, stories)</container>
+            <container id="aspace_ac29a9ad4ed7b1b99830f87498845ce8" parent="aspace_8a910c63dcde2269fc0be607866b3c0f" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-5_13">
+        <c02 id="aspace_b5149e79e012ef7389fd78ba57d4566c" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">13</container>
-            <unittitle>"Nordlandsflug" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Nordlandsflug"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_2f4e92c107a289eabdbd605b27611edf" label="Mixed Materials" type="Box">2 (5-Manuscripts - Short prose works, stories)</container>
+            <container id="aspace_2e24417fbb0241fcb76dc8d4bd728984" parent="aspace_2f4e92c107a289eabdbd605b27611edf" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-5_14">
+        <c02 id="aspace_fd3b4c7ce2155703a575540c95f5c61d" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">14</container>
-            <unittitle>"Der Schnee von Nebraska. Eileitung" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Der Schnee von Nebraska. Eileitung"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_6fc4a30dc7c949fba71b13089a9d60ef" label="Mixed Materials" type="Box">2 (5-Manuscripts - Short prose works, stories)</container>
+            <container id="aspace_512604082e583fcb904315d74526ac09" parent="aspace_6fc4a30dc7c949fba71b13089a9d60ef" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-5_15">
+        <c02 id="aspace_d4b416d01ccf13d3b6929edd1bc809be" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">15</container>
             <unittitle>"The Snow of Nebraska." English Translation</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_36942b9ad29deee5e70777ded48de8e4" label="Mixed Materials" type="Box">2 (5-Manuscripts - Short prose works, stories)</container>
+            <container id="aspace_88857e02fbbe79da7348c606d5f54a5e" parent="aspace_36942b9ad29deee5e70777ded48de8e4" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-5_16">
+        <c02 id="aspace_bfffe400c0b479543cdea8d3bb834c6b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">16</container>
-            <unittitle>"Sonntagliches Holland" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Sonntagliches Holland"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_2e839475525022af0935e1a1e09a6423" label="Mixed Materials" type="Box">2 (5-Manuscripts - Short prose works, stories)</container>
+            <container id="aspace_b28371d76b3ace6a646090031aaed3a7" parent="aspace_2e839475525022af0935e1a1e09a6423" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-5_17">
+        <c02 id="aspace_87d4f97138a76c89917f103170bfa5ad" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">17</container>
-            <unittitle>"Das Werk des Bildhauers Harry Rox" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Das Werk des Bildhauers Harry Rox"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_693a033cc5c6d3379a785523845136fa" label="Mixed Materials" type="Box">2 (5-Manuscripts - Short prose works, stories)</container>
+            <container id="aspace_a1a0377f2ab017b8e2bd9574353fb0e2" parent="aspace_693a033cc5c6d3379a785523845136fa" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-5_18">
+        <c02 id="aspace_1785ec046426448f291c51970e7dc065" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">18</container>
             <unittitle>"Zware Nevel." Dutch translation</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_241c7a87c0fd1cf03079ce3555317c14" label="Mixed Materials" type="Box">2 (5-Manuscripts - Short prose works, stories)</container>
+            <container id="aspace_d0d4e7d73c26780202aaa6bf9b2c7598" parent="aspace_241c7a87c0fd1cf03079ce3555317c14" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-5_19">
+        <c02 id="aspace_849c94ce09c0def4b600e852384dedce" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">19</container>
             <unittitle>Miscellaneous short manuscripts</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_1bcdd0b0d2b2d9e12049b4188a58031e" label="Mixed Materials" type="Box">2 (5-Manuscripts - Short prose works, stories)</container>
+            <container id="aspace_ccbd1121ced87e8a74bb07f698baceab" parent="aspace_1bcdd0b0d2b2d9e12049b4188a58031e" type="Folder">19</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_ger063-6" level="series">
+      <c01 id="aspace_5d6c741cdbefdcde7f8e7f56f7c2818b" level="series">
         <did>
+          <unittitle>Manuscripts - Essayistic</unittitle>
           <unitid>6</unitid>
-          <unittitle label="Series">Manuscripts - Essayistic</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1940/1946" type="inclusive">1940-1946</unitdate>
+          <unitdate normal="1940/1946" type="inclusive">1940-1946</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_6794cdb96312ec33d39ac74b67d9c369">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_62a404eb6fa915565b506b48781748e8">
+          <head>Scope and Contents</head>
           <p>This series contains manuscripts of essays.</p>
         </scopecontent>
-        <c02 id="nam_ger063-6_1">
+        <c02 id="aspace_fdec8c7078d8edbb8dbf7b7286850ec1" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">20</container>
             <unittitle>Autobiographical sketch</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
-            <physdesc>
-              <dimensions>T. 5p.</dimensions>
-            </physdesc>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <physdesc id="aspace_19996c09f8a06469b3af870a62052311">T. 5p. Digital Files</physdesc>
+            <container id="aspace_23646084ef0e8e6e4c4d5cf562b36741" label="Mixed Materials" type="Box">2 (6-Manuscripts - Essayistic)</container>
+            <container id="aspace_8f3757ce601b40c83b95e59499d9df52" parent="aspace_23646084ef0e8e6e4c4d5cf562b36741" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-6_2">
+        <c02 id="aspace_85bfa379e7331a10003745e84424ee11" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">21</container>
-            <unittitle>"Als Greenhorn in Amerika. Eine Vorlesung" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
-            <physdesc>
-              <dimensions>T. 15p.</dimensions>
-            </physdesc>
+            <unittitle>"Als Greenhorn in Amerika. Eine Vorlesung"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <physdesc id="aspace_1b19cdfc2f60660acc19c83ff8a04d74">T. 15p. Digital Files</physdesc>
+            <container id="aspace_ed32bf0930c5fe3a5950a8b0a5faa28a" label="Mixed Materials" type="Box">2 (6-Manuscripts - Essayistic)</container>
+            <container id="aspace_e9722a4fc2f6595b8e841da2a071f744" parent="aspace_ed32bf0930c5fe3a5950a8b0a5faa28a" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-6_3">
+        <c02 id="aspace_76d5123f61ae8716b6875efa9f0978e8" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">22</container>
-            <unittitle>"Daran glaube ich" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
-            <physdesc>
-              <dimensions>T. 3p.</dimensions>
-            </physdesc>
+            <unittitle>"Daran glaube ich"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <physdesc id="aspace_93ad376c6dd374b2ae88559974167798">T. 3p. Digital Files</physdesc>
+            <container id="aspace_d42c007213ce3fcec0145b8da5f73c25" label="Mixed Materials" type="Box">2 (6-Manuscripts - Essayistic)</container>
+            <container id="aspace_a4c3cf947e945a90184d2ab6a7d3707f" parent="aspace_d42c007213ce3fcec0145b8da5f73c25" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-6_4">
+        <c02 id="aspace_5f7b9985e9c36491e9f0cbee52c9099e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">23</container>
-            <unittitle>"Ein Abschiedsbrief" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
-            <physdesc>
-              <dimensions>T. with h. corr. 13p. T. with h. corr. llp.</dimensions>
-            </physdesc>
-            <note>
-              <p>2 versions</p>
-            </note>
+            <unittitle>"Ein Abschiedsbrief"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <physdesc id="aspace_60d49c4925653aefa2979d6cf886517b">T. with h. corr. 13p. T. with h. corr. llp. Digital Files</physdesc>
+            <container id="aspace_8a81b63b946ef87488d67f59053c7617" label="Mixed Materials" type="Box">2 (6-Manuscripts - Essayistic)</container>
+            <container id="aspace_52f4a58c86ab283417726892f0957658" parent="aspace_8a81b63b946ef87488d67f59053c7617" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-6_5">
+        <c02 id="aspace_6311f2ceefb66b2d1114d4a88a5a1f63" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">24</container>
-            <unittitle>"Friedo Lampe" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
-            <physdesc>
-              <dimensions>T. with h. corr. 6p.</dimensions>
-            </physdesc>
+            <unittitle>"Friedo Lampe"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <physdesc id="aspace_eff0122f168bc5a5d7e75f102eb00942">T. with h. corr. 6p. Digital Files</physdesc>
+            <container id="aspace_bc3ae7a48fedfdc617bb11d9f64d9e29" label="Mixed Materials" type="Box">2 (6-Manuscripts - Essayistic)</container>
+            <container id="aspace_33c534c3a68aea998a5754ea07c34991" parent="aspace_bc3ae7a48fedfdc617bb11d9f64d9e29" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-6_6">
+        <c02 id="aspace_6c55953b3d895552638dc3556fd9ab7c" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">25</container>
-            <unittitle>"Imaginierter Toast zu Carl Zuckmayers 50. Geburtstag" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1946-12-27">1946 December 27</unitdate>
-            <physdesc>
-              <dimensions>T. and cc. 2c. 8p. ea.</dimensions>
-            </physdesc>
+            <unittitle>"Imaginierter Toast zu Carl Zuckmayers 50. Geburtstag"</unittitle>
+            <unitdate normal="1946-12-27/1946-12-27" type="inclusive">1946 December 27</unitdate>
+            <physdesc id="aspace_275eac1aee4557025fbee9a841486978">T. and cc. 2c. 8p. ea. Digital Files</physdesc>
+            <container id="aspace_6d3802d4db6dab8d155811c17d4f8bd7" label="Mixed Materials" type="Box">2 (6-Manuscripts - Essayistic)</container>
+            <container id="aspace_5c9bbf9b86f88d7078aa2f4cd480de7f" parent="aspace_6d3802d4db6dab8d155811c17d4f8bd7" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-6_7">
+        <c02 id="aspace_8b1de0acb0dcb8121fdb8d47ff952d81" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">26</container>
             <unittitle>"Leben, Sterben und Unsrerblichkeit Rainer Maria Rilkes. Ein Vor-trag" plus several p. Rilke poems.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1940-11-25">1940 November 25</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1941-03-26">1941 March 26</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1942-03-25">1942 March 25</unitdate>
-            <physdesc>
-              <dimensions>T. 25p.</dimensions>
-            </physdesc>
-            <note>
-              <p>Mount Holyoke College (1940); Haverford College (1941); University of Pennsylvania (1942)</p>
-            </note>
+            <unitdate normal="1940-11-25/1940-11-25" type="inclusive">1940 November 25</unitdate>
+            <unitdate normal="1941-03-26/1941-03-26" type="inclusive">1941 March 26</unitdate>
+            <unitdate normal="1942-03-25/1942-03-25" type="inclusive">1942 March 25</unitdate>
+            <physdesc id="aspace_02a9f206206a8f7a7a043d9b19b42dcb">T. 25p. Digital Files</physdesc>
+            <container id="aspace_7573abe8dd9c686aa738d9dbe9b6638b" label="Mixed Materials" type="Box">2 (6-Manuscripts - Essayistic)</container>
+            <container id="aspace_3b86bfe911e91bc2bb34fd43b03117da" parent="aspace_7573abe8dd9c686aa738d9dbe9b6638b" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-6_8">
+        <c02 id="aspace_6fe687764e0677556b6156d67e29cf13" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">27</container>
-            <unittitle>Meetings with Thomas Mann" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>Meetings with Thomas Mann"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_4a3cad3f6f991422c4c856df71f6fa07" label="Mixed Materials" type="Box">2 (6-Manuscripts - Essayistic)</container>
+            <container id="aspace_5045a308717dc31cb5a9793362a201b7" parent="aspace_4a3cad3f6f991422c4c856df71f6fa07" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-6_9">
+        <c02 id="aspace_3472cbf17d2a598449413e79259da9d7" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">28</container>
             <unittitle>"Der sechzigjhrige Martin Beheim-Schwarzbach"</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
-            <physdesc>
-              <dimensions> T. cc. 5p.</dimensions>
-            </physdesc>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <physdesc id="aspace_7c1239ee9a4066ac58425e6b5bb4ba48">T. cc. 5p. Digital Files</physdesc>
+            <container id="aspace_fea24489bac0b6fa3b473c23550f95b3" label="Mixed Materials" type="Box">2 (6-Manuscripts - Essayistic)</container>
+            <container id="aspace_6963fdd413638bde94987d0d0daac859" parent="aspace_fea24489bac0b6fa3b473c23550f95b3" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-6_10">
+        <c02 id="aspace_f9a3df8b73cc1cd6c8471aab50f7c445" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">29</container>
-            <unittitle>"Schurz, Lincoln und die Seele Amerikas. Eine Vorlesung" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
-            <physdesc>
-              <dimensions>T. with h. corr. 29p.</dimensions>
-            </physdesc>
+            <unittitle>"Schurz, Lincoln und die Seele Amerikas. Eine Vorlesung"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <physdesc id="aspace_83d9916051a6752aa3d7ad1f2f2b08ad">T. with h. corr. 29p. Digital Files</physdesc>
+            <container id="aspace_96bb12d54f395e13c4a2bffb75391efe" label="Mixed Materials" type="Box">2 (6-Manuscripts - Essayistic)</container>
+            <container id="aspace_c6cf8107f0d71a5f41a534dc7e0cbecb" parent="aspace_96bb12d54f395e13c4a2bffb75391efe" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-6_11">
+        <c02 id="aspace_62899dfe127994cfafe9d8205ca87452" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">30</container>
-            <unittitle>Thomas Mann. Geschichte einer Liebe im Geiste" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
-            <physdesc>
-              <dimensions>T. cc. 28p.</dimensions>
-            </physdesc>
+            <unittitle>Thomas Mann. Geschichte einer Liebe im Geiste"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <physdesc id="aspace_35a10f85ceab9d978c885220792a6c83">T. cc. 28p. Digital Files</physdesc>
+            <container id="aspace_d0f0e6d1c87f55ce86e0dc5ca16ca03b" label="Mixed Materials" type="Box">2 (6-Manuscripts - Essayistic)</container>
+            <container id="aspace_5cd893724abb10df2a6ca85689cd1a01" parent="aspace_d0f0e6d1c87f55ce86e0dc5ca16ca03b" type="Folder">30</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-6_12">
+        <c02 id="aspace_75760e4f25b91e3164e1ef1995693706" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">31</container>
             <unittitle>"Thomas Mann. An Essay. English translation</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
-            <physdesc>
-              <dimensions>T. with h. corr. 28p.</dimensions>
-            </physdesc>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <physdesc id="aspace_c322bed2e019c911597543df002b3a6e">T. with h. corr. 28p. Digital Files</physdesc>
+            <container id="aspace_ea5c43e1983f073eaf742f7796096138" label="Mixed Materials" type="Box">2 (6-Manuscripts - Essayistic)</container>
+            <container id="aspace_06acdf118aa1ee48b7e8c3c4e9fb2b8b" parent="aspace_ea5c43e1983f073eaf742f7796096138" type="Folder">31</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-6_13">
+        <c02 id="aspace_91b1c92a3c0166b92488c93f0dc6667f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">32</container>
-            <unittitle>"Ueber die Kriterien der Dichtung. Eine Einleitung zu einem, College-Text" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
-            <physdesc>
-              <dimensions>T. 41p.</dimensions>
-            </physdesc>
+            <unittitle>"Ueber die Kriterien der Dichtung. Eine Einleitung zu einem, College-Text"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <physdesc id="aspace_8e15a7ccceea362cead775488cd92d52">T. 41p. Digital Files</physdesc>
+            <container id="aspace_8fb2b50d222811d08d22cd07f0c6c482" label="Mixed Materials" type="Box">2 (6-Manuscripts - Essayistic)</container>
+            <container id="aspace_0c9888c09c62b8db655eae7a6e817084" parent="aspace_8fb2b50d222811d08d22cd07f0c6c482" type="Folder">32</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-6_14">
+        <c02 id="aspace_89522148ecd49a76b769a44375586d2c" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">33</container>
             <unittitle>"Unser kleinen Dmon." Notes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
-            <physdesc>
-              <dimensions>ca. 40p.</dimensions>
-            </physdesc>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <physdesc id="aspace_969ad5df0811de5b4466b7dfd0d484ba">ca. 40p. Digital Files</physdesc>
+            <container id="aspace_c2fae7ebd3e6792565390371ee91ab2c" label="Mixed Materials" type="Box">2 (6-Manuscripts - Essayistic)</container>
+            <container id="aspace_aaa989af626ac7fba9e1a9e750768cc1" parent="aspace_c2fae7ebd3e6792565390371ee91ab2c" type="Folder">33</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-6_15">
+        <c02 id="aspace_adccd640b76c3f0745c7a6840398013a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">34</container>
             <unittitle>"Vorwort" and "Schlusswort" to an unidentified work</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
-            <physdesc>
-              <dimensions>T.cc. l2p., 4p.</dimensions>
-            </physdesc>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <physdesc id="aspace_9d602b5737f57a33a4b6a97256ccd39e">T.cc. l2p., 4p. Digital Files</physdesc>
+            <container id="aspace_8512421157892d9f6cd9d05f422bc7dc" label="Mixed Materials" type="Box">2 (6-Manuscripts - Essayistic)</container>
+            <container id="aspace_20138f1c253e68faa571568f850e0643" parent="aspace_8512421157892d9f6cd9d05f422bc7dc" type="Folder">34</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-6_16">
+        <c02 id="aspace_ec2b35345fe0ad4259b3d047909d88ac" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">35</container>
-            <unittitle>"Wir Hamburger" </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
-            <physdesc>
-              <dimensions>T. with some h. corr. 12p.</dimensions>
-            </physdesc>
+            <unittitle>"Wir Hamburger"</unittitle>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <physdesc id="aspace_1b83c1f99cd596d0c119bd00a4ba7b89">T. with some h. corr. 12p. Digital Files</physdesc>
+            <container id="aspace_218dfb197f302f418787e11bb8c2e514" label="Mixed Materials" type="Box">2 (6-Manuscripts - Essayistic)</container>
+            <container id="aspace_3a63bffa2a1ec2dc7631796bf1475665" parent="aspace_218dfb197f302f418787e11bb8c2e514" type="Folder">35</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_ger063-7" level="series">
+      <c01 id="aspace_15bf552edcf22ac3bca78eb43e55bedf" level="series">
         <did>
+          <unittitle>Lecture notes, texts</unittitle>
           <unitid>7</unitid>
-          <unittitle label="Series">Lecture notes, texts</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+          <unitdate normal="1957/1961" type="inclusive">1957-1961</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_fa00eace3f093e03e008d6064688a665">
+          <head>Arrangement</head>
           <p>Arranged chronologically by lecture.</p>
         </arrangement>
-        <scopecontent>
-          <p>This collection contains lecture notes from Haverford College.  Each lecture has multiple dates, presumably relating to the dates Joachim Maass gave the lecture during different academic semesters.</p>
+        <scopecontent id="aspace_227712340f5069fc87c5c0dfc848993e">
+          <head>Scope and Contents</head>
+          <p>This collection contains lecture notes from Haverford College. Each lecture has multiple dates, presumably relating to the dates Joachim Maass gave the lecture during different academic semesters.</p>
         </scopecontent>
-        <c02 id="nam_ger063-7_1">
+        <c02 id="aspace_df5f80bdf4bd21e0d1ee602ba2c9b7ee" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">36</container>
             <unittitle>Haverford Lectures, First and Second Lectures</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1959">1959</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1961">1961</unitdate>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_0680be85e8b1ec899b48611906b91739" label="Mixed Materials" type="Box">2 (7-Lecture notes, texts)</container>
+            <container id="aspace_ec26f30f914aec97df24949f7987433b" parent="aspace_0680be85e8b1ec899b48611906b91739" type="Folder">36</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-7_2">
+        <c02 id="aspace_b0d3193ead2d749f8ad8f945967c6c69" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">37</container>
             <unittitle>Haverford Lectures, Third Lecture</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1961">1961</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_dc9f52ccb2bb2cdd88fe7c674bfaaac3" label="Mixed Materials" type="Box">2 (7-Lecture notes, texts)</container>
+            <container id="aspace_e64f4cc8c1b97d162c8e9cd21f568b6a" parent="aspace_dc9f52ccb2bb2cdd88fe7c674bfaaac3" type="Folder">37</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-7_3">
+        <c02 id="aspace_957dc1346e0ab8c5bf56d6b57716a057" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">38</container>
             <unittitle>Haverford Lectures, Postponed Third Lecture</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1957">1957</unitdate>
+            <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
+            <container id="aspace_60b3d13d86e0f3786f7a6d12d8905486" label="Mixed Materials" type="Box">2 (7-Lecture notes, texts)</container>
+            <container id="aspace_a89adfbaedd72c581bfddd12b03bfee5" parent="aspace_60b3d13d86e0f3786f7a6d12d8905486" type="Folder">38</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-7_4">
+        <c02 id="aspace_c671afacdfb67db2b4869f206cc1484a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">39</container>
             <unittitle>Haverford Lectures, Fourth Lecture</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1959">1959</unitdate>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_18b29b115c274e7afc39907317fd7ce1" label="Mixed Materials" type="Box">2 (7-Lecture notes, texts)</container>
+            <container id="aspace_1b4a8ffa16390b41f4930b79a3a336d6" parent="aspace_18b29b115c274e7afc39907317fd7ce1" type="Folder">39</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-7_5">
+        <c02 id="aspace_9f24d5a42e3bb2644fa2526222d401dd" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">40</container>
             <unittitle>Haverford Lectures, Fifth Lecture</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1961">1961</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_b46138b810292af515f1c6cd3d49c89a" label="Mixed Materials" type="Box">2 (7-Lecture notes, texts)</container>
+            <container id="aspace_673392230fac3c3477336d0f5af75cf1" parent="aspace_b46138b810292af515f1c6cd3d49c89a" type="Folder">40</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-7_6">
+        <c02 id="aspace_d6e9a73c5933796080810a4cf8efeaad" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">41</container>
             <unittitle>Haverford Lectures, Sixth Lecture</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1959">1959</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1961">1961</unitdate>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_a3b7fadbb44b4883e22ed785897089f9" label="Mixed Materials" type="Box">2 (7-Lecture notes, texts)</container>
+            <container id="aspace_4c54f614f5a4ee44d86ae00e6c6aa51e" parent="aspace_a3b7fadbb44b4883e22ed785897089f9" type="Folder">41</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-7_7">
+        <c02 id="aspace_e915458dc2535fbe4b0d8a0bb6a435ec" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">42</container>
-            <unittitle>Haverford Lectures, Seventh Lecture </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1957">1957</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1959">1959</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1961">1961</unitdate>
+            <unittitle>Haverford Lectures, Seventh Lecture</unittitle>
+            <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_df9c9a4c93b78b9e85894bef006a6bdc" label="Mixed Materials" type="Box">2 (7-Lecture notes, texts)</container>
+            <container id="aspace_ff1c7fee6f8b6fd521b3d09d7b877f34" parent="aspace_df9c9a4c93b78b9e85894bef006a6bdc" type="Folder">42</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-7_8">
+        <c02 id="aspace_f92b16c2b0614b04dba053f3e1969372" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">43</container>
             <unittitle>Haverford Lectures, Eighth Lecture</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1959">1959</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1961">1961</unitdate>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_12672a8c27ff237f9aa75554222a385d" label="Mixed Materials" type="Box">2 (7-Lecture notes, texts)</container>
+            <container id="aspace_f1967967b553a640838503e785c0a7d3" parent="aspace_12672a8c27ff237f9aa75554222a385d" type="Folder">43</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-7_9">
+        <c02 id="aspace_544e6a2e4f66ad35a462a4dfdc1a39ab" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">44</container>
             <unittitle>Haverford Lectures, Ninth Lecture</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1957">1957</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1959">1959</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1961">1961</unitdate>
+            <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_bdfefb7fbc8ae18a6c31cac2d49c519f" label="Mixed Materials" type="Box">2 (7-Lecture notes, texts)</container>
+            <container id="aspace_64d8fd774a6d97ed86f061dcde28fbb9" parent="aspace_bdfefb7fbc8ae18a6c31cac2d49c519f" type="Folder">44</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-7_10">
+        <c02 id="aspace_644e2461137cb23b6d5df67622371d45" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">45</container>
             <unittitle>Haverford Lectures, Tenth Lecture</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1957">1957</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1959">1959</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1961">1961</unitdate>
+            <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_dbcb797a1b13a112a30d7e19984488be" label="Mixed Materials" type="Box">2 (7-Lecture notes, texts)</container>
+            <container id="aspace_b55017ff9112763e365cbfb5df944674" parent="aspace_dbcb797a1b13a112a30d7e19984488be" type="Folder">45</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-7_11">
+        <c02 id="aspace_2304c70aaaaed0139770766bc22c9457" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">46</container>
             <unittitle>Haverford Lectures, Eleventh Lecture</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1957">1957</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1959">1959</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1961">1961</unitdate>
+            <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_13629a9f70de6240960a4303bd61eee5" label="Mixed Materials" type="Box">2 (7-Lecture notes, texts)</container>
+            <container id="aspace_a9de15c397a9dd010d3737a8d53b0e4c" parent="aspace_13629a9f70de6240960a4303bd61eee5" type="Folder">46</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-7_12">
+        <c02 id="aspace_38e7df8cfdc5fa61b444125631be71d3" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">47</container>
             <unittitle>Haverford Lectures, Twelfth Lecture</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1957/1959">1957-1959</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1961">1961</unitdate>
+            <unitdate normal="1957/1959" type="inclusive">1957-1959</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_5232eb03cc47cd62c734a471995076c4" label="Mixed Materials" type="Box">2 (7-Lecture notes, texts)</container>
+            <container id="aspace_ee649b1bcd56b01a7c0b253a3503fd31" parent="aspace_5232eb03cc47cd62c734a471995076c4" type="Folder">47</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-7_13">
+        <c02 id="aspace_44dacaf77eb7cc215f298f77799a6515" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">48</container>
             <unittitle>Haverford Lectures, Thirteenth Lecture</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1957">1957</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1959">1959</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1961">1961</unitdate>
+            <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_00f49c40ab5a6e0531f6360f2e88e764" label="Mixed Materials" type="Box">2 (7-Lecture notes, texts)</container>
+            <container id="aspace_57cca656a87092116eb4871dbadf3d5e" parent="aspace_00f49c40ab5a6e0531f6360f2e88e764" type="Folder">48</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-7_14">
+        <c02 id="aspace_74093b4a8c0575d088533408289b813f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">49</container>
             <unittitle>Lecture Notes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1957">1957</unitdate>
+            <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
+            <container id="aspace_1529819f3c1b18b291532ba0935c9483" label="Mixed Materials" type="Box">2 (7-Lecture notes, texts)</container>
+            <container id="aspace_7c83b693cc4e78d157a12bb55c125781" parent="aspace_1529819f3c1b18b291532ba0935c9483" type="Folder">49</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-7_15">
+        <c02 id="aspace_48c987ae011c057a95483e85b7bca580" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">50</container>
             <unittitle>Lecture Notebooks</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1957">1957</unitdate>
+            <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
+            <container id="aspace_4399b2a99a8e22b04d6089c791a8c226" label="Mixed Materials" type="Box">2 (7-Lecture notes, texts)</container>
+            <container id="aspace_8f45cb0c263a97e8656ecb8200e61b99" parent="aspace_4399b2a99a8e22b04d6089c791a8c226" type="Folder">50</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_ger063-8" level="series">
+      <c01 id="aspace_81ba5e209a6484904cbab555efc99fe9" level="series">
         <did>
+          <unittitle>Published materials, biographical materials</unittitle>
           <unitid>8</unitid>
-          <unittitle label="Series">Published materials, biographical materials</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1901/1969" type="inclusive">1901-1969</unitdate>
+          <unitdate normal="1901/1969" type="inclusive">1901-1969</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_f0194cb2780ce10af179e244476dfd8d">
+          <head>Arrangement</head>
           <p>Arranged in original order.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_3351efc34b393b0bdaef3e70245d7230">
+          <head>Scope and Contents</head>
           <p>This series contains biographical materials such as a birth certificate and award as well as clippings about Joachim Maass and his published works.</p>
         </scopecontent>
-        <c02 id="nam_ger063-8_1">
+        <c02 id="aspace_094a245554d3d9ea2965808855a49f3e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">51</container>
             <unittitle>Biographical clippings</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1932">1932</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1945">1945</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1960/1961">1960-1961</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1964">1964</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
+            <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+            <unitdate normal="1960/1961" type="inclusive">1960-1961</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_5e74b32b19527002ac513aee7cb769d9" label="Mixed Materials" type="Box">2 (8-Published materials, biographical materials)</container>
+            <container id="aspace_f28b03286b55bf9d45476a76afa9a18d" parent="aspace_5e74b32b19527002ac513aee7cb769d9" type="Folder">51</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-8_2">
+        <c02 id="aspace_b0cd1d30a2ce5a4297cad867c67af4ae" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">52</container>
-            <unittitle>"Beitrge fr die Vossische Zeitung"-I. clippings </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1927/1929">1927-1929</unitdate>
+            <unittitle>"Beitrge fr die Vossische Zeitung"-I. clippings</unittitle>
+            <unitdate normal="1927/1929" type="inclusive">1927-1929</unitdate>
+            <container id="aspace_36295517029e41394e9782e50eacce8b" label="Mixed Materials" type="Box">2 (8-Published materials, biographical materials)</container>
+            <container id="aspace_7f98624a8440d460a08a8d5aa0aa64f5" parent="aspace_36295517029e41394e9782e50eacce8b" type="Folder">52</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-8_3">
+        <c02 id="aspace_f05b924e942b2e9d04426aec6d4e6d66" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">53</container>
-            <unittitle>"Beitrge fr die Vossische Zeitung"-clippings </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1945/1946">1945-1946</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unittitle>"Beitrge fr die Vossische Zeitung"-clippings</unittitle>
+            <unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_c167524b63453a8309d87ae9085ab6da" label="Mixed Materials" type="Box">2 (8-Published materials, biographical materials)</container>
+            <container id="aspace_eafce113ea55e97ec0fb4efb34b229f7" parent="aspace_c167524b63453a8309d87ae9085ab6da" type="Folder">53</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-8_4">
+        <c02 id="aspace_d98efbc9e71ea3c894c5681687bb584f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">54</container>
             <unittitle>Clippings, published works</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1927">1927</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1930">1930</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1932/1933">1932-1933</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1949">1949</unitdate>
+            <unitdate normal="1927/1927" type="inclusive">1927</unitdate>
+            <unitdate normal="1930/1930" type="inclusive">1930</unitdate>
+            <unitdate normal="1932/1933" type="inclusive">1932-1933</unitdate>
+            <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+            <container id="aspace_84e4044b3a29f74248306cb22e1a370c" label="Mixed Materials" type="Box">2 (8-Published materials, biographical materials)</container>
+            <container id="aspace_0ebef4c2ea848f256335593b4eb783bb" parent="aspace_84e4044b3a29f74248306cb22e1a370c" type="Folder">54</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-8_5">
+        <c02 id="aspace_2dc7bd18492c87a05011704c70fa608a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">55</container>
             <unittitle>Documents</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1963">1901-1963</unitdate>
+            <unitdate normal="1901/1963" type="inclusive">1901-1963</unitdate>
+            <container id="aspace_e2927b9a6c8017b7ac9383620a7789c3" label="Mixed Materials" type="Box">2 (8-Published materials, biographical materials)</container>
+            <container id="aspace_dbad83784f1fd1484698589c0271d146" parent="aspace_e2927b9a6c8017b7ac9383620a7789c3" type="Folder">55</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-8_6">
+        <c02 id="aspace_cd194d9334c98b2dd0ccb7b3ff4f1acf" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>Leben, Sterben und Unsterlichkeit Rainer Maria Rikes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1940/1942">1940-1942</unitdate>
+            <unitdate normal="1940/1942" type="inclusive">1940-1942</unitdate>
+            <container id="aspace_5f6869bb8cdb82c70c7d84172a3fe459" label="Mixed Materials" type="Box">3 (8-Published materials, biographical materials)</container>
+            <container id="aspace_459969b010d1adaab2729d7866414623" parent="aspace_5f6869bb8cdb82c70c7d84172a3fe459" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-8_7">
+        <c02 id="aspace_2a1083c77073974376ae9684f6bcbe15" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>Imaginierter Toast zu Carl Zuckmayers</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1946">1946</unitdate>
+            <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+            <container id="aspace_2a978eb80afa24fd6a4fd168f6ba0653" label="Mixed Materials" type="Box">3 (8-Published materials, biographical materials)</container>
+            <container id="aspace_3d2939a30ba53087567cb43b55b7a331" parent="aspace_2a978eb80afa24fd6a4fd168f6ba0653" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-8_8">
+        <c02 id="aspace_ceb09100b7614ef2de01f1199fc4b7a9" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">3</container>
             <unittitle>"Beitrge fr die Vossische Zeitung"</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1927/1932">1927-1932</unitdate>
+            <unitdate normal="1927/1932" type="inclusive">1927-1932</unitdate>
+            <container id="aspace_6494d4e80bc3a026ea7458bc13d52772" label="Mixed Materials" type="Box">3 (8-Published materials, biographical materials)</container>
+            <container id="aspace_8b67ecec13f34ce7e2321481669bcc53" parent="aspace_6494d4e80bc3a026ea7458bc13d52772" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-8_9">
+        <c02 id="aspace_8a233506c4ba180d743d841d76dddbbb" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4</container>
             <unittitle>"Beitrge frs Hamburger Freundesblatt" I</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1927-10-29/1929-08-24">1927 October 29-1929 August 24</unitdate>
+            <unitdate normal="1927-10-29/1929-08-24" type="inclusive">1927 October 29-1929 August 24</unitdate>
+            <container id="aspace_614595f2cfa1300c24293d31d4ffcd2c" label="Mixed Materials" type="Box">3 (8-Published materials, biographical materials)</container>
+            <container id="aspace_bf45d51818e81ddbd2f58baa3b296cce" parent="aspace_614595f2cfa1300c24293d31d4ffcd2c" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-8_10">
+        <c02 id="aspace_7bc03eead783366f338e48480fbcf4bb" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">5</container>
             <unittitle>"Beitrge frs Hamburger Freundesblatt" II</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1929-08/1932-08">1929 August-1932 August</unitdate>
+            <unitdate normal="1929-08/1932-08" type="inclusive">1929 August-1932 August</unitdate>
+            <container id="aspace_da76636fc45e1d43d253f7de952733cb" label="Mixed Materials" type="Box">3 (8-Published materials, biographical materials)</container>
+            <container id="aspace_337571f70807f5d75494c14282d1943d" parent="aspace_da76636fc45e1d43d253f7de952733cb" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-8_11">
+        <c02 id="aspace_2c5eacb32c05f2e6360544367584438e" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">6</container>
             <unittitle>"Beitrge frs Hamburger Freundesblatt" III</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1932-08/1936-12">1932 August-1936 December</unitdate>
+            <unitdate normal="1932-08/1936-12" type="inclusive">1932 August-1936 December</unitdate>
+            <container id="aspace_5b3971d3e7b0ba8947e11a4b002c2b5b" label="Mixed Materials" type="Box">3 (8-Published materials, biographical materials)</container>
+            <container id="aspace_61b90213cf9b8bc273c664d39e883dd6" parent="aspace_5b3971d3e7b0ba8947e11a4b002c2b5b" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-8_12">
+        <c02 id="aspace_c08361264885399f88eba51f5acc8558" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">7</container>
             <unittitle>Vorlesungen im Kurs, Problems of Red-education in Post-War Germany</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1969">1969</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1901/1972">Undated</unitdate>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <unitdate normal="1901/1972" type="inclusive">Undated</unitdate>
+            <container id="aspace_b3616607b65f76744f409d9a35c251fb" label="Mixed Materials" type="Box">3 (8-Published materials, biographical materials)</container>
+            <container id="aspace_566685fed661593622cc7409ff14d75b" parent="aspace_b3616607b65f76744f409d9a35c251fb" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ger063-8_13">
+        <c02 id="aspace_af782f0b1f06cd537b777cd4bf6219da" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">8</container>
             <unittitle>Hesse/Th. Mann.</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1935/1941">1935-1941</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1944/1949">1944-1949</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1951/1952">1951-1952</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1956">1956</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1958/1960">1958-1960</unitdate>
+            <unitdate normal="1935/1941" type="inclusive">1935-1941</unitdate>
+            <unitdate normal="1944/1949" type="inclusive">1944-1949</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <unitdate normal="1958/1960" type="inclusive">1958-1960</unitdate>
+            <container id="aspace_2caaa10855e4d2356985f81a131c235e" label="Mixed Materials" type="Box">3 (8-Published materials, biographical materials)</container>
+            <container id="aspace_560ba53607e71b872c5b7f0eb4b8e8a5" parent="aspace_2caaa10855e4d2356985f81a131c235e" type="Folder">8</container>
           </did>
         </c02>
       </c01>

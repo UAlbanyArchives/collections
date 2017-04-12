@@ -1,387 +1,377 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua335.001">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua335.001.html">nam_ua335.001</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua335.001">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua335.001.xml">ua335.001</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>PRINTING OFFICE PRINTING ARTIFACTS (UA335.001)<date normal="1943/1975" type="inclusive">1943-1975</date></titleproper>
+        <titleproper>Printing Office Printing Artifacts; null <num>ua335.001</num></titleproper>
         <author>Kevin L. Glick</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2015" type="publication">Copyright 2015 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2015</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Gregory Wiedeman<date normal="2015">2015</date>
-			</creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:39:50 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2015-12">2015 December</date>
+        <date>2015 December</date>
         <item>Converted to EAD</item>
+      </change>
+      <change>
+        <date>2015</date>
+        <item>Encoded in EAD by Gregory Wiedeman</item>
       </change>
     </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>Printing Office Printing Artifacts<date normal="1943/1975" type="inclusive">1943-1975</date></titleproper>
-      <publisher>
-			</publisher>
-      <date type="publication">Copyright 2015 By the University at Albany, SUNY. All rights reserved.</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua335.001</unitid>
-      <unittitle>Printing Office Printing Artifacts<unitdate label="Date:" normal="1943/1975" type="inclusive">1943-1975</unitdate></unittitle>
-      <abstract label="Abstract:">Contains halftone printing blocks depicting University buildings, faculty, and alumni created for the publication of the Alumni Quarterly.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="local">State University of New York at Albany. Printing Office</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">1.0</extent>
-      </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Printing Office Printing Artifacts<unitdate normal="1943/1975" type="inclusive">1943-1975</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">State University of New York at Albany. Printing Office</corpname>
+      </origination>
+      <unitid>ua335.001</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.0 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_cf44f7772732526f3aafebee46cc501f">Contains halftone printing blocks depicting University buildings, faculty, and alumni created for the publication of the Alumni Quarterly.</abstract>
+      <langmaterial id="aspace_1a4af464d337030ae99d0ec1ce5ab7be">English</langmaterial>
+      <physloc id="aspace_ab51367ded820f7599f7ab0ba1beb324">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_1dad451e8a11516fab45c3c8795677be">
+      <head>Processing Information</head>
+      <p>Processed in 2015 by Kevin L. Glick.</p>
+    </processinfo>
+    <accessrestrict id="aspace_cb21f9b2b2650f5208999578910c23a9">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_9501b55328e33a6f77e82373f19954a9">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites. </p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
-      <p>The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future. </p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
+      <p> The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_9d006656df1345cdf20a973d9f03a9f2">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_e4d6719ff9f4600a721c41c143ad7fd9">
       <head>Organizational Sketch</head>
       <p>Printing blocks we used for images that were commonly featured in university publications.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_679beda940df462bb8d5b33d0af2c4bf">
+      <head>Scope and Contents</head>
       <p>Contains halftone printing blocks depicting University buildings, faculty, and alumni created for the publication of the Alumni Quarterly.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_1e4b1b2e4fc1bf3885ba23fa891968a1">
       <head>Arrangement of the Collection</head>
       <p>The collection has no series.</p>
     </arrangement>
-    <prefercite>
+    <prefercite id="aspace_f9412807a2a1e1684a2cc58747505dfe">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Printing Office Printing Artifacts,  1943-1975. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Printing Office Printing Artifacts).</p>
+      <p> Identification of specific item, series, box, folder, Printing Office Printing Artifacts, 1943-1975. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Printing Office Printing Artifacts).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <corpname encodinganalog="611" source="local">State University of New York at Albany. Printing Office</corpname>
-      <subject encodinganalog="650" source="local">Printing--New York (State)--Albany. </subject>
+      <subject source="local">Printing--New York (State)--Albany.</subject>
+      <corpname source="local">State University of New York at Albany. Printing Office</corpname>
     </controlaccess>
     <dsc>
-      <head>Container List</head>
-      <c01 id="nam_ua335.001-1">
+      <c01 id="aspace_eb8deb18cfd3487ec0bb9e1161a333f7" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">1</container>
           <unittitle>State Education Building, 6 x 3</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941/1975">Undated</unitdate>
+          <unitdate normal="1941/1975" type="inclusive">Undated</unitdate>
+          <container id="aspace_999190cf770c10f58e25df44a2ee803b" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_f0e80cab9bdaaaf8eac7f097da5c6cbf" parent="aspace_999190cf770c10f58e25df44a2ee803b" type="Item">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-2">
+      <c01 id="aspace_79ca38c65cb0004a27a8d7852b18dbfa" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">2</container>
           <unittitle>Draper Hall and one section of Husted Hall and Hawley Hall, 2 x 4</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941/1975">Undated</unitdate>
+          <unitdate normal="1941/1975" type="inclusive">Undated</unitdate>
+          <container id="aspace_b67d38c0f902d9f7f28ead891017f33a" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_ab65bbdc72dff03d1bab7dc75fb5ca33" parent="aspace_b67d38c0f902d9f7f28ead891017f33a" type="Item">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-3">
+      <c01 id="aspace_e47ffd2f6e67c8b188822665ff0fe5a8" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">3</container>
           <unittitle>Hawley, Draper, Husted, Richardson, Page and Milne Halls, 12 x 2</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941/1975">Undated</unitdate>
+          <unitdate normal="1941/1975" type="inclusive">Undated</unitdate>
+          <container id="aspace_0ef0b87dfdbdf5c4e7a7303d62b15888" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_b718dc14fe5ee28d32dabbb127b793d6" parent="aspace_0ef0b87dfdbdf5c4e7a7303d62b15888" type="Item">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-4">
+      <c01 id="aspace_39bc6d72b6bfeb34a593b5a68481a4ed" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">4</container>
           <unittitle>Draper Hall, front portico, 3 x 2 [oval]</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941/1975">Undated</unitdate>
+          <unitdate normal="1941/1975" type="inclusive">Undated</unitdate>
+          <container id="aspace_3ec2162a30131b8f0929bc15d9a5ff93" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_25491c36c45432a7a159d48bb7a802c6" parent="aspace_3ec2162a30131b8f0929bc15d9a5ff93" type="Item">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-5">
+      <c01 id="aspace_78eedd9975709a3046d9e1267770bf15" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">5</container>
           <unittitle>Hawley, Draper, Husted, Richardson, Page, and Milne Hall, 11 x 2</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941/1975">Undated</unitdate>
+          <unitdate normal="1941/1975" type="inclusive">Undated</unitdate>
+          <container id="aspace_9170503a3412bab1c89e0eab9e6f838a" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_f70684d832eed5c1dccdd7bd296e0c25" parent="aspace_9170503a3412bab1c89e0eab9e6f838a" type="Item">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-6">
+      <c01 id="aspace_f36a911bca1b6d45ae412c732bcba561" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">6</container>
           <unittitle>Draper Hall, front view, 6 x 6</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941/1975">Undated</unitdate>
+          <unitdate normal="1941/1975" type="inclusive">Undated</unitdate>
+          <container id="aspace_b01544b9fa21f45dd25043e795d96672" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_36a4ee52a7870b38304c7032e44b4547" parent="aspace_b01544b9fa21f45dd25043e795d96672" type="Item">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-7">
+      <c01 id="aspace_6de6af3a09fde6376689e3bca0528c8f" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">7</container>
           <unittitle>Minerva, 6 x 4</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941/1975">Undated</unitdate>
+          <unitdate normal="1941/1975" type="inclusive">Undated</unitdate>
+          <container id="aspace_ae16b68ae6735ad1795b030f3505e119" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_5a7f046dea351c150d6522183945a3ee" parent="aspace_ae16b68ae6735ad1795b030f3505e119" type="Item">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-8">
+      <c01 id="aspace_c90e38b957c7012d52a1a5d1e91175f4" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">8</container>
           <unittitle>Page Hall, 6 x 7</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941/1975">Undated</unitdate>
+          <unitdate normal="1941/1975" type="inclusive">Undated</unitdate>
+          <container id="aspace_4ec5b02cb2a1649734f53c774f3856b9" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_e87f2c621ce77261f38dccf8ebd13e95" parent="aspace_4ec5b02cb2a1649734f53c774f3856b9" type="Item">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-9">
+      <c01 id="aspace_09d35891b1ca66e004f98a539e0f3af1" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">9</container>
           <unittitle>Draper Hall</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941/1975">Undated</unitdate>
+          <unitdate normal="1941/1975" type="inclusive">Undated</unitdate>
+          <container id="aspace_ae1f387705c82d6e1b753fd52a60e301" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_c451266f025a1ef62c67702c9a80a529" parent="aspace_ae1f387705c82d6e1b753fd52a60e301" type="Item">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-10">
+      <c01 id="aspace_7858edca779669ee45a3dee31efb7d8d" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">10</container>
           <unittitle>Draper Hall with part of Husted on the left and Hawley on the right, 6 x 5</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941/1975">Undated</unitdate>
+          <unitdate normal="1941/1975" type="inclusive">Undated</unitdate>
+          <container id="aspace_2751150abff8996824d80a9bc631e6fb" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_573deaf4279c5130efc3a0fd4df0cc53" parent="aspace_2751150abff8996824d80a9bc631e6fb" type="Item">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-11">
+      <c01 id="aspace_ee400a17453b688bdb5e87ce7384796d" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">11</container>
           <unittitle>Class of 1933 Gift Plate cut of window, 6 x 5 [added to collection 2/14/75]</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941/1975">Undated</unitdate>
+          <unitdate normal="1941/1975" type="inclusive">Undated</unitdate>
+          <container id="aspace_862ced4c21c62a722f8a5e5e3a6d52a2" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_e5becec5479e981776bf1f2a6b189f46" parent="aspace_862ced4c21c62a722f8a5e5e3a6d52a2" type="Item">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-12">
+      <c01 id="aspace_0c4eaa9a75f57b8baadc772471f2c509" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">12</container>
           <unittitle>Fireplace on the stage in the social room at Pierce Hall, 1 x 1 [Alumni Quarterly, vol. XVII, no. 3, Winter 1936, p. 17]</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1936">1936</unitdate>
+          <unitdate normal="1936/1936" type="inclusive">1936</unitdate>
+          <container id="aspace_79eae90e77d39ece854fbf6004a22c7d" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_66c5f5f9f73c57f8c360ef1b4cbdd9d6" parent="aspace_79eae90e77d39ece854fbf6004a22c7d" type="Item">12</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-13">
+      <c01 id="aspace_ce354f5725ddd283ecd7e919df4fa723" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">13</container>
           <unittitle>Architect's Drawing of Brubacker Hall and Union, 7 x 2 [Alumni Quarterly, vol. 31, no. 3, Jan. 1950, p. 2]</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1950">1950</unitdate>
+          <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+          <container id="aspace_240d7bcdb498d86818036ece85be8b3f" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_10aefe16aa8bb4bfa6b044c70c38c724" parent="aspace_240d7bcdb498d86818036ece85be8b3f" type="Item">13</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-14">
+      <c01 id="aspace_6afab554f003fa328861656ff0bed202" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">14</container>
           <unittitle>Downtown Campus, north side building program, proposed [Alumni Quarterly, vol. 31, no. 3, Jan. 1950, p. 3]</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1950">1950</unitdate>
+          <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+          <container id="aspace_bed5fbed4464b6d8f432335d3abd5bcd" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_ba50c363de04cc6023cce1b4d5d24c0e" parent="aspace_bed5fbed4464b6d8f432335d3abd5bcd" type="Item">14</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-15">
+      <c01 id="aspace_7bb4f55d66ab143a799f77a63c089e40" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">15</container>
           <unittitle>Arthur K. Beik, 1 x 2 [Alumni Quarterly, vol. 31, no. 2, Oct. 1949, p. 12]</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1949">1949</unitdate>
+          <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+          <container id="aspace_221cf580de35f8daf29d4bf90ade0d57" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_3495f922102c047e7d549a037ea8ccf2" parent="aspace_221cf580de35f8daf29d4bf90ade0d57" type="Item">15</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-16">
+      <c01 id="aspace_dca18cd6727a0d76bc46b28fbc78b739" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">16</container>
           <unittitle>Processional Moving-Up Day [Alumni Quarterly, vol. XXVII, no. 1, July 1944, p. 17]</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1944">1944</unitdate>
+          <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+          <container id="aspace_287d9a8b902f39eef62ed83d122bc484" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_bec774a88e1b12e8191d5ab21fc43bc1" parent="aspace_287d9a8b902f39eef62ed83d122bc484" type="Item">16</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-17">
+      <c01 id="aspace_e76459ce920c23cd03c25ad908a6ea89" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">17</container>
           <unittitle>Dr. Albert N. Husted, 5 x 4 [Alumni Quarterly, vol. XXVII, no. 3, Jan. 1946, p. 3]</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1946">1946</unitdate>
+          <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+          <container id="aspace_1c4bf0785530a29bd9367176ac92f997" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_ea43f50d30cf141f53dd50967d6dee45" parent="aspace_1c4bf0785530a29bd9367176ac92f997" type="Item">17</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-18">
+      <c01 id="aspace_2a5624356522ae12e608fbb41d50bb7f" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">18</container>
           <unittitle>Sayles Hall, 3 x 2 [Alumni Quarterly, vol. XXIV, no. 3, Winter 1943, p. 2]</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1943">1943</unitdate>
+          <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
+          <container id="aspace_2f6ef57c31e4a489e11e71deb50284b9" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_1500a268d72e64dbf7a89c9441290629" parent="aspace_2f6ef57c31e4a489e11e71deb50284b9" type="Item">18</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-19">
+      <c01 id="aspace_9d78c3790a36d79faf03d053533ee8cf" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">19</container>
           <unittitle>Commerce Building, 4 x 7 [Alumni Quarterly, vol. 33, no. 2, Oct. 1951, p. 3]</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1951">1951</unitdate>
+          <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+          <container id="aspace_d57e3340bbadb43603ba0a62faf9291d" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_2b985c7380d5d36d238dceb674977742" parent="aspace_d57e3340bbadb43603ba0a62faf9291d" type="Item">19</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-20">
+      <c01 id="aspace_e5376252a907b3378603e8bfb75b030d" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">20</container>
           <unittitle>Pierce Hall - Stairway, 5 x 4</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941/1975">Undated</unitdate>
+          <unitdate normal="1941/1975" type="inclusive">Undated</unitdate>
+          <container id="aspace_0482c7d8f9e67592bebc1a181ea04545" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_3cd3eaa26f88d47a461d1c199eaf4a7d" parent="aspace_0482c7d8f9e67592bebc1a181ea04545" type="Item">20</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-21">
+      <c01 id="aspace_87a7e6a87789813f65518689a06d4752" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">21</container>
           <unittitle>Willett Street Building, 1885, 4 x 3</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941/1975">Undated</unitdate>
+          <unitdate normal="1941/1975" type="inclusive">Undated</unitdate>
+          <container id="aspace_be431afdf614019e4b3aab71666c89dc" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_5361ca6268bab74811a5a7adfe36d32b" parent="aspace_be431afdf614019e4b3aab71666c89dc" type="Item">21</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-22">
+      <c01 id="aspace_5a2b20efc2d69d8c0dcdee81121e8dc9" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">22</container>
           <unittitle>Hawley, Draper, Husted, Richardson, Page, and Milne Halls, 9 x 2</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941/1975">Undated</unitdate>
+          <unitdate normal="1941/1975" type="inclusive">Undated</unitdate>
+          <container id="aspace_1d6a3e0d0902369ec36c24f0bee206da" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_7c65d38155cfbd562e3948da54dbd4aa" parent="aspace_1d6a3e0d0902369ec36c24f0bee206da" type="Item">22</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-23">
+      <c01 id="aspace_197d395aaef53527875901220abbb0f0" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">23</container>
           <unittitle>New York State College for Teachers campus with Residence Hall, circa 1937, 6 x 4</unittitle>
+          <container id="aspace_897a3bf173887b1d7f8ca1e0957122ed" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_ed1ab7b5dd6360306e61e0e685a3acca" parent="aspace_897a3bf173887b1d7f8ca1e0957122ed" type="Item">23</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-24">
+      <c01 id="aspace_d10eff4a4df5ed0f1edbdf8fc2b57586" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">24</container>
           <unittitle>Round plaque, To Bertha E. Brimmer with great appreciation N.Y.S.C.T. Alumni Association, Albany, June 15, 1954, 2 x 2</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1954">1954</unitdate>
+          <unitdate normal="1954/1954" type="inclusive">1954</unitdate>
+          <container id="aspace_9a20688abb755c55cd8ac0d5f8f3e2b0" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_96e540d948554b2c163e1a288a491f14" parent="aspace_9a20688abb755c55cd8ac0d5f8f3e2b0" type="Item">24</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-25">
+      <c01 id="aspace_49d7f3487af0b090485dcce2f4a8ee2d" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">25</container>
           <unittitle>Draper Hall, front view, 8 x 7</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941/1975">Undated</unitdate>
+          <unitdate normal="1941/1975" type="inclusive">Undated</unitdate>
+          <container id="aspace_d65384f006831a56bb93c6fe04c6688a" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_efba19acaab20be67b8826be7dbb15d8" parent="aspace_d65384f006831a56bb93c6fe04c6688a" type="Item">25</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-26">
+      <c01 id="aspace_765612bf763aba4063c54695f266e50b" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">26</container>
           <unittitle>Paul G. Bulger '36, 3 x 2 [Alumni Quarterly, vol. 34, no. 4, Oct. 1953, p. 2]</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1953">1953</unitdate>
+          <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+          <container id="aspace_6303233586637aa34054bd0a08184c87" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_4b13f6102cd54c8d17ff02cecc8520f4" parent="aspace_6303233586637aa34054bd0a08184c87" type="Item">26</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-27">
+      <c01 id="aspace_b9b37e6407a99aebdf649734f1c68a79" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">27</container>
           <unittitle>D. Emma Wilber Hodge '17, 2 x 2 [Alumni Quarterly, vol. 26, no. 2, Oct. 1944, p. 4]</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1944">1944</unitdate>
+          <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+          <container id="aspace_ccfbb01e5fa2c0f515711b82660efd44" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_54e52d621ba43ec34fbeca035c8e6c98" parent="aspace_ccfbb01e5fa2c0f515711b82660efd44" type="Item">27</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-28">
+      <c01 id="aspace_3a2d43e66198017e7071b8391394eaa5" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">28</container>
           <unittitle>Agnes Nolan Underwood '20, 2 x 2 [Alumni Quarterly, vol. 26, no. 2, Oct. 1944, p. 5]</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1944">1944</unitdate>
+          <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+          <container id="aspace_f54dc79338c60ec96ab132d4e0373ff2" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_9e49b1ae350d30bcd132890e2c27f20c" parent="aspace_f54dc79338c60ec96ab132d4e0373ff2" type="Item">28</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-29">
+      <c01 id="aspace_d0f2baa32d10d15da2620be85ce22322" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">29</container>
           <unittitle>Chester J. Terrell '27, 2 x 2 [Alumni Quarterly, vol. 26, no. 2, Oct. 1944, p. 4]</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1944">1944</unitdate>
+          <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+          <container id="aspace_617c095989edb50ac8bfec5dddfbdba3" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_0d827f8041ef4861699b05ecb2219609" parent="aspace_617c095989edb50ac8bfec5dddfbdba3" type="Item">29</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-30">
+      <c01 id="aspace_120b394ffff2264270f2a371fc13d9ca" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">30</container>
           <unittitle>Statue of Minerva, 3 x 7</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941/1975">Undated</unitdate>
+          <unitdate normal="1941/1975" type="inclusive">Undated</unitdate>
+          <container id="aspace_93865491305a83419ef7607a89f4bc4f" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_8077cb1acb56adcb7fcfe9b2d5a38ea1" parent="aspace_93865491305a83419ef7607a89f4bc4f" type="Item">30</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-31">
+      <c01 id="aspace_b618ac3a707b8ea341d1b57046176978" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">31</container>
           <unittitle>Minnie B. Scotland, 2 x 2</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941/1975">Undated</unitdate>
+          <unitdate normal="1941/1975" type="inclusive">Undated</unitdate>
+          <container id="aspace_bec7b816397b93bf9f8ff634f4895168" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_11669a4215c01c79849a125cacc07a72" parent="aspace_bec7b816397b93bf9f8ff634f4895168" type="Item">31</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-32">
+      <c01 id="aspace_f43b6ba950e5812567078de8f08da3ae" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">32</container>
           <unittitle>Dr. Alfred E. Husted, 4 x 3</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941/1975">Undated</unitdate>
+          <unitdate normal="1941/1975" type="inclusive">Undated</unitdate>
+          <container id="aspace_edb2580fdb1e88874997f75baae1f93e" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_3c1294dbcd4f3a4e4c5acbd1e13aa732" parent="aspace_edb2580fdb1e88874997f75baae1f93e" type="Item">32</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-33">
+      <c01 id="aspace_e9c33400ef8b754b89088827b36707a5" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">33</container>
           <unittitle>Music Department, Nathan Gottschalk, Chairman... (plaque), 5 x 7</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941/1975">Undated</unitdate>
+          <unitdate normal="1941/1975" type="inclusive">Undated</unitdate>
+          <container id="aspace_cb031936609d48536607d21a8c772454" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_2e1458ad50b9a87914266895e8e8de66" parent="aspace_cb031936609d48536607d21a8c772454" type="Item">33</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-34">
+      <c01 id="aspace_01f691391a09f645c54f9d7445fe89fb" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">34</container>
           <unittitle>Music Department, Performing Arts Center, College of Arts &amp; Sciences...(plaque), 5 x 7</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941/1975">Undated</unitdate>
+          <unitdate normal="1941/1975" type="inclusive">Undated</unitdate>
+          <container id="aspace_523bbd4977353105b1db9f3febfae22a" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_bcf7ee4be70b8042ac8ece7ea32a91ed" parent="aspace_523bbd4977353105b1db9f3febfae22a" type="Item">34</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-35">
+      <c01 id="aspace_0edcbb3ad002d4b90459ed3f739198f8" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">35</container>
           <unittitle>Music Department, Performing Arts Center Faculty...(plaque), 5 x 7</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941/1975">Undated</unitdate>
+          <unitdate normal="1941/1975" type="inclusive">Undated</unitdate>
+          <container id="aspace_03a12552a94e05f4f89fa1b3429fa7cc" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_b50124866b4af4b4c7f63a2d04cd0445" parent="aspace_03a12552a94e05f4f89fa1b3429fa7cc" type="Item">35</container>
         </did>
       </c01>
-      <c01 id="nam_ua335.001-36">
+      <c01 id="aspace_05388f9cd223231a20fb45e6015cfd2a" level="otherlevel">
         <did>
-          <container type="Box">1</container>
-          <container type="Item">36</container>
           <unittitle>Music Department, SUNY at Albany...(plaque), 10 x 7</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941/1975">Undated</unitdate>
+          <unitdate normal="1941/1975" type="inclusive">Undated</unitdate>
+          <container id="aspace_7ab34bf05af306474069f5ba7106a6bf" label="Mixed Materials" type="Box">1 (Printing Office Printing Artifacts)</container>
+          <container id="aspace_874ee38ff4904c68bf34b35e3804ed6c" parent="aspace_7ab34bf05af306474069f5ba7106a6bf" type="Item">36</container>
         </did>
       </c01>
     </dsc>

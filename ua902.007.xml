@@ -1,770 +1,647 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua902.007">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/ua902.007.xml" identifier="##">nam_ua902.007</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua902.007">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua902.007.xml">ua902.007</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>PAUL BRUCE PETTIT PAPERS (UA902.007)<date normal="1938/1972" type="inclusive">1938-1972</date></titleproper>
+        <titleproper>Pettit, Paul; ead <num>ua902.007</num></titleproper>
         <author>W. Dan Johnson</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2014">Copyright 2014 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2014</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>W. Dan Johnson <date normal="2014">2014</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 17:27:48 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Encoded in EAD by W. Dan Johnson</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>PAUL BRUCE PETTIT PAPERS (UA902.007)<date normal="1938/1972" type="inclusive">1938-1972</date>
-      </titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2014</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua902.007</unitid>
-      <unittitle>Paul Bruce Pettit Papers <unitdate type="inclusive" normal="1938/1972" label="Date:"> 1938-1972</unitdate>
-      </unittitle>
-      <physdesc label="Physical Characteristics:">
-        <extent unit="cubic ft.">2.0</extent>
-      </physdesc>
-      <origination>
-        <persname encodinganalog="100" source="local">Pettit, Paul Bruce</persname>
-      </origination>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:"> Personal and professional papers of Paul Bruce Pettit, professor
-        of theatre at the University at Albany, 1947-1972. Includes essays, play scripts and
-        literary writings produced while enrolled in graduate programs at Cornell University, his
-        theses (M.A. 1943 and Ph.D. 1949), correspondence, offprints of articles about theater
-        related subjects, newspaper clippings, scripts of radio broadcasts (1947-1948), and lecture
-        notes from Pettit's tenure as a professor and chairman of the Department of Theatre.
-        While on a Fulbright Scholarship Pettit directed the National Theater in Cyprus (1964 and
-        1965) and was known for his work in arena theater. </abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Paul Bruce Pettit Papers<unitdate normal="1938/1972" type="inclusive">1938-1972</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="local">Pettit, Paul Bruce</persname>
+      </origination>
+      <unitid>ua902.007</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.0 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_abf139ecb3f6624ff1bd2d329eddc492">Personal and professional papers of Paul Bruce Pettit, professor of theatre at the University at Albany, 1947-1972. Includes essays, play scripts and literary writings produced while enrolled in graduate programs at Cornell University, his theses (M.A. 1943 and Ph.D. 1949), correspondence, offprints of articles about theater related subjects, newspaper clippings, scripts of radio broadcasts (1947-1948), and lecture notes from Pettit's tenure as a professor and chairman of the Department of Theatre. While on a Fulbright Scholarship Pettit directed the National Theater in Cyprus (1964 and 1965) and was known for his work in arena theater.</abstract>
+      <langmaterial id="aspace_cfcbfc375e3cd693b55b5b4f205ea060">English</langmaterial>
+      <physloc id="aspace_561e072bbd27cb86de4da1219eaf8d75">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_093a8c34fc33f11e9dc92ef244871b66">
+      <head>Processing Information</head>
+      <p>Processed in 2014 by W. Dan Johnson.</p>
+    </processinfo>
+    <accessrestrict id="aspace_b46fa4fd77bb737d9f7fcb0e5f5e8254">
       <head>Access</head>
-      <p> Access to this collection is unrestricted with the exception of one file noted on the
-        inventory. </p>
+      <p>Access to this collection is unrestricted with the exception of one file noted on the inventory.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_9c8e30a81253d5d429ec3f38ae14a615">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_6913c4b659b5483a1259761c7b5d255a">
       <head>Acquisition Information</head>
       <p>The Department of Theatre donated the Paul Bruce Pettit Papers in 1973 and 1978.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_17a2a9c4ccb6d3f278538357d39f5f6b">
       <head>Biographical History</head>
-      <p> Paul Bruce Pettit (1920-1972) was a professor of theatre and the first chair of the
-        Department of Theatre at the University at Albany, 1947-1972. </p>
-      <p> Pettit was born in Greensburg, Indiana, on July 9, 1920. After completing high school at
-        The Principia in Saint Louis, Missouri, he attended and received a Bachelor of Arts (1942)
-        in English from Alfred University in Alfred, New York. Immediately following his graduation
-        Pettit enrolled in graduate school at Cornell University in Ithaca, New York, where he
-        became involved in the vibrant theatre arts community. Pettit earned a Master of Arts (1943)
-        and a Doctor of Philosophy (1949) from Cornell. </p>
-      <p>Though their marriage did not last, E. Bernice "Bunny" Pettit (nee Minkler) was
-        very involved in Dr. Pettit's professional life while they were together, often
-        collaborating on projects or accompanying him to events. She also mothered their two
-        children, Alexander Drummond and Faith Caldwell Pettit. </p>
-      <p> Dr. Pettit was appointed to the faculty at New York State College for Teachers in 1947 in
-        the combined English and Dramatic Arts Department and remained employed at the institution
-        until his death. After the college became the State University of New York at Albany, he was
-        instrumental in the forming of the Department of Speech and Dramatic Arts and fostered the
-        evolution into the Department of Theatre which he initially chaired. As a professor of
-        theatre, he was actively involved in the American Educational Theatre Association (AETA).
-        After returning from a Fulbright Scholarship in Greece (1950-51) where he directed the
-        Athens Players, and with a renewed interest in arena theater, Pettit founded the Arena
-        Summer Theatre at the university in 1952. Dr. Pettit traveled extensively, particularly in
-        the Mediterranean, on various grants and Fulbright Scholarships. In 1964 Dr. Pettit and his
-        family were among hundreds of Americans evacuated from the strife-torn island of Cyprus
-        during the escalating Greek-Turkish conflicts. Until the struggle made his work there
-        impossible, Dr. Pettit had served as American advisor and director of the Greek-Cypriot
-        National Theatre in Nicosia, Cyprus.</p>
-      <p>Drawing on his cultural background, Dr. Pettit was often called on to contribute to the
-        surrounding community as a subject expert. From 1947-1949, WROW radio featured Dr. Pettit as
-        an entertainment critic. He provided a start-up for Albany Civic Theater and served as
-        president of the Albany League of Arts working directly with the New York State Council on
-        the Arts. In his capacity as president of the Albany League of Arts, Dr. Pettit proposed and
-        advocated for the building of a Cultural Arts Center for the City of Albany.</p>
-      <p>In 1971, while on leave from the university, Dr. Pettit served as Visiting University
-        Fellow and director of program development in the fine arts for the newly established Empire
-        State College. Prior to returning to his teaching post at the university in 1972, Dr. Pettit
-        died of a heart attack in his home. He was 52 years old.</p>
-      <p> The information provided above was gleaned from the following sources, in addition to
-          those found in the Paul Bruce Pettit Papers themselves: <list type="simple"><item>"Albany Teacher Tells of Cyprus Evacuation." 1964. <emph render="italic">The Knickerbocker News</emph>, March 18.</item><item>Bradley, Peter. 1964. "Americans Ignorant of Cyprus Situation State U
-              Educator Says." <emph render="italic">Times Union</emph>, October 29.</item><item>"Creative Arts Center Proposed for Albany." 1961. <emph render="italic">The Knickerbocker News</emph>, September 28.</item><item>"Dr. Paul B. Pettit, Stage Arts Pioneer.” 1972. <emph render="italic">The
-                Knickerbocker News</emph>, April 22, sec. Obituaries.</item><item>"Dr. Paul Bruce Pettit." 1972. <emph render="italic">Times Union</emph>,
-              April 25.</item><item>"Dr. Paul Pettit to Advise New Syrian Ambassador." 1965. <emph render="italic">Albany Student Press</emph>, September 24.</item><item>"Dr. Pettit Dies, Drama Chairman." 1972. <emph render="italic">Times
-                Union</emph>, April 22.</item><item>"Dr. Pettit Seeks Center for Arts." 1961. <emph render="italic">Times
-                Union</emph>, September 29.</item><item>"Dr. Pettit, Family Evacuate Cypress with Hundreds of Other Americans."
-              1964. <emph render="italic">Albany Student Press</emph>, February 21.</item><item>"Dr. Pettit, SUNYA Aide, Dies at 52." 1972. <emph render="italic">The
-                Times Record</emph>, April 22.</item><item>Hawver, Walter. 1964. "An Albanian in Greece: 'No Hope for
-              Cyprus.'" <emph render="italic">Times Union</emph>, February 19.</item><item>Kelly, Martin. 1972. "Paul Bruce Pettit: Quiet Man, Incisive Talent."
-                <emph render="italic">Times Union</emph>, April 26.</item><item>"Pettit Gets New SUNY Post." 1971. <emph render="italic">Times
-                Union</emph>, August 3.</item><item>Pettit, Paul Bruce. 1964. "A Story from Athens: Story of a Cyprus
-              Evacuation." <emph render="italic">Times Union</emph>, March 17.</item><item>Plotnik, Art. 1962. "Aroused Public Can Brighten Cultural Picture, Panel
-              Agrees." <emph render="italic">Times Union</emph>, October 2.</item></list>
-        </p>
+      <p>Paul Bruce Pettit (1920-1972) was a professor of theatre and the first chair of the Department of Theatre at the University at Albany, 1947-1972. </p>
+      <p>  Pettit was born in Greensburg, Indiana, on July 9, 1920. After completing high school at The Principia in Saint Louis, Missouri, he attended and received a Bachelor of Arts (1942) in English from Alfred University in Alfred, New York. Immediately following his graduation Pettit enrolled in graduate school at Cornell University in Ithaca, New York, where he became involved in the vibrant theatre arts community. Pettit earned a Master of Arts (1943) and a Doctor of Philosophy (1949) from Cornell. </p>
+      <p> Though their marriage did not last, E. Bernice "Bunny" Pettit (nee Minkler) was very involved in Dr. Pettit's professional life while they were together, often collaborating on projects or accompanying him to events. She also mothered their two children, Alexander Drummond and Faith Caldwell Pettit. </p>
+      <p>  Dr. Pettit was appointed to the faculty at New York State College for Teachers in 1947 in the combined English and Dramatic Arts Department and remained employed at the institution until his death. After the college became the State University of New York at Albany, he was instrumental in the forming of the Department of Speech and Dramatic Arts and fostered the evolution into the Department of Theatre which he initially chaired. As a professor of theatre, he was actively involved in the American Educational Theatre Association (AETA). After returning from a Fulbright Scholarship in Greece (1950-51) where he directed the Athens Players, and with a renewed interest in arena theater, Pettit founded the Arena Summer Theatre at the university in 1952. Dr. Pettit traveled extensively, particularly in the Mediterranean, on various grants and Fulbright Scholarships. In 1964 Dr. Pettit and his family were among hundreds of Americans evacuated from the strife-torn island of Cyprus during the escalating Greek-Turkish conflicts. Until the struggle made his work there impossible, Dr. Pettit had served as American advisor and director of the Greek-Cypriot National Theatre in Nicosia, Cyprus.</p>
+      <p> Drawing on his cultural background, Dr. Pettit was often called on to contribute to the surrounding community as a subject expert. From 1947-1949, WROW radio featured Dr. Pettit as an entertainment critic. He provided a start-up for Albany Civic Theater and served as president of the Albany League of Arts working directly with the New York State Council on the Arts. In his capacity as president of the Albany League of Arts, Dr. Pettit proposed and advocated for the building of a Cultural Arts Center for the City of Albany.</p>
+      <p> In 1971, while on leave from the university, Dr. Pettit served as Visiting University Fellow and director of program development in the fine arts for the newly established Empire State College. Prior to returning to his teaching post at the university in 1972, Dr. Pettit died of a heart attack in his home. He was 52 years old.</p>
+      <p>  The information provided above was gleaned from the following sources, in addition to those found in the Paul Bruce Pettit Papers themselves:</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>This collection documents Dr. Paul Bruce Pettit's professional life as a researcher, professor, and
-        arts administrator. Materials in the collection include folders that contain correspondence,
-        academic papers and other samplings of work that Dr. Pettit produced while enrolled in graduate
-        programs (M.A. and Ph.D.) at Cornell University, 1942-43 and 1947-49 respectively. Besides
-        three bound copies of printed scripts from his radio broadcasts of theatrical reviews,
-        1947-1948, there are also copies of his master's thesis and doctoral dissertation, <emph render="italic">The Important American Dramatic Types to 1900: A Study of the Yankee,
-          Negro, Indian, and Frontiersman</emph>, 1949.</p>
-      <p>Correspondence, offprints of articles about theater related subjects, plays and reviews,
-        and lecture notes from Dr. Pettit's tenure as a professor of theatre at the University at
-        Albany (known as New York State College for Teachers at the time of hire) are also part of
-        the collection, 1947-72. </p>
-      <p>Additionally, there is material from within this time frame that includes a bound copy of
-        his play <emph render="italic">A Night from a Thousand Nights and a Night</emph> translated
-        into Arabic, and presented while directing the National Theatre in Cyprus as part of a
-        Fulbright scholarship, 1964-1965. Writings in the collection from the era and clippings give
-        an account of Dr. Pettit's and other Americans evacuation from Cyprus when a Turkish
-        invasion appeared eminent. There are other newspaper clippings chronicling Dr. Pettit's
-        accomplishments throughout his life. </p>
-      <p>The majority of the file names are names that Dr. Pettit assigned them based on handwritten or
-        typed labels the archivist found on the original folders in the collection. If there was no
-        label indicating the file's name, the archivist chose a name based on the subject of
-        the records. All the files are arranged chronologically. Within the files, items are
-        arranged based on the year of their creation. </p>
-      <p>Related collections in the M.E. Grenander Department of Special Collections and Archives
-        include the records of the Department of Theatre (UA-609) and the Jarka M. Burian Papers,
-        (UA-902.017). </p>
+    <scopecontent id="aspace_909ae29e23dcf68ebe162dbd4a19a2cc">
+      <head>Scope and Contents</head>
+      <p>This collection documents Dr. Paul Bruce Pettit's professional life as a researcher, professor, and arts administrator. Materials in the collection include folders that contain correspondence, academic papers and other samplings of work that Dr. Pettit produced while enrolled in graduate programs (M.A. and Ph.D.) at Cornell University, 1942-43 and 1947-49 respectively. Besides three bound copies of printed scripts from his radio broadcasts of theatrical reviews, 1947-1948, there are also copies of his master's thesis and doctoral dissertation, <emph render="italic">The Important American Dramatic Types to 1900: A Study of the Yankee, Negro, Indian, and Frontiersman</emph>, 1949.</p>
+      <p> Correspondence, offprints of articles about theater related subjects, plays and reviews, and lecture notes from Dr. Pettit's tenure as a professor of theatre at the University at Albany (known as New York State College for Teachers at the time of hire) are also part of the collection, 1947-72. </p>
+      <p> Additionally, there is material from within this time frame that includes a bound copy of his play <emph render="italic">A Night from a Thousand Nights and a Night</emph> translated into Arabic, and presented while directing the National Theatre in Cyprus as part of a Fulbright scholarship, 1964-1965. Writings in the collection from the era and clippings give an account of Dr. Pettit's and other Americans evacuation from Cyprus when a Turkish invasion appeared eminent. There are other newspaper clippings chronicling Dr. Pettit's accomplishments throughout his life. </p>
+      <p> The majority of the file names are names that Dr. Pettit assigned them based on handwritten or typed labels the archivist found on the original folders in the collection. If there was no label indicating the file's name, the archivist chose a name based on the subject of the records. All the files are arranged chronologically. Within the files, items are arranged based on the year of their creation. </p>
+      <p> Related collections in the M.E. Grenander Department of Special Collections and Archives include the records of the Department of Theatre (UA-609) and the Jarka M. Burian Papers, (UA-902.017).</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_1027cd81e3b97fd24302ffa791b37d4f">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized chronologically. There are no series.</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-           Try to give as many access points as you can to increase the chances of 
-           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-           to comment them out! -->
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Radio and Television Broadcasting</subject>
-      <persname encodinganalog="600" source="local">Pettit, Paul Bruce, 1920-1972</persname>
-      <corpname encodinganalog="610" source="lcsh">State College for Teachers (Albany,
-        N.Y.)</corpname>
-      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany</corpname>
-      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany. Theatre
-        Department</corpname>
-      <subject encodinganalog="650" source="lcsh">Theater--Study and teaching--New York
-        (State)--Albany</subject>
-      <subject encodinganalog="650" source="lcsh">Fulbright scholarships--Greece</subject>
-      <subject encodinganalog="650" source="lcsh">Fulbright scholarships--Cyprus</subject>
-      <subject encodinganalog="650" source="lcsh">Arena theater--New York (State)</subject>
-      <subject encodinganalog="650" source="lcsh">Higher Education--New York (State)</subject>
-      <genreform encodinganalog="655" source="aat">Clippings</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Files by subject</genreform>
-      <genreform encodinganalog="655" source="aat">Lecture notes</genreform>
-      <genreform encodinganalog="655" source="aat">Lectures</genreform>
-      <genreform encodinganalog="655" source="aat">Manuscripts</genreform>
-      <genreform encodinganalog="655" source="aat">Photographic prints</genreform>
-      <genreform encodinganalog="655" source="aat">Postcards</genreform>
-      <genreform encodinganalog="655" source="aat">Radio scripts</genreform>
-      <genreform encodinganalog="655" source="aat">Speeches</genreform>
-      <genreform encodinganalog="655" source="aat">Theater programs</genreform>
-    </controlaccess>
-    <prefercite encodinganalog="524">
+    <prefercite id="aspace_90da1574ac4d9c69caea050a87753177">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Paul Bruce Pettit Papers, 1938-1972.
-        M.E. Grenander Department of Special Collections and Archives, University Libraries,
-        University at Albany, State University of New York (hereafter referred to as the Pettit
-        Papers).</p>
+      <p> Identification of specific item, series, box, folder, Paul Bruce Pettit Papers, 1938-1972. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Pettit Papers).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_ua902.007-1">
+    <controlaccess>
+      <subject source="meg">Radio and Television Broadcasting</subject>
+      <subject source="lcsh">Theater--Study and teaching--New York (State)--Albany</subject>
+      <subject source="lcsh">Fulbright scholarships--Greece</subject>
+      <subject source="lcsh">Fulbright scholarships--Cyprus</subject>
+      <subject source="lcsh">Arena theater--New York (State)</subject>
+      <subject source="lcsh">Higher education--New York (State)</subject>
+      <genreform source="aat">Clippings</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Files by subject</genreform>
+      <genreform source="aat">Lecture notes</genreform>
+      <genreform source="aat">Lectures</genreform>
+      <genreform source="aat">Manuscripts</genreform>
+      <genreform source="aat">Photographic prints</genreform>
+      <genreform source="aat">Postcards</genreform>
+      <genreform source="aat">Radio scripts</genreform>
+      <genreform source="aat">Speeches</genreform>
+      <genreform source="aat">theater programs</genreform>
+      <persname source="local">Pettit, Paul Bruce, 1920-1972</persname>
+      <corpname source="lcsh">State College for Teachers (Albany, N.Y.)</corpname>
+      <corpname source="lcsh">State University of New York at Albany</corpname>
+      <corpname source="lcsh">State University of New York at Albany. Theatre Department</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_6c6fd6c091083dfa717c71448e1a76f4" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
-          <unittitle> Personal Records</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1938">1938</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1942/1945">1942-1945</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1955/1958">1955-1958</unitdate>
+          <unittitle>Personal Records</unittitle>
+          <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+          <unitdate normal="1942/1945" type="inclusive">1942-1945</unitdate>
+          <unitdate normal="1955/1958" type="inclusive">1955-1958</unitdate>
+          <container id="aspace_7657fb7944b47b3f40fd12b86e9c6c7c" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_297f48ba077f15f7b003cabc08d818d9" parent="aspace_7657fb7944b47b3f40fd12b86e9c6c7c" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-2">
+      <c01 id="aspace_659a6fd6182d9654f118e96ac4d45ee3" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Pettit Photographs</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1938">1938</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1938/1972">Undated</unitdate>
+          <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+          <unitdate normal="1938/1972" type="inclusive">Undated</unitdate>
+          <container id="aspace_95d953d5c879969787a209b0616422fa" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_50394cd58c373b519e5d72a3ef7f933f" parent="aspace_95d953d5c879969787a209b0616422fa" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-3">
+      <c01 id="aspace_e2ca6e9abacb1f5462898a3e9bdcbcac" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>"The Director: A Study in Responsibilities"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1942">1942</unitdate>
+          <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
+          <container id="aspace_57c9df3b676af6c566ed197b2929ae82" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_a10fb36f2618d9c5a5ecdd6e12aa0a73" parent="aspace_57c9df3b676af6c566ed197b2929ae82" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-4">
+      <c01 id="aspace_f3029bb2407c5dbbd91a849c5b4faa46" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
-          <unittitle>"Analysis of<emph render="italic">A Night at an
-            Inn</emph>"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1942">1942</unitdate>
+          <unittitle>"Analysis of<emph render="italic">A Night at an Inn</emph>"</unittitle>
+          <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
+          <container id="aspace_fbe3bd7bc7804ed7935064e3b8582b26" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_0935ba34639bba218624757c0661c013" parent="aspace_fbe3bd7bc7804ed7935064e3b8582b26" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-5">
+      <c01 id="aspace_8431fa7737dac1cc577fd2d47e0181a6" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
-          <unittitle>"Analysis of<emph render="italic">A Night at an
-            Inn</emph>"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1942">1942</unitdate>
+          <unittitle>"Analysis of<emph render="italic">A Night at an Inn</emph>"</unittitle>
+          <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
+          <container id="aspace_59a368ff803de16b582cb20df70bf9f1" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_5ee9ac60d67fdd5f2c3cfde9abb784ee" parent="aspace_59a368ff803de16b582cb20df70bf9f1" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-6">
+      <c01 id="aspace_3738305a442af81e34f9da837c224be8" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>
             <emph render="italic">Walt Disney's Dumbo</emph>
           </unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1942">1942</unitdate>
+          <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
+          <container id="aspace_a7665ee33de070c69afd0fb64d9d7b79" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_e0f4321c1f16f1fcdbaef4acd04f3557" parent="aspace_a7665ee33de070c69afd0fb64d9d7b79" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-7">
+      <c01 id="aspace_32f44e4a0d9f6f3264b24ad80b466186" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Paper on Tragedy</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943">1943</unitdate>
+          <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
+          <container id="aspace_5004124b306ed60eb5317f9d68e6d930" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_c8737e514d34f8bbaf65a53287072066" parent="aspace_5004124b306ed60eb5317f9d68e6d930" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-8">
+      <c01 id="aspace_43abb16382b78e298cfcf8e281f8639b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
           <unittitle>"Comedy"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943">1943</unitdate>
+          <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
+          <container id="aspace_a1f93a8c9a33c07eccc07fbc13895e57" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_8531693eef078dfb9ec78064f22d4e3f" parent="aspace_a1f93a8c9a33c07eccc07fbc13895e57" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-9">
+      <c01 id="aspace_1f2fa98414f9aefc0234e9afdc061241" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9-11</container>
-          <unittitle>"The Showboat Theatre: The Development of the Showboat on the Mississippi
-            River and on the Eastern Waterways" (draft copy)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943">1943</unitdate>
+          <unittitle>"The Showboat Theatre: The Development of the Showboat on the Mississippi River and on the Eastern Waterways" (draft copy)</unittitle>
+          <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
+          <container id="aspace_cb0c5038809d09574774703fcd36a416" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_55fd16f94d21539c410dfb473b0af0e2" parent="aspace_cb0c5038809d09574774703fcd36a416" type="Folder">9-11</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-10">
+      <c01 id="aspace_46e8f685f3186aeed147cfd11251114e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">12-13</container>
-          <unittitle>"The Showboat Theatre: The Development of the Showboat on the Mississippi
-            River and on the Eastern Waterways" (copy)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943">1943</unitdate>
+          <unittitle>"The Showboat Theatre: The Development of the Showboat on the Mississippi River and on the Eastern Waterways" (copy)</unittitle>
+          <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
+          <container id="aspace_de6e9c0c058f6581514dddad8fb28154" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_815bd40250243eaac5b596e6f21a2094" parent="aspace_de6e9c0c058f6581514dddad8fb28154" type="Folder">12-13</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-11">
+      <c01 id="aspace_a0586c615eb83e6e340241e2b4934e85" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">14</container>
           <unittitle>Personal Correspondence</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943">1943</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945/1950">1945-1950</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1952">1952</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
+          <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
+          <unitdate normal="1945/1950" type="inclusive">1945-1950</unitdate>
+          <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+          <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+          <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+          <container id="aspace_92fb586279406140b7cfb562b564fea6" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_b0f192da2687c2280293e8d9d990b9a4" parent="aspace_92fb586279406140b7cfb562b564fea6" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-12">
+      <c01 id="aspace_e02cb9fe7eacfe8cbce57459575d3927" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">15</container>
           <unittitle>
             <emph render="italic">The Cornell Widow</emph>
           </unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1944">1944</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1947">1947</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1938/1972">Undated</unitdate>
+          <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+          <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+          <unitdate normal="1938/1972" type="inclusive">Undated</unitdate>
+          <container id="aspace_e975c7983c28bbdcdc91f4640801c358" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_66a9b649a8ac2e85cd6219d2301777de" parent="aspace_e975c7983c28bbdcdc91f4640801c358" type="Folder">15</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-13">
+      <c01 id="aspace_5140d0e833503fb74ce323340f0c49dc" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">16</container>
           <unittitle>"Swindled!"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945">1945</unitdate>
+          <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+          <container id="aspace_41ebeb0be74941a6fa62ce53f80ec228" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_87328a457a0e4e9737318806b0b3fa41" parent="aspace_41ebeb0be74941a6fa62ce53f80ec228" type="Folder">16</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-14">
+      <c01 id="aspace_658e1770a7baabc7c536b8a8b07308b7" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">17</container>
           <unittitle>"Showboat Theatre"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945">1945</unitdate>
+          <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+          <container id="aspace_ea9540ca464903873b609acd482a3dfb" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_24df24c9b14705dc1e75140f1c2fe08f" parent="aspace_ea9540ca464903873b609acd482a3dfb" type="Folder">17</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-15">
+      <c01 id="aspace_67bb3949a1060fa4aa761aa31a7d9455" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">18</container>
           <unittitle>"Notes and Footnotes on John Rogers, N.A."</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
+          <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+          <container id="aspace_5c3b159f98f4b4262dcd93da948c96ff" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_1490f3ec8f712fe58123bb6d34a0061f" parent="aspace_5c3b159f98f4b4262dcd93da948c96ff" type="Folder">18</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-16">
+      <c01 id="aspace_8215f2b3be9a8cca8233cc98f82b644e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">19</container>
           <unittitle>"Carpet of Lace"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
+          <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+          <container id="aspace_5d981069e6ef0fd30801f168e3be6161" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_a8bf02522551de230bc6f2ddc5ddf64c" parent="aspace_5d981069e6ef0fd30801f168e3be6161" type="Folder">19</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-17">
+      <c01 id="aspace_252611adacc9fda81b0f9ac7041531bf" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">20</container>
           <unittitle>"Blue Ribbons for Betsy"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941/1951">ca.
-            1946</unitdate>
+          <unitdate normal="1941/1951" type="inclusive">ca. 1946</unitdate>
+          <container id="aspace_f3d9ddd79cbec3f3b3cf01d7f2d4f2cf" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_c4975dff143fa5055ba9f82663cb244b" parent="aspace_f3d9ddd79cbec3f3b3cf01d7f2d4f2cf" type="Folder">20</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-18">
+      <c01 id="aspace_28d1ccf697f0059858f9283276fb228f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">21</container>
           <unittitle>"Modern Staging"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941/1951">ca.
-            1946</unitdate>
+          <unitdate normal="1941/1951" type="inclusive">ca. 1946</unitdate>
+          <container id="aspace_6dac93fb3a3bc980529f0f57cf3297d7" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_be2ad6855a6436bed2b615310d737d1c" parent="aspace_6dac93fb3a3bc980529f0f57cf3297d7" type="Folder">21</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-19">
+      <c01 id="aspace_9f5500909d80e71abfad25ec142f2fc5" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">22</container>
           <unittitle>Speaking Engagements and Writings</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1947">1947</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950">1950</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1953/1954">1953-1954</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956/1963">1956-1963</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1938/1972">Undated</unitdate>
+          <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+          <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+          <unitdate normal="1953/1954" type="inclusive">1953-1954</unitdate>
+          <unitdate normal="1956/1963" type="inclusive">1956-1963</unitdate>
+          <unitdate normal="1938/1972" type="inclusive">Undated</unitdate>
+          <container id="aspace_e0b1d561fb21040eb31bff918cffdb75" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_d31e6abc479fd2bcdb8a289d722724eb" parent="aspace_e0b1d561fb21040eb31bff918cffdb75" type="Folder">22</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-20">
+      <c01 id="aspace_50eb218902bbede19aee24a396b2d0b8" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">23</container>
           <unittitle>Professional Papers</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1947/1951">1947-1951</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1953">1953</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1955/1957">1955-1957</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961">1961</unitdate>
+          <unitdate normal="1947/1951" type="inclusive">1947-1951</unitdate>
+          <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+          <unitdate normal="1955/1957" type="inclusive">1955-1957</unitdate>
+          <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+          <container id="aspace_4ec672e5d2dc3f210372fc8d9d735794" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_f896a4295f22f0ff5b897555a2a53ff9" parent="aspace_4ec672e5d2dc3f210372fc8d9d735794" type="Folder">23</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-21">
+      <c01 id="aspace_470b0c55c7bfcf398a4d0404a83aa862" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">24</container>
           <unittitle>WROW Radio (Albany, NY)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1947/1948">1947-1948</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1938/1972">Undated</unitdate>
+          <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate>
+          <unitdate normal="1938/1972" type="inclusive">Undated</unitdate>
+          <container id="aspace_7e477e8e921912942cfcc8f09c13ec7a" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_f211fac3f8d996b2c87ad19345811de7" parent="aspace_7e477e8e921912942cfcc8f09c13ec7a" type="Folder">24</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-22">
+      <c01 id="aspace_83cea460bf391b3b647635ecd96d0cf8" level="otherlevel">
         <did>
-          <container type="Oversized">1</container>
           <unittitle>WROW Radio (Albany, NY), Pettit Radio Scripts</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1947/1948">1947-1948</unitdate>
-          <physdesc>
-            <extent>3 volumes</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">3 Volumes</extent>
           </physdesc>
+          <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate>
+          <container id="aspace_b449dd1a3b55ec33e9d4a6358963cd16" label="Mixed Materials" type="Oversized">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-23">
+      <c01 id="aspace_eb1ac5e9675a51eb3410d20f1bc2e1a8" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">25</container>
           <unittitle>WROW (Albany, NY), Pettit Radio Scripts</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1948">1948</unitdate>
+          <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+          <container id="aspace_3c5a0c0dfac1288cb36e73d6b752a093" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_2ddfbedf39b4cf64a8394358d0071dbd" parent="aspace_3c5a0c0dfac1288cb36e73d6b752a093" type="Folder">25</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-24">
+      <c01 id="aspace_dbe304ed9b6e5cdf7e8a3ef1e356b6b1" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">26</container>
           <unittitle>Showboats (Philip Graham) Correspondence</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1948/1949">1948-1949</unitdate>
+          <unitdate normal="1948/1949" type="inclusive">1948-1949</unitdate>
+          <container id="aspace_900e85ae56d3d753011610ada448dee0" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_f1520e39a1b44a9965610cb44a6c575d" parent="aspace_900e85ae56d3d753011610ada448dee0" type="Folder">26</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-25">
+      <c01 id="aspace_5335277c9b436114e710469a8488edf8" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">27-31</container>
-          <unittitle>"The Important American Dramatic Types to 1900: A Study of the Yankee,
-            Negro, Indian, and Frontiersman" (manuscript copy)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1949">1949</unitdate>
+          <unittitle>"The Important American Dramatic Types to 1900: A Study of the Yankee, Negro, Indian, and Frontiersman" (manuscript copy)</unittitle>
+          <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+          <container id="aspace_2ae1c8f2d24e1ac730d5735a7970c096" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_f45a076e0e5c5b1bcd5e74a0933449fb" parent="aspace_2ae1c8f2d24e1ac730d5735a7970c096" type="Folder">27-31</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-26">
+      <c01 id="aspace_dd502f4ef7d1a203bc28ba46d25c6f12" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">32-35</container>
-          <unittitle>"The Important American Dramatic Types to 1900: A Study of the Yankee,
-            Negro, Indian, and Frontiersman" (library copy)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1949">1949</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+          <unittitle>"The Important American Dramatic Types to 1900: A Study of the Yankee, Negro, Indian, and Frontiersman" (library copy)</unittitle>
+          <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+          <container id="aspace_98141ee2ffa1e0d935c032481dea771f" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_fb87f83aad03023073d0a38a5937c4b2" parent="aspace_98141ee2ffa1e0d935c032481dea771f" type="Folder">32-35</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-27">
+      <c01 id="aspace_957161eaeb76c7df759be685341e9510" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">36</container>
           <unittitle>"The Renaissance and the Commedia dell' Arte"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1949">1949</unitdate>
+          <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+          <container id="aspace_4f2ef3d004c43524ea896d370299ae7a" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_398c1beb1c46f80f5386df2db9eb127e" parent="aspace_4f2ef3d004c43524ea896d370299ae7a" type="Folder">36</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-28">
+      <c01 id="aspace_f54c22b2b296f0cf422869fb2d07cf24" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">37-38</container>
           <unittitle>Theatre Dept. Papers Submitted to P. B. Pettit-[RESTRICTED]</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950">1950</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1952/1953">1952-1953</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959/1961">1959-1961</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1938/1972">Undated</unitdate>
+          <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+          <unitdate normal="1952/1953" type="inclusive">1952-1953</unitdate>
+          <unitdate normal="1959/1961" type="inclusive">1959-1961</unitdate>
+          <unitdate normal="1938/1972" type="inclusive">Undated</unitdate>
+          <container id="aspace_7bbe5e0ce8d9a3ddc5920d8598d7e40e" label="Mixed Materials" type="Box">1 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_77aeb0f7b0f721f883a6d7e1ef8874e1" parent="aspace_7bbe5e0ce8d9a3ddc5920d8598d7e40e" type="Folder">37-38</container>
         </did>
-        <accessrestrict>
+        <accessrestrict id="aspace_a1939c6c42170ac6fa149ad8e5426e04">
+          <head>Conditions Governing Access</head>
           <p>Must consult archivist before viewing this material.</p>
         </accessrestrict>
       </c01>
-      <c01 id="nam_ua902.007-29">
+      <c01 id="aspace_8920d4ed0cf1e95c81c3fb19066a0643" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">1</container>
           <unittitle>"Staff, Present: Pettit, Paul Bruce"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951/1972">1951-1972</unitdate>
+          <unitdate normal="1951/1972" type="inclusive">1951-1972</unitdate>
+          <container id="aspace_a688d45b09dda7bf1b50509f70ff134b" label="Mixed Materials" type="Box">2 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_ed8b8c530a223ce8399a92bc2ff46b0a" parent="aspace_a688d45b09dda7bf1b50509f70ff134b" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-30">
+      <c01 id="aspace_68fa9bf2d46ef28d315e32c9c99bef4d" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">2</container>
-          <unittitle>"Greece Through the Stage Door," Offprint Article,
-            Correspondence</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951/1952">1951-1952</unitdate>
+          <unittitle>"Greece Through the Stage Door," Offprint Article, Correspondence</unittitle>
+          <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+          <container id="aspace_8af6b27f5ae14c44ce3aaf1ff950f240" label="Mixed Materials" type="Box">2 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_a0c731c7a30b180041596520971cb7b6" parent="aspace_8af6b27f5ae14c44ce3aaf1ff950f240" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-31">
+      <c01 id="aspace_b5342cd5ec120fe03044eba0f9b56b1d" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">3</container>
           <unittitle>American University at Cairo</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951/1952">1951-1952</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956/1957">1956-1957</unitdate>
+          <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+          <unitdate normal="1956/1957" type="inclusive">1956-1957</unitdate>
+          <container id="aspace_9a33b7c90be1e7abc35f257119cf65f6" label="Mixed Materials" type="Box">2 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_3ed2ae81bf49435aeaaa8f7fd8a3d062" parent="aspace_9a33b7c90be1e7abc35f257119cf65f6" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-32">
+      <c01 id="aspace_c1e6c42f42edb0304f23fea786ab4056" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">4</container>
           <unittitle>"<emph render="italic">Showboats</emph> Review"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1952">1952</unitdate>
+          <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+          <container id="aspace_75159791250cbef93a07c5b89485df4c" label="Mixed Materials" type="Box">2 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_fcbdfd03f18703b5eb6c6327236b620d" parent="aspace_75159791250cbef93a07c5b89485df4c" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-33">
+      <c01 id="aspace_3441f8457c6028faeca1acda80ac4fd1" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">5</container>
           <unittitle>Smith, C. D. (Duryea), Alfred University</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1952/1955">1952-1955</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1957">1957</unitdate>
+          <unitdate normal="1952/1955" type="inclusive">1952-1955</unitdate>
+          <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
+          <container id="aspace_85c968e89763132ac67cfc5ef5153089" label="Mixed Materials" type="Box">2 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_58abf5fdbefe5296e8c30a94463abd25" parent="aspace_85c968e89763132ac67cfc5ef5153089" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-34">
+      <c01 id="aspace_e38d13e32e83a60e072217d0a5ed2596" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">6</container>
           <unittitle>Newspaper Clippings</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1952/1956">1952-1956</unitdate>
+          <unitdate normal="1952/1956" type="inclusive">1952-1956</unitdate>
+          <container id="aspace_5c2fb4f61e7e20e9fa09513a1674b735" label="Mixed Materials" type="Box">2 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_2663cf9d06ec15e79a0b940022a1b935" parent="aspace_5c2fb4f61e7e20e9fa09513a1674b735" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-35">
+      <c01 id="aspace_226f6ab08dd3a83a1f1581359e9de74f" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">7</container>
           <unittitle>"Arena Theatre is the Answer"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1953">1953</unitdate>
+          <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+          <container id="aspace_d7aef6f4a1a6da3a97b0003e04fa6cba" label="Mixed Materials" type="Box">2 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_0a084d57effd4fa2ff69c139dfe32bda" parent="aspace_d7aef6f4a1a6da3a97b0003e04fa6cba" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-36">
+      <c01 id="aspace_90651c6475255d74326a6ed76acc90ab" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">8</container>
           <unittitle>American Educational Theatre Association (AETA)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1953/1956">1953-1956</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963">1963</unitdate>
+          <unitdate normal="1953/1956" type="inclusive">1953-1956</unitdate>
+          <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+          <container id="aspace_813aecd78f93a6c42def639719667372" label="Mixed Materials" type="Box">2 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_43f002f5c928443f9efb13ff73d25f59" parent="aspace_813aecd78f93a6c42def639719667372" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-37">
+      <c01 id="aspace_3b07344b322411a8de6b5fbad586bfb6" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">9</container>
           <unittitle>Albany Civic Theatre</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1955">1955</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1938/1972">Undated</unitdate>
+          <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
+          <unitdate normal="1938/1972" type="inclusive">Undated</unitdate>
+          <container id="aspace_dd31cf7cb854d53be42566c1b023449e" label="Mixed Materials" type="Box">2 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_6f8b82767ba9ae1c55ca40cf2f06a2c5" parent="aspace_dd31cf7cb854d53be42566c1b023449e" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-38">
+      <c01 id="aspace_2baca4bf9d197d79ce3e70114ae194d4" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">10</container>
           <unittitle>AETA: Teacher Training Project</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956/1959">1956-1959</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1938/1972">Undated</unitdate>
+          <unitdate normal="1956/1959" type="inclusive">1956-1959</unitdate>
+          <unitdate normal="1938/1972" type="inclusive">Undated</unitdate>
+          <container id="aspace_f491df9b7e4184d20508a8c036730f84" label="Mixed Materials" type="Box">2 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_f7990a6167020f7d5fbc9ab5a0e3af5d" parent="aspace_f491df9b7e4184d20508a8c036730f84" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-39">
+      <c01 id="aspace_bce684303dec522afd8d6c30cc142401" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">11</container>
           <unittitle>AETA Project Reports (other than teacher training)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956/1957">1956-1957</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961">1961</unitdate>
+          <unitdate normal="1956/1957" type="inclusive">1956-1957</unitdate>
+          <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+          <container id="aspace_6e99ee941c4a543e696559a3840ec967" label="Mixed Materials" type="Box">2 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_43424561db908e0bdd7f5838a2e5654a" parent="aspace_6e99ee941c4a543e696559a3840ec967" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-40">
+      <c01 id="aspace_16e17b42d6e0f268c85fee9562ed40c3" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">12</container>
           <unittitle>Slingerlands Community Players</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958">1958</unitdate>
+          <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+          <container id="aspace_080b22be56398be1cf48b17c880b3c5c" label="Mixed Materials" type="Box">2 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_26feb004450cd42a72ca9dad2a8e8403" parent="aspace_080b22be56398be1cf48b17c880b3c5c" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-41">
+      <c01 id="aspace_c318bad193328e2ccaab388e8c7bcf24" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">13</container>
           <unittitle>Tragedy and Comedy (Lectures)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959">1959</unitdate>
+          <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+          <container id="aspace_62326edf2845f3433202af98a70af324" label="Mixed Materials" type="Box">2 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_5e8d54de48516c35c30575d6d00de8b4" parent="aspace_62326edf2845f3433202af98a70af324" type="Folder">13</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-42">
+      <c01 id="aspace_6a97c4c2072dc23881cec093115b8e7f" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">14</container>
           <unittitle>"A Life Full Lived"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959">1959</unitdate>
+          <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+          <container id="aspace_6ecaf59c341f86b603a119832f7934c8" label="Mixed Materials" type="Box">2 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_53657f4c3911b93cccf9926fece50667" parent="aspace_6ecaf59c341f86b603a119832f7934c8" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-43">
+      <c01 id="aspace_6b1dc94d93c158d4563a09283abd4d38" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">15</container>
           <unittitle>Newspaper Clippings</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960/1962">1960-1962</unitdate>
+          <unitdate normal="1960/1962" type="inclusive">1960-1962</unitdate>
+          <container id="aspace_7e6f90fdc2f942f31868233c6ff3c8ae" label="Mixed Materials" type="Box">2 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_1ea0022d5787a21b3dcba512e52304c4" parent="aspace_7e6f90fdc2f942f31868233c6ff3c8ae" type="Folder">15</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-44">
+      <c01 id="aspace_dad214f082ac744786fc195489b69e21" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">16</container>
           <unittitle>"Theatre for Today's School"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960">1960</unitdate>
+          <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+          <container id="aspace_9dd09fb9a99f9b7dae7a1246df3f174a" label="Mixed Materials" type="Box">2 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_1547f2dbc9f79a5889149e6d82848a81" parent="aspace_9dd09fb9a99f9b7dae7a1246df3f174a" type="Folder">16</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-45">
+      <c01 id="aspace_aa51c7060f435b8f8baf0b0e2e2925b6" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">17</container>
           <unittitle>Religious Drama: 1st Church in Albany. Talk. 9/20/61.</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961">1961</unitdate>
+          <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+          <container id="aspace_100170912c0350d29ae887c7baec7312" label="Mixed Materials" type="Box">2 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_fb00ff4b9d87cc26711b84e0162221fa" parent="aspace_100170912c0350d29ae887c7baec7312" type="Folder">17</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-46">
+      <c01 id="aspace_6962b72142be41ef28cdc5e7949ff8ae" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">18</container>
-          <unittitle>Albany League of Arts: New York State Council on the Arts Conference,
-            Binghamton</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961">1961</unitdate>
+          <unittitle>Albany League of Arts: New York State Council on the Arts Conference, Binghamton</unittitle>
+          <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+          <container id="aspace_93e2195b27ec7b316c2fa24f0da66682" label="Mixed Materials" type="Box">2 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_2b49fd7205c28f8c80a5e0234a2f1f6c" parent="aspace_93e2195b27ec7b316c2fa24f0da66682" type="Folder">18</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-47">
+      <c01 id="aspace_ae95e387284b8440a7220e6eec69e71a" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">19</container>
           <unittitle>Albany League of Arts: New York State Council on the Arts</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate>
+          <unitdate normal="1961/1962" type="inclusive">1961-1962</unitdate>
+          <container id="aspace_82c706e9ccf1618e6aa7aa1fe71a2ecb" label="Mixed Materials" type="Box">2 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_ae64c070374c67a87ab59d8764f18282" parent="aspace_82c706e9ccf1618e6aa7aa1fe71a2ecb" type="Folder">19</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-48">
+      <c01 id="aspace_0c4c0e31071d6ce6cb42ca689099f5e0" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">20</container>
           <unittitle>"New Horizons for the Theatre in Your Community"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961">1961</unitdate>
+          <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+          <container id="aspace_52841804acc0af7bd4a60844110b7694" label="Mixed Materials" type="Box">2 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_8af2a3ca1e040cfca83d0b6ea4e59684" parent="aspace_52841804acc0af7bd4a60844110b7694" type="Folder">20</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-49">
+      <c01 id="aspace_ec45eef42473cfddae10b556f53fd059" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">21</container>
-          <unittitle>The Ministry of Education and National Guidance<emph render="italic">A Night
-              from a Thousand Nights and a Night</emph></unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961">1961</unitdate>
+          <unittitle>The Ministry of Education and National Guidance<emph render="italic">A Night from a Thousand Nights and a Night</emph></unittitle>
+          <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+          <container id="aspace_2ea64613d2db313f03e8c990298c522c" label="Mixed Materials" type="Box">2 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_32c77a518d5e79106d2ebfd41b6de566" parent="aspace_2ea64613d2db313f03e8c990298c522c" type="Folder">21</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-50">
+      <c01 id="aspace_779b963fc6df254a09cebc0ab72b76ca" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">22</container>
-          <unittitle>Bethlehem Central School District: Committee for Study of Utilization of
-            Elementary School Facilities (PBP sub-com. Report)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961">1961</unitdate>
+          <unittitle>Bethlehem Central School District: Committee for Study of Utilization of Elementary School Facilities (PBP sub-com. Report)</unittitle>
+          <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+          <container id="aspace_81629122197853da7dcb4a0b2c30f780" label="Mixed Materials" type="Box">2 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_549f0f85e17acbd22cd9c3a9f84fa8fa" parent="aspace_81629122197853da7dcb4a0b2c30f780" type="Folder">22</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-51">
+      <c01 id="aspace_c78a8ca0d1e48cf5114d306c16a9e230" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">1-2</container>
-          <unittitle>Bethlehem Central School District: Committee for Study of Utilization of
-            Elementary School Facilities</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961/1963">1961-1963</unitdate>
+          <unittitle>Bethlehem Central School District: Committee for Study of Utilization of Elementary School Facilities</unittitle>
+          <unitdate normal="1961/1963" type="inclusive">1961-1963</unitdate>
+          <container id="aspace_de1b5e25e98230bb215755926fe674f6" label="Mixed Materials" type="Box">3 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_19eb644bbf2243922cd10b042138dd06" parent="aspace_de1b5e25e98230bb215755926fe674f6" type="Folder">1-2</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-52">
+      <c01 id="aspace_07c3de6b79bac148a7b3753ab2306f1e" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">3</container>
           <unittitle>RE: Bertolt Brecht, Correspondence with Holly Beye Ruff</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1963">1962-1963</unitdate>
+          <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
+          <container id="aspace_3ddd51303593d8a31a276a349da12f61" label="Mixed Materials" type="Box">3 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_e4725c3dd8ed377b58b2a8b5eb737f24" parent="aspace_3ddd51303593d8a31a276a349da12f61" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-53">
+      <c01 id="aspace_c37ac8f464e9e2cb00db396131f3e718" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">4</container>
-          <unittitle>Fredonia lecture, 7/25/63. "The Crab on the Clock without
-            Hands"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963">1963</unitdate>
+          <unittitle>Fredonia lecture, 7/25/63. "The Crab on the Clock without Hands"</unittitle>
+          <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+          <container id="aspace_8af2eb9f15ec8e099244d3dcc63b12e7" label="Mixed Materials" type="Box">3 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_2dd2069b3d02f3e5630dde2d2d780cfb" parent="aspace_8af2eb9f15ec8e099244d3dcc63b12e7" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-54">
+      <c01 id="aspace_b43dd62c55fc6dd1be2aa77fdd85aa37" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">5</container>
           <unittitle>Newspaper Clippings (Subject: Cyprus)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/1965">1963-1965</unitdate>
+          <unitdate normal="1963/1965" type="inclusive">1963-1965</unitdate>
+          <container id="aspace_ee4a0490cc7e80be2d080b51911ffd11" label="Mixed Materials" type="Box">3 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_ab368355713680d0beff6f982699a5e7" parent="aspace_ee4a0490cc7e80be2d080b51911ffd11" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-55">
+      <c01 id="aspace_6eda59ce0cce3bdd8e0b0397f56173ef" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">6</container>
           <unittitle>"Towards a National Theatre for the Republic of Cyprus"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+          <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+          <container id="aspace_1f41896bcf84673b493bcf5d8dfe5929" label="Mixed Materials" type="Box">3 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_415af35b7262d30fc89484eef16704f1" parent="aspace_1f41896bcf84673b493bcf5d8dfe5929" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-56">
+      <c01 id="aspace_6d9d01fadff4b99ec3470d73cd01ee5a" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">7</container>
           <unittitle>Fulbright Scholarship - Cyprus and Syria</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+          <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+          <container id="aspace_93c7ae831a44d43dde1f4b17a957313b" label="Mixed Materials" type="Box">3 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_9e85686feafe888cf7562218acf20b34" parent="aspace_93c7ae831a44d43dde1f4b17a957313b" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-57">
+      <c01 id="aspace_6dec43a69619f0a831999ced5407b94a" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">8</container>
           <unittitle>"The Middle-aged Theatre and the New, New U"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+          <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+          <container id="aspace_343011fcc82d152b2c70237fa9e1ef5b" label="Mixed Materials" type="Box">3 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_c3aea80bc5d70887b9e053672ce88ae7" parent="aspace_343011fcc82d152b2c70237fa9e1ef5b" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-58">
+      <c01 id="aspace_2b2b8593c0cd65af5a8cfb434cb6e180" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">9</container>
           <unittitle>Newspaper Clippings</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965/1967">1965-1967</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969">1969</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+          <unitdate normal="1965/1967" type="inclusive">1965-1967</unitdate>
+          <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+          <container id="aspace_27ef4b6fb682015f2730670a69183ec8" label="Mixed Materials" type="Box">3 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_24bae49d7e3c5fa17d6671873c7a37a6" parent="aspace_27ef4b6fb682015f2730670a69183ec8" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-59">
+      <c01 id="aspace_e4ed75e0d506ee5870cf3c95dc0dbd77" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">10</container>
           <unittitle>"Ala-Ed-Din, the Caliph, and the Dreadful Magician"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+          <container id="aspace_c43eb00071700f543f1fa69cb0b61b29" label="Mixed Materials" type="Box">3 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_aa51b7e424573a24d4cf1d7472ae1550" parent="aspace_c43eb00071700f543f1fa69cb0b61b29" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-60">
+      <c01 id="aspace_9b473e24846db6309e890f7c041b87c3" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">11</container>
-          <unittitle>Székely, György (George)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971/1972">1971-1972</unitdate>
+          <unittitle>SzĂŠkely, GyĂśrgy (George)</unittitle>
+          <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+          <container id="aspace_134856ccd1fe49bb0f8b0ce79b09c503" label="Mixed Materials" type="Box">3 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_9e575f0fbfef8d7adb9d961eb1687bf3" parent="aspace_134856ccd1fe49bb0f8b0ce79b09c503" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-61">
+      <c01 id="aspace_2c574a998a425ab395142b3f562221bf" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">12</container>
           <unittitle>Albany Civic Theatre</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972">1972</unitdate>
+          <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+          <container id="aspace_84dd669a7bbb85b40e8b9657af1e1d25" label="Mixed Materials" type="Box">3 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_a45b13c193897cc5bec0cd1295078dd0" parent="aspace_84dd669a7bbb85b40e8b9657af1e1d25" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_ua902.007-62">
+      <c01 id="aspace_e97432fa82daa4b2472d2fa3b24dc62c" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">13</container>
           <unittitle>Pettit - Sabbatical</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972">1972</unitdate>
+          <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+          <container id="aspace_15129cd45cdc62d4a983effc62a30e7e" label="Mixed Materials" type="Box">3 (Paul Bruce Pettit Papers )</container>
+          <container id="aspace_0aa5bf4945cc2675394f291723e980a3" parent="aspace_15129cd45cdc62d4a983effc62a30e7e" type="Folder">13</container>
         </did>
       </c01>
     </dsc>

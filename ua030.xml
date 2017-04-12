@@ -1,96 +1,99 @@
 <?xml version='1.0' encoding='utf-8'?>
-<?xml-stylesheet type='text/xsl' href='collection-level.xsl'?> 
-<!DOCTYPE ead SYSTEM 'ead.dtd'>
-<ead id="nam_ua030">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua030.html">nam_ua030</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua030">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua030.xml">ua030</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>OFFICE OF INSTITUTIONAL RESEARCH RECORDS (UA030)<date normal="1957/1994" type="inclusive">1957-1994</date></titleproper>
+        <titleproper>Institutional Research, Office of; Records <num>ua030</num></titleproper>
         <author>unprocessed</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2017" type="publication">Copyright 2017 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2017</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Benjamin Covell<date normal="2017-02-07">2017 February 7</date></creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:36:43 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2017 February 7</date>
+        <item>Encoded in EAD by Benjamin Covell</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>Office of Institutional Research Records<date normal="1957/1994" type="inclusive">1957-1994</date></titleproper>
-      <publisher/>
-      <date type="publication">Copyright 2017 By the University at Albany, SUNY. All rights reserved.</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua030</unitid>
-      <unittitle>Office of Institutional Research Records<unitdate label="Date:" normal="1957/1994" type="inclusive">1957-1994</unitdate></unittitle>
-      <abstract label="Abstract:">Contains studies and reports on the State University of New York at Albany based on research conducted by the Office of Institutional Research.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="local">State University of New York at Albany. Office of Institutional Research</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">7</extent>
-      </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Office of Institutional Research Records<unitdate normal="1957/1994" type="inclusive">1957-1994</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">State University of New York at Albany. Office of Institutional Research</corpname>
+      </origination>
+      <unitid>ua030</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">7 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_1be145eadfa9904898b17fd1d0515f05">Contains studies and reports on the State University of New York at Albany based on research conducted by the Office of Institutional Research.</abstract>
+      <langmaterial id="aspace_70fc4c83960341114e11c10fcbd99cc8">English</langmaterial>
+      <physloc id="aspace_105171cfcf93213e003f02e7cf6d7906">The materials are located onsite in the department.</physloc>
+      <container id="aspace_fb383e6cff687581ce72f3782cca294b" label="Mixed Materials" type="Collection">X</container>
     </did>
-    <accessrestrict><head>Access</head><p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. Please contact an archivist for more information.</p></accessrestrict>
-    <userestrict><head>Copyright</head><p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p><p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p><p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p><p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p></userestrict>
-    <acqinfo>
+    <processinfo id="aspace_4f4bafc8c43bb65115c11aa3b35061af">
+      <head>Processing Information</head>
+      <p>Processed in 2017 by unprocessed.</p>
+    </processinfo>
+    <accessrestrict id="aspace_fead1d6e02b0ec98b29821702ac38e4d">
+      <head>Access</head>
+      <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. Please contact an archivist for more information.</p>
+    </accessrestrict>
+    <userestrict id="aspace_65422483de568eda4c5a7bdb047a9a6a">
+      <head>Copyright</head>
+      <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p> The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+    </userestrict>
+    <acqinfo id="aspace_1b1a3752d291750301e44e17b6bc41a1">
       <head>Acquisition Information</head>
       <p>All items in this collection were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <bioghist><head>Historical Note</head><p>The Office of Institutional Research is a major source of official data and statistics about the University. The Office also has been a key developer of campus enrollment and revenue projections, especially concentrating on undergraduate admissions and financial aid databases. The Office also conducts special studies and databased analyses which measure organizational effectiveness and which support campus management.</p>
-</bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>Includes analyses of faculty workloads;  administrative memoranda; profiles of student survey questionnaires; annual reports; academic library statistics; statistical studies of trends in tuition and other student charges; enrollment goals and projections; space planning documentation; Student Information Retrieval System (SIRS) documentation; and five year planning documentation.</p>
-
-<p>Topics include the enrollment patterns of transfer students, geographic origins of students, trends in tuition and other basic student charges, instructional locations away from the main campus, and utilization of residence hall facilities.</p>
+    <bioghist id="aspace_a7c5a99762eab3a100852eb78dadb365">
+      <head>Historical Note</head>
+      <p>The Office of Institutional Research is a major source of official data and statistics about the University. The Office also has been a key developer of campus enrollment and revenue projections, especially concentrating on undergraduate admissions and financial aid databases. The Office also conducts special studies and databased analyses which measure organizational effectiveness and which support campus management.</p>
+    </bioghist>
+    <scopecontent id="aspace_d787db27a6639d0d4709674eeee36d46">
+      <head>Scope and Contents</head>
+      <p>Includes analyses of faculty workloads; administrative memoranda; profiles of student survey questionnaires; annual reports; academic library statistics; statistical studies of trends in tuition and other student charges; enrollment goals and projections; space planning documentation; Student Information Retrieval System (SIRS) documentation; and five year planning documentation.</p>
+      <p> Topics include the enrollment patterns of transfer students, geographic origins of students, trends in tuition and other basic student charges, instructional locations away from the main campus, and utilization of residence hall facilities.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_765802238aa9f17ef41af79a8b145f1b">
       <head>Arrangement of the Collection</head>
       <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <prefercite>
+    <prefercite id="aspace_cfffe63e04e1d387f30a68b31dd19a03">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Office of Institutional Research Records, 1957-1994. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Office of Institutional Research Records).</p>
+      <p> Identification of specific item, series, box, folder, Office of Institutional Research Records, 1957-1994. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Office of Institutional Research Records).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <corpname source="lcsh" encodinganalog="610">State University of New York at Albany</corpname>
-      <subject source="lcsh" encodinganalog="650">Educational evaluation</subject>
-      <subject source="lcsh" encodinganalog="650">School enrollment</subject>
-      <subject source="lcsh" encodinganalog="650">Workload</subject>
-      <genreform source="aat" encodinganalog="655">annual reports</genreform>
-      <genreform source="aat" encodinganalog="655">administrative records</genreform>
+      <subject source="lcsh">Educational evaluation</subject>
+      <subject source="lcsh">School enrollment</subject>
+      <subject source="lcsh">Workload</subject>
+      <genreform source="aat">Annual reports</genreform>
+      <genreform source="aat">Administrative records</genreform>
+      <corpname source="lcsh">State University of New York at Albany</corpname>
     </controlaccess>
     <dsc>
-      <head>Container List</head>
-      <c01 level="series" id="nam_ua030-1">
+      <c01 id="aspace_c51264a3784da2324fd30c897ee3372b" level="series">
         <did>
+          <unittitle>Website of the Office of Institutional Research</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Website of the Office of Institutional Research</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2017">2017</unitdate>
+          <unitdate normal="2017/2017" type="inclusive">2017</unitdate>
         </did>
       </c01>
     </dsc>

@@ -1,863 +1,785 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap255">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap255.xml" identifier="##">nam_apap255</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap255">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap255.xml">apap255</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>ERNEST I. HATFIELD PAPERS (APAP255)<date normal="1949/1968" type="inclusive">1949-1968</date></titleproper>
+        <titleproper>Hatfield, Ernest I; Papers <num>apap255</num></titleproper>
         <author>Ga Yue Lau</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2011">Copyright 2011 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2011</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Jodi Boyle<date normal="2011">2011</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 15:19:59 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2011</date>
+        <item>Encoded in EAD by Jodi Boyle</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>ERNEST I. HATFIELD PAPERS (APAP255)<date normal="1949/1968" type="inclusive">1949-1968</date>
-      </titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2011</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap255</unitid>
-      <unittitle>Ernest I. Hatfield Papers <unitdate type="inclusive" normal="1949/1968" label="Date:"> 1949-1968</unitdate>
-      </unittitle>
-      <physdesc label="Physical Characteristics:">
-        <extent unit="cubic ft.">3.78</extent>
-      </physdesc>
-      <origination>
-        <persname encodinganalog="100" source="lcsh">Hatfield, Ernest I.</persname>
-      </origination>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:"> The Ernest I. Hatfield Papers document Hatfield's service in the
-        New York State Senate, where he served from 1948-1964, and the years immediately following.
-        The collection includes correspondence, scrapbooks of newspaper clippings, speeches, and
-        bills he introduced.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Ernest I. Hatfield Papers<unitdate normal="1949/1968" type="inclusive">1949-1968</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="lcsh">Hatfield, Ernest I.</persname>
+      </origination>
+      <unitid>apap255</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3.78 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_1478655c9be17baab394554163d4efd9">The Ernest I. Hatfield Papers document Hatfield's service in the New York State Senate, where he served from 1948-1964, and the years immediately following. The collection includes correspondence, scrapbooks of newspaper clippings, speeches, and bills he introduced.</abstract>
+      <langmaterial id="aspace_6963a2a9aaca626d1f70fa28698caf56">English</langmaterial>
+      <physloc id="aspace_3de91e92860ffb3c5fa434449636cadf">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_927db508369bbc8c882b601954e33912">
+      <head>Processing Information</head>
+      <p>Processed in 2011 by Ga Yue Lau.</p>
+    </processinfo>
+    <accessrestrict id="aspace_95eaa3dd982b5c1915937d358a1a132f">
       <head>Access</head>
-      <p> Access to this record group is unrestricted. </p>
+      <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_5377d1915c28e5b974ec9b0ebdb919ed">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_31ec1aaad116d4e1e3043f5f15012510">
       <head>Acquisition Information</head>
-      <p>Ernest Hatfield initially donated his papers to Syracuse University in a series of
-        deliveries from 1966-1970. In 2006, the papers were transferred to the M.E. Grenander
-        Department of Special Collections and Archives. </p>
+      <p>Ernest Hatfield initially donated his papers to Syracuse University in a series of deliveries from 1966-1970. In 2006, the papers were transferred to the M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_31322abc665ea1014776be02c7ef31bf">
       <head>Biographical Sketch</head>
-      <p>Ernest I. Hatfield was born in Mt. Pleasant, Westchester County, NY in 1890. He graduated
-        from Westchester County schools and attended the Eastman-Gaines Business College in New York
-        City. Hatfield worked in insurance and real estate, and was a farmer. A
-        resident of Poughkeepsie, NY, Hatfield was a Republican member of the New York State
-        Assembly (Dutchess County 2nd District 1943-1944, Dutchess County 1945-1947) and served as chairman of the Mortgage and Real Estate Committee, and on the Insurance and Public Service Committees.</p>
-      <p>He then ran for and won election to the New York State Senate representing the 33rd District from 1948-1954 and the 35th District from 1955-1964. While in the State Senate, Hatfield was chairman of the Banks Committee and served on the Agriculture, Education, Excise, Finance, Labor and Industry, Public Relief and Welfare, Public Service, and Rules Committees.  In addition, Hatfield was chairman of the temporary New York State Commission on Historic Observances. </p>
-      <p>Hatfield also was a
-        member of the Freemasons, Knights Templar, Grotto, Exchange Club and Common Council in
-        Poughkeepsie. He owned the business E.I. Hatfield, Inc. He died in 1977 in Dutchess
-        County.</p>
+      <p>Ernest I. Hatfield was born in Mt. Pleasant, Westchester County, NY in 1890. He graduated from Westchester County schools and attended the Eastman-Gaines Business College in New York City. Hatfield worked in insurance and real estate, and was a farmer. A resident of Poughkeepsie, NY, Hatfield was a Republican member of the New York State Assembly (Dutchess County 2nd District 1943-1944, Dutchess County 1945-1947) and served as chairman of the Mortgage and Real Estate Committee, and on the Insurance and Public Service Committees.</p>
+      <p> He then ran for and won election to the New York State Senate representing the 33rd District from 1948-1954 and the 35th District from 1955-1964. While in the State Senate, Hatfield was chairman of the Banks Committee and served on the Agriculture, Education, Excise, Finance, Labor and Industry, Public Relief and Welfare, Public Service, and Rules Committees. In addition, Hatfield was chairman of the temporary New York State Commission on Historic Observances. </p>
+      <p> Hatfield also was a member of the Freemasons, Knights Templar, Grotto, Exchange Club and Common Council in Poughkeepsie. He owned the business E.I. Hatfield, Inc. He died in 1977 in Dutchess County.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>Ernest Hatfield Papers donated his papers a few years after he left the New York State Senate. The
-        collection contains correspondence, scrapbooks of newspaper clippings, photographs, printed
-        bills, and legislative transcript materials mostly dating from 1950 to 1964 during his
-        Senate service. A Republican, Hatfield represented the Dutchess County 33rd district from
-        1948-1954 and 35th district from 1955-1964 in the State Senate. Although he previously
-        served in the New York State Assembly, the collection does not include materials from this
-        tenure. Topics of interest in the collection include documents related to Hatfield's role as
-        chairman of the New York State Commission on Historic Observances and the Social Security
-        bill, which prevented the separation of Social Security from the pensions of retired civil
-        service employees.</p>
+    <scopecontent id="aspace_06e24b314cbd7547065905b9fb687030">
+      <head>Scope and Contents</head>
+      <p>Ernest Hatfield Papers donated his papers a few years after he left the New York State Senate. The collection contains correspondence, scrapbooks of newspaper clippings, photographs, printed bills, and legislative transcript materials mostly dating from 1950 to 1964 during his Senate service. A Republican, Hatfield represented the Dutchess County 33rd district from 1948-1954 and 35th district from 1955-1964 in the State Senate. Although he previously served in the New York State Assembly, the collection does not include materials from this tenure. Topics of interest in the collection include documents related to Hatfield's role as chairman of the New York State Commission on Historic Observances and the Social Security bill, which prevented the separation of Social Security from the pensions of retired civil service employees.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_c8b1cec7a6abbd9ca69fb1baaf67f936">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series:</p>
-      <list type="simple">
-        <item>Series 1 - General Correspondence, 1953-1968</item>
-        <item>Series 2 - Legislative and Public Affairs, 1950-1951, 1954-1957, 1959-1964, 1967,
-          Undated</item>
-        <item>Series 3 - Scrapbooks, 1949-1964</item>
-      </list>
-      <p>Series 1 and 3 are arranged chronologically. Series 2 is arranged alphabetically by the
-        subject of the legislative bills.</p>
+      <p>Series 1 and 3 are arranged chronologically. Series 2 is arranged alphabetically by the subject of the legislative bills.</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-           Try to give as many access points as you can to increase the chances of 
-           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-           to comment them out! -->
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Politics and Politicians</subject>
-      <persname encodinganalog="600" source="lcsh">Hatfield, Ernest I.</persname>
-      <corpname encodinganalog="610" source="lcsh">New York (State). Legislature. Senate </corpname>
-      <corpname encodinganalog="610" source="local">New York (State). Committee to Revise Banking
-      Law, Joint Legislative </corpname>
-      <corpname encodinganalog="610" source="lcsh">New York (State). Temporary State Commission on Historic Observances </corpname>
-      <corpname encodinganalog="610" source="lcsh">New York (State). Legislature. Senate. Committee on Finance </corpname>
-      <corpname encodinganalog="610" source="lcsh">New York (State). Legislature. Senate. Standing Committee on Labor and Industry</corpname>
-      <corpname encodinganalog="610" source="lcsh">New York (State). Legislature. Senate. Standing Committee on Agriculture</corpname>
-      <subject encodinganalog="650" source="lcsh">Politicians--New York (State)</subject>
-      <geogname encodinganalog="651" source="lcsh">New York (State)--Politics and
-        government</geogname>
-      <geogname encodinganalog="651" source="lcsh">Dutchess County (N.Y.)</geogname>
-      <geogname encodinganalog="651" source="lcsh">Poughkeepsie (N.Y.)</geogname>
-      <genreform encodinganalog="655" source="aat">Bills (legislative records)</genreform>
-      <genreform encodinganalog="655" source="aat">Clippings</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Files by subject</genreform>
-      <genreform encodinganalog="655" source="aat">Legislative records</genreform>
-      <genreform encodinganalog="655" source="aat">Scrapbooks</genreform>
-    </controlaccess>
-    <prefercite encodinganalog="524">
+    <prefercite id="aspace_9701f55103279c47ef3ecd11071da072">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Ernest I. Hatfield Papers, 1949-1968.
-        M.E. Grenander Department of Special Collections and Archives, University Libraries,
-        University at Albany, State University of New York (hereafter referred to as the Hatfield
-        Papers).</p>
+      <p> Identification of specific item, series, box, folder, Ernest I. Hatfield Papers, 1949-1968. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Hatfield Papers).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <!-- Start series 1-->
-      <c01 level="series" id="nam_apap255-1">
+    <controlaccess>
+      <subject source="meg">Politics and Politicians</subject>
+      <subject source="lcsh">Politicians--New York (State)</subject>
+      <geogname source="lcsh">New York (State)--Politics and government</geogname>
+      <geogname source="lcsh">Dutchess County (N.Y.)</geogname>
+      <geogname source="lcsh">Poughkeepsie (N.Y.)</geogname>
+      <genreform source="aat">Bills (legislative records)</genreform>
+      <genreform source="aat">Clippings</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Files by subject</genreform>
+      <genreform source="aat">Legislative Records</genreform>
+      <genreform source="aat">Scrapbooks</genreform>
+      <persname source="lcsh">Hatfield, Ernest I.</persname>
+      <corpname source="lcsh">New York (State). Legislature. Senate</corpname>
+      <corpname source="local">New York (State). Committee to Revise Banking Law, Joint Legislative</corpname>
+      <corpname source="lcsh">New York (State). Temporary State Commission on Historic Observances</corpname>
+      <corpname source="lcsh">New York (State). Legislature. Senate. Committee on Finance</corpname>
+      <corpname source="lcsh">New York (State). Legislature. Senate. Standing Committee on Labor and Industry</corpname>
+      <corpname source="lcsh">New York (State). Legislature. Senate. Standing Committee on Agriculture</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_3aba8263d9a85b9b962af9417e1932b0" level="series">
         <did>
+          <unittitle>General Correspondence</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">General Correspondence</unittitle>
-          <physdesc>
-            <extent unit="cubic ft.">0.5</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.5 cubic ft.</extent>
           </physdesc>
-          <unitdate normal="1953" type="inclusive">1953</unitdate>
+          <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
           <unitdate normal="1955/1968" type="inclusive">1955-1968</unitdate>
         </did>
-        <arrangement>
-          <p> Arranged chronologically. </p>
+        <arrangement id="aspace_357a2af8bdd67f672c494c1d6e9a2a2f">
+          <head>Arrangement</head>
+          <p>Arranged chronologically.</p>
         </arrangement>
-        <scopecontent>
-          <p>This series contains correspondence, newspapers clippings, and memos directed to
-            Ernest Hatfield from fellow government officials and constituents. Subjects vary from
-            casual greetings and congratulatory messages to individuals asking for help obtaining
-            birth certificates or clarifying their pension issue.</p>
+        <scopecontent id="aspace_44c11adbf6585821f983983187497691">
+          <head>Scope and Contents</head>
+          <p>This series contains correspondence, newspapers clippings, and memos directed to Ernest Hatfield from fellow government officials and constituents. Subjects vary from casual greetings and congratulatory messages to individuals asking for help obtaining birth certificates or clarifying their pension issue.</p>
         </scopecontent>
-        <c02 id="nam_apap255-1_1">
+        <c02 id="aspace_6f667d0202ccc6769ed2e1bdb1fd823b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1953">1953</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1955">1955</unitdate>
+            <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+            <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
+            <container id="aspace_5f1746c45f6db2b564337d973a30f670" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_72fa4f8a77c4b7651b2dbe2aa5b247e7" parent="aspace_5f1746c45f6db2b564337d973a30f670" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-1_2">
+        <c02 id="aspace_6fe16c3d0f65ff3dc6d47c1af839603e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2-5</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_86b214c7c5524da8eadb425b48f093a4" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_ad2a076077561ca3e74849810a303114" parent="aspace_86b214c7c5524da8eadb425b48f093a4" type="Folder">2-5</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-1_3">
+        <c02 id="aspace_271e963741fd0322af36e34a9a85ad60" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1957/1959">1957-1959</unitdate>
+            <unitdate normal="1957/1959" type="inclusive">1957-1959</unitdate>
+            <container id="aspace_0d513dfd7c816227736cbdeb0be21650" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_94127a4e88e651098fafc514682d8ace" parent="aspace_0d513dfd7c816227736cbdeb0be21650" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-1_4">
+        <c02 id="aspace_bf6b8d46045e1bab65c69d7c010726b0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7-8</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960">1960</unitdate>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_665ed9fb7376b928b26441681941f545" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_bdf6eeb29f1b59a7551db76c013d4505" parent="aspace_665ed9fb7376b928b26441681941f545" type="Folder">7-8</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-1_5">
+        <c02 id="aspace_14534875710cb0fd130ef973cb31b6ea" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961">1961</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_57b6a897728840f36d25af68951e87bb" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_f924c5f294e5284fbe79cdb7d8480220" parent="aspace_57b6a897728840f36d25af68951e87bb" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-1_6">
+        <c02 id="aspace_f21b4f2a760d48a93624b46522685080" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10-12</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
+            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+            <container id="aspace_6743b3f3215cd13d711d38ef036990a0" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_49ead7128d05597b92ca5c3334eb8b29" parent="aspace_6743b3f3215cd13d711d38ef036990a0" type="Folder">10-12</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-1_7">
+        <c02 id="aspace_9fc0c0c2722ab27add3c9a747781247d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963">1963</unitdate>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_4a5fcccad06dbf6f2691eb0438ff6a2b" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_608c008116641fdbe19a45351630fe07" parent="aspace_4a5fcccad06dbf6f2691eb0438ff6a2b" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-1_8">
+        <c02 id="aspace_177d99ffbb048a1619950a7a4105989e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964/1968">1964-1968</unitdate>
+            <unitdate normal="1964/1968" type="inclusive">1964-1968</unitdate>
+            <container id="aspace_6c8ab1244e6bd1592c8f9aa0c58ec300" label="Mixed Materials" type="Box">1 (1-General Correspondence)</container>
+            <container id="aspace_68b620e014f84397c47daedb5a4d8ce0" parent="aspace_6c8ab1244e6bd1592c8f9aa0c58ec300" type="Folder">14</container>
           </did>
         </c02>
       </c01>
-      <!-- Start series 2-->
-      <c01 level="series" id="nam_apap255-2">
+      <c01 id="aspace_4700df6b67666a1ea651e14f1363757b" level="series">
         <did>
+          <unittitle>Legislative and Public Affairs</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Legislative and Public Affairs</unittitle>
-          <physdesc>
-            <physfacet> .8 cu. ft. </physfacet>
-          </physdesc>
           <unitdate normal="1950/1951" type="inclusive">1950-1951</unitdate>
           <unitdate normal="1955/1957" type="inclusive">1954-1957</unitdate>
           <unitdate normal="1959/1964" type="inclusive">1959-1964</unitdate>
-          <unitdate normal="1967" type="inclusive">1967</unitdate>
+          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
           <unitdate normal="1949/1968" type="inclusive">Undated</unitdate>
+          <physdesc>
+            <physfacet id="aspace_b46524e10600354408214386199412df">.8 cu. ft.</physfacet>
+          </physdesc>
         </did>
-        <arrangement>
-          <p> Arranged alphabetically by the subject of the legislative bill. </p>
+        <arrangement id="aspace_597534dcc5df47a9ea4eceba0b6be3c0">
+          <head>Arrangement</head>
+          <p>Arranged alphabetically by the subject of the legislative bill.</p>
         </arrangement>
-        <scopecontent>
-          <p>This series contains bills introduced by Ernest Hatfield or ones he
-            wanted to amend, correspondence related to bills, the State Commission on Historic Observances 
-Historic Observances and related
-            correspondence, and legislative transcripts. Items that may be of interest to
-            researchers are Hatfield's attempts to raise funds and garner support to build the
-            Beacon-Newburgh Bridge, the Chiropractor bill which supported recognizing the 
-            chiropractic profession, and the Social Security bill in the Civil Service Law
-            which opposed the government in separating Social Security benefits from pension of
-            retired civil service employees.</p>
+        <scopecontent id="aspace_50bde5a7ef1592eb6336129f13c890ef">
+          <head>Scope and Contents</head>
+          <p>This series contains bills introduced by Ernest Hatfield or ones he wanted to amend, correspondence related to bills, the State Commission on Historic Observances Historic Observances and related correspondence, and legislative transcripts. Items that may be of interest to researchers are Hatfield's attempts to raise funds and garner support to build the Beacon-Newburgh Bridge, the Chiropractor bill which supported recognizing the chiropractic profession, and the Social Security bill in the Civil Service Law which opposed the government in separating Social Security benefits from pension of retired civil service employees.</p>
         </scopecontent>
-        <c02 id="nam_apap255-2_1">
+        <c02 id="aspace_f006ca978d7d6c9b84413813ea4e9454" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Agriculture and markets law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_6259aeb108cd872c368dbbda1b61cd0a" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_ae8fbe5dc5e1d499cb0120a47996c119" parent="aspace_6259aeb108cd872c368dbbda1b61cd0a" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_2">
+        <c02 id="aspace_68d9b4ebf8d6411193382c66c85102be" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Alcoholic beverage control law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_4f0f5a38c7bac5946cbf4e10e8536086" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_f704e29708e12ed3ad9e1100ae4646a9" parent="aspace_4f0f5a38c7bac5946cbf4e10e8536086" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_3">
+        <c02 id="aspace_aa39610aab5db34712534b775a9c7fac" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>Amend previous acts</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_4826bf54d2312733848a0e62472619ec" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_807c6fc6590edfa255b570f3de8dec0a" parent="aspace_4826bf54d2312733848a0e62472619ec" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_4">
+        <c02 id="aspace_fe16a1aa1d797e46b9555fe645ede54d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>Blatnick bill</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_5fda93e78103cd19a9ba7df77ca1ebfa" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_504a4df6dc0ab45baeec13f17ac11fb4" parent="aspace_5fda93e78103cd19a9ba7df77ca1ebfa" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_5">
+        <c02 id="aspace_84b4761174c7ebb2a954733b53f2b4b9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>Chiropractor bill</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_7624a9939995a866232fb11f4b94cde8" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_a38a3a8bcccd8d04ef4dc17a40083512" parent="aspace_7624a9939995a866232fb11f4b94cde8" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_6">
+        <c02 id="aspace_096318ee25f24505392e9d4ac1594003" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>Civil Service Law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_dc91e9f793cdde4c383a1ab95936bc29" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_f15e853151f413cce21e5fb8c108be14" parent="aspace_dc91e9f793cdde4c383a1ab95936bc29" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_7">
+        <c02 id="aspace_0ecddf4a8b6d1246562987b9e5729542" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>Compulsory automobile insurance bill</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1954">1954</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1963">1962-1963</unitdate>
+            <unitdate normal="1954/1954" type="inclusive">1954</unitdate>
+            <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
+            <container id="aspace_8564b8f8c7a0a9b2e8a41cdd15737227" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_a9df951c3b765777907dfa5800442bf6" parent="aspace_8564b8f8c7a0a9b2e8a41cdd15737227" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_8">
+        <c02 id="aspace_637c6aba5c54008a4599f10033e7fe35" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>Compulsory workman's compensation insurance for farmers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_d1ca3b8f8113b7c2faee88f492c521e0" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_c601b5fedf0e59e2bf1eeadf21217e63" parent="aspace_d1ca3b8f8113b7c2faee88f492c521e0" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_9">
+        <c02 id="aspace_d5df3d88f6640d3e8ef99174b57565e8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23</container>
             <unittitle>Concurrent resolution of Senate and Assembly</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_526eb2794e160f9d4a07d6a1002481ce" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_34682308c4fe1a642bf3998f191ffb71" parent="aspace_526eb2794e160f9d4a07d6a1002481ce" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_10">
+        <c02 id="aspace_f214020ba359823ae7b6e30049280787" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">24</container>
             <unittitle>Conservation law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_87b786eedc087af79f9ce21792d498ad" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_f5e87c8259a3397a893e4c42a206e7ea" parent="aspace_87b786eedc087af79f9ce21792d498ad" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_11">
+        <c02 id="aspace_7c9b229bf76b7693f6d050dd55c67af8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">25</container>
             <unittitle>Correction law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_7e8242c7884172506b9e847e39138a32" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_0a771969a35670c8d1bdb0b752b5fe61" parent="aspace_7e8242c7884172506b9e847e39138a32" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_12">
+        <c02 id="aspace_7b917abc9ac755c87a4e2e1204cd602f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">26</container>
             <unittitle>County law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_1fd4373f75a6524ed34876594eed3a4d" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_640dd70a9e28fa59da1f2b0d3e7c9fc9" parent="aspace_1fd4373f75a6524ed34876594eed3a4d" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_13">
+        <c02 id="aspace_a5b44332e25e5e8bbf105a879397d6f0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">27</container>
             <unittitle>Dirksen Eastland bill</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_258e5bce1e8d73044b50f10dbbf18073" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_3463ddc1beaee4dd303995811d05745b" parent="aspace_258e5bce1e8d73044b50f10dbbf18073" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_14">
+        <c02 id="aspace_4fae44777883622f25dc6834096b82a9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">28</container>
             <unittitle>Education laws</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1955/1956">1955-1956</unitdate>
+            <unitdate normal="1955/1956" type="inclusive">1955-1956</unitdate>
+            <container id="aspace_54121ea1c565391be0a2ca6048205359" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_a1773bde708316befe5311af79efbe6d" parent="aspace_54121ea1c565391be0a2ca6048205359" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_15">
+        <c02 id="aspace_e75084edf093e15ad597c6c2f1a8bb76" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">29</container>
             <unittitle>Erwin bill</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_8cab081c74f685dc649aa86ba4f27b26" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_72a41098af5c33a3f05e3955bf769ad4" parent="aspace_8cab081c74f685dc649aa86ba4f27b26" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_16">
+        <c02 id="aspace_4c932bc010c5abaea80b988c9d80322e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">30</container>
             <unittitle>Firearm bill</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_7566950613722140752869f2bc457fcf" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_8aa4b79d3d0ae26bf8d79516cd01fcc7" parent="aspace_7566950613722140752869f2bc457fcf" type="Folder">30</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_17">
+        <c02 id="aspace_940b2929e5926ded103c80e0d898da64" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">31</container>
             <unittitle>General business law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_a395beb11397f4bbe4d32b3b07343bc6" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_5203501e5ba3b05a77e76621c7cbedd1" parent="aspace_a395beb11397f4bbe4d32b3b07343bc6" type="Folder">31</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_18">
+        <c02 id="aspace_b27158ea425e2e347c379b919e2111ae" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">32</container>
             <unittitle>General municipal law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_ebc0b72d2c15f27189ffe0abc7f62b92" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_451b428048a5f94b65cd517006f27c0c" parent="aspace_ebc0b72d2c15f27189ffe0abc7f62b92" type="Folder">32</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_19">
+        <c02 id="aspace_65489d307fb36f07cb3b21544bf005b2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">33</container>
             <unittitle>Greenport Fire District</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_377905bc384cab445d86f00c538b7335" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_57ed58384dd033812996fa18e2649422" parent="aspace_377905bc384cab445d86f00c538b7335" type="Folder">33</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_20">
+        <c02 id="aspace_28a3d97bbc81788a7c4b670f1017d978" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">34</container>
             <unittitle>Hatfield election materials</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1949/1968">Undated</unitdate>
+            <unitdate normal="1949/1968" type="inclusive">Undated</unitdate>
+            <container id="aspace_b4d1f247f25331c6df6e798cf6fd2d81" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_b8ec8feda8afd3d4848cf5532e05a5d7" parent="aspace_b4d1f247f25331c6df6e798cf6fd2d81" type="Folder">34</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_21">
+        <c02 id="aspace_73787b8a19aca7e92a72372e4105243d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">35</container>
             <unittitle>Highway law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">1967</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_274f9d097a94bfe3b57f635419d280ca" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_ac5c2b56c732250862256c9373501be3" parent="aspace_274f9d097a94bfe3b57f635419d280ca" type="Folder">35</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_22">
+        <c02 id="aspace_8f850963860f2b5030e2e82f5fadd4e9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">36</container>
             <unittitle>Insurance law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_3740114021b17a93da56c8366a0387de" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_a1007f909781bec1fcf894a19a99e198" parent="aspace_3740114021b17a93da56c8366a0387de" type="Folder">36</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_23">
+        <c02 id="aspace_e2989de4f9fa459cdcacdaf626e67e42" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">37</container>
             <unittitle>Joint Legislative Committee on docks in the City of New York</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
+            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+            <container id="aspace_16266d5c0cb376c370564a582ea5271d" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_ebbd63b1414f6c2a58ab976caf83f435" parent="aspace_16266d5c0cb376c370564a582ea5271d" type="Folder">37</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_24">
+        <c02 id="aspace_9e5dff9289fbfaa3bb8928cb12d2efae" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">38</container>
-            <unittitle>Joint Legislative Committee to Revise the Banking Law
-              questionnaire</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1949/1968">Undated</unitdate>
+            <unittitle>Joint Legislative Committee to Revise the Banking Law questionnaire</unittitle>
+            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+            <unitdate normal="1949/1968" type="inclusive">Undated</unitdate>
+            <container id="aspace_0c55bbb2fd0f91bde0a6c215e3002e71" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_b1706a2ade5e2fd53e34e48dce5af450" parent="aspace_0c55bbb2fd0f91bde0a6c215e3002e71" type="Folder">38</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_25">
+        <c02 id="aspace_0d151128f0a708d250ab4edc1faf9947" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">39</container>
             <unittitle>Judiciary law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1955">1955</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966">1966</unitdate>
+            <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
+            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_c4b08adda4218033d54cd73632f50e4d" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_f31535930bf4c977858a747a697f2bdb" parent="aspace_c4b08adda4218033d54cd73632f50e4d" type="Folder">39</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_26">
+        <c02 id="aspace_6dd4f9e3b57538dc6fe67599a095d564" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">40</container>
             <unittitle>Labor laws</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_287f0ae56d5b8091a86d288293fd86e1" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_d37bcfcab73dfb4f4dbfa522818c5ff1" parent="aspace_287f0ae56d5b8091a86d288293fd86e1" type="Folder">40</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_27">
+        <c02 id="aspace_a809c8cfa9dadacd9e92ba3ddfe040f4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">41</container>
             <unittitle>Legislative primer</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959">1959</unitdate>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_c7adb7439f93b8c97dc178cb3276d4c9" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_71f40c1c922cae07573e7a520fadf333" parent="aspace_c7adb7439f93b8c97dc178cb3276d4c9" type="Folder">41</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_28">
+        <c02 id="aspace_ae585b05b6f2cf610f9ccb2e1de7b960" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">42</container>
             <unittitle>Legislative report from Senator Hatfield</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_783a1535fcff7309c45a67269d40125b" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_157c8a840ec6a078643413fe2dbe6850" parent="aspace_783a1535fcff7309c45a67269d40125b" type="Folder">42</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_29">
+        <c02 id="aspace_847fa96f60ad683d2507a5ff8962ba17" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">43</container>
             <unittitle>Local finance law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_651da495440b97a29e4ecd692246b780" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_cc38b824f89614c40e1691358cf2b6eb" parent="aspace_651da495440b97a29e4ecd692246b780" type="Folder">43</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_30">
+        <c02 id="aspace_18a561d53ec7505b25ee4ea78cb3c82e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">44</container>
             <unittitle>McCarthy amendment</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_0b81d9bdb13ac52876c54b64811556dc" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_830743b71d58253368447135313cbc92" parent="aspace_0b81d9bdb13ac52876c54b64811556dc" type="Folder">44</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_31">
+        <c02 id="aspace_72a018ee8a33f4f8d36d294cf146f552" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">45</container>
             <unittitle>McNeil Mitchell bill</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_8c339281002fabf81e1e6d69c0ed80fb" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_073b780277cde8443b757a51658da76a" parent="aspace_8c339281002fabf81e1e6d69c0ed80fb" type="Folder">45</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_32">
+        <c02 id="aspace_bb68cd0cc8da354dfd4b361f84f61a90" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">46</container>
             <unittitle>Metcalf Baker Bill</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_b6e15af2d4aa48644ff3b468dd2a6c84" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_9995c634facfe87cc311bd98cdf41373" parent="aspace_b6e15af2d4aa48644ff3b468dd2a6c84" type="Folder">46</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_33">
+        <c02 id="aspace_9e3b1c2d54b04ee3064f36ab1c2a6838" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">47</container>
             <unittitle>New York State Commission on Historic Observances</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1960">1958-1960</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964/1965">1964-1965</unitdate>
+            <unitdate normal="1958/1960" type="inclusive">1958-1960</unitdate>
+            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container id="aspace_583f990fede9fa35548c2114817221c5" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_4769dcac0652bebb601070578ae423ac" parent="aspace_583f990fede9fa35548c2114817221c5" type="Folder">47</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_34">
+        <c02 id="aspace_cd87dfd1e396a4a017d65a4cbf322b63" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">48</container>
             <unittitle>New York State Commission on Historic Observances booklets</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960">1960</unitdate>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_ce82fde905cfa918d0ff981929f289fb" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_3e748446f9304890f2f87435396776a6" parent="aspace_ce82fde905cfa918d0ff981929f289fb" type="Folder">48</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_35">
+        <c02 id="aspace_08bc55a358dced47dd3df0fae8f361f0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">49</container>
             <unittitle>Penal law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_fea8e64d07c6468919b9944bcbc80749" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_982874590200e1b7439780f0f233b828" parent="aspace_fea8e64d07c6468919b9944bcbc80749" type="Folder">49</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_36">
+        <c02 id="aspace_cafb5ac4dbced645027437391f4742d0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">50</container>
             <unittitle>Pension of retired public employees</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_21c2fbe1c36b299d251d628efbf2af42" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_bebc3e5de2d5e954a80b218a556ca387" parent="aspace_21c2fbe1c36b299d251d628efbf2af42" type="Folder">50</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_37">
+        <c02 id="aspace_d543122afdb2e13d3183c11cb40fd44c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">51</container>
             <unittitle>Poughkeepsie Armory employee bill</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_19ad711b2ae779365e0acb322dbe6ac5" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_a206ef3754dddbb6b1d00c2c5f5d15f2" parent="aspace_19ad711b2ae779365e0acb322dbe6ac5" type="Folder">51</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_38">
+        <c02 id="aspace_aaa8f0ae3277054743249eee7775879d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">52</container>
             <unittitle>Prohibit state/public corp to restrict representation of employee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_b75ce75d5d5af14bfcbc50eecba52400" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_b131c536dc4eaa0643d8dedccbee1d17" parent="aspace_b75ce75d5d5af14bfcbc50eecba52400" type="Folder">52</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_39">
+        <c02 id="aspace_76ba74aa877c46ae237ecee0dd2de1f7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">53</container>
             <unittitle>Public authority law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956/1957">1956-1957</unitdate>
+            <unitdate normal="1956/1957" type="inclusive">1956-1957</unitdate>
+            <container id="aspace_47304e2e6b77e54d1408bcabb2d495e6" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_e7a98652bdb23971b3ecf8ac5b43b4a6" parent="aspace_47304e2e6b77e54d1408bcabb2d495e6" type="Folder">53</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_40">
+        <c02 id="aspace_70885f820e3a5b9b48d3e395387b5139" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">54</container>
             <unittitle>Randall bill</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_f51bd041c21982ec9533b2bc542b15af" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_176085e42d95b49538e896a5accc7c37" parent="aspace_f51bd041c21982ec9533b2bc542b15af" type="Folder">54</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_41">
+        <c02 id="aspace_5b02d48aef8e7c386a58ea6d97f487c2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">55</container>
             <unittitle>Real property law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1955/1956">1955-1956</unitdate>
+            <unitdate normal="1955/1956" type="inclusive">1955-1956</unitdate>
+            <container id="aspace_de43f763fce88eb75ebb789691f6e512" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_7503d49987538de207b7505251b1a1d1" parent="aspace_de43f763fce88eb75ebb789691f6e512" type="Folder">55</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_42">
+        <c02 id="aspace_bc53e7dd5f35956ddb19baae82227637" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">56</container>
             <unittitle>Receipt and fulfillment of requests for copies of legislation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1955/1956">1955-1956</unitdate>
+            <unitdate normal="1955/1956" type="inclusive">1955-1956</unitdate>
+            <container id="aspace_7017da76fb4ce7e711ab2941e4a3251d" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_de2747655ed5c525ef08a839bb92fda6" parent="aspace_7017da76fb4ce7e711ab2941e4a3251d" type="Folder">56</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_43">
+        <c02 id="aspace_d89bddf33959345f57a1f44096a1b251" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">57</container>
             <unittitle>Retirement and Social Security law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_f18f72215372b83f1b9991e753ec58b4" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_174ae908f665d20cd5983df09cef7ddd" parent="aspace_f18f72215372b83f1b9991e753ec58b4" type="Folder">57</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_44">
+        <c02 id="aspace_90d2ca48726a97fd1e41704ff84e0dac" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">58</container>
             <unittitle>Savings bank branch bill</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_14dcd5d7622de7774f6ee58cef42b9c1" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_ca2fe1d2f3ab3c421a829b756ebe1f20" parent="aspace_14dcd5d7622de7774f6ee58cef42b9c1" type="Folder">58</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_45">
+        <c02 id="aspace_fd6d09c2a88ffc4df4fee6ea680abcd1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">59</container>
             <unittitle>Senate Bill No. 3116</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_90026a2a9fa11d91b50d7d67c785b7a2" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_4d4c8deb4d15e2a01fb4fb80b21a6f39" parent="aspace_90026a2a9fa11d91b50d7d67c785b7a2" type="Folder">59</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_46">
+        <c02 id="aspace_326f3de5437c78080e78360d994677c5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">60</container>
             <unittitle>Senate Bill Introduction No. 3423, Print No.3781</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_d816aae10b43838f437241be38c1d12d" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_0f793c7d7ddf1ea7a84dccfd12646dda" parent="aspace_d816aae10b43838f437241be38c1d12d" type="Folder">60</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_47">
+        <c02 id="aspace_5341b9ae134a4dfa8661bef93cbdd0da" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">61</container>
             <unittitle>Senate Introductory 2095</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_5da9e0996e6d8d27b9f9ac4a4a748b34" label="Mixed Materials" type="Box">1 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_fb749d27180c8d42f59802ff8871b88f" parent="aspace_5da9e0996e6d8d27b9f9ac4a4a748b34" type="Folder">61</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_48">
+        <c02 id="aspace_85415142d797a6d85f7052e221fa1fd5" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Social welfare law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_2c0435adff7b3b48407ab6eeb30f38b1" label="Mixed Materials" type="Box">2 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_3d481abaef775109215bdb9e0aee4a7c" parent="aspace_2c0435adff7b3b48407ab6eeb30f38b1" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_49">
+        <c02 id="aspace_b03e69ece6e8174dea18a3a094ed58b4" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>Speeches and related correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950/1951">1950-1951</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956/1957">1956-1957</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960/1963">1960-1963</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1949/1968">Undated</unitdate>
+            <unitdate normal="1950/1951" type="inclusive">1950-1951</unitdate>
+            <unitdate normal="1956/1957" type="inclusive">1956-1957</unitdate>
+            <unitdate normal="1960/1963" type="inclusive">1960-1963</unitdate>
+            <unitdate normal="1949/1968" type="inclusive">Undated</unitdate>
+            <container id="aspace_e3ac8b90003b04cc0795119e7c1c0acd" label="Mixed Materials" type="Box">2 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_8c8e595c7e9028c02d7494f121c83c3a" parent="aspace_e3ac8b90003b04cc0795119e7c1c0acd" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_50">
+        <c02 id="aspace_1741638a26d33a53af0fe3ffcac3e62f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Standing Committees of the Senate</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_1d0669608e3d0a6f3b9949024fd03a9d" label="Mixed Materials" type="Box">2 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_8235956c3d17d45eae89c8237318a4a7" parent="aspace_1d0669608e3d0a6f3b9949024fd03a9d" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_51">
+        <c02 id="aspace_25c936a3bf48afeae72998483366820e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>State finance law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_c8f324dbed9b28f04010af5486148934" label="Mixed Materials" type="Box">2 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_d3024a4607e1edbce063e6ac353a78b9" parent="aspace_c8f324dbed9b28f04010af5486148934" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_52">
+        <c02 id="aspace_f1e98625800eddef3dd5c2849d4fc605" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>State laws</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_f7092a54848d45c7269fcbc49291467b" label="Mixed Materials" type="Box">2 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_5fc677a11f02bfc51984f9dfdf3defae" parent="aspace_f7092a54848d45c7269fcbc49291467b" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_53">
+        <c02 id="aspace_d2016b1202da200bd394f2be92dbda10" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>Suffolk County bill</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_045d72faab9344c8f7a35c18fa37bc29" label="Mixed Materials" type="Box">2 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_5b8d878de941d43c38bbf8ec0f3daa36" parent="aspace_045d72faab9344c8f7a35c18fa37bc29" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_54">
+        <c02 id="aspace_e38276d98a927722df7e0525bbd36456" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
             <unittitle>Taconic State Police</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_1ae5d734ecdcc3f3a6b1286050161b0e" label="Mixed Materials" type="Box">2 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_54ba5fe7c7647a376bfda34f0b0c3969" parent="aspace_1ae5d734ecdcc3f3a6b1286050161b0e" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_55">
+        <c02 id="aspace_17977224c8a4e4adc84afd5ee5fa8d78" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
             <unittitle>Tax law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_dc09f077a8bd0ecf2fb5a3b11fd096f2" label="Mixed Materials" type="Box">2 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_8df72114e18131ef9a3b028145e3f206" parent="aspace_dc09f077a8bd0ecf2fb5a3b11fd096f2" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_56">
+        <c02 id="aspace_75ee16662c91329ac18efdb9cb63ba01" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
             <unittitle>Town law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_b26b6f5e4a529c267920e99637c0e993" label="Mixed Materials" type="Box">2 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_50ae7821486fb30a158172b2cab527a0" parent="aspace_b26b6f5e4a529c267920e99637c0e993" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_57">
+        <c02 id="aspace_fc78bbca7dbb32a1aed22b238efe010e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10</container>
-            <unittitle>Transcript of proceedings of the Joint Legislative Committee to Revise the
-              Banking Law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963-01-30">1963 January 30</unitdate>
+            <unittitle>Transcript of proceedings of the Joint Legislative Committee to Revise the Banking Law</unittitle>
+            <unitdate normal="1963-01-30/1963-01-30" type="inclusive">1963 January 30</unitdate>
+            <container id="aspace_27550ca06ad658c28b41799a8959ccdb" label="Mixed Materials" type="Box">2 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_7cbe4366ed98c25adc4b35afcf3531e4" parent="aspace_27550ca06ad658c28b41799a8959ccdb" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_58">
+        <c02 id="aspace_7e3da42e2245f88ab78077e37d724fda" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">11</container>
-            <unittitle>Transcript of proceedings of the Joint Legislative Committee to Revise the
-              Banking Law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963-01-31">1963 January 31</unitdate>
+            <unittitle>Transcript of proceedings of the Joint Legislative Committee to Revise the Banking Law</unittitle>
+            <unitdate normal="1963-01-31/1963-01-31" type="inclusive">1963 January 31</unitdate>
+            <container id="aspace_7064f9a81a7062d8f302a7996300e0b6" label="Mixed Materials" type="Box">2 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_d3d75bd1709d77c523a76ed6759cb412" parent="aspace_7064f9a81a7062d8f302a7996300e0b6" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_59">
+        <c02 id="aspace_1fa84911eab13053bc96650277f23d22" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">12</container>
             <unittitle>Workmen's compensation law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_72eb2fdcef0d6451df1fd188360889c8" label="Mixed Materials" type="Box">2 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_2fac425c44b990565474b57ea3abac67" parent="aspace_72eb2fdcef0d6451df1fd188360889c8" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-2_60">
+        <c02 id="aspace_859c06517249dac94197e03a4044a9f7" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">13</container>
             <unittitle>Vehicle and traffic law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_7510f081019eb24b6ccab92e1cf89be7" label="Mixed Materials" type="Box">2 (2-Legislative and Public Affairs)</container>
+            <container id="aspace_a1ea529e31c2b79192c8065b4689fa00" parent="aspace_7510f081019eb24b6ccab92e1cf89be7" type="Folder">13</container>
           </did>
         </c02>
       </c01>
-      <!-- Start series 3-->
-      <c01 level="series" id="nam_apap255-3">
+      <c01 id="aspace_cf6cf745afab37c728cf4232e6edd79a" level="series">
         <did>
+          <unittitle>Scrapbooks</unittitle>
           <unitid>3</unitid>
-          <unittitle label="Series">Scrapbooks</unittitle>
-          <physdesc>
-            <physfacet> 3.65 cu. ft. </physfacet>
-          </physdesc>
           <unitdate normal="1949/1964" type="inclusive">1949-1964</unitdate>
+          <physdesc>
+            <physfacet id="aspace_ffeeeb0895e0ecda442aafcd9e6f2ce4">3.65 cu. ft.</physfacet>
+          </physdesc>
         </did>
-        <arrangement>
-          <p> Arranged chronologically. </p>
+        <arrangement id="aspace_590a0c2e578762d0f303a8fe611c702b">
+          <head>Arrangement</head>
+          <p>Arranged chronologically.</p>
         </arrangement>
-        <scopecontent>
-          <p>This series contains bound and unbound scrapbooks filled with newspaper
-            clippings. Ernest Hatfield created the books which mention him in the articles, discuss events
-            he attended, describe bills that he supported and the reactions to the bills, and other
-            clippings that were of political interest to him.</p>
+        <scopecontent id="aspace_d1e97d29b237429fce613d5e8dd3beb5">
+          <head>Scope and Contents</head>
+          <p>This series contains bound and unbound scrapbooks filled with newspaper clippings. Ernest Hatfield created the books which mention him in the articles, discuss events he attended, describe bills that he supported and the reactions to the bills, and other clippings that were of political interest to him.</p>
         </scopecontent>
-        <c02 id="nam_apap255-3_1">
+        <c02 id="aspace_035ba706c5fd4252b2f9468910c311df" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">14</container>
             <unittitle>Newspaper clippings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1949">1949</unitdate>
+            <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+            <container id="aspace_1a6127b676aa3a43da909c6c67ec8eab" label="Mixed Materials" type="Box">2 (3-Scrapbooks)</container>
+            <container id="aspace_cf9b19e518ef8ec3b2310ce4ff3d6783" parent="aspace_1a6127b676aa3a43da909c6c67ec8eab" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-3_2">
+        <c02 id="aspace_e29e312801869d5cbd815496f4404d96" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">15-16</container>
             <unittitle>Newspaper clippings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950">1950</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_95af7629d172f030e5c8dd50ab7f6955" label="Mixed Materials" type="Box">2 (3-Scrapbooks)</container>
+            <container id="aspace_458e9f7d915cf40b9d7e1d006f4b9f92" parent="aspace_95af7629d172f030e5c8dd50ab7f6955" type="Folder">15-16</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-3_3">
+        <c02 id="aspace_ab71be3ec07eba59b7cfc98633ddc604" level="file">
           <did>
-            <container type="Oversized">1</container>
-            <container type="Folder">1</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950-12/1963-09">1950 December-1963 September</unitdate>
+            <unitdate normal="1950-12/1963-09" type="inclusive">1950 December-1963 September</unitdate>
+            <container id="aspace_308be7f5ecf43a804f3bf18aedddd957" label="Mixed Materials" type="Oversized">1</container>
+            <container id="aspace_2ae96fb1630b107603e0ae43c64eef09" parent="aspace_308be7f5ecf43a804f3bf18aedddd957" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-3_4">
+        <c02 id="aspace_0ec3fb49387b3c3f0318b74e92b4f7fa" level="file">
           <did>
-            <container type="Oversized">2</container>
-            <container type="Folder">1-2</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1955-01/1956-02">1955 January-1956 February</unitdate>
+            <unitdate normal="1955-01/1956-02" type="inclusive">1955 January-1956 February</unitdate>
+            <container id="aspace_09d13294eec5473759ecf3b3e03d4e1d" label="Mixed Materials" type="Oversized">2</container>
+            <container id="aspace_8efe359993feabe807c303216510b55c" parent="aspace_09d13294eec5473759ecf3b3e03d4e1d" type="Folder">1-2</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-3_5">
+        <c02 id="aspace_6785a42d7f6c96f6eee972230f424b6e" level="file">
           <did>
-            <container type="Oversized">1</container>
-            <container type="Folder">2</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956-02/1956-03">1956 February-1956 March</unitdate>
+            <unitdate normal="1956-02/1956-03" type="inclusive">1956 February-1956 March</unitdate>
+            <container id="aspace_a1c98493311971d0797515d440d5a72a" label="Mixed Materials" type="Oversized">1</container>
+            <container id="aspace_e20c1adfdb37f68f4ccfa886cc63036d" parent="aspace_a1c98493311971d0797515d440d5a72a" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-3_6">
+        <c02 id="aspace_355ec70d0bb7f2a6aa6fba99625e3a8d" level="file">
           <did>
-            <container type="Oversized">3</container>
-            <container type="Folder">1</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956-12/1958-04">1956 December-1958 April</unitdate>
+            <unitdate normal="1956-12/1958-04" type="inclusive">1956 December-1958 April</unitdate>
+            <container id="aspace_11ce1ae2751dd11c99aaf388f5bc03bf" label="Mixed Materials" type="Oversized">3</container>
+            <container id="aspace_2fa0487479d002c9b9a899a442ed0fa6" parent="aspace_11ce1ae2751dd11c99aaf388f5bc03bf" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-3_7">
+        <c02 id="aspace_9b87bdb58b7e3528fbf9b021cab7fccc" level="file">
           <did>
-            <container type="Oversized">4</container>
-            <container type="Folder">1</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958-01/1958-07">1958 January-1958 July</unitdate>
+            <unitdate normal="1958-01/1958-07" type="inclusive">1958 January-1958 July</unitdate>
+            <container id="aspace_17c59d171a8e118bf6ec68bbb4a0fc16" label="Mixed Materials" type="Oversized">4</container>
+            <container id="aspace_7cd1f9cae17c30dd80690dea1d043654" parent="aspace_17c59d171a8e118bf6ec68bbb4a0fc16" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-3_8">
+        <c02 id="aspace_5149478664900e9dbebb10667573f004" level="file">
           <did>
-            <container type="Oversized">3</container>
-            <container type="Folder">2</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960-12/1963-04">1960 December-1963 April</unitdate>
+            <unitdate normal="1960-12/1963-04" type="inclusive">1960 December-1963 April</unitdate>
+            <container id="aspace_66f77f593f49e4a86fd0e56ad89de401" label="Mixed Materials" type="Oversized">3</container>
+            <container id="aspace_460f87dd0bce48e614576c323728569e" parent="aspace_66f77f593f49e4a86fd0e56ad89de401" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap255-3_9">
+        <c02 id="aspace_3b1433f91ea353351a4718a94fdb4aa0" level="file">
           <did>
-            <container type="Oversized">5</container>
-            <container type="Folder">1</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963-10/1964-05">1963 October-1964 May</unitdate>
+            <unitdate normal="1963-10/1964-05" type="inclusive">1963 October-1964 May</unitdate>
+            <container id="aspace_44b6d259be94127ea8e176704692ed5a" label="Mixed Materials" type="Oversized">5</container>
+            <container id="aspace_1c32f8bfdb957a30b5b834a6672383f3" parent="aspace_44b6d259be94127ea8e176704692ed5a" type="Folder">1</container>
           </did>
         </c02>
       </c01>

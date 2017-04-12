@@ -1,88 +1,75 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua623">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua623.html">nam_ua623</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua623">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua623.xml">ua623</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>DEPARTMENT OF BIOLOGICAL SCIENCES RECORDS (UA623)<date normal="1936/1988" type="inclusive">1936-1988</date>
-				</titleproper>
+        <titleproper>Biological Sciences, Department of; Records <num>ua623</num></titleproper>
         <author>Orson Kingsley, History 599 Intern</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2004-10" type="publication">Copyright 2004 October by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2004 October</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Gregory Wiedeman<date normal="2015">2015</date>
-			</creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:51:44 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date/>
-        <item/>
+        <date>2015</date>
+        <item>Encoded in EAD by Gregory Wiedeman</item>
       </change>
     </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>Department of Biological Sciences Records<date normal="1936/1988" type="inclusive">1936-1988</date>
-			</titleproper>
-      <publisher>
-			</publisher>
-      <date type="publication">Copyright 2015 By the University at Albany, SUNY. All rights reserved.</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua623</unitid>
-      <unittitle>Department of Biological Sciences Records<unitdate label="Date:" normal="1936/1988" type="inclusive">1936-1988</unitdate>
-			</unittitle>
-      <abstract label="Abstract:">Biology seminar reports, laboratory manuals, proposals for departmental program development, and staff meeting minutes for the academic biological sciences department.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="lcsh">State University of New York at Albany. Department of Biological Sciences</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">5</extent>
-      </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Department of Biological Sciences Records<unitdate normal="1936/1988" type="inclusive">1936-1988</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="lcsh">State University of New York at Albany. Department of Biological Sciences</corpname>
+      </origination>
+      <unitid>ua623</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_f11c66a62d349a81137cc317484490a7">Biology seminar reports, laboratory manuals, proposals for departmental program development, and staff meeting minutes for the academic biological sciences department.</abstract>
+      <langmaterial id="aspace_e6483e1f56c8e58b2a332be6741e3054">English</langmaterial>
+      <physloc id="aspace_66de95c126955178339676d12df48e05">The materials are located onsite in the department.</physloc>
+      <container id="aspace_1489f89f2d49a0bf5a07c21f07bd4cee" label="Mixed Materials" type="Collection">X</container>
     </did>
-    <phystech>
+    <processinfo id="aspace_bf865a1ea4f0f87f3333eaca677f2fa3">
+      <head>Processing Information</head>
+      <p>Processed in 2004 October by Orson Kingsley, History 599 Intern.</p>
+    </processinfo>
+    <phystech id="aspace_a9711f433178d6cde1b18fb2c348dfac">
+      <head>Physical Characteristics and Technical Requirements</head>
       <p>Web Archives</p>
     </phystech>
-    <accessrestrict>
+    <accessrestrict id="aspace_f77ecbd28a525cafd3efd7ff97382e4c">
       <head>Access</head>
       <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. While it is likely that portions of the collection may be viewed, access must be managed by an archivist.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_f6b5be2c0ef349bb58b8bd8151fa2a51">
       <head>Copyright</head>
       <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_d26680e06c7a1fca6a5820c103cf084f">
       <head>Acquisition Information</head>
       <p>These records were deposited in the M.E. Grenander Department of Special Collections &amp; Archives, University Libraries, University at Albany.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_fbcbe874655147823530bcb840e44c44">
       <head>Administrative History</head>
       <p>Todays Department of Biological Sciences dates from 1966, but variants of this name have been used off and on since 1904.[1] Today, the objective of the department [of biological sciences] is to provide the undergraduate student with a broad background in the biological sciences and adequate supporting strength in the physical sciences.[2] Todays department also offers a Bachelors degree in the Arts and Sciences, a Masters degree, a B.S./M.S. combination program, and a Doctor of Philosophy degree. Undergraduates can take interdisciplinary programs in both human biology and biochemistry and molecular biology. Graduate students have the option of taking the Biodiversity, Conservation, and Policy program, or the Forensic Molecular Biology program. PH.D. degrees are offered in two main areas; Molecular, Cellular, Developmental and Neural Biology, along with Ecology, Evolution and Behavior. A joint seven-year biology/optometry program with SUNY-Optometry is also available to students who wish to get a Doctor of Optometry degree.</p>
-      <p>The Executive Committee of the New York State Normal School at SUNY Albany started teaching in 1845, under the heading of Natural Science.[3] On March 15, 1845 the first faculty member of the department was employed at the school. Merritt G. McKoon was appointed assistant teacher of Natural Science.[4] Due to the schools purpose of training teachers for grades one through eight at this time, all sciences were taught under the rubric of Natural Science (also called Natural Philosophy). Unfortunately for Professor McKoon, he abruptly resigned on June 9, 1845, on account of the extreme sickness of his family.[5] With Professor McKoons sudden departure, William W. Clark to took over teaching the course while still a student at the school. He was paid $60 for his services.[6] Clark was kept on as a teacher of both natural philosophy and chemistry after he graduated on August 27, 1845.[7]</p>
-      <p>The first class on physiology was taught in 1846 by the schools principal, David Page.[8] Between 1851 and 1861, due to a rapid series of resignations, there were nine different teachers who taught natural philosophy.[9] Beginning in 1854, and lasting throughout the rest of the nineteenth century, the professors who taught natural philosophy were technically known as Professors of Natural Science; both being general science.[10] In 1868 botany was added as a course, to go along with physiology and natural philosophy.[11] These three courses remained the staple of the biology program until 1890 when zoology was added to the curriculum. This expansion of classes caused the school President, on January 12, 1889, to expand the number of faculty members for the department from one to two. Miss E. Helen Hannahs, an 1884 graduate from the Normal School at Albany, became the first female teacher in the field of natural science at Albany.[12] In 1890 the school changed from teaching both subject matter and methods of teaching to strictly methods of teaching.[13] In 1891 the word science first was used, replacing natural philosophy.[14]</p>
-      <p>In 1898 Charles S. Gager became the first professor to be hired under the newly introduced heading of Biology Professor.[15] In 1904 the school reintroduced subject matter to the curriculum, and the Department of Biological Science was formed. Eight biology classes were offered during this year, with Dr. Gager teaching six of them.[16] The initial reintroduction of subject matter as opposed to pedagogy was confirmed in December 1905 when the Normal College was made a four-year liberal arts college for teachers with the same standards as other New York colleges of good standing. In 1914 biology was listed as an available minor for the first time in the Annual Circular.[17] That same year the first Masters thesis cataloged as a biology thesis, titled Theories of Immunity, was accepted from Alice M. Adams. She was awarded a Master of Arts in Education degree.[18] In the mid-1930s the first graduate class in biology was offered, and in 1944 an official list of graduate classes required by the department was made available.[19]</p>
-      <p>In 1960, the SUNY Master Plan placed priority on the Masters and Doctoral programs at Albany.[20] In 1962, the Masters program in biology was opened up to anyone who had the credentials to take it. Previously it had been restricted to teachers.[21] In 1965 a Ph.D was offered in biology for the first time.[22] Joseph T. Tupper received the first PH.D in 1970 with his thesis Microelectrode Studies on the Electrical Properties of Isolated Mitochondrial Membranes.[23] The B.S./M.S. combination program and the honors program were first listed in the schools undergraduate bulletin as being offered for the 1983-84 school year.[24] The interdisciplinary program of human biology was first offered in the school bulletin in 1990.[25] In 1992 the biochemistry and molecular biology program was first listed as available.[26] In 1997 Albany began offering a joint seven-year biology/optometry program with SUNY-Optometry for students to gain a Doctor of Optometry degree.[27] The Masters program has also expanded over time. Beginning in 1998 graduate students could take courses leading to a degree in Biodiversity, Conservation, and Policy.[28] In 2001 a sequence in Forensic Molecular Biology was made available. In the fall of 2003 the first students enrolled in this program upon its changing to a regular M.S. program.[29] In the rapid moving field of science, the biology program at SUNY Albany is continually evolving to meet the needs of society.</p>
+      <p> The Executive Committee of the New York State Normal School at SUNY Albany started teaching in 1845, under the heading of Natural Science.[3] On March 15, 1845 the first faculty member of the department was employed at the school. Merritt G. McKoon was appointed assistant teacher of Natural Science.[4] Due to the schools purpose of training teachers for grades one through eight at this time, all sciences were taught under the rubric of Natural Science (also called Natural Philosophy). Unfortunately for Professor McKoon, he abruptly resigned on June 9, 1845, on account of the extreme sickness of his family.[5] With Professor McKoons sudden departure, William W. Clark to took over teaching the course while still a student at the school. He was paid $60 for his services.[6] Clark was kept on as a teacher of both natural philosophy and chemistry after he graduated on August 27, 1845.[7]</p>
+      <p> The first class on physiology was taught in 1846 by the schools principal, David Page.[8] Between 1851 and 1861, due to a rapid series of resignations, there were nine different teachers who taught natural philosophy.[9] Beginning in 1854, and lasting throughout the rest of the nineteenth century, the professors who taught natural philosophy were technically known as Professors of Natural Science; both being general science.[10] In 1868 botany was added as a course, to go along with physiology and natural philosophy.[11] These three courses remained the staple of the biology program until 1890 when zoology was added to the curriculum. This expansion of classes caused the school President, on January 12, 1889, to expand the number of faculty members for the department from one to two. Miss E. Helen Hannahs, an 1884 graduate from the Normal School at Albany, became the first female teacher in the field of natural science at Albany.[12] In 1890 the school changed from teaching both subject matter and methods of teaching to strictly methods of teaching.[13] In 1891 the word science first was used, replacing natural philosophy.[14]</p>
+      <p> In 1898 Charles S. Gager became the first professor to be hired under the newly introduced heading of Biology Professor.[15] In 1904 the school reintroduced subject matter to the curriculum, and the Department of Biological Science was formed. Eight biology classes were offered during this year, with Dr. Gager teaching six of them.[16] The initial reintroduction of subject matter as opposed to pedagogy was confirmed in December 1905 when the Normal College was made a four-year liberal arts college for teachers with the same standards as other New York colleges of good standing. In 1914 biology was listed as an available minor for the first time in the Annual Circular.[17] That same year the first Masters thesis cataloged as a biology thesis, titled Theories of Immunity, was accepted from Alice M. Adams. She was awarded a Master of Arts in Education degree.[18] In the mid-1930s the first graduate class in biology was offered, and in 1944 an official list of graduate classes required by the department was made available.[19]</p>
+      <p> In 1960, the SUNY Master Plan placed priority on the Masters and Doctoral programs at Albany.[20] In 1962, the Masters program in biology was opened up to anyone who had the credentials to take it. Previously it had been restricted to teachers.[21] In 1965 a Ph.D was offered in biology for the first time.[22] Joseph T. Tupper received the first PH.D in 1970 with his thesis Microelectrode Studies on the Electrical Properties of Isolated Mitochondrial Membranes.[23] The B.S./M.S. combination program and the honors program were first listed in the schools undergraduate bulletin as being offered for the 1983-84 school year.[24] The interdisciplinary program of human biology was first offered in the school bulletin in 1990.[25] In 1992 the biochemistry and molecular biology program was first listed as available.[26] In 1997 Albany began offering a joint seven-year biology/optometry program with SUNY-Optometry for students to gain a Doctor of Optometry degree.[27] The Masters program has also expanded over time. Beginning in 1998 graduate students could take courses leading to a degree in Biodiversity, Conservation, and Policy.[28] In 2001 a sequence in Forensic Molecular Biology was made available. In the fall of 2003 the first students enrolled in this program upon its changing to a regular M.S. program.[29] In the rapid moving field of science, the biology program at SUNY Albany is continually evolving to meet the needs of society.</p>
       <p>
         <chronlist>
           <head>Department Names</head>
@@ -177,100 +164,77 @@
           </chronitem>
         </chronlist>
       </p>
-      <p>
-        <list>
-          <item>[1] State University of New York at Albany, Undergraduate Bulletin 1966-1967, p. 115.</item>
-          <item>[2] State University of New York at Albany, Undergraduate Bulletin 2002-2003, p. 81.</item>
-          <item>[3] An Historical Sketch of the State Normal College at Albany, N.Y. and a History of its Graduates for Fifty Years: 1844-1894, Albany, NY: Brandow Printing Company, p.4.</item>
-          <item>[4] State Normal School Albany: Executive Committee Minutes: 1844-1868, Albany, NY, 1941, Vol. 1, p. 19.</item>
-          <item>[5] State Normal School Albany: Executive Committee Minutes: 1844-1868, Albany, NY, 1941, Vol. 1, p. 24.</item>
-          <item>[6] State Normal School Albany: Executive Committee Minutes: 1844-1868, Albany, NY, 1941, Vol. 1, p. 31.</item>
-          <item>[7] Annual Report of the Executive Committee of the State Normal School: 1844-1852, January 27, 1846, No. 32, p. 5.</item>
-          <item>[8] Annual Report of the Executive Committee of the State Normal School: 1844-1852, January 27, 1846, No. 32, p. 29.</item>
-          <item>[9] An Historical Sketch of the State Normal College at Albany, N.Y. and a History of its Graduates for Fifty Years: 1844-1894, Albany, NY: Brandow Printing Company, p.5-6.</item>
-          <item>[10] An Historical Sketch of the State Normal College at Albany, N.Y. and a History of its Graduates for Fifty Years: 1844-1894, Albany, NY: Brandow Printing Company, p. 5-9.</item>
-          <item>[11] Annual Report of the Executive Committee of the State Normal School: 1860-1868, January 24, 1868, No. 63, p. 28.</item>
-          <item>[12] State Normal School Albany: Executive Committee Minutes: 1869-1909, Albany, NY, 1941, Vol. 2, p. 543.</item>
-          <item>[13] New York State Normal College, Annual Circular and Announcement, 1890, p. 8.</item>
-          <item>[14] New York State Normal College, Annual Circular and Announcement, 1891, p. 8.</item>
-          <item>[15] New York State Normal College, Annual Circular and Announcement, 1898, p. 6.</item>
-          <item>[16] New York State Normal College, Annual Circular and Announcement, 1904, p.36-38.</item>
-          <item>[17] New York State College for Teachers, Annual Circular and Announcement, 1914-1915, p. 46.</item>
-          <item>[18] NYSCT Commencement Exercise, Masters Theses A Bibliography 1914-1978, p. 4.</item>
-          <item>[19] New York State College for Teachers, Official Catalogue, 1944, p. 69.</item>
-          <item>[20] "Self Examination," October 1, 1964, p. 1.</item>
-          <item>[21] State University of New York College at Albany, General Catalogue, 1962-1963, p. 30.</item>
-          <item>[22] Alumni Quarterly, Spring 1965, p. 7.</item>
-          <item>[23] State University of New York at Albany, Doctoral Dissertations A Bibliography, 1963-1978, p. 37.</item>
-          <item>[24] State University of New York at Albany, Undergraduate Bulletin 1983-1984, p. 97.</item>
-          <item>[25] State University of New York at Albany, Undergraduate Bulletin 1990-1991, p. 102.</item>
-          <item>[26] State University of New York at Albany, Undergraduate Bulletin 1992-1993, p. 105.</item>
-          <item>[27] State University of New York at Albany, Undergraduate Bulletin 1997-1998, p. 72.</item>
-          <item>[28] State University of New York at Albany, Graduate Study, Department of Biological Sciences 1998, p. 2.</item>
-          <item>[29] Conversation between Michael DeRensis, Office of Graduate Admissions, and Geoffrey Williams, University Archivist, October 14, 2004.</item>
-        </list>
-      </p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_7353a1b08f34687adf8b455566f4e5f7">
+      <head>Scope and Contents</head>
       <p>The collection includes biology seminar reports, 1936-1966; laboratory manuals, 1983-1988; proposals for departmental program development, 1967-1972; and staff meeting minutes, 1965-1973.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_2d7719d9e98766ff3099e2300b3da983">
       <head>Arrangement of the Collection</head>
       <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <prefercite>
+    <prefercite id="aspace_cb08e6aa58330eeac9172ded18a706a7">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Department of Biological Sciences Records, 1936-1988. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Department of Biological Sciences Records).</p>
+      <p> Identification of specific item, series, box, folder, Department of Biological Sciences Records, 1936-1988. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Department of Biological Sciences Records).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany. Department of Biological Sciences</corpname>
-      <subject encodinganalog="650" source="lcsh">Biology -- Study and teaching (Higher) -- New York (State)</subject>
-      <genreform source="meg" encodinganalog="655">Web Archives</genreform>
+      <subject source="lcsh">Biology -- Study and teaching (Higher) -- New York (State)</subject>
+      <genreform source="meg">Web Archives</genreform>
+      <corpname source="lcsh">State University of New York at Albany. Department of Biological Sciences</corpname>
     </controlaccess>
     <dsc>
-      <c01 id="nam_ua623-1" level="series">
+      <c01 id="aspace_d67bcce03a01c2113552c4a2d538fe10" level="series">
         <did>
-          <unitid>nam_ua623-1</unitid>
           <unittitle>Web Archives</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2009-07-25/2016-09-17">2009 July 25-2016 September 17</unitdate>
-          <physdesc>
-            <extent unit="captures">298</extent>
+          <unitid>nam_ua623-1</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">298 captures</extent>
           </physdesc>
+          <unitdate normal="2009-07-25/2016-09-17" type="inclusive">2009 July 25-2016 September 17</unitdate>
         </did>
-        <acqinfo>
+        <acqinfo id="aspace_20447c30923c5ac731efb49b6b69e85b">
+          <head>Immediate Source of Acquisition</head>
           <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both the university's collection and the Internet Archive's public collection.</p>
-          <p>Surface-level crawling of www.albany.edu is performed daily which should includes most top-level webpages. Separate targeted crawls of every albany.edu subdomain are performed monthly to attempt to gather all content. This includes: www.albany.edu, www.rna.albany.edu, www.ctg.albany.edu, www.ualbanysports.com, www.albany.edu/rockefeller, www.albany.edu/cela, www.albany.edu/asrc, m.albany.edu,	library.albany.edu,	events.albany.edu,	cstar.cestm.albany.edu, csda.albany.edu, and alumni.albany.edu</p>
+          <p> Surface-level crawling of www.albany.edu is performed daily which should includes most top-level webpages. Separate targeted crawls of every albany.edu subdomain are performed monthly to attempt to gather all content. This includes: www.albany.edu, www.rna.albany.edu, www.ctg.albany.edu, www.ualbanysports.com, www.albany.edu/rockefeller, www.albany.edu/cela, www.albany.edu/asrc, m.albany.edu,	library.albany.edu,	events.albany.edu,	cstar.cestm.albany.edu, csda.albany.edu, and alumni.albany.edu</p>
         </acqinfo>
-        <phystech>
+        <phystech id="aspace_9b7f0cab406e37fe3b4617d75410b97d">
+          <head>Physical Characteristics and Technical Requirements</head>
           <p>Web Archives</p>
         </phystech>
-        <c02 id="nam_ua623-1_1">
+        <c02 id="aspace_03e1d0a9e349547a5608ecdf9646c1bd" level="file">
           <did>
-            <container type="Web-Archive">1</container>
             <unittitle>http://www.albany.edu/biology/index.shtml - University Archives collection</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2013-05-08/2016-09-17">2013 May 8-2016 September 17</unitdate>
-            <dao actuate="onrequest" linktype="simple" show="new" href="http://wayback.archive-it.org/3308/*/http://www.albany.edu/biology/index.shtml"/>
+            <unitdate normal="2013-05-08/2016-09-17" type="inclusive">2013 May 8-2016 September 17</unitdate>
+            <container id="aspace_04bf12a6bc056b0d42c67cc70f3bb4d1" label="Mixed Materials" type="Web-Archive">1</container>
+            <dao xlink:actuate="onrequest" xlink:href="http://wayback.archive-it.org/3308/*/http://www.albany.edu/biology/index.shtml" xlink:show="new" xlink:title="http://www.albany.edu/biology/index.shtml - University Archives collection">
+              <daodesc>
+                <p>http://www.albany.edu/biology/index.shtml - University Archives collection</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
-        <c02 id="nam_ua623-1_2">
+        <c02 id="aspace_57ff54099a1f2dcdf362d1e5e672a54e" level="file">
           <did>
-            <container type="WARC">1</container>
             <unittitle>WARC file for http://www.albany.edu/biology/index.shtml, (please see https://en.wikipedia.org/wiki/Web_ARChive for more details)</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2013-05-08/2016-09-17">2013 May 8-2016 September 17</unitdate>
+            <unitdate normal="2013-05-08/2016-09-17" type="inclusive">2013 May 8-2016 September 17</unitdate>
+            <container id="aspace_e4b451941587fa7f4543ca820b95b175" label="Mixed Materials" type="WARC">1</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_f8db643bcb9b1869c53ec66dac244adb">
+            <head>Conditions Governing Access</head>
             <p>WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in researching with web archives.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua623-1_3">
+        <c02 id="aspace_e50c91211379a76e5b7fc9e582898f33" level="file">
           <did>
-            <container type="Web-Archive">2</container>
             <unittitle>http://www.albany.edu/biology/index.shtml - Internet Archive collection</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2009-07-25/2016-09-17">2009 July 25-2016 September 17</unitdate>
-            <dao actuate="onrequest" linktype="simple" show="new" href="https://web.archive.org/web/*/http://www.albany.edu/biology/index.shtml"/>
+            <unitdate normal="2009-07-25/2016-09-17" type="inclusive">2009 July 25-2016 September 17</unitdate>
+            <container id="aspace_ff5e8c044fae6a641213d1ff810b4e3b" label="Mixed Materials" type="Web-Archive">2</container>
+            <dao xlink:actuate="onrequest" xlink:href="https://web.archive.org/web/*/http://www.albany.edu/biology/index.shtml" xlink:show="new" xlink:title="http://www.albany.edu/biology/index.shtml - Internet Archive collection">
+              <daodesc>
+                <p>http://www.albany.edu/biology/index.shtml - Internet Archive collection</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
       </c01>

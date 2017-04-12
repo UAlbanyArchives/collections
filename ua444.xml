@@ -1,179 +1,165 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua444">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua444.html">nam_ua444</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua444">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua444.xml">ua444</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>INSTITUTE FOR HUMANISTIC STUDIES RECORDS (UA444)<date normal="1977/1980" type="inclusive">1977-1980</date></titleproper>
+        <titleproper>Humanistic Studies, Institute for; Records <num>ua444</num></titleproper>
         <author>Erin Dolan and Nicole Nadeau</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2015" type="publication">Copyright 2015 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2015</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Gregory Wiedeman<date normal="2015">2015</date>
-			</creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:46:27 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2015-12">2015 December</date>
+        <date>2015 December</date>
         <item>Converted to EAD</item>
+      </change>
+      <change>
+        <date>2015</date>
+        <item>Encoded in EAD by Gregory Wiedeman</item>
       </change>
     </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>Institute For Humanistic Studies Records<date normal="1977/1980" type="inclusive">1977-1980</date></titleproper>
-      <publisher>
-			</publisher>
-      <date type="publication">Copyright 2015 By the University at Albany, SUNY. All rights reserved.</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua444</unitid>
-      <unittitle>Institute For Humanistic Studies Records<unitdate label="Date:" normal="1977/1980" type="inclusive">1977-1980</unitdate></unittitle>
-      <abstract label="Abstract:">Faced with major cutbacks in support for the Humanities in the mid-1970s, the Institute for Humanistic Studies was created to stimulate research and critical thinking in the Humanities on the State University of New York at Albany campus. </abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="lcsh">State University of New York at Albany. Institute For Humanistic Studies</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">3.33</extent>
-      </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Institute For Humanistic Studies Records<unitdate normal="1977/1980" type="inclusive">1977-1980</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="lcsh">State University of New York at Albany. Institute For Humanistic Studies</corpname>
+      </origination>
+      <unitid>ua444</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3.33 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_1243f65bc117d413fd2348e600905bfe">Faced with major cutbacks in support for the Humanities in the mid-1970s, the Institute for Humanistic Studies was created to stimulate research and critical thinking in the Humanities on the State University of New York at Albany campus.</abstract>
+      <langmaterial id="aspace_d42a6985775692c8305b76c9449db810">English</langmaterial>
+      <physloc id="aspace_44477d6dc0b08c6a7eddba06d2aa1e66">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_fcf812e151a853fa57c1685a9ff1aef6">
+      <head>Processing Information</head>
+      <p>Processed in 2015 by Erin Dolan and Nicole Nadeau.</p>
+    </processinfo>
+    <accessrestrict id="aspace_a788aba42623ffaf271aa52101e1a339">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_6cb3cb2230c3bbb9a1575bc4113272e5">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites. </p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
-      <p>The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future. </p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
+      <p> The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_25f9bbab4c43becca1f7e94534348ddc">
       <head>Acquisition Information</head>
       <p>These records were donated to the M.E. Grenander Department of Special Collections &amp; Archives, University Libraries by M.E. Grenander, Director of the Institute for Humanistic Studies.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_f3b0398b4a0abb3e9cf25ad1dbd5c085">
       <head>Biographical History</head>
-      <p>The Institute for Humanistic Studies was founded in 1977 by Professors M.E. Grenander (Director, 1977-80), and Hugh Maclean (Deputy Director, 1977-?), "to serve as an organizational umbrella under which both mature and promising scholar-teachers can conduct humanistic research and scholarship at relatively advanced levels...." and also "to provide leadership for humanistic disciplines, and to serve as a platform for cooperation with other departments and schools at SUNYA that may an interface with the humanities."[1]  The Institute consisted of a group of thirty State University at Albany faculty Fellows, experienced research scholars who achieved eminence in such fields as literature, philosophy, history, sociology, political science, economics, urban affairs, criminal justice, and anthropology.  They were selected each year by a nation-wide Distinguished Advisory Council of ten members, who collaborated with Grenander and Maclean, "in developing plans for establishing the Institute at SUNYA"[2]. </p>
-      <p>In the adverse fiscal climate of the middle and late 1970's, the Institute was created to encourage mutually supportive humanistic research and to make it available in many forms to a broad audience.  This concept was facilitated by the Institute through sponsorship of events, such as, monthly luncheons at which faculty fellows presented papers and discussed their research interests, and conferences (local and international) on such topics as the humanities and solar energy, the humanities and computers, libertarian humanism and the philosophical idea of "representation".  The Institute also participated in a college lecture series, "The Idea of a University--Revisited", fall 1977, and in the planning of a lecture series of 14 dates titled, "Thantos: Perspectives on Dying", to be held at the Empire State Plaza in the fall of 1979 and the winter of 1980.  The lecture series was cancelled due to administrative difficulties, and it is unclear whether the series was ever presented.  The Institute also published a newsletter, The Conjugator, three times annually from 1978-1980, and proceeding of the three conferences it sponsored. </p>
-      <p>The centerpiece of Institute activities was its sponsorship of a series of conferences in the late 1970's.  The Institute's first conference "HELIOS: From Myth to Solar Energy" was held March 16-18, 1978, investigated "man's age long interest in and dependence on the sun, examined from a humanistic perspective and culminating today in his adaptation of solar energy."[3]  The second conference, "APOLLO AGONISTES: The Humanities in a Computerized World," held April 19-21, 1979, attempted to demonstrate "that the computer can not only help the humanist to solve those of his problems which depend on vast, accurate memory and extraordinarily rapid calculations, it also demonstrates that whatever answers it gives the humanist, they are never final."[4]  The third conference, "ASCLEPIUS AT SYRACUSE; Thomas Szasz, Libertarian Humanist," held April 17-19, 1980, brought together speakers from United States, Canada, and England to analyze Szasz's writings.  The speakers used history and literature to "examine his perspective on culturally determined institutions for oppression," giving particular emphasis to Szasz's "role in the development of changing attitudes toward social and legal controls vs. civil rights.[5] </p>
-      <p>After the resignation of M.E. Granander in 1980 the Institute appeared to play a less active role, but continued to be listed in the University phone directory as a unit of College of Humanities and Fine Arts until the fall of 1985.  Members of the Institute were consulted in the development of the Doctor of Arts in Humanities Program in 1982.[6]  Martin Kane was listed as Director of the Institute from 1980-82.  Berel Lang, the head of the Doctor of Arts Program in the Humanities was listed as the prospective leader of the institute in 1983.[7] </p>
-      <p>[1] Accent on Research, October, 1977, pg. 2-3.
-[2] Accent on Research, October 1977, pg. 2-3.
-[3] Proposal letter from M.E. Grenander, October 5, 1977.
-[4] Proceedings - APOLLO AGONISTES:  The Humanities in a Computerized World, 1979, p. xx.
-[5] Proceedings - ASCLEPIUS AT SYRACUSE:  Thomas Szasz, Libertarian Humanist, 1980, p xvi
-[6] College of Humanities and Fine Arts, Five Year Plan, January 1982, p. 21. Office of President Records, Box 80.
-[7] College of Humanities and Fine Arts Five Year Update, June 1983, p. 5. Office of President Records, Box 80. </p>
+      <p>The Institute for Humanistic Studies was founded in 1977 by Professors M.E. Grenander (Director, 1977-80), and Hugh Maclean (Deputy Director, 1977-?), "to serve as an organizational umbrella under which both mature and promising scholar-teachers can conduct humanistic research and scholarship at relatively advanced levels...." and also "to provide leadership for humanistic disciplines, and to serve as a platform for cooperation with other departments and schools at SUNYA that may an interface with the humanities."[1] The Institute consisted of a group of thirty State University at Albany faculty Fellows, experienced research scholars who achieved eminence in such fields as literature, philosophy, history, sociology, political science, economics, urban affairs, criminal justice, and anthropology. They were selected each year by a nation-wide Distinguished Advisory Council of ten members, who collaborated with Grenander and Maclean, "in developing plans for establishing the Institute at SUNYA"[2]. </p>
+      <p> In the adverse fiscal climate of the middle and late 1970's, the Institute was created to encourage mutually supportive humanistic research and to make it available in many forms to a broad audience. This concept was facilitated by the Institute through sponsorship of events, such as, monthly luncheons at which faculty fellows presented papers and discussed their research interests, and conferences (local and international) on such topics as the humanities and solar energy, the humanities and computers, libertarian humanism and the philosophical idea of "representation". The Institute also participated in a college lecture series, "The Idea of a University--Revisited", fall 1977, and in the planning of a lecture series of 14 dates titled, "Thantos: Perspectives on Dying", to be held at the Empire State Plaza in the fall of 1979 and the winter of 1980. The lecture series was cancelled due to administrative difficulties, and it is unclear whether the series was ever presented. The Institute also published a newsletter, The Conjugator, three times annually from 1978-1980, and proceeding of the three conferences it sponsored. </p>
+      <p> The centerpiece of Institute activities was its sponsorship of a series of conferences in the late 1970's. The Institute's first conference "HELIOS: From Myth to Solar Energy" was held March 16-18, 1978, investigated "man's age long interest in and dependence on the sun, examined from a humanistic perspective and culminating today in his adaptation of solar energy."[3] The second conference, "APOLLO AGONISTES: The Humanities in a Computerized World," held April 19-21, 1979, attempted to demonstrate "that the computer can not only help the humanist to solve those of his problems which depend on vast, accurate memory and extraordinarily rapid calculations, it also demonstrates that whatever answers it gives the humanist, they are never final."[4] The third conference, "ASCLEPIUS AT SYRACUSE; Thomas Szasz, Libertarian Humanist," held April 17-19, 1980, brought together speakers from United States, Canada, and England to analyze Szasz's writings. The speakers used history and literature to "examine his perspective on culturally determined institutions for oppression," giving particular emphasis to Szasz's "role in the development of changing attitudes toward social and legal controls vs. civil rights.[5] </p>
+      <p> After the resignation of M.E. Granander in 1980 the Institute appeared to play a less active role, but continued to be listed in the University phone directory as a unit of College of Humanities and Fine Arts until the fall of 1985. Members of the Institute were consulted in the development of the Doctor of Arts in Humanities Program in 1982.[6] Martin Kane was listed as Director of the Institute from 1980-82. Berel Lang, the head of the Doctor of Arts Program in the Humanities was listed as the prospective leader of the institute in 1983.[7] </p>
+      <p> [1] Accent on Research, October, 1977, pg. 2-3.[2] Accent on Research, October 1977, pg. 2-3.[3] Proposal letter from M.E. Grenander, October 5, 1977.[4] Proceedings - APOLLO AGONISTES: The Humanities in a Computerized World, 1979, p. xx.[5] Proceedings - ASCLEPIUS AT SYRACUSE: Thomas Szasz, Libertarian Humanist, 1980, p xvi[6] College of Humanities and Fine Arts, Five Year Plan, January 1982, p. 21. Office of President Records, Box 80.[7] College of Humanities and Fine Arts Five Year Update, June 1983, p. 5. Office of President Records, Box 80.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The records of the Institute were kept by Dr. M.E. Grenander, first director of the Institute for Humanistic Studies from its founding in 1977 until her resignation in 1980.  They document the conferences and meetings held by the Institute.  Specifically, these files contain administrative records related to the creation, funding, and programs of the Institute; M.E. Grenander's correspondence with conference participants regarding proposal for presentations; draft program proposals and accepted papers for each conferences; published conference verbatim conference proceedings including: HELIOS: From Myth to Solar Energy, 1978; APOLLO AGONISTES: The Humanities in a Computerized World, 1979; and AESCLEPIUS AT SYRACUSE: Thomas Szasz, Libertarian Humanist, 1980; and The Conjugator, 1978-80, a periodic newsletter of the Institute.  Also included in the files are copies of newspaper articles about the conferences, photographs taken at each conference, and scrapbooks of the three conferences as kept by M.E. Grenander. </p>
+    <scopecontent id="aspace_405f8a37ba66ae9f84f0957ee635fe9d">
+      <head>Scope and Contents</head>
+      <p>The records of the Institute were kept by Dr. M.E. Grenander, first director of the Institute for Humanistic Studies from its founding in 1977 until her resignation in 1980. They document the conferences and meetings held by the Institute. Specifically, these files contain administrative records related to the creation, funding, and programs of the Institute; M.E. Grenander's correspondence with conference participants regarding proposal for presentations; draft program proposals and accepted papers for each conferences; published conference verbatim conference proceedings including: HELIOS: From Myth to Solar Energy, 1978; APOLLO AGONISTES: The Humanities in a Computerized World, 1979; and AESCLEPIUS AT SYRACUSE: Thomas Szasz, Libertarian Humanist, 1980; and The Conjugator, 1978-80, a periodic newsletter of the Institute. Also included in the files are copies of newspaper articles about the conferences, photographs taken at each conference, and scrapbooks of the three conferences as kept by M.E. Grenander.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_67c5024e80bffca8d018533eb547c3d8">
       <head>Arrangement of the Collection</head>
       <p>The collection has four series, arranged alphabetically.</p>
-      <list type="simple">
-        <item><emph render="bold">Series 1 - Director's Administrative Correspondence</emph>, 1975-1981</item>
-        <item><emph render="bold">Series 2 - Director's Conference Correspondence</emph>, 1977-1980</item>
-        <item><emph render="bold">Series 3 - Institute Publications</emph>, 1977-1980</item>
-        <item><emph render="bold">Series 4 - Scrapbooks</emph>, 1978-1980</item>
-      </list>
     </arrangement>
-    <prefercite>
+    <prefercite id="aspace_3588cfd8831e8475808c83080e433c7c">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Institute For Humanistic Studies Records, 1977-1980. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Institute For Humanistic Studies Records).</p>
+      <p> Identification of specific item, series, box, folder, Institute For Humanistic Studies Records, 1977-1980. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Institute For Humanistic Studies Records).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <corpname encodinganalog="611" source="lcsh">State University of New York at Albany. Institute For Humanistic Studies</corpname>
+      <corpname source="lcsh">State University of New York at Albany. Institute For Humanistic Studies</corpname>
     </controlaccess>
     <dsc>
-      <head>Container List</head>
-      <c01 id="nam_ua444-1" level="series">
+      <c01 id="aspace_4de4f4dcc9026e49010af362fefe199c" level="series">
         <did>
+          <unittitle>Director's Administrative Correspondence</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Director's Administrative Correspondence</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1975/1981" type="inclusive">1975-1981</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.5</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.5 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1975/1981" type="inclusive">1975-1981</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_100a9fd85eac36979d7e35b384e945da">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
-          <p>Contains correspondence, publicity, grant requests relating to the founding, financing, and running of the Institute, and each individual conference organized by the Institute.  Includes correspondence with the national Board of Overseers, and lists of Institute faculty fellows.</p>
+        <scopecontent id="aspace_a9a518e5a0b6b67c496d5c268c8c640a">
+          <head>Scope and Contents</head>
+          <p>Contains correspondence, publicity, grant requests relating to the founding, financing, and running of the Institute, and each individual conference organized by the Institute. Includes correspondence with the national Board of Overseers, and lists of Institute faculty fellows.</p>
         </scopecontent>
       </c01>
-      <c01 id="nam_ua444-2" level="series">
+      <c01 id="aspace_ffcfc4a6c7b15c4e7bdc200d336229aa" level="series">
         <did>
+          <unittitle>Director's Conference Correspondence</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Director's Conference Correspondence</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1977/1980" type="inclusive">1977-1980</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">1.5</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.5 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1977/1980" type="inclusive">1977-1980</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_6579590bcba30906cfd1a1a026ed6ce0">
+          <head>Arrangement</head>
           <p>Arranged chronologically by conference date and alphabetically thereunder.</p>
         </arrangement>
-        <scopecontent>
-          <p>Contains correspondence with potential speakers, funding and annual financial reports, brochures, newspaper and journal clippings relating to three international conferences: "Helios: From Myth to Solar Energy," 16-18 March, 1978; "Apollo Agonistes: The Humanities in a Computerized World," 19-21 April, 1979; "Asclepius at Syracuse: Thomas Szasz, Libertarian Humanist," 17-19 April, 1980.  Also includes correspondence and program related material for a planned local lecture series of 14 dates titled, "Thanatos: Perspectives on Death," which was to be held from the fall of 1979 through the winter of 1980.  The Conference was never held.</p>
+        <scopecontent id="aspace_48b02cf73a7f8535bf5d1e3a3a5bd1ec">
+          <head>Scope and Contents</head>
+          <p>Contains correspondence with potential speakers, funding and annual financial reports, brochures, newspaper and journal clippings relating to three international conferences: "Helios: From Myth to Solar Energy," 16-18 March, 1978; "Apollo Agonistes: The Humanities in a Computerized World," 19-21 April, 1979; "Asclepius at Syracuse: Thomas Szasz, Libertarian Humanist," 17-19 April, 1980. Also includes correspondence and program related material for a planned local lecture series of 14 dates titled, "Thanatos: Perspectives on Death," which was to be held from the fall of 1979 through the winter of 1980. The Conference was never held.</p>
         </scopecontent>
       </c01>
-      <c01 id="nam_ua444-3" level="series">
+      <c01 id="aspace_cd5b091f2bbfd88c242972c6a8013d05" level="series">
         <did>
+          <unittitle>Institute Publications</unittitle>
           <unitid>3</unitid>
-          <unittitle label="Series">Institute Publications</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1977/1980" type="inclusive">1977-1980</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.5</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.5 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1977/1980" type="inclusive">1977-1980</unitdate>
         </did>
-        <arrangement>
-          <p>Arranged by series publication. </p>
+        <arrangement id="aspace_826456114df5f7d233831796b9be7f5c">
+          <head>Arrangement</head>
+          <p>Arranged by series publication.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_3048c4fecd2227dce37392c10029a68b">
+          <head>Scope and Contents</head>
           <p>Includes The Conjugator: Vol. I, No. 1-3, 1977-78; Vol. II, No .1-3, 1978-79; Vol. III, No. 1-3, 1979-80, the Institute newsletter, and published conference proceedings: Helios: From Myth to Solar Energy, Vol. I &amp; II, 16-18 March, 1978; Apollo Agonistes: The Humanities in a Computerized World, Vol. I &amp; II, 19-21 April, 1979; Asclepius at Syracuse: Thomas Szasz, Libertarian Humanist, Vol. I &amp; II, 17-19 April, 1980.</p>
         </scopecontent>
       </c01>
-      <c01 id="nam_ua444-4" level="series">
+      <c01 id="aspace_a04dc0db272185f9a76e85d5e06c9d8e" level="series">
         <did>
+          <unittitle>Scrapbooks</unittitle>
           <unitid>4</unitid>
-          <unittitle label="Series">Scrapbooks</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1978/1980" type="inclusive">1978-1980</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.5</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.5 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1978/1980" type="inclusive">1978-1980</unitdate>
         </did>
-        <arrangement>
-          <p>Arranged by conference. </p>
+        <arrangement id="aspace_472f6fed215a37e9783ed477bfbb3f04">
+          <head>Arrangement</head>
+          <p>Arranged by conference.</p>
         </arrangement>
-        <scopecontent>
-          <p>Contains brochures, The Conjugator, flyers, photographs, and articles relating to the institute's three conferences: "Helios: From Myth to Solar Energy", 16-18 March, 1978; "Apollo Agonistes: The Humanities in a Computerized World", 19-21 April, 1979; "Asclepius at Syracuse: Thomas Szasz, Libertarian Humanist", 17-19 April, 1980.  There are four scrapbooks in all, one for each individual conference, and the last one contains material on all three conferences.</p>
+        <scopecontent id="aspace_2093fc3547d0840fb97def2008d013f8">
+          <head>Scope and Contents</head>
+          <p>Contains brochures, The Conjugator, flyers, photographs, and articles relating to the institute's three conferences: "Helios: From Myth to Solar Energy", 16-18 March, 1978; "Apollo Agonistes: The Humanities in a Computerized World", 19-21 April, 1979; "Asclepius at Syracuse: Thomas Szasz, Libertarian Humanist", 17-19 April, 1980. There are four scrapbooks in all, one for each individual conference, and the last one contains material on all three conferences.</p>
         </scopecontent>
       </c01>
     </dsc>

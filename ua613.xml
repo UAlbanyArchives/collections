@@ -1,93 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua613">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua613.html">nam_ua613</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua613">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua613.xml">ua613</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>DEPARTMENT OF ECONOMICS RECORDS (UA613)<date normal="1971/1985" type="inclusive">1971-1985</date></titleproper>
+        <titleproper>Economics, Department of; Records <num>ua613</num></titleproper>
         <author>Kristin Lang</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="1991-10-28" type="publication">Copyright 1991 October 28 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>1991 October 28</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Jodi Boyle<date normal="2015">2015</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:52:52 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date/>
-        <item/>
+        <date>2015</date>
+        <item>Encoded in EAD by Jodi Boyle</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua613</unitid>
-      <unittitle>Department of Economics Records<unitdate normal="1971/1985" type="inclusive">1971-1985</unitdate></unittitle>
-      <abstract label="Abstract:">The collection documents the day-to-day work of the Department of Economics.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <persname encodinganalog="100" source="local"> State University of New York at Albany. Department of Economics</persname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">1.0</extent>
-      </physdesc>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Department of Economics Records<unitdate normal="1971/1985" type="inclusive">1971-1985</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="local">State University of New York at Albany. Department of Economics</persname>
+      </origination>
+      <unitid>ua613</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.0 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_e4ea5195c2cce964842a527f14fd6475">The collection documents the day-to-day work of the Department of Economics.</abstract>
+      <langmaterial id="aspace_d395e7fb5d39d37c6943dc81ed473ac8">English</langmaterial>
+      <physloc id="aspace_3bfff2f40c3cbd299e2436ddef412c6b">The materials are located onsite in the department.</physloc>
+      <container id="aspace_fde888d8862d246cdca8f78e26e37eeb" label="Mixed Materials" type="Collection">X</container>
     </did>
-    <controlaccess>
-      <subject source="meg" encodinganalog="650">Economics</subject>
-    </controlaccess>
-    <bioghist>
+    <processinfo id="aspace_ffc1dfdf3a6a818c6573c079d3ce9db8">
+      <head>Processing Information</head>
+      <p>Processed in 1991 October 28 by Kristin Lang.</p>
+    </processinfo>
+    <bioghist id="aspace_a63889ff63dc5cecc82ef745fa94bd8c">
       <head>Biographical History</head>
-      <p>The current Department of Economics was created in 1966 in the Division of Social Sciences[State University of New York at Albany, Undergraduate Bulletin. 1966-67, p. 136.]. By that date, however, economics had been taught at the University for almost 100 years, and a department of economics has existed in one form or another for fifty-five years. The 1868-69 catalogue of the New York State Normal School included a course in Political Economy, the nineteenth century name for economics[Catalogue of the Officers and Students of the New York State Normal School for the Fiftieth Term. Beginning July 1, 1869, p. 14.]. This course, like all Normal School courses, combined the academic subject with pedagogical methodology. In 1890, with the creation of the New York State Normal College and the change in emphasis of the school to a strictly professional program in pedagogy, the Political Economy course content was restricted to the teaching methodology of economics [Circular for the New York State Normal College, Albany, N.Y., for 1890 and 91, p. 6.]. It was not until 1906 when the State Education Department reorganized the Normal College into a four year liberal arts college far teachers that a course in economics, as opposed to teaching methodology, was once again offered [The State Education Department's reorganization extended "the scope and breadth of it's work so that it might be equipped for the attainment of scholarship equal to that of literary and scientific colleges." New York State Normal College, Albany, Circular and Announcement of the Courses of Instruction, 1906-1907, p. 6, 51.].
-
-
-
-</p>
-      <p>In 1909 the Normal College adopted a departmental structure and economics became part of the joint Department of Government and Economics. Its first chairman was Professor Adam A. Walker [Minutes of the Executive Committee (1844-1939), Transcribed from the Minute Books in Four Volumes, Vol.2: 1869-1909, p. 676-77.]. The last mention of this joint department comes in the course catalogue from 1913, one year before the New York State Normal College became known as the New York State College for Teachers [New York State Normal College, Annual Circular and Announcement, 1913-1914, p. 65.]. Economics was listed in the course catalogues from 1914 to 1934, but it is unclear whether it existed as an independent Department of Economics or as joint Department of Economics and Government [The correspondence of President Brubacher with Irene A. Rachdorf in 1927 regarding a prospective vacancy in Economics and Government refers variously to a "divided program in the "departments of Economics and Government" (Rachdorf to Brubacher, January 29,1927; same to same, February 28, 1927), Office of the President Records, President A. R. Brubacher Correspondence, Economics and government folder, 1926-27.]. Dr. Walker was chairman of the Department of Economics and Sociology from 1934 to 1936, [New York State College for Teachers, Annual Catalogue, February 26, 1934, p. 41.] and continued to teach economics in the Department of Social Studies, from 1937 until the early 1940's [Official Catalogue, New York State College for Teachers, Ninety-Seventh Year, February 28, 1941, p. 66.].</p>
-      <p>Economics continued to be taught in the Department of Social Studies until 1964, [New York State College for Teachers' and State University of New York at Albany's Catalogues and Bulletins, 1937-1963] when it became a program in the newly created Division of Social Sciences.[State University of New York at Albany, Undergraduate Bulletin, 1964-66, p. 139] That program was organized into the Department of Economics in 1966 [State University of New York at Albany, Undergraduate Bulletin, 1966-67, p. 136]. Dr. Louis R. Salkever was made acting chair in 1966, his post became permanent in 1967, and he stayed on as chair until 1971 [State University of New York at Albany, University Directory, 1970-71, p. 6.].
-
-</p>
-      <p>The Department of Economics first appeared in the Graduate Bulletin in 1966, but there was no indication of any graduate degrees being offered [State University of New York at Albany, School of Graduate Studies Bulletin, 1966-67, p. 99.]. Graduate degrees were first mentioned in 1967 when the department offered a program leading to a Master's Degree [ State University of New York at Albany, School of Graduate Studies Bulletin, 1967-68, p. 91.]. In the Graduate Bulletin of 1968 students seeking doctorates in economics were referred to the Ph.D. program in political economy offered by the School of Public Affairs [State University of New York at Albany, Graduate Bulletin, 1968-69, p. 76.]. That same year, the University Senate approval Ph.D. program in the Department of Economics. The Ph.D. was first offered in the fall of 1969 [University Senate, "Report of the Graduate Academic Council, July 1, 1967 - June 30, 1968," p. 2.]. The aim of this program was "to prepare productive research scholars competent to teach in a college or university and to conduct economic research for private or public agencies." Concentrations were offered in many fields, including economic theory and doctrine, quantitative economics, economic history, development economics, monetary and fiscal economics, international economics, labor economics, economic organization and social control, and regional economics [State University of New York at Albany, Graduate Bulletin, 1969-70, p. 82.]. A Doctor of Arts program in economics was added in 1971 to prepare students to teach in colleges [University Senate, "Report of the Graduate Academic Council, July 1, 1970 - June 30, 1971, p. 3; State University of New York at Albany, Graduate Bulletin. 1971-72, p. 11-12.]. The program "combined practical experience in teaching economics with a broader academic grounding than that generally required for the Ph.D. degree." The New York State fiscal crisis of the mid-1970's caused the discontinuation of the D.A. program in the 1974-75 academic year. The M.A. and Ph.D. programs continue to be offered.</p>
+      <p>The current Department of Economics was created in 1966 in the Division of Social Sciences[State University of New York at Albany, Undergraduate Bulletin. 1966-67, p. 136.]. By that date, however, economics had been taught at the University for almost 100 years, and a department of economics has existed in one form or another for fifty-five years. The 1868-69 catalogue of the New York State Normal School included a course in Political Economy, the nineteenth century name for economics[Catalogue of the Officers and Students of the New York State Normal School for the Fiftieth Term. Beginning July 1, 1869, p. 14.]. This course, like all Normal School courses, combined the academic subject with pedagogical methodology. In 1890, with the creation of the New York State Normal College and the change in emphasis of the school to a strictly professional program in pedagogy, the Political Economy course content was restricted to the teaching methodology of economics [Circular for the New York State Normal College, Albany, N.Y., for 1890 and 91, p. 6.]. It was not until 1906 when the State Education Department reorganized the Normal College into a four year liberal arts college far teachers that a course in economics, as opposed to teaching methodology, was once again offered [The State Education Department's reorganization extended "the scope and breadth of it's work so that it might be equipped for the attainment of scholarship equal to that of literary and scientific colleges." New York State Normal College, Albany, Circular and Announcement of the Courses of Instruction, 1906-1907, p. 6, 51.]. </p>
+      <p> In 1909 the Normal College adopted a departmental structure and economics became part of the joint Department of Government and Economics. Its first chairman was Professor Adam A. Walker [Minutes of the Executive Committee (1844-1939), Transcribed from the Minute Books in Four Volumes, Vol.2: 1869-1909, p. 676-77.]. The last mention of this joint department comes in the course catalogue from 1913, one year before the New York State Normal College became known as the New York State College for Teachers [New York State Normal College, Annual Circular and Announcement, 1913-1914, p. 65.]. Economics was listed in the course catalogues from 1914 to 1934, but it is unclear whether it existed as an independent Department of Economics or as joint Department of Economics and Government [The correspondence of President Brubacher with Irene A. Rachdorf in 1927 regarding a prospective vacancy in Economics and Government refers variously to a "divided program in the "departments of Economics and Government" (Rachdorf to Brubacher, January 29,1927; same to same, February 28, 1927), Office of the President Records, President A. R. Brubacher Correspondence, Economics and government folder, 1926-27.]. Dr. Walker was chairman of the Department of Economics and Sociology from 1934 to 1936, [New York State College for Teachers, Annual Catalogue, February 26, 1934, p. 41.] and continued to teach economics in the Department of Social Studies, from 1937 until the early 1940's [Official Catalogue, New York State College for Teachers, Ninety-Seventh Year, February 28, 1941, p. 66.].</p>
+      <p> Economics continued to be taught in the Department of Social Studies until 1964, [New York State College for Teachers' and State University of New York at Albany's Catalogues and Bulletins, 1937-1963] when it became a program in the newly created Division of Social Sciences.[State University of New York at Albany, Undergraduate Bulletin, 1964-66, p. 139] That program was organized into the Department of Economics in 1966 [State University of New York at Albany, Undergraduate Bulletin, 1966-67, p. 136]. Dr. Louis R. Salkever was made acting chair in 1966, his post became permanent in 1967, and he stayed on as chair until 1971 [State University of New York at Albany, University Directory, 1970-71, p. 6.]. </p>
+      <p> The Department of Economics first appeared in the Graduate Bulletin in 1966, but there was no indication of any graduate degrees being offered [State University of New York at Albany, School of Graduate Studies Bulletin, 1966-67, p. 99.]. Graduate degrees were first mentioned in 1967 when the department offered a program leading to a Master's Degree [ State University of New York at Albany, School of Graduate Studies Bulletin, 1967-68, p. 91.]. In the Graduate Bulletin of 1968 students seeking doctorates in economics were referred to the Ph.D. program in political economy offered by the School of Public Affairs [State University of New York at Albany, Graduate Bulletin, 1968-69, p. 76.]. That same year, the University Senate approval Ph.D. program in the Department of Economics. The Ph.D. was first offered in the fall of 1969 [University Senate, "Report of the Graduate Academic Council, July 1, 1967 - June 30, 1968," p. 2.]. The aim of this program was "to prepare productive research scholars competent to teach in a college or university and to conduct economic research for private or public agencies." Concentrations were offered in many fields, including economic theory and doctrine, quantitative economics, economic history, development economics, monetary and fiscal economics, international economics, labor economics, economic organization and social control, and regional economics [State University of New York at Albany, Graduate Bulletin, 1969-70, p. 82.]. A Doctor of Arts program in economics was added in 1971 to prepare students to teach in colleges [University Senate, "Report of the Graduate Academic Council, July 1, 1970 - June 30, 1971, p. 3; State University of New York at Albany, Graduate Bulletin. 1971-72, p. 11-12.]. The program "combined practical experience in teaching economics with a broader academic grounding than that generally required for the Ph.D. degree." The New York State fiscal crisis of the mid-1970's caused the discontinuation of the D.A. program in the 1974-75 academic year. The M.A. and Ph.D. programs continue to be offered.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_e22303d84f8d319364a2298d15482a21">
+      <head>Scope and Contents</head>
       <p>The collection includes publications on econometrics and a proposal for a Doctor of Arts program in economics.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_eeceba86f87c132ab938958ba6660c3f">
       <head>Arrangement of the Collection</head>
       <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_705e38ecea842332f04ec3ad616f52d1">
       <head>Acquisition Information</head>
       <p>The Department of Economics donated the materials in this collection.</p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_14702f3d602f6adf83ec074a3ca02aee">
       <head>Access</head>
       <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. While it is likely that portions of the collection may be viewed, access must be managed by an archivist.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_51dfd6e6eba253889c4f8b3048c622b8">
       <head>Copyright</head>
       <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_b751b4595e5bb65c0b9c4f65ff9670f6">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Department of Economics Records, 1971-1985. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Department of Economics Records).</p>
+      <p> Identification of specific item, series, box, folder, Department of Economics Records, 1971-1985. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Department of Economics Records).</p>
     </prefercite>
+    <controlaccess>
+      <subject source="meg">Economics</subject>
+    </controlaccess>
+    <dsc/>
   </archdesc>
 </ead>

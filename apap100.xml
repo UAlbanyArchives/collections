@@ -1,1308 +1,1076 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap100">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="nalsu" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" url="http://library.albany.edu/speccoll/findaids/apap100.xml" identifier="##">nam_apap100</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap100">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap100.xml">apap100</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>LAWRENCE S. WITTNER PAPERS (APAP100)<date normal="1977/2007" type="inclusive">1977-2007</date></titleproper>
+        <titleproper>Wittner, Lawrence; Papers <num>apap100</num></titleproper>
         <author>Rosann Santos</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2000">Copyright 2000 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2000</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Jamie Brinkman<date normal="2014">2014</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 14:13:57 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2014-04">April 2014</date>
-        <item>Jamie Brinkman interfiled the 2011 accession to the collection and created an EAD
-          finding aid.</item>
+        <date>April 2014</date>
+        <item>Jamie Brinkman interfiled the 2011 accession to the collection and created an EAD finding aid.</item>
+      </change>
+      <change>
+        <date>2014</date>
+        <item>Encoded in EAD by Jamie Brinkman</item>
       </change>
     </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>LAWRENCE S. WITTNER PAPERS (APAP100)<date normal="1977/2007" type="inclusive">1977-2007</date>
-      </titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2000</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap100</unitid>
-      <unittitle>Lawrence S. Wittner Papers <unitdate type="inclusive" normal="1977/2007" label="Date:"> 1977-2007</unitdate>
-      </unittitle>
-      <physdesc label="Physical Characteristics:">
-        <extent unit="cubic ft.">3.16</extent>
-      </physdesc>
-      <origination>
-        <persname encodinganalog="100" source="lcsh">Wittner, Lawrence S.</persname>
-      </origination>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">The Lawrence S. Wittner Papers document Dr. Wittner's activism in
-        politics and his work with the Albany Chapter of the Democratic Socialists of America, the
-        United University Professions Solidarity Committee, and various other organizations in the
-        Capital Region.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Lawrence S. Wittner Papers<unitdate normal="1977/2007" type="inclusive">1977-2007</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="lcsh">Wittner, Lawrence S.</persname>
+      </origination>
+      <unitid>apap100</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3.16 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_ced65b664a148c79673b4e1d38fc7f9c">The Lawrence S. Wittner Papers document Dr. Wittner's activism in politics and his work with the Albany Chapter of the Democratic Socialists of America, the United University Professions Solidarity Committee, and various other organizations in the Capital Region.</abstract>
+      <langmaterial id="aspace_6f20ea1bd22ad00339e3c9ad573d74c9">English</langmaterial>
+      <physloc id="aspace_13ebef74514d59313ecd1a7d587b53a9">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_b36b1182e78850dfe4ce6f2d589a4b43">
+      <head>Processing Information</head>
+      <p>Processed in 2000 by Rosann Santos.</p>
+    </processinfo>
+    <accessrestrict id="aspace_49b3c66b3449e06ad6e9bf35aaeb24c9">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_e0413a06a6fc5f342dfe93d110b629cf">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_5109a7cb20c4be84b9f24f4a86097593">
       <head>Acquisition Information</head>
-      <p>Dr. Lawrence Wittner donated all of the materials in this collection to the M.E. Grenander
-        Department of Special Collections and Archives in 2000 and 2011.</p>
+      <p>Dr. Lawrence Wittner donated all of the materials in this collection to the M.E. Grenander Department of Special Collections and Archives in 2000 and 2011.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_0619b71ef23281e704a1704c8218b2b8">
       <head>Biographical Sketch</head>
-      <p>Dr. Lawrence S. Wittner joined the History Department at the University at Albany in 1974
-        and currently is Professor Emeritus. During the past forty years he has held various
-        positions on the boards of the Democratic Socialists of America (DSA) and United University
-        Professions (UUP) Solidarity Committee. In 1980 he became a member of the UUP Executive
-        Committee and served as Vice-President of Academics for the Albany Chapter from 1983-87 and
-        chair from 1986-87. Dr. Wittner was one of the founders of the Albany DSA and since then has
-        held several leadership positions in the group. From 1981-84 he was Secretary of the Albany
-        Chapter DSOC/DSA, serving as a DSA National Board Delegate in 1983. While fully active in
-        both these organizations, Dr. Wittner also co-chaired the Capital District Labor-Religion
-        Coalition from 1982-84. </p>
-      <p>The Democratic Socialist Organizing Committee (DSOC) was established in Albany in December
-        1980 under the auspices of Dr. Wittner and others. The DSOC is a national political
-        organization dedicated to the creation of a democratic socialist society. The national
-        organization was founded in the mid-1970s. The Albany chapter was founded "to begin to
-        advance democratic socialist solutions to national and local problems." In January 1982,
-        DSOC formally merged with the New American Movement (NAM) and formed the Democratic
-        Socialists of America in April 1982.</p>
-      <p>The UUP Solidarity Committee supported local labor activities throughout the 1980s. The
-        collection documents Dr. Wittner's participation in these activities in addition to his
-        activism in local political campaigns, including the 1984 and 1986 Ed Bloch campaigns, the
-        1989 and 1993 Leon Van Dyke campaigns, and the national 1988 Michael Dukakis campaign for
-        President of the United States. </p>
-      <p>Dr. Wittner received his A.B. from Columbia College, his M.A. in History from the University
-        of Wisconsin and his Ph.D. in History from Columbia University. He has published numerous
-        books, articles, reviews and other scholarly works and is a recipient of many academic
-        grants and awards.</p>
+      <p>Dr. Lawrence S. Wittner joined the History Department at the University at Albany in 1974 and currently is Professor Emeritus. During the past forty years he has held various positions on the boards of the Democratic Socialists of America (DSA) and United University Professions (UUP) Solidarity Committee. In 1980 he became a member of the UUP Executive Committee and served as Vice-President of Academics for the Albany Chapter from 1983-87 and chair from 1986-87. Dr. Wittner was one of the founders of the Albany DSA and since then has held several leadership positions in the group. From 1981-84 he was Secretary of the Albany Chapter DSOC/DSA, serving as a DSA National Board Delegate in 1983. While fully active in both these organizations, Dr. Wittner also co-chaired the Capital District Labor-Religion Coalition from 1982-84. </p>
+      <p> The Democratic Socialist Organizing Committee (DSOC) was established in Albany in December 1980 under the auspices of Dr. Wittner and others. The DSOC is a national political organization dedicated to the creation of a democratic socialist society. The national organization was founded in the mid-1970s. The Albany chapter was founded "to begin to advance democratic socialist solutions to national and local problems." In January 1982, DSOC formally merged with the New American Movement (NAM) and formed the Democratic Socialists of America in April 1982.</p>
+      <p> The UUP Solidarity Committee supported local labor activities throughout the 1980s. The collection documents Dr. Wittner's participation in these activities in addition to his activism in local political campaigns, including the 1984 and 1986 Ed Bloch campaigns, the 1989 and 1993 Leon Van Dyke campaigns, and the national 1988 Michael Dukakis campaign for President of the United States. </p>
+      <p> Dr. Wittner received his A.B. from Columbia College, his M.A. in History from the University of Wisconsin and his Ph.D. in History from Columbia University. He has published numerous books, articles, reviews and other scholarly works and is a recipient of many academic grants and awards.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The Lawrence S. Wittner Papers consist of materials pertaining to Dr. Wittner's many years
-        of political activism within the Capital Region as well as nationally and internationally.
-        Folders in Series 2 and 3 contain many different political issues or events led or attended
-        by Dr. Wittner. Series 1 consists of a large amount of correspondence, agendas, and flyers
-        for Democratic Socialist Organizing Committee (DSOC) and Democratic Socialists of America
-        (DSA).</p>
+    <scopecontent id="aspace_e73efb3494eb9ae65ddc61c267cc82d5">
+      <head>Scope and Contents</head>
+      <p>The Lawrence S. Wittner Papers consist of materials pertaining to Dr. Wittner's many years of political activism within the Capital Region as well as nationally and internationally. Folders in Series 2 and 3 contain many different political issues or events led or attended by Dr. Wittner. Series 1 consists of a large amount of correspondence, agendas, and flyers for Democratic Socialist Organizing Committee (DSOC) and Democratic Socialists of America (DSA).</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_845f2db65c4fbce31d238f97ee57ec7f">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series:</p>
-      <list type="simple">
-        <item>Series 1 - Democratic Socialist of America/Democratic Socialist Organizing Committee
-          (DSA/SOC), 1980-1987, Undated</item>
-        <item>Series 2 - United University Professions (UUP) Solidarity Committee, 1986-2001,
-          Undated</item>
-        <item>Series 3 - Other Activism, 1977-2007</item>
-        <!--<item>Series 4 - Photographs, 1980-1985</item>-->
-      </list>
       <p>Series 1 is arranged chronologically while Series 2 and 3 are arranged alphabetically.</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-           Try to give as many access points as you can to increase the chances of 
-           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-           to comment them out! -->
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Social Activists and Public Advocates</subject>
-      <subject source="meg" encodinganalog="650">Labor</subject>
-      <subject source="meg" encodinganalog="650">Albany, New York</subject>
-      <persname encodinganalog="600" source="lcsh">Wittner, Lawrence S.</persname>
-      <corpname encodinganalog="610" source="lcsh">University at Albany, State University of New
-        York</corpname>
-      <corpname encodinganalog="610" source="lcsh">United University Professions (Association :
-        N.Y.)</corpname>
-      <corpname encodinganalog="610" source="lcsh">Democratic Socialists of America</corpname>
-      <corpname encodinganalog="610" source="lcsh">Democratic Socialist Organizing Committee
-        (U.S.)</corpname>
-      <subject encodinganalog="650" source="lcsh">Political activists--United States</subject>
-      <subject encodinganalog="650" source="lcsh">Labor unions--United States</subject>
-      <geogname encodinganalog="651" source="lcsh">New York (State)--Politics and
-        government</geogname>
-      <genreform encodinganalog="655" source="aat">Articles</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Memorandums</genreform>
-    </controlaccess>
-    <prefercite encodinganalog="524">
+    <prefercite id="aspace_c279b18863e3ff47191c02eb3b92b17e">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, The Lawrence S. Wittner Papers,
-        1977-2007. M.E. Grenander Department of Special Collections and Archives, University
-        Libraries, University at Albany, State University of New York (hereafter referred to as the
-        Wittner Papers).</p>
+      <p> Identification of specific item, series, box, folder, The Lawrence S. Wittner Papers, 1977-2007. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Wittner Papers).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <!-- Start series 1-->
-      <c01 level="series" id="nam_apap100-1">
+    <controlaccess>
+      <subject source="meg">Social Activists and Public Advocates</subject>
+      <subject source="meg">Labor</subject>
+      <subject source="meg">Albany, New York</subject>
+      <subject source="lcsh">Political activists--United States</subject>
+      <subject source="lcsh">Labor unions--United States</subject>
+      <geogname source="lcsh">New York (State)--Politics and government</geogname>
+      <genreform source="aat">Articles</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Memorandums</genreform>
+      <persname source="lcsh">Wittner, Lawrence S.</persname>
+      <corpname source="lcsh">University at Albany, State University of New York</corpname>
+      <corpname source="lcsh">United University Professions (Association : N.Y.)</corpname>
+      <corpname source="lcsh">Democratic Socialists of America</corpname>
+      <corpname source="lcsh">Democratic Socialist Organizing Committee (U.S.)</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_67f80aea0c0f6016872a9ed4172abece" level="series">
         <did>
+          <unittitle>Democratic Socialist of America/Democratic Socialist Organizing Committee (DSA/SOC)</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Democratic Socialist of America/Democratic Socialist Organizing
-            Committee (DSA/SOC)</unittitle>
-          <unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
-          <unitdate type="inclusive" normal="1977/2007">Undated</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">1.16</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.16 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1980/1987" type="inclusive">1980-1987</unitdate>
+          <unitdate normal="1977/2007" type="inclusive">Undated</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_ee601497d9e2c0bf44a76a1435f37545">
+          <head>Arrangement</head>
           <p>Arranged chronologically.</p>
         </arrangement>
-        <scopecontent>
-          <p>The series includes meeting minutes, agendas, financial statements, flyers and
-            correspondence referring to various projects in the Capital District. There are also
-            some DSA subject files. In addition, the series includes issues of <emph render="italic">The Albany Anvil</emph>, the monthly newsletter of the organization. The newsletter
-            was a project of the Social Justice Center that started almost immediately after the
-            group formed in 1981. May 1981 to May 1996, December 1996 and May-June 1987 are
-            available. </p>
+        <scopecontent id="aspace_3751831f7f580d2e2a6f51a679dade0c">
+          <head>Scope and Contents</head>
+          <p>The series includes meeting minutes, agendas, financial statements, flyers and correspondence referring to various projects in the Capital District. There are also some DSA subject files. In addition, the series includes issues of <emph render="italic">The Albany Anvil</emph>, the monthly newsletter of the organization. The newsletter was a project of the Social Justice Center that started almost immediately after the group formed in 1981. May 1981 to May 1996, December 1996 and May-June 1987 are available.</p>
         </scopecontent>
-        <c02 id="nam_apap100-1_1">
+        <c02 id="aspace_aaec7f31ab82833a166420382dd7dcbe" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Miscellaneous Leaflets and Articles</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978/1981">1978-1981</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/2007">Undated</unitdate>
+            <unitdate normal="1978/1981" type="inclusive">1978-1981</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <unitdate normal="1977/2007" type="inclusive">Undated</unitdate>
+            <container id="aspace_b2d0bd05032905687eb258ded7eecf9a" label="Mixed Materials" type="Box">1 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_44a36ba948bc4885f3760cf4ed267327" parent="aspace_b2d0bd05032905687eb258ded7eecf9a" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_2">
+        <c02 id="aspace_cbbee281ab383de0da9188beaae88b64" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>DSOC Correspondence, Notes, and Flyers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980-12/1981-06">1980 December-1981 June</unitdate>
+            <unitdate normal="1980-12/1981-06" type="inclusive">1980 December-1981 June</unitdate>
+            <container id="aspace_94c9e6011ccd4dae13079b5d5648358d" label="Mixed Materials" type="Box">1 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_6f750d5674cc6720b189bc20aa13186e" parent="aspace_94c9e6011ccd4dae13079b5d5648358d" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_3">
+        <c02 id="aspace_7428d7aa43f67b403b05bfe36abf9f31" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>DSA Constitution, By-Laws, Governance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1983">1980-1983</unitdate>
+            <unitdate normal="1980/1983" type="inclusive">1980-1983</unitdate>
+            <container id="aspace_55618b7935119a599853bd18fef2369d" label="Mixed Materials" type="Box">1 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_3c0145afc0ae0b70a472e528869006d5" parent="aspace_55618b7935119a599853bd18fef2369d" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_4">
+        <c02 id="aspace_989b09da2c14144f1410aa01be8145d0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>
               <emph render="italic">The Albany Anvil</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981-05/1983-12">1981 May-1983 December</unitdate>
+            <unitdate normal="1981-05/1983-12" type="inclusive">1981 May-1983 December</unitdate>
+            <container id="aspace_b248162c2f03fabc76b6967cd97830c8" label="Mixed Materials" type="Box">1 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_7640db74e187d2bdb9b0ec18f98a9a97" parent="aspace_b248162c2f03fabc76b6967cd97830c8" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_5">
+        <c02 id="aspace_791fdd7ba6b88410fa9d03ef201d9497" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>DSOC Agendas, Correspondence, Notes, and Flyers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981-06/1981-12">1981 June-1981 December</unitdate>
+            <unitdate normal="1981-06/1981-12" type="inclusive">1981 June-1981 December</unitdate>
+            <container id="aspace_08297837326249b799a6c6f2f40a0432" label="Mixed Materials" type="Box">1 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_2c2c499cc7845d9d698f82cc1e9ecf7c" parent="aspace_08297837326249b799a6c6f2f40a0432" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_6">
+        <c02 id="aspace_1377088adb8235ccee85f28c2cdd242f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle><emph render="italic">In These Times</emph> Promotion</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1983">1981-1983</unitdate>
+            <unitdate normal="1981/1983" type="inclusive">1981-1983</unitdate>
+            <container id="aspace_98bd80ce45eedabef75fb34e8a8a616b" label="Mixed Materials" type="Box">1 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_b59d080eaa8d9a7c7a7c0a4acd1832d2" parent="aspace_98bd80ce45eedabef75fb34e8a8a616b" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_7">
+        <c02 id="aspace_de82283a61788b84c892a510ba986bc1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>DSA National Board</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1983">1981-1983</unitdate>
+            <unitdate normal="1981/1983" type="inclusive">1981-1983</unitdate>
+            <container id="aspace_da7b389ca1439abbf090bd522376ba26" label="Mixed Materials" type="Box">1 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_13cfce5740767ea1496f765f522976dd" parent="aspace_da7b389ca1439abbf090bd522376ba26" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_8">
+        <c02 id="aspace_633d9c72b88ecdb2e0ff2049a72d7bd7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>DSOC/DSA Agendas, Correspondence, Notes, and Flyers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982-01/1982-05">1982 January-1982 May</unitdate>
+            <unitdate normal="1982-01/1982-05" type="inclusive">1982 January-1982 May</unitdate>
+            <container id="aspace_d2fbb8cb2c9eb97448b577348c797f23" label="Mixed Materials" type="Box">1 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_e301c33460eb8d3ffc9dc53d51888327" parent="aspace_d2fbb8cb2c9eb97448b577348c797f23" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_9">
+        <c02 id="aspace_2765ef9c02171e019b11e87ffb33a2d6" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>DSA Agendas, Correspondence, News Releases Notes, and Flyers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982-06/1982-08">1982 June-1982 August</unitdate>
+            <unitdate normal="1982-06/1982-08" type="inclusive">1982 June-1982 August</unitdate>
+            <container id="aspace_f834790d7369448afb71cc1382765b73" label="Mixed Materials" type="Box">2 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_552dbf8043a63859be76d9e6e8227b53" parent="aspace_f834790d7369448afb71cc1382765b73" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_10">
+        <c02 id="aspace_c09a91f8cd4047034d6f973dcd82e624" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>DSA Agendas, Correspondence, News Releases Notes, and Flyers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982-09/1982-12">1982 September-1982 December</unitdate>
+            <unitdate normal="1982-09/1982-12" type="inclusive">1982 September-1982 December</unitdate>
+            <container id="aspace_c7f0b07198f52ce566161fb81588bbbe" label="Mixed Materials" type="Box">2 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_14665823d85256fd754c874ba3b6a3f3" parent="aspace_c7f0b07198f52ce566161fb81588bbbe" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_11">
+        <c02 id="aspace_0d36d4330a39d2bb453126dfa71d9055" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Michael Harrington Visit</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_c1324072d8784a5d700366c1bd6675f9" label="Mixed Materials" type="Box">2 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_51e3ec25901ab61c84965d3553b5a2d2" parent="aspace_c1324072d8784a5d700366c1bd6675f9" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_12">
+        <c02 id="aspace_91a83f9e629c92788cde25ab1eff3849" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Mohasco Demonstration</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_c1898733ae01c2bed0339f1146e29710" label="Mixed Materials" type="Box">2 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_f3ba76dc1c69da175430e64fbfba8c5b" parent="aspace_c1898733ae01c2bed0339f1146e29710" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_13">
+        <c02 id="aspace_87752b1f12ff47b5e9ebd557bb67be23" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>John Dow Campaign</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_39ccab83c655e69c4b23bf24b3146e98" label="Mixed Materials" type="Box">2 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_76e0a63fc25a496fcbeb41776bd6f29f" parent="aspace_39ccab83c655e69c4b23bf24b3146e98" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_14">
+        <c02 id="aspace_f6f5fb62fec78cb8a7e691e7829abc8b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>Debs Dinner, Invitations and Programs</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982/1985">1982-1985</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
+            <unitdate normal="1982/1985" type="inclusive">1982-1985</unitdate>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_b4847551aa50a172e665f8c0d4086783" label="Mixed Materials" type="Box">2 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_710d30688070bd2c565e3fb195d29b9c" parent="aspace_b4847551aa50a172e665f8c0d4086783" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_15">
+        <c02 id="aspace_a4a71686a2625276d15acf93542d08fb" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
             <unittitle>DSA Mailing Lists</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982/1986">1982-1986</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/2007">Undated</unitdate>
+            <unitdate normal="1982/1986" type="inclusive">1982-1986</unitdate>
+            <unitdate normal="1977/2007" type="inclusive">Undated</unitdate>
+            <container id="aspace_dc3fa7aac35d8016c9debdf183862631" label="Mixed Materials" type="Box">2 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_d024f3101e6ea076ef7739d20e3344db" parent="aspace_dc3fa7aac35d8016c9debdf183862631" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_16">
+        <c02 id="aspace_ea14f3d5c4432d64c279760530bb1e7b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
             <unittitle>DSA Agendas, Correspondence, News Releases Notes, and Flyers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983-01/1983-05">1983 January-1983 May</unitdate>
+            <unitdate normal="1983-01/1983-05" type="inclusive">1983 January-1983 May</unitdate>
+            <container id="aspace_8b02102bcf9de31c99e04b1ddb183e0b" label="Mixed Materials" type="Box">2 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_e0723e8e5a8bce342f8fdf7a244be964" parent="aspace_8b02102bcf9de31c99e04b1ddb183e0b" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_17">
+        <c02 id="aspace_e01e15ec4779cf165904304fb098be02" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
             <unittitle>DSA Agendas, Correspondence, News Releases, Notes, and Flyers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983-06/1983-12">1983 June-1983 December</unitdate>
+            <unitdate normal="1983-06/1983-12" type="inclusive">1983 June-1983 December</unitdate>
+            <container id="aspace_42094249144f07e8c83cb53304ec5bbe" label="Mixed Materials" type="Box">2 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_7b8be4c9e4fef11865144bfaa5ca8086" parent="aspace_42094249144f07e8c83cb53304ec5bbe" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_18">
+        <c02 id="aspace_006ad24099b85933bb4d305e53c4b13b" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>Gregg Bell Campaign</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_1a40021a6429bfd95ad24ba1c7709c27" label="Mixed Materials" type="Box">3 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_1ff8a9440d93b9356e4f04405aa031e0" parent="aspace_1a40021a6429bfd95ad24ba1c7709c27" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_19">
+        <c02 id="aspace_7b0ccb102a67bc8482a034dea4e8943c" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>DSA National Convention</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_6d6dd2d49a530435b390891d510db8d7" label="Mixed Materials" type="Box">3 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_2bd6506275816f167902709b0ce49179" parent="aspace_6d6dd2d49a530435b390891d510db8d7" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_20">
+        <c02 id="aspace_b913c1dff20631809f9f9e6ecbd04823" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">3</container>
             <unittitle>New York State DSA</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1987">1983-1987</unitdate>
+            <unitdate normal="1983/1987" type="inclusive">1983-1987</unitdate>
+            <container id="aspace_2f41099803ddf011ed9f9769159333a9" label="Mixed Materials" type="Box">3 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_416b1231d00c9e23ea8dca6f09e23b13" parent="aspace_2f41099803ddf011ed9f9769159333a9" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_21">
+        <c02 id="aspace_93bcd225c43574f868ee30526fa425a5" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4</container>
             <unittitle>DSA Agendas, Correspondence, Notes, and Flyers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984-01/1984-06">1984 January-1984 June</unitdate>
+            <unitdate normal="1984-01/1984-06" type="inclusive">1984 January-1984 June</unitdate>
+            <container id="aspace_66da37d2ec0db1e3e12928054845d399" label="Mixed Materials" type="Box">3 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_8781882db6eab07868b1e5a7d8290424" parent="aspace_66da37d2ec0db1e3e12928054845d399" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_22">
+        <c02 id="aspace_267e31cb4629d869830b014f9fe7d657" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">5</container>
             <unittitle>DSA Agendas, Correspondence, Notes, and Flyers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984-07/1984-12">1984 July-1984 December</unitdate>
+            <unitdate normal="1984-07/1984-12" type="inclusive">1984 July-1984 December</unitdate>
+            <container id="aspace_4dd775f7de379c1327917404d117e2c5" label="Mixed Materials" type="Box">3 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_3169b133c8e6811f7f5c924140ce0e54" parent="aspace_4dd775f7de379c1327917404d117e2c5" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_23">
+        <c02 id="aspace_53031f029884adf606dff26441e5fad6" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">6</container>
             <unittitle>Barbara Ehrenreich Visit</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_f8981dc4c7c079b37cbdd50f55590cb5" label="Mixed Materials" type="Box">3 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_c547d3ee3518568669c924aba9eb10d6" parent="aspace_f8981dc4c7c079b37cbdd50f55590cb5" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_24">
+        <c02 id="aspace_584cb2f41dbb85f3ec8c0f067e3ebdc4" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">7</container>
             <unittitle>Ads in<emph render="italic">Democratic Left</emph></unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_968f411dd72dde0836d461dff92f73d0" label="Mixed Materials" type="Box">3 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_fbe626e374cc9a0c7428ee14f281c98c" parent="aspace_968f411dd72dde0836d461dff92f73d0" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_25">
+        <c02 id="aspace_fdb4e74e2c30b18fbc48d35b0440a2dc" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">8</container>
             <unittitle>
               <emph render="italic">The Albany Anvil</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984-01/1986-12">1984 January-1986 December</unitdate>
+            <unitdate normal="1984-01/1986-12" type="inclusive">1984 January-1986 December</unitdate>
+            <container id="aspace_cb9905a37f3b5f1a1390f2e1c5cd6d69" label="Mixed Materials" type="Box">3 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_734571d3deb10514bc869c7407ffc77b" parent="aspace_cb9905a37f3b5f1a1390f2e1c5cd6d69" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_26">
+        <c02 id="aspace_e803fb17ad2b7890808e2f4e2344edd3" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">9</container>
             <unittitle>Democratic Committee Races</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_c196838951aee8a60c2087f3e464a0cc" label="Mixed Materials" type="Box">3 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_9a73ddec8b69275166cc3e189343e7f7" parent="aspace_c196838951aee8a60c2087f3e464a0cc" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_27">
+        <c02 id="aspace_b4798245bfcf1743029bb48bd3ddf9af" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">10</container>
             <unittitle>DSA Agendas, Correspondence, Notes, and Flyers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985-01/1985-06">1985 January-1985 June</unitdate>
+            <unitdate normal="1985-01/1985-06" type="inclusive">1985 January-1985 June</unitdate>
+            <container id="aspace_882f181741e65e1169b1699e9c8a789d" label="Mixed Materials" type="Box">3 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_8dfa7ade685de95b9124670dc417e131" parent="aspace_882f181741e65e1169b1699e9c8a789d" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_28">
+        <c02 id="aspace_a113dc985d64b8f1901bd7b0823482d5" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">1</container>
             <unittitle>DSA Agendas, Correspondence, Notes, and Flyers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985-07/1985-12">1985 July-1985 December</unitdate>
+            <unitdate normal="1985-07/1985-12" type="inclusive">1985 July-1985 December</unitdate>
+            <container id="aspace_8df3812d49e9adaef0736b385644d489" label="Mixed Materials" type="Box">4 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_401a38eca039e614957b271cf7ae2116" parent="aspace_8df3812d49e9adaef0736b385644d489" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_29">
+        <c02 id="aspace_2f95a3f0543e0284e3baeb046be38d01" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">2</container>
             <unittitle>Nancy Burton Campaign</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_c162f3072269e1548dbe8fc67ce39883" label="Mixed Materials" type="Box">4 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_e942251ba4c200361933ff4a29db2447" parent="aspace_c162f3072269e1548dbe8fc67ce39883" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_30">
+        <c02 id="aspace_322fcf3084c4addfe404000d616333d4" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">3</container>
             <unittitle>Jeremy Karapatkin Visit, Student DSA</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_12a7ca32dec7ee777536d6914ccc1c9c" label="Mixed Materials" type="Box">4 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_0a5f8eb0b1510efc0f4d8c1207d09d3a" parent="aspace_12a7ca32dec7ee777536d6914ccc1c9c" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_31">
+        <c02 id="aspace_f9da56d927a1a99176f33a2974be1155" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">4</container>
             <unittitle>DSA Agendas, Correspondence, Notes, and Flyers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986-01/1986-10">1986 January-1986 October</unitdate>
+            <unitdate normal="1986-01/1986-10" type="inclusive">1986 January-1986 October</unitdate>
+            <container id="aspace_02098753932c42300e2f5e9a38c07463" label="Mixed Materials" type="Box">4 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_4d5ce0938e909e84d1c4285b3a861f65" parent="aspace_02098753932c42300e2f5e9a38c07463" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_32">
+        <c02 id="aspace_bfd4319ff38cd76661cf98271ad685db" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">5</container>
             <unittitle>Democratic Alternatives Conference</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_0b7fa40d0146e900e84b4a29bc564ec0" label="Mixed Materials" type="Box">4 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_03aef18ef55931ff0eefbd7e1e6a0d55" parent="aspace_0b7fa40d0146e900e84b4a29bc564ec0" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-1_33">
+        <c02 id="aspace_60518a9dc0d6246a48cc16147f6496b3" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">6</container>
             <unittitle>Membership Survey</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/2007">Undated</unitdate>
+            <unitdate normal="1977/2007" type="inclusive">Undated</unitdate>
+            <container id="aspace_d51b03108b256bee97c3045fc19f4790" label="Mixed Materials" type="Box">4 (1-Democratic Socialist of America/Democratic Sociali)</container>
+            <container id="aspace_886082f66e619901145385a10193b352" parent="aspace_d51b03108b256bee97c3045fc19f4790" type="Folder">6</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap100-2">
+      <c01 id="aspace_110a7cf1b65d81227a9ac16f03b644ab" level="series">
         <did>
+          <unittitle>United University Professions (UUP) Solidarity Committee</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">United University Professions (UUP) Solidarity Committee</unittitle>
-          <unitdate type="inclusive" normal="1986/2001">1986-2001</unitdate>
-          <unitdate type="inclusive" normal="1977/2007">Undated</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.80</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.80 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1986/2001" type="inclusive">1986-2001</unitdate>
+          <unitdate normal="1977/2007" type="inclusive">Undated</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_26a3ce8a5ccabe0bf4c60dc5f5d3cf82">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
-          <p>This series consists of administrative documents and paperwork such as agendas,
-            minutes, correspondence and financial statements for the UUP's Solidarity Committee. It
-            also consists of correspondence, clippings and general information about various issues
-            being tackled by the group. The subject files include: Amalgamated Clothing and Textile
-            Workers' Union, Brooklyn Union Gas Lockout, Cargill Salt Miners' Strike, Coors Boycott,
-            CWA, Grape Boycott, Independent Federation of Flight Attendants, Labor Councils and
-            other AFL-CIO Affiliations, Mexican Workers, National Association of Broadcast Employees
-            and Technicians, New Labor Struggles, NYS Labor-Religion Coalition, NYS Nurses'
-            Association, Nicaragua Labor Support, Onondaga Community College Federation of Teachers,
-            Portec Strike, Publicity for Manny Fields' plays, Social Agenda, Solidarnosc, South
-            Africa Fund, South Africa Labor Support, Support for Overseas Unions, Tugboat and Barge
-            Workers, United Paperworkers International Union, and the Zinc Miners' Strike. </p>
+        <scopecontent id="aspace_b985d5d9515a784c3aa16a1d5e62fa30">
+          <head>Scope and Contents</head>
+          <p>This series consists of administrative documents and paperwork such as agendas, minutes, correspondence and financial statements for the UUP's Solidarity Committee. It also consists of correspondence, clippings and general information about various issues being tackled by the group. The subject files include: Amalgamated Clothing and Textile Workers' Union, Brooklyn Union Gas Lockout, Cargill Salt Miners' Strike, Coors Boycott, CWA, Grape Boycott, Independent Federation of Flight Attendants, Labor Councils and other AFL-CIO Affiliations, Mexican Workers, National Association of Broadcast Employees and Technicians, New Labor Struggles, NYS Labor-Religion Coalition, NYS Nurses' Association, Nicaragua Labor Support, Onondaga Community College Federation of Teachers, Portec Strike, Publicity for Manny Fields' plays, Social Agenda, Solidarnosc, South Africa Fund, South Africa Labor Support, Support for Overseas Unions, Tugboat and Barge Workers, United Paperworkers International Union, and the Zinc Miners' Strike.</p>
         </scopecontent>
-        <c02 id="nam_apap100-2_1">
+        <c02 id="aspace_d1fb0ab42d0ca391b9846517d72bdc39" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
-            <unittitle>Amalgamated Clothing and Textile Workers Union (ACTWU) Local 1712, Strike in
-              Gloversville</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1988">1987-1988</unitdate>
+            <unittitle>Amalgamated Clothing and Textile Workers Union (ACTWU) Local 1712, Strike in Gloversville</unittitle>
+            <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <container id="aspace_39366eb4d309fc0e813d2744d55bcf5b" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_5c8cbfb4b22255cab063ba1e9c2fa128" parent="aspace_39366eb4d309fc0e813d2744d55bcf5b" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_2">
+        <c02 id="aspace_430c5c2ea16a815e9794c895e68c4de2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
-            <unittitle>Amalgamated Clothing and Textile Workers Union (ACTWU) Local 791, Strike in
-              Hudson</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
+            <unittitle>Amalgamated Clothing and Textile Workers Union (ACTWU) Local 791, Strike in Hudson</unittitle>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_7e016f3a4b8788cf2fd56c78c688b422" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_42af4b01106064915d40ee37ea7a3d88" parent="aspace_7e016f3a4b8788cf2fd56c78c688b422" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_3">
+        <c02 id="aspace_aee8a105fc0b55a17b7b22b24f5cd308" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Brooklyn Union Gas Lockout, Transportation Workers Union (TWU)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_dbbacca9d03e22979cd86465f340d3ae" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_8b8666608db7fb1dd200a88890bd176a" parent="aspace_dbbacca9d03e22979cd86465f340d3ae" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_4">
+        <c02 id="aspace_25a40ab728eefa4306e9a8475aedbff7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Campaign for a Living Wage, Albany County</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995/1998">1995-1998</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/2007">Undated</unitdate>
+            <unitdate normal="1995/1998" type="inclusive">1995-1998</unitdate>
+            <unitdate normal="1977/2007" type="inclusive">Undated</unitdate>
+            <container id="aspace_57d513217034ad5b9fee035ef8d6eb9e" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_331264ffb5065f68bc036de8d69fd619" parent="aspace_57d513217034ad5b9fee035ef8d6eb9e" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_5">
+        <c02 id="aspace_ef72cdf22f52c0d1a6adaa735c8f0e91" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
-            <unittitle>Cargill Salt Miners' Strike, International Association of Machinists (IAM) in
-              Lansing, MI</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986/1987">1986-1987</unitdate>
+            <unittitle>Cargill Salt Miners' Strike, International Association of Machinists (IAM) in Lansing, MI</unittitle>
+            <unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate>
+            <container id="aspace_0685575a1ed386d4cbb032c2d182cb2b" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_4a898c3592e169c44891e78e7f60acaf" parent="aspace_0685575a1ed386d4cbb032c2d182cb2b" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_6">
+        <c02 id="aspace_d041b7720e6d9389bc438bc04f97771e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Communication Workers of America (CWA) Local 1168, Buffalo</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_ce8f4f04300b81cae0866461aae5a423" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_cb46d1c95fdeab7cdf150a4fa644f669" parent="aspace_ce8f4f04300b81cae0866461aae5a423" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_7">
+        <c02 id="aspace_b26a587880b934a384fb850f73a83082" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Coors Boycott</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_2a45eebddec3a0ead4eb14665515d615" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_80fc009daa33cc27b85654f658896589" parent="aspace_2a45eebddec3a0ead4eb14665515d615" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_8">
+        <c02 id="aspace_31df3fcde4f1bb3dd0d71745abe22cc3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Grape Boycott, United Farm Workers (UFW)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1988">1987-1988</unitdate>
+            <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <container id="aspace_e6714f8df84f928d765bb4e57f19be99" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_f0d64c5d6bb92163f5aa71509043036a" parent="aspace_e6714f8df84f928d765bb4e57f19be99" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_9">
+        <c02 id="aspace_587e8a9624c470926eec1d4f948eef18" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Independent Federation of Flight Attendants</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_7bd30aafb64a60b309d1879804f2f51a" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_fa1f04c2ad81f8bf4cfa66549632dcd7" parent="aspace_7bd30aafb64a60b309d1879804f2f51a" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_10">
+        <c02 id="aspace_c638cc4e784aa5014b523946beaae263" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Labor Committee for Peace and Justice in South America</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_12df7c33624c0ab84adfd9ac88095460" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_9c6f23f7d4c078e76d3fa9034f6aee55" parent="aspace_12df7c33624c0ab84adfd9ac88095460" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_11">
+        <c02 id="aspace_b93a9c788f8df13a07506f73e6695ff9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Labor Councils and other AFL-CIO Affiliations</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_c73eaa5667a93ecc1d04922b0d4e7489" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_83ac53f7b426b7c33c88629a6604f337" parent="aspace_c73eaa5667a93ecc1d04922b0d4e7489" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_12">
+        <c02 id="aspace_add0c7162c599a2501db30866006d0c2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Mexican Unions</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995">1995</unitdate>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_ca435a40c0f2debf4b34372c4cf66f11" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_14d6f9264a6a161456403bdf9a70c440" parent="aspace_ca435a40c0f2debf4b34372c4cf66f11" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_13">
+        <c02 id="aspace_7c921d9a123ada4e878100128ba096f7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Minutes, Agendas, Correspondence, Financial Records</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986/1987">1986-1987</unitdate>
+            <unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate>
+            <container id="aspace_fbb1d776a16cb2f0e42bd2a2e18bbfd4" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_f4e16b123414beb46080f9ca85b448cb" parent="aspace_fbb1d776a16cb2f0e42bd2a2e18bbfd4" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_14">
+        <c02 id="aspace_fd9612a3594fcfcdd9e4bbe0f772114a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14-15</container>
             <unittitle>Minutes, Agendas, Correspondence, Financial Records</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1988">1987-1988</unitdate>
+            <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <container id="aspace_6def15692255520f569a0d6bb32c7935" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_8beb8910bd60b4708d25f17119e7d9a8" parent="aspace_6def15692255520f569a0d6bb32c7935" type="Folder">14-15</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_15">
+        <c02 id="aspace_0d83a91487e84ccfa0fb248f38f9f7a4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Minutes, Agendas, Correspondence, Financial Records</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1989">1988-1989</unitdate>
+            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container id="aspace_10220f6eb41448f418da276e3a8dffda" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_7a480298b47c26554a0de7313d235e6a" parent="aspace_10220f6eb41448f418da276e3a8dffda" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_16">
+        <c02 id="aspace_9b443ed1635f6f52a9e83a9ff03055ce" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>Minutes, Agendas, Correspondence, Financial Records</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1991">1989-1991</unitdate>
+            <unitdate normal="1989/1991" type="inclusive">1989-1991</unitdate>
+            <container id="aspace_6d467559317d5c71cd23a628e7a85ddc" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_a88dfafe99692f5f49603aa8e00c96a0" parent="aspace_6d467559317d5c71cd23a628e7a85ddc" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_17">
+        <c02 id="aspace_fd4544bd990ecc12e6760c73877f6d7c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>Minutes, Agendas, Correspondence, Financial Records</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991/1992">1991-1992</unitdate>
+            <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
+            <container id="aspace_7d287e819919dfccb537b98d44498bc7" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_fd73a3f2fb771c50dd9f8d2e5d6e414f" parent="aspace_7d287e819919dfccb537b98d44498bc7" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_18">
+        <c02 id="aspace_33e14da80ed0f0b0765e3b9b922fcfef" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>Minutes, Agendas, Correspondence, Financial Records</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992/1993">1992-1993</unitdate>
+            <unitdate normal="1992/1993" type="inclusive">1992-1993</unitdate>
+            <container id="aspace_02d598ca89e07b30c2ab6bd2323ae321" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_480daaa7a6eacc379e92a498c294a541" parent="aspace_02d598ca89e07b30c2ab6bd2323ae321" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_19">
+        <c02 id="aspace_42a047bdbafa6b2c33df967b46ff846f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>Minutes, Agendas, Correspondence, Financial Records</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994/1995">1994-1995</unitdate>
+            <unitdate normal="1994/1995" type="inclusive">1994-1995</unitdate>
+            <container id="aspace_ef9d824a2b4f1034a667bbbba1a0c5f2" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_f8e954fa375569a11a2cf941b4b8312a" parent="aspace_ef9d824a2b4f1034a667bbbba1a0c5f2" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_20">
+        <c02 id="aspace_82b3e42f26bdd6eb7fb64f38cfff97fa" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>Minutes, Agendas, Correspondence, Financial Records</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995/1996">1995-1996</unitdate>
+            <unitdate normal="1995/1996" type="inclusive">1995-1996</unitdate>
+            <container id="aspace_1ba6df895ee415c49320f37f77eece9c" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_e85f9fb7baf3db4b92549a459e68d7e3" parent="aspace_1ba6df895ee415c49320f37f77eece9c" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_21">
+        <c02 id="aspace_fe7acafcfa92ef250ca82350d80edc1d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>Minutes, Agendas, Correspondence, Financial Records</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996/1997">1996-1997</unitdate>
+            <unitdate normal="1996/1997" type="inclusive">1996-1997</unitdate>
+            <container id="aspace_148a7c979eae0cbcfdb533585b559789" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_e37fb5b5826464de51d8a3842ffe3eb5" parent="aspace_148a7c979eae0cbcfdb533585b559789" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_22">
+        <c02 id="aspace_4b5c23e5bbc94ba79b379caa346470fd" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23</container>
             <unittitle>Minutes, Agendas, Correspondence, Financial Records</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997/1998">1997-1998</unitdate>
+            <unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate>
+            <container id="aspace_3ee25eaae2ba1dfe242e29ef9c97ec2b" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_da8c2dbad6042037221895b457733b0a" parent="aspace_3ee25eaae2ba1dfe242e29ef9c97ec2b" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_23">
+        <c02 id="aspace_c3589039ac1650ecc4f05a8857168e69" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">24</container>
             <unittitle>Minutes, Agendas, Correspondence, Financial Records</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998/1999">1998-1999</unitdate>
+            <unitdate normal="1998/1999" type="inclusive">1998-1999</unitdate>
+            <container id="aspace_e397e89a596b4ba72aafa061b24b6260" label="Mixed Materials" type="Box">1 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_117ab5655a07c48b9a94e3b509b8e5dc" parent="aspace_e397e89a596b4ba72aafa061b24b6260" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_24">
+        <c02 id="aspace_320a4d96c0618ee5055a480b05225bc4" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Minutes, Agendas, Correspondence, Financial Records</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000/2001">2000-2001</unitdate>
+            <unitdate normal="2000/2001" type="inclusive">2000-2001</unitdate>
+            <container id="aspace_6034d895226b3bf7b4d4de34ee20f50e" label="Mixed Materials" type="Box">2 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_5cf06d98b6f9e8e2ff7a08e4372860fb" parent="aspace_6034d895226b3bf7b4d4de34ee20f50e" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_25">
+        <c02 id="aspace_5c29633b557a4923a8106f881f30295c" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
-            <unittitle>National Association of Broadcast Employees and Technicians (NABET), Local
-              21, Schenectady</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
+            <unittitle>National Association of Broadcast Employees and Technicians (NABET), Local 21, Schenectady</unittitle>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_0d20fbf4beea9776d3c54b9ca34d00b0" label="Mixed Materials" type="Box">2 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_d094c2261836af5223d4e9d7d7797198" parent="aspace_0d20fbf4beea9776d3c54b9ca34d00b0" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_26">
+        <c02 id="aspace_18855176f68ef7e6b1cb5adfa35a5300" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>New Labor Struggles</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986/1987">1986-1987</unitdate>
+            <unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate>
+            <container id="aspace_bf4d7d233ec00f6038135e16a0bd3585" label="Mixed Materials" type="Box">2 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_a0b350ebbcba5301296d6c65a81ab51c" parent="aspace_bf4d7d233ec00f6038135e16a0bd3585" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_27">
+        <c02 id="aspace_5fd43e977025bed971ed3af09232bf2c" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>New York State Labor-Religion Coalition</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_5e62e19fcafdbed9826c350655db4821" label="Mixed Materials" type="Box">2 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_990740ba6ccc61c0382b3f2497aedf04" parent="aspace_5e62e19fcafdbed9826c350655db4821" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_28">
+        <c02 id="aspace_5fdf1396873825c3654cd514897c6f75" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>New York State Nurses Association, Malone, NY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_4909684e6bd4cf48baf98a0a11ed2cef" label="Mixed Materials" type="Box">2 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_ee1d412a861ac0413438a6dff1075a77" parent="aspace_4909684e6bd4cf48baf98a0a11ed2cef" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_29">
+        <c02 id="aspace_f94c0df06e3117c374f520de5cd16cf1" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>Nicaragua Labor Support</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_a8401f65a5f305260f1fe668d64cc26e" label="Mixed Materials" type="Box">2 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_01dede92ef8abc389d0bc00c5d89a978" parent="aspace_a8401f65a5f305260f1fe668d64cc26e" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_30">
+        <c02 id="aspace_2bdc489b21c94b1738e0c438c1331458" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
             <unittitle>Onondaga Community College Federation of Teachers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_b6d1633a19e9968976125ef6bb77c556" label="Mixed Materials" type="Box">2 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_21955b8919bc14684cbbb49568ab846d" parent="aspace_b6d1633a19e9968976125ef6bb77c556" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_31">
+        <c02 id="aspace_b2ae1a2e51e15c551b88595d9703c7a9" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
             <unittitle>Portec Strike, United Steel Workers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_1326452c0b57dd8092b5b15f21a99721" label="Mixed Materials" type="Box">2 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_1d0fb5ba5d5042b925ac232b608f671d" parent="aspace_1326452c0b57dd8092b5b15f21a99721" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_32">
+        <c02 id="aspace_244c3de627fd7317dbfa7f3022acc8d2" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
             <unittitle>Publicity for Manny Fried's Plays</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_1323e88e9ae8e5466482323338d968b4" label="Mixed Materials" type="Box">2 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_8eb890de680ebd161b963ab4dc09f5a1" parent="aspace_1323e88e9ae8e5466482323338d968b4" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_33">
+        <c02 id="aspace_07a9177965ce7935c99c201151e764f6" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10</container>
             <unittitle>Social Agenda</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1988">1987-1988</unitdate>
+            <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <container id="aspace_2b72ccb13cda23748f4d17e1ead62ba8" label="Mixed Materials" type="Box">2 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_73160d1cab17a3a9773a62d06db1e21e" parent="aspace_2b72ccb13cda23748f4d17e1ead62ba8" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_34">
+        <c02 id="aspace_996134f97910ca2836e6131bd273a671" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">11</container>
             <unittitle>Solidarnosc</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_4ac8a7ed4911b87e1ee5d51ef1e7ba7f" label="Mixed Materials" type="Box">2 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_24f29e55f10acbe58763ab2c755f87aa" parent="aspace_4ac8a7ed4911b87e1ee5d51ef1e7ba7f" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_35">
+        <c02 id="aspace_d552af291f252923eb140b794744481d" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">12</container>
             <unittitle>South Africa Fund</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1995">1988-1995</unitdate>
+            <unitdate normal="1988/1995" type="inclusive">1988-1995</unitdate>
+            <container id="aspace_39384a6fc967bcedf3b47cad33a043d9" label="Mixed Materials" type="Box">2 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_149ac05bd1c6c847e0da9e2dccf93f3f" parent="aspace_39384a6fc967bcedf3b47cad33a043d9" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_36">
+        <c02 id="aspace_fb75e27318631a4afc76c20504e376fd" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">13</container>
             <unittitle>South Africa Labor Support</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1992">1987-1992</unitdate>
+            <unitdate normal="1987/1992" type="inclusive">1987-1992</unitdate>
+            <container id="aspace_9fa0e8b174c93a645cde970a9b4ee6f7" label="Mixed Materials" type="Box">2 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_7506e8835a6735111d751c461ff3fcb2" parent="aspace_9fa0e8b174c93a645cde970a9b4ee6f7" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_37">
+        <c02 id="aspace_eb3125ad1d142fd00edd9e767138b76a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">14</container>
             <unittitle>Support for Overseas Unions</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1988">1987-1988</unitdate>
+            <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <container id="aspace_0006d809755c7473b701fd5200595abf" label="Mixed Materials" type="Box">2 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_88e43b12a696b4c6a1ae8abf596c33e3" parent="aspace_0006d809755c7473b701fd5200595abf" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_38">
+        <c02 id="aspace_9a0556d2dadd61540180760e272add1b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">15</container>
-            <unittitle>Tugboat and Barge Workers, International Longshoremen's Association
-              (ILA)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+            <unittitle>Tugboat and Barge Workers, International Longshoremen's Association (ILA)</unittitle>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_b48f8ec7850be199c9b41eefbf031435" label="Mixed Materials" type="Box">2 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_e6db1db732c675bedf1c820dcd3ecb8f" parent="aspace_b48f8ec7850be199c9b41eefbf031435" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_39">
+        <c02 id="aspace_f66d02da99955e325c326582f5c3a40a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">16</container>
             <unittitle>United Paperworkers International Union (UPIU) Jay, ME Local 14</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_26ee1d9cdb9036769ac666c3f5273d19" label="Mixed Materials" type="Box">2 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_beb0d76a1483c7508b7fcbb47dfb4d71" parent="aspace_26ee1d9cdb9036769ac666c3f5273d19" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-2_40">
+        <c02 id="aspace_7bc5a58ead98673f1a32f8e3a041d648" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">17</container>
             <unittitle>Zinc Miners' Strike, United Steelworkers, Gouverneur, NY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_721e45388762ab3b55c622a43b5c19fc" label="Mixed Materials" type="Box">2 (2-United University Professions (UUP) Solidarity Com)</container>
+            <container id="aspace_cab92bff229d7cc1e24d0c8ef6e4545a" parent="aspace_721e45388762ab3b55c622a43b5c19fc" type="Folder">17</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap100-3">
+      <c01 id="aspace_13a50a8d583b2c4837ffb6b2da28d192" level="series">
         <did>
+          <unittitle>Other Activism</unittitle>
           <unitid>3</unitid>
-          <unittitle label="Series">Other Activism</unittitle>
-          <unitdate type="inclusive" normal="1977/2007">1977-2007</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">1.20</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.20 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1977/2007" type="inclusive">1977-2007</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_309eebe8bbe3babad98f28304449b9cc">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
-          <p>Dr. Wittner's activism included other organizations such as the Americans against
-            Nuclear War, Capital District Anti-Nuclear Alliance, Capital District Labor-Religion
-            Coalition and the World Federalist Association. In addition, this series includes Dr.
-            Wittner's involvement in local political campaigns throughout the 1980s including those
-            of Ed Bloch, Nancy Burton and Leon Van Dyke.</p>
+        <scopecontent id="aspace_c898473ef928ae065b43842b45bdf5ef">
+          <head>Scope and Contents</head>
+          <p>Dr. Wittner's activism included other organizations such as the Americans against Nuclear War, Capital District Anti-Nuclear Alliance, Capital District Labor-Religion Coalition and the World Federalist Association. In addition, this series includes Dr. Wittner's involvement in local political campaigns throughout the 1980s including those of Ed Bloch, Nancy Burton and Leon Van Dyke.</p>
         </scopecontent>
-        <c02 id="nam_apap100-3_1">
+        <c02 id="aspace_e724a787170c0ac6dd4881281ab5fedb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Albany Anti-War Actions</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2001">2001</unitdate>
+            <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_28a48cd3cf1fee6396d694656671af7f" label="Mixed Materials" type="Box">1 (3-Other Activism)</container>
+            <container id="aspace_488a55cf2b5b9b57e28bb03b68b909b5" parent="aspace_28a48cd3cf1fee6396d694656671af7f" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_2">
+        <c02 id="aspace_5532e393612362a6fcd12d176ed7b480" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Albany Public School Teachers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1988">1987-1988</unitdate>
+            <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <container id="aspace_b6679dbe61545c514e31581ce9d3df33" label="Mixed Materials" type="Box">1 (3-Other Activism)</container>
+            <container id="aspace_189f66a8407b376ffadd83086bad791c" parent="aspace_b6679dbe61545c514e31581ce9d3df33" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_3">
+        <c02 id="aspace_64ddc3d17b714304fc0ebc3544beeb5d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Albany UUP Chapter</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978/1994">1978-1994</unitdate>
+            <unitdate normal="1978/1994" type="inclusive">1978-1994</unitdate>
+            <container id="aspace_9d19c1506e2d86f79488525d096d2659" label="Mixed Materials" type="Box">1 (3-Other Activism)</container>
+            <container id="aspace_b4d2adba85ee7efef2ebb24d1aec83b1" parent="aspace_9d19c1506e2d86f79488525d096d2659" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_4">
+        <c02 id="aspace_c7c4bfa82f85b0d19f5c5d283c563d82" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Americans Against Nuclear War</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_0cdecb2f21f4e04e7a08ee394f0d8bda" label="Mixed Materials" type="Box">1 (3-Other Activism)</container>
+            <container id="aspace_422d275cbd3bb0c3060bbf2304ab4b24" parent="aspace_0cdecb2f21f4e04e7a08ee394f0d8bda" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_5">
+        <c02 id="aspace_6470595d2d65461b8507a331909014cb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Anti-Apartheid Demonstration</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984/1985">1984-1985</unitdate>
+            <unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate>
+            <container id="aspace_3738f9a2d54bbf476d9b284afb429ecd" label="Mixed Materials" type="Box">1 (3-Other Activism)</container>
+            <container id="aspace_e25148b9684d67d9bec32be485b9a382" parent="aspace_3738f9a2d54bbf476d9b284afb429ecd" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_6">
+        <c02 id="aspace_83ca0fe4bb4c4c12052a9511794fe86e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Art Rodriguez Tour, United Farm Workers (UFW)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989-04-05/1989-04-06">1989 April 05-1989 April 06</unitdate>
+            <unitdate normal="1989-04-05/1989-04-06" type="inclusive">1989 April 05-1989 April 06</unitdate>
+            <container id="aspace_7c4b008c20ea0b2c6c785143e4fb8b88" label="Mixed Materials" type="Box">1 (3-Other Activism)</container>
+            <container id="aspace_21f4e5d66887850ddda19edff7d1f1cd" parent="aspace_7c4b008c20ea0b2c6c785143e4fb8b88" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_7">
+        <c02 id="aspace_cd2a4afab1469d13775fcd1c9fea7fbc" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Campus Action</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993/1999">1993-1999</unitdate>
+            <unitdate normal="1993/1999" type="inclusive">1993-1999</unitdate>
+            <container id="aspace_911e67a5401e5e146a7d703aae86c7ff" label="Mixed Materials" type="Box">1 (3-Other Activism)</container>
+            <container id="aspace_7e55a4c914847a5efdb30445dcb07ad8" parent="aspace_911e67a5401e5e146a7d703aae86c7ff" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_8">
+        <c02 id="aspace_4080924fe047e175b75ff6c7ce5d6f7f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Capital District Anti-Nuclear Alliance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1982">1979-1982</unitdate>
+            <unitdate normal="1979/1982" type="inclusive">1979-1982</unitdate>
+            <container id="aspace_b82b7ce9b27635cc26a1c73e24bfd19b" label="Mixed Materials" type="Box">1 (3-Other Activism)</container>
+            <container id="aspace_426139daf90b97633d9282afa19eef05" parent="aspace_b82b7ce9b27635cc26a1c73e24bfd19b" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_9">
+        <c02 id="aspace_58d3bd67333c7e62bb790994f7fc17fb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Capital District Chapter of the Labor Party</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994/1998">1994-1998</unitdate>
+            <unitdate normal="1994/1998" type="inclusive">1994-1998</unitdate>
+            <container id="aspace_6c6131d27987ee811b51f9de9f2b5083" label="Mixed Materials" type="Box">1 (3-Other Activism)</container>
+            <container id="aspace_975059a7af42d935dc6707cbe71ed0ec" parent="aspace_6c6131d27987ee811b51f9de9f2b5083" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_10">
+        <c02 id="aspace_5a6348cff70c2706d410a59738055a69" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Capital District Labor-Religion Coalition</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_99fb5d25220055ae8c95e45f51473811" label="Mixed Materials" type="Box">1 (3-Other Activism)</container>
+            <container id="aspace_dc819c3add58ebf8d4284028e0a8aeee" parent="aspace_99fb5d25220055ae8c95e45f51473811" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_11">
+        <c02 id="aspace_c676c6474a6ae6ba02af17a506913b57" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Capital Region Social Forum</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2004">2004</unitdate>
+            <unitdate normal="2004/2004" type="inclusive">2004</unitdate>
+            <container id="aspace_6208d41a95a9904eee74dc5be4c23642" label="Mixed Materials" type="Box">1 (3-Other Activism)</container>
+            <container id="aspace_97d1c083055def0c4f96d90dcb0488a6" parent="aspace_6208d41a95a9904eee74dc5be4c23642" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_12">
+        <c02 id="aspace_74ec07307bf54180d4cffa9aa1af971f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Capital Region Social Forum</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2007">2007</unitdate>
+            <unitdate normal="2007/2007" type="inclusive">2007</unitdate>
+            <container id="aspace_1a5f1dc05caf2dd7c474a26a56383318" label="Mixed Materials" type="Box">1 (3-Other Activism)</container>
+            <container id="aspace_24e4fcc6f82812e519fe2da3fbbeb309" parent="aspace_1a5f1dc05caf2dd7c474a26a56383318" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_13">
+        <c02 id="aspace_8e27db3754ef3db72caf1dc20971d0b5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Cesar Chavez Appearance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987-04-02">1987 April 02</unitdate>
+            <unitdate normal="1987-04-02/1987-04-02" type="inclusive">1987 April 02</unitdate>
+            <container id="aspace_2f4856177b1081abc98e3bfb59dc1682" label="Mixed Materials" type="Box">1 (3-Other Activism)</container>
+            <container id="aspace_c9ac65012d626c8e301587b7bac56d0e" parent="aspace_2f4856177b1081abc98e3bfb59dc1682" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_14">
+        <c02 id="aspace_6216f619fccc182acaef20739c121194" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
-            <unittitle>Cornell Industrial and Labor Relations School, Classes Hosted at Hudson
-              Valley Community College</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1985">1983-1985</unitdate>
+            <unittitle>Cornell Industrial and Labor Relations School, Classes Hosted at Hudson Valley Community College</unittitle>
+            <unitdate normal="1983/1985" type="inclusive">1983-1985</unitdate>
+            <container id="aspace_1186ab501567b33be389f93f04cb98f4" label="Mixed Materials" type="Box">1 (3-Other Activism)</container>
+            <container id="aspace_302327ceef640abb057e24b69c563c26" parent="aspace_1186ab501567b33be389f93f04cb98f4" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_15">
+        <c02 id="aspace_c1a749310fd4042d142e0d4e33863496" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Dukakis Campaign</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_3ce4bc79c9d3428653ad80556a6c442a" label="Mixed Materials" type="Box">1 (3-Other Activism)</container>
+            <container id="aspace_5c1e0697149940c309aead8108f8e3a7" parent="aspace_3ce4bc79c9d3428653ad80556a6c442a" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_16">
+        <c02 id="aspace_d549ee0af152e405c9ebb22ccdae51e8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Ed Bloch Campaign</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984/1986">1984-1986</unitdate>
+            <unitdate normal="1984/1986" type="inclusive">1984-1986</unitdate>
+            <container id="aspace_1f43308cfa3dc8bb2dd3a554acc282df" label="Mixed Materials" type="Box">1 (3-Other Activism)</container>
+            <container id="aspace_1a6b3bbbd143c06f48c1132b37a0391d" parent="aspace_1f43308cfa3dc8bb2dd3a554acc282df" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_17">
+        <c02 id="aspace_b10d9153e7d83c0af336c33af9d71a18" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Ed Bloch Campaign</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984/1986">1984-1986</unitdate>
+            <unitdate normal="1984/1986" type="inclusive">1984-1986</unitdate>
+            <container id="aspace_c70b073f12e0c6bfb5254d35d8c1f95f" label="Mixed Materials" type="Box">2 (3-Other Activism)</container>
+            <container id="aspace_80ccea1deca23f49e6692a238287dacf" parent="aspace_c70b073f12e0c6bfb5254d35d8c1f95f" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_18">
+        <c02 id="aspace_f9f998a3c751b5a58596e5162da680d5" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>El Salvador Ad, National Labor Committee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982-03-28">1982 March 28</unitdate>
+            <unitdate normal="1982-03-28/1982-03-28" type="inclusive">1982 March 28</unitdate>
+            <container id="aspace_ca20081874910b23f3d9963381a90132" label="Mixed Materials" type="Box">2 (3-Other Activism)</container>
+            <container id="aspace_20a62d68afa5d322c59f24eb8cecf0b0" parent="aspace_ca20081874910b23f3d9963381a90132" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_19">
+        <c02 id="aspace_f93aba0bdc169c11fc6d386cbb6ddb4b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3-5</container>
             <unittitle>Food Service Workers' Campaign, SUNY Albany</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1999/2001">1999-2001</unitdate>
+            <unitdate normal="1999/2001" type="inclusive">1999-2001</unitdate>
+            <container id="aspace_935d83c3fe697691879acbbee7568e50" label="Mixed Materials" type="Box">2 (3-Other Activism)</container>
+            <container id="aspace_6a7a7131d09d648894695266eb7eba2f" parent="aspace_935d83c3fe697691879acbbee7568e50" type="Folder">3-5</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_20">
+        <c02 id="aspace_fa7270252f266b6b58e30a140666fee9" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>Greyhound Strike</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_0ec757234b230325a3cad45ebec6d3e0" label="Mixed Materials" type="Box">2 (3-Other Activism)</container>
+            <container id="aspace_215a3457a1c4e58308ff0ab138234caa" parent="aspace_0ec757234b230325a3cad45ebec6d3e0" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_21">
+        <c02 id="aspace_5698eaf5720ed5c1ca7e8e066316522b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
             <unittitle>Hiroshima 60th Anniversary Events in Albany</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2005">2005</unitdate>
+            <unitdate normal="2005/2005" type="inclusive">2005</unitdate>
+            <container id="aspace_56389c093599533c5e3936fc7128a64c" label="Mixed Materials" type="Box">2 (3-Other Activism)</container>
+            <container id="aspace_d66a6b0b98fc00ac1c638e60c0eb5114" parent="aspace_56389c093599533c5e3936fc7128a64c" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_22">
+        <c02 id="aspace_48356bb2db11937f6124aa138155369b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
             <unittitle><emph render="italic">In These Times</emph> Group</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1978">1977-1978</unitdate>
+            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container id="aspace_0c82e670958ebae01c856d1cfbd7d37d" label="Mixed Materials" type="Box">2 (3-Other Activism)</container>
+            <container id="aspace_1d2a2dfa76fdd7f99898587261fddd63" parent="aspace_0c82e670958ebae01c856d1cfbd7d37d" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_23">
+        <c02 id="aspace_e36101b99a18ee8a91fbde2b89efe611" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
             <unittitle>James Bay Project</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_fb3af6bb33fc993b9543eba5645497b7" label="Mixed Materials" type="Box">2 (3-Other Activism)</container>
+            <container id="aspace_e213bd7e244c3c9a3bce148011d85cbc" parent="aspace_fb3af6bb33fc993b9543eba5645497b7" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_24">
+        <c02 id="aspace_655b559bfe33591ed751de780b3d157f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10</container>
             <unittitle>Leon Van Dyke Campaigns for Albany School Board and Alderman</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989">1989</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993">1993</unitdate>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_879b462711ccbb915dd54899969700fd" label="Mixed Materials" type="Box">2 (3-Other Activism)</container>
+            <container id="aspace_5266d9cb139ee1c8641c02d866f0500c" parent="aspace_879b462711ccbb915dd54899969700fd" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_25">
+        <c02 id="aspace_d1ad365dc0521d618b236a419834c7e3" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">11</container>
             <unittitle>May 1st Anti-Nuclear Weapon Demonstration</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2005">2005</unitdate>
+            <unitdate normal="2005/2005" type="inclusive">2005</unitdate>
+            <container id="aspace_37bd1c87961d071ccf5a5a3cda3880ec" label="Mixed Materials" type="Box">2 (3-Other Activism)</container>
+            <container id="aspace_37786fdc096173ce59c09164de804169" parent="aspace_37bd1c87961d071ccf5a5a3cda3880ec" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_26">
+        <c02 id="aspace_1e1fa06a5ec5b01c166b78189766b460" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">12</container>
             <unittitle>Mayors for Peace</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2005">2005</unitdate>
+            <unitdate normal="2005/2005" type="inclusive">2005</unitdate>
+            <container id="aspace_5419073e3f39b06acda973627877bacf" label="Mixed Materials" type="Box">2 (3-Other Activism)</container>
+            <container id="aspace_266d73f64b2807c72faf51497282e516" parent="aspace_5419073e3f39b06acda973627877bacf" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_27">
+        <c02 id="aspace_d48384129d2e4aac7105c17704d4f0fb" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">13</container>
             <unittitle>Moral Majority</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980">1980</unitdate>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_45e9e8a32d8594bb42fbe0586b5ac2f6" label="Mixed Materials" type="Box">2 (3-Other Activism)</container>
+            <container id="aspace_edb23612224774dfa0f683755b3639f5" parent="aspace_45e9e8a32d8594bb42fbe0586b5ac2f6" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_28">
+        <c02 id="aspace_9c6fc86c0c886e32acdf607f6a5e6535" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">14</container>
             <unittitle>National Labor Committee, Protest of Clothing from Sweatshops</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995/1999">1995-1999</unitdate>
+            <unitdate normal="1995/1999" type="inclusive">1995-1999</unitdate>
+            <container id="aspace_e69c5653ad8d34a716fbcd939692694a" label="Mixed Materials" type="Box">2 (3-Other Activism)</container>
+            <container id="aspace_15d1054bb7fc30b736d86c541b5d4571" parent="aspace_e69c5653ad8d34a716fbcd939692694a" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_29">
+        <c02 id="aspace_36287b7386c476f2e450d9579489e0e8" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>New York State Coalition, Nancy Burton Campaign</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_7a5703f8a7382edddda0bd4a8394ea81" label="Mixed Materials" type="Box">3 (3-Other Activism)</container>
+            <container id="aspace_c3b33cb0d455b7eac716136d94af475b" parent="aspace_7a5703f8a7382edddda0bd4a8394ea81" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_30">
+        <c02 id="aspace_c1e522ff9777a5a94ab99a447c1507e4" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>Nicaragua Ad, NYS United Teachers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_272f7f85f698f8855aadbc55dd70c84a" label="Mixed Materials" type="Box">3 (3-Other Activism)</container>
+            <container id="aspace_4c427a20c794ae55186b98e8735b97e1" parent="aspace_272f7f85f698f8855aadbc55dd70c84a" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_31">
+        <c02 id="aspace_bef70db80f45e592908fea3a2571ea28" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">3</container>
             <unittitle>NL Industries</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_2ddd024579d8c62a452fbe8806fc46d8" label="Mixed Materials" type="Box">3 (3-Other Activism)</container>
+            <container id="aspace_e923fe5d8c25e817479df1ffda39cf5f" parent="aspace_2ddd024579d8c62a452fbe8806fc46d8" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_32">
+        <c02 id="aspace_6442059ffdb59c9930fcf3584b007167" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4</container>
             <unittitle>Nuclear Abolition Activities</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2005">2005</unitdate>
+            <unitdate normal="2005/2005" type="inclusive">2005</unitdate>
+            <container id="aspace_b74ed5099812b458f19792931e19188c" label="Mixed Materials" type="Box">3 (3-Other Activism)</container>
+            <container id="aspace_59c9a58669f8511ae8b91435ec62fd9b" parent="aspace_b74ed5099812b458f19792931e19188c" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_33">
+        <c02 id="aspace_ec0f69a4f9c94190c917d2f6a6a52c5e" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">5</container>
             <unittitle>Peace Action's Peace Voter Campaign</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000">2000</unitdate>
+            <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+            <container id="aspace_e1f9f7bb1bc32fae17094fc110d5745a" label="Mixed Materials" type="Box">3 (3-Other Activism)</container>
+            <container id="aspace_bef30d1791f92ff98a7a5fe2a63c6693" parent="aspace_e1f9f7bb1bc32fae17094fc110d5745a" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_34">
+        <c02 id="aspace_46d6b95745f9e06e975f4744e5724464" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">6</container>
             <unittitle>SUNY Peace and Justice</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2005/2006">2005-2006</unitdate>
+            <unitdate normal="2005/2006" type="inclusive">2005-2006</unitdate>
+            <container id="aspace_4b84b4c1ca51025d04d4a553a12e3ad7" label="Mixed Materials" type="Box">3 (3-Other Activism)</container>
+            <container id="aspace_68628c60a08c58bbd0778e3e626e4607" parent="aspace_4b84b4c1ca51025d04d4a553a12e3ad7" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_35">
+        <c02 id="aspace_a294e5a1b293dae43d003b59afba087d" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">7</container>
             <unittitle>SUNY Peace and Justice Group, Iraq War Talks</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002/2003">2002-2003</unitdate>
+            <unitdate normal="2002/2003" type="inclusive">2002-2003</unitdate>
+            <container id="aspace_efed78e6eff9a2b3dedaaa712c531553" label="Mixed Materials" type="Box">3 (3-Other Activism)</container>
+            <container id="aspace_c192a25d6d5bae9556f6aa49650e06a6" parent="aspace_efed78e6eff9a2b3dedaaa712c531553" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_36">
+        <c02 id="aspace_544936f02a48dcb8a96c3dd5674c1dc7" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">8</container>
             <unittitle>Tax the Rich Program</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989">1989</unitdate>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_fce315c5204aba92086350e75fac7f16" label="Mixed Materials" type="Box">3 (3-Other Activism)</container>
+            <container id="aspace_6ba1103ad33315ae66b042c6dfb375ad" parent="aspace_fce315c5204aba92086350e75fac7f16" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_37">
+        <c02 id="aspace_f71d7d20c7dbdb755dddbd90668782e1" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">9-10</container>
             <unittitle>Teach-In: A Labor Movement</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_5542d3333cb39906f337448109900a06" label="Mixed Materials" type="Box">3 (3-Other Activism)</container>
+            <container id="aspace_b9565c645fb783f5d59d76de5cc2acab" parent="aspace_5542d3333cb39906f337448109900a06" type="Folder">9-10</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_38">
+        <c02 id="aspace_470615c1c2d833ca07d1b863f6c1087d" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">11</container>
             <unittitle>Teach-In at the SUNY Albany Campus</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002">2002</unitdate>
+            <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+            <container id="aspace_c8dd3eaf803eca0a3cb9af22b5690124" label="Mixed Materials" type="Box">3 (3-Other Activism)</container>
+            <container id="aspace_3c454a0f36e3679c14d3d7c3bff5671f" parent="aspace_c8dd3eaf803eca0a3cb9af22b5690124" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_39">
+        <c02 id="aspace_98d368916a5fd422d1699520b2c9f7e1" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">12</container>
             <unittitle>UUP Contract Battle</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985/1986">1985-1986</unitdate>
+            <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
+            <container id="aspace_850ac4d79a39f83a32a790f39d949ce3" label="Mixed Materials" type="Box">3 (3-Other Activism)</container>
+            <container id="aspace_e514541f7a7b8058026a0bbfa6cc2db6" parent="aspace_850ac4d79a39f83a32a790f39d949ce3" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap100-3_40">
+        <c02 id="aspace_07b1fe0db72c866e492a9edd9f53de0c" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">13</container>
             <unittitle>World Federalist Association, Capital District Chapter</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1997">1988-1997</unitdate>
+            <unitdate normal="1988/1997" type="inclusive">1988-1997</unitdate>
+            <container id="aspace_16706009ee4c475890d24becae113521" label="Mixed Materials" type="Box">3 (3-Other Activism)</container>
+            <container id="aspace_9e7c19fe5dc430d6167943cff79e6051" parent="aspace_16706009ee4c475890d24becae113521" type="Folder">13</container>
           </did>
         </c02>
       </c01>
-      <!-- couuld not locate photos as of 5/2014
-      <c01 level="series">
-        <did>
-          <unittitle>Series 4: Photographs</unittitle>
-          <unitdate type="inclusive" normal="1980/1985">1980-1985</unitdate>
-          <physdesc>
-            <extent>1.00 cubic feet</extent>
-          </physdesc>
-        </did>
-        <arrangement>
-          <p>Arranged alphabetically.</p>
-        </arrangement>
-        <scopecontent>
-          <p>Dr. Wittner lent 12 photographs to the collection so that duplicates could be made and
-            remain within the collection. The photos are of Dr. Wittner and other advocates at
-            meetings, social events and demonstrations.</p>
-        </scopecontent>
-        <c02>
-          <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
-            <unittitle>Albany DSA Eugene V. Debs Dinner, Co-Chair Reverend Gary Dorrien chats with
-              Pat Beetle of the Nuclear Weapons Freeze Campaign </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978/1988">ca.
-              1983</unitdate>
-          </did>
-        </c02>
-        <c02>
-          <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
-            <unittitle>Albany DSA Eugene V. Debs Dinner, Bob Belanger (Thruway House Bartender) with
-              Dr. Wittner (Albany DSA Secretary) </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978/1988">ca.
-              1983</unitdate>
-          </did>
-        </c02>
-        <c02>
-          <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
-            <unittitle>Albany DSA Eugene V. Debs Dinner, Tim Reilly (President of Albany UUP and
-              award recipient), Bob Redlo (ACTWU), and Gary Dorrien (Co-Chair of Albany
-              DSA)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978/1988">ca.
-              1983</unitdate>
-          </did>
-        </c02>
-        <c02>
-          <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
-            <unittitle>Lorbrook Demonstration</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/2007"
-              >Undated</unitdate>
-          </did>
-        </c02>
-        <c02>
-          <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
-            <unittitle>Free South Africa Demonstration, John Funiciello's Arrest</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985-01">January
-              1985</unitdate>
-          </did>
-        </c02>
-        <c02>
-          <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
-            <unittitle>Free South Africa Demonstration. In the Police van, left to right: John
-              Funiciello, Reverend Alan Delamater, and Larry Wittner </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985-01">January
-              1985</unitdate>
-          </did>
-        </c02>
-        <c02>
-          <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
-            <unittitle> "Solidarity Forever" on the steps of the New York State Capitol</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/2007"
-              >Undated</unitdate>
-          </did>
-        </c02>
-        <c02>
-          <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
-            <unittitle>DSA Luncheon with Michael Harrington</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982-10">October
-              1982</unitdate>
-          </did>
-        </c02>
-        <c02>
-          <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
-            <unittitle>Albany DSA New Year's Eve Party, Dorothy Tristman</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
-          </did>
-        </c02>
-        <c02>
-          <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
-            <unittitle>Albany DSA New Year's Eve Party, Peter Pollak, Larry Wittner</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
-          </did>
-        </c02>
-        <c02>
-          <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
-            <unittitle>Albany DSA New Year's Eve Party, Larry Wittner about to perform in the
-              midnight musical comedy </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
-          </did>
-        </c02>
-        <c02>
-          <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
-            <unittitle>Albany DSA New Year's Eve Party, Arrival of Adele Geringer with balloons
-              (Albany DSA) and Jim Driscoll (Nuclear Weapons Freeze Campaign)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
-          </did>
-        </c02>
-      </c01>
-      -->
     </dsc>
   </archdesc>
 </ead>

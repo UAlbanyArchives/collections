@@ -1,645 +1,643 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua932">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua932.html">nam_ua932</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua932">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua932.xml">ua932</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>ANNUAL REPORTS COLLECTION (UA932)<date normal="1844/2005" type="inclusive">1844-2005</date></titleproper>
+        <titleproper>Annual Reports; Collection <num>ua932</num></titleproper>
         <author>Erik Stolarski</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2016" type="publication">Copyright 2016 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2016</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Erik Stolarski<date normal="2016-11-03">2016 November 3</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 17:34:05 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2014">2014</date>
+        <date>2014</date>
         <item>EAD file created</item>
+      </change>
+      <change>
+        <date>2016 November 3</date>
+        <item>Encoded in EAD by Erik Stolarski</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua932</unitid>
-      <unittitle>Annual Reports Collection<unitdate normal="1844/2005" type="inclusive">1844-2005</unitdate></unittitle>
-      <abstract label="Abstract:">Collection is made up of annual reports from the Executive Committee and President of the College. </abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="lcsh">State University of New York at Albany</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">0.66</extent>
-      </physdesc>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Annual Reports Collection<unitdate normal="1844/2005" type="inclusive">1844-2005</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="lcsh">State University of New York at Albany</corpname>
+      </origination>
+      <unitid>ua932</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.66 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_3fb79c2d07355e0fabdb8883239c06e7">Collection is made up of annual reports from the Executive Committee and President of the College.</abstract>
+      <langmaterial id="aspace_71a535fc2b9cc6a57abf60f543a62c04">English</langmaterial>
+      <physloc id="aspace_2f3b8e6ea7ff7614b42004d5bc530c32">The materials are located onsite in the department.</physloc>
     </did>
-    <bioghist>
+    <processinfo id="aspace_acd0eed297dc6668e971ea683608d41d">
+      <head>Processing Information</head>
+      <p>Processed in 2016 by Erik Stolarski.</p>
+    </processinfo>
+    <bioghist id="aspace_3580ae35a46e6352d1d46b718808178c">
       <head>Administrative History</head>
-      <p>The New York State Normal School was first opened in 1844, and presented yearly reports on the state of the school to the government. These reports have ben given yearly by the President of the schoool or the executive committee of the college and given to the Legislature of the State of New York. </p>
-      <p> </p>
+      <p>The New York State Normal School was first opened in 1844, and presented yearly reports on the state of the school to the government. These reports have ben given yearly by the President of the schoool or the executive committee of the college and given to the Legislature of the State of New York.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_9d38b0f29ff6b502bf566cddb9b4006f">
+      <head>Scope and Contents</head>
       <p>Collection is made up of the annual reports from the school dating from the years 1844-2005. These encompass the full existenc eof the schooo, though some years are still missing, such as the majority of the 1850's. The reports include the state of the school, number of graduates, financial reports, and enrollment lists.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_14c7fee26fbe1620af81fc45da138afb">
       <head>Arrangement of the Collection</head>
       <p>Collection is arranged in chronological order.</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_4ba112e2082ca6c4e67855bc83354b7f">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_802d07d8c95c44b0e853e48630d483e5">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_76a535248c064c8e447ee797c1eaff07">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
-      <p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p> The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_dabdaaff588a983274340fcd3d650e70">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, The Presient's Reports Collection,  1844-2005. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the President's Reports Collection).</p>
+      <p> Identification of specific item, series, box, folder, The Presient's Reports Collection, 1844-2005. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the President's Reports Collection).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject encodinganalog="650" source="lcsh">Educational reports</subject>
-      <subject encodinganalog="650" source="lcsh">College graduates</subject>
-      <subject encodinganalog="650" source="lcsh">College presidents</subject>
-      <geogname encodinganalog="651" source="meg">Albany, New York</geogname>
+      <subject source="lcsh">Educational reports</subject>
+      <subject source="lcsh">College graduates</subject>
+      <subject source="lcsh">College presidents</subject>
     </controlaccess>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_ua932-1">
+    <dsc>
+      <c01 id="aspace_9848501c166e07c39d4aa067c4085968" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>Report of the Committees on Colleges</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1844">1844</unitdate>
+          <unitdate normal="1844/1844" type="inclusive">1844</unitdate>
+          <container id="aspace_4509b01ad4539706616f9559a6ccf5d5" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_f6ac92a8a54f393196dc7d40fe3f789b" parent="aspace_4509b01ad4539706616f9559a6ccf5d5" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-2">
+      <c01 id="aspace_18ca60005e1f407358e92152fa19d108" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Annual Report of the Executive Committee</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1846">1846</unitdate>
+          <unitdate normal="1846/1846" type="inclusive">1846</unitdate>
+          <container id="aspace_a05bbabd99c55d39b0f2eb8249800663" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_f60e8c4b71252c92849c53b0fdbf0052" parent="aspace_a05bbabd99c55d39b0f2eb8249800663" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-3">
+      <c01 id="aspace_37cec8fec7019f69e7e4259df47879fb" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>Annual Report of the Executive Committee</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1848">1848</unitdate>
+          <unitdate normal="1848/1848" type="inclusive">1848</unitdate>
+          <container id="aspace_8596c1de0eca100bfd24e0d5a14381f0" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_9a99a55b232d7bb35b96e2521ae8107d" parent="aspace_8596c1de0eca100bfd24e0d5a14381f0" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-4">
+      <c01 id="aspace_d3c4e3eb37f2b5c5ab1634016a4174be" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>New York State College for Teachers Application Form</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1844/2005">Undated</unitdate>
+          <unitdate normal="1844/2005" type="inclusive">Undated</unitdate>
+          <container id="aspace_9b34ff20126698d2f36cc97b507a9c46" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_1dc8dfc8649ef5111b09fc8d85db1dc4" parent="aspace_9b34ff20126698d2f36cc97b507a9c46" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-5">
+      <c01 id="aspace_abd71fde77df4e806b3fcc3aec012cca" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Notice of Vacancies of the State Normal School</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1851">1851</unitdate>
+          <unitdate normal="1851/1851" type="inclusive">1851</unitdate>
+          <container id="aspace_58ff9abf5b90308ee6f981596692233c" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_612a54e61e2a3b7d62f245abdf6e33f7" parent="aspace_58ff9abf5b90308ee6f981596692233c" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-6">
+      <c01 id="aspace_792c00abcbadec828da05d721aebc53c" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Annual Report of the Executive Committee</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1863">1863</unitdate>
+          <unitdate normal="1863/1863" type="inclusive">1863</unitdate>
+          <container id="aspace_fecc20f2db043589dc09052451b95274" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_bc68e4ae78ea5079cfd8b67a050a27ef" parent="aspace_fecc20f2db043589dc09052451b95274" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-7">
+      <c01 id="aspace_80f4c58ca1265558145bd2d1cc9a807e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Annual Report of the Executive Committee</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1864">1864</unitdate>
+          <unitdate normal="1864/1864" type="inclusive">1864</unitdate>
+          <container id="aspace_d051d83dce297d39d2172a9c762fd368" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_6d3a1dca75bf5527b2b1fc05d20dfef8" parent="aspace_d051d83dce297d39d2172a9c762fd368" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-8">
+      <c01 id="aspace_99609646a9983d42ab34c4e8ed9ddea4" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
           <unittitle>Annual Report of the Executive Committee</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1865">1865</unitdate>
+          <unitdate normal="1865/1865" type="inclusive">1865</unitdate>
+          <container id="aspace_1b67818cf03f2bd67f39184dbf11baec" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_2af6438859928b444f846ddfb90f6dfb" parent="aspace_1b67818cf03f2bd67f39184dbf11baec" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-9">
+      <c01 id="aspace_288673940377b8c5fb485ec88a9dc886" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Annual Report of the Executive Committee</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1866">1866</unitdate>
+          <unitdate normal="1866/1866" type="inclusive">1866</unitdate>
+          <container id="aspace_92749ec5273c68ad1ed2ced7c2553187" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_b1ba5cb8ce0963b555c20b58f98a0bfa" parent="aspace_92749ec5273c68ad1ed2ced7c2553187" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-10">
+      <c01 id="aspace_2addfa66c4ce51199ae4c5ac5ffdd860" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Annual Report of the Executive Committee</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1867">1867</unitdate>
+          <unitdate normal="1867/1867" type="inclusive">1867</unitdate>
+          <container id="aspace_7765f0c2781f82921702dd852ad2a9d9" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_59b4d5bf24fbd064d6d15ac078b6cb9c" parent="aspace_7765f0c2781f82921702dd852ad2a9d9" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-11">
+      <c01 id="aspace_a7893a0c749be3fab2d9366fca7d3021" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Annual Report of the Executive Committee</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1868">1868</unitdate>
+          <unitdate normal="1868/1868" type="inclusive">1868</unitdate>
+          <container id="aspace_3d09a6d831fee362cd9722eb2b5930fb" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_b2585281c9918cda7e315d6767cf1384" parent="aspace_3d09a6d831fee362cd9722eb2b5930fb" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-12">
+      <c01 id="aspace_b32d19a2387f3f619f0854e4d557a4db" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">12</container>
           <unittitle>Annual Report of the Superintendent of Public Instruction</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1869">1869</unitdate>
+          <unitdate normal="1869/1869" type="inclusive">1869</unitdate>
+          <container id="aspace_1487d2bdb257ec047bea67293730300c" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_b921d84b820fa12a91cd4e3cfee18521" parent="aspace_1487d2bdb257ec047bea67293730300c" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-13">
+      <c01 id="aspace_d9cd3414f9d1ff87460662f8ec4b7e69" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">13</container>
           <unittitle>Annual Report of the Superintendent of Public Instruction</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1872">1872</unitdate>
+          <unitdate normal="1872/1872" type="inclusive">1872</unitdate>
+          <container id="aspace_3495735f44eb687c46ad2b698b2d3881" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_233940727a6fdafa32ce356f40e6834e" parent="aspace_3495735f44eb687c46ad2b698b2d3881" type="Folder">13</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-14">
+      <c01 id="aspace_05dddd057aa7a83ec97c4571ed776cad" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">14</container>
           <unittitle>Annual Report of the Superintendent of Public Instruction</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1873">1873</unitdate>
+          <unitdate normal="1873/1873" type="inclusive">1873</unitdate>
+          <container id="aspace_3e6cda552ab1aa7a9a5508805134964c" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_939c0b740eae991b26e63adf20e4b717" parent="aspace_3e6cda552ab1aa7a9a5508805134964c" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-15">
+      <c01 id="aspace_3248a81b8a9cdd794776415bcb3e6e45" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">15</container>
           <unittitle>Annual Report of the Superintendent of Public Instruction</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1873">1873</unitdate>
+          <unitdate normal="1873/1873" type="inclusive">1873</unitdate>
+          <container id="aspace_d3e3461da0d7e1c5f244edc3738ce83e" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_70aff0318409e3913333b3c0ff7b5148" parent="aspace_d3e3461da0d7e1c5f244edc3738ce83e" type="Folder">15</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-16">
+      <c01 id="aspace_fc04ac0f29e2a52a81edca894fb2c519" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">16</container>
           <unittitle>Annual Report of the Superintendent of Public Instruction</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1874">1874</unitdate>
+          <unitdate normal="1874/1874" type="inclusive">1874</unitdate>
+          <container id="aspace_0579187652c1481266467550e13b33af" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_488bb501717dec53cdaaae6d5c2855df" parent="aspace_0579187652c1481266467550e13b33af" type="Folder">16</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-17">
+      <c01 id="aspace_6d68e3446531b192e8918d654f208c37" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">17</container>
           <unittitle>Annual Report of the Superintendent of Public Instruction</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1876">1876</unitdate>
+          <unitdate normal="1876/1876" type="inclusive">1876</unitdate>
+          <container id="aspace_bc4c22dab405d54817e55e8b9c16aad3" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_bbdf1ff44ee278fb55e96f33b31dd32e" parent="aspace_bc4c22dab405d54817e55e8b9c16aad3" type="Folder">17</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-18">
+      <c01 id="aspace_569a51feba77b5da39208858a20110ad" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">18</container>
           <unittitle>Annual Report of the Superintendent of Public Instruction</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1877">1877</unitdate>
+          <unitdate normal="1877/1877" type="inclusive">1877</unitdate>
+          <container id="aspace_e8cd89e363b725ed355a9069a07f0d7b" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_a894a815a99fcacd8f373ab350738d7a" parent="aspace_e8cd89e363b725ed355a9069a07f0d7b" type="Folder">18</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-19">
+      <c01 id="aspace_a1fb2c08d6ba1f2601c217418f3e12b3" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">19</container>
           <unittitle>Annual Report of the Superintendent of Public Instruction</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1878">1878</unitdate>
+          <unitdate normal="1878/1878" type="inclusive">1878</unitdate>
+          <container id="aspace_f9776c035c49c78adf042538be5483fe" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_7fe135c07f838babea8cbd6b49b4c46d" parent="aspace_f9776c035c49c78adf042538be5483fe" type="Folder">19</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-20">
+      <c01 id="aspace_424be87dc6d00d3c16f838d7e4d4c09f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">20</container>
           <unittitle>Annual Report of the Superintendent of Public Instruction</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1879">1879</unitdate>
+          <unitdate normal="1879/1879" type="inclusive">1879</unitdate>
+          <container id="aspace_50c256b199281714626be25863d0b1af" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_0cbe2915580f312f08e8a0c9bb45346e" parent="aspace_50c256b199281714626be25863d0b1af" type="Folder">20</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-21">
+      <c01 id="aspace_8ee3eb29a6a7708b47c9d1d7c2146207" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">21</container>
           <unittitle>Annual Report of the Superintendent of Public Instruction</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1880">1880</unitdate>
+          <unitdate normal="1880/1880" type="inclusive">1880</unitdate>
+          <container id="aspace_da8a9366d2df0c0d7870fdb54e7517d1" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_e980538d8cbd4175bb0d408ae378cd04" parent="aspace_da8a9366d2df0c0d7870fdb54e7517d1" type="Folder">21</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-22">
+      <c01 id="aspace_3cb8984052f9e7f970885cd94569cbab" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">22</container>
           <unittitle>Annual Report of the Executive Committee</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1880">1880</unitdate>
+          <unitdate normal="1880/1880" type="inclusive">1880</unitdate>
+          <container id="aspace_2b48d74785e87257d8c2403a5012a4e7" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_a08b6c3921c7aed01e7a545687ca0d17" parent="aspace_2b48d74785e87257d8c2403a5012a4e7" type="Folder">22</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-23">
+      <c01 id="aspace_546319550c2e55ec5d5d0de7dc5339a9" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">23</container>
           <unittitle>Annual Report of the Executive Committee</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1881">1881</unitdate>
+          <unitdate normal="1881/1881" type="inclusive">1881</unitdate>
+          <container id="aspace_a4fe6fbc34217cefae54febbb15839d4" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_584d88c6e4ccccced222d4843f4dae10" parent="aspace_a4fe6fbc34217cefae54febbb15839d4" type="Folder">23</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-24">
+      <c01 id="aspace_c803488beb82f6782ababd67b5c8a261" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">24</container>
           <unittitle>Annual Report of the Executive Committee</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1882">1882</unitdate>
+          <unitdate normal="1882/1882" type="inclusive">1882</unitdate>
+          <container id="aspace_df236fc06230487c98d209a1c63eeb7e" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_57ff0d63de68414433fd108659c3c74b" parent="aspace_df236fc06230487c98d209a1c63eeb7e" type="Folder">24</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-25">
+      <c01 id="aspace_00e8ba56a26817a7fbd08695f8228f97" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">25</container>
           <unittitle>Annual Report of the Superintendent of Public Instruction</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1884">1884</unitdate>
+          <unitdate normal="1884/1884" type="inclusive">1884</unitdate>
+          <container id="aspace_1f7f0f40ca4b4122d282aec64f542e81" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_d61373243994113121c4e4352a2e99f9" parent="aspace_1f7f0f40ca4b4122d282aec64f542e81" type="Folder">25</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-26">
+      <c01 id="aspace_9410e4c47da0feb674960a8a01761395" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">26</container>
           <unittitle>Annual Report of the Executive Committee</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1885">1885</unitdate>
+          <unitdate normal="1885/1885" type="inclusive">1885</unitdate>
+          <container id="aspace_944ef34a443cf4c27da500895f183309" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_627b90f989011dc15f7c72fdf86f68c3" parent="aspace_944ef34a443cf4c27da500895f183309" type="Folder">26</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-27">
+      <c01 id="aspace_307a98936af390b01abab8ef5fdb7093" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">27</container>
-          <unittitle>State Normal School Announcement </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1883">1883</unitdate>
+          <unittitle>State Normal School Announcement</unittitle>
+          <unitdate normal="1883/1883" type="inclusive">1883</unitdate>
+          <container id="aspace_9dcbce1e3d4c9d4df42fd00b3eb16711" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_6b71c20c2839e34f18bb107f20d503d6" parent="aspace_9dcbce1e3d4c9d4df42fd00b3eb16711" type="Folder">27</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-28">
+      <c01 id="aspace_a5eaf627f9001744eb4c5428d8289d2f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">28</container>
           <unittitle>New York State Documents on State Normal School</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1844/2005">Undated</unitdate>
+          <unitdate normal="1844/2005" type="inclusive">Undated</unitdate>
+          <container id="aspace_2ccfa706f19586e8f54b78c0262997ca" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_d0208d166ccafb858d8b87651740e9d3" parent="aspace_2ccfa706f19586e8f54b78c0262997ca" type="Folder">28</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-29">
+      <c01 id="aspace_a9910fc751e37ed9ebc42de2bd6fd0c1" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">29</container>
           <unittitle>Superintendent of Common Schools</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1853-1902">1853-1902</unitdate>
+          <unitdate normal="1853/1902" type="inclusive">1853-1902</unitdate>
+          <container id="aspace_f3923fd49fb722009685eeae4751bc10" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_1eed3e1fe8c531c6f23584dde8d3fc74" parent="aspace_f3923fd49fb722009685eeae4751bc10" type="Folder">29</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-30">
+      <c01 id="aspace_be9ac245805c2b440c5fee974b6f0d56" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">30</container>
           <unittitle>Annual Report of the Executive Committee</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1886">1886</unitdate>
+          <unitdate normal="1886/1886" type="inclusive">1886</unitdate>
+          <container id="aspace_e31d466480107a0196a7452906d30c32" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_0b0e2802fbb61a949d7d29f0333fa768" parent="aspace_e31d466480107a0196a7452906d30c32" type="Folder">30</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-31">
+      <c01 id="aspace_b4e921930cae9b991fc7895d310f4d98" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">31</container>
           <unittitle>Annual Register</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1864">1864</unitdate>
+          <unitdate normal="1864/1864" type="inclusive">1864</unitdate>
+          <container id="aspace_3df71770f14ced67a2a7ff0a0fb92491" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_7e6fa2ca65f94475c1fbf6f63f1b9f37" parent="aspace_3df71770f14ced67a2a7ff0a0fb92491" type="Folder">31</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-32">
+      <c01 id="aspace_a52eaaaf3c3831f7967a1b557e461a65" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">32</container>
           <unittitle>List of Executive Committee Minutes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1844/2005">Undated</unitdate>
+          <unitdate normal="1844/2005" type="inclusive">Undated</unitdate>
+          <container id="aspace_706fecef85be551d07836e9d317531fc" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_e24900d712009f678216b71b266b203e" parent="aspace_706fecef85be551d07836e9d317531fc" type="Folder">32</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-33">
+      <c01 id="aspace_69baf3a73b0ebc4e5b70f07ce4060b03" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">33</container>
           <unittitle>State Normal School Publications List</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1844/2005">Undated</unitdate>
+          <unitdate normal="1844/2005" type="inclusive">Undated</unitdate>
+          <container id="aspace_5afe0488028bf1494dba52f371ed38f1" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_ab33a8cbac098432a5686e89ed8510bd" parent="aspace_5afe0488028bf1494dba52f371ed38f1" type="Folder">33</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-34">
+      <c01 id="aspace_08b19d258808c89c072a2f22ffefb6b7" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">34</container>
           <unittitle>Catalogue of the Officers and Students</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1844/2005">Undated</unitdate>
+          <unitdate normal="1844/2005" type="inclusive">Undated</unitdate>
+          <container id="aspace_77a84eca56dfc4f5781fab8a3bd099aa" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_a6ea0d72b71c3aa01da0ecb65b522dad" parent="aspace_77a84eca56dfc4f5781fab8a3bd099aa" type="Folder">34</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-35">
+      <c01 id="aspace_d16e11f7e7370997ac01d29d77d57626" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">35</container>
           <unittitle>List of Students</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1844/2005">Undated</unitdate>
+          <unitdate normal="1844/2005" type="inclusive">Undated</unitdate>
+          <container id="aspace_d96b6432b3aec908d36d5cfe0ce5d6e2" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_14d8bc450c7532fdf32e3e5b7c3707cb" parent="aspace_d96b6432b3aec908d36d5cfe0ce5d6e2" type="Folder">35</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-36">
+      <c01 id="aspace_537d78c3bac00b8eefff4d473eedf88b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">36</container>
           <unittitle>Term Numbers and Dates List</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1844/2005">Undated</unitdate>
+          <unitdate normal="1844/2005" type="inclusive">Undated</unitdate>
+          <container id="aspace_a4966ed20e927877aed14cdd3a3f19f8" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_e359c75519709385dc8c9376b3ec352d" parent="aspace_a4966ed20e927877aed14cdd3a3f19f8" type="Folder">36</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-37">
+      <c01 id="aspace_ff251412acb1440816aba7c22de14288" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">37</container>
           <unittitle>State Normal College Circular</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1844/2005">Undated</unitdate>
+          <unitdate normal="1844/2005" type="inclusive">Undated</unitdate>
+          <container id="aspace_5bc689a764c20afb8033bad99f77727b" label="Mixed Materials" type="Box">1 (Annual Reports Collection)</container>
+          <container id="aspace_2382f23e4e2f109b219e203c39062c18" parent="aspace_5bc689a764c20afb8033bad99f77727b" type="Folder">37</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-38">
+      <c01 id="aspace_3e8a96d78c4d64300c7d95ee9d1a98d6" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">1</container>
           <unittitle>Report of the New York State Normal College</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1912">1912</unitdate>
+          <unitdate normal="1912/1912" type="inclusive">1912</unitdate>
+          <container id="aspace_f102cdb6685481f63205b3fd92ed2d72" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_7e940f46bbeec777d2401731f7c53bc3" parent="aspace_f102cdb6685481f63205b3fd92ed2d72" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-39">
+      <c01 id="aspace_fb8b72c343715e26b889fd587d49e4e6" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">2</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1915/1916">1915-1916</unitdate>
+          <unitdate normal="1915/1916" type="inclusive">1915-1916</unitdate>
+          <container id="aspace_68fb085683b9cbf78528a5836cc1aa24" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_b12b2d78d056d422543baa4db410f93d" parent="aspace_68fb085683b9cbf78528a5836cc1aa24" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-40">
+      <c01 id="aspace_08027154f5361a6829f511be503d0dad" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">3</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1917">1917</unitdate>
+          <unitdate normal="1917/1917" type="inclusive">1917</unitdate>
+          <container id="aspace_387707c5b91c0b3d9c9cecddbefd9bd4" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_31ff9d6fb34a8cd8f49d2eb43663b90e" parent="aspace_387707c5b91c0b3d9c9cecddbefd9bd4" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-41">
+      <c01 id="aspace_8db0fab8cdd8fa92f9af3a5b760d5403" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">4</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1933">1933</unitdate>
+          <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
+          <container id="aspace_c133b8b7201d914363eb0be3b7c6e8bf" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_d3e8d895701a198558599689a3e6b95d" parent="aspace_c133b8b7201d914363eb0be3b7c6e8bf" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-42">
+      <c01 id="aspace_7c2f3fad8c94fc98023309b9998ef96b" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">5</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1934">1934</unitdate>
+          <unitdate normal="1934/1934" type="inclusive">1934</unitdate>
+          <container id="aspace_d37369ff6818403fe02c7e83c9812b3f" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_50db003fcfc317ed0d2a7ee6d15f22b7" parent="aspace_d37369ff6818403fe02c7e83c9812b3f" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-43">
+      <c01 id="aspace_c07669d2252d7ddede60e03dcdb737d5" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">6</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1935">1935</unitdate>
+          <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+          <container id="aspace_a5ed35ca7e068685eeefa62d29dbbb16" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_bdf59cea37a2cdb42f4f0d33c8c4aa2e" parent="aspace_a5ed35ca7e068685eeefa62d29dbbb16" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-44">
+      <c01 id="aspace_20767a11b1cab5c572fe48317a0218ad" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">7</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1936">1936</unitdate>
+          <unitdate normal="1936/1936" type="inclusive">1936</unitdate>
+          <container id="aspace_795a1a382ffcd8aaef7ef3f254332e5d" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_5479e42d9638b01e16d0390eb25b9336" parent="aspace_795a1a382ffcd8aaef7ef3f254332e5d" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-45">
+      <c01 id="aspace_1c023f049511d91bb89caa29547366e2" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">8</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1937">1937</unitdate>
+          <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+          <container id="aspace_3075a557b57f87159e1307fde16631a2" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_22bdb527f532deea0cc852059ace7205" parent="aspace_3075a557b57f87159e1307fde16631a2" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-46">
+      <c01 id="aspace_acdea4d34f5384672eed1cae82f93099" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">9</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1938">1938</unitdate>
+          <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+          <container id="aspace_471e82d1b799de9daa91564ef14c5562" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_8bbafcef5b8012da292c5b48567ff5a7" parent="aspace_471e82d1b799de9daa91564ef14c5562" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-47">
+      <c01 id="aspace_af4bb2d0f804bafd99fbc1137ae3b6cb" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">10</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1939">1939</unitdate>
+          <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+          <container id="aspace_f672efa61c9f3ca0389f51741281d08e" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_927a101fa8c93d787394bac7f8a3ca40" parent="aspace_f672efa61c9f3ca0389f51741281d08e" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-48">
+      <c01 id="aspace_3d30a5e226e11c3ce2bf5c4a3329e589" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">11</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1948">1948</unitdate>
+          <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+          <container id="aspace_306ab92dc91213a4c9e2f217b6dbc62d" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_114ad0c74a674dd10f611e599bc75897" parent="aspace_306ab92dc91213a4c9e2f217b6dbc62d" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-49">
+      <c01 id="aspace_88c7de676a4086650c11337e55f460f2" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">12</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
+          <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+          <container id="aspace_aac3f8e4af743dc9582b3d61f0cd92f8" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_9490aecbeffeed31c9219a07c7314e2b" parent="aspace_aac3f8e4af743dc9582b3d61f0cd92f8" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-50">
+      <c01 id="aspace_f93bf1b9b5c84ca83b2a82d217f37b1a" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">13</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1986">1986</unitdate>
+          <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+          <container id="aspace_a24ac86568a40652d6cb3939df76f782" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_bb66d17e64038e013f72ff45ed7e77a8" parent="aspace_a24ac86568a40652d6cb3939df76f782" type="Folder">13</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-51">
+      <c01 id="aspace_911ea01bde34dfe1137d5e7ce4e40649" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">14</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1987">1987</unitdate>
+          <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+          <container id="aspace_3329752538fe7b62cef75745bf171974" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_c9865c051109616892f55158415e05fd" parent="aspace_3329752538fe7b62cef75745bf171974" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-52">
+      <c01 id="aspace_cda527c5538cbf1ee97b1c9190519b6c" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">15</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1988">1988</unitdate>
+          <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+          <container id="aspace_e2784103723e35f835eab1d11494c1e0" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_cbf37950eee33308a08351b44165bc04" parent="aspace_e2784103723e35f835eab1d11494c1e0" type="Folder">15</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-53">
+      <c01 id="aspace_a3df7c2c36e4695dc3a58a5c8a8d2255" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">16</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1989">1989</unitdate>
+          <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+          <container id="aspace_2b7e0e158d6bb951ac21869e5de79d09" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_b82e6345d6bad3764f9c66f856a8f2a5" parent="aspace_2b7e0e158d6bb951ac21869e5de79d09" type="Folder">16</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-54">
+      <c01 id="aspace_1578cb9d8b2188c231455755597420cc" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">17</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1990">1990</unitdate>
+          <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+          <container id="aspace_eb033d8bdf834174b60b739b47ef9321" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_aebb805dbb05a3bea282a21909b29a74" parent="aspace_eb033d8bdf834174b60b739b47ef9321" type="Folder">17</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-55">
+      <c01 id="aspace_f5adbf04ac9078a330b9fb0fc2dcbec0" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">18</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1991">1991</unitdate>
+          <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+          <container id="aspace_ba5ed9cd8ada6ca8bdf6aba469c4b27b" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_d16a08a9b606b5bd6e8bec56cce9049c" parent="aspace_ba5ed9cd8ada6ca8bdf6aba469c4b27b" type="Folder">18</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-56">
+      <c01 id="aspace_7b403a3efe4ce2895c07ca9c2e85996d" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">19</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1992">1992</unitdate>
+          <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+          <container id="aspace_d08ab5c771efe55682eb2fd6e2fc4f03" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_b7115dc79516c0add3eddeba49422141" parent="aspace_d08ab5c771efe55682eb2fd6e2fc4f03" type="Folder">19</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-57">
+      <c01 id="aspace_08e83415aba4bbad7c56fb7f13a5e34e" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">20</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1993">1993</unitdate>
+          <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+          <container id="aspace_9c888001486f7b7de0af3dada53fd0f9" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_daa0075506cb9707d4496c1e6ebebb67" parent="aspace_9c888001486f7b7de0af3dada53fd0f9" type="Folder">20</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-58">
+      <c01 id="aspace_5a64af32a12a24e1e1f7da0fd07a3f72" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">21</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1994">1994</unitdate>
+          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+          <container id="aspace_c7612728e747f97b0951a1bb631ca484" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_f146b12c947f1104be70e40ef83bc2fe" parent="aspace_c7612728e747f97b0951a1bb631ca484" type="Folder">21</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-59">
+      <c01 id="aspace_8058b1dee7f09c502f33dab707089c2b" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">22</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1995">1995</unitdate>
+          <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+          <container id="aspace_6bc02ef3f41e6d4224c3e2e41a3abdbe" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_357ede406a194833606968582137c382" parent="aspace_6bc02ef3f41e6d4224c3e2e41a3abdbe" type="Folder">22</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-60">
+      <c01 id="aspace_e9c6288a043c95d0f181987f90d4dc6c" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">23</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1996">1996</unitdate>
+          <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+          <container id="aspace_fa294c6594281142c5a0ce20acbf148c" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_832175d0328c322ad27434d535c680e4" parent="aspace_fa294c6594281142c5a0ce20acbf148c" type="Folder">23</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-61">
+      <c01 id="aspace_147e635d1eb4e5c7bb691f3d966e13ff" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">24</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1997">1997</unitdate>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <container id="aspace_790381f8f83afcc0bc3303f386c087d8" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_bc35c4af09872df9e0288891a53ea8b0" parent="aspace_790381f8f83afcc0bc3303f386c087d8" type="Folder">24</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-62">
+      <c01 id="aspace_1a252593b66ac7fb95d777c4a3cbc845" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">25</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1998">1998</unitdate>
+          <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+          <container id="aspace_e6ae9206acd9ec5396e26b572a73d906" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_800140e757bc86ef6a48acd704821d24" parent="aspace_e6ae9206acd9ec5396e26b572a73d906" type="Folder">25</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-63">
+      <c01 id="aspace_80f28c9826f37472eaf136826f10a16f" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">26</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1999">1999</unitdate>
+          <unitdate normal="1999/1999" type="inclusive">1999</unitdate>
+          <container id="aspace_a1b192ee798dc145e410ddc13dc9875e" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_d3f7b40affa96c97cb389371b3dc7f70" parent="aspace_a1b192ee798dc145e410ddc13dc9875e" type="Folder">26</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-64">
+      <c01 id="aspace_e209cdccafa14a14e7948be49821d872" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">27</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2000">2000</unitdate>
+          <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+          <container id="aspace_012954b6f1249ef551ad55dd5767d580" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_3ec12b5cf8076568be78223081d80e4b" parent="aspace_012954b6f1249ef551ad55dd5767d580" type="Folder">27</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-65">
+      <c01 id="aspace_78ace50f457f5fe1f156d323465f97d9" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">28</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2001">2001</unitdate>
+          <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_07b2f4d924adf9f152207f136667b4ae" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_2592899560908c6fd63052388194942d" parent="aspace_07b2f4d924adf9f152207f136667b4ae" type="Folder">28</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-66">
+      <c01 id="aspace_97736ecdfeb21c532bb0e455d56b1f78" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">29</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2002">2002</unitdate>
+          <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_3959ac07935a4664a2ff7112d68e238b" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_4f41ba85009f43029b6494d48b55648f" parent="aspace_3959ac07935a4664a2ff7112d68e238b" type="Folder">29</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-67">
+      <c01 id="aspace_a7add66220be319f5703de07473aa11d" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">30</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2003">2003</unitdate>
+          <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
+          <container id="aspace_a6adfe8b8d8ec9fc5fe199426899bf55" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_4b33967a1f8dbd2a226e977161006d16" parent="aspace_a6adfe8b8d8ec9fc5fe199426899bf55" type="Folder">30</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-68">
+      <c01 id="aspace_dbb0dc09e62a1ecf1fb87af896548f7a" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">31</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2004">2004</unitdate>
+          <unitdate normal="2004/2004" type="inclusive">2004</unitdate>
+          <container id="aspace_cfb50f6bd5fc120d8b1f1c1596b263f5" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_25ddba53a32e5f5334c38a3c1f180a40" parent="aspace_cfb50f6bd5fc120d8b1f1c1596b263f5" type="Folder">31</container>
         </did>
       </c01>
-      <c01 id="nam_ua932-69">
+      <c01 id="aspace_7c86b118c3e9b21c90bf5f56da262032" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">32</container>
           <unittitle>President's Report</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2005">2005</unitdate>
+          <unitdate normal="2005/2005" type="inclusive">2005</unitdate>
+          <container id="aspace_34fc3dc90bee3676e44c88b10ff588a2" label="Mixed Materials" type="Box">2 (Annual Reports Collection)</container>
+          <container id="aspace_f6d37d050bb098b6e6dbb521b676326c" parent="aspace_34fc3dc90bee3676e44c88b10ff588a2" type="Folder">32</container>
         </did>
       </c01>
     </dsc>

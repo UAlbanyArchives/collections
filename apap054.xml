@@ -1,380 +1,371 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap054">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/apap054.html">nam_apap054</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap054">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap054.xml">apap054</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>UNITED UNIVERSITY PROFESSIONS (UUP), ALBANY CHAPTER RECORDS (APAP054)<date normal="1968/1990" type="inclusive">1968-1990</date></titleproper>
+        <titleproper>United University Professions (UUP), Albany, New York Chapter; Records <num>apap054</num></titleproper>
         <author>Geoffrey A. Huth</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-          <addressline>Copyright 1990 By the University at Albany, SUNY. All rights reserved.</addressline>
-          <addressline>1990</addressline>
-          <addressline>Melissa McMullen</addressline>
-          <addressline>2016</addressline>
-          <addressline>2016</addressline>
-        </address>
-        <date type="publication" normal="1990">Copyright 1990 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>1990</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Conversion and encoding by ArchProteus, <date normal="2014">2014</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 13:38:45 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2004">2004</date>
+        <date>2004</date>
         <item>revised: Revised</item>
+      </change>
+      <change>
+        <date>2014</date>
+        <item>Encoded in EAD by Conversion and encoding by ArchProteus</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap054</unitid>
-      <unittitle>United University Professions (UUP), Albany Chapter Records<unitdate normal="1968/1990" type="inclusive">1968-1990</unitdate></unittitle>
-      <origination>
-        <corpname encodinganalog="110" source="local">United University Professions (UUP), Albany Chapter</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">0.83</extent>
-      </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">United University Professions (UUP) is the union and collective bargaining agent for the faculty and non-teaching professionals of the State University of New York (SUNY). UUP (initially named SUNY/United) was created by the 1973 merger of the Senate Professional Association (SPA) and the State University Federation of Teachers (SUFT).</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage: ">The materials are located on site in the department.</physloc>
+      <unittitle>United University Professions (UUP), Albany Chapter Records<unitdate normal="1968/1990" type="inclusive">1968-1990</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">United University Professions (UUP), Albany Chapter</corpname>
+      </origination>
+      <unitid>apap054</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.83 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_86b8078e98f72ba3ab36a9272d971d38">United University Professions (UUP) is the union and collective bargaining agent for the faculty and non-teaching professionals of the State University of New York (SUNY). UUP (initially named SUNY/United) was created by the 1973 merger of the Senate Professional Association (SPA) and the State University Federation of Teachers (SUFT).</abstract>
+      <langmaterial id="aspace_430db99e017e787a28ff089228b93580">English</langmaterial>
+      <physloc id="aspace_6436822b20ec7bc547a0729b002af78d">The materials are located on site in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_696e4154057d43b54b35694b690f2110">
+      <head>Processing Information</head>
+      <p>Processed in 1990 by Geoffrey A. Huth.</p>
+    </processinfo>
+    <accessrestrict id="aspace_ead27e9413415839ac53bcb4121ef1ad">
       <head>Access</head>
       <p>Access to these records is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_af69a175072125c844ed73b88d694a42">
       <head>Copyright</head>
-      <p>
-				The researcher assumes full responsibility for conforming with the laws of copyright.
-				Whenever possible, the M.E. Grenander Department of Special Collections and Archives
-				will provide information about copyright owners and other restrictions, but the legal
-				determination ultimately rests with the researcher. Requests for permission to publish
-				material from this collection should be discussed with the Head of Special Collections
-				and Archives.
-			</p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_cf4d447d84b785886c52d8bf9a246863">
       <head>Acquisition Information</head>
-      <p>
-				All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by the Albany Chapter of United University Professions and its predecessors. Some items were collected independently of the chapter and added to the collection.
-			</p>
+      <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by the Albany Chapter of United University Professions and its predecessors. Some items were collected independently of the chapter and added to the collection.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_9ca9fc47720ac4ccbd9f1141acf74d09">
       <head>Biographical History</head>
       <p>United University Professions (UUP) is the union and collective bargaining agent for the faculty and non-teaching professionals of the State University of New York (SUNY). UUP (initially named SUNY/United) was created by the 1973 merger of the Senate Professional Association (SPA) and the State University Federation of Teachers (SUFT). SPA, created in 1970, combined elements from the university-wide Faculty Senate with the State University Professional Association (SUPA) which had been created in 1969 to represent the non-teaching professionals at SUNY. In January 1971 SPA defeated SUFT to become the first elected bargaining representative at SUNY. After its election, SPA received certification from the Public Employment Relations Board (PERB), the governor-appointed body charged with administering the Taylor Law (the 1967 Public Employees' Fair Employment Act that allowed public employees in New York to bargain collectively for the first time). It then entered into negotiations with the Governor's Office of Employee Relations (GOER; also referred to as OER), the state's primary bargaining representative. In August 1971, the State of New York and SPA signed their first contract.</p>
-      <p>After its election as bargaining agent, SPA formalized its affiliations with the National Education Association (NEA) and its state affiliate, the New York State Teachers Association (NYSTA), which represented K-12 teachers throughout New York. SPA received both financial and organizational support from NYSTA. The 1973 merger between NYSTA and the United Teachers of New York (the New York affiliate of the American Federation of Teachers [AFT]) to form New York State United Teachers (NYSUT) pressured SPA to merge with SUFT and form UUP. UUP voted to end its NEA affiliation in 1976, and is currently affiliated with NYSUT, the AFT, and the state and national AFL-CIO. Like its predecessor SPA, particularly in its earliest years UUP received financial and organizational support from NYSUT. It continues to maintain a close relationship with NYSUT and to use NYSUT field representatives to handle contract and disciplinary grievances, and improper practice charges brought before PERB on behalf of its bargaining unit members. UUP's Director of Staff (formerly called the Executive Director) and Associate Director of Staff, who oversee the field representatives, participate in UUP's contract negotiations, and act in an advisory capacity to UUP, are NYSUT employees.</p>
-      <p>In its early years, UUP concentrated on establishing its membership and creating a position for itself as the collective bargaining agent for all SUNY teaching and non-teaching professionals, addressing a concern expressed particularly by professionals during the establishment of SPA and then UUP about whether it was possible for a union representing both professional and academic staff to adequately address the concerns of each group. This issue has persisted, to varying degrees, throughout UUP's existence. The diverse nature of the SUNY campuses included within the bargaining unit--including university centers, colleges of agriculture and technology, and health science centers--has also contributed to the challenges faced by UUP in representing the bargaining unit as a collective whole. UUP has twice had its position as bargaining agent challenged. In 1974, the Civil Service Employees Association (CSEA) unsuccessfully sought to become the bargaining representative for non-teaching professionals at SUNY, and in an election conducted by PERB in late 1978, UUP defeated the NYEA, a New York State affiliate of the NEA, which sought to replace UUP as the representative for the entire SUNY bargaining unit.</p>
-      <p>UUP's main purpose is to improve the terms and conditions of employment of those it represents. The primary forum for addressing these issues is the contracts that UUP negotiates with the State on behalf of its bargaining unit members. Debates over salaries and employee benefit packages have figured prominently in past contract negotiations. Specific issues of concern have included job security, maternity leave, tuition waivers, hiring and tenure policies, sabbatical allotments, teaching workloads, student/faculty ratios, grievance procedures, parking fees, and expanding retirement investment options. In 1974, UUP achieved permanent appointment status for professionals, in 1977 it turned its focus to family sick leave and sabbatical leave, and in 1978 to the creation of minimum salaries for full-time employees. Benefits and sick leave for part-time employees also attracted UUP's attention in the late 1970s; pay equity and disparity issues were a focus between 1982 and 1985, and geographical differences in cost of living were a concern in 1988. In the early 1990s domestic partner care and day care coverage were of particular concern to UUP. At the end of the 1990s, new challenges were seen in distance learning, rapid changes in technology, privatization issues, and the growing use of part-time employees.</p>
-      <p>Under the Taylor Law, UUP is forbidden to engage in work actions such as strikes. Instead, it uses public demonstrations and publicity when contract negotiations stall. UUP also uses these measures to make members of the State Legislature, SUNY management, and the general public aware of issues of concern to it, particularly cuts in the portion of the state budget allocated to SUNY. The prohibition on work actions has also meant that from the beginning UUP has devoted itself to political action for advancing the interests of those it represents. It has registered state lobbyists; sponsored its own, and participated in NYSUT-sponsored, "lobby days" in Albany; and devoted significant resources to monitoring legislative activity and making its positions known to the governor and state legislators. UUP also expresses itself politically through candidate endorsements. UUP's affiliation with NYSUT broadens its legislative outreach and impact.</p>
-      <p>UUP's other defined goals include advancing education in a democracy and democracy in education, and promoting the principles of unity and collective bargaining in higher education. Its broad range of concerns, primarily expressed through resolutions and motions adopted by its Executive Board and Delegate Assembly, have included environmental issues; freedom of expression; and the availability of public higher education. In the 1990s, coalition building with other higher education advocacy groups and community outreach became a focus of UUP's activities.</p>
-      <p>UUP has an administrative office headquartered in Albany and chapters based at each SUNY campus, as well as at SUNY Central Administration in Albany. Each chapter elects delegates to attend the Delegate Assemblies held three times each year. The delegates in turn elect six statewide officers (President, Vice President for Academics, Vice President for Professionals, Secretary, Treasurer, and Membership Development Officer) and the members of UUP's Executive Board.</p>
-      <p>The purpose of the Albany Chapter is to conduct UUP business on the Albany campus, to uphold and effect the provisions of the ratified contract, to supervise the conduct of local grievance procedures, and to consult with management on issues.</p>
+      <p> After its election as bargaining agent, SPA formalized its affiliations with the National Education Association (NEA) and its state affiliate, the New York State Teachers Association (NYSTA), which represented K-12 teachers throughout New York. SPA received both financial and organizational support from NYSTA. The 1973 merger between NYSTA and the United Teachers of New York (the New York affiliate of the American Federation of Teachers [AFT]) to form New York State United Teachers (NYSUT) pressured SPA to merge with SUFT and form UUP. UUP voted to end its NEA affiliation in 1976, and is currently affiliated with NYSUT, the AFT, and the state and national AFL-CIO. Like its predecessor SPA, particularly in its earliest years UUP received financial and organizational support from NYSUT. It continues to maintain a close relationship with NYSUT and to use NYSUT field representatives to handle contract and disciplinary grievances, and improper practice charges brought before PERB on behalf of its bargaining unit members. UUP's Director of Staff (formerly called the Executive Director) and Associate Director of Staff, who oversee the field representatives, participate in UUP's contract negotiations, and act in an advisory capacity to UUP, are NYSUT employees.</p>
+      <p> In its early years, UUP concentrated on establishing its membership and creating a position for itself as the collective bargaining agent for all SUNY teaching and non-teaching professionals, addressing a concern expressed particularly by professionals during the establishment of SPA and then UUP about whether it was possible for a union representing both professional and academic staff to adequately address the concerns of each group. This issue has persisted, to varying degrees, throughout UUP's existence. The diverse nature of the SUNY campuses included within the bargaining unit--including university centers, colleges of agriculture and technology, and health science centers--has also contributed to the challenges faced by UUP in representing the bargaining unit as a collective whole. UUP has twice had its position as bargaining agent challenged. In 1974, the Civil Service Employees Association (CSEA) unsuccessfully sought to become the bargaining representative for non-teaching professionals at SUNY, and in an election conducted by PERB in late 1978, UUP defeated the NYEA, a New York State affiliate of the NEA, which sought to replace UUP as the representative for the entire SUNY bargaining unit.</p>
+      <p> UUP's main purpose is to improve the terms and conditions of employment of those it represents. The primary forum for addressing these issues is the contracts that UUP negotiates with the State on behalf of its bargaining unit members. Debates over salaries and employee benefit packages have figured prominently in past contract negotiations. Specific issues of concern have included job security, maternity leave, tuition waivers, hiring and tenure policies, sabbatical allotments, teaching workloads, student/faculty ratios, grievance procedures, parking fees, and expanding retirement investment options. In 1974, UUP achieved permanent appointment status for professionals, in 1977 it turned its focus to family sick leave and sabbatical leave, and in 1978 to the creation of minimum salaries for full-time employees. Benefits and sick leave for part-time employees also attracted UUP's attention in the late 1970s; pay equity and disparity issues were a focus between 1982 and 1985, and geographical differences in cost of living were a concern in 1988. In the early 1990s domestic partner care and day care coverage were of particular concern to UUP. At the end of the 1990s, new challenges were seen in distance learning, rapid changes in technology, privatization issues, and the growing use of part-time employees.</p>
+      <p> Under the Taylor Law, UUP is forbidden to engage in work actions such as strikes. Instead, it uses public demonstrations and publicity when contract negotiations stall. UUP also uses these measures to make members of the State Legislature, SUNY management, and the general public aware of issues of concern to it, particularly cuts in the portion of the state budget allocated to SUNY. The prohibition on work actions has also meant that from the beginning UUP has devoted itself to political action for advancing the interests of those it represents. It has registered state lobbyists; sponsored its own, and participated in NYSUT-sponsored, "lobby days" in Albany; and devoted significant resources to monitoring legislative activity and making its positions known to the governor and state legislators. UUP also expresses itself politically through candidate endorsements. UUP's affiliation with NYSUT broadens its legislative outreach and impact.</p>
+      <p> UUP's other defined goals include advancing education in a democracy and democracy in education, and promoting the principles of unity and collective bargaining in higher education. Its broad range of concerns, primarily expressed through resolutions and motions adopted by its Executive Board and Delegate Assembly, have included environmental issues; freedom of expression; and the availability of public higher education. In the 1990s, coalition building with other higher education advocacy groups and community outreach became a focus of UUP's activities.</p>
+      <p> UUP has an administrative office headquartered in Albany and chapters based at each SUNY campus, as well as at SUNY Central Administration in Albany. Each chapter elects delegates to attend the Delegate Assemblies held three times each year. The delegates in turn elect six statewide officers (President, Vice President for Academics, Vice President for Professionals, Secretary, Treasurer, and Membership Development Officer) and the members of UUP's Executive Board.</p>
+      <p> The purpose of the Albany Chapter is to conduct UUP business on the Albany campus, to uphold and effect the provisions of the ratified contract, to supervise the conduct of local grievance procedures, and to consult with management on issues.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_0e729e72f411490b0eb1a4fa2737dd87">
+      <head>Scope and Contents</head>
       <p>The records of the Albany Chapter of UUP include material from the UUP's predecessor organizations, Senate Professional Association and State University Professional Association. The collection includes newsletters, organizational documents, correspondence, and memorabilia such as posters and buttons.</p>
-      <p>Additional or missing copies of chapter, Senate Professional Association, and UUP newsletters and publications are available in the University Archives' Publications File in the Department of Special Collections and Archives. Related collections in the Department include the records of United University Professions (APAP-039). The records of the UUP Oral History Project (APAP-099) include interviews with over thirty individuals involved with the beginnings of unionization at SUNY and UUP's predecessors, the formation of UUP itself, and the first years of UUP's existence. The records of WAMC/Northeast Public Radio (APAP-138) include episodes of programs on which UUP leaders appeared.</p>
+      <p> Additional or missing copies of chapter, Senate Professional Association, and UUP newsletters and publications are available in the University Archives' Publications File in the Department of Special Collections and Archives. Related collections in the Department include the records of United University Professions (APAP-039). The records of the UUP Oral History Project (APAP-099) include interviews with over thirty individuals involved with the beginnings of unionization at SUNY and UUP's predecessors, the formation of UUP itself, and the first years of UUP's existence. The records of WAMC/Northeast Public Radio (APAP-138) include episodes of programs on which UUP leaders appeared.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_3bd4a7d1b02aa9104e71818b9a070a90">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series:Series 1- Subject Files 1973-1989, Series 2- Senate Professional Association Albany Chapter 1968-1973, Series 3- State University Professional Association at Albany 1973-1974, Series 4- Newsletters 1973-1990, Series 5- Memorabilia, Undated.</p>
     </arrangement>
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Labor</subject>
-      <subject source="meg" encodinganalog="650">Education</subject>
-      <subject source="meg" encodinganalog="650">Albany, New York</subject>
-      <subject source="meg" encodinganalog="650">Social Activists and Public Advocates</subject>
-      <corpname encodinganalog="610" source="local">The United University Professions (UUP), Albany Chapter)</corpname>
-      <geogname encodinganalog="651" source="lcsh">New York (State)</geogname>
-      <genreform encodinganalog="655" source="aat">Reports</genreform>
-      <genreform encodinganalog="655" source="aat">Proposals</genreform>
-      <genreform encodinganalog="655" source="aat">Summaries</genreform>
-    </controlaccess>
-    <accessrestrict>
+    <accessrestrict id="aspace_372708b1785f80d26cb367c740a02c45">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <prefercite>
+    <prefercite id="aspace_f055e1d5d3d1568f33103bde858438f5">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, United University Professions (UUP) Albany Chapter Records,  1990. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the  UUP Albany Chapter).</p>
+      <p> Identification of specific item, series, box, folder, United University Professions (UUP) Albany Chapter Records, 1990. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the UUP Albany Chapter).</p>
     </prefercite>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_apap054-1" level="series">
+    <controlaccess>
+      <subject source="meg">Labor</subject>
+      <subject source="meg">Education</subject>
+      <subject source="meg">Albany, New York</subject>
+      <subject source="meg">Social Activists and Public Advocates</subject>
+      <geogname source="lcsh">New York (State)</geogname>
+      <genreform source="aat">Reports</genreform>
+      <genreform source="aat">Proposals</genreform>
+      <genreform source="aat">Summaries</genreform>
+      <corpname source="local">The United University Professions (UUP), Albany Chapter)</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_458cf812ad1edcb9de925020c0e8934f" level="series">
         <did>
-          <unittitle label="Series">Subject Files</unittitle>
+          <unittitle>Subject Files</unittitle>
           <unitid>1</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1973/1989" type="inclusive">1973-1989</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.16</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.16 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1973/1989" type="inclusive">1973-1989</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_5bee1a3966c6e88f06db0ac3fbc09c3c">
+          <head>Arrangement</head>
           <p>Arranged Alphabetically</p>
         </arrangement>
-        <c02 id="nam_apap054-1_1">
+        <c02 id="aspace_e2f9e9b6668e0daa8ea930844966a52e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Agreements Between UUP and New York State</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1974/1985">1974-1985</unitdate>
+            <unitdate normal="1974/1985" type="inclusive">1974-1985</unitdate>
+            <container id="aspace_6b66c7dfbefbd2fb38ee321be5e12214" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_ba342c1098932a72e980cb73e1138097" parent="aspace_6b66c7dfbefbd2fb38ee321be5e12214" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap054-1_2">
+        <c02 id="aspace_9282a57167e9626ea680c50176f6a231" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Correspondence and Memoranda</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1973/1978">1973-1978</unitdate>
+            <unitdate normal="1973/1978" type="inclusive">1973-1978</unitdate>
+            <container id="aspace_b146a6e86700641f670460a5dc22600a" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_00dab45025ede461b317445d75359d91" parent="aspace_b146a6e86700641f670460a5dc22600a" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap054-1_3">
+        <c02 id="aspace_b8255e23fffbb38e5db1275202097deb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Delegate Assembly of UUP</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1975/1978">1975-1978</unitdate>
+            <unitdate normal="1975/1978" type="inclusive">1975-1978</unitdate>
+            <container id="aspace_11d436bb305db6386311fb78db4164b7" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_7de197df07fdd62134c51bb9a5af9dad" parent="aspace_11d436bb305db6386311fb78db4164b7" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap054-1_4">
+        <c02 id="aspace_5d4009185354b8d55ff1e2460d640628" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Delegate Assembly of UUP</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1979/1980">1979-1980</unitdate>
+            <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
+            <container id="aspace_7f49138b1fc74e43c4ef660a19e4d8d8" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_9afba8610a57ea25a22c41637d26988c" parent="aspace_7f49138b1fc74e43c4ef660a19e4d8d8" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap054-1_5">
+        <c02 id="aspace_e10ccfb6a81384bfd70655bb82c6a8ad" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Historical Notes on UUP</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1973">1973</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1979">1979</unitdate>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_9f826a5f05f544bc0fad0966934b2222" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_65e1ab11354469a29e92682689fe3d8a" parent="aspace_9f826a5f05f544bc0fad0966934b2222" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap054-1_6">
+        <c02 id="aspace_9e48e0697bfec63604e9a04fb2c8a57d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Membership Lists</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1974/1978">1974-1978</unitdate>
+            <unitdate normal="1974/1978" type="inclusive">1974-1978</unitdate>
+            <container id="aspace_a07ce7d3b3172929b8555163b0cd24cf" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_42c554a944abe7579c84d90ea9d16c8e" parent="aspace_a07ce7d3b3172929b8555163b0cd24cf" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap054-1_7">
+        <c02 id="aspace_c4f69e4cfff7989cf8baac1d6045d1dc" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Memoranda</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1973/1977">1973-1977</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1985/1986">1985-1986</unitdate>
+            <unitdate normal="1973/1977" type="inclusive">1973-1977</unitdate>
+            <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
+            <container id="aspace_12e7365c70d06266e6fe03717be1b762" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_b252eb2317b03e83cd577826bf2d0456" parent="aspace_12e7365c70d06266e6fe03717be1b762" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap054-1_8">
+        <c02 id="aspace_73846ee564df38052245f5a16f508628" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Newsletters</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1973/1976">1973-1976</unitdate>
+            <unitdate normal="1973/1976" type="inclusive">1973-1976</unitdate>
+            <container id="aspace_7a1475a7b4fd16a4b2f109d0a998eed7" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_3c695383c8f8719fd5a4e534e3afffca" parent="aspace_7a1475a7b4fd16a4b2f109d0a998eed7" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap054-1_9">
+        <c02 id="aspace_24f2522561a8928c3a6ec08b42bb8b5f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>President's File</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1974/1975">1974-1975</unitdate>
+            <unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate>
+            <container id="aspace_4529380ff265253fe1387e1ad92c9989" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_3613faaef206edc27f88d0b831599ff8" parent="aspace_4529380ff265253fe1387e1ad92c9989" type="Folder">9</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_apap054-2" level="series">
+      <c01 id="aspace_520df4b8f21e2220fcb7bf0489cd8409" level="series">
         <did>
-          <unittitle label="Series">Senate Professional Association Albany Chapter</unittitle>
+          <unittitle>Senate Professional Association Albany Chapter</unittitle>
           <unitid>2</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1973/1989" type="inclusive">1973-1989</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.16</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.16 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1973/1989" type="inclusive">1973-1989</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_b05a99c2d9fe3a8138b59504b09c460f">
+          <head>Arrangement</head>
           <p>Arranged Alphabetically</p>
         </arrangement>
-        <c02 id="nam_apap054-2_nam_apap054-1_1">
+        <c02 id="aspace_8f8f1672ade4307aee788f8207e8c931" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Agreements Between UUP and New York State</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1974/1985">1974-1985</unitdate>
+            <unitdate normal="1974/1985" type="inclusive">1974-1985</unitdate>
+            <container id="aspace_85fd632465cac9b552be6b13fd4fef07" label="Mixed Materials" type="Box">1 (2-Senate Professional Association Albany Chapter)</container>
+            <container id="aspace_d3e9cd2bade7a7a4cac08a1730931786" parent="aspace_85fd632465cac9b552be6b13fd4fef07" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap054-2_nam_apap054-1_2">
+        <c02 id="aspace_6f48cf7e164ae5787073bfa1c76cf3e3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Correspondence and Memoranda</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1973/1978">1973-1978</unitdate>
+            <unitdate normal="1973/1978" type="inclusive">1973-1978</unitdate>
+            <container id="aspace_69851003030296b6b3e8b6ff0b016fa2" label="Mixed Materials" type="Box">1 (2-Senate Professional Association Albany Chapter)</container>
+            <container id="aspace_8139c6f8ffb49287a8b2ad95791170b9" parent="aspace_69851003030296b6b3e8b6ff0b016fa2" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap054-2_nam_apap054-1_3">
+        <c02 id="aspace_6122e36967aeb6b3c43eafab8f0c403d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Delegate Assembly of UUP</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1975/1978">1975-1978</unitdate>
+            <unitdate normal="1975/1978" type="inclusive">1975-1978</unitdate>
+            <container id="aspace_c1dcd9a74b9e047ce432d5ae0aa24d6e" label="Mixed Materials" type="Box">1 (2-Senate Professional Association Albany Chapter)</container>
+            <container id="aspace_5e99fbc15fa0d9956fab899f97cdf78e" parent="aspace_c1dcd9a74b9e047ce432d5ae0aa24d6e" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap054-2_nam_apap054-1_4">
+        <c02 id="aspace_7ae0cb92e277eedb9d570572ce5f0942" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Delegate Assembly of UUP</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1979/1980">1979-1980</unitdate>
+            <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
+            <container id="aspace_866b081a1086258e5477f330ddd42a10" label="Mixed Materials" type="Box">1 (2-Senate Professional Association Albany Chapter)</container>
+            <container id="aspace_48fb9b65f21cb292feb9e52ebc462d02" parent="aspace_866b081a1086258e5477f330ddd42a10" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap054-2_nam_apap054-1_5">
+        <c02 id="aspace_a6059884cab4c103f27a021ad4e939d2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Historical Notes on UUP</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1973">1973</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1979">1979</unitdate>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_349bdd3040271cd3791d7cb0ee75ef87" label="Mixed Materials" type="Box">1 (2-Senate Professional Association Albany Chapter)</container>
+            <container id="aspace_930be06b2aacdc492f37dfc67e3cde3e" parent="aspace_349bdd3040271cd3791d7cb0ee75ef87" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap054-2_nam_apap054-1_6">
+        <c02 id="aspace_66e0fa2ddda0287f4664656a23206d5c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Membership Lists</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1974/1978">1974-1978</unitdate>
+            <unitdate normal="1974/1978" type="inclusive">1974-1978</unitdate>
+            <container id="aspace_632cf33f6d259e3c7ceea47aff5ad239" label="Mixed Materials" type="Box">1 (2-Senate Professional Association Albany Chapter)</container>
+            <container id="aspace_b75adc37bc8291b66f26f2c078f4a17f" parent="aspace_632cf33f6d259e3c7ceea47aff5ad239" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap054-2_nam_apap054-1_7">
+        <c02 id="aspace_2ec9a636139f43665b1d598ddf0deebb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Memoranda</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1973/1977">1973-1977</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1985/1986">1985-1986</unitdate>
+            <unitdate normal="1973/1977" type="inclusive">1973-1977</unitdate>
+            <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
+            <container id="aspace_39b524f26f811e0e44dbd5ea4cfb9023" label="Mixed Materials" type="Box">1 (2-Senate Professional Association Albany Chapter)</container>
+            <container id="aspace_ce828646a5d7703608dee5f877fa3891" parent="aspace_39b524f26f811e0e44dbd5ea4cfb9023" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap054-2_nam_apap054-1_8">
+        <c02 id="aspace_d32fb0920e1d81148b0ca51fb3865906" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Newsletters</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1973/1976">1973-1976</unitdate>
+            <unitdate normal="1973/1976" type="inclusive">1973-1976</unitdate>
+            <container id="aspace_53d9d75cd9b8be099de02629658e1d39" label="Mixed Materials" type="Box">1 (2-Senate Professional Association Albany Chapter)</container>
+            <container id="aspace_b654cadce4f23cb36559e56eeb265815" parent="aspace_53d9d75cd9b8be099de02629658e1d39" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap054-2_nam_apap054-1_9">
+        <c02 id="aspace_4b65b9e73d1c9e8ac7988fc222d3806e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>President's File</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1974/1975">1974-1975</unitdate>
+            <unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate>
+            <container id="aspace_21c8ac6c6d2e902ed2406b65dc4685b6" label="Mixed Materials" type="Box">1 (2-Senate Professional Association Albany Chapter)</container>
+            <container id="aspace_6f1a5c526c8650b8dd13962f84028ffc" parent="aspace_21c8ac6c6d2e902ed2406b65dc4685b6" type="Folder">9</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_apap054-3" level="series">
+      <c01 id="aspace_48ed6f8b2b3cc13b2850a70bd4055ab8" level="series">
         <did>
-          <unittitle label="Series">State University Professional Association at Albany</unittitle>
+          <unittitle>State University Professional Association at Albany</unittitle>
           <unitid>3</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1973/1974" type="inclusive">1973-1974</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.10</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.10 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_647f8c9f6e38e33c00a23f207db5e1b6">
+          <head>Arrangement</head>
           <p>Arranged Alphabetically.</p>
         </arrangement>
-        <c02 id="nam_apap054-3_1">
+        <c02 id="aspace_213f6a1cb9274c6667d3f7afd1f994e0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">31</container>
             <unittitle>SUPA Spectrum Newsletter</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1973/1974"> 1973-1974</unitdate>
+            <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+            <container id="aspace_e26778c7de98ee8b0b26cc38a76b0530" label="Mixed Materials" type="Box">1 (3-State University Professional Association at Alban)</container>
+            <container id="aspace_e6e2bf1c16370c4679ecb0f7a0d7add1" parent="aspace_e26778c7de98ee8b0b26cc38a76b0530" type="Folder">31</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_apap054-4" level="series">
+      <c01 id="aspace_276748c2586adaaf8ed086261c16c02f" level="series">
         <did>
-          <unittitle label="Series">Newsletters</unittitle>
+          <unittitle>Newsletters</unittitle>
           <unitid>4</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1973/1990" type="inclusive">1973-1990</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.16</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.16 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1973/1990" type="inclusive">1973-1990</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_06c7fef4f6545b3ebd4c4451e46de9ac">
+          <head>Arrangement</head>
           <p>Arranged Chronologically.</p>
         </arrangement>
-        <c02 id="nam_apap054-4_1">
+        <c02 id="aspace_2111ff5094239588b5d4917ffcfa38ae" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">32</container>
             <unittitle>Newsletters</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1973/1976">1973-1976</unitdate>
+            <unitdate normal="1973/1976" type="inclusive">1973-1976</unitdate>
+            <container id="aspace_5c1a42d36899dc9b2b5a3800af46856e" label="Mixed Materials" type="Box">1 (4-Newsletters)</container>
+            <container id="aspace_631e4ac82a6780cf6acf2fc3baa3621f" parent="aspace_5c1a42d36899dc9b2b5a3800af46856e" type="Folder">32</container>
           </did>
         </c02>
-        <c02 id="nam_apap054-4_2">
+        <c02 id="aspace_298266b4c47c19d6a39d1ec89fe9b14b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">33</container>
             <unittitle>From the President's Log</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1976">1976</unitdate>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_ec4aa7c17fbca13abbc615a43a391770" label="Mixed Materials" type="Box">1 (4-Newsletters)</container>
+            <container id="aspace_10696ca49b9d082ffdcb0982f5409b9f" parent="aspace_ec4aa7c17fbca13abbc615a43a391770" type="Folder">33</container>
           </did>
         </c02>
-        <c02 id="nam_apap054-4_3">
+        <c02 id="aspace_dec4978178dfa30064f90123ec344c49" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">34</container>
             <unittitle>The Forum</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1979/1990">1979-1990</unitdate>
+            <unitdate normal="1979/1990" type="inclusive">1979-1990</unitdate>
+            <container id="aspace_93c28485475ae671a04e5158d5dfa79a" label="Mixed Materials" type="Box">1 (4-Newsletters)</container>
+            <container id="aspace_85de8aa6b6b803ac76b2c5ac0b20f6df" parent="aspace_93c28485475ae671a04e5158d5dfa79a" type="Folder">34</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_apap054-5" level="series">
+      <c01 id="aspace_b19ee4e0a90f5688e5c49c42171ca110" level="series">
         <did>
-          <unittitle label="Series">Memorabilia</unittitle>
+          <unittitle>Memorabilia</unittitle>
           <unitid>5</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1968/1990" type="inclusive">1968-1990</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.33</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.33 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1968/1990" type="inclusive">1968-1990</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_fda3ad370bbb449b21fe62ee614b7e01">
+          <head>Arrangement</head>
           <p>Arranged by Format</p>
         </arrangement>
-        <c02 id="nam_apap054-5_1">
+        <c02 id="aspace_509a5fc3dcb6e628697751b84083362b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Posters</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1968/1990">Undated</unitdate>
+            <unitdate normal="1968/1990" type="inclusive">Undated</unitdate>
+            <container id="aspace_51bb4dc82b89afdab858e3dd09f44b55" label="Mixed Materials" type="Box">1 (5-Memorabilia)</container>
+            <container id="aspace_1f1e1656f1e4cfe5aedd6800b0a07946" parent="aspace_51bb4dc82b89afdab858e3dd09f44b55" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap054-5_2">
+        <c02 id="aspace_8953caa75290c7908c3735e5816e9910" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Buttons</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1968/1990">Undated</unitdate>
+            <unitdate normal="1968/1990" type="inclusive">Undated</unitdate>
+            <container id="aspace_7d2310a517bb20575eb5280f8c36d57d" label="Mixed Materials" type="Box">1 (5-Memorabilia)</container>
+            <container id="aspace_0f0f2c91d3d5795e3b24ea85e629501a" parent="aspace_7d2310a517bb20575eb5280f8c36d57d" type="Folder">2</container>
           </did>
         </c02>
       </c01>

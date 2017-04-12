@@ -1,437 +1,388 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap018">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap018.xml" identifier="##">nam_apap018</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap018">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap018.xml">apap018</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>FULTON COUNTY TYPOGRAPHICAL UNION NO. 268 RECORDS (APAP018)<date normal="1894/1973" type="inclusive">1894-1973</date></titleproper>
+        <titleproper>Fulton County Typographical Union, No. 268; Records <num>apap018</num></titleproper>
         <author>Geoffrey A. Huth</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2012">Copyright 2012 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2012</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Michael Carroll<date normal="2014">2014</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 13:36:31 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Encoded in EAD by Michael Carroll</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>FULTON COUNTY TYPOGRAPHICAL UNION NO. 268 RECORDS (APAP018)<date normal="1894/1973" type="inclusive">1894-1973</date></titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2012</date>
-      <p>For reference queries contact M.E. Grenander Department of Special Collections and Archives Reference staff or (518)-437-3935</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap018</unitid>
-      <unittitle>Fulton County Typographical Union No. 268 Records<unitdate type="inclusive" normal="1894/1973" label="Date:">1894-1973</unitdate></unittitle>
-      <origination>
-        <corpname encodinganalog="110" source="local">Typographical Union No. 268</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">1.25</extent>
-      </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">The Fulton County Typographical Union No. 268 
-	  records document the workings of this union, primarily, in the form of minutes, from 1894-1973.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Fulton County Typographical Union No. 268 Records<unitdate normal="1894/1973" type="inclusive">1894-1973</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">Typographical Union No. 268</corpname>
+      </origination>
+      <unitid>apap018</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.25 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_29e9cb32b1d2b64399099425d87306d1">The Fulton County Typographical Union No. 268 records document the workings of this union, primarily, in the form of minutes, from 1894-1973.</abstract>
+      <langmaterial id="aspace_cc62fc2c8ad8505040851a60e6a1e5bf">English</langmaterial>
+      <physloc id="aspace_0378af4d7b94419afeacfc6baf4b7f4e">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_902f0754127f73485a992d3df8e300fe">
+      <head>Processing Information</head>
+      <p>Processed in 2012 by Geoffrey A. Huth.</p>
+    </processinfo>
+    <accessrestrict id="aspace_230139598fc988fa426875e2dc54dbb2">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_d925b277cca6184c2e095a1f0583491c">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_9043f458612e573b1194db3a21652576">
       <head>Acquisition Information</head>
-      <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander 
-		 Department of Special Collections and Archives, Fulton County Typographical Union, No. 268, CWA.
-		 The records were subsequently microfilmed as part of the Harry Van Arsdale, Jr., Labor History 
-		 Project.</p>
+      <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives, Fulton County Typographical Union, No. 268, CWA. The records were subsequently microfilmed as part of the Harry Van Arsdale, Jr., Labor History Project.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_ae90370f684827174a8d75c6fec96ab3">
       <head>Administrative History</head>
-      <p>In January of 1894, printers of Fulton County, New York, met to consider the formation 
-		 of a typographical union. On March 19 of that year, the Fulton County Typographical Union, 
-		 No. 268, was chartered by the International Typographical Union (ITU) according to Fulton County 
-		 Typographical Union, No. 268, Minutes, 1894. Although the union had jurisdiction over all 
-		 of Fulton County, the printers were generally employed in composing rooms in Gloversville and Johnstown, 
-		 the county's twin cities.</p>
-      <p>In 1933, in the middle of the depression, the printers of Fulton County endured some of their
-		 most difficult contract negotiations. The local newspaper publishers were losing advertisement 
-		 because of the economic conditions in the county and the nation as a whole, so they demanded that 
-		 the printers take wage cuts. After a few months of discussion and the introduction of strikebreakers 
-		 by the American Newspaper Publishers Association, the union finally acceded to the publishers' demands
-		 according to Fulton County Typographical Union, No. 268, Minutes, 1933.</p>
-      <p>The Fulton County Typographical Union, No. 268, has always been small. The union never had more than
-		 approximately 50 members, and now it has substantially less than half that number. With the 
-		 difficulties of running a small union and the pressure to consolidate, the Fulton County 
-		 Typographical Union might some day merge with the Albany Typographical Union No. 4.</p>
+      <p>In January of 1894, printers of Fulton County, New York, met to consider the formation of a typographical union. On March 19 of that year, the Fulton County Typographical Union, No. 268, was chartered by the International Typographical Union (ITU) according to Fulton County Typographical Union, No. 268, Minutes, 1894. Although the union had jurisdiction over all of Fulton County, the printers were generally employed in composing rooms in Gloversville and Johnstown, the county's twin cities.</p>
+      <p> In 1933, in the middle of the depression, the printers of Fulton County endured some of their most difficult contract negotiations. The local newspaper publishers were losing advertisement because of the economic conditions in the county and the nation as a whole, so they demanded that the printers take wage cuts. After a few months of discussion and the introduction of strikebreakers by the American Newspaper Publishers Association, the union finally acceded to the publishers' demands according to Fulton County Typographical Union, No. 268, Minutes, 1933.</p>
+      <p> The Fulton County Typographical Union, No. 268, has always been small. The union never had more than approximately 50 members, and now it has substantially less than half that number. With the difficulties of running a small union and the pressure to consolidate, the Fulton County Typographical Union might some day merge with the Albany Typographical Union No. 4.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The records of the Fulton County Typographical Union, No. 268, are remarkable for 
-		 containing a complete set of minutes (1894-1963). included in the minutes are financial
-		 statements of the union, reports of delegates to conventions, and occasional correspondence. 
-		 All the contracts of the union have not survived, but there is a good selection of them for 
-		 the years 1901 to 1963. There are, however, gaps of many years in these contracts, and the contracts
-		 are especially voluminous in the first twelve years of the twentieth century.
-		 A couple of other items are included in this collection--a constitution and a scale report--but 
-		 they are not as important as are the other types of material.</p>
-      <p>These records provide insight into the workings of a small union over almost a century of 
-		 development. The fluctuations of the workforce and the introduction of new technologies play 
-		 a role in the progress of this union, as do the necessary sacrifices of a small union in an often 
-		 depressed economy. In recent years, Fulton County has had the highest unemployment in New York State.</p>
-      <p>For related records, see the records of the Albany Typographical Union No. 4, 1850-55, 1869, 1874-1988;
-		 Graphic Communications International Union, Local 259-M, 1941, 1946-88; and the records of the Empire 
-		 Typographical and Mailer Conference, 1919-20, 1929-75, 1983, 1985-88, 1990. Other available records 
-		 related to Fulton County include the records of the Glove Cities Area Joint Board, ACTWU, 1933-89; 
-		 and occasional items in the records of the Graphic Communications International Union, Local 259-M. 
-		 For additional labor collections in the Department, see the online Labor subject guide.</p>
+    <scopecontent id="aspace_4b61146fa776d1ec7a6d5b866fe27e64">
+      <head>Scope and Contents</head>
+      <p>The records of the Fulton County Typographical Union, No. 268, are remarkable for containing a complete set of minutes (1894-1963). included in the minutes are financial statements of the union, reports of delegates to conventions, and occasional correspondence. All the contracts of the union have not survived, but there is a good selection of them for the years 1901 to 1963. There are, however, gaps of many years in these contracts, and the contracts are especially voluminous in the first twelve years of the twentieth century. A couple of other items are included in this collection--a constitution and a scale report--but they are not as important as are the other types of material.</p>
+      <p> These records provide insight into the workings of a small union over almost a century of development. The fluctuations of the workforce and the introduction of new technologies play a role in the progress of this union, as do the necessary sacrifices of a small union in an often depressed economy. In recent years, Fulton County has had the highest unemployment in New York State.</p>
+      <p> For related records, see the records of the Albany Typographical Union No. 4, 1850-55, 1869, 1874-1988; Graphic Communications International Union, Local 259-M, 1941, 1946-88; and the records of the Empire Typographical and Mailer Conference, 1919-20, 1929-75, 1983, 1985-88, 1990. Other available records related to Fulton County include the records of the Glove Cities Area Joint Board, ACTWU, 1933-89; and occasional items in the records of the Graphic Communications International Union, Local 259-M. For additional labor collections in the Department, see the online Labor subject guide.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_a9ec3836f3cbce763594822ede411f0a">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series:</p>
-      <list type="simple">
-        <item>Series 1 - Minutes, 1894-1963, Undated</item>
-        <item>Series 2 - Subject Files, 1901-10, 1912, 1918, 1925, 1930, 1953-54, 1957, 1959, 1961, 1963, Undated</item>
-      </list>
       <p>Series 1 is arranged chronologically.</p>
     </arrangement>
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Labor</subject>
-      <corpname encodinganalog="610" source="local">Fulton County Typographical Union, No. 268 Records</corpname>
-      <subject encodinganalog="650" source="lcsh">Labor union locals--United States</subject>
-      <geogname encodinganalog="651" source="lcsh">New York (State)</geogname>
-      <geogname encodinganalog="651" source="lcsh">Fulton County (N.Y.)</geogname>
-      <genreform encodinganalog="655" source="aat">Administrative records</genreform>
-      <genreform encodinganalog="655" source="aat">Minutes</genreform>
-      <genreform encodinganalog="655" source="aat">Contracts</genreform>
-    </controlaccess>
-    <prefercite>
+    <prefercite id="aspace_79e7062864f5f401e7ead01805a25897">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Fulton County Typographical Union No. 268 Records, 1894-1973. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, Fulton County Typographical Union No. 268 Records, 1894-1973. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
-    <dsc type="combined">
-      <head>Container List</head>
-      <!-- Start series 1-->
-      <c01 level="series" id="nam_apap018-1">
+    <controlaccess>
+      <subject source="meg">Labor</subject>
+      <subject source="lcsh">Labor union locals--United States</subject>
+      <geogname source="lcsh">New York (State)</geogname>
+      <geogname source="lcsh">Fulton County (N.Y.)</geogname>
+      <genreform source="aat">Administrative records</genreform>
+      <genreform source="aat">Minutes</genreform>
+      <genreform source="aat">Contracts</genreform>
+      <corpname source="local">Fulton County Typographical Union, No. 268 Records</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_248e252133dd5b6456149ddcc3cdfc2c" level="series">
         <did>
+          <unittitle>Minutes</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Minutes</unittitle>
-          <unitdate type="inclusive" normal="1894/1963">1894-1963</unitdate>
+          <unitdate normal="1894/1963" type="inclusive">1894-1963</unitdate>
         </did>
-        <c02 id="nam_apap018-1_1">
+        <c02 id="aspace_ee83862ed2543f1c2855eee8eba777a6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1894/1901">1894-1901</unitdate>
+            <unitdate normal="1894/1901" type="inclusive">1894-1901</unitdate>
+            <container id="aspace_093916fc08384f2497cd84af145e6730" label="Mixed Materials" type="Box">1 (1-Minutes)</container>
+            <container id="aspace_4c93a45e06bb794d23b5da89296453c7" parent="aspace_093916fc08384f2497cd84af145e6730" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-1_2">
+        <c02 id="aspace_053d5c861e00daa55b5feaf37b6a9147" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1902/1909">1902-1909</unitdate>
+            <unitdate normal="1902/1909" type="inclusive">1902-1909</unitdate>
+            <container id="aspace_0b3437d09ee4caadb310799ec5fc9298" label="Mixed Materials" type="Box">1 (1-Minutes)</container>
+            <container id="aspace_5d17532d27a8734e7b17c93edd66e0fa" parent="aspace_0b3437d09ee4caadb310799ec5fc9298" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-1_3">
+        <c02 id="aspace_ecc3a21e59a7bd617993fe290dad6ea1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1910/1915">1910-1915</unitdate>
+            <unitdate normal="1910/1915" type="inclusive">1910-1915</unitdate>
+            <container id="aspace_efc7e4f546755eca974124b73d46b8c1" label="Mixed Materials" type="Box">1 (1-Minutes)</container>
+            <container id="aspace_cae271eb8c15c35f8254f31b88fb5391" parent="aspace_efc7e4f546755eca974124b73d46b8c1" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-1_4">
+        <c02 id="aspace_37c4b4f58f0b2f5db831f49efc801253" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1916/1919">1916-1919</unitdate>
+            <unitdate normal="1916/1919" type="inclusive">1916-1919</unitdate>
+            <container id="aspace_abb314d546f05a30a6b00361d624e4a5" label="Mixed Materials" type="Box">1 (1-Minutes)</container>
+            <container id="aspace_22cc85a56963047d9ce90af4107e0dcf" parent="aspace_abb314d546f05a30a6b00361d624e4a5" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-1_5">
+        <c02 id="aspace_2cfdeefe82ac38db5515f47e2ca3c7d2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920/1923">1920-1923</unitdate>
+            <unitdate normal="1920/1923" type="inclusive">1920-1923</unitdate>
+            <container id="aspace_2cb2273d7160a8c02aaf7a66c55b1c11" label="Mixed Materials" type="Box">1 (1-Minutes)</container>
+            <container id="aspace_0aaf635ec283908294fa3802b27e138f" parent="aspace_2cb2273d7160a8c02aaf7a66c55b1c11" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-1_6">
+        <c02 id="aspace_290d646705608b859350a7313e4f7497" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1924/1927">1924-1927</unitdate>
+            <unitdate normal="1924/1927" type="inclusive">1924-1927</unitdate>
+            <container id="aspace_d1cdeb56da77b31649a0a0a4dc78e99b" label="Mixed Materials" type="Box">1 (1-Minutes)</container>
+            <container id="aspace_5ff858eff085ec791a574b04384d796e" parent="aspace_d1cdeb56da77b31649a0a0a4dc78e99b" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-1_7">
+        <c02 id="aspace_33c751f52805143adee6dc6303cd0034" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1928/1930">1928-1930</unitdate>
+            <unitdate normal="1928/1930" type="inclusive">1928-1930</unitdate>
+            <container id="aspace_0500162a087a9fd43acf1f15537032af" label="Mixed Materials" type="Box">1 (1-Minutes)</container>
+            <container id="aspace_45904fc2cbf2fa477903c632027f66fc" parent="aspace_0500162a087a9fd43acf1f15537032af" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-1_8">
+        <c02 id="aspace_5379feb7e939ea9aea0758ae63a8f9bd" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1930/1934">1930-1934</unitdate>
+            <unitdate normal="1930/1934" type="inclusive">1930-1934</unitdate>
+            <container id="aspace_1cd2a78ee9061dec96f210e2312ce0d5" label="Mixed Materials" type="Box">1 (1-Minutes)</container>
+            <container id="aspace_ba4c4badbe7a38ec743ab081c96f2843" parent="aspace_1cd2a78ee9061dec96f210e2312ce0d5" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-1_9">
+        <c02 id="aspace_ab7ee9582ffbe17f1f979abc242c0b57" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1935/1940">1935-1940</unitdate>
+            <unitdate normal="1935/1940" type="inclusive">1935-1940</unitdate>
+            <container id="aspace_e42dd18b70afa969030e6aff88ada654" label="Mixed Materials" type="Box">1 (1-Minutes)</container>
+            <container id="aspace_8e167dc2005e0b8b6779fdf5f66b534e" parent="aspace_e42dd18b70afa969030e6aff88ada654" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-1_10">
+        <c02 id="aspace_06ec44ae2cf18c79d392f6e972cf363b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941/1945">1941-1945</unitdate>
+            <unitdate normal="1941/1945" type="inclusive">1941-1945</unitdate>
+            <container id="aspace_62b9c316fa27ad833241cf2aaf1bb1fd" label="Mixed Materials" type="Box">1 (1-Minutes)</container>
+            <container id="aspace_a77e3948aeef87db419ad1f90fcfad9e" parent="aspace_62b9c316fa27ad833241cf2aaf1bb1fd" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-1_11">
+        <c02 id="aspace_b72f307dff04429faf95fc546b5283b0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946/1951">1946-1951</unitdate>
+            <unitdate normal="1946/1951" type="inclusive">1946-1951</unitdate>
+            <container id="aspace_d480e4d21607cf52b07ea96e5acb2508" label="Mixed Materials" type="Box">1 (1-Minutes)</container>
+            <container id="aspace_b4ce737935c54da697dc5b311542fd56" parent="aspace_d480e4d21607cf52b07ea96e5acb2508" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-1_12">
+        <c02 id="aspace_35799522e49fe7e24d3363a3cd1ec0dd" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1952/1955">1952-1955</unitdate>
+            <unitdate normal="1952/1955" type="inclusive">1952-1955</unitdate>
+            <container id="aspace_4e105a2889b07c97c30673bc4436c46e" label="Mixed Materials" type="Box">1 (1-Minutes)</container>
+            <container id="aspace_e695a59b36bc4b3978000e87b27bd4c4" parent="aspace_4e105a2889b07c97c30673bc4436c46e" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-1_13">
+        <c02 id="aspace_95487ffc6d0592e619e2ca63f0d53e02" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956/1959">1956-1959</unitdate>
+            <unitdate normal="1956/1959" type="inclusive">1956-1959</unitdate>
+            <container id="aspace_f40cde936a50419378b600cd7bc55af8" label="Mixed Materials" type="Box">1 (1-Minutes)</container>
+            <container id="aspace_002ebba0cce3d1a004209cef46035dcf" parent="aspace_f40cde936a50419378b600cd7bc55af8" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-1_14">
+        <c02 id="aspace_b1dc46a4ce779da0dd0a7981e28b9990" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960/1963">1960-1963</unitdate>
+            <unitdate normal="1960/1963" type="inclusive">1960-1963</unitdate>
+            <container id="aspace_fab4350cd14b76885ea910bc7f6063e0" label="Mixed Materials" type="Box">1 (1-Minutes)</container>
+            <container id="aspace_4ab0411aaa2efd4136bc92b9560b1cbf" parent="aspace_fab4350cd14b76885ea910bc7f6063e0" type="Folder">14</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap018-2">
+      <c01 id="aspace_ad643254383dd80839b191cebb6377bd" level="series">
         <did>
+          <unittitle>Subject Files</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Subject Files</unittitle>
-          <unitdate type="inclusive" normal="1901/1912">1901-1912</unitdate>
-          <unitdate type="inclusive" normal="1918">1918</unitdate>
-          <unitdate type="inclusive" normal="1925">1925</unitdate>
-          <unitdate type="inclusive" normal="1930">1930</unitdate>
-          <unitdate type="inclusive" normal="1953/1963">1953-1963</unitdate>
+          <unitdate normal="1901/1912" type="inclusive">1901-1912</unitdate>
+          <unitdate normal="1918/1918" type="inclusive">1918</unitdate>
+          <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
+          <unitdate normal="1930/1930" type="inclusive">1930</unitdate>
+          <unitdate normal="1953/1963" type="inclusive">1953-1963</unitdate>
         </did>
-        <c02 id="nam_apap018-2_1">
+        <c02 id="aspace_3cc5fad811c2e1829d4a9edae140f04e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Constitution and Rules of Order</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1954">1954</unitdate>
+            <unitdate normal="1954/1954" type="inclusive">1954</unitdate>
+            <container id="aspace_ec989f53767d83fa3da1a37374caa949" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_efad0faa5c4cbf63314d03a765d5d73e" parent="aspace_ec989f53767d83fa3da1a37374caa949" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-2_2">
+        <c02 id="aspace_a76009511fa8d0e560d3e01292f3a7c6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Contracts, Sample</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1930">1930</unitdate>
+            <unitdate normal="1930/1930" type="inclusive">1930</unitdate>
+            <container id="aspace_53427fefc0457f38b41b7a9efc53292d" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_e1d13e8615bdbfb71a8d9304198d0304" parent="aspace_53427fefc0457f38b41b7a9efc53292d" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-2_3">
+        <c02 id="aspace_636ab0511326c4ff394967e50944f17e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Contracts, American Fancier</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1901">1901</unitdate>
+            <unitdate normal="1901/1901" type="inclusive">1901</unitdate>
+            <container id="aspace_a2d281160dab1d1c13645c6789a34645" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_46317f4b39e122dfdde0daeb6bc583c9" parent="aspace_a2d281160dab1d1c13645c6789a34645" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-2_4">
+        <c02 id="aspace_2f53ba6443a3c00709e5435a6541a0bb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Contracts, A. E. Blanck</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1901/1903">1901-1903</unitdate>
+            <unitdate normal="1901/1903" type="inclusive">1901-1903</unitdate>
+            <container id="aspace_d47da55e6679038fad1c0701cc3a3ff6" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_1773c467dc32dadc6042808e5955ad91" parent="aspace_d47da55e6679038fad1c0701cc3a3ff6" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-2_5">
+        <c02 id="aspace_d2eb9c2c8b93d54ccf2121e0167692cb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Contracts, Byron &amp; Scovic</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1918">1918</unitdate>
+            <unitdate normal="1918/1918" type="inclusive">1918</unitdate>
+            <container id="aspace_e57d7165d2598e36414a1e7f8eb75bb3" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_2b54804872df69dba79e2365f9c5e69e" parent="aspace_e57d7165d2598e36414a1e7f8eb75bb3" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-2_6">
+        <c02 id="aspace_989006c954f45e236ec61e805f79db74" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Contracts, Collins &amp; Combes Publishing Company</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1902/1905">1902-1905</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1908">1908</unitdate>
+            <unitdate normal="1902/1905" type="inclusive">1902-1905</unitdate>
+            <unitdate normal="1908/1908" type="inclusive">1908</unitdate>
+            <container id="aspace_b792b41bd24a25d604a775377fb4b568" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_105d6b948b204005b35714f1a500c1be" parent="aspace_b792b41bd24a25d604a775377fb4b568" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-2_7">
+        <c02 id="aspace_b103fb2ebbfa2e5a2a19c22c28ac6173" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Contracts, William B. Collins Company</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1901">1901</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1909">1909</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1925">1925</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1930">1930</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1953/1963">1953-1963</unitdate>
+            <unitdate normal="1901/1901" type="inclusive">1901</unitdate>
+            <unitdate normal="1909/1909" type="inclusive">1909</unitdate>
+            <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
+            <unitdate normal="1930/1930" type="inclusive">1930</unitdate>
+            <unitdate normal="1953/1963" type="inclusive">1953-1963</unitdate>
+            <container id="aspace_e5e2e65fbfe434a8bb82c7ce9136f0a0" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_4b01d7c38156595ea706d9b2b57a356e" parent="aspace_e5e2e65fbfe434a8bb82c7ce9136f0a0" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-2_8">
+        <c02 id="aspace_8416a730244ee491f0486b339e5ec623" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Contracts, James S. Comrie</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1906">1906</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1908">1908</unitdate>
+            <unitdate normal="1906/1906" type="inclusive">1906</unitdate>
+            <unitdate normal="1908/1908" type="inclusive">1908</unitdate>
+            <container id="aspace_7ff20c2dc7c90696584c98088bfdd987" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_6bf774455cdfe759fa499d41d20060dd" parent="aspace_7ff20c2dc7c90696584c98088bfdd987" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-2_9">
+        <c02 id="aspace_841293c611068f5ffb650b8b73eecb2b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Contracts, Daily Leader</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1905/1907">1905-1907</unitdate>
+            <unitdate normal="1905/1907" type="inclusive">1905-1907</unitdate>
+            <container id="aspace_5b60a07fcc79863ce5bbe9f2e5a423a9" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_531e48be9f22d0ede39cb32c52e5a59a" parent="aspace_5b60a07fcc79863ce5bbe9f2e5a423a9" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-2_10">
+        <c02 id="aspace_0bf317554d2e1626872fdf34b2c1c626" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Contracts, Fulton County Democrat</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1912">1912</unitdate>
+            <unitdate normal="1912/1912" type="inclusive">1912</unitdate>
+            <container id="aspace_8a755ba8638a69effe36ad4fe0792832" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_ba4da2b00687d80729a1c264d286ce1b" parent="aspace_8a755ba8638a69effe36ad4fe0792832" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-2_11">
+        <c02 id="aspace_1225d9a131a186615bfe9e945d63a065" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Contracts, John B. Judson</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1901/1903">1901-1903</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1905/1907">1905-1907</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1909/1910">1909-1910</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1925">1925</unitdate>
+            <unitdate normal="1901/1903" type="inclusive">1901-1903</unitdate>
+            <unitdate normal="1905/1907" type="inclusive">1905-1907</unitdate>
+            <unitdate normal="1909/1910" type="inclusive">1909-1910</unitdate>
+            <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
+            <container id="aspace_63699c9e7bdb8ccdbe4dc35b3f523b80" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_f8da7ae02ef7707ed26f13443de86865" parent="aspace_63699c9e7bdb8ccdbe4dc35b3f523b80" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-2_12">
+        <c02 id="aspace_ebad95ee0b62bc60ffd6203a3bb50f0e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Contracts, Labor News Publishing Company</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1902">1902</unitdate>
+            <unitdate normal="1902/1902" type="inclusive">1902</unitdate>
+            <container id="aspace_7827eb96d07094d96f39b29e4aa73475" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_10af446f7d4f673dc1379cd9b85279d8" parent="aspace_7827eb96d07094d96f39b29e4aa73475" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-2_13">
+        <c02 id="aspace_091fdd1703a60e0a00be80fa8beb1e76" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Contracts, Merwin Printing Company</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1925">1925</unitdate>
+            <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
+            <container id="aspace_13eaaf4160b20ffc4f536badb8d67017" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_2e2b58e22e7104aae100b2f641921e57" parent="aspace_13eaaf4160b20ffc4f536badb8d67017" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-2_14">
+        <c02 id="aspace_8bc2f10e52c41a4616f2d5625df5a1fb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Contracts, Morning Herald Printing Company</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1902/1903">1902-1903</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1905/1908">1905-1908</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1925">1925</unitdate>
+            <unitdate normal="1902/1903" type="inclusive">1902-1903</unitdate>
+            <unitdate normal="1905/1908" type="inclusive">1905-1908</unitdate>
+            <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
+            <container id="aspace_713bfe4e1c1beb91762e084f8239e2b5" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_7540053579eb0cbb65bb0e3fb52c96f4" parent="aspace_713bfe4e1c1beb91762e084f8239e2b5" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-2_15">
+        <c02 id="aspace_ac8ff473c5284df0d7805f4b6a42744d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Contracts, H. Ross [Owner of the Gloversville Standard and the Morning Herald]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1901">1901</unitdate>
+            <unitdate normal="1901/1901" type="inclusive">1901</unitdate>
+            <container id="aspace_2e84a91f91431cc6b4af436d79a4da1e" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_67ff11a77bb4835b4f04d3adf8cfc0b0" parent="aspace_2e84a91f91431cc6b4af436d79a4da1e" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-2_16">
+        <c02 id="aspace_367abe7e38f0994ff6feeda61af01bed" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Contracts, Charles M. Smith</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1901/1903">1901-1903</unitdate>
+            <unitdate normal="1901/1903" type="inclusive">1901-1903</unitdate>
+            <container id="aspace_c73419d54a4ed1bc87cd6b0eaec8882c" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_c192e8b57e46f4f5d4df254210157dac" parent="aspace_c73419d54a4ed1bc87cd6b0eaec8882c" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-2_17">
+        <c02 id="aspace_bfed7f37d7dc4b37d310f3ba283aa17b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>Contracts, James W. Snyder</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1902">1902</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1905/1906">1905-1906</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1908/1909">1908-1909</unitdate>
+            <unitdate normal="1902/1902" type="inclusive">1902</unitdate>
+            <unitdate normal="1905/1906" type="inclusive">1905-1906</unitdate>
+            <unitdate normal="1908/1909" type="inclusive">1908-1909</unitdate>
+            <container id="aspace_8e8224a8a1d8e246b3c8e25c2fa37e21" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_e31c66a9f045bcac113707349915f0d8" parent="aspace_8e8224a8a1d8e246b3c8e25c2fa37e21" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-2_18">
+        <c02 id="aspace_a8d271c71dd6e7e334f99ba66812cace" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>History of Fulton County Typographical Union by E. L. Wert, (MISSING), Aug.</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_95f3c4191d05080b81538a4faa3856fb" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_7aea1e5eeba6c35b99f1864dc038d852" parent="aspace_95f3c4191d05080b81538a4faa3856fb" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap018-2_19">
+        <c02 id="aspace_3b1efb092cb3506d7142f5895609c27f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>Scale Report</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1904">1904</unitdate>
+            <unitdate normal="1904/1904" type="inclusive">1904</unitdate>
+            <container id="aspace_9130fab16f936bb43f203016e607f991" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_566d4c3f4fb4c5ddbd860f00d4797aa8" parent="aspace_9130fab16f936bb43f203016e607f991" type="Folder">19</container>
           </did>
         </c02>
       </c01>

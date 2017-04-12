@@ -1,288 +1,265 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap024">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap024.xml" identifier="##">nam_apap024</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap024">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap024.xml">apap024</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>INTERNATIONAL UNION OF ELECTRONIC ELECTRICAL TECHNICAL SALARIED AND MACHINE WORKERS LOCAL 379 MATCH WORKERS' UNION RECORDS (APAP024)<date normal="1944/1985" type="inclusive">1944-1985</date></titleproper>
+        <titleproper>International Union of Electronic, Electrical, Technical, Salaried and Machine Workers, Local 379, Matchworkers' Union; Records <num>apap024</num></titleproper>
         <author>Geoffrey A. Huth</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="1989">Copyright 1989 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>1989</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Michael Corcione<date normal="2014">2014</date>
-			</creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 18:03:33 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Encoded in EAD by Michael Corcione</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>INTERNATIONAL UNION OF ELECTRONIC ELECTRICAL TECHNICAL SALARIED AND MACHINE WORKERS LOCAL 379 MATCH WORKERS' UNION RECORDS (APAP024)<date normal="1944/1985" type="inclusive">1944-1985</date></titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2012</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap024</unitid>
-      <unittitle>International Union of Electronic Electrical Technical Salaried And Machine Workers Local 379 Match Workers' Union Records<unitdate type="inclusive" normal="1944/1985" label="Date:"> 1944-1985</unitdate></unittitle>
-      <origination>
-        <corpname encodinganalog="110" source="local">International Union Of Electronic Electrical Technical Salaried And Machine Workers Local 379 Match Workers' Union</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
+      </repository>
+      <unittitle>International Union of Electronic Electrical Technical Salaried And Machine Workers Local 379 Match Workers' Union Records<unitdate normal="1944/1985" type="inclusive">1944-1985</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">International Union Of Electronic Electrical Technical Salaried And Machine Workers Local 379 Match Workers' Union</corpname>
       </origination>
-      <physdesc>
-        <extent unit="cubic ft.">1</extent>
+      <unitid>apap024</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 cubic ft.</extent>
         <physfacet>processed to date</physfacet>
       </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
-      </repository>
-      <abstract label="Abstract:">The International Union of Electronic, Electrical, Technical, Salaried, and Machine workers document the day-to-day operations of the first 41 years of this community organization founded in 1944.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <abstract id="aspace_be26ebccaf262007eda3aa1e5d35be0e">The International Union of Electronic, Electrical, Technical, Salaried, and Machine workers document the day-to-day operations of the first 41 years of this community organization founded in 1944.</abstract>
+      <langmaterial id="aspace_882e2b470e7f8a48c36c82e3279d8a9f">English</langmaterial>
+      <physloc id="aspace_e24fc5774fc98b113f429222776168dc">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_1bfc5fe3c7ea1e0daf5450fc5e4daebf">
+      <head>Processing Information</head>
+      <p>Processed in 1989 by Geoffrey A. Huth.</p>
+    </processinfo>
+    <accessrestrict id="aspace_47dbaec4f6984575525e7dfd0530f121">
       <head>Access</head>
-      <p> Access to this record group is unrestricted with the exception of one folder, which is
-        marked. </p>
+      <p>Access to this record group is unrestricted with the exception of one folder, which is marked.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_9446c890aa011baaa2c02b2833821ce1">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_67fcbabf4b99f7f8ff28f28caca2c7ea">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by IUE Local 379, Match Workers on March 6, 1990.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_55eed1dbfa844a57d4054352936cb063">
       <head>Administrative History</head>
-      <p>The match workers at the Universal Match plant in Hudson, New York were first 
-  organized in 1946 as Federal Labor Union No. 24122. Federal Labor Unions were 
-  unions chartered and administered directly by the AFL (and afterwards the AFL-CIO) 
-  in trades that otherwise would not have been organized. In 1971 the local voted 
-  to affiliate with IUE over the Textile Workers Union of America (whose organizing 
-  drive was run by the Hudson Valley Area Joint Board) and became IUE Local 379. 
-  In 1981 Swedish Match bought Universal Match Corporation, and by 1989 the firm 
-  had closed its Hudson plant, marking the end of Local 379.</p>
+      <p>The match workers at the Universal Match plant in Hudson, New York were first organized in 1946 as Federal Labor Union No. 24122. Federal Labor Unions were unions chartered and administered directly by the AFL (and afterwards the AFL-CIO) in trades that otherwise would not have been organized. In 1971 the local voted to affiliate with IUE over the Textile Workers Union of America (whose organizing drive was run by the Hudson Valley Area Joint Board) and became IUE Local 379. In 1981 Swedish Match bought Universal Match Corporation, and by 1989 the firm had closed its Hudson plant, marking the end of Local 379.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The collection contains minutes, 1946-1987; state contracts, 1946-1987; state 
-  by-laws, 1962-1982; and sample constitutions and contracts from other match 
-  workers' unions, 1947-1965.</p>
+    <scopecontent id="aspace_44ba14cb1e915f4b997c9d1c8bfedaf4">
+      <head>Scope and Contents</head>
+      <p>The collection contains minutes, 1946-1987; state contracts, 1946-1987; state by-laws, 1962-1982; and sample constitutions and contracts from other match workers' unions, 1947-1965.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_e0eb19e081a4f961e3a4c1c6fb410aa6">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized alphabetically. There are no series.</p>
     </arrangement>
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Labor</subject>
-      <corpname encodinganalog="610" source="local">International Union Of Electronic, Electrical,Technical, Salaried And Machine Workers Local 379, Match Workers' Union Records </corpname>
-      <corpname encodinganalog="610" source="lcsh">New York State Local Workers Union</corpname>
-      <subject encodinganalog="650" source="lcsh">Electronic, Electrical, Technical, Salaried, and Machine Union</subject>
-      <subject encodinganalog="650" source="lcsh">International Union</subject>
-      <geogname encodinganalog="651" source="lcsh">New York (State)--Social Conditions</geogname>
-      <genreform encodinganalog="655" source="aat">Constitution</genreform>
-      <genreform encodinganalog="655" source="aat">Contracts</genreform>
-      <genreform encodinganalog="655" source="aat">Administrative records</genreform>
-      <genreform encodinganalog="655" source="aat">Minutes</genreform>
-    </controlaccess>
-    <prefercite>
+    <prefercite id="aspace_550177cac75887378a381495c9dba5bf">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, International Union of Electronic Electrical Technical Salaried And Machine Workers Local 379 Match Workers' Union Records,  1944-1985. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, International Union of Electronic Electrical Technical Salaried And Machine Workers Local 379 Match Workers' Union Records, 1944-1985. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
-    <dsc type="combined">
-      <head>Container List</head>
-      <!-- Start box -->
-      <c01 id="nam_apap024-1">
+    <controlaccess>
+      <subject source="meg">Labor</subject>
+      <subject source="lcsh">Electronic, Electrical, Technical, Salaried, and Machine Union</subject>
+      <subject source="lcsh">International Union</subject>
+      <geogname source="lcsh">New York (State)--Social conditions</geogname>
+      <genreform source="aat">Constitution</genreform>
+      <genreform source="aat">Contracts</genreform>
+      <genreform source="aat">Administrative records</genreform>
+      <genreform source="aat">Minutes</genreform>
+      <corpname source="local">International Union Of Electronic, Electrical,Technical, Salaried And Machine Workers Local 379, Match Workers' Union Records</corpname>
+      <corpname source="lcsh">New York State Local Workers Union</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_5e8b4e03e9cc2e5debca0e6576166734" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>"AFL-CIO Manual for Shop Stewards,"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+          <container id="aspace_5ccbd118a5ab32c75808b68913aa6633" label="Mixed Materials" type="Box">1 (International Union of Electronic Electrical Techn)</container>
+          <container id="aspace_40e4664f311029a4e5131805f7f67c90" parent="aspace_5ccbd118a5ab32c75808b68913aa6633" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap024-2">
+      <c01 id="aspace_48925e99545327542f86fbab75235a1e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Constitution and By-laws</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976">1976</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+          <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+          <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+          <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+          <container id="aspace_db3c9375e4d70fb1ceecf6aa12fff6df" label="Mixed Materials" type="Box">1 (International Union of Electronic Electrical Techn)</container>
+          <container id="aspace_fec63e1d776f5942603c327bc23398bb" parent="aspace_db3c9375e4d70fb1ceecf6aa12fff6df" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap024-3">
+      <c01 id="aspace_780599915a908e87378457704ee99c6a" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>Constitution of American Federation of Labor</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1944">1944</unitdate>
+          <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+          <container id="aspace_e284a19b0ec62833f6a30f4316c41776" label="Mixed Materials" type="Box">1 (International Union of Electronic Electrical Techn)</container>
+          <container id="aspace_6f1d1ad5df197814d33f9398fefb495c" parent="aspace_e284a19b0ec62833f6a30f4316c41776" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap024-4">
+      <c01 id="aspace_149d6d6beaf904e7e16c70a3983c86c4" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Constitution of AFL-CIO</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969">1969</unitdate>
+          <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+          <container id="aspace_0e55d040dafcb55bc46538fee2bed969" label="Mixed Materials" type="Box">1 (International Union of Electronic Electrical Techn)</container>
+          <container id="aspace_f945861872bd8d45c9a9fe924c241718" parent="aspace_0e55d040dafcb55bc46538fee2bed969" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap024-5">
+      <c01 id="aspace_3fdf78f4c16f42a1ed88dab511393fd6" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Constitution of International Union of Electronic, Electrical, Technical, Salaried &amp; Machine Workers</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+          <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+          <container id="aspace_6d349fe858b53b3ed580bade5a8d706e" label="Mixed Materials" type="Box">1 (International Union of Electronic Electrical Techn)</container>
+          <container id="aspace_688f86eeb33279110fda4f21994ebcd6" parent="aspace_6d349fe858b53b3ed580bade5a8d706e" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap024-6">
+      <c01 id="aspace_8fe644d585315bed67a54efc549a7845" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Constitutions and By-laws, Samples from Other Unions</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1947">1947</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+          <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+          <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+          <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+          <container id="aspace_c56b9ab7af66256959461b6d7d1af074" label="Mixed Materials" type="Box">1 (International Union of Electronic Electrical Techn)</container>
+          <container id="aspace_bd5c73f68e7afe9eadba7da527bbb1fc" parent="aspace_c56b9ab7af66256959461b6d7d1af074" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap024-7">
+      <c01 id="aspace_b7e0ff876be257aa9e67b2828ceb4c99" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Contracts</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946/1956">1946-1956</unitdate>
+          <unitdate normal="1946/1956" type="inclusive">1946-1956</unitdate>
+          <container id="aspace_c5b70537c93f31d06bf095dadfcc7dfc" label="Mixed Materials" type="Box">1 (International Union of Electronic Electrical Techn)</container>
+          <container id="aspace_21ab7a5f470768903e907066a595657f" parent="aspace_c5b70537c93f31d06bf095dadfcc7dfc" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_apap024-8">
+      <c01 id="aspace_e625c34f28350679e2d14d802c607d73" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
           <unittitle>Contracts</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1965">1958-1965</unitdate>
+          <unitdate normal="1958/1965" type="inclusive">1958-1965</unitdate>
+          <container id="aspace_8cb94f57e330541b367f070d032516a6" label="Mixed Materials" type="Box">1 (International Union of Electronic Electrical Techn)</container>
+          <container id="aspace_48dfb6230d16b286d4d37fc89c1a29d5" parent="aspace_8cb94f57e330541b367f070d032516a6" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_apap024-9">
+      <c01 id="aspace_94de1088fbffed3c1f85c10548edcd5b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Contracts</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/1971">1967-1971</unitdate>
+          <unitdate normal="1967/1971" type="inclusive">1967-1971</unitdate>
+          <container id="aspace_8e2ab43fede03c05b803c6bb069f9e33" label="Mixed Materials" type="Box">1 (International Union of Electronic Electrical Techn)</container>
+          <container id="aspace_3d9de691448446b1f8e375763b057d30" parent="aspace_8e2ab43fede03c05b803c6bb069f9e33" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_apap024-10">
+      <c01 id="aspace_4d6070046d53cbff8f960dc618fdd1d1" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Contracts</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971/1980">1971-1980</unitdate>
+          <unitdate normal="1971/1980" type="inclusive">1971-1980</unitdate>
+          <container id="aspace_4472c3637f66a0b4911be1679a3f4ba4" label="Mixed Materials" type="Box">1 (International Union of Electronic Electrical Techn)</container>
+          <container id="aspace_b1bf19ea4c691931db340c2f71b88b83" parent="aspace_4472c3637f66a0b4911be1679a3f4ba4" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_apap024-11">
+      <c01 id="aspace_a9319c64b71c304fed362f8f9078665f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Contracts</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1987">1980-1987</unitdate>
+          <unitdate normal="1980/1987" type="inclusive">1980-1987</unitdate>
+          <container id="aspace_cb6fc1b54d9d309521e6751a747d34d0" label="Mixed Materials" type="Box">1 (International Union of Electronic Electrical Techn)</container>
+          <container id="aspace_7a5185aa7a6a62fcdc94f906074fc13f" parent="aspace_cb6fc1b54d9d309521e6751a747d34d0" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_apap024-12">
+      <c01 id="aspace_ed54d87ecc9278485a1a6bdd6503aa26" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">12</container>
           <unittitle>Contract Samples from Other Match Workers Locals</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1947/1951">1947-1951</unitdate>
+          <unitdate normal="1947/1951" type="inclusive">1947-1951</unitdate>
+          <container id="aspace_e63d3fecdb3be151d14a7af0891b5f6e" label="Mixed Materials" type="Box">1 (International Union of Electronic Electrical Techn)</container>
+          <container id="aspace_53ffe62c8d848f791f75bd95277240ee" parent="aspace_e63d3fecdb3be151d14a7af0891b5f6e" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_apap024-13">
+      <c01 id="aspace_fd179a07f50f41c424f6be66d2c93ceb" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">13</container>
           <unittitle>Contract Samples from Other Match Workers Locals</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1955/1961">1955-1961</unitdate>
+          <unitdate normal="1955/1961" type="inclusive">1955-1961</unitdate>
+          <container id="aspace_262ac4703af5d91ac8582a02670e6020" label="Mixed Materials" type="Box">1 (International Union of Electronic Electrical Techn)</container>
+          <container id="aspace_24686ef6d1afef97d4d63e1a2d350b0e" parent="aspace_262ac4703af5d91ac8582a02670e6020" type="Folder">13</container>
         </did>
       </c01>
-      <c01 id="nam_apap024-14">
+      <c01 id="aspace_273f58276d995d220590de0cb3bce038" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">14</container>
           <unittitle>Contract Samples from Other Unions</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946/1975">1946, 1948, 1956, 1975</unitdate>
+          <unitdate normal="1946/1975" type="inclusive">1946, 1948, 1956, 1975</unitdate>
+          <container id="aspace_129278d8752dfc2718f7c3a87b49087b" label="Mixed Materials" type="Box">1 (International Union of Electronic Electrical Techn)</container>
+          <container id="aspace_707b6977632692bbfec7c2bbccc7d6ef" parent="aspace_129278d8752dfc2718f7c3a87b49087b" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_apap024-15">
+      <c01 id="aspace_a8b6a896c44141c9d7a07a22e972538c" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">15</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946/1949">1946-1949</unitdate>
+          <unitdate normal="1946/1949" type="inclusive">1946-1949</unitdate>
+          <container id="aspace_1c983a19060457c853049b92fc5f65ba" label="Mixed Materials" type="Box">1 (International Union of Electronic Electrical Techn)</container>
+          <container id="aspace_28ea236e90169fff7b6af94b7e47ae82" parent="aspace_1c983a19060457c853049b92fc5f65ba" type="Folder">15</container>
         </did>
       </c01>
-      <c01 id="nam_apap024-16">
+      <c01 id="aspace_a57ce31b530eea8b7dc970bbb35d5a67" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">16</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1949/1951">1949-1951</unitdate>
+          <unitdate normal="1949/1951" type="inclusive">1949-1951</unitdate>
+          <container id="aspace_df62646c198e0c30107224d5a2d0ac38" label="Mixed Materials" type="Box">1 (International Union of Electronic Electrical Techn)</container>
+          <container id="aspace_f920711c5a87c84de559def8efe92f7d" parent="aspace_df62646c198e0c30107224d5a2d0ac38" type="Folder">16</container>
         </did>
       </c01>
-      <c01 id="nam_apap024-17">
+      <c01 id="aspace_edea221c7f92d7620a5b178ae17a8989" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">17</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1952/1964">1952-1964</unitdate>
+          <unitdate normal="1952/1964" type="inclusive">1952-1964</unitdate>
+          <container id="aspace_d8cd9ece87a12c6efff6cbc6d463dd62" label="Mixed Materials" type="Box">1 (International Union of Electronic Electrical Techn)</container>
+          <container id="aspace_ea85670fa693449a643d5e32beba2478" parent="aspace_d8cd9ece87a12c6efff6cbc6d463dd62" type="Folder">17</container>
         </did>
       </c01>
-      <c01 id="nam_apap024-18">
+      <c01 id="aspace_c55580c5f226fe803af9794003b2907d" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">18</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964/1975">1964-1975</unitdate>
+          <unitdate normal="1964/1975" type="inclusive">1964-1975</unitdate>
+          <container id="aspace_d7a4841643009a3af2c3b32579156aca" label="Mixed Materials" type="Box">1 (International Union of Electronic Electrical Techn)</container>
+          <container id="aspace_6ea66b93a7d85a1b2a389cf9b2e07bc5" parent="aspace_d7a4841643009a3af2c3b32579156aca" type="Folder">18</container>
         </did>
       </c01>
-      <c01 id="nam_apap024-19">
+      <c01 id="aspace_62d738d0bae7a0d90ae7e82474b4173b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">19</container>
           <unittitle>Occupational Safety and Health Pamphlets</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975">1975</unitdate>
+          <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+          <container id="aspace_7e7b4319ce839286443ee22036a7d579" label="Mixed Materials" type="Box">1 (International Union of Electronic Electrical Techn)</container>
+          <container id="aspace_e8ce7124f9c0fa376417f5ab8afe9098" parent="aspace_7e7b4319ce839286443ee22036a7d579" type="Folder">19</container>
         </did>
       </c01>
-      <c01 id="nam_apap024-20">
+      <c01 id="aspace_7c56fbc256fe01424c77e454c7be6c3c" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">20</container>
           <unittitle>Universal Match Corporation Medical Benefits</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/78">1977-1978</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+          <unitdate normal="1977/1977" type="inclusive">1977-1978</unitdate>
+          <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+          <container id="aspace_2178f12f7da1b11f9933be1826531425" label="Mixed Materials" type="Box">1 (International Union of Electronic Electrical Techn)</container>
+          <container id="aspace_2db024cca82b0200be41d7d3dfb0cd37" parent="aspace_2178f12f7da1b11f9933be1826531425" type="Folder">20</container>
         </did>
       </c01>
-      <c01 id="nam_apap024-21">
+      <c01 id="aspace_bac58a2fac95b991a5d6179637502a45" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">21</container>
           <unittitle>Universal Match Corporation Retirement Plan</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+          <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+          <container id="aspace_2c484fab31573d9a2fe90b57316307a1" label="Mixed Materials" type="Box">1 (International Union of Electronic Electrical Techn)</container>
+          <container id="aspace_4cbd0e61f2116fe0bc17a377b5edab70" parent="aspace_2c484fab31573d9a2fe90b57316307a1" type="Folder">21</container>
         </did>
       </c01>
     </dsc>

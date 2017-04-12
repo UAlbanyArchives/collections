@@ -1,241 +1,231 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua802.002">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua802.002.html">nam_ua802.002</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua802.002">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua802.002.xml">ua802.002</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>EDWARD E. POTTER PAPERS (UA802.002)<date normal="1918/1966" type="inclusive">1918-1966</date></titleproper>
-        <author>Sara Rohfeld </author>
+        <titleproper>Potter, Edward E.; Papers <num>ua802.002</num></titleproper>
+        <author>Sara Rohfeld</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="1995/1996" type="publication">Copyright 1995-1996 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>1995-1996</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Gregory Wiedeman<date normal="2015">2015</date>
-			</creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 17:03:12 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="1996-07-18">1996 July 18</date>
-        <item>Revised by Marla Krauss </item>
+        <date>1996 July 18</date>
+        <item>Revised by Marla Krauss</item>
       </change>
       <change>
-        <date normal="2015-12">2015 December</date>
+        <date>2015 December</date>
         <item>Converted to EAD</item>
+      </change>
+      <change>
+        <date>2015</date>
+        <item>Encoded in EAD by Gregory Wiedeman</item>
       </change>
     </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>Edward E. Potter Papers<date normal="1918/1966" type="inclusive">1918-1966</date></titleproper>
-      <publisher>
-			</publisher>
-      <date type="publication">Copyright 2015 By the University at Albany, SUNY. All rights reserved.</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua802.002</unitid>
-      <unittitle>Edward E. Potter Papers<unitdate label="Date:" normal="1918/1966" type="inclusive">1918-1966</unitdate></unittitle>
-      <abstract label="Abstract:">Papers of World War I pilot and State College for Teachers student. Potter died in a plane crash Paris, France.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <persname encodinganalog="100" source="local">Potter, Edward E. (1891-1918)</persname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">0.17</extent>
-      </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Edward E. Potter Papers<unitdate normal="1918/1966" type="inclusive">1918-1966</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="local">Potter, Edward E. (1891-1918)</persname>
+      </origination>
+      <unitid>ua802.002</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.17 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_7c01ffe07032f5a39c1879f66d586b99">Papers of World War I pilot and State College for Teachers student. Potter died in a plane crash Paris, France.</abstract>
+      <langmaterial id="aspace_8ec71ca7c3133d7bfb337a20004b47e5">English</langmaterial>
+      <physloc id="aspace_eac9dd8af9c967c8af83ba23f9464829">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_141c21b1cc6194c265e649cef6696e52">
+      <head>Processing Information</head>
+      <p>Processed in 1995-1996 by Sara Rohfeld .</p>
+    </processinfo>
+    <accessrestrict id="aspace_66fc43371b25b3d6bac7fd230edf0175">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_7c06416c4d7d561d7dd1427798027192">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites. </p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
-      <p>The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future. </p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
+      <p> The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_15d0a5118dbc510fdc96befcad372d00">
       <head>Acquisition Information</head>
-      <p>These records were transferred to the M.E. Grenander Department of Special Collections &amp; Archives, University Libraries, University at Albany, by the Alumni Association in 1989.  The Potter Papers appear to have been donated to the Edward E. Potter Club by Cordelia Potter Lackey in 1935.<date normal="1989">1989</date></p>
+      <p>These records were transferred to the M.E. Grenander Department of Special Collections &amp; Archives, University Libraries, University at Albany, by the Alumni Association in 1989. The Potter Papers appear to have been donated to the Edward E. Potter Club by Cordelia Potter Lackey in 1935.<date normal="1989">1989</date></p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_bf15016f29a60363cbf365c014aa73d5">
       <head>Biographical History</head>
-      <p>Edward Eldred Potter was born in Windfall, NY, September 3, 1891, the son of Rose E. Potter.  He was the youngest of four children in a poor, rural family.  He lived in upstate New York until he was eleven, at which point he moved to Ontario, Canada, for five years. He returned to the United States to attend the Plattsburg Normal High School. He had many interests, including outdoor sports, theater, and poetry. He held a variety of jobs to support himself while in high school and in college.</p>
-      <p>He began studies at Union College after receiving a scholarship. However, he left Union after only a few months to enter the New York State College for Teachers. He aspired to becoming a school superintendent.</p>
-      <p>Potter enlisted in the army in May, 1917, after the United States had officially been at war for one month. He was sent to the officer's training school at Madison Barracks, NY, where he decided to train for aviation service. He entered the Aviation Ground School in Ithaca, NY, in August, 1917. He was sent to France in October, 1917, where he continued his aviation training. He was eventually commissioned as pilot-aviator.</p>
-      <p>While completing his training, Potter was chosen as one in fifteen pilots to participate in an emergency ferrying mission which transported new planes to various parts of France and England. He died while completing one of the transports when his plane crashed in Orly Field, near Paris, on August 1, 1918. The crash resulted from a flat turn Potter made to avoid hitting men on the ground while landing. Since Potter understood that the chances of surviving a flat turn were minimal, he has been honored as knowingly risking his own life in order to save the lives of others. He is buried in the American war cemetery in Suresnes, France.</p>
-      <p>The information contained in the biographical sketch was taken from "The Memoirs of Edward Eldred Potter", written by Potter's sister, Cordella Rose Potter Lackey. The Memoirs were presented to the Edward E. Potter Club on or around May 27, 1935.</p>
+      <p>Edward Eldred Potter was born in Windfall, NY, September 3, 1891, the son of Rose E. Potter. He was the youngest of four children in a poor, rural family. He lived in upstate New York until he was eleven, at which point he moved to Ontario, Canada, for five years. He returned to the United States to attend the Plattsburg Normal High School. He had many interests, including outdoor sports, theater, and poetry. He held a variety of jobs to support himself while in high school and in college.</p>
+      <p> He began studies at Union College after receiving a scholarship. However, he left Union after only a few months to enter the New York State College for Teachers. He aspired to becoming a school superintendent.</p>
+      <p> Potter enlisted in the army in May, 1917, after the United States had officially been at war for one month. He was sent to the officer's training school at Madison Barracks, NY, where he decided to train for aviation service. He entered the Aviation Ground School in Ithaca, NY, in August, 1917. He was sent to France in October, 1917, where he continued his aviation training. He was eventually commissioned as pilot-aviator.</p>
+      <p> While completing his training, Potter was chosen as one in fifteen pilots to participate in an emergency ferrying mission which transported new planes to various parts of France and England. He died while completing one of the transports when his plane crashed in Orly Field, near Paris, on August 1, 1918. The crash resulted from a flat turn Potter made to avoid hitting men on the ground while landing. Since Potter understood that the chances of surviving a flat turn were minimal, he has been honored as knowingly risking his own life in order to save the lives of others. He is buried in the American war cemetery in Suresnes, France.</p>
+      <p> The information contained in the biographical sketch was taken from "The Memoirs of Edward Eldred Potter", written by Potter's sister, Cordella Rose Potter Lackey. The Memoirs were presented to the Edward E. Potter Club on or around May 27, 1935.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_763aebcad9f791f5bf6d51a247196157">
+      <head>Scope and Contents</head>
       <p>The Edward Eldred Potter Papers contain correspondence from Potter to his mother, Rose E. Potter, discussing his military service. Rose E. Potter and Cordella Potter Lackey, Potter's sister, both received correspondence related to Edward Potter's death and to the establishment of a club in his name at the New York State College for Teachers. The series also contains family photographs, certificates of honor and discharge from the armed forces, and "The Memoirs of Edward Eldred Potter", written by Cordella Potter Lackey. The Edward Eldred Potter Papers is part of the Alumni Memorabilia Collection</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_900d18453b17073d7f74b6183faf7f3e">
       <head>Arrangement of the Collection</head>
       <p>The collection has no series, arranged chronologically.</p>
     </arrangement>
-    <prefercite>
+    <prefercite id="aspace_9b2699d8069520a1f350dea3ac926c05">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Edward E. Potter Papers,  1918-1966. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Potter Papers).</p>
+      <p> Identification of specific item, series, box, folder, Edward E. Potter Papers, 1918-1966. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Potter Papers).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Military and Armed Conflict</subject>
-      <persname encodinganalog="600" source="local">Potter, Edward E. (1891-1918)</persname>
-      <persname encodinganalog="600" source="local">Lackey, Cordella Rose Potter</persname>
-      <subject encodinganalog="650" source="lcsh">World War I </subject>
-      <subject encodinganalog="650" source="local">World War I--Aviation</subject>
+      <subject source="meg">Military and Armed Conflict</subject>
+      <subject source="lcsh">World War I</subject>
+      <subject source="local">World War I--Aviation</subject>
+      <persname source="local">Potter, Edward E. (1891-1918)</persname>
+      <persname source="local">Lackey, Cordella Rose Potter</persname>
     </controlaccess>
     <dsc>
-      <head>Container List</head>
-      <c01 id="nam_ua802.002-1">
+      <c01 id="aspace_7b6d36d6bbb6a4344b13aaa0e268e747" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>Certificate of Death with Honor from United States Army</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1920-02-26">1920 February 26</unitdate>
+          <unitdate normal="1920-02-26/1920-02-26" type="inclusive">1920 February 26</unitdate>
+          <container id="aspace_2c037eee6ce2b5310f1f2c95ab8c38aa" label="Mixed Materials" type="Box">1 (Edward E. Potter Papers)</container>
+          <container id="aspace_4591a34e1517dc65d19092cfd6ff2e12" parent="aspace_2c037eee6ce2b5310f1f2c95ab8c38aa" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua802.002-2">
+      <c01 id="aspace_7dda0ac93cb1c7c067e35209e3bfaf3c" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Correspondence of Cordella Potter Lackey (Edward's sister) with Captain J. F. McGough re. the circumstances of Potters death, and Lackey's involvement with and donations to the Edward E. Potter Club</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1919">1919</unitdate>
-          <unitdate calendar="gregorian" era="ce" normal="1934/1936">1934-1936</unitdate>
+          <unitdate normal="1919/1919" type="inclusive">1919</unitdate>
+          <unitdate normal="1934/1936" type="inclusive">1934-1936</unitdate>
+          <container id="aspace_099dd782b12087e7b299408664459fc6" label="Mixed Materials" type="Box">1 (Edward E. Potter Papers)</container>
+          <container id="aspace_1a441754cdd39668c2974abac02abf34" parent="aspace_099dd782b12087e7b299408664459fc6" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua802.002-3">
+      <c01 id="aspace_8128922873ce4fe0fe9f58dcc390d61e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>Correspondence of Rose E. Potter (Edward's mother) with the State College for Teachers regarding Edward's honorary degree, the Aerial League of American and the American Legion re. honors for Edward, and re. the establishment of the Potter Club.</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1918/1920">1918-1920</unitdate>
-          <unitdate calendar="gregorian" era="ce" normal="1934">1934</unitdate>
+          <unitdate normal="1918/1920" type="inclusive">1918-1920</unitdate>
+          <unitdate normal="1934/1934" type="inclusive">1934</unitdate>
+          <container id="aspace_34ea4ace1408675444e4bbe3c4bba23e" label="Mixed Materials" type="Box">1 (Edward E. Potter Papers)</container>
+          <container id="aspace_255644a9753774add633807394a5c93b" parent="aspace_34ea4ace1408675444e4bbe3c4bba23e" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua802.002-4">
+      <c01 id="aspace_aeea47d4f57faf8c306da9c1ad741331" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Diploma of Honor of the Aerial League of America awarded to Edward E. Potter</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1919-02-26">1919 February 26</unitdate>
+          <unitdate normal="1919-02-26/1919-02-26" type="inclusive">1919 February 26</unitdate>
+          <container id="aspace_cd88d1158a8c1a041c6df6dc0652e436" label="Mixed Materials" type="Box">1 (Edward E. Potter Papers)</container>
+          <container id="aspace_23c710bf92228e56f46c6f7746e1aeeb" parent="aspace_cd88d1158a8c1a041c6df6dc0652e436" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua802.002-5">
+      <c01 id="aspace_ccfc65b400cd0654b8152f3449fde001" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Honorable Discharge from training camp</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1917-08-14">1917 August 14</unitdate>
+          <unitdate normal="1917-08-14/1917-08-14" type="inclusive">1917 August 14</unitdate>
+          <container id="aspace_cee07750f1a1cf45a66024ced58375d1" label="Mixed Materials" type="Box">1 (Edward E. Potter Papers)</container>
+          <container id="aspace_5f8a480d37493e3c71d613e9bd68f7eb" parent="aspace_cee07750f1a1cf45a66024ced58375d1" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua802.002-6">
+      <c01 id="aspace_280bebca5c0d49d816b7d8ffe58a999c" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Honorable Discharge from United States Army</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1918-06-11">1918 June 11</unitdate>
+          <unitdate normal="1918-06-11/1918-06-11" type="inclusive">1918 June 11</unitdate>
+          <container id="aspace_146028a415ff9d780605be555932f646" label="Mixed Materials" type="Box">1 (Edward E. Potter Papers)</container>
+          <container id="aspace_e9c878d19a2d3ddc9ed1a7d7ea642003" parent="aspace_146028a415ff9d780605be555932f646" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua802.002-7">
+      <c01 id="aspace_c656fe10562f766db120e5b95b0d79d6" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Letter of Edward E. Potter to Family concerning Army ferrying service.</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1918-06-28">1918 June 28</unitdate>
+          <unitdate normal="1918-06-28/1918-06-28" type="inclusive">1918 June 28</unitdate>
+          <container id="aspace_d8abc80817176632335e0efaa6901339" label="Mixed Materials" type="Box">1 (Edward E. Potter Papers)</container>
+          <container id="aspace_cabdba1db8aeb0721c86ac60d4ba70b7" parent="aspace_d8abc80817176632335e0efaa6901339" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua802.002-8">
+      <c01 id="aspace_5c124ff3f1632d97c9f98540f740bc60" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
           <unittitle>Letter of Edward E. Potter to Rose E. Potter concerning camp life in France</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1918-01-17">1918 January 17</unitdate>
+          <unitdate normal="1918-01-17/1918-01-17" type="inclusive">1918 January 17</unitdate>
+          <container id="aspace_34d4da8350c2ed3cb93fe53391c619aa" label="Mixed Materials" type="Box">1 (Edward E. Potter Papers)</container>
+          <container id="aspace_bcd34e1236e364a98de1f18cdc575a3f" parent="aspace_34d4da8350c2ed3cb93fe53391c619aa" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua802.002-9">
+      <c01 id="aspace_bb8f08bee1bd93f545cb1f7bf34933ff" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>"The Memoirs of Edward Eldred Potter" by Cordella Potter Lackey (Presented to the Edward Eldred Potter Club in memory of Edward E. Potter)</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1935">1935</unitdate>
+          <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+          <container id="aspace_77d6ea607cecf92a251e1b6bb9cd17b9" label="Mixed Materials" type="Box">1 (Edward E. Potter Papers)</container>
+          <container id="aspace_131c0b1f5c478062a178a617091147cc" parent="aspace_77d6ea607cecf92a251e1b6bb9cd17b9" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua802.002-10">
+      <c01 id="aspace_4217a6656e6f0e105cb2009d939873a6" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Newspaper Clippings announcing radio memorial for Edward E. Potter</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1935-11-13">1935 November 13</unitdate>
+          <unitdate normal="1935-11-13/1935-11-13" type="inclusive">1935 November 13</unitdate>
+          <container id="aspace_49b386340675f0deeebcfd68f590c4b1" label="Mixed Materials" type="Box">1 (Edward E. Potter Papers)</container>
+          <container id="aspace_71876839b9058ccd9103551610faf73c" parent="aspace_49b386340675f0deeebcfd68f590c4b1" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua802.002-11">
+      <c01 id="aspace_652f2b41ed2591f7023314e09c97c741" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Poems collected by Edward E. Potter</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1918/1966">Undated</unitdate>
+          <unitdate normal="1918/1966" type="inclusive">Undated</unitdate>
+          <container id="aspace_045e054dc8ef8d6a03cd3b3d0d32f492" label="Mixed Materials" type="Box">1 (Edward E. Potter Papers)</container>
+          <container id="aspace_c7b160e24db5fec8484803905eecca8c" parent="aspace_045e054dc8ef8d6a03cd3b3d0d32f492" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua802.002-12">
+      <c01 id="aspace_2e2ba75a5ccb42a9aa2ee6dae9f9ac18" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">12</container>
           <unittitle>Photograph of Edward E. Potter in WW I uniform</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1918/1966">Undated</unitdate>
+          <unitdate normal="1918/1966" type="inclusive">Undated</unitdate>
+          <container id="aspace_922731a3ae9a9a2b8c981b6e5c514c44" label="Mixed Materials" type="Box">1 (Edward E. Potter Papers)</container>
+          <container id="aspace_98c5750b51e8f9422ad9efbeefe0ac88" parent="aspace_922731a3ae9a9a2b8c981b6e5c514c44" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_ua802.002-13">
+      <c01 id="aspace_8c4e8af1a01d87278f36f463ce5da50d" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">13</container>
           <unittitle>Photographs of Edward E. Potter, his family, and his gravesite</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1918/1966">Undated</unitdate>
+          <unitdate normal="1918/1966" type="inclusive">Undated</unitdate>
+          <container id="aspace_f6f8362b67b2bb4839fd68e31bfb379a" label="Mixed Materials" type="Box">1 (Edward E. Potter Papers)</container>
+          <container id="aspace_7436c59e665664a718aea9b2a71b3160" parent="aspace_f6f8362b67b2bb4839fd68e31bfb379a" type="Folder">13</container>
         </did>
       </c01>
-      <c01 id="nam_ua802.002-14">
+      <c01 id="aspace_a870295cfc31be53a37a05680d527ba7" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">14</container>
           <unittitle>War Mothers and Widows Official Certification of Identification, Rose E. Potter</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1930">1930</unitdate>
+          <unitdate normal="1930/1930" type="inclusive">1930</unitdate>
+          <container id="aspace_28b9755f68127a141b767f6d48582eab" label="Mixed Materials" type="Box">1 (Edward E. Potter Papers)</container>
+          <container id="aspace_9d31b4347b73d9927867f84c3a20fedb" parent="aspace_28b9755f68127a141b767f6d48582eab" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_ua802.002-15">
+      <c01 id="aspace_217d2d6096c0838945e71128b62b5cdc" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">15</container>
           <unittitle>US Army Certificate for E.E.Potter, "...died with honor,"</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1918-08-1">1918 August 1</unitdate>
+          <unitdate type="inclusive">1918 August 1</unitdate>
+          <container id="aspace_ea7152e3a39f1c6f026b335695d1a2aa" label="Mixed Materials" type="Box">1 (Edward E. Potter Papers)</container>
+          <container id="aspace_797911c5304bcb507022eb87422c54b7" parent="aspace_ea7152e3a39f1c6f026b335695d1a2aa" type="Folder">15</container>
         </did>
       </c01>
-      <c01 id="nam_ua802.002-16">
+      <c01 id="aspace_a04c40bbf4722d0c6d9e922e1b4ef54e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">16</container>
           <unittitle>Simmonds, Thomas circa Wood Carving with Suggestions in Chip Carving. London: George Allen and Sons, with Edward Potter autograph.</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1918/1966">Undated</unitdate>
+          <unitdate normal="1918/1966" type="inclusive">Undated</unitdate>
+          <container id="aspace_82d4a280b50029b77d612a526237ce02" label="Mixed Materials" type="Box">1 (Edward E. Potter Papers)</container>
+          <container id="aspace_ebb7993fc5d542d922090c7376bca861" parent="aspace_82d4a280b50029b77d612a526237ce02" type="Folder">16</container>
         </did>
       </c01>
     </dsc>

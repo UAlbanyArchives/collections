@@ -1,270 +1,190 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap096">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap096.xml" identifier="##">nam_apap096</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap096">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap096.xml">apap096</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>NATIONAL ASSOCIATION OF BLACK SOCIAL WORKERS, CAPITAL DISTRICT CHAPTER RECORDS (APAP096)<date normal="1970/1991" type="inclusive">1970-1991</date></titleproper>
+        <titleproper>National Association of Black Social Workers, Capital District Chapter; Records <num>apap096</num></titleproper>
         <author>Amy C. Schindler</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2004">Copyright 2004 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2004</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Amy C. Schindler<date normal="2002">2002</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 14:11:08 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2002</date>
+        <item>Encoded in EAD by Amy C. Schindler</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>NATIONAL ASSOCIATION OF BLACK SOCIAL WORKERS, CAPITAL DISTRICT CHAPTER RECORDS (APAP096)<date normal="1970/1991" type="inclusive">1970-1991</date></titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">October 2002</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap096</unitid>
-      <unittitle>National Association of Black Social Workers, Capital District Chapter Records<unitdate type="inclusive" normal="1970/1991" label="Date:"> 1970-1991</unitdate></unittitle>
-      <origination>
-        <corpname encodinganalog="110" source="local">National Association Of Black Social Workers. Capital District Chapter</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">17</extent>
-      </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">National Association of Black Social Workers, Capital District
-	  Chapter Records document the organization's history and activities with various forms</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>National Association of Black Social Workers, Capital District Chapter Records<unitdate normal="1970/1991" type="inclusive">1970-1991</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">National Association Of Black Social Workers. Capital District Chapter</corpname>
+      </origination>
+      <unitid>apap096</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">17 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_d59ebcb306013b747f12cfeeaf860405">National Association of Black Social Workers, Capital District Chapter Records document the organization's history and activities with various forms</abstract>
+      <langmaterial id="aspace_c6a9f64cc89e48862892537ceb85c07d">English</langmaterial>
+      <physloc id="aspace_ddb5b7ef77037d99eb9cba44b28ee84c">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_bd28519d4ec9c852646629faa4398900">
+      <head>Processing Information</head>
+      <p>Processed in 2004 by Amy C. Schindler.</p>
+    </processinfo>
+    <accessrestrict id="aspace_2d06eba264c97983e5d6f99d4e1434a4">
       <head>Access</head>
-      <p> Access to this record group is unrestricted. </p>
+      <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_933099027f390661bff328bbf6a3adb5">
       <head>Copyright</head>
-      <p>  The researcher assumes full responsibility for conforming with the laws of copyright.
-	  Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-	  provide information about copyright owners and other restrictions, but the legal determination
-	  ultimately rests with the researcher. Requests for permission to publish material from this
-	  collection should be discussed with the Head of Special Collections and Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_d3dcfb73e69bb7b5ea6616c6362225d7">
       <head>Acquisition Information</head>
-      <p> All items in this manuscript group were donated to the University Libraries, M.E. Grenander
-	  Department of Special Collections and Archives, by Florence Frazier. </p>
+      <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by Florence Frazier.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_5cf2023aaa0ade0679fe961ae99cb0ef">
       <head>Administrative History</head>
-      <p>The National Association of Black Social Workers, Capital District Chapter was formally organized
-	  in Fall 1972 in Albany, New York. The National Association of Black Social Workers, Inc. (NABSW) was
-	  established in San Francisco in 1968 when a group of social workers attending a meeting of an established
-	  national social work organization disengaged from those meetings to form what would become the foremost
-	  advocacy group established to address social issues of concern in the African American community. The
-	  NABSW is designed to promote the welfare, survival and liberation of the African American community and
-	  advocates at a national, state and local level for social change. Headquartered in Detroit, Michigan, the
-	  organization is made up of over 100 member chapters throughout the continental United States and the Caribbean,
-	  with affiliate Groups in West and South Africa. Membership is available to persons of African ancestry who,
-	  regardless of profession, share similar concerns regarding health and welfare issues in the Black community.
-	  NABSW has over 30 student chapters at graduate schools of social work throughout the country. NABSW hosts an
-	  annual National and International Conference open to its membership and potential members.</p>
-      <p>Jerry Blanton was President of the Albany Chapter of the Northeastern Capital District Association of Black
-	  Social Workers in the early 1970s and described three goals for the organization. These goals included working
-	  with established organizations to unite the community, making the expertise of members available to the community,
-	  and accepting Agency Board Memberships throughout the area to enhance the better delivery of services to the community.
-	  This organization affiliated itself with the NABSW in 1972. The Chapter was also known as the Albany, New York Chapter
-	  of the National Association of Black Social Workers. The Chapter was apparently inactive for an unknown period of time
-	  in the 1970s and early 1980s before being revived in August 1983 by Deloris Kirkwood Brown. The organization sponsored
-	  workshops for its members as well as members of the community.</p>
+      <p>The National Association of Black Social Workers, Capital District Chapter was formally organized in Fall 1972 in Albany, New York. The National Association of Black Social Workers, Inc. (NABSW) was established in San Francisco in 1968 when a group of social workers attending a meeting of an established national social work organization disengaged from those meetings to form what would become the foremost advocacy group established to address social issues of concern in the African American community. The NABSW is designed to promote the welfare, survival and liberation of the African American community and advocates at a national, state and local level for social change. Headquartered in Detroit, Michigan, the organization is made up of over 100 member chapters throughout the continental United States and the Caribbean, with affiliate Groups in West and South Africa. Membership is available to persons of African ancestry who, regardless of profession, share similar concerns regarding health and welfare issues in the Black community. NABSW has over 30 student chapters at graduate schools of social work throughout the country. NABSW hosts an annual National and International Conference open to its membership and potential members.</p>
+      <p> Jerry Blanton was President of the Albany Chapter of the Northeastern Capital District Association of Black Social Workers in the early 1970s and described three goals for the organization. These goals included working with established organizations to unite the community, making the expertise of members available to the community, and accepting Agency Board Memberships throughout the area to enhance the better delivery of services to the community. This organization affiliated itself with the NABSW in 1972. The Chapter was also known as the Albany, New York Chapter of the National Association of Black Social Workers. The Chapter was apparently inactive for an unknown period of time in the 1970s and early 1980s before being revived in August 1983 by Deloris Kirkwood Brown. The organization sponsored workshops for its members as well as members of the community.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The records of the National Association of Black Social Workers, Capital District Chapter primarily document the
-	  organization's history in the early 1970s and the early 1980s. The organization's founding is well documented by meeting
-	  minutes, correspondence, and its constitution. The most complete documentation of the organization is for the years
-	  1971-1972. The collection includes sporadic coverage of membership lists, legislative issues of interest to the
-	  organization, and programs organized by the group. The collection also includes single copies of the Association of
-	  Black Social Workers (ABSW) newsletter, the NABSW newsletter, and <emph render="italic">Black Caucus the Journal of the
-	  National Association of Black Social Workers.</emph></p>
+    <scopecontent id="aspace_93385cdb619401af5288f59df2e59283">
+      <head>Scope and Contents</head>
+      <p>The records of the National Association of Black Social Workers, Capital District Chapter primarily document the organization's history in the early 1970s and the early 1980s. The organization's founding is well documented by meeting minutes, correspondence, and its constitution. The most complete documentation of the organization is for the years 1971-1972. The collection includes sporadic coverage of membership lists, legislative issues of interest to the organization, and programs organized by the group. The collection also includes single copies of the Association of Black Social Workers (ABSW) newsletter, the NABSW newsletter, and <emph render="italic">Black Caucus the Journal of the National Association of Black Social Workers.</emph></p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_d7b735f0929d52f4ee4dd32b80dc6d34">
       <head>Arrangement of the Collection</head>
-      <p/>
-      <list type="simple">
-        <item/>
-      </list>
-      <p/>
+      <p>This collection has no series.</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-           Try to give as many access points as you can to increase the chances of 
-           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-           to comment them out! -->
-    <controlaccess>
-      <subject source="meg" encodinganalog="650">African Americans and Civil Rights Organizations</subject>
-      <subject source="meg" encodinganalog="650">Social Activists and Public Advocates</subject>
-      <subject source="meg" encodinganalog="650">Ethnic Groups</subject>
-      <head>Subject and Genre Headings</head>
-      <corpname encodinganalog="610" source="local">National Association of Black Social Workers,
-	    Capital District Chapter</corpname>
-      <corpname encodinganalog="610" source="lcsh">National Association of Black Social Workers</corpname>
-      <subject encodinganalog="650" source="lcsh">Social workers, Black</subject>
-      <geogname encodinganalog="651" source="lcsh">New York State Capitol (Albany, N.Y.)</geogname>
-      <genreform encodinganalog="655" source="aat">Administrative records</genreform>
-      <genreform encodinganalog="655" source="aat">Constitutions</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Legislation (legal concepts)</genreform>
-      <genreform encodinganalog="655" source="aat">Membership lists</genreform>
-      <genreform encodinganalog="655" source="aat">Minutes</genreform>
-      <genreform encodinganalog="655" source="aat">Miscellaneous</genreform>
-      <genreform encodinganalog="655" source="aat">Newsletters</genreform>
-      <genreform encodinganalog="655" source="aat">Programs (documents)</genreform>
-      <genreform encodinganalog="655" source="aat">Financial records</genreform>
-      <genreform encodinganalog="655" source="aat">Publications</genreform>
-    </controlaccess>
-    <prefercite>
+    <prefercite id="aspace_9eb800516f8053ad006b057bf55f6243">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, National Association of Black Social Workers, Capital District Chapter Records,  1970-1991. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, National Association of Black Social Workers, Capital District Chapter Records, 1970-1991. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_apap096-1">
+    <controlaccess>
+      <subject source="meg">African Americans and Civil Rights Organizations</subject>
+      <subject source="meg">Social Activists and Public Advocates</subject>
+      <subject source="meg">Ethnic Groups</subject>
+      <subject source="lcsh">Social workers, Black</subject>
+      <geogname source="lcsh">New York State Capitol (Albany, N.Y.)</geogname>
+      <genreform source="aat">Administrative records</genreform>
+      <genreform source="aat">Constitutions</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Legislation (legal concepts)</genreform>
+      <genreform source="aat">Membership lists</genreform>
+      <genreform source="aat">Minutes</genreform>
+      <genreform source="aat">Miscellaneous</genreform>
+      <genreform source="aat">Newsletters</genreform>
+      <genreform source="aat">Programs (documents)</genreform>
+      <genreform source="aat">Financial Records</genreform>
+      <genreform source="aat">Publications</genreform>
+      <corpname source="local">National Association of Black Social Workers, Capital District Chapter</corpname>
+      <corpname source="lcsh">National Association of Black Social Workers</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_d0bfb60aaf43c177291528133993f369" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>Activities, Programs, Workshops</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971/1973">
-			1971-1973</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1984">
-			1983-1984</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">
-			1991</unitdate>
+          <unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate>
+          <unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate>
+          <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+          <container id="aspace_f25dce835f0eb37e57fe5c54ef4f0021" label="Mixed Materials" type="Box">1 (National Association of Black Social Workers, Capi)</container>
+          <container id="aspace_957f85b6df525398d976754a299ff1ad" parent="aspace_f25dce835f0eb37e57fe5c54ef4f0021" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap096-2">
+      <c01 id="aspace_82110fba403602a53f9fcf95bdafe3d8" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Constitution and By-laws</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1984">
-			1983-1984</unitdate>
+          <unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate>
+          <container id="aspace_b99cf90c8efa129aa10db040fdb355c2" label="Mixed Materials" type="Box">1 (National Association of Black Social Workers, Capi)</container>
+          <container id="aspace_5a56bde6e73fb28a67d675c97c2f67d5" parent="aspace_b99cf90c8efa129aa10db040fdb355c2" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap096-3">
+      <c01 id="aspace_afcf0b3b4881fcd292c6d608c7a9959b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>Constitution and By-laws, National Association</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">
-			1982</unitdate>
+          <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+          <container id="aspace_7961480a3a6e9a9032a4705c88b6087a" label="Mixed Materials" type="Box">1 (National Association of Black Social Workers, Capi)</container>
+          <container id="aspace_019bd6c58bdff0ec78dc4789c1ff613a" parent="aspace_7961480a3a6e9a9032a4705c88b6087a" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap096-4">
+      <c01 id="aspace_c2c36c17663a8850c9633ca5bd743441" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Correspondence</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972/1973">
-			1972-1973</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1984">
-			1983-1984</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">
-			1991</unitdate>
+          <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
+          <unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate>
+          <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+          <container id="aspace_abe6dd2900c6fb1c22d1e4b0dc2b1f5a" label="Mixed Materials" type="Box">1 (National Association of Black Social Workers, Capi)</container>
+          <container id="aspace_d65b88d2d463737e3ede24292a09687f" parent="aspace_abe6dd2900c6fb1c22d1e4b0dc2b1f5a" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap096-5">
+      <c01 id="aspace_ccca1649758029effb5579dd7b6a5c92" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Financial Reports</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">
-			1984</unitdate>
+          <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+          <container id="aspace_06a0b69b645d045a70cd085c38f9f6a9" label="Mixed Materials" type="Box">1 (National Association of Black Social Workers, Capi)</container>
+          <container id="aspace_489c9072eb2a270c09c3b883bbbb4db6" parent="aspace_06a0b69b645d045a70cd085c38f9f6a9" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap096-6">
+      <c01 id="aspace_767b0d2dcee0333f709f4468aedf5f3a" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Legislation</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">
-			1981</unitdate>
+          <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+          <container id="aspace_b4e5134b9c822fc4538f990c356290b5" label="Mixed Materials" type="Box">1 (National Association of Black Social Workers, Capi)</container>
+          <container id="aspace_6b079589c3d81d9659c6c78484c6dcf8" parent="aspace_b4e5134b9c822fc4538f990c356290b5" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap096-7">
+      <c01 id="aspace_33bcf1118686ad3473ab63e49f0fa1d4" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Members</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973/1974">
-			1973-1974</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983-1984">
-			1983-1984</unitdate>
+          <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+          <unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate>
+          <container id="aspace_5f656553cfe7dc254fe6a82ad4fe7aca" label="Mixed Materials" type="Box">1 (National Association of Black Social Workers, Capi)</container>
+          <container id="aspace_132577f990e4af31ff7ad94fe49060e8" parent="aspace_5f656553cfe7dc254fe6a82ad4fe7aca" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_apap096-8">
+      <c01 id="aspace_bd1ed4b91da301b5a259550469d273bb" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
           <unittitle>Minutes and Agendas</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971/1972">
-			1971-1972</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1985">
-			1983-1985</unitdate>
+          <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+          <unitdate normal="1983/1985" type="inclusive">1983-1985</unitdate>
+          <container id="aspace_44e15d787f2f72bfe0e9eaf39043730e" label="Mixed Materials" type="Box">1 (National Association of Black Social Workers, Capi)</container>
+          <container id="aspace_5c8a3b509deae5fab47db83a30f67ca7" parent="aspace_44e15d787f2f72bfe0e9eaf39043730e" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_apap096-9">
+      <c01 id="aspace_493a2a13197328a5da32f52e8b509728" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
-          <unittitle>Miscellaneous, Membership Certificate, News Clippings,
-			Conference Registration Forms</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">
-			1970</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972">
-			1972</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">
-			1981</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984-1985">
-			1984-1985</unitdate>
+          <unittitle>Miscellaneous, Membership Certificate, News Clippings, Conference Registration Forms</unittitle>
+          <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+          <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+          <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+          <unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate>
+          <container id="aspace_ece4e3d9fa0fc54b94a65866c3b3cfb3" label="Mixed Materials" type="Box">1 (National Association of Black Social Workers, Capi)</container>
+          <container id="aspace_0d33f3c4045bd059e185c3085b52904a" parent="aspace_ece4e3d9fa0fc54b94a65866c3b3cfb3" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_apap096-10">
+      <c01 id="aspace_87c4119d2ee54445179a0bd7c1ebdace" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Newsletters and Publications, National Association</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">
-            1971</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984/1985">
-            1984-1985</unitdate>
+          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+          <unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate>
+          <container id="aspace_5b1295a39340c26cd62f16d195a8df29" label="Mixed Materials" type="Box">1 (National Association of Black Social Workers, Capi)</container>
+          <container id="aspace_c34956f0ce95dae0e8c052e4d4b4209f" parent="aspace_5b1295a39340c26cd62f16d195a8df29" type="Folder">10</container>
         </did>
       </c01>
     </dsc>

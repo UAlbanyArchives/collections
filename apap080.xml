@@ -1,1694 +1,1569 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap080">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="nalsu" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" url="http://library.albany.edu/speccoll/findaids/apap080.xml" identifier="##">nam_apap080</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap080">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap080.xml">apap080</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>DONALD M. BLINKEN PAPERS (APAP080)<date normal="1969/2003" type="inclusive">1969-2003</date></titleproper>
+        <titleproper>Blinken, Donald M.; Papers <num>apap080</num></titleproper>
         <author>Michelle M. Powers and Sara Kim</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2005">Copyright 2005 by the University at Albany, SUNY. All rights reserved.</date>
-        <!--Powers authored finding aid in 2003, Kim updated it in 2005-->
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2005</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Patricia F. Dolton<date normal="2013">2013</date>
-			</creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 14:12:30 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2013</date>
+        <item>Encoded in EAD by Patricia F. Dolton</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>DONALD M. BLINKEN PAPERS (APAP080)<date normal="1969/2003" type="inclusive">1969-2003</date></titleproper>
-      <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2013</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap080</unitid>
-      <unittitle>Donald M. Blinken Papers<unitdate type="inclusive" normal="1969/2003" label="Date:">1969-2003</unitdate></unittitle>
-      <origination>
-        <persname encodinganalog="100" source="lcsh">Blinken, Donald M.</persname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
+      </repository>
+      <unittitle>Donald M. Blinken Papers<unitdate normal="1969/2003" type="inclusive">1969-2003</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="lcsh">Blinken, Donald M.</persname>
       </origination>
-      <physdesc>
-        <extent unit="cubic ft.">5.95</extent>
+      <unitid>apap080</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5.95 cubic ft.</extent>
         <physfacet>processed to date</physfacet>
       </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
-      </repository>
-      <abstract label="Abstract:">
-				Donald M. Blinken was chairman of the Board of Trustees of the State University 
-			of New York from 1978-1990. These records pertain to his tenure in that position.
-			</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <abstract id="aspace_d28321f8f765f8299ef91ab5f0e627f5">Donald M. Blinken was chairman of the Board of Trustees of the State University of New York from 1978-1990. These records pertain to his tenure in that position.</abstract>
+      <langmaterial id="aspace_1ce60c61d331a7ce7d714dfcde870479">English</langmaterial>
+      <physloc id="aspace_8bf2d0dae6e92c7341d8658015c7985a">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_1e8b54f7b0661bbb4f0961a7697ce524">
+      <head>Processing Information</head>
+      <p>Processed in 2005 by Michelle M. Powers and Sara Kim.</p>
+    </processinfo>
+    <accessrestrict id="aspace_794db1390fd5cb5cf9466a710bc5feab">
       <head>Access</head>
-      <p> Access to this record group is unrestricted.</p>
+      <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_ccb0c8c482ecce2452f790fbfb8a017c">
       <head>Copyright</head>
-      <p>The researcher assumes full responsibility for conforming with the laws of copyright. 
-	  Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide 
-	  information about copyright owners and other restrictions, but the legal determination ultimately 
-	  rests with the researcher. Requests for permission to publish material from this collection should 
-	  be discussed with the Head of Special Collections and Archives.</p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_b571fb1048338674d6a73d92f412d06a">
       <head>Acquisition Information</head>
-      <p>All items in this manuscript group were donated to the University Libraries, the M.E. Grenander 
-	  Department of Special Collections and Archives by Donald Blinken via Jane Graham 
-	  of the SUNY Central Archives in January 1997. An additional 1 cubic foot of material received 
-	  in September 2003 was arranged and described in January 2005.</p>
+      <p>All items in this manuscript group were donated to the University Libraries, the M.E. Grenander Department of Special Collections and Archives by Donald Blinken via Jane Graham of the SUNY Central Archives in January 1997. An additional 1 cubic foot of material received in September 2003 was arranged and described in January 2005.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_07325e075065f6ef60d92fa97ebdf645">
       <head>Biographical Sketch</head>
-      <p>Donald M. Blinken was born in New York in 1925. He joined the U.S. Army Air Corps in 1944. 
-	  In 1948 he graduated magna cum laude in economics from Harvard. After 10 years in the retail business, 
-	  including two in the United Kingdom with Marks &amp; Spencer, he joined the investment firm of E.M. 
-	  Warburg Pincus, the largest venture capital firm in the United States. He continued to be associated 
-	  with Warburg Pincus as a managing partner until taking up government service.</p>
-      <p>In January 1977, Governor Hugh L. Carey appointed Blinken to the Board of Trustees of the State 
-	  University of New York and subsequently appointed him chairman in July of 1978. He was re-appointed 
-	  to that office by Governor Mario M. Cuomo and served until 1990. The State University of New York is 
-	  the nation's largest institution of higher education. It serves nearly 400,000 students on 64 campuses 
-	  throughout New York. It awarded Mr. Blinken an honorary degree in 1993.</p>
-      <p>Donald Blinken was sworn in as Ambassador to the Republic of Hungary by Vice President Al Gore on 
-	  March 29, 1994 and served until 1997.</p>
-      <p>In addition to his services in education and government, Ambassador Blinken has dedicated his time 
-	  and energy to the arts. He was named President of the Mark Rothko Foundation in 1976. Mr. Blinken edited Eliminating
-	  the Obstacles Between the Painter and the Observer: The Mark Rothko Foundation, 1976-1986. In recent years, 
-	  Mr. Blinken has also served as vice- chairman of the New York Philharmonic Symphony Society, as a member 
-	  of the executive committee of the New York Public Library, as a board member and chairman of the Commentary 
-	  Publication Committee, as a trustee of the Institute of International Education, as overseer of the Nelson A. 
-	  Rockefeller Institute of Government, and as a member of the Trustees' Council of the National Gallery of Art.</p>
-      <p>This information came from The Embassy of the United States of America, Budapest Hungary, Donald M. 
-	  Blinken U.S. Ambassador to Hungary 1994-1997, http://www.usembassy.hu/blinkenb.htm (accessed 20 March 
-	  2003). Also from Series 3, Box 1, Folder 1, Donald Blinken Papers, 1969-1993, M.E. Grenander Department 
-	  of Special Collections and Archives, University Libraries, University at Albany, State University of New 
-	  York (hereafter referred to as the Blinken Papers).</p>
+      <p>Donald M. Blinken was born in New York in 1925. He joined the U.S. Army Air Corps in 1944. In 1948 he graduated magna cum laude in economics from Harvard. After 10 years in the retail business, including two in the United Kingdom with Marks &amp; Spencer, he joined the investment firm of E.M. Warburg Pincus, the largest venture capital firm in the United States. He continued to be associated with Warburg Pincus as a managing partner until taking up government service.</p>
+      <p> In January 1977, Governor Hugh L. Carey appointed Blinken to the Board of Trustees of the State University of New York and subsequently appointed him chairman in July of 1978. He was re-appointed to that office by Governor Mario M. Cuomo and served until 1990. The State University of New York is the nation's largest institution of higher education. It serves nearly 400,000 students on 64 campuses throughout New York. It awarded Mr. Blinken an honorary degree in 1993.</p>
+      <p> Donald Blinken was sworn in as Ambassador to the Republic of Hungary by Vice President Al Gore on March 29, 1994 and served until 1997.</p>
+      <p> In addition to his services in education and government, Ambassador Blinken has dedicated his time and energy to the arts. He was named President of the Mark Rothko Foundation in 1976. Mr. Blinken edited Eliminating the Obstacles Between the Painter and the Observer: The Mark Rothko Foundation, 1976-1986. In recent years, Mr. Blinken has also served as vice- chairman of the New York Philharmonic Symphony Society, as a member of the executive committee of the New York Public Library, as a board member and chairman of the Commentary Publication Committee, as a trustee of the Institute of International Education, as overseer of the Nelson A. Rockefeller Institute of Government, and as a member of the Trustees' Council of the National Gallery of Art.</p>
+      <p> This information came from The Embassy of the United States of America, Budapest Hungary, Donald M. Blinken U.S. Ambassador to Hungary 1994-1997, http://www.usembassy.hu/blinkenb.htm (accessed 20 March 2003). Also from Series 3, Box 1, Folder 1, Donald Blinken Papers, 1969-1993, M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Blinken Papers).</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>This collection documents the activities and concerns of Ambassador Blinken as a board member of the 
-	  Board of Trustees for the State University of New York (SUNY) in 1976 and subsequently as chairman of the Board 
-	  from 1978 through 1990. The bulk of the papers consists of correspondence between Blinken and members of 
-	  the Board, the Chancellor, the campus presidents, and New York State government officials. There are also 
-	  a number of reports regarding the SUNY system or individual SUNY campuses. Prominent topics of concern 
-	  were the future of the SUNY system (Independent Commission on the Future of SUNY, 1983-1985), relations 
-	  with independent colleges and universities in New York (Commission on Independent Colleges and Universities, 
-	  1978-1984), upgrading intercollegiate athletic competition (Intercollegiate Athletic Board regarding SUNY 
-	  Buffalo upgrade to Division II, 1985-1986), SUNY and CUNY relations (1976-1989), and concerns about teaching
-	  controversial subjects and academic freedom (Dube controversy at SUNY Stony Brook, 1983-1990). SUNY's financial 
-	  position in both challenging and stable economic times, SUNY's growth as a state wide educational system, and 
-	  the changing role of the individual campuses are recurring topics.</p>
-      <p>Although the collection does contain information regarding SUNY campuses, not all of them are represented 
-	  in this collection. There is little material regarding curriculum other than a 1982 proposal for a degree in 
-	  Arts Management. There is also little documentation related to student life or faculty at the SUNY schools. 
-	  There are no personal papers or papers related to other professional, civic, or government positions Ambassador 
-	  Blinken has maintained.</p>
-      <p>Additional material acquired in 2003 contains documents related to the individual SUNY campuses, including 
-	  campus brochures, statements of inauguration, and correspondence between Blinken and members of the Board, 
-	  the Chancellor, the campus presidents, and the professors of each campus.</p>
-      <p>Related materials in the University Archives include: the records of the State University of New York, 
-	  Board of Trustees (APAP-098); the records of the Office of the President (UA-000); and the records of the 
-	  Student Association of the State University of New York (SASU) (APAP-046).</p>
+    <scopecontent id="aspace_3c0385df3adaeba6c36c7a2c4bf00e0d">
+      <head>Scope and Contents</head>
+      <p>This collection documents the activities and concerns of Ambassador Blinken as a board member of the Board of Trustees for the State University of New York (SUNY) in 1976 and subsequently as chairman of the Board from 1978 through 1990. The bulk of the papers consists of correspondence between Blinken and members of the Board, the Chancellor, the campus presidents, and New York State government officials. There are also a number of reports regarding the SUNY system or individual SUNY campuses. Prominent topics of concern were the future of the SUNY system (Independent Commission on the Future of SUNY, 1983-1985), relations with independent colleges and universities in New York (Commission on Independent Colleges and Universities, 1978-1984), upgrading intercollegiate athletic competition (Intercollegiate Athletic Board regarding SUNY Buffalo upgrade to Division II, 1985-1986), SUNY and CUNY relations (1976-1989), and concerns about teaching controversial subjects and academic freedom (Dube controversy at SUNY Stony Brook, 1983-1990). SUNY's financial position in both challenging and stable economic times, SUNY's growth as a state wide educational system, and the changing role of the individual campuses are recurring topics.</p>
+      <p> Although the collection does contain information regarding SUNY campuses, not all of them are represented in this collection. There is little material regarding curriculum other than a 1982 proposal for a degree in Arts Management. There is also little documentation related to student life or faculty at the SUNY schools. There are no personal papers or papers related to other professional, civic, or government positions Ambassador Blinken has maintained.</p>
+      <p> Additional material acquired in 2003 contains documents related to the individual SUNY campuses, including campus brochures, statements of inauguration, and correspondence between Blinken and members of the Board, the Chancellor, the campus presidents, and the professors of each campus.</p>
+      <p> Related materials in the University Archives include: the records of the State University of New York, Board of Trustees (APAP-098); the records of the Office of the President (UA-000); and the records of the Student Association of the State University of New York (SASU) (APAP-046).</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_d1aac943a10e2908fc417a5d61ad288a">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series:</p>
-      <list type="simple">
-        <item>Series 1 - SUNY Schools, 1976-1990</item>
-        <item>Series 2 - Correspondence, 1976-1990</item>
-        <item>Series 3 - Subject Files, 1969-2003</item>
-        <item>Series 4 - SUNY Publications, 1985-1990</item>
-      </list>
       <p>Series 1 and 3 are arranged alphabetically. Series 2 is arranged by subject, then chronologically. Series 4 is arranged chronologically.</p>
     </arrangement>
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">State University of New York SUNY, Central Administration</subject>
-      <subject source="meg" encodinganalog="650">Public Servants </subject>
-      <subject source="meg" encodinganalog="650">Education</subject>
-      <subject source="meg" encodinganalog="650">Athletics and Sports</subject>
-      <persname encodinganalog="600" source="lcsh">Blinken, Donald M.</persname>
-      <corpname encodinganalog="610" source="lcsh">State University of New York</corpname>
-      <geogname encodinganalog="651" source="lcsh">New York (State)</geogname>
-      <geogname encodinganalog="651" source="lcsh">Albany (N.Y.)</geogname>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Reporting</genreform>
-      <genreform encodinganalog="655" source="aat">Administrative Records</genreform>
-      <genreform encodinganalog="655" source="aat">Publications</genreform>
-    </controlaccess>
-    <prefercite>
+    <prefercite id="aspace_ceda5b0ece25acd5618c23a1fca0ec39">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Donald M. Blinken Papers, 1969-2003. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, Donald M. Blinken Papers, 1969-2003. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
-    <dsc type="combined">
-      <head>Container List</head>
-      <!--Series 1-->
-      <c01 level="series" id="nam_apap080-1">
+    <controlaccess>
+      <subject source="meg">State University of New York SUNY, Central Administration</subject>
+      <subject source="meg">Public Servants</subject>
+      <subject source="meg">Education</subject>
+      <subject source="meg">Athletics and Sports</subject>
+      <geogname source="lcsh">New York (State)</geogname>
+      <geogname source="lcsh">Albany (N.Y.)</geogname>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Reporting</genreform>
+      <genreform source="aat">Administrative records</genreform>
+      <genreform source="aat">Publications</genreform>
+      <persname source="lcsh">Blinken, Donald M.</persname>
+      <corpname source="lcsh">State University of New York</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_0abb3137cdd07cddb6db3a9ac51a2e2a" level="series">
         <did>
+          <unittitle>SUNY Schools</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">SUNY Schools</unittitle>
-          <unitdate type="inclusive" normal="1976/1991">1976-1991</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">2.32</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2.32 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1976/1991" type="inclusive">1976-1991</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_f974de2fb35100509425a6f2dd93e3b7">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
-          <p>Blinken maintained a small group of files related to specific SUNY schools. The files 
-		  are arranged alphabetically by the name of the school. The files in Box 5 were accessioned 
-		  later and processed separately from Box 1, 2, 3, and 4. The files in Box 5 are also arranged 
-		  alphabetically by the name of the school. Materials within the files are arranged chronologically. 
-		  They include reports, correspondence, and news clippings regarding a variety of topics.</p>
-          <p>There are some files that contain material regarding a specific event or situation. In 1986 
-		  the Board of Trustees voted to lift the ban on athletic grant -in-aid at SUNY Buffalo. This change 
-		  allowed the athletic department to upgrade to Division II in basketball and football with the possibility 
-		  of upgrading to Division I in subsequent years. Reports from the Intercollegiate Athletic Board are included. 
-		  Also included is correspondence among the Board members. There are two folders of community correspondence, 
-		  these include letters from parents, alumni, and members of the community requesting the Board vote to lift 
-		  the ban and allow the athletic department to upgrade. There are some, though few, requests that the ban 
-		  not be lifted.</p>
-          <p>The Dube Controversy at SUNY Stony Brook, 1983-1990, concerns Professor Ernest Dube who was accused 
-		  of teaching that Zionism is equivalent to racism. Materials consist of editorials, news clippings, statements 
-		  from the Dean and other faculty members, correspondence from government officials and members of the Jewish 
-		  community, and memorandum from the Faculty Rights and Responsibilities group. The issue raised questions of 
-		  academic responsibility and academic freedom in the teaching of controversial subjects. The controversy continued 
-		  for several years and Dube's tenure appeal prompted the involvement of the American Association of University 
-		  Professors in 1986.</p>
-          <p>The controversial Louis Farrakan visited the SUNY Old Westbury campus in April 1985. See Box 2, folder 1.</p>
+        <scopecontent id="aspace_f044c87da8f1d3dc965e371c274c7760">
+          <head>Scope and Contents</head>
+          <p>Blinken maintained a small group of files related to specific SUNY schools. The files are arranged alphabetically by the name of the school. The files in Box 5 were accessioned later and processed separately from Box 1, 2, 3, and 4. The files in Box 5 are also arranged alphabetically by the name of the school. Materials within the files are arranged chronologically. They include reports, correspondence, and news clippings regarding a variety of topics.</p>
+          <p> There are some files that contain material regarding a specific event or situation. In 1986 the Board of Trustees voted to lift the ban on athletic grant -in-aid at SUNY Buffalo. This change allowed the athletic department to upgrade to Division II in basketball and football with the possibility of upgrading to Division I in subsequent years. Reports from the Intercollegiate Athletic Board are included. Also included is correspondence among the Board members. There are two folders of community correspondence, these include letters from parents, alumni, and members of the community requesting the Board vote to lift the ban and allow the athletic department to upgrade. There are some, though few, requests that the ban not be lifted.</p>
+          <p> The Dube Controversy at SUNY Stony Brook, 1983-1990, concerns Professor Ernest Dube who was accused of teaching that Zionism is equivalent to racism. Materials consist of editorials, news clippings, statements from the Dean and other faculty members, correspondence from government officials and members of the Jewish community, and memorandum from the Faculty Rights and Responsibilities group. The issue raised questions of academic responsibility and academic freedom in the teaching of controversial subjects. The controversy continued for several years and Dube's tenure appeal prompted the involvement of the American Association of University Professors in 1986.</p>
+          <p> The controversial Louis Farrakan visited the SUNY Old Westbury campus in April 1985. See Box 2, folder 1.</p>
         </scopecontent>
-        <c02 id="nam_apap080-1_1">
+        <c02 id="aspace_2366073e66f877ece00ca1a779179f60" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>SUNY Buffalo, Upgrading Intercollegiate Athletics</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985/1986">
- 1985-1986</unitdate>
+            <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
+            <container id="aspace_a8c9532934f7d1805f067ea7fd6bdf61" label="Mixed Materials" type="Box">1 (1-SUNY Schools)</container>
+            <container id="aspace_1c2acde20f9f753cd26aa0c4bf25fc2d" parent="aspace_a8c9532934f7d1805f067ea7fd6bdf61" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_2">
+        <c02 id="aspace_fe6bbdc894c4a0fe50073a07084a39b2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
-            <unittitle> SUNY Buffalo, Upgrading Intercollegiate Athletics Community Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986-04">1986 April</unitdate>
-          </did>
-        </c02>
-        <c02 id="nam_apap080-1_3">
-          <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>SUNY Buffalo, Upgrading Intercollegiate Athletics Community Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986-04/1986-05">1986 April-1986 May</unitdate>
+            <unitdate normal="1986-04/1986-04" type="inclusive">1986 April</unitdate>
+            <container id="aspace_39d1362a1af66af9a4b56be677ad1d60" label="Mixed Materials" type="Box">1 (1-SUNY Schools)</container>
+            <container id="aspace_1c71bdf2a18834c3313b3991743fd8d0" parent="aspace_39d1362a1af66af9a4b56be677ad1d60" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_4">
+        <c02 id="aspace_6baccabdb0b883193e9fb80e5ad02cbb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
+            <unittitle>SUNY Buffalo, Upgrading Intercollegiate Athletics Community Correspondence</unittitle>
+            <unitdate normal="1986-04/1986-05" type="inclusive">1986 April-1986 May</unitdate>
+            <container id="aspace_b3b0ed1b2acaad1c5a7254d1039cea8b" label="Mixed Materials" type="Box">1 (1-SUNY Schools)</container>
+            <container id="aspace_d20e7d466eb448c67bf864ace61e15be" parent="aspace_b3b0ed1b2acaad1c5a7254d1039cea8b" type="Folder">3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_37001bf252f749f50689090ac68a1298" level="file">
+          <did>
             <unittitle>SUNY Old Westbury</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980-01/1980-08">1980 January-1980 August</unitdate>
+            <unitdate normal="1980-01/1980-08" type="inclusive">1980 January-1980 August</unitdate>
+            <container id="aspace_eef3eef8e199314600bb95b064e95c49" label="Mixed Materials" type="Box">1 (1-SUNY Schools)</container>
+            <container id="aspace_68c14aa93118aaf06330165bbee8e42d" parent="aspace_eef3eef8e199314600bb95b064e95c49" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_5">
+        <c02 id="aspace_84995b7aa9d97b60bb2e8aaf91600488" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>SUNY Old Westbury</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980-09/1981-09">1980 September-1981 September</unitdate>
+            <unitdate normal="1980-09/1981-09" type="inclusive">1980 September-1981 September</unitdate>
+            <container id="aspace_4c36911de04fdb0877438c84244f6e67" label="Mixed Materials" type="Box">1 (1-SUNY Schools)</container>
+            <container id="aspace_e25c60e05e61d56cd2b5d6b3c3690faa" parent="aspace_4c36911de04fdb0877438c84244f6e67" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_6">
+        <c02 id="aspace_db33126f05d008cd09a69efd072e7832" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>SUNY Old Westbury</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982-01/1983-03">1982 January-1983 March</unitdate>
+            <unitdate normal="1982-01/1983-03" type="inclusive">1982 January-1983 March</unitdate>
+            <container id="aspace_00f210381ec9629c9e62c57455e9ef61" label="Mixed Materials" type="Box">1 (1-SUNY Schools)</container>
+            <container id="aspace_103b851a6d451fe695c241070dbb182c" parent="aspace_00f210381ec9629c9e62c57455e9ef61" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_7">
+        <c02 id="aspace_fa4174c3713069d8aa8e97f212df3658" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>SUNY Old Westbury</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983-04/1984-03">1983 April-1984 March</unitdate>
+            <unitdate normal="1983-04/1984-03" type="inclusive">1983 April-1984 March</unitdate>
+            <container id="aspace_be18a9c6e68cade0d7e8d0d23f005865" label="Mixed Materials" type="Box">1 (1-SUNY Schools)</container>
+            <container id="aspace_384b56c70aa793cd465625aa524afc0d" parent="aspace_be18a9c6e68cade0d7e8d0d23f005865" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_8">
+        <c02 id="aspace_7fe4cb1d5ce57af1710a43564949b323" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
-            <unittitle>SUNY Old Westbury<!-- PUT IN SCOPE CONTENT NOTES  OR HERE WEIRD DATE Includes material related to a controversial visit on campus by Louis Farrakan in April 1985--></unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984-04/1985-04">1984 April-1985 April</unitdate>
-          </did>
-        </c02>
-        <c02 id="nam_apap080-1_9">
-          <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>SUNY Old Westbury</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986-06/1991-06">1986 June-1991 June</unitdate>
+            <unitdate normal="1984-04/1985-04" type="inclusive">1984 April-1985 April</unitdate>
+            <container id="aspace_4b2be43dbe1ab5699257d32029e0e450" label="Mixed Materials" type="Box">2 (1-SUNY Schools)</container>
+            <container id="aspace_f57d665cc8954fa52c9a57eab40a797e" parent="aspace_4b2be43dbe1ab5699257d32029e0e450" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_10">
+        <c02 id="aspace_5e376c458e52b45fbec8b169930fea92" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
+            <unittitle>SUNY Old Westbury</unittitle>
+            <unitdate normal="1986-06/1991-06" type="inclusive">1986 June-1991 June</unitdate>
+            <container id="aspace_5854a0d3c7dbceae5127cf5bd52c082c" label="Mixed Materials" type="Box">2 (1-SUNY Schools)</container>
+            <container id="aspace_647e94bc955f2f84c640f3d2f5b65189" parent="aspace_5854a0d3c7dbceae5127cf5bd52c082c" type="Folder">2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_562d3bb65b3cea28a0a717202e5c1805" level="file">
+          <did>
             <unittitle>SUNY Plattsburg</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1981">1979-1981</unitdate>
+            <unitdate normal="1979/1981" type="inclusive">1979-1981</unitdate>
+            <container id="aspace_1afc11be63ea2bfc8771c279f521968e" label="Mixed Materials" type="Box">2 (1-SUNY Schools)</container>
+            <container id="aspace_f0536562ef81c9ee705b70725d9598fb" parent="aspace_1afc11be63ea2bfc8771c279f521968e" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_11">
+        <c02 id="aspace_27d81929c3df94467f1a960b84095841" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>SUNY Plattsburg</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982/1984-05">1982-May 1984</unitdate>
+            <unitdate normal="1982/1984-05" type="inclusive">1982-May 1984</unitdate>
+            <container id="aspace_66e5a93c69fcab1f9bdc443ec86f808f" label="Mixed Materials" type="Box">2 (1-SUNY Schools)</container>
+            <container id="aspace_580fb211e4d2030e62e60380dbbeeb9f" parent="aspace_66e5a93c69fcab1f9bdc443ec86f808f" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_12">
+        <c02 id="aspace_07f7cba0a00b938933df4868887ee4bc" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>SUNY Plattsburg</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984-09/1988">1984 September-1988</unitdate>
+            <unitdate normal="1984-09/1988" type="inclusive">1984 September-1988</unitdate>
+            <container id="aspace_1950217f0e856506b7e5e06ed0ca505c" label="Mixed Materials" type="Box">2 (1-SUNY Schools)</container>
+            <container id="aspace_398c1ab16b588205e8f054b6aeb3668b" parent="aspace_1950217f0e856506b7e5e06ed0ca505c" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_13">
+        <c02 id="aspace_37ce1fb67d863b638ab6b94d2733845d" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>SUNY Pottsdam</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1983">1980-1983</unitdate>
+            <unitdate normal="1980/1983" type="inclusive">1980-1983</unitdate>
+            <container id="aspace_4214f451c9fb833e84e5bfd4d6b3a946" label="Mixed Materials" type="Box">2 (1-SUNY Schools)</container>
+            <container id="aspace_c1a9eef22397610246a8fa166af4b94f" parent="aspace_4214f451c9fb833e84e5bfd4d6b3a946" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_14">
+        <c02 id="aspace_56959c615c75d8240809633516cc78d0" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
             <unittitle>SUNY Pottsdam</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984/1985">1984-1985</unitdate>
+            <unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate>
+            <container id="aspace_b86896bde6fb327c3dc08fb8f6858c5e" label="Mixed Materials" type="Box">2 (1-SUNY Schools)</container>
+            <container id="aspace_2c05d270bccd72becc42f89d235673d1" parent="aspace_b86896bde6fb327c3dc08fb8f6858c5e" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_15">
+        <c02 id="aspace_a1379cafba69dab687ff25f5d6e56d1e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
             <unittitle>SUNY Pottsdam</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986/1991">1986-1991</unitdate>
+            <unitdate normal="1986/1991" type="inclusive">1986-1991</unitdate>
+            <container id="aspace_60860778009386611d7c37bda7e80e2a" label="Mixed Materials" type="Box">2 (1-SUNY Schools)</container>
+            <container id="aspace_137b213d2d5d5916fd126b09cac45ddd" parent="aspace_60860778009386611d7c37bda7e80e2a" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_16">
+        <c02 id="aspace_4e97dd845abe51c62abf9884eaf52f4e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
             <unittitle>SUNY Purchase</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1981">1979-1981</unitdate>
+            <unitdate normal="1979/1981" type="inclusive">1979-1981</unitdate>
+            <container id="aspace_0c6a4dba1978908a58f3deb17f1b6a76" label="Mixed Materials" type="Box">2 (1-SUNY Schools)</container>
+            <container id="aspace_201e5917c07404eba3bfbbc59a1b3337" parent="aspace_0c6a4dba1978908a58f3deb17f1b6a76" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_17">
+        <c02 id="aspace_3be8ce2206f9649167d81ed0caa1ba91" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10</container>
             <unittitle>SUNY Purchase</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982/1983">1982-1983</unitdate>
+            <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate>
+            <container id="aspace_28a3e26ff5b26bc65144b231dc19840f" label="Mixed Materials" type="Box">2 (1-SUNY Schools)</container>
+            <container id="aspace_cb8d8f0805a6296c7abc41af3d603dcb" parent="aspace_28a3e26ff5b26bc65144b231dc19840f" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_18">
+        <c02 id="aspace_c0dbc71e2be29b915cd55d95761c9511" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>SUNY Purchase</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984/1985-04">1984-April 1985</unitdate>
+            <unitdate normal="1984/1985-04" type="inclusive">1984-April 1985</unitdate>
+            <container id="aspace_ed74e07164cf87583a1de87870e02d73" label="Mixed Materials" type="Box">3 (1-SUNY Schools)</container>
+            <container id="aspace_19baa5fcc69c98b324bfcbdfbffe7c19" parent="aspace_ed74e07164cf87583a1de87870e02d73" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_19">
+        <c02 id="aspace_2a70f3c6a564f8753a494cb903d4d305" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>SUNY Purchase</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985-05/1986-04">1985 May-1986 April</unitdate>
+            <unitdate normal="1985-05/1986-04" type="inclusive">1985 May-1986 April</unitdate>
+            <container id="aspace_3bfd88f3e7d1476c999fc5015eb5df51" label="Mixed Materials" type="Box">3 (1-SUNY Schools)</container>
+            <container id="aspace_90ec291fcd02377fa0d4bd7a55a38698" parent="aspace_3bfd88f3e7d1476c999fc5015eb5df51" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_20">
+        <c02 id="aspace_b75934799befbb061825eafad4b120bd" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">3</container>
             <unittitle>SUNY Purchase</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986-07/1988">1986 July-1988</unitdate>
+            <unitdate normal="1986-07/1988" type="inclusive">1986 July-1988</unitdate>
+            <container id="aspace_85f7580b703a3db8a050c4dae8c8b466" label="Mixed Materials" type="Box">3 (1-SUNY Schools)</container>
+            <container id="aspace_91562c8e1ca37e6269e9e6c7891d027e" parent="aspace_85f7580b703a3db8a050c4dae8c8b466" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_21">
+        <c02 id="aspace_d771a53d10e7cea4141f9bdb5e3bf5de" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4</container>
             <unittitle>SUNY Purchase</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1991">1989-1991</unitdate>
+            <unitdate normal="1989/1991" type="inclusive">1989-1991</unitdate>
+            <container id="aspace_95a7e372d42b39da450110cd6e9e9dbe" label="Mixed Materials" type="Box">3 (1-SUNY Schools)</container>
+            <container id="aspace_efcca8e7d2d6426a6d7f68c5f14d72e1" parent="aspace_95a7e372d42b39da450110cd6e9e9dbe" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_22">
+        <c02 id="aspace_40ecfc497d2eef7dc3edc3b56c4ff891" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">5</container>
             <unittitle>SUNY Stony Brook, Dube Controversy</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_bd62b55f94ae3f2a0df7c04d944b8c44" label="Mixed Materials" type="Box">3 (1-SUNY Schools)</container>
+            <container id="aspace_dfee463d295df101d17315e6eda6ca6c" parent="aspace_bd62b55f94ae3f2a0df7c04d944b8c44" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_23">
+        <c02 id="aspace_9ff8f7a7a30cc4b768ba8d73d2194f71" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">6</container>
             <unittitle>SUNY Stony Brook, Dube Controversy</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984/1986-05">1984-May 1986</unitdate>
+            <unitdate normal="1984/1986-05" type="inclusive">1984-May 1986</unitdate>
+            <container id="aspace_0d6d02c186c6c5b77546c1a9d24ea480" label="Mixed Materials" type="Box">3 (1-SUNY Schools)</container>
+            <container id="aspace_86f4df2c9ba08ebdf99250dbbf10f12b" parent="aspace_0d6d02c186c6c5b77546c1a9d24ea480" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_24">
+        <c02 id="aspace_8e5a88770b6b596471307375a6640a62" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">7</container>
             <unittitle>SUNY Stony Brook, Dube Controversy</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986-06/1987">1986 September-1987</unitdate>
+            <unitdate normal="1986-06/1987" type="inclusive">1986 September-1987</unitdate>
+            <container id="aspace_edbc252978782ba1a241ad9221cb6e10" label="Mixed Materials" type="Box">3 (1-SUNY Schools)</container>
+            <container id="aspace_040d8d34e86c9b06b6a459245b4104d1" parent="aspace_edbc252978782ba1a241ad9221cb6e10" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_25">
+        <c02 id="aspace_5549520017a4fc4eaf5ee50e5b6fdffa" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">8</container>
             <unittitle>SUNY Stony Brook, Grenada Internship Project</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_a817286aa9cccb83b7d96f0f7ec3bb18" label="Mixed Materials" type="Box">3 (1-SUNY Schools)</container>
+            <container id="aspace_45c7b9647bbcdc8e9aa8368441c71e08" parent="aspace_a817286aa9cccb83b7d96f0f7ec3bb18" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_26">
+        <c02 id="aspace_d4db2bf10aa2ded7948da2f90687f10f" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">9</container>
             <unittitle>SUNY Utica/Rome</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1978-08">1977-August 1978</unitdate>
+            <unitdate normal="1977/1978-08" type="inclusive">1977-August 1978</unitdate>
+            <container id="aspace_554d422ef5de0ed5225a0ba0f68cfc89" label="Mixed Materials" type="Box">3 (1-SUNY Schools)</container>
+            <container id="aspace_a8e52264b3b71fb1d9aed5b7b0d0333f" parent="aspace_554d422ef5de0ed5225a0ba0f68cfc89" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_27">
+        <c02 id="aspace_26d8ffcca75a44a74d8b2fccd7c3ea10" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">10</container>
             <unittitle>SUNY Utica/Rome</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978-09/1979">1978 September-1979</unitdate>
+            <unitdate normal="1978-09/1979" type="inclusive">1978 September-1979</unitdate>
+            <container id="aspace_dc33e9461279f3c9019e6c7926611f3e" label="Mixed Materials" type="Box">3 (1-SUNY Schools)</container>
+            <container id="aspace_ddc17c06d190e9596fdb0f80e3eb5f2e" parent="aspace_dc33e9461279f3c9019e6c7926611f3e" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_28">
+        <c02 id="aspace_fa28ea66f0d1a1ab1928d7a058a6bea6" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">1</container>
             <unittitle>SUNY Utica/Rome</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1980">1979-1980</unitdate>
+            <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
+            <container id="aspace_2212fada3d3196f2ec70ccfaf8989788" label="Mixed Materials" type="Box">4 (1-SUNY Schools)</container>
+            <container id="aspace_b9fdebf4726dfdb4230568eeaf6db3cf" parent="aspace_2212fada3d3196f2ec70ccfaf8989788" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_29">
+        <c02 id="aspace_aa53d0545630e170adfdbf208d1f24ef" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">2</container>
             <unittitle>SUNY Utica/Rome</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981-01/1981-02">1981 January-1981 February</unitdate>
+            <unitdate normal="1981-01/1981-02" type="inclusive">1981 January-1981 February</unitdate>
+            <container id="aspace_94de22ebfdf85ab5eaca2a2e14e50545" label="Mixed Materials" type="Box">4 (1-SUNY Schools)</container>
+            <container id="aspace_b7a25679a8cc17505880705731adbaf9" parent="aspace_94de22ebfdf85ab5eaca2a2e14e50545" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_30">
+        <c02 id="aspace_a80dd9abb4969051ac8f1d06ee4e7e60" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">3</container>
             <unittitle>SUNY Utica/Rome</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981-03">1981 March</unitdate>
+            <unitdate normal="1981-03/1981-03" type="inclusive">1981 March</unitdate>
+            <container id="aspace_e1d564c0f051ec938566311ef70b9235" label="Mixed Materials" type="Box">4 (1-SUNY Schools)</container>
+            <container id="aspace_19a5164d3c7e4b6bd2dd136788d0db51" parent="aspace_e1d564c0f051ec938566311ef70b9235" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_31">
+        <c02 id="aspace_b3693f9aa77d0fa381ca2b169f83bd3d" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">4</container>
             <unittitle>SUNY Utica/Rome</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981-04/1981-05">1981 April-1981 May</unitdate>
+            <unitdate normal="1981-04/1981-05" type="inclusive">1981 April-1981 May</unitdate>
+            <container id="aspace_47337dfe08ebdbbc7227bbb386c18589" label="Mixed Materials" type="Box">4 (1-SUNY Schools)</container>
+            <container id="aspace_f28a62ec0cc73f7d6834e315042639d5" parent="aspace_47337dfe08ebdbbc7227bbb386c18589" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_32">
+        <c02 id="aspace_2f494a862e039b22b4b08fa092a7cb41" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">5</container>
             <unittitle>SUNY Utica/Rome</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981-06/1982-03">1981 June-1982 March</unitdate>
+            <unitdate normal="1981-06/1982-03" type="inclusive">1981 June-1982 March</unitdate>
+            <container id="aspace_1fd2ca6b36dd9bb196deb36c0f553dc0" label="Mixed Materials" type="Box">4 (1-SUNY Schools)</container>
+            <container id="aspace_8409633065102f825cb86e38d2a449f6" parent="aspace_1fd2ca6b36dd9bb196deb36c0f553dc0" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_33">
+        <c02 id="aspace_d0b3fd6308a1803ec2b07ff943626054" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">6</container>
             <unittitle>SUNY Utica/Rome</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982-04/1989">1982 April-1989</unitdate>
+            <unitdate normal="1982-04/1989" type="inclusive">1982 April-1989</unitdate>
+            <container id="aspace_e2fdf21142fd7f9f371dbd43b4c26738" label="Mixed Materials" type="Box">4 (1-SUNY Schools)</container>
+            <container id="aspace_6e6bc18490bad5d6df6ffed6e88c0793" parent="aspace_e2fdf21142fd7f9f371dbd43b4c26738" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_34">
+        <c02 id="aspace_3b209050d6b5d644993bfc9ceb7e2055" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">1</container>
             <unittitle>SUNY Albany, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1982">1980-1982</unitdate>
+            <unitdate normal="1980/1982" type="inclusive">1980-1982</unitdate>
+            <container id="aspace_e1c098b6793d841481a27e38584548cc" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_b964a47e9aac9c726f3ad71f0785140e" parent="aspace_e1c098b6793d841481a27e38584548cc" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_35">
+        <c02 id="aspace_5708a613270cbdc4e988f294583f17d7" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">2</container>
             <unittitle>SUNY Albany, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1984">1983-1984</unitdate>
+            <unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate>
+            <container id="aspace_246c82d4da3b07eb186c21d384fb453d" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_9a3919ee963c74cb4f66c48dbe8ba9e5" parent="aspace_246c82d4da3b07eb186c21d384fb453d" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_36">
+        <c02 id="aspace_35ffb783602b963334b3c58974ed4697" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">3</container>
             <unittitle>SUNY Albany, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985/1989">1985-1989</unitdate>
+            <unitdate normal="1985/1989" type="inclusive">1985-1989</unitdate>
+            <container id="aspace_f8a6c2a070ec569ff27e44e9877931f5" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_7b89fba5e84fe87aed34b3750d74327b" parent="aspace_f8a6c2a070ec569ff27e44e9877931f5" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_37">
+        <c02 id="aspace_9b1f95525e30238538ca3c8efdbe25af" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">4</container>
             <unittitle>SUNY Binghamton, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1981">1979-1981</unitdate>
+            <unitdate normal="1979/1981" type="inclusive">1979-1981</unitdate>
+            <container id="aspace_c605b2aba6cb3cffd77c1103d6efcba8" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_1a06a30ac265fcf0fa14b98b39f2a406" parent="aspace_c605b2aba6cb3cffd77c1103d6efcba8" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_38">
+        <c02 id="aspace_44bd331eb10047390f6069420ec139f2" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">5</container>
             <unittitle>SUNY Binghamton, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982/1984">1982-1984</unitdate>
+            <unitdate normal="1982/1984" type="inclusive">1982-1984</unitdate>
+            <container id="aspace_72738673e68f24dc23337916a857187a" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_a755a0844999ad5c930fee37c5c38c51" parent="aspace_72738673e68f24dc23337916a857187a" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_39">
+        <c02 id="aspace_52fc7ac846b341c6abd06caf4b77a9fe" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">6</container>
             <unittitle>SUNY Binghamton, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985/1989">1985-1989</unitdate>
+            <unitdate normal="1985/1989" type="inclusive">1985-1989</unitdate>
+            <container id="aspace_b7487dea52183d32f83bf72d76ed7965" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_5a818bf437ad53c32840d0cf90f4a4e9" parent="aspace_b7487dea52183d32f83bf72d76ed7965" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_40">
+        <c02 id="aspace_fae6dbe6670f8ba506211399178e885c" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">7</container>
             <unittitle>SUNY Brockport, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976/1989">1976-1989</unitdate>
+            <unitdate normal="1976/1989" type="inclusive">1976-1989</unitdate>
+            <container id="aspace_3396904b948c3dcc31f09827aab5b415" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_3c5d31b929f089e65fab710e6d976378" parent="aspace_3396904b948c3dcc31f09827aab5b415" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_41">
+        <c02 id="aspace_d2160a1e2e0cc3c1fae4e483b09776ed" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">8</container>
             <unittitle>SUNY Buffalo, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1986">1980-1986</unitdate>
+            <unitdate normal="1980/1986" type="inclusive">1980-1986</unitdate>
+            <container id="aspace_dcecde454c3605c95ec8a91fced462d9" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_850e7c2dccb2edca29601e5109294414" parent="aspace_dcecde454c3605c95ec8a91fced462d9" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_42">
+        <c02 id="aspace_4a9d444dda70b59e4237ab5cf72c503e" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">9</container>
             <unittitle>SUNY Buffalo, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1988">1987-1988</unitdate>
+            <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <container id="aspace_6aa8f535c528c156dfea0bccbc5bc626" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_9b1f89755040cd0517027d0c8825c748" parent="aspace_6aa8f535c528c156dfea0bccbc5bc626" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_43">
+        <c02 id="aspace_604efc7130a3e70acc4efb7385c6cd23" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">10</container>
             <unittitle>SUNY Buffalo, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1991">1989-1991</unitdate>
+            <unitdate normal="1989/1991" type="inclusive">1989-1991</unitdate>
+            <container id="aspace_c65e4cef9009ebbadf002e4733601697" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_446aaa8991e95ac1bef3bb5a28f979c4" parent="aspace_c65e4cef9009ebbadf002e4733601697" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_44">
+        <c02 id="aspace_5a842cdccf4c5d09286333c4021f5139" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">11</container>
             <unittitle>SUNY Buffalo Foundation Inc., General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1986">1980-1986</unitdate>
+            <unitdate normal="1980/1986" type="inclusive">1980-1986</unitdate>
+            <container id="aspace_bc4598966658dff04c5ae1a5d9c9feaf" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_a982552b1c08d7c5f1910c8ff0ed354c" parent="aspace_bc4598966658dff04c5ae1a5d9c9feaf" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_45">
+        <c02 id="aspace_18f25f3a6b08f85e3dea7ceb541f220f" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">12</container>
             <unittitle>SUNY Cortland, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1988">1980-1988</unitdate>
+            <unitdate normal="1980/1988" type="inclusive">1980-1988</unitdate>
+            <container id="aspace_bc024831f97253f686a08e4ba58a1c26" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_e9c7035efdabe1640595b54642ed07c0" parent="aspace_bc024831f97253f686a08e4ba58a1c26" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_46">
+        <c02 id="aspace_8fcc9590d98a26f709a4289f99e26f4f" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">13</container>
             <unittitle>SUNY Empire, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1984">1980-1984</unitdate>
+            <unitdate normal="1980/1984" type="inclusive">1980-1984</unitdate>
+            <container id="aspace_8b810f65b16229a8eadeacf77a31d3c4" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_c4fe45aabcc6b94338c95c5da5fea924" parent="aspace_8b810f65b16229a8eadeacf77a31d3c4" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_47">
+        <c02 id="aspace_445a1bc3439187b02033e73f26a339a5" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">14</container>
             <unittitle>SUNY Empire, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985/1989">1985-1989</unitdate>
+            <unitdate normal="1985/1989" type="inclusive">1985-1989</unitdate>
+            <container id="aspace_208768c3a34c2763cf89ccc7254a482d" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_d06a9c21afc43d63ad6643d23595175c" parent="aspace_208768c3a34c2763cf89ccc7254a482d" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_48">
+        <c02 id="aspace_d52758d8cc0980439edba58ed30f9b9f" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">15</container>
             <unittitle>SUNY Fredonia, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1988">1980-1988</unitdate>
+            <unitdate normal="1980/1988" type="inclusive">1980-1988</unitdate>
+            <container id="aspace_3dea45c4b487731767720a110d3246f6" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_6e1d5686e01d1be8920e90056841ba48" parent="aspace_3dea45c4b487731767720a110d3246f6" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_49">
+        <c02 id="aspace_b62c086e0d67c0258ce7f27686611154" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">16</container>
             <unittitle>SUNY Geneseo, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1990">1981-1990</unitdate>
+            <unitdate normal="1981/1990" type="inclusive">1981-1990</unitdate>
+            <container id="aspace_6a6bcd32f6e10fecf4b958ea59cb2913" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_db33b782505f43e6c495ec8b134ae5d8" parent="aspace_6a6bcd32f6e10fecf4b958ea59cb2913" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_50">
+        <c02 id="aspace_f0e2c14474bee4cec270d6b5870b3c30" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">17</container>
             <unittitle>SUNY New Paltz, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1983">1980-1983</unitdate>
+            <unitdate normal="1980/1983" type="inclusive">1980-1983</unitdate>
+            <container id="aspace_6343f02b82abaf650c2b1641c61d8800" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_139be9f6dad2228ac6772a259ecaac8d" parent="aspace_6343f02b82abaf650c2b1641c61d8800" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_51">
+        <c02 id="aspace_8743b87f48a17490c448bd8ee4dc5806" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">18</container>
             <unittitle>SUNY New Paltz, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984/1989">1984-1989</unitdate>
+            <unitdate normal="1984/1989" type="inclusive">1984-1989</unitdate>
+            <container id="aspace_b1a7fb51d2a6e8e6bc472507f42c38a2" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_70646d66b23541191139b8e51c560d31" parent="aspace_b1a7fb51d2a6e8e6bc472507f42c38a2" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_52">
+        <c02 id="aspace_6238f39bc313141795d958a1736076f6" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">19</container>
             <unittitle>SUNY Oneonta, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1982">1980-1982</unitdate>
+            <unitdate normal="1980/1982" type="inclusive">1980-1982</unitdate>
+            <container id="aspace_781b4eb4ebae9bf9a870d099bf6b795d" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_b161fbf9083134d69d4332112f7db93a" parent="aspace_781b4eb4ebae9bf9a870d099bf6b795d" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_53">
+        <c02 id="aspace_5c455c5b62c2e155ef8b196e0a22fe99" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">20</container>
             <unittitle>SUNY Oneonta, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1989 ">1983-1989</unitdate>
+            <unitdate normal="1983/1989" type="inclusive">1983-1989</unitdate>
+            <container id="aspace_88417a2e01dff5e8cc16b88c86b05f98" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_07dbfb87a5a89a61d3a52b1bb090ecdd" parent="aspace_88417a2e01dff5e8cc16b88c86b05f98" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_54">
+        <c02 id="aspace_c50407c077afd1f3c48029b82b6ab4d3" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">21</container>
             <unittitle>SUNY Oswego, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978/1989">1978-1989</unitdate>
+            <unitdate normal="1978/1989" type="inclusive">1978-1989</unitdate>
+            <container id="aspace_7c1ec856ebca71f33cb853ec47fdf072" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_4ce1aecbdc02342c8614d53ac3e988e7" parent="aspace_7c1ec856ebca71f33cb853ec47fdf072" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_55">
+        <c02 id="aspace_f6e698d02a7e6ddd9b302fcef0fd1fbb" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">22</container>
             <unittitle>SUNY Stony Brook, Dube Controversy</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1987-10">1983-1987 October</unitdate>
+            <unitdate normal="1983/1987-10" type="inclusive">1983-1987 October</unitdate>
+            <container id="aspace_588583bac68dead520312c01c868bf69" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_32830a9c213bec86d541f9fa1de2d982" parent="aspace_588583bac68dead520312c01c868bf69" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_56">
+        <c02 id="aspace_6fb53052e721309661f9480d287ae2fd" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">23</container>
             <unittitle>SUNY Stony Brook, Dube Controversy</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987-11/1990">1987 November-1990</unitdate>
+            <unitdate normal="1987-11/1990" type="inclusive">1987 November-1990</unitdate>
+            <container id="aspace_a00a4fb729c4152b9c5b2092ba2ecc96" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_77976a3019d4246d76f3709470771d5a" parent="aspace_a00a4fb729c4152b9c5b2092ba2ecc96" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-1_57">
+        <c02 id="aspace_1919837725113da256d7e7c7c943bd88" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">24</container>
             <unittitle>SUNY Stony Brook, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1989">1987-1989</unitdate>
+            <unitdate normal="1987/1989" type="inclusive">1987-1989</unitdate>
+            <container id="aspace_5501ec0c379221fa755968676b57b3b1" label="Mixed Materials" type="Box">5 (1-SUNY Schools)</container>
+            <container id="aspace_1714f81f5c38661d1033a8ca5e284505" parent="aspace_5501ec0c379221fa755968676b57b3b1" type="Folder">24</container>
           </did>
         </c02>
       </c01>
-      <!--Series 2-->
-      <c01 level="series" id="nam_apap080-2">
+      <c01 id="aspace_cba576e6e797eb37aa2b9a4c1bed2c4b" level="series">
         <did>
+          <unittitle>Correspondence</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Correspondence</unittitle>
-          <unitdate type="inclusive" normal="1976/1990">1976-1990</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.66</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.66 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1976/1990" type="inclusive">1976-1990</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_66005b10eea8d41fa01435cc682e86c9">
+          <head>Arrangement</head>
           <p>Arranged by subject, then chronologically.</p>
         </arrangement>
-        <scopecontent>
-          <p>The bulk of this series is correspondence between Donald Blinken and the other members of 
-		  the SUNY Board of Trustees, Chancellor Clifton Wharton Jr., presidents of different SUNY 
-		  campuses, New York government officials, and parents of students. The main subjects of the 
-		  correspondence include responses to news articles, appointments or reappointments made to the 
-		  Board, or SUNY related institutions such as the creation of the Rockefeller Institute of Government, 
-		  the proposal to award a degree in Arts Management in 1982, and materials from symposiums and meetings 
-		  related to education and budget concerns. There are also news clippings and some information related to 
-		  state-wide school systems outside of New York. There are some biographical sketches and resumes of 
-		  Board members. Correspondence in 1979 includes debate about the site of the Utica/Rome campus. There are 
-		  memos and correspondence related to lawsuits, though there are no details or legal papers in the series 
-		  or collection.</p>
-          <p>Trustee-NY State Legislative correspondence is between Blinken or other members of the Board and 
-		  members of the New York State Assembly. The main topics of the correspondence are financial matters, 
-		  reappointments, and new appointments to the Board.</p>
-          <p>Correspondence with individuals including Senator Javits, Senator D'Amato, then Congressman Shumer, 
-		  Governor Carey, Governor Cuomo, and others is mainly related to SUNY budget and financial matters.</p>
+        <scopecontent id="aspace_65e884bc2473ab3a9630bfc36490d219">
+          <head>Scope and Contents</head>
+          <p>The bulk of this series is correspondence between Donald Blinken and the other members of the SUNY Board of Trustees, Chancellor Clifton Wharton Jr., presidents of different SUNY campuses, New York government officials, and parents of students. The main subjects of the correspondence include responses to news articles, appointments or reappointments made to the Board, or SUNY related institutions such as the creation of the Rockefeller Institute of Government, the proposal to award a degree in Arts Management in 1982, and materials from symposiums and meetings related to education and budget concerns. There are also news clippings and some information related to state-wide school systems outside of New York. There are some biographical sketches and resumes of Board members. Correspondence in 1979 includes debate about the site of the Utica/Rome campus. There are memos and correspondence related to lawsuits, though there are no details or legal papers in the series or collection.</p>
+          <p> Trustee-NY State Legislative correspondence is between Blinken or other members of the Board and members of the New York State Assembly. The main topics of the correspondence are financial matters, reappointments, and new appointments to the Board.</p>
+          <p> Correspondence with individuals including Senator Javits, Senator D'Amato, then Congressman Shumer, Governor Carey, Governor Cuomo, and others is mainly related to SUNY budget and financial matters.</p>
         </scopecontent>
-        <c02 id="nam_apap080-2_1">
+        <c02 id="aspace_24b6715b72c6ccd4ba6e0e12c80836df" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Trustee Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976">1976</unitdate>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_9f8f58474b104dec6dd3b0a75dba7faf" label="Mixed Materials" type="Box">1 (2-Correspondence)</container>
+            <container id="aspace_2d5b79f79aa428a71e93803216d56d60" parent="aspace_9f8f58474b104dec6dd3b0a75dba7faf" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-2_2">
+        <c02 id="aspace_7f302e8c5b7e21309bbe4d83ec579e51" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Trustee Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1978-07">1977-July 1978</unitdate>
+            <unitdate normal="1977/1978-07" type="inclusive">1977-July 1978</unitdate>
+            <container id="aspace_70b3810eee460d180ae8f1fde6fe9867" label="Mixed Materials" type="Box">1 (2-Correspondence)</container>
+            <container id="aspace_29bd788a962f54667d5bebf2d83b9d75" parent="aspace_70b3810eee460d180ae8f1fde6fe9867" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-2_3">
+        <c02 id="aspace_a24ad24bdf7f4051a51a617a6af27ad1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Trustee Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978-08/1979">1978 August-1979</unitdate>
+            <unitdate normal="1978-08/1979" type="inclusive">1978 August-1979</unitdate>
+            <container id="aspace_d8cf3afa0bf57a129375d987274185e5" label="Mixed Materials" type="Box">1 (2-Correspondence)</container>
+            <container id="aspace_0e3e8965b5f09267f52346a09a1a73fb" parent="aspace_d8cf3afa0bf57a129375d987274185e5" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-2_4">
+        <c02 id="aspace_34127ffdb0b6e2b23ff7bec65c77ff30" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Trustee Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1981 ">1980-1981</unitdate>
+            <unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate>
+            <container id="aspace_2178ad9beab2a7e38a2af0e023801023" label="Mixed Materials" type="Box">1 (2-Correspondence)</container>
+            <container id="aspace_a4ef0d20bc62e8e1fde650388bf741c4" parent="aspace_2178ad9beab2a7e38a2af0e023801023" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-2_5">
+        <c02 id="aspace_889b6dcdb24615ddc7b123cbc8adade4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Trustee Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_ee2615fe00c5edd3884e291ab8ba9ff4" label="Mixed Materials" type="Box">1 (2-Correspondence)</container>
+            <container id="aspace_94995996a742b3f9b31473993ecba977" parent="aspace_ee2615fe00c5edd3884e291ab8ba9ff4" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-2_6">
+        <c02 id="aspace_936389c351a16b3b16cf57de2c1db693" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Trustee Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_a638eadc704c7e44db37ba1e64e3dbcc" label="Mixed Materials" type="Box">1 (2-Correspondence)</container>
+            <container id="aspace_9430a451064dec0e71ed45d6d9472f73" parent="aspace_a638eadc704c7e44db37ba1e64e3dbcc" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-2_7">
+        <c02 id="aspace_455e78744daf434616e10333cae4fd5c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Trustee Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_0f6d6527522a7e914e37cd3c061767bf" label="Mixed Materials" type="Box">1 (2-Correspondence)</container>
+            <container id="aspace_a6b4afc410ef98d406032bf073c9d36c" parent="aspace_0f6d6527522a7e914e37cd3c061767bf" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-2_8">
+        <c02 id="aspace_199425a9e7da182c8974227b92476eae" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Trustee Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_fc85e4a2f2b50a592a7197f2e5262dc6" label="Mixed Materials" type="Box">1 (2-Correspondence)</container>
+            <container id="aspace_05a6cdf5c4bb57487a4d73bb08b0d636" parent="aspace_fc85e4a2f2b50a592a7197f2e5262dc6" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-2_9">
+        <c02 id="aspace_54eef931e82c6f4b80407469b47d3a87" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Trustee Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_6934aef0976a600356708c7accff4637" label="Mixed Materials" type="Box">1 (2-Correspondence)</container>
+            <container id="aspace_a7407ca66e69751c89df944c1b10ccdf" parent="aspace_6934aef0976a600356708c7accff4637" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-2_10">
+        <c02 id="aspace_76f5d946f3de535286973de3022de3cc" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Trustee Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1990">1987-1990</unitdate>
+            <unitdate normal="1987/1990" type="inclusive">1987-1990</unitdate>
+            <container id="aspace_1dd53dd2a821f65b83ab29863040b270" label="Mixed Materials" type="Box">2 (2-Correspondence)</container>
+            <container id="aspace_4bafcff96c1df39cacbccc7b2edf122c" parent="aspace_1dd53dd2a821f65b83ab29863040b270" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-2_11">
+        <c02 id="aspace_7278188cbf351aee511223b42a1f8cbb" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>Trustee and New York State Legislative Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_85f68563b1afd07479fe153ca6efde51" label="Mixed Materials" type="Box">2 (2-Correspondence)</container>
+            <container id="aspace_d33f835b97ac39c7799f0317f5c9a777" parent="aspace_85f68563b1afd07479fe153ca6efde51" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-2_12">
+        <c02 id="aspace_1f9e9854884e896c2afc74d7c7847cee" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Trustee and New York State Legislative Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1981">1980-1981</unitdate>
+            <unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate>
+            <container id="aspace_eaf43f49b4cc9c2c08e3c0424686157a" label="Mixed Materials" type="Box">2 (2-Correspondence)</container>
+            <container id="aspace_9c726d11d9607e8d6e6838f53766eabf" parent="aspace_eaf43f49b4cc9c2c08e3c0424686157a" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-2_13">
+        <c02 id="aspace_183287801f9239a061dc0f33db885b96" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Trustee and New York State Legislative Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_bd29dfb21b9e242594b1a8e9f3ab3855" label="Mixed Materials" type="Box">2 (2-Correspondence)</container>
+            <container id="aspace_2bbc92914b4af5580e411e16849dd9b4" parent="aspace_bd29dfb21b9e242594b1a8e9f3ab3855" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-2_14">
+        <c02 id="aspace_eba9e4189751296cd9b2e8f2d853cc50" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>Trustee and New York State Legislative Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1985">1983-1985</unitdate>
+            <unitdate normal="1983/1985" type="inclusive">1983-1985</unitdate>
+            <container id="aspace_a463a4578b50031a1342b5933f047f75" label="Mixed Materials" type="Box">2 (2-Correspondence)</container>
+            <container id="aspace_df36d88a27206d0845d4cd52a94c0c08" parent="aspace_a463a4578b50031a1342b5933f047f75" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-2_15">
+        <c02 id="aspace_d924a9a0b9117110d232c62d038575f3" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>Trustee and New York State Legislative Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986/1989">1986-1989</unitdate>
+            <unitdate normal="1986/1989" type="inclusive">1986-1989</unitdate>
+            <container id="aspace_dec6c03bca7a0f2a47af423c5921c465" label="Mixed Materials" type="Box">2 (2-Correspondence)</container>
+            <container id="aspace_4903566b932c1a5ccdfa68fc4d391b34" parent="aspace_dec6c03bca7a0f2a47af423c5921c465" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-2_16">
+        <c02 id="aspace_5f74143d0fd20aca9dc5f1c25c44da4f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
             <unittitle>Carey, Governor Hugh Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_f1c00d71b6e0ac51616d46955e08d3b9" label="Mixed Materials" type="Box">2 (2-Correspondence)</container>
+            <container id="aspace_16f51086616aa1e5687c6a53d5941d83" parent="aspace_f1c00d71b6e0ac51616d46955e08d3b9" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-2_17">
+        <c02 id="aspace_4faf0c6a02db5d2483db00bb42641068" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
             <unittitle>Cuomo, Governor Mario M. Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980">1980</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1986">1983-1986</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1989">1988-1989</unitdate>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <unitdate normal="1983/1986" type="inclusive">1983-1986</unitdate>
+            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container id="aspace_2e0aea72ff3e0a11085d36d685fa1db5" label="Mixed Materials" type="Box">2 (2-Correspondence)</container>
+            <container id="aspace_7fbdca42032ae2440de37d2be09b66e9" parent="aspace_2e0aea72ff3e0a11085d36d685fa1db5" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-2_18">
+        <c02 id="aspace_9d61ca73195cb9d25b7b281fa3912a00" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
-            <unittitle>Correspondence: Senator Moynihan, Senator D'Amato, Senator Javits
-						Sheldon S. Goldstein, Congressman Shumer, John J. Mather</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982/1987">1982-1987</unitdate>
+            <unittitle>Correspondence: Senator Moynihan, Senator D'Amato, Senator Javits Sheldon S. Goldstein, Congressman Shumer, John J. Mather</unittitle>
+            <unitdate normal="1982/1987" type="inclusive">1982-1987</unitdate>
+            <container id="aspace_57e08c67bf1589ffd6c47443e75d7a66" label="Mixed Materials" type="Box">2 (2-Correspondence)</container>
+            <container id="aspace_906d25e4ceb0606741bde138a6b884d9" parent="aspace_57e08c67bf1589ffd6c47443e75d7a66" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-2_19">
+        <c02 id="aspace_9c740e637c07a6fe4cb860295aa86219" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10</container>
             <unittitle>Department of Education Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980">1980</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_fdf578aa998ef8fc74244657b082f89a" label="Mixed Materials" type="Box">2 (2-Correspondence)</container>
+            <container id="aspace_474a330f36a3e75147215852618381fc" parent="aspace_fdf578aa998ef8fc74244657b082f89a" type="Folder">10</container>
           </did>
         </c02>
       </c01>
-      <!--Series 3-->
-      <c01 level="series" id="nam_apap080-3">
+      <c01 id="aspace_4189410056304961abf1452efbd11737" level="series">
         <did>
+          <unittitle>Subject Files</unittitle>
           <unitid>3</unitid>
-          <unittitle label="Series">Subject Files</unittitle>
-          <unitdate type="inclusive" normal="1911/2009">1969-2003</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">2.64</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2.64 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1911/2009" type="inclusive">1969-2003</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_356b11866b03c69a3228359a5f9907f3">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
-          <p>The Subject Files contain material related to SUNY organizations, institutions, 
-		  personnel, and activities, as well as Board activities and responsibilities. The 
-		  earliest item in the series is from 1969. There is some material regarding a proposed 
-		  1976 SUNY/CUNY merger. Files contain reports and correspondence related to this issue 
-		  and financial concerns for both SUNY and CUNY. However the bulk of materials begin in 
-		  1977. The files include correspondence, reports, memorandum, and news clippings. There 
-		  are a number of files on Chancellor Clifton Wharton Jr., the Commission on Independent 
-		  Colleges and Universities (CICU), the Independent Commission on the Future of SUNY, and 
-		  SUNY/CUNY relations. </p>
-          <p>Clifton Wharton Jr., former president of Michigan State University, became SUNY Chancellor 
-		  in 1977. Early files include evaluations by Board members, biographical information about Mr. 
-		  and Mrs. Wharton, and information about Wharton's accomplishments as an educator and administrator. 
-		  After Wharton became Chancellor the files include correspondence between him and Blinken as well 
-		  as other members of the Board, reports related to the SUNY system and individual campuses, memorandum, 
-		  and news clippings related to higher education. Chancellor Wharton resigned in 1987 to become Chair 
-		  and CEO of TIAA-CREF.</p>
-          <p>The Commission on Independent Colleges and Universities (CICU) files include correspondence between 
-		  Blinken and the commission and reports regarding SUNY financial matters.</p>
-          <p>The Donald M. Blinken Academic Administration Fellowship was established in 1981. It was first called 
-		  the Administrative Internship. According to Articulation Among Some Science Based Programs in SUNY Units In Western 
-		  New York, (Blinken Papers, Series 3, Box 3, Folder 3), the objective of the program was to allow a senior SUNY faculty member to 
-		  gain experience in administrative matters within the University, to look at some of the problems facing 
-		  SUNY as a whole rather than only from the perspective of a particular campus, and to gain insight into the 
-		  operations of SUNY central.[1] Reports were issued annually in the spring. The report's title and author 
-		  appear in the finding aid.</p>
-          <p>The Independent Commission on the Future of SUNY was established in 1983. According to the Proposal for an Independent 
-		  Commission on the Future of the State University of New York (Blinken Papers, Series 3, Box 4, Folder 6) its purpose 
-		  was to go beyond faculty, staff, and SUNY officials to evaluate SUNY's role and investigate "how its mandate may be discharged 
-		  more effectively, efficiently, and with greater benefit to citizens and institutions of the state and nation." 
-		  Their report issued in January of 1985 recommended that SUNY be established as a "public benefits corporation" 
-		  in order to be extricated from what the commission found to be overregulation from the state government. The 
-		  recommendation was denied.</p>
-          <p>In 1976 there was discussion about SUNY merging with the City University of New York (CUNY) system. Files 
-		  contain reports and correspondence related to this issue and financial concerns for both SUNY and CUNY.</p>
+        <scopecontent id="aspace_a991d1e129929ce0ce084408302d4990">
+          <head>Scope and Contents</head>
+          <p>The Subject Files contain material related to SUNY organizations, institutions, personnel, and activities, as well as Board activities and responsibilities. The earliest item in the series is from 1969. There is some material regarding a proposed 1976 SUNY/CUNY merger. Files contain reports and correspondence related to this issue and financial concerns for both SUNY and CUNY. However the bulk of materials begin in 1977. The files include correspondence, reports, memorandum, and news clippings. There are a number of files on Chancellor Clifton Wharton Jr., the Commission on Independent Colleges and Universities (CICU), the Independent Commission on the Future of SUNY, and SUNY/CUNY relations. </p>
+          <p> Clifton Wharton Jr., former president of Michigan State University, became SUNY Chancellor in 1977. Early files include evaluations by Board members, biographical information about Mr. and Mrs. Wharton, and information about Wharton's accomplishments as an educator and administrator. After Wharton became Chancellor the files include correspondence between him and Blinken as well as other members of the Board, reports related to the SUNY system and individual campuses, memorandum, and news clippings related to higher education. Chancellor Wharton resigned in 1987 to become Chair and CEO of TIAA-CREF.</p>
+          <p> The Commission on Independent Colleges and Universities (CICU) files include correspondence between Blinken and the commission and reports regarding SUNY financial matters.</p>
+          <p> The Donald M. Blinken Academic Administration Fellowship was established in 1981. It was first called the Administrative Internship. According to Articulation Among Some Science Based Programs in SUNY Units In Western New York, (Blinken Papers, Series 3, Box 3, Folder 3), the objective of the program was to allow a senior SUNY faculty member to gain experience in administrative matters within the University, to look at some of the problems facing SUNY as a whole rather than only from the perspective of a particular campus, and to gain insight into the operations of SUNY central.[1] Reports were issued annually in the spring. The report's title and author appear in the finding aid.</p>
+          <p> The Independent Commission on the Future of SUNY was established in 1983. According to the Proposal for an Independent Commission on the Future of the State University of New York (Blinken Papers, Series 3, Box 4, Folder 6) its purpose was to go beyond faculty, staff, and SUNY officials to evaluate SUNY's role and investigate "how its mandate may be discharged more effectively, efficiently, and with greater benefit to citizens and institutions of the state and nation." Their report issued in January of 1985 recommended that SUNY be established as a "public benefits corporation" in order to be extricated from what the commission found to be overregulation from the state government. The recommendation was denied.</p>
+          <p> In 1976 there was discussion about SUNY merging with the City University of New York (CUNY) system. Files contain reports and correspondence related to this issue and financial concerns for both SUNY and CUNY.</p>
         </scopecontent>
-        <c02 id="nam_apap080-3_1">
+        <c02 id="aspace_6df6e27f89c80359ceafc276471a8d98" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Blinken, Donald M.</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2003">2003</unitdate>
+            <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
+            <container id="aspace_e049d9885a165ea02ff8de68d7077901" label="Mixed Materials" type="Box">1 (3-Subject Files)</container>
+            <container id="aspace_43ff0a68383f3075bae6d5a12f78473a" parent="aspace_e049d9885a165ea02ff8de68d7077901" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_2">
+        <c02 id="aspace_d0fd7baa6e20e7a895d65e1661b77ec0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Boyer, Ernest L.</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978/1987">1978-1987</unitdate>
+            <unitdate normal="1978/1987" type="inclusive">1978-1987</unitdate>
+            <container id="aspace_20210cef5c8de4fcd0cc826006d4aeca" label="Mixed Materials" type="Box">1 (3-Subject Files)</container>
+            <container id="aspace_2f9aac14b5cbace44499552a26540e95" parent="aspace_20210cef5c8de4fcd0cc826006d4aeca" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_3">
+        <c02 id="aspace_451ce5f6d72536bb44787e0f9ea2975c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Budget</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1989">1988-1989</unitdate>
+            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container id="aspace_89d1d83f6e703ef788541013b6d66dff" label="Mixed Materials" type="Box">1 (3-Subject Files)</container>
+            <container id="aspace_963c8807b9605d31d7f12945aee9e48c" parent="aspace_89d1d83f6e703ef788541013b6d66dff" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_4">
+        <c02 id="aspace_222c39528b5c9de8f3d3dd1b3cba6b93" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Campus Related Foundations</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_54518eb4a87d93d05be1e0b5b769f3a9" label="Mixed Materials" type="Box">1 (3-Subject Files)</container>
+            <container id="aspace_ba010a1e017521441b439999b4045a67" parent="aspace_54518eb4a87d93d05be1e0b5b769f3a9" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_5">
+        <c02 id="aspace_05963e27fa31cffd7ed0469d8ade75bb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Chancellor Clifton Wharton Jr.</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977-07/1977-10">1977 July-1977 October</unitdate>
+            <unitdate normal="1977-07/1977-10" type="inclusive">1977 July-1977 October</unitdate>
+            <container id="aspace_8313ada1443c7bab37ac0601baf36b4e" label="Mixed Materials" type="Box">1 (3-Subject Files)</container>
+            <container id="aspace_fe34e67030ace9cd32ca2fe9b53b9a0b" parent="aspace_8313ada1443c7bab37ac0601baf36b4e" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_6">
+        <c02 id="aspace_71a26e50d02aa2be15ccf517a5d7b691" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Chancellor Clifton Wharton Jr.</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977-11/1977-12">1977 November-1977 December</unitdate>
+            <unitdate normal="1977-11/1977-12" type="inclusive">1977 November-1977 December</unitdate>
+            <container id="aspace_17d87c831c3cb34f68ad54f4a8e99f02" label="Mixed Materials" type="Box">1 (3-Subject Files)</container>
+            <container id="aspace_34df88689ff54913cad61ef1c256fa44" parent="aspace_17d87c831c3cb34f68ad54f4a8e99f02" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_7">
+        <c02 id="aspace_d3ca8169eddbf67280de33ce6b2d4cb5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Chancellor Clifton Wharton Jr.</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_d569b9fdf1df2e5817f6dfa77cf156c7" label="Mixed Materials" type="Box">1 (3-Subject Files)</container>
+            <container id="aspace_38255a81d7971d63cf0feacbe70081af" parent="aspace_d569b9fdf1df2e5817f6dfa77cf156c7" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_8">
+        <c02 id="aspace_b51755eb5239e6567e8218e1c199b918" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Chancellor Clifton Wharton Jr.</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1982">1979-1982</unitdate>
+            <unitdate normal="1979/1982" type="inclusive">1979-1982</unitdate>
+            <container id="aspace_a4dc5c759d566f6c7248c825307b1237" label="Mixed Materials" type="Box">1 (3-Subject Files)</container>
+            <container id="aspace_15a505e4bd396b9bc3f0c88dd981d810" parent="aspace_a4dc5c759d566f6c7248c825307b1237" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_9">
+        <c02 id="aspace_00e62ceaaa6a6e3c8cc605b307a2f31e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Chancellor Clifton Wharton Jr.</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1986">1983-1986</unitdate>
+            <unitdate normal="1983/1986" type="inclusive">1983-1986</unitdate>
+            <container id="aspace_0e1eec5861fd4340097c9382509daccd" label="Mixed Materials" type="Box">1 (3-Subject Files)</container>
+            <container id="aspace_26a9b1fc021d2cc2b35a47e2924be815" parent="aspace_0e1eec5861fd4340097c9382509daccd" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_10">
+        <c02 id="aspace_12916b6e15f6847d719bb6525d8328e5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Chancellor Clifton Wharton Jr.</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1992">1987-1992</unitdate>
+            <unitdate normal="1987/1992" type="inclusive">1987-1992</unitdate>
+            <container id="aspace_86674c2c22466e3e07a7839b8fde7815" label="Mixed Materials" type="Box">1 (3-Subject Files)</container>
+            <container id="aspace_4cbb7fd53dd9af1e47208dadf7896864" parent="aspace_86674c2c22466e3e07a7839b8fde7815" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_11">
+        <c02 id="aspace_e0816316db78d5561230a4bcc4b5620f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Chancellor Clifton Wharton Jr., Speeches and Writings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971/1978-06">1971-June 1978</unitdate>
+            <unitdate normal="1971/1978-06" type="inclusive">1971-June 1978</unitdate>
+            <container id="aspace_a01b2a26d2fffd03455ab7f88547f1e8" label="Mixed Materials" type="Box">1 (3-Subject Files)</container>
+            <container id="aspace_96b68452a37701865180720d7d61f738" parent="aspace_a01b2a26d2fffd03455ab7f88547f1e8" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_12">
+        <c02 id="aspace_17c9ac2a7b615aec14cf74b16eee1f35" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Chancellor Clifton Wharton Jr., Speeches and Writings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978-09/1979">1978 September-1979</unitdate>
+            <unitdate normal="1978-09/1979" type="inclusive">1978 September-1979</unitdate>
+            <container id="aspace_2d925bcd53e9ba40dbf68a564b354615" label="Mixed Materials" type="Box">1 (3-Subject Files)</container>
+            <container id="aspace_789127bc0f24ea7b33f61e6973c8d829" parent="aspace_2d925bcd53e9ba40dbf68a564b354615" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_13">
+        <c02 id="aspace_5199c8bcc125901324a5fce96f3222ab" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Chancellor Clifton Wharton Jr., Speeches and Writings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1986">1980-1986</unitdate>
+            <unitdate normal="1980/1986" type="inclusive">1980-1986</unitdate>
+            <container id="aspace_9df59e2806911b227f8092ba7ac97f76" label="Mixed Materials" type="Box">2 (3-Subject Files)</container>
+            <container id="aspace_0f96685ab2d7ae25f3aae19a232690e2" parent="aspace_9df59e2806911b227f8092ba7ac97f76" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_14">
+        <c02 id="aspace_711439be36f0c5530892f152ffbdb324" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>Chancellor's Public Higher Education Fund, Inc.</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_e86b67ecf79735756a1a44db53d19a13" label="Mixed Materials" type="Box">2 (3-Subject Files)</container>
+            <container id="aspace_dfa1ce954d4d7c0abe308338fadf3a1e" parent="aspace_e86b67ecf79735756a1a44db53d19a13" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_15">
+        <c02 id="aspace_aff1c4bcce43b03dae2a174a5f81ccaa" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Chancellor's Public Higher Education Fund, Inc.</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1990 ">1987-1990</unitdate>
+            <unitdate normal="1987/1990" type="inclusive">1987-1990</unitdate>
+            <container id="aspace_5724f0ccdc4df6ab6a74714702a7ddc3" label="Mixed Materials" type="Box">2 (3-Subject Files)</container>
+            <container id="aspace_aa4d7e515b7797874b95376efea72ff6" parent="aspace_5724f0ccdc4df6ab6a74714702a7ddc3" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_16">
+        <c02 id="aspace_44addef3cf57e90588bf83dce5e682bf" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Chancellor Search</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977-02/1977-04">1977 February-1977 April</unitdate>
+            <unitdate normal="1977-02/1977-04" type="inclusive">1977 February-1977 April</unitdate>
+            <container id="aspace_985dfeb2acee16bdcc39ef5e3334ffc6" label="Mixed Materials" type="Box">2 (3-Subject Files)</container>
+            <container id="aspace_6b4422abe6bb0bded0a52247dfffd4cb" parent="aspace_985dfeb2acee16bdcc39ef5e3334ffc6" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_17">
+        <c02 id="aspace_2d7abf53600590c3028ca85ce29fb667" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>Chancellor Search</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977-04/1977-05">1977 April-1977 May</unitdate>
+            <unitdate normal="1977-04/1977-05" type="inclusive">1977 April-1977 May</unitdate>
+            <container id="aspace_eaa9c7278d11fa4cbe04a5412df306bf" label="Mixed Materials" type="Box">2 (3-Subject Files)</container>
+            <container id="aspace_5829a976c17039181e02fcbb5f6f5cca" parent="aspace_eaa9c7278d11fa4cbe04a5412df306bf" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_18">
+        <c02 id="aspace_5c754ad1b7b57abeafe49517f6238ecf" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>Chancellor Search</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977-06">1977 June</unitdate>
+            <unitdate normal="1977-06/1977-06" type="inclusive">1977 June</unitdate>
+            <container id="aspace_e0dafbb53d0f9f9a6e1600898b3d8c14" label="Mixed Materials" type="Box">2 (3-Subject Files)</container>
+            <container id="aspace_7c20a6baf71a242379628c59bfb70936" parent="aspace_e0dafbb53d0f9f9a6e1600898b3d8c14" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_19">
+        <c02 id="aspace_eab73e5332f35ade4352ecacec9c8243" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
             <unittitle>Chancellor Search</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977-07/1977-11">1977 July-1977 November</unitdate>
+            <unitdate normal="1977-07/1977-11" type="inclusive">1977 July-1977 November</unitdate>
+            <container id="aspace_1f307dbe5fe33eba557a9b40953af183" label="Mixed Materials" type="Box">2 (3-Subject Files)</container>
+            <container id="aspace_17e2733ce077f0eba8e827ddf3c88950" parent="aspace_1f307dbe5fe33eba557a9b40953af183" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_20">
+        <c02 id="aspace_cf46ff67394833813e10490d34a9bbca" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
             <unittitle>College Teaching</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_3aba52c2c6794efb69a96aa653088989" label="Mixed Materials" type="Box">2 (3-Subject Files)</container>
+            <container id="aspace_ba3b360a9abbc75b1ebe78b2e9eaf7b0" parent="aspace_3aba52c2c6794efb69a96aa653088989" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_21">
+        <c02 id="aspace_8dbec47d615bb31a6dabe40978c9f2cc" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
             <unittitle>Commission on Independent Colleges and Universities</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_0b52aaf134d9437d2cf4092f00f7a958" label="Mixed Materials" type="Box">2 (3-Subject Files)</container>
+            <container id="aspace_076a983730c86c1d678d6dcba5ddeba3" parent="aspace_0b52aaf134d9437d2cf4092f00f7a958" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_22">
+        <c02 id="aspace_2681b834c9b34cf3aa17d90e2e213093" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10</container>
             <unittitle>Commission on Independent Colleges and Universities</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_8c526e12cea4f130c4bc5821c6e504fd" label="Mixed Materials" type="Box">2 (3-Subject Files)</container>
+            <container id="aspace_ca6851e3d2498ed2f02463a02f870c61" parent="aspace_8c526e12cea4f130c4bc5821c6e504fd" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_23">
+        <c02 id="aspace_491f8fb482fe02a86d5f6bd1e160c6b5" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>Commission on Independent Colleges and Universities</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983-01">1983 January</unitdate>
+            <unitdate normal="1983-01/1983-01" type="inclusive">1983 January</unitdate>
+            <container id="aspace_e308aa25c9febaeb5395031a30b16373" label="Mixed Materials" type="Box">3 (3-Subject Files)</container>
+            <container id="aspace_10edaf7702873d6becd2a921c54186ff" parent="aspace_e308aa25c9febaeb5395031a30b16373" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_24">
+        <c02 id="aspace_ec69f047a87d810f12b18ffd37d70f0b" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>Commission on Independent Colleges and Universities</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983-03/1984">1983 March-1984</unitdate>
+            <unitdate normal="1983-03/1984" type="inclusive">1983 March-1984</unitdate>
+            <container id="aspace_5750301baef94e7e20cd8db38a7f7b1d" label="Mixed Materials" type="Box">3 (3-Subject Files)</container>
+            <container id="aspace_8f74b22203b4eb5740840bf73ae17ea6" parent="aspace_5750301baef94e7e20cd8db38a7f7b1d" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_25">
+        <c02 id="aspace_86d37f618193acae20d6a00a5d1e2f29" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">3</container>
-            <unittitle>Donald M. Blinken Academic Administrative Fellowship<emph render="italic">Articulation Among Some Science Based Programs in SUNY Units in Western New York, </emph>Robert Stein, </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+            <unittitle>Donald M. Blinken Academic Administrative Fellowship<emph render="italic">Articulation Among Some Science Based Programs in SUNY Units in Western New York, </emph>Robert Stein,</unittitle>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_9ba38e1701e3a7faed37c8b9b419fe51" label="Mixed Materials" type="Box">3 (3-Subject Files)</container>
+            <container id="aspace_74ee1646f011ef0b3ac0ac0ca8710acc" parent="aspace_9ba38e1701e3a7faed37c8b9b419fe51" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_26">
+        <c02 id="aspace_70359f5339ff65e2f07dc0262cd6980a" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4</container>
-            <unittitle>Donald M. Blinken Academic Administrative Fellowship<emph render="italic">A Study of Academic Placement Processes for High-Risk Students Among Selected Colleges of the
-						State University of New York: With a Review of Related Literature, </emph>Dennis Callas, </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unittitle>Donald M. Blinken Academic Administrative Fellowship<emph render="italic">A Study of Academic Placement Processes for High-Risk Students Among Selected Colleges of the State University of New York: With a Review of Related Literature, </emph>Dennis Callas,</unittitle>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_6e6b0b86913bcfcbe3886db91edaffbe" label="Mixed Materials" type="Box">3 (3-Subject Files)</container>
+            <container id="aspace_d2e1880ee7b9a6cc2d8336039de71428" parent="aspace_6e6b0b86913bcfcbe3886db91edaffbe" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_27">
+        <c02 id="aspace_1e2d684d916bfb8e2130346ec955fb73" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">5</container>
-            <unittitle>Donald M. Blinken Academic Administrative Fellowship<emph render="italic">Paths For Excellence: A Study of Honors Programs, Honor Societies, and Academic Distinctions in the
-						State University of New York, </emph>Mark A. Anderson, </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+            <unittitle>Donald M. Blinken Academic Administrative Fellowship<emph render="italic">Paths For Excellence: A Study of Honors Programs, Honor Societies, and Academic Distinctions in the State University of New York, </emph>Mark A. Anderson,</unittitle>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_d6def39e18d95435e90785d7b8cddd1b" label="Mixed Materials" type="Box">3 (3-Subject Files)</container>
+            <container id="aspace_528d1a05f86cf70918ca185a84a38347" parent="aspace_d6def39e18d95435e90785d7b8cddd1b" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_28">
+        <c02 id="aspace_423a6a5b4966403b46185dc11402ebb0" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">6-7</container>
-            <unittitle>Donald M. Blinken Academic Administrative Fellowship<emph render="italic">Measuring the Use of Library Materials and Services In the Libraries of the State University of New York, </emph>Robert E. Burton, </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+            <unittitle>Donald M. Blinken Academic Administrative Fellowship<emph render="italic">Measuring the Use of Library Materials and Services In the Libraries of the State University of New York, </emph>Robert E. Burton,</unittitle>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_95979ca1ff76e252d70d39c9b72c0d50" label="Mixed Materials" type="Box">3 (3-Subject Files)</container>
+            <container id="aspace_a02a6cda45b0747dceefa910e5b04dcc" parent="aspace_95979ca1ff76e252d70d39c9b72c0d50" type="Folder">6-7</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_29">
+        <c02 id="aspace_c69a7f3dc7007189d78beb1b4cbf2a36" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">8</container>
             <unittitle>Donald M. Blinken Academic Administrative Fellowship</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_310b96d5b164389dae293c203be01e5c" label="Mixed Materials" type="Box">3 (3-Subject Files)</container>
+            <container id="aspace_52d174074c9df04922a5daa1f335fa5d" parent="aspace_310b96d5b164389dae293c203be01e5c" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_30">
+        <c02 id="aspace_c86a152b070a2f0ed2f2a7c8f4bf2437" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">9-10</container>
-            <unittitle>Donald M. Blinken Academic Administrative Fellowship<emph render="italic">Current Issues in Transfer and Articulation: Impact of General Education Requirements,
-						Joint Admissions And Services for Transfer Students, </emph>Marjorie W. Lavin, </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+            <unittitle>Donald M. Blinken Academic Administrative Fellowship<emph render="italic">Current Issues in Transfer and Articulation: Impact of General Education Requirements, Joint Admissions And Services for Transfer Students, </emph>Marjorie W. Lavin,</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_3f50206bff42c4b4d84dba3cfb559355" label="Mixed Materials" type="Box">3 (3-Subject Files)</container>
+            <container id="aspace_0f0073bfee093ba76bf5cadbfa3a6a8c" parent="aspace_3f50206bff42c4b4d84dba3cfb559355" type="Folder">9-10</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_31">
+        <c02 id="aspace_aff90c66a1dcb0e0d3a263e7d5ce99fc" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">11-12</container>
-            <unittitle>Donald M. Blinken Academic Administrative Fellowship<emph render="italic">The Invisible Minority: American Indian Students in the State University of New York,
-							</emph>William A. Starna, </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+            <unittitle>Donald M. Blinken Academic Administrative Fellowship<emph render="italic">The Invisible Minority: American Indian Students in the State University of New York, </emph>William A. Starna,</unittitle>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_f7914292ca37194023734994e411263e" label="Mixed Materials" type="Box">3 (3-Subject Files)</container>
+            <container id="aspace_76718708e8ff434c630ffda4840b91d4" parent="aspace_f7914292ca37194023734994e411263e" type="Folder">11-12</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_32">
+        <c02 id="aspace_b25946dc0fbf9f2c50df322f771399b7" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">13</container>
-            <unittitle>Donald M. Blinken Academic Administrative Fellowship<emph render="italic">SUNY's Opportunity Programs: A Research Agenda for the 1990's, </emph>Peter R. Barcher, </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+            <unittitle>Donald M. Blinken Academic Administrative Fellowship<emph render="italic">SUNY's Opportunity Programs: A Research Agenda for the 1990's, </emph>Peter R. Barcher,</unittitle>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_7ab812c86c7bc8514b92b499e56dbdcc" label="Mixed Materials" type="Box">3 (3-Subject Files)</container>
+            <container id="aspace_da3ebf5939af1f488a84a32f2fe15137" parent="aspace_7ab812c86c7bc8514b92b499e56dbdcc" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_33">
+        <c02 id="aspace_334663d24bcffa3ee8a51740fc8661b2" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">1</container>
             <unittitle>Energy Conservation Symposium</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980">1980</unitdate>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_c269329610a750e5cc783beabdcaae81" label="Mixed Materials" type="Box">4 (3-Subject Files)</container>
+            <container id="aspace_900f975770feec8cf56c95a005bc9040" parent="aspace_c269329610a750e5cc783beabdcaae81" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_34">
+        <c02 id="aspace_43b7c5433615aa1d9a3f924c0e91af38" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">2</container>
             <unittitle>Engineering and Technology Proposals</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_2e09c4f6b0531faa13aa348e3842b656" label="Mixed Materials" type="Box">4 (3-Subject Files)</container>
+            <container id="aspace_27cb7a829c3d3abfda0d1f72412f75b3" parent="aspace_2e09c4f6b0531faa13aa348e3842b656" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_35">
+        <c02 id="aspace_06f7b1e21d45031656dde3d38bb04287" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">3</container>
             <unittitle><emph render="italic">Exchange</emph>Association of Council Members and College Trustees of SUNY,</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1979">1977-1979</unitdate>
+            <unitdate normal="1977/1979" type="inclusive">1977-1979</unitdate>
+            <container id="aspace_a27ea9517a1d2e15a318d1b59e948e8d" label="Mixed Materials" type="Box">4 (3-Subject Files)</container>
+            <container id="aspace_743a85891a415bd159efa851f21406fe" parent="aspace_a27ea9517a1d2e15a318d1b59e948e8d" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_36">
+        <c02 id="aspace_1d4da82fc40de8dbde57ee99487d13de" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">4</container>
             <unittitle>Governor's Symposium on International Trade and Finance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_954edf0008cc72b358873926bd306756" label="Mixed Materials" type="Box">4 (3-Subject Files)</container>
+            <container id="aspace_9178bea0aded809ca4e07f4d93c52b5a" parent="aspace_954edf0008cc72b358873926bd306756" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_37">
+        <c02 id="aspace_6845183a0c9dc9edbbc6fe7ed089ed73" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">5</container>
             <unittitle>Independent Commission on the Future of SUNY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_c6dfde079c1c7fe0cb101b975825904d" label="Mixed Materials" type="Box">4 (3-Subject Files)</container>
+            <container id="aspace_0d87d57e908111f4991caacf409bfea3" parent="aspace_c6dfde079c1c7fe0cb101b975825904d" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_38">
+        <c02 id="aspace_36ad02ba66c4779941e0819d8a4f4a83" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">6</container>
             <unittitle>Independent Commission on the Future of SUNY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1989">ca. 1984</unitdate>
+            <unitdate normal="1979/1989" type="inclusive">ca. 1984</unitdate>
+            <container id="aspace_e3a22580c58fec3819d2b53179b16c00" label="Mixed Materials" type="Box">4 (3-Subject Files)</container>
+            <container id="aspace_a64d5bdb409be21d12eb884ff9b10c83" parent="aspace_e3a22580c58fec3819d2b53179b16c00" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_39">
+        <c02 id="aspace_53a2dfe82ebad81cfc670e0c34b6ed9f" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">7</container>
             <unittitle>Independent Commission on the Future of SUNY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984-01/1984-02">1984 January-1984 February</unitdate>
+            <unitdate normal="1984-01/1984-02" type="inclusive">1984 January-1984 February</unitdate>
+            <container id="aspace_822abd43c5f4b1228c73aa43c977e48e" label="Mixed Materials" type="Box">4 (3-Subject Files)</container>
+            <container id="aspace_6447f9f90017c86ab5f208d4300dc2c8" parent="aspace_822abd43c5f4b1228c73aa43c977e48e" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_40">
+        <c02 id="aspace_49a1e29faaa789dcbe93c9cc0b2cf5da" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">8</container>
             <unittitle>Independent Commission on the Future of SUNY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984-02/1984-05">1984 February-1984 May</unitdate>
+            <unitdate normal="1984-02/1984-05" type="inclusive">1984 February-1984 May</unitdate>
+            <container id="aspace_2fe3335f8faa0bfcf9dd01b8e79baf34" label="Mixed Materials" type="Box">4 (3-Subject Files)</container>
+            <container id="aspace_ed2fd2ed69c0bbf5dcfb9d86229fc9f7" parent="aspace_2fe3335f8faa0bfcf9dd01b8e79baf34" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_41">
+        <c02 id="aspace_485bc3f85ca00d3ad81ad46348c669e7" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">9</container>
             <unittitle>Independent Commission on the Future of SUNY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984-06">1984 June</unitdate>
+            <unitdate normal="1984-06/1984-06" type="inclusive">1984 June</unitdate>
+            <container id="aspace_ecb15f5bb0eb1f7cff93824e9ad3a8f1" label="Mixed Materials" type="Box">4 (3-Subject Files)</container>
+            <container id="aspace_5f3ab02c99b8f28aa0f9b72584d4086c" parent="aspace_ecb15f5bb0eb1f7cff93824e9ad3a8f1" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_42">
+        <c02 id="aspace_9f3a829c7b79678a38179129fb7e1936" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">10</container>
             <unittitle>Independent Commission on the Future of SUNY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984-06">1984 June</unitdate>
+            <unitdate normal="1984-06/1984-06" type="inclusive">1984 June</unitdate>
+            <container id="aspace_55e702f18b74fb198c6d5f3641e7cbfb" label="Mixed Materials" type="Box">4 (3-Subject Files)</container>
+            <container id="aspace_494f6518b742b817ae34052f45b95312" parent="aspace_55e702f18b74fb198c6d5f3641e7cbfb" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_43">
+        <c02 id="aspace_73ede61c9dc05594929cec59edf5b917" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">11</container>
             <unittitle>Independent Commission on the Future of SUNY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984-06/1984-07">1984 June-1984 July</unitdate>
+            <unitdate normal="1984-06/1984-07" type="inclusive">1984 June-1984 July</unitdate>
+            <container id="aspace_4490b30e64e9b6d3c41e660ad8a7e52e" label="Mixed Materials" type="Box">4 (3-Subject Files)</container>
+            <container id="aspace_4646144d10a01180e04087f5850a6c06" parent="aspace_4490b30e64e9b6d3c41e660ad8a7e52e" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_44">
+        <c02 id="aspace_b01f095a844862476bc1cf1fb29a34b3" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">1</container>
             <unittitle>Independent Commission on the Future of SUNY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984-07">1984 July</unitdate>
+            <unitdate normal="1984-07/1984-07" type="inclusive">1984 July</unitdate>
+            <container id="aspace_f7bcc2fe30f9f0eabfb486c2ab543199" label="Mixed Materials" type="Box">5 (3-Subject Files)</container>
+            <container id="aspace_8d4f4044bdf7788d270d426c2c97bc56" parent="aspace_f7bcc2fe30f9f0eabfb486c2ab543199" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_45">
+        <c02 id="aspace_1e0e1960925862da367716ed97fa7a76" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">2</container>
             <unittitle>Independent Commission on the Future of SUNY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984-08/1984-10">1984 August-1984 October</unitdate>
+            <unitdate normal="1984-08/1984-10" type="inclusive">1984 August-1984 October</unitdate>
+            <container id="aspace_fa3ab0e2894159d7bf66204355168dbd" label="Mixed Materials" type="Box">5 (3-Subject Files)</container>
+            <container id="aspace_872f87453725da4866abede255e6d497" parent="aspace_fa3ab0e2894159d7bf66204355168dbd" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_46">
+        <c02 id="aspace_a246c5036509b91d28053c69479f9a84" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">3</container>
             <unittitle>Independent Commission on the Future of SUNY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984-10/1984-12">1984 October-1984 December</unitdate>
+            <unitdate normal="1984-10/1984-12" type="inclusive">1984 October-1984 December</unitdate>
+            <container id="aspace_e417042b1719e55a1e0421b5d8b149ad" label="Mixed Materials" type="Box">5 (3-Subject Files)</container>
+            <container id="aspace_4cb075508aaadeebaabffd26b36a643e" parent="aspace_e417042b1719e55a1e0421b5d8b149ad" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_47">
+        <c02 id="aspace_0c19db34efec27e29f6ea799f71c13f3" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">4</container>
             <unittitle>Independent Commission on the Future of SUNY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985-01">1985 January</unitdate>
+            <unitdate normal="1985-01/1985-01" type="inclusive">1985 January</unitdate>
+            <container id="aspace_24697ea2d51b304cc9c3af5130703409" label="Mixed Materials" type="Box">5 (3-Subject Files)</container>
+            <container id="aspace_81e809f7f48855c6c2859b0269d26793" parent="aspace_24697ea2d51b304cc9c3af5130703409" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_48">
+        <c02 id="aspace_bfa4a605ab0f38885ecaa39a5c0bb8fa" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">5</container>
             <unittitle>Independent Commission on the Future of SUNY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985-01/1985-02">1985 January-1985 February</unitdate>
+            <unitdate normal="1985-01/1985-02" type="inclusive">1985 January-1985 February</unitdate>
+            <container id="aspace_74f71eb31c7ec58a5c5cf1b214faa807" label="Mixed Materials" type="Box">5 (3-Subject Files)</container>
+            <container id="aspace_cd5dd4e9f4d98d9a179a2acb297945d5" parent="aspace_74f71eb31c7ec58a5c5cf1b214faa807" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_49">
+        <c02 id="aspace_4246f2ef6700d0d231864b341078e2f6" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">6</container>
             <unittitle>Independent Commission on the Future of SUNY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985-03">1985 March</unitdate>
+            <unitdate normal="1985-03/1985-03" type="inclusive">1985 March</unitdate>
+            <container id="aspace_149feda407d32f19a4c985ea0292d5f1" label="Mixed Materials" type="Box">5 (3-Subject Files)</container>
+            <container id="aspace_874060a9881f092c22652afe9d95187c" parent="aspace_149feda407d32f19a4c985ea0292d5f1" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_50">
+        <c02 id="aspace_358cb48f932ab691ae04e73fa4006d94" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">7</container>
             <unittitle>Independent Commission on the Future of SUNY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985-03/1985-04">1985 March-1985 April</unitdate>
+            <unitdate normal="1985-03/1985-04" type="inclusive">1985 March-1985 April</unitdate>
+            <container id="aspace_180b2016125aa67a9efb3b82b5133244" label="Mixed Materials" type="Box">5 (3-Subject Files)</container>
+            <container id="aspace_da27dac6c00c5f2517bc4c84eae3abb3" parent="aspace_180b2016125aa67a9efb3b82b5133244" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_51">
+        <c02 id="aspace_ab33305b722b7b15cd7d944b3404e88a" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">8</container>
             <unittitle>Independent Commission on the Future of SUNY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985-05/1985-07">1985 May-1985 July</unitdate>
+            <unitdate normal="1985-05/1985-07" type="inclusive">1985 May-1985 July</unitdate>
+            <container id="aspace_433fd9f852e42bc6532a0a4060061fd9" label="Mixed Materials" type="Box">5 (3-Subject Files)</container>
+            <container id="aspace_5dcea0eaa3a6ae0afc49f920ac725460" parent="aspace_433fd9f852e42bc6532a0a4060061fd9" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_52">
+        <c02 id="aspace_6534894edf83b817be9d7961653ee960" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">1</container>
-            <unittitle> International Programs, China</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1983">1980-1983</unitdate>
+            <unittitle>International Programs, China</unittitle>
+            <unitdate normal="1980/1983" type="inclusive">1980-1983</unitdate>
+            <container id="aspace_c69911aae259949c2069f926efa3a7cf" label="Mixed Materials" type="Box">6 (3-Subject Files)</container>
+            <container id="aspace_70ac314fc1662b9a2215358843950338" parent="aspace_c69911aae259949c2069f926efa3a7cf" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_53">
+        <c02 id="aspace_7cf9b95797bd38c83c3351c2daf88df8" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">2</container>
             <unittitle>Investment Planning Review</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1982">1981-1982</unitdate>
+            <unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate>
+            <container id="aspace_d0300b9c7b9595fd2e7b5492804ad46f" label="Mixed Materials" type="Box">6 (3-Subject Files)</container>
+            <container id="aspace_ae5e69e408799539ffdf0997ed038c59" parent="aspace_d0300b9c7b9595fd2e7b5492804ad46f" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_54">
+        <c02 id="aspace_109caf85cd6f234743b8a7c90d722a6d" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">3</container>
             <unittitle>Jewish Forum</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984-12/1985-01">1984 December-1985 January</unitdate>
+            <unitdate normal="1984-12/1985-01" type="inclusive">1984 December-1985 January</unitdate>
+            <container id="aspace_f2e737b0202419af61d239cdcb3772cb" label="Mixed Materials" type="Box">6 (3-Subject Files)</container>
+            <container id="aspace_ff6465555fea7a789e9158ad1e595389" parent="aspace_f2e737b0202419af61d239cdcb3772cb" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_55">
+        <c02 id="aspace_c8f7ae0f7da83464b1f08914523499d6" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">4</container>
             <unittitle>Jewish Forum</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985-02/1985-06">1985 February-1985 June</unitdate>
+            <unitdate normal="1985-02/1985-06" type="inclusive">1985 February-1985 June</unitdate>
+            <container id="aspace_b0f683bc1f3813563369fc31ea3bd0ca" label="Mixed Materials" type="Box">6 (3-Subject Files)</container>
+            <container id="aspace_ec75f958b143106e73a65c6eae05d994" parent="aspace_b0f683bc1f3813563369fc31ea3bd0ca" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_56">
+        <c02 id="aspace_45acdaa8a8fef62cf8fbf3e6bfe65f21" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">5</container>
             <unittitle>Legislative Proposal for Public Corporation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_719af57fa7f583511da61bac61ffa886" label="Mixed Materials" type="Box">6 (3-Subject Files)</container>
+            <container id="aspace_e6a32c94c5ea28e6d883a10af8e68de6" parent="aspace_719af57fa7f583511da61bac61ffa886" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_57">
+        <c02 id="aspace_ca3474dad5fa1e643af24c59f65d01d0" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">6</container>
             <unittitle>Moore, Elizabeth</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969">1969</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/2003">Undated</unitdate>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <unitdate normal="1969/2003" type="inclusive">Undated</unitdate>
+            <container id="aspace_86419663570696b1bb1df05c81d07182" label="Mixed Materials" type="Box">6 (3-Subject Files)</container>
+            <container id="aspace_3f308304e4b7f2b0b5cbb0f467a6b181" parent="aspace_86419663570696b1bb1df05c81d07182" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_58">
+        <c02 id="aspace_05b442402285cf888c84f2386b7ccb22" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">7</container>
             <unittitle>New York Times Luncheon Meeting</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1988">1987-1988</unitdate>
+            <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <container id="aspace_3062c2529ce4145c159c09404924dc19" label="Mixed Materials" type="Box">6 (3-Subject Files)</container>
+            <container id="aspace_46deacff71ff5076a84cd82d6f72c229" parent="aspace_3062c2529ce4145c159c09404924dc19" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_59">
+        <c02 id="aspace_f50663146dbecc0989124755b7a20bcf" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">8</container>
             <unittitle>National Commission on Higher Education Issues Report</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/2003">Undated</unitdate>
+            <unitdate normal="1969/2003" type="inclusive">Undated</unitdate>
+            <container id="aspace_8e81aaa8137ddbdf62f9ca7f54eb6342" label="Mixed Materials" type="Box">6 (3-Subject Files)</container>
+            <container id="aspace_371dda81934a2ef1a7a00986b9d00fb4" parent="aspace_8e81aaa8137ddbdf62f9ca7f54eb6342" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_60">
+        <c02 id="aspace_e07787c45902402724f0ca7ce72d5c11" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">9</container>
             <unittitle>Podhortz, Norman</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_e87a725418ef6f435848fb8201851631" label="Mixed Materials" type="Box">6 (3-Subject Files)</container>
+            <container id="aspace_aaf18a93210ea5547229a3113c57f671" parent="aspace_e87a725418ef6f435848fb8201851631" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_61">
+        <c02 id="aspace_35d262de0adddf66d07b26c350422206" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">10</container>
             <unittitle>Religious Holidays</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/2003">Undated</unitdate>
+            <unitdate normal="1969/2003" type="inclusive">Undated</unitdate>
+            <container id="aspace_de3537253cb1c1cd1735f02544aa2c46" label="Mixed Materials" type="Box">6 (3-Subject Files)</container>
+            <container id="aspace_3b9635f9da7e8aaabd0f8582f646f33f" parent="aspace_de3537253cb1c1cd1735f02544aa2c46" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_62">
+        <c02 id="aspace_1483cadec013ef84f5b8ebfd9d5084e5" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">11</container>
             <unittitle>Report of Chancellor's Task Force on Community Colleges</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986-07/1986-09">1986 July-1986 September</unitdate>
+            <unitdate normal="1986-07/1986-09" type="inclusive">1986 July-1986 September</unitdate>
+            <container id="aspace_27e95fefba1fd44d55c8da48c5ba69cd" label="Mixed Materials" type="Box">6 (3-Subject Files)</container>
+            <container id="aspace_4a0e2c2a1d93c50cf203931668a7db7b" parent="aspace_27e95fefba1fd44d55c8da48c5ba69cd" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_63">
+        <c02 id="aspace_95b7eeceef458286aecdabcf6f80a64d" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">12</container>
             <unittitle>Rockefeller Institute for Government</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1988">1980-1988</unitdate>
+            <unitdate normal="1980/1988" type="inclusive">1980-1988</unitdate>
+            <container id="aspace_6e42267cf11f83009481db4a072f9bf1" label="Mixed Materials" type="Box">6 (3-Subject Files)</container>
+            <container id="aspace_17b0045f47159cc6fb4218d0628d5727" parent="aspace_6e42267cf11f83009481db4a072f9bf1" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_64">
+        <c02 id="aspace_3346e9553df1fadcdd5faf6ffd5584aa" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">13</container>
             <unittitle>Rockefeller Institute for Government</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1990">1989-1990</unitdate>
+            <unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate>
+            <container id="aspace_fb7fd6d91e052579891ff7940bac54d6" label="Mixed Materials" type="Box">6 (3-Subject Files)</container>
+            <container id="aspace_de9baccd033fd0942a6ddc1f098aabcc" parent="aspace_fb7fd6d91e052579891ff7940bac54d6" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_65">
+        <c02 id="aspace_271e3eb455d32ec405d3795e9160eb43" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">14</container>
             <unittitle>Rockefeller Institute for Government</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992/1993">1992-1993</unitdate>
+            <unitdate normal="1992/1993" type="inclusive">1992-1993</unitdate>
+            <container id="aspace_49e3069d4b85d912cc2fe2c0a94740ef" label="Mixed Materials" type="Box">6 (3-Subject Files)</container>
+            <container id="aspace_d4330a53cbc43181b111e355ffb28677" parent="aspace_49e3069d4b85d912cc2fe2c0a94740ef" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_66">
+        <c02 id="aspace_b02a44615e87dfabaac4437d5f52b89b" level="file">
           <did>
-            <container type="Box">7</container>
-            <container type="Folder">1</container>
             <unittitle>Salary Issues</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978/1987">1978-1987</unitdate>
+            <unitdate normal="1978/1987" type="inclusive">1978-1987</unitdate>
+            <container id="aspace_aab3dedce855f8240cba0065280224f3" label="Mixed Materials" type="Box">7 (3-Subject Files)</container>
+            <container id="aspace_c3b50e7fcb9172811846c33be69e8b20" parent="aspace_aab3dedce855f8240cba0065280224f3" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_67">
+        <c02 id="aspace_72c97aab343c3fc50d18dd8bbb6417e0" level="file">
           <did>
-            <container type="Box">7</container>
-            <container type="Folder">2</container>
             <unittitle>State University Plaza, Building Dedication</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_ca3a0d9a1439896c353be41df2613d07" label="Mixed Materials" type="Box">7 (3-Subject Files)</container>
+            <container id="aspace_501630a129028c3bfa419a13b4e217ee" parent="aspace_ca3a0d9a1439896c353be41df2613d07" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_68">
+        <c02 id="aspace_e88833216fd0bd2929f5d0fb6068addd" level="file">
           <did>
-            <container type="Box">7</container>
-            <container type="Folder">3</container>
             <unittitle>State University Plaza, Building Dedication Programs</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_5d0fcefee337a2c35a9ae4324c4491cd" label="Mixed Materials" type="Box">7 (3-Subject Files)</container>
+            <container id="aspace_43fc454dcc11fdf4ec38744b1c04453f" parent="aspace_5d0fcefee337a2c35a9ae4324c4491cd" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_69">
+        <c02 id="aspace_21c1d2afb4d5fcddb6b8ead4916ef6d5" level="file">
           <did>
-            <container type="Box">7</container>
-            <container type="Folder">4</container>
             <unittitle>SUNY Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976/1977">1976-1977</unitdate>
+            <unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate>
+            <container id="aspace_a7be7d162bf53b3438079a367528d018" label="Mixed Materials" type="Box">7 (3-Subject Files)</container>
+            <container id="aspace_7b572890dc7ea983d3b7ae574f34cfe2" parent="aspace_a7be7d162bf53b3438079a367528d018" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_70">
+        <c02 id="aspace_0cc3f26f68cb5c7ad43f3c8fecd382f4" level="file">
           <did>
-            <container type="Box">7</container>
-            <container type="Folder">5</container>
             <unittitle>SUNY Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978/1992">1978-1992</unitdate>
+            <unitdate normal="1978/1992" type="inclusive">1978-1992</unitdate>
+            <container id="aspace_580272eeba4f75018e00b9a40cf954aa" label="Mixed Materials" type="Box">7 (3-Subject Files)</container>
+            <container id="aspace_4669c1feaf80e3a718ef8b07c8b311ce" parent="aspace_580272eeba4f75018e00b9a40cf954aa" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_71">
+        <c02 id="aspace_11f03cec7049f7d651414cc732e81c2a" level="file">
           <did>
-            <container type="Box">7</container>
-            <container type="Folder">6</container>
             <unittitle>SUNY/CUNY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976-01/1976-10">1976 January-1976 October</unitdate>
+            <unitdate normal="1976-01/1976-10" type="inclusive">1976 January-1976 October</unitdate>
+            <container id="aspace_0ec294989108dc35e0a93be9fb824039" label="Mixed Materials" type="Box">7 (3-Subject Files)</container>
+            <container id="aspace_97d767f3b34229f65215d5c0aa251522" parent="aspace_0ec294989108dc35e0a93be9fb824039" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_72">
+        <c02 id="aspace_3890cb85e61908263e1ae2f12907f059" level="file">
           <did>
-            <container type="Box">7</container>
-            <container type="Folder">7</container>
             <unittitle>SUNY/CUNY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976-11/1976-12">1976 November-1976 December</unitdate>
+            <unitdate normal="1976-11/1976-12" type="inclusive">1976 November-1976 December</unitdate>
+            <container id="aspace_847d905722976676950c4785d27d1291" label="Mixed Materials" type="Box">7 (3-Subject Files)</container>
+            <container id="aspace_8bbb87f0c07d723f75ac8084193ed1a3" parent="aspace_847d905722976676950c4785d27d1291" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_73">
+        <c02 id="aspace_e9e2b017f0de9a7ec10f429583aa88c0" level="file">
           <did>
-            <container type="Box">7</container>
-            <container type="Folder">8</container>
             <unittitle>SUNY/CUNY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977-01">1977 January</unitdate>
+            <unitdate normal="1977-01/1977-01" type="inclusive">1977 January</unitdate>
+            <container id="aspace_3c34ab0a762c976dcdf8f0af4491630a" label="Mixed Materials" type="Box">7 (3-Subject Files)</container>
+            <container id="aspace_17f224ec16e2ff28b6cd677102b39e60" parent="aspace_3c34ab0a762c976dcdf8f0af4491630a" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_74">
+        <c02 id="aspace_a757b9e3d942dbab976b2b1f6954582f" level="file">
           <did>
-            <container type="Box">7</container>
-            <container type="Folder">9</container>
             <unittitle>SUNY/CUNY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977-02/1977-04">1977 February-1977 April</unitdate>
+            <unitdate normal="1977-02/1977-04" type="inclusive">1977 February-1977 April</unitdate>
+            <container id="aspace_20f198e0d4020a21a879eda60dc5b168" label="Mixed Materials" type="Box">7 (3-Subject Files)</container>
+            <container id="aspace_322d41877eddf4c4e2542265c1f07ed2" parent="aspace_20f198e0d4020a21a879eda60dc5b168" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_75">
+        <c02 id="aspace_c7268ccc709dc0bbe0a5b64eb99d72df" level="file">
           <did>
-            <container type="Box">7</container>
-            <container type="Folder">10</container>
             <unittitle>SUNY/CUNY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977-05/1977-11">1977 May-1977 November</unitdate>
+            <unitdate normal="1977-05/1977-11" type="inclusive">1977 May-1977 November</unitdate>
+            <container id="aspace_16f9ae9fd80b4ab6355ac297cd99efa3" label="Mixed Materials" type="Box">7 (3-Subject Files)</container>
+            <container id="aspace_b2a2ffcf26c009cdcec60835db808849" parent="aspace_16f9ae9fd80b4ab6355ac297cd99efa3" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_76">
+        <c02 id="aspace_e1f69ea19d5e28c8388816e64aeaa02c" level="file">
           <did>
-            <container type="Box">7</container>
-            <container type="Folder">11</container>
             <unittitle>SUNY/CUNY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978-01/1978-09">1978 January-1978 September</unitdate>
+            <unitdate normal="1978-01/1978-09" type="inclusive">1978 January-1978 September</unitdate>
+            <container id="aspace_3fde007d53035750e7c56c228196879e" label="Mixed Materials" type="Box">7 (3-Subject Files)</container>
+            <container id="aspace_e4d452da0237b897e55ef39ee8941ce7" parent="aspace_3fde007d53035750e7c56c228196879e" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_77">
+        <c02 id="aspace_547abaf206d9424447fe05dcb65d3e30" level="file">
           <did>
-            <container type="Box">8</container>
-            <container type="Folder">1</container>
             <unittitle>SUNY/CUNY, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978-10/1978-12">1978 October-1978 December</unitdate>
+            <unitdate normal="1978-10/1978-12" type="inclusive">1978 October-1978 December</unitdate>
+            <container id="aspace_ff5f9be064af6b67c9b86d22308575fd" label="Mixed Materials" type="Box">8 (3-Subject Files)</container>
+            <container id="aspace_a8b5ccfff296e3f447c7dc1a59c9ba6b" parent="aspace_ff5f9be064af6b67c9b86d22308575fd" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_78">
+        <c02 id="aspace_4b0217fbbf21234dadb063f089a42892" level="file">
           <did>
-            <container type="Box">8</container>
-            <container type="Folder">2</container>
             <unittitle>SUNY/CUNY, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1982">1979-1982</unitdate>
+            <unitdate normal="1979/1982" type="inclusive">1979-1982</unitdate>
+            <container id="aspace_79c4d5bac123630191fe597c780f3ea4" label="Mixed Materials" type="Box">8 (3-Subject Files)</container>
+            <container id="aspace_5f66a09db9bd322bd242810b5d8ba76f" parent="aspace_79c4d5bac123630191fe597c780f3ea4" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_79">
+        <c02 id="aspace_82ef415046fb4846220aaf7d4acab6f9" level="file">
           <did>
-            <container type="Box">8</container>
-            <container type="Folder">3</container>
             <unittitle>SUNY/CUNY, General Office File</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1989">1983-1989</unitdate>
+            <unitdate normal="1983/1989" type="inclusive">1983-1989</unitdate>
+            <container id="aspace_6afad4b19cfb6e0574e6ecc4a8807c25" label="Mixed Materials" type="Box">8 (3-Subject Files)</container>
+            <container id="aspace_13ee7ee56f14d47ef63fbb17771cc7b9" parent="aspace_6afad4b19cfb6e0574e6ecc4a8807c25" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_80">
+        <c02 id="aspace_7c50e5349c768063464f531608174ec2" level="file">
           <did>
-            <container type="Box">8</container>
-            <container type="Folder">4</container>
             <unittitle>SUNY/CUNY and New York State Legislation, Regulation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982/1986">1982-1986</unitdate>
+            <unitdate normal="1982/1986" type="inclusive">1982-1986</unitdate>
+            <container id="aspace_aed1abb764c02ed86192b001d1cd074f" label="Mixed Materials" type="Box">8 (3-Subject Files)</container>
+            <container id="aspace_c3246ad48d283e8ed57cf11d0f92488c" parent="aspace_aed1abb764c02ed86192b001d1cd074f" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_81">
+        <c02 id="aspace_7a4a79308972c945deeb76de272af214" level="file">
           <did>
-            <container type="Box">8</container>
-            <container type="Folder">5</container>
             <unittitle>System Business Development Service Office Report, by John Mather</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_16b0f78985e6dc67165e141845030184" label="Mixed Materials" type="Box">8 (3-Subject Files)</container>
+            <container id="aspace_1009276ce7fef571892481792a8e1609" parent="aspace_16b0f78985e6dc67165e141845030184" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_82">
+        <c02 id="aspace_34b3fdf2b2d856e5318382bad68d6003" level="file">
           <did>
-            <container type="Box">8</container>
-            <container type="Folder">6</container>
-            <unittitle>Trustee Meetings, </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978/1987">1978-1987</unitdate>
+            <unittitle>Trustee Meetings,</unittitle>
+            <unitdate normal="1978/1987" type="inclusive">1978-1987</unitdate>
+            <container id="aspace_38bc1c6ec7a8fa7d57f801811f5bc4dd" label="Mixed Materials" type="Box">8 (3-Subject Files)</container>
+            <container id="aspace_9afc877d06583cacc6999d20f6c49043" parent="aspace_38bc1c6ec7a8fa7d57f801811f5bc4dd" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_83">
+        <c02 id="aspace_1c87d94c221e41e06f0474c48758760d" level="file">
           <did>
-            <container type="Box">8</container>
-            <container type="Folder">7</container>
             <unittitle>Trustee Policies and By-Laws</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978/1979">1978-1979</unitdate>
+            <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container id="aspace_ea1b0498de587d015f565a61a4b6066f" label="Mixed Materials" type="Box">8 (3-Subject Files)</container>
+            <container id="aspace_90332e302f0c2d0e98f3bfd393efdc1a" parent="aspace_ea1b0498de587d015f565a61a4b6066f" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_84">
+        <c02 id="aspace_df204c43f4cbc5ed81c2d4ae6944c200" level="file">
           <did>
-            <container type="Box">8</container>
-            <container type="Folder">8</container>
             <unittitle>Trustee Policies and By-Laws</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1984">1980-1984</unitdate>
+            <unitdate normal="1980/1984" type="inclusive">1980-1984</unitdate>
+            <container id="aspace_4b5e2e62caf89934193fcbaa7690d2b1" label="Mixed Materials" type="Box">8 (3-Subject Files)</container>
+            <container id="aspace_ce995243ec9f6ab19c676d41fc5de228" parent="aspace_4b5e2e62caf89934193fcbaa7690d2b1" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_85">
+        <c02 id="aspace_5028622f952c64114776a23118ac9caa" level="file">
           <did>
-            <container type="Box">8</container>
-            <container type="Folder">9</container>
             <unittitle>Trustee Policies and By-Laws</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986/1988">1986-1988</unitdate>
+            <unitdate normal="1986/1988" type="inclusive">1986-1988</unitdate>
+            <container id="aspace_79d6108003d4477a8f35cd532af0e9a6" label="Mixed Materials" type="Box">8 (3-Subject Files)</container>
+            <container id="aspace_77a3fb408f260ecb8bd9aa49f5fe2794" parent="aspace_79d6108003d4477a8f35cd532af0e9a6" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_86">
+        <c02 id="aspace_410b1b9a48e03ece840156cc07ab11ff" level="file">
           <did>
-            <container type="Box">8</container>
-            <container type="Folder">10</container>
             <unittitle>Trustee Policies (Sexual Orientation and Discrimination)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1983">1980-1983</unitdate>
+            <unitdate normal="1980/1983" type="inclusive">1980-1983</unitdate>
+            <container id="aspace_2cbaf7228569f88acb46b2bef17dbe85" label="Mixed Materials" type="Box">8 (3-Subject Files)</container>
+            <container id="aspace_d5cb24a7848cdcca278c1b0cedd2bd07" parent="aspace_2cbaf7228569f88acb46b2bef17dbe85" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_87">
+        <c02 id="aspace_ef5bf09b83a6944e75e1135a75864779" level="file">
           <did>
-            <container type="Box">8</container>
-            <container type="Folder">11</container>
             <unittitle>Tuition Tax Credits</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1982">1981-1982</unitdate>
+            <unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate>
+            <container id="aspace_febb741c99c2464e1054268fdc1e3164" label="Mixed Materials" type="Box">8 (3-Subject Files)</container>
+            <container id="aspace_4c0e55fdba41533a14fd0660b05935be" parent="aspace_febb741c99c2464e1054268fdc1e3164" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-3_88">
+        <c02 id="aspace_91f6debc419135235ff789af83c8c7c2" level="file">
           <did>
-            <container type="Box">8</container>
-            <container type="Folder">12</container>
-            <unittitle>Warren, James J., Retirement, </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unittitle>Warren, James J., Retirement,</unittitle>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_2dd3ae6500885ebceebbd187cfb2dd70" label="Mixed Materials" type="Box">8 (3-Subject Files)</container>
+            <container id="aspace_9be4287270d0f510c63e7a1b7d62aee1" parent="aspace_2dd3ae6500885ebceebbd187cfb2dd70" type="Folder">12</container>
           </did>
         </c02>
       </c01>
-      <!--Series 4-->
-      <c01 level="series" id="nam_apap080-4">
+      <c01 id="aspace_5e15d817d674a4916bb93da98513613a" level="series">
         <did>
+          <unittitle>SUNY Publications</unittitle>
           <unitid>4</unitid>
-          <unittitle label="Series">SUNY Publications</unittitle>
-          <unitdate normal="1917/2009" type="inclusive">1985-1990</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.33</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.33 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1917/2009" type="inclusive">1985-1990</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_379d2c1f780e546a179b454149fcfc98">
+          <head>Arrangement</head>
           <p>Arranged chronologically.</p>
         </arrangement>
-        <scopecontent>
-          <p>This series consists of publications about SUNY. Topics include the cost of higher 
-		  education, SUNY's history, the Nelson A. Rockefeller School of Government, and other 
-		  related matters. Any material related to a report, such as correspondence, is identified 
-		  in the folder title.</p>
+        <scopecontent id="aspace_846c1a5a18c7c8a46012e63938bc71fa">
+          <head>Scope and Contents</head>
+          <p>This series consists of publications about SUNY. Topics include the cost of higher education, SUNY's history, the Nelson A. Rockefeller School of Government, and other related matters. Any material related to a report, such as correspondence, is identified in the folder title.</p>
         </scopecontent>
-        <c02 id="nam_apap080-4_1">
+        <c02 id="aspace_6b57ce4edffb649ce2a0402c3ab21b15" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>
               <emph render="italic">The Challenge and the Choice</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/2003">Undated</unitdate>
+            <unitdate normal="1969/2003" type="inclusive">Undated</unitdate>
+            <container id="aspace_ab4f9efcde6f4964789f92bddb9019c2" label="Mixed Materials" type="Box">1 (4-SUNY Publications)</container>
+            <container id="aspace_ed9336b22e372d222326d038dbca63bc" parent="aspace_ab4f9efcde6f4964789f92bddb9019c2" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-4_2">
+        <c02 id="aspace_b8c3996c1c538c8543d358894a03f944" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>
               <emph render="italic">The Nelson A. Rockefeller Institute of Government</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_a9cd63439bbda9ba5768b7dde2166887" label="Mixed Materials" type="Box">1 (4-SUNY Publications)</container>
+            <container id="aspace_65d6bd2ef5a4cdbb54ad3969fd90c0de" parent="aspace_a9cd63439bbda9ba5768b7dde2166887" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-4_3">
+        <c02 id="aspace_db76b8af3bf275c207797074d7e5d382" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
-            <unittitle><emph render="italic">SUNY: A Historical Perspective</emph>Correspondence, </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1989">1988-1989</unitdate>
+            <unittitle><emph render="italic">SUNY: A Historical Perspective</emph>Correspondence,</unittitle>
+            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container id="aspace_47b3e101b1e51c9aa405932c87fe297c" label="Mixed Materials" type="Box">1 (4-SUNY Publications)</container>
+            <container id="aspace_e0b5ff28b932affb0b1bb7e280429627" parent="aspace_47b3e101b1e51c9aa405932c87fe297c" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-4_4">
+        <c02 id="aspace_daae2056ae9fc67126d20c86d55bd4fd" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>
               <emph render="italic">SUNY: A Historical Perspective</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989">1989</unitdate>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_480ca66d7000166ee0b48ef67064ede8" label="Mixed Materials" type="Box">1 (4-SUNY Publications)</container>
+            <container id="aspace_4189dfc33db5c3ea1a749a58ab07a4f4" parent="aspace_480ca66d7000166ee0b48ef67064ede8" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-4_5">
+        <c02 id="aspace_b9d9f428be08cec88ae7970e28f33764" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>
               <emph render="italic">The Cost of Higher Education: An Essay on the Comparative Financing of Universities</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989">1989</unitdate>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_be9096c124dba685c558b797c1d16764" label="Mixed Materials" type="Box">1 (4-SUNY Publications)</container>
+            <container id="aspace_e41b07966b071774bd5ef1a315d855f4" parent="aspace_be9096c124dba685c558b797c1d16764" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-4_6">
+        <c02 id="aspace_712412fbdea522111ef0260264f00777" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>
               <emph render="italic">SUNY Profiles</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_69051162e8434ad6037e1bdb6b9b9b75" label="Mixed Materials" type="Box">1 (4-SUNY Publications)</container>
+            <container id="aspace_7e7ca3e23990d1dd8b3048bcfd794cad" parent="aspace_69051162e8434ad6037e1bdb6b9b9b75" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap080-4_7">
+        <c02 id="aspace_0534a7354a3b89c433aa236751a94b82" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>
               <emph render="italic">SUNY</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000">2000</unitdate>
+            <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+            <container id="aspace_863c55c7c7ac574246e2987b94e6e3e8" label="Mixed Materials" type="Box">1 (4-SUNY Publications)</container>
+            <container id="aspace_ede9539e4833f163b1a55112c74334fe" parent="aspace_863c55c7c7ac574246e2987b94e6e3e8" type="Folder">7</container>
           </did>
         </c02>
       </c01>

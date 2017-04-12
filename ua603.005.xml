@@ -1,89 +1,93 @@
 <?xml version='1.0' encoding='utf-8'?>
-<?xml-stylesheet type='text/xsl' href='collection-level.xsl'?> 
-<!DOCTYPE ead SYSTEM 'ead.dtd'>
-<ead id="nam_ua603.005">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua603.005.html">nam_ua603.005</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua603.005">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua603.005.xml">ua603.005</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>DEPARTMENT OF COMPARATIVE AND WORLD LITERATURE RECORDS (UA603.005)<date normal="1967/1976" type="inclusive">1967-1976</date></titleproper>
+        <titleproper>Comparative and World Literature, Department of; Records <num>ua603.005</num></titleproper>
         <author>unprocessed</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2017" type="publication">Copyright 2017 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2017</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Benjamin Covell<date normal="2017-02-13">2017 February 13</date></creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:53:12 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2017 February 13</date>
+        <item>Encoded in EAD by Benjamin Covell</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>Department of Comparative and World Literature Records<date normal="1967/1976" type="inclusive">1967-1976</date></titleproper>
-      <publisher/>
-      <date type="publication">Copyright 2017 By the University at Albany, SUNY. All rights reserved.</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua603.005</unitid>
-      <unittitle>Department of Comparative and World Literature Records<unitdate label="Date:" normal="1967/1976" type="inclusive">1967-1976</unitdate></unittitle>
-      <abstract label="Abstract:">Contains records from the Department of Comparative and World Literature, which existed from 1967 until 1976.  Contents include: course planning materials, internal evaluations, meeting records, and annual reports.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="local">State University of New York at Albany. Department of Comparative and World Literature</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">0.33</extent>
-      </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Department of Comparative and World Literature Records<unitdate normal="1967/1976" type="inclusive">1967-1976</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">State University of New York at Albany. Department of Comparative and World Literature</corpname>
+      </origination>
+      <unitid>ua603.005</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.33 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_10fa92ea286e741912444b19c5e13672">Contains records from the Department of Comparative and World Literature, which existed from 1967 until 1976. Contents include: course planning materials, internal evaluations, meeting records, and annual reports.</abstract>
+      <langmaterial id="aspace_d4f448be72633d5cd1edcacae688f1ee">English</langmaterial>
+      <physloc id="aspace_858c244fb048c102238ca77889deb6b5">The materials are located onsite in the department.</physloc>
+      <container id="aspace_ac6abff781622ec86ea525732a65ea6b" label="Mixed Materials" type="Collection">X</container>
     </did>
-    <accessrestrict><head>Access</head><p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. Please contact an archivist for more information.</p></accessrestrict>
-    <userestrict><head>Copyright</head><p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p><p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p><p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p><p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p></userestrict>
-    <acqinfo>
+    <processinfo id="aspace_20e3fb2d9cb56773f4d7c09d250d6bcf">
+      <head>Processing Information</head>
+      <p>Processed in 2017 by unprocessed.</p>
+    </processinfo>
+    <accessrestrict id="aspace_b991affe88fe4fa30ac03106189fe4ee">
+      <head>Access</head>
+      <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. Please contact an archivist for more information.</p>
+    </accessrestrict>
+    <userestrict id="aspace_ffed2d847f1d7887d37c577efe075687">
+      <head>Copyright</head>
+      <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p> The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+    </userestrict>
+    <acqinfo id="aspace_d4298d2e7872d787c04108602f4d0993">
       <head>Acquisition Information</head>
       <p>All items in this collection were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_81ddb0ad9a3387d6cc781e116081e4b5">
       <head>Historical Note</head>
-      <p>The Department of Comparative Literature, later called the Department of Comparative and World Literature, was established in 1960.  It first offered an M.A. 1966 and a B.A. in 1969.  The Department was dissolved in 1976.</p>
+      <p>The Department of Comparative Literature, later called the Department of Comparative and World Literature, was established in 1960. It first offered an M.A. 1966 and a B.A. in 1969. The Department was dissolved in 1976.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_90a4317d100505e99a952c7f0d0e48bc">
+      <head>Scope and Contents</head>
       <p>This collection contains department meeting records, course schedules, course planning documentation, annual reports, and internal evaluation reports.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_f23381990f6130a1896558467349d5dd">
       <head>Arrangement of the Collection</head>
       <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <prefercite>
+    <prefercite id="aspace_5a9bd9c63b724df0b942c2d1247e5ae5">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Department of Comparative and World Literature Records, 1967-1976. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Department of Comparative and World Literature Records).</p>
+      <p> Identification of specific item, series, box, folder, Department of Comparative and World Literature Records, 1967-1976. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Department of Comparative and World Literature Records).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <corpname source="lcsh" encodinganalog="610">State University of New York at Albany</corpname>
-      <subject source="lcsh" encodinganalog="650">Education, Higher--Administration</subject>
-      <subject source="lcsh" encodinganalog="650">Comparative literature</subject>
-      <subject source="lcsh" encodinganalog="650">Literature</subject>
-      <genreform source="aat" encodinganalog="655">administrative records</genreform>
-      <genreform source="aat" encodinganalog="655">minutes (administrative records)</genreform>
-      <genreform source="aat" encodinganalog="655">annual reports</genreform>
+      <subject source="lcsh">Education, Higher--Administration</subject>
+      <subject source="lcsh">Comparative literature</subject>
+      <subject source="lcsh">Literature</subject>
+      <genreform source="aat">Administrative records</genreform>
+      <genreform source="aat">Minutes (administrative records)</genreform>
+      <genreform source="aat">Annual reports</genreform>
+      <corpname source="lcsh">State University of New York at Albany</corpname>
     </controlaccess>
+    <dsc/>
   </archdesc>
 </ead>

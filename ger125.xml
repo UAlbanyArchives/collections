@@ -1,452 +1,451 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ger125">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ger125.html">nam_ger125</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ger125">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ger125.xml">ger125</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>FRITZ MACHLUP PAPERS  (GER125)<date normal="1935/1983" type="inclusive">1935-1982</date></titleproper>
+        <titleproper>Machlup, Fritz; Papers <num>ger125</num></titleproper>
         <author>Sandra Hunt Hawrylchak</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2015" type="publication">Copyright 2008 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2015</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Conversion and encoding by ArchProteus, <date normal="2015">2015</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:36:37 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2015-12">2015 December</date>
+        <date>2015 December</date>
         <item>Converted to EAD</item>
+      </change>
+      <change>
+        <date>2015</date>
+        <item>Encoded in EAD by Conversion and encoding by ArchProteus</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ger125</unitid>
-      <unittitle>Fritz Machlup Papers <unitdate normal="1935/1983" type="inclusive">1935-1982</unitdate></unittitle>
-      <abstract label="Abstract:">The Fritz Machlup Papers contian a partial collection of his published writings as a professor of economics and international finance.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <persname encodinganalog="100" source="lcsh">Machlup, Fritz, 1902-1983</persname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">0.5</extent>
-      </physdesc>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Fritz Machlup Papers<unitdate normal="1935/1983" type="inclusive">1935-1982</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="lcsh">Machlup, Fritz, 1902-1983</persname>
+      </origination>
+      <unitid>ger125</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_b2ca791eac35ddd621794fd2e0b0de65">The Fritz Machlup Papers contian a partial collection of his published writings as a professor of economics and international finance.</abstract>
+      <langmaterial id="aspace_deb34222e7caa7175b5b2dad3d2c91b2">English</langmaterial>
+      <physloc id="aspace_5d6706158e5bda6e251dbd392d6d3952">The materials are located onsite in the department.</physloc>
     </did>
-    <bioghist>
+    <processinfo id="aspace_875b3f66c423cd41531715f1515a5cf2">
+      <head>Processing Information</head>
+      <p>Processed in 2015 by Sandra Hunt Hawrylchak.</p>
+    </processinfo>
+    <bioghist id="aspace_4ab8f43cb5e45de102a65395b2f8ebd5">
       <head>Biographical History</head>
-      <p>Fritz Machlup, professor of economics and international finance, was born in Wiener-Neustadt, Austria on December 15, 1902. Machlup received his doctorate under Ludwig von Mises at the University of Vienna in 1923 and had already published four books and over 150 articles before 1935. Fleeing Hitler and the National Socialists, Machlup first arrived in the United States in September 1933 on a student visa. He was offered a one-year teaching position at Harvard University in 1934 and formally emigrated to the U.S. in 1935. Machlups distinguished teaching career included the University at Buffalo, NY (1935-1947), Johns Hopkins University (1947-1960), and Princeton University (1960-1971), as well as visiting professorships at universities in Europe, Japan and Australia. In addition to his teaching and research activities, Machlup was the founder in 1963 of the Bellagio Group, a collaborative of scholars from the United States and Italy, which acted as consultants to the U.S. Department of the Treasury during the late 1960s and early 1970s. Fritz Machlup died in Princeton, New Jersey on January 30, 1983. </p>
+      <p>Fritz Machlup, professor of economics and international finance, was born in Wiener-Neustadt, Austria on December 15, 1902. Machlup received his doctorate under Ludwig von Mises at the University of Vienna in 1923 and had already published four books and over 150 articles before 1935. Fleeing Hitler and the National Socialists, Machlup first arrived in the United States in September 1933 on a student visa. He was offered a one-year teaching position at Harvard University in 1934 and formally emigrated to the U.S. in 1935. Machlups distinguished teaching career included the University at Buffalo, NY (1935-1947), Johns Hopkins University (1947-1960), and Princeton University (1960-1971), as well as visiting professorships at universities in Europe, Japan and Australia. In addition to his teaching and research activities, Machlup was the founder in 1963 of the Bellagio Group, a collaborative of scholars from the United States and Italy, which acted as consultants to the U.S. Department of the Treasury during the late 1960s and early 1970s. Fritz Machlup died in Princeton, New Jersey on January 30, 1983.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_e7d9c6d291237a63ed63779fdae8a270">
+      <head>Scope and Contents</head>
       <p>The Fritz Machlup Papers is a partial collection of the published writings of Machlup, 1935-1982. It consists of reprints of his articles and encyclopedia entries primarily in German and English, but also contains translations into French and Hungarian. The main collection of materials pertaining to Fritz Machlup is located at the Hoover Institution on War, Revolution and Peace, Stanford University.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_fd0367edbb33f79e248478080f73ff42">
       <head>Arrangement of the Collection</head>
       <p>The collection has no series, arranged chronologically</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_7acfdeb4b4c44769530b7f7fe1fd05ad">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives in 2006.</p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_fb02108ec5de6dc36ee65f670012a6d4">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_9c493ade5037a4bea4c2ff69fe2c1d6f">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites. </p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
-      <p>The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future. </p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
+      <p> The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_ff6f43c6048d7b51f737b8db0b894a44">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Fritz Machlup Papers. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Machlup Papers).</p>
+      <p> Identification of specific item, series, box, folder, Fritz Machlup Papers. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Machlup Papers).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <persname encodinganalog="600" source="lcsh">Machlup, Fritz, 1902-1983</persname>
-      <subject encodinganalog="650" source="lcsh">Economists--United States</subject>
-      <genreform encodinganalog="655" source="aat">publications</genreform>
+      <subject source="lcsh">Economists--United States</subject>
+      <genreform source="aat">Publications</genreform>
+      <persname source="lcsh">Machlup, Fritz, 1902-1983</persname>
     </controlaccess>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_ger125-1">
+    <dsc>
+      <c01 id="aspace_917e34c141af2fe245247ee530a7f889" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
-          <unittitle>"Inflation and Decreasing Costs of Production." </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1935">1935</unitdate>
+          <unittitle>"Inflation and Decreasing Costs of Production."</unittitle>
+          <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+          <container id="aspace_c42b7daaea5a889a6ca12a01f2459f3a" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_d9049a8d675e97594d51397b50e45eb3" parent="aspace_c42b7daaea5a889a6ca12a01f2459f3a" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-2">
+      <c01 id="aspace_86fa23d3925159dba3052bb1918f29aa" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
-          <unittitle>"On the Meaning of the Marginal Product." 
-</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1937">1937</unitdate>
-        </did>
-      </c01>
-      <c01 id="nam_ger125-3">
-        <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>"On the Meaning of the Marginal Product."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1937">1937</unitdate>
+          <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+          <container id="aspace_d63a60fb86760d15ccdf955cc3e1182c" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_9fc7efe4cc8495d8cfed6e59a3f22342" parent="aspace_d63a60fb86760d15ccdf955cc3e1182c" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-4">
+      <c01 id="aspace_0f478ece11ccfc0fae0762685a4d4154" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
-          <unittitle> "The Optimum Lag of Imitation Behind Innovation."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1958">1958</unitdate>
+          <unittitle>"On the Meaning of the Marginal Product."</unittitle>
+          <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+          <container id="aspace_3f27e0e4f0fdd2ef3e38279797eb8fb7" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_66bdfdec07827286f57e7ed4dc8ff2e6" parent="aspace_3f27e0e4f0fdd2ef3e38279797eb8fb7" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-5">
+      <c01 id="aspace_2ff1db9ee2f7f849652d6725769d5b25" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
+          <unittitle>"The Optimum Lag of Imitation Behind Innovation."</unittitle>
+          <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+          <container id="aspace_3c8c2391d3ec2a1d14942087bdd00105" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_8f38146121b0e80603e57442331af135" parent="aspace_3c8c2391d3ec2a1d14942087bdd00105" type="Folder">4</container>
+        </did>
+      </c01>
+      <c01 id="aspace_82621edc612ff54ae971d32cde8f0a10" level="file">
+        <did>
           <unittitle>"Why Not Hahnism?"</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1959">1959</unitdate>
+          <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+          <container id="aspace_866ec520cde786bb4b6d3bebd4640c5d" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_35df72afc269037cdf1eb2fb2884da2d" parent="aspace_866ec520cde786bb4b6d3bebd4640c5d" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-6">
+      <c01 id="aspace_c6523785a542e5d4bf0f078fe19caa86" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
-          <unittitle>"Der Weltstreit zwischen Mikro- und Makrotheorien in der Nationalkonomie." </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1960">1960</unitdate>
+          <unittitle>"Der Weltstreit zwischen Mikro- und Makrotheorien in der Nationalkonomie."</unittitle>
+          <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+          <container id="aspace_ae22d1d4d49f7f774f9699e5beac69f6" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_664a500d61c690f0a018e99b03425e41" parent="aspace_ae22d1d4d49f7f774f9699e5beac69f6" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-7">
+      <c01 id="aspace_ca40bdace65045cd7ea725fcccb69ffe" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
-          <unittitle> "Erfindung und technische Forschung."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1960">1960</unitdate>
+          <unittitle>"Erfindung und technische Forschung."</unittitle>
+          <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+          <container id="aspace_30e7668ffb302107d0d2f3a2c494a2b5" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_ac2334cffff69149d2f9466810828552" parent="aspace_30e7668ffb302107d0d2f3a2c494a2b5" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-8">
+      <c01 id="aspace_ac42c93de0a2c23a71a8b7badccd57a7" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
           <unittitle>"Monopol."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1960">1960</unitdate>
+          <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+          <container id="aspace_3de1a0e6da3adb916e575601e0bd07be" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_dfdaabcd84fcab6e187e6f0500e035ea" parent="aspace_3de1a0e6da3adb916e575601e0bd07be" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-9">
+      <c01 id="aspace_70fa7e0f13c8695be6ef73b3b5a3e7b9" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>"Oligopol."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1961">1961</unitdate>
+          <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+          <container id="aspace_c29b0cadeedf3ad82c80edb92bf22217" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_1a774e575995bc8392ecd799041bd731" parent="aspace_c29b0cadeedf3ad82c80edb92bf22217" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-10">
+      <c01 id="aspace_42462474de522611b7c4dc9958bac2ed" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>"Die Plne zur Reform des internationalen Geldwesens."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1962">1962</unitdate>
+          <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+          <container id="aspace_27b775a30360ac1c208ffe33ed93f132" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_9e2598ac416445ece72b280147b21f74" parent="aspace_27b775a30360ac1c208ffe33ed93f132" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-11">
+      <c01 id="aspace_b630d7aec993f116470f00eb40dac308" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>"Patentwesen (I)."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1962">1962</unitdate>
+          <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+          <container id="aspace_d50a0d2936e5a5ff7f56517f56384198" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_b75b30e5628c253b18ca26ed04d9b65d" parent="aspace_d50a0d2936e5a5ff7f56517f56384198" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-12">
+      <c01 id="aspace_70896db01951eb04dddfd88714e2482c" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">12</container>
-          <unittitle> "Patentwesen (II)."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1962">1962</unitdate>
+          <unittitle>"Patentwesen (II)."</unittitle>
+          <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+          <container id="aspace_b9654abc5ad44731429b3314c6d038e2" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_240c16fcd2ea014b094aea4e652a7c1d" parent="aspace_b9654abc5ad44731429b3314c6d038e2" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-13">
+      <c01 id="aspace_4ce1bb38ba55e160b4f020545d2fbd47" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">13</container>
           <unittitle>"Polypol."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1963">1963</unitdate>
+          <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+          <container id="aspace_438feccbeba6bf45daaa7ee9b277336e" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_a9f9b904d8af6a538405ca927196490e" parent="aspace_438feccbeba6bf45daaa7ee9b277336e" type="Folder">13</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-14">
+      <c01 id="aspace_f852b31002ad71b06d7ff369fe84ff23" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">14</container>
-          <unittitle> "Wettbewerb (III)."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1964">1963</unitdate>
+          <unittitle>"Wettbewerb (III)."</unittitle>
+          <unitdate normal="1964/1964" type="inclusive">1963</unitdate>
+          <container id="aspace_ee53abe0b9fbdd6a6fde5df337d4c39b" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_b8b7b4cddb9d801d91e88e4c71220874" parent="aspace_ee53abe0b9fbdd6a6fde5df337d4c39b" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-15">
+      <c01 id="aspace_ae0ef8393d8fa3f1618fdeaa16fdbd6b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">15</container>
           <unittitle>"Die Produktivitt der naturwissenschaftlichen und technischen Forschung und Entwicklung."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1963">1963</unitdate>
+          <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+          <container id="aspace_7a6f15b23ae2615c5fbb07d3912e3f41" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_5e4d741349590ef7cbf08623bb48142a" parent="aspace_7a6f15b23ae2615c5fbb07d3912e3f41" type="Folder">15</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-16">
+      <c01 id="aspace_f3f4ddd16820614c65d3d16865c747f6" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">16</container>
           <unittitle>"International Economic Co-operation."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1964">1964</unitdate>
+          <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+          <container id="aspace_ea06ed15aef258a4204c60cf63f5c19a" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_f61b03e3aa2140541d16cf8f27fd638e" parent="aspace_ea06ed15aef258a4204c60cf63f5c19a" type="Folder">16</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-17">
+      <c01 id="aspace_afac7df050b3bbe34d32d458616080de" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">17</container>
           <unittitle>Strategies in the War on Poverty."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1965">1965</unitdate>
+          <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+          <container id="aspace_158df4c90c559ece99ac939fdc5910b4" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_629c882c078c36bedbbb0c1f66c8d6c1" parent="aspace_158df4c90c559ece99ac939fdc5910b4" type="Folder">17</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-18">
+      <c01 id="aspace_5333bf08e343180f4f80a54afba69ca7" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">18</container>
           <unittitle>Real Adjustment, Compensatory Corrections, and Foreign Financing of Imbalances in International Payments."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1965">1965</unitdate>
+          <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+          <container id="aspace_58e48a5c5dde635e705b046efe742e83" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_1eb7f2c6c8dd8975850760150f54f210" parent="aspace_58e48a5c5dde635e705b046efe742e83" type="Folder">18</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-19">
+      <c01 id="aspace_02def75b675f6dd717a54bf9084cbbab" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">19</container>
           <unittitle>"International Monetary Systems and the Free Market Economy."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1966">1966</unitdate>
+          <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+          <container id="aspace_335710be4716841e99e98932092a51b9" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_61b409ec8c651abcd465d6f789054707" parent="aspace_335710be4716841e99e98932092a51b9" type="Folder">19</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-20">
+      <c01 id="aspace_90fb95941d05bc7910c9fe205f3f17ab" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">20</container>
-          <unittitle> "LHomo Oeconomicus et ses Collgues" , 1967" Homo Oeconomicus and his Class Mates."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
+          <unittitle>"LHomo Oeconomicus et ses Collgues" , 1967" Homo Oeconomicus and his Class Mates."</unittitle>
+          <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+          <container id="aspace_0ef2d5d870dcb81300c77ff2aac72dd8" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_c90f6b244860ac4e48038ed48e36a21d" parent="aspace_0ef2d5d870dcb81300c77ff2aac72dd8" type="Folder">20</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-21">
+      <c01 id="aspace_529e1a4aaa4950216ad01365d96c52c5" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">21</container>
           <unittitle>"Patents."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1968">1968</unitdate>
+          <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+          <container id="aspace_fcde3b9587194a05d7e01f22d976b457" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_91a57806a5b034dd517ac7cb7c5f52d2" parent="aspace_fcde3b9587194a05d7e01f22d976b457" type="Folder">21</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-22">
+      <c01 id="aspace_0ec1f7f7cb1cec070c69d8dd66599790" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">22</container>
-          <unittitle> "If Matter Could Talk."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1969">1969</unitdate>
+          <unittitle>"If Matter Could Talk."</unittitle>
+          <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+          <container id="aspace_63de5736e680961a7b1343db77164059" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_68d88d5b17192d431102cefceb519bc4" parent="aspace_63de5736e680961a7b1343db77164059" type="Folder">22</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-23">
+      <c01 id="aspace_fbe4b93978aef1ace35d84a90a5de03b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">23</container>
-          <unittitle> "Academic Freedom."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1971">1971</unitdate>
+          <unittitle>"Academic Freedom."</unittitle>
+          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+          <container id="aspace_11c4ac6d065d6d09d0e20a8c97dd1379" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_6fce7bf58b37cceda556b109ec84864f" parent="aspace_11c4ac6d065d6d09d0e20a8c97dd1379" type="Folder">23</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-24">
+      <c01 id="aspace_b6b2712fca730b7411bcb3f9a1a61c8b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">24</container>
-          <unittitle> "Financing, Correcting, and Adjustment: Three Ways to Deal with an Imbalance of Payments" Photocopy."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1971">1971</unitdate>
+          <unittitle>"Financing, Correcting, and Adjustment: Three Ways to Deal with an Imbalance of Payments" Photocopy."</unittitle>
+          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+          <container id="aspace_e9cc264cac369216b2a4acdf79bf5bf5" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_0c38adf3cb1fcdbdaf6df4a9d5c886c2" parent="aspace_e9cc264cac369216b2a4acdf79bf5bf5" type="Folder">24</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-25">
+      <c01 id="aspace_7219b02ac48ccf0d59f0e8ea90cce359" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">25</container>
           <unittitle>"Tenure in Colleges and Universities."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1971">1971</unitdate>
+          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+          <container id="aspace_a6a512a3c8ae6bb4643e32829c115b58" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_a1e011c62343d02096fbcd031e37f0ad" parent="aspace_a6a512a3c8ae6bb4643e32829c115b58" type="Folder">25</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-26">
+      <c01 id="aspace_68935fe1b914aeee355a3d4657720883" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">26</container>
           <unittitle>"Changes in the International Monetary System and the Effects on Banks."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1971">1971</unitdate>
+          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+          <container id="aspace_d7de80abad38a3d393091f81adc5111f" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_a71452900093124be460950efcfeb4cc" parent="aspace_d7de80abad38a3d393091f81adc5111f" type="Folder">26</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-27">
+      <c01 id="aspace_3144a2e362bdd1c738e25e16cd21033e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">27</container>
           <unittitle>"Comment."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1972">1972</unitdate>
+          <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+          <container id="aspace_d46d877b8a6556e600436a3ab7b132b4" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_e7e95b57247cc8c1bd50d3153c6efc9d" parent="aspace_d46d877b8a6556e600436a3ab7b132b4" type="Folder">27</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-28">
+      <c01 id="aspace_3c24e664669f11b43214035e6547642b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">28</container>
           <unittitle>"Nationalism, Provincialism, Fixed Exchange Rates and Monetary Union."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1972">1972</unitdate>
+          <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+          <container id="aspace_d2d25ca0a4c6a85e1effcb8b3d59d9da" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_469fb10e9e043cc7f4c35d199f7e6e38" parent="aspace_d2d25ca0a4c6a85e1effcb8b3d59d9da" type="Folder">28</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-29">
+      <c01 id="aspace_751ab3d943ec5ff1b622688597b72f11" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">29</container>
           <unittitle>"The Universal Bogey."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1972">1972</unitdate>
+          <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+          <container id="aspace_96a42b9ea1569c6d76f80fcf01c75856" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_e10e1b0bc51a56cfe6e8ef23840d3316" parent="aspace_96a42b9ea1569c6d76f80fcf01c75856" type="Folder">29</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-30">
+      <c01 id="aspace_53c8550ac64fbe6a5692d6a34d27e720" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">30</container>
           <unittitle>"The Expanded Role of SDRs and the Possibility of an SDR Standard."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1972">1972</unitdate>
+          <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+          <container id="aspace_1f2af474f834f1c88fe2ca3924b0c8fb" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_6653b8ce1b93e89480a44030aa0dee61" parent="aspace_1f2af474f834f1c88fe2ca3924b0c8fb" type="Folder">30</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-31">
+      <c01 id="aspace_f89190d7013312a4fa30ef050f20a85e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">31</container>
           <unittitle>"Internationale Liquiditt."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1973">1973</unitdate>
+          <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+          <container id="aspace_bfc7392f4a92ff71bad5f16ee2e025a0" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_97319fabc410b97a4618790eddb16075" parent="aspace_bfc7392f4a92ff71bad5f16ee2e025a0" type="Folder">31</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-32">
+      <c01 id="aspace_916215144db6692518f84707e980abf3" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">32</container>
           <unittitle>"Learning More About Knowledge."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1973">1973</unitdate>
+          <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+          <container id="aspace_02d7e99dd9434a8fe53b3c1b952191f3" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_f44f2052a9abeaa311230c437e7dd2a3" parent="aspace_02d7e99dd9434a8fe53b3c1b952191f3" type="Folder">32</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-33">
+      <c01 id="aspace_2a9a92d73fab774f727e7f2fd1c77bd2" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">33</container>
-          <unittitle> "The Effects of Fiscal Policy and the Choice of Definitions."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1973">1973</unitdate>
+          <unittitle>"The Effects of Fiscal Policy and the Choice of Definitions."</unittitle>
+          <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+          <container id="aspace_6fff5c3a305fa41dd3bcb7a4d129375f" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_67c8da72bab148120538cf826a868db3" parent="aspace_6fff5c3a305fa41dd3bcb7a4d129375f" type="Folder">33</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-34">
+      <c01 id="aspace_2f4b81e2f17ebbb32b76c119682cdcf2" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">34</container>
           <unittitle>"The Illusion of Universal Higher Education."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1974">1974</unitdate>
+          <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+          <container id="aspace_9d05e1b66b061f4620f4193a557638a9" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_3df0d69cec73ca6e98fb232bfa21da52" parent="aspace_9d05e1b66b061f4620f4193a557638a9" type="Folder">34</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-35">
+      <c01 id="aspace_ba6019b045b067f270dda96ab438d2d7" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">35</container>
           <unittitle>"Integrationshemmende Integrationspolitik."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1974">1974</unitdate>
+          <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+          <container id="aspace_3373a75c8d7aeda6a3d7490189cca34e" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_cc56043eb07f32f889e4653086f5f987" parent="aspace_3373a75c8d7aeda6a3d7490189cca34e" type="Folder">35</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-36">
+      <c01 id="aspace_416f9ac750bd6499c9cb4beeba2e3f3d" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">36</container>
           <unittitle>"International Monetary Systems."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1975">1975</unitdate>
+          <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+          <container id="aspace_1a0212921079b95cffe5772a2004ba99" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_2dc0dccbed38ba094f0f7a1b53257612" parent="aspace_1a0212921079b95cffe5772a2004ba99" type="Folder">36</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-37">
+      <c01 id="aspace_c8896f1c035f2401ac69b936518e844a" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">37</container>
-          <unittitle> "Between Outline and Outcome the Reform was Lost."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1976">1976</unitdate>
+          <unittitle>"Between Outline and Outcome the Reform was Lost."</unittitle>
+          <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+          <container id="aspace_d8a027e266a3713d739cda5ccb6dcf4b" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_963abce7a2ec808bfa9a92672cf03b99" parent="aspace_d8a027e266a3713d739cda5ccb6dcf4b" type="Folder">37</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-38">
+      <c01 id="aspace_7a150ff1273f659740dd3bf7773cc9b5" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">38</container>
           <unittitle>"Wrdigung der Werke von Friedrich A von Hayek."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1977">1977</unitdate>
+          <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+          <container id="aspace_513a3ea79fcfdb292bdf4d085b5771e3" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_05710ab786256c5268cbf6495f5b528a" parent="aspace_513a3ea79fcfdb292bdf4d085b5771e3" type="Folder">38</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-39">
+      <c01 id="aspace_780ddcbcd5039989d9c7e087e47a0ff9" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">39</container>
           <unittitle>"Explaining Changes in Balances of Payments and Foreign-Exchange Rates: A Polemic without Graphs, Algebra, and Citations."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1980">1980</unitdate>
+          <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+          <container id="aspace_4dbccc8d7f39f1f7c320bef28d7e46c2" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_3ef5f655398d0593cf9c622c50a60b2a" parent="aspace_4dbccc8d7f39f1f7c320bef28d7e46c2" type="Folder">39</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-40">
+      <c01 id="aspace_4825d112505473c6b5bda7ed2c8d5afc" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">40</container>
           <unittitle>"Hayek, Friedrich A von."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1979">1979</unitdate>
+          <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+          <container id="aspace_263c60863b06442807edb7976ca3377d" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_e7b927a309611b3d76babdcb7baa2065" parent="aspace_263c60863b06442807edb7976ca3377d" type="Folder">40</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-41">
+      <c01 id="aspace_a824e5879de98b4f362620448701f180" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">41</container>
           <unittitle>"The Economic Cost of Knowledge."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1980">1980</unitdate>
+          <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+          <container id="aspace_4d47d3a82a7fa376db50e81ccedf2938" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_16a141ade2159fa6ee111de7917c8406" parent="aspace_4d47d3a82a7fa376db50e81ccedf2938" type="Folder">41</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-42">
+      <c01 id="aspace_d0bd07d2563b42e53aa7d863bd501bb9" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">42</container>
           <unittitle>"Beruhzsok az emberi erforrsokba s a producktv tudsba" , ; Hungarian translation of "Investment in Human Resources and Productive Knowledge."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1982">1982</unitdate>
+          <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+          <container id="aspace_63c1c762e91edf9b7f50aaa35a0778d9" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_a06a3d053f1b76072734b6028aadebf8" parent="aspace_63c1c762e91edf9b7f50aaa35a0778d9" type="Folder">42</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-43">
+      <c01 id="aspace_7d84ea420ea9fc419a89bd7ae3260031" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">43</container>
           <unittitle>"Austrian Economics."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1982">1982</unitdate>
+          <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+          <container id="aspace_ac8d9b1627f27fc1fbed9bbffdca0220" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_544f10d2ee2470aee59a7c3c06e0a495" parent="aspace_ac8d9b1627f27fc1fbed9bbffdca0220" type="Folder">43</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-44">
+      <c01 id="aspace_d33b2c94b4da8767011cc6ac75ad3e6f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">44</container>
           <unittitle>Growth Rates, Trade Balances, and Exchange Rates."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1982">1982</unitdate>
+          <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+          <container id="aspace_c86ac5080c364905b2a91e5400dfee1b" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_e2c8727aeec2ab9d4498c0f50dba6454" parent="aspace_c86ac5080c364905b2a91e5400dfee1b" type="Folder">44</container>
         </did>
       </c01>
-      <c01 id="nam_ger125-45">
+      <c01 id="aspace_c6e06fd124a02b0eda90123c91fb58ff" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">45</container>
           <unittitle>Marginal Revenue."</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1982">1982</unitdate>
+          <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+          <container id="aspace_fcc0aa06e2ae7f92b6b1ecd4bab1c9f5" label="Mixed Materials" type="Box">1 (Fritz Machlup Papers )</container>
+          <container id="aspace_1bcc3fc6e361a820fa3d24a9f96bb9fe" parent="aspace_fcc0aa06e2ae7f92b6b1ecd4bab1c9f5" type="Folder">45</container>
         </did>
       </c01>
     </dsc>

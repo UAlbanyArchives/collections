@@ -1,87 +1,91 @@
 <?xml version='1.0' encoding='utf-8'?>
-<?xml-stylesheet type='text/xsl' href='collection-level.xsl'?> 
-<!DOCTYPE ead SYSTEM 'ead.dtd'>
-<ead id="nam_ua730.008">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua730.008.html">nam_ua730.008</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua730.008">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua730.008.xml">ua730.008</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>OFFICE OF DISABLED STUDENT SERVICES RECORDS (UA730.008)<date normal="1970/1979" type="inclusive">1970-1979</date></titleproper>
+        <titleproper>Disabled Student Services; Records <num>ua730.008</num></titleproper>
         <author>unprocessed</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2017" type="publication">Copyright 2017 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2017</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Benjamin Covell<date normal="2017-03-20">2017 March 20</date></creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 18:06:43 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2017 March 20</date>
+        <item>Encoded in EAD by Benjamin Covell</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>Office of Disabled Student Services Records<date normal="1970/1979" type="inclusive">1970-1979</date></titleproper>
-      <publisher/>
-      <date type="publication">Copyright 2017 By the University at Albany, SUNY. All rights reserved.</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua730.008</unitid>
-      <unittitle>Office of Disabled Student Services Records<unitdate label="Date:" normal="1970/1979" type="inclusive">1970-1979</unitdate></unittitle>
-      <abstract label="Abstract:">Contains inactive records from the Office of Disabled Student Services, now known as the Disability Resources Center.   Materials include grant proposals, progress reports, correspondence, and other administrative records.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="local">State University of New York at Albany. Office of Disabled Student Services</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">0.6</extent>
-      </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Office of Disabled Student Services Records<unitdate normal="1970/1979" type="inclusive">1970-1979</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">State University of New York at Albany. Office of Disabled Student Services</corpname>
+      </origination>
+      <unitid>ua730.008</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.6 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_55f414a4c3431498909174dbc035fc3e">Contains inactive records from the Office of Disabled Student Services, now known as the Disability Resources Center. Materials include grant proposals, progress reports, correspondence, and other administrative records.</abstract>
+      <langmaterial id="aspace_a5cf325c9ae2af24be2ff4512d0a295b">English</langmaterial>
+      <physloc id="aspace_33b332d0ee32e57a7f924249ae07bc4c">The materials are located onsite in the department.</physloc>
+      <container id="aspace_4796ae6f085bf8812fc803630f4f8989" label="Mixed Materials" type="Collection">X</container>
     </did>
-    <accessrestrict><head>Access</head><p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. Please contact an archivist for more information.</p></accessrestrict>
-    <userestrict><head>Copyright</head><p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p><p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p><p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p><p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p></userestrict>
-    <acqinfo>
+    <processinfo id="aspace_8bff65d6b9720e619463126d17a2b3b9">
+      <head>Processing Information</head>
+      <p>Processed in 2017 by unprocessed.</p>
+    </processinfo>
+    <accessrestrict id="aspace_2e07aa68b292390696a965b52f626e56">
+      <head>Access</head>
+      <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. Please contact an archivist for more information.</p>
+    </accessrestrict>
+    <userestrict id="aspace_cce5f85971fe9166f688a47c6504ef5c">
+      <head>Copyright</head>
+      <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p> The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+    </userestrict>
+    <acqinfo id="aspace_7b7f5f0a1fd732268b771929eee7c59c">
       <head>Acquisition Information</head>
       <p>All items in this collection were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_2c752e5dc99f6157a714a65934374474">
       <head>Historical Note</head>
-      <p>The organization was established in 1973 with a grant from the U.S. Department of Education TRIO Programs (Upward Bound, Talent Search, and Special Services for Disadvantaged Students). In 1974, it was officially named the Rehabilitation Service Program, and charged with the responsibility of coordinating special services for the disabled.  The Program was renamed the Program for Disabled Student Services in 1981.  It has since been renamed the Disability Resources Center.</p>
+      <p>The organization was established in 1973 with a grant from the U.S. Department of Education TRIO Programs (Upward Bound, Talent Search, and Special Services for Disadvantaged Students). In 1974, it was officially named the Rehabilitation Service Program, and charged with the responsibility of coordinating special services for the disabled. The Program was renamed the Program for Disabled Student Services in 1981. It has since been renamed the Disability Resources Center.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>Includes grant proposals, 1974, 1977; annual grant progress reports; Coordinator's correspondence, 1976;  minutes, 1977; and budgets, 1977-1978, leaflets and fliers; and Director's subject files relating to TRIO Project Funding, 1971, 1974-1979.  </p>
+    <scopecontent id="aspace_92952793782b8782d57fdde0312bc793">
+      <head>Scope and Contents</head>
+      <p>Includes grant proposals, 1974, 1977; annual grant progress reports; Coordinator's correspondence, 1976; minutes, 1977; and budgets, 1977-1978, leaflets and fliers; and Director's subject files relating to TRIO Project Funding, 1971, 1974-1979.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_bf5617380f4188658867d36f4cb714c6">
       <head>Arrangement of the Collection</head>
       <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <prefercite>
+    <prefercite id="aspace_af55b3e5401884bfd7030458e65c0658">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Office of Disabled Student Services Records, 1970-1979. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Office of Disabled Student Services Records).</p>
+      <p> Identification of specific item, series, box, folder, Office of Disabled Student Services Records, 1970-1979. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Office of Disabled Student Services Records).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <corpname source="lcsh" encodinganalog="610">State University of New York at Albany</corpname>
-      <subject source="lcsh" encodinganalog="650">College students with disabilities</subject>
-      <subject source="lcsh" encodinganalog="650">People with disabilities--Services for</subject>
-      <genreform source="aat" encodinganalog="655">administrative records</genreform>
-      <genreform source="aat" encodinganalog="655">grant proposals</genreform>
+      <subject source="lcsh">College students with disabilities</subject>
+      <subject source="lcsh">People with disabilities--Services for</subject>
+      <genreform source="aat">Administrative records</genreform>
+      <genreform source="aat">Grant proposals</genreform>
+      <corpname source="lcsh">State University of New York at Albany</corpname>
     </controlaccess>
+    <dsc/>
   </archdesc>
 </ead>

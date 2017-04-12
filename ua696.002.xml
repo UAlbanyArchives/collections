@@ -1,225 +1,164 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua696.002">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/ua696.002.xml" identifier="##">nam_ua696.002</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua696.002">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua696.002.xml">ua696.002</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>ENVIRONMENTAL DECISIONS COMMISSION RECORDS (UA696.002)<date normal="1971/1980" type="inclusive">1971-1980</date></titleproper>
+        <titleproper>Environmental Decisions Commission; Records <num>ua696.002</num></titleproper>
         <author>Joshua Hauck-Whealton</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2006">Copyright 2006 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2006</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Jarret Yahney<date normal="2014">2014</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 18:03:36 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Encoded in EAD by Jarret Yahney</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>ENVIRONMENTAL DECISIONS COMMISSION RECORDS (UA696.002)<date normal="1971/1980" type="inclusive">1971-1980</date></titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2006</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua696.002</unitid>
-      <unittitle>Environmental Decisions Commission Records<unitdate type="inclusive" normal="1971/1980" label="Date:">1971-1980</unitdate></unittitle>
-      <origination>
-        <corpname encodinganalog="110" source="local">State University of New York at Albany. Environmental Decisions Commission</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
+      </repository>
+      <unittitle>Environmental Decisions Commission Records<unitdate normal="1971/1980" type="inclusive">1971-1980</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">State University of New York at Albany. Environmental Decisions Commission</corpname>
       </origination>
-      <physdesc>
-        <extent unit="cubic ft.">0.33</extent>
+      <unitid>ua696.002</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.33 cubic ft.</extent>
         <physfacet>processed to date</physfacet>
       </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
-      </repository>
-      <abstract label="Abstract:">The Environmental Decisions Commission has developed a policy base for decisions on matters relating to the environmental health quality of the university.
-	                              They have dealt with many environmental issues on campus including traffic control, composting, recycling paper and more.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <abstract id="aspace_f176452ae85ae69feac670586e10425e">The Environmental Decisions Commission has developed a policy base for decisions on matters relating to the environmental health quality of the university. They have dealt with many environmental issues on campus including traffic control, composting, recycling paper and more.</abstract>
+      <langmaterial id="aspace_e83971a9ba24a8413c71d584d9fa1c18">English</langmaterial>
+      <physloc id="aspace_2ab8504e40439613259820dc81da1d1c">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_f5b74cb0d61f3bff35bbc23636890b83">
+      <head>Processing Information</head>
+      <p>Processed in 2006 by Joshua Hauck-Whealton.</p>
+    </processinfo>
+    <accessrestrict id="aspace_8eebd0a8bd032ca0e611fad8737d31b0">
       <head>Access</head>
-      <p> Access to this record group is unrestricted. </p>
+      <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_23531a41ddd98efa5cf8d72642acad7d">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_ce52fc25a8a5e57525821ef1ce6d18ef">
       <head>Acquisition Information</head>
-      <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives </p>
+      <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_640231b33980ced2957dc8702ba56edb">
       <head>Organizational Sketch</head>
-      <p>The Environmental Decisions Commission of the State University of New York at Albany
-	  (as the University at Albany, SUNY was then known) was established in 1971 by President
-	  Louis T. Benezet. The commission was charged with developing a policy base for decisions
-	  on matters relating to the environmental health and aesthetic quality of the university as
-	  well as the campus’ impact on the surrounding community. In the nearly ten years of its 
-	  existence, the commission dealt with issues such as dredging and stocking the campus pond,
-	  traffic control, parking, the use of road salt and pesticides, recycling of paper, composting,
-	  and energy conservation.</p>
-      <p>The Environmental Decisions Commission was organized and funded on campus in the same era 
-	  as the Environmental Studies Program and the Environmental Forum. However, the Commission survived
-	  the budget cuts that ended the other programs in 1977. The Commission was dissolved in 1980, and
-	  its responsibilities were thereafter performed by the Office of Environmental Health and Safety.</p>
+      <p>The Environmental Decisions Commission of the State University of New York at Albany (as the University at Albany, SUNY was then known) was established in 1971 by President Louis T. Benezet. The commission was charged with developing a policy base for decisions on matters relating to the environmental health and aesthetic quality of the university as well as the campusâ impact on the surrounding community. In the nearly ten years of its existence, the commission dealt with issues such as dredging and stocking the campus pond, traffic control, parking, the use of road salt and pesticides, recycling of paper, composting, and energy conservation.</p>
+      <p> The Environmental Decisions Commission was organized and funded on campus in the same era as the Environmental Studies Program and the Environmental Forum. However, the Commission survived the budget cuts that ended the other programs in 1977. The Commission was dissolved in 1980, and its responsibilities were thereafter performed by the Office of Environmental Health and Safety.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>This collection contains the administrative files of the Environmental Decisions Commission
-	  including correspondence, meeting minutes, agendas, and reports. These files are in chronological
-	  order with the earliest years of 1971-1973 most thoroughly documented. The records continue until
-	  1980 with correspondence about the dissolution of the commission. Much of this collection is composed
-	  of mimeographed copies of meeting minutes and reports. In a few cases the mimeographs have begun
-	  to fade, but all remain legible.</p>
-      <p>Related Collections in the M.E. Grenander Department of Special Collections and Archives
-	  can be found in the subject guide for Conservation and the Environment and the University Archives.
-	  Of particular interest are the papers of Jackson Davis (APAP-141) and Louis Ismay (UA-902.064) and
-	  the records of the Environmental Studies Program (UA-XXX.001), Office of the President (UA-000),
-	  and the University Senate (UA-200).</p>
+    <scopecontent id="aspace_3c197e30eb22a21d98e5c2666aeacd93">
+      <head>Scope and Contents</head>
+      <p>This collection contains the administrative files of the Environmental Decisions Commission including correspondence, meeting minutes, agendas, and reports. These files are in chronological order with the earliest years of 1971-1973 most thoroughly documented. The records continue until 1980 with correspondence about the dissolution of the commission. Much of this collection is composed of mimeographed copies of meeting minutes and reports. In a few cases the mimeographs have begun to fade, but all remain legible.</p>
+      <p> Related Collections in the M.E. Grenander Department of Special Collections and Archives can be found in the subject guide for Conservation and the Environment and the University Archives. Of particular interest are the papers of Jackson Davis (APAP-141) and Louis Ismay (UA-902.064) and the records of the Environmental Studies Program (UA-XXX.001), Office of the President (UA-000), and the University Senate (UA-200).</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_3817c184d4235512ca8061d6bfe3a827">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series:</p>
-      <list type="simple">
-        <item>Series 1 - Administrative Files, 1971-1980, Undated</item>
-      </list>
-      <p>The collection consists of materials relating directly to
-	  the operations of the Environmental Decisions Commission including
-	  meeting minutes, agendas, correspondence, reports and memoranda. 
-	  Issues considered included the dredging and stocking of the campus pond,
-	  traffic control, parking, the use of road salt and pesticides, recycling of paper,
-	  composting, and energy conservation.</p>
+      <p>The collection consists of materials relating directly to the operations of the Environmental Decisions Commission including meeting minutes, agendas, correspondence, reports and memoranda. Issues considered included the dredging and stocking of the campus pond, traffic control, parking, the use of road salt and pesticides, recycling of paper, composting, and energy conservation.</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-           Try to give as many access points as you can to increase the chances of 
-           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-           to comment them out! -->
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Conservation and the Environment</subject>
-      <subject source="meg" encodinganalog="650">Architecture</subject>
-      <corpname encodinganalog="610" source="local">Environmental Decisions Commission</corpname>
-      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany</corpname>
-      <subject encodinganalog="650" source="lcsh">Environmental protection</subject>
-      <subject encodinganalog="650" source="lcsh">Environmental health</subject>
-      <geogname encodinganalog="651" source="lcsh">Albany (N.Y.)</geogname>
-      <genreform encodinganalog="655" source="aat">Agendas</genreform>
-      <genreform encodinganalog="655" source="aat">Administrative Reports</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Minutes</genreform>
-      <genreform encodinganalog="655" source="aat">Memorandums</genreform>
-    </controlaccess>
-    <prefercite>
+    <prefercite id="aspace_a680e8e605471d2f12dd918c28621cbc">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Environmental Decisions Commission Records, 1971-1980. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, Environmental Decisions Commission Records, 1971-1980. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <!-- Start series 1-->
-      <c01 level="series" id="nam_ua696.002-1">
+    <controlaccess>
+      <subject source="meg">Conservation and the Environment</subject>
+      <subject source="meg">Architecture</subject>
+      <subject source="lcsh">Environmental protection</subject>
+      <subject source="lcsh">Environmental health</subject>
+      <geogname source="lcsh">Albany (N.Y.)</geogname>
+      <genreform source="aat">Agendas</genreform>
+      <genreform source="aat">Administrative reports</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Minutes</genreform>
+      <genreform source="aat">Memorandums</genreform>
+      <corpname source="local">Environmental Decisions Commission</corpname>
+      <corpname source="lcsh">State University of New York at Albany</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_cda4e50dff4304d6c693ddd8b4632ee7" level="series">
         <did>
+          <unittitle>Administrative</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Administrative</unittitle>
-          <unitdate type="inclusive" normal="1971/1980">1971-1980</unitdate>
-          <unitdate type="inclusive" normal="1971/1980">Undated</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.33</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.33 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1971/1980" type="inclusive">1971-1980</unitdate>
+          <unitdate normal="1971/1980" type="inclusive">Undated</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_1dee410669207bd8555c8d70f45480fe">
+          <head>Arrangement</head>
           <p>Arranged chronologically.</p>
         </arrangement>
-        <scopecontent>
-          <p>The collection consists of materials relating directly to the
-		  operations of the Environmental Decisions Commission including meeting
-		  minutes, agendas, correspondence, reports and memoranda. Issues considered
-		  included the dredging and stocking of the campus pond, traffic control,
-		  parking, the use of road salt and pesticides, recycling of paper, composting,
-		  and energy conservation.</p>
+        <scopecontent id="aspace_2dad5fc6f5d612860fa076595655d4c7">
+          <head>Scope and Contents</head>
+          <p>The collection consists of materials relating directly to the operations of the Environmental Decisions Commission including meeting minutes, agendas, correspondence, reports and memoranda. Issues considered included the dredging and stocking of the campus pond, traffic control, parking, the use of road salt and pesticides, recycling of paper, composting, and energy conservation.</p>
         </scopecontent>
-        <c02 id="nam_ua696.002-1_1">
+        <c02 id="aspace_e92f4902d2235bd1fe9e8df3ded76da3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Environmental Decisions Commission</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_13ab92ecc9d63577405b0c0fbecf2819" label="Mixed Materials" type="Box">1 (1-Administrative)</container>
+            <container id="aspace_995906bc608af09975a606e2eb132367" parent="aspace_13ab92ecc9d63577405b0c0fbecf2819" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua696.002-1_2">
+        <c02 id="aspace_191a5e11ae7d777c4ec42c44d19947a4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Environmental Decisions Commission</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972">1972</unitdate>
+            <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_0eb779af7a878cf2e99dee0a6f8d00c0" label="Mixed Materials" type="Box">1 (1-Administrative)</container>
+            <container id="aspace_fadd8607170d8614d916b68c0d171674" parent="aspace_0eb779af7a878cf2e99dee0a6f8d00c0" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua696.002-1_3">
+        <c02 id="aspace_b6df0cfc7f76076e52fb61c1fa247b2d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Environmental Decisions Commission</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973">1973</unitdate>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_4cdc845ace56dc927c6d2e5c911b48f7" label="Mixed Materials" type="Box">1 (1-Administrative)</container>
+            <container id="aspace_624cb495caa7ef71130c0bc7db4fe8b2" parent="aspace_4cdc845ace56dc927c6d2e5c911b48f7" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua696.002-1_4">
+        <c02 id="aspace_848a4e840150eb39ed2f61b2deb28ab7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Environmental Decisions Commission</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_06ef18982e2db4e21cd6a768ab25351a" label="Mixed Materials" type="Box">1 (1-Administrative)</container>
+            <container id="aspace_05831689d618b70e5e301fd701746524" parent="aspace_06ef18982e2db4e21cd6a768ab25351a" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua696.002-1_5">
+        <c02 id="aspace_69aa2a1cb2061f26c12c88cefcdafc06" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Environmental Decisions Commission</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/1977">1975-1977</unitdate>
+            <unitdate normal="1975/1977" type="inclusive">1975-1977</unitdate>
+            <container id="aspace_d20b11405c870758c0fe7d6dc52fa20d" label="Mixed Materials" type="Box">1 (1-Administrative)</container>
+            <container id="aspace_64a5a3d6ec0bcdfd23e4a3a25e1b5966" parent="aspace_d20b11405c870758c0fe7d6dc52fa20d" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua696.002-1_6">
+        <c02 id="aspace_adaa737a1b899e220ecd132562eb03c9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Environmental Decisions Commission</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978/1980">1978/1980</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971/1980">Undated</unitdate>
+            <unitdate normal="1978/1980" type="inclusive">1978/1980</unitdate>
+            <unitdate normal="1971/1980" type="inclusive">Undated</unitdate>
+            <container id="aspace_1eab02d7e8f94bedacb583f1717cac1a" label="Mixed Materials" type="Box">1 (1-Administrative)</container>
+            <container id="aspace_314b53ce47120770b47846d7d4576083" parent="aspace_1eab02d7e8f94bedacb583f1717cac1a" type="Folder">6</container>
           </did>
         </c02>
       </c01>

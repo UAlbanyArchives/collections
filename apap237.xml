@@ -1,396 +1,320 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap237">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap237.xml" identifier="##">nam_apap237</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap237">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap237.xml">apap237</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>HENRY CURRAN PAPERS (APAP237)<date normal="1961/1968" type="inclusive">1961-1968</date></titleproper>
+        <titleproper>Curran, Henry; Papers <num>apap237</num></titleproper>
         <author>Michael Paulmeno</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2011">Copyright 2011 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2011</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Jodi Boyle<date normal="2011">2011</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 15:13:57 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2011</date>
+        <item>Encoded in EAD by Jodi Boyle</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>HENRY CURRAN PAPERS (APAP237)<date normal="1961/1968" type="inclusive">1961-1968</date>
-      </titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2011</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap237</unitid>
-      <unittitle>Henry Curran Papers <unitdate type="inclusive" normal="1961/1968" label="Date:">
-          1961-1968</unitdate>
-      </unittitle>
-      <physdesc label="Physical Characteristics:">
-        <extent unit="cubic ft.">1.8</extent>
-      </physdesc>
-      <origination>
-        <persname encodinganalog="100" source="local">Curran, Henry</persname>
-      </origination>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:"> The Henry Curran Papers contain materials from Curran's decade of
-        service in the New York State Senate from 1961-1968. The collection includes committee work,
-        sponsored legislation, correspondence, reports, and news clippings from his
-        tenure.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Henry Curran Papers<unitdate normal="1961/1968" type="inclusive">1961-1968</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="local">Curran, Henry</persname>
+      </origination>
+      <unitid>apap237</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.8 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_7a7230f81a0ce87d60d4070338bdb700">The Henry Curran Papers contain materials from Curran's decade of service in the New York State Senate from 1961-1968. The collection includes committee work, sponsored legislation, correspondence, reports, and news clippings from his tenure.</abstract>
+      <langmaterial id="aspace_e2ddd3b2c251bd05b64fa60772448645">English</langmaterial>
+      <physloc id="aspace_d2c7e1afad9faf359ccdb653ecd85e31">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_70c7557b7616a1abaec0bfc96ad9b120">
+      <head>Processing Information</head>
+      <p>Processed in 2011 by Michael Paulmeno.</p>
+    </processinfo>
+    <accessrestrict id="aspace_31d9e97e5413752490ef8b0a04983796">
       <head>Access</head>
-      <p> Access to this record group is unrestricted. </p>
+      <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_042740a8d37c94ef584b50201f9362d4">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_73f9dd830416405f6a184f3f30f4b46b">
       <head>Acquisition Information</head>
-      <p>Henry Curran initially donated his papers to Syracuse University in the late 1960s. In
-        2006, the papers were transferred to the M.E. Grenander Department of Special Collections
-        and Archives. </p>
+      <p>Henry Curran initially donated his papers to Syracuse University in the late 1960s. In 2006, the papers were transferred to the M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_22dcab59a857b7a980ad37b742608e11">
       <head>Biographical Sketch</head>
-      <p>Henry Curran was born in Lock Haven, Pennsylvania in 1918 and graduated from Pace College.
-        He served as an officer on the European front during World War II and during the Korean War.
-        He married Rita Rothmann and together they had three sons and one daughter in Oyster Bay,
-        Long Island.</p>
-      <p> A Republican, Curran began his political career as a deputy sheriff and was elected town
-        clerk of Oyster Bay in 1953. Seven years later voters elected him to the New York State
-        Senate representing the Third District, which covers part of Nassau County. During his
-        tenure in the State Senate, he was chairman of the Joint Legislative Committee to Revise
-        Banking Law and a member of the Joint Legislative Committee on Election Law, the committee
-        on Matrimonial and Family Laws, the committee on Penal Institutions, as well as a member of
-        the Education, Finance, Mental Hygiene, Roads and Public Works, Taxation, and Towns and
-        Counties committees. Curran left the State Senate and Governor Nelson Rockefeller appointed
-        him chair the New York State Harness Racing Commission in 1969. He held that post until
-        1975. </p>
-      <p>In addition to his public service, Curran was a partner in Curran, Cooney, Penny Agency,
-        Inc., a general insurance firm in Garden City, Long Island. He also was a trustee of the
-        Emigrant Savings Bank.</p>
-      <p>Curran died in North Shore University Hospital in Glen Cove, NY on March 13th, 1993. </p>
+      <p>Henry Curran was born in Lock Haven, Pennsylvania in 1918 and graduated from Pace College. He served as an officer on the European front during World War II and during the Korean War. He married Rita Rothmann and together they had three sons and one daughter in Oyster Bay, Long Island.</p>
+      <p>  A Republican, Curran began his political career as a deputy sheriff and was elected town clerk of Oyster Bay in 1953. Seven years later voters elected him to the New York State Senate representing the Third District, which covers part of Nassau County. During his tenure in the State Senate, he was chairman of the Joint Legislative Committee to Revise Banking Law and a member of the Joint Legislative Committee on Election Law, the committee on Matrimonial and Family Laws, the committee on Penal Institutions, as well as a member of the Education, Finance, Mental Hygiene, Roads and Public Works, Taxation, and Towns and Counties committees. Curran left the State Senate and Governor Nelson Rockefeller appointed him chair the New York State Harness Racing Commission in 1969. He held that post until 1975. </p>
+      <p> In addition to his public service, Curran was a partner in Curran, Cooney, Penny Agency, Inc., a general insurance firm in Garden City, Long Island. He also was a trustee of the Emigrant Savings Bank.</p>
+      <p> Curran died in North Shore University Hospital in Glen Cove, NY on March 13th, 1993.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The Henry Curran Papers consist of a mixture of sponsored legislation files and news
-        clippings from Curran's tenure in the New York State Senate (1961-1968). The former contains
-        draft or final copies of the bill, fact sheets, and memos. The clips are predominantly about
-        Curran, his career or banking law. The Curran Papers also include two reports from the Joint
-        Legislative Committee to Revise Banking Law from 1967 and 1968 as well as supplementary
-        material related to that committee's work.</p>
+    <scopecontent id="aspace_aa6df9b5d1ba9048d9f7fd75bd297d50">
+      <head>Scope and Contents</head>
+      <p>The Henry Curran Papers consist of a mixture of sponsored legislation files and news clippings from Curran's tenure in the New York State Senate (1961-1968). The former contains draft or final copies of the bill, fact sheets, and memos. The clips are predominantly about Curran, his career or banking law. The Curran Papers also include two reports from the Joint Legislative Committee to Revise Banking Law from 1967 and 1968 as well as supplementary material related to that committee's work.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_e36e620cf9161f850eca8ccd36901abc">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series:</p>
-      <list type="simple">
-        <item>Series 1 - Legislation, 1961-1968</item>
-        <item>Series 2 - Newspaper Clippings, 1964, 1967-1968</item>
-      </list>
       <p>Series 1 and 2 are both arranged chronologically.</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-           Try to give as many access points as you can to increase the chances of 
-           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-           to comment them out! -->
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Politics and Politicians</subject>
-      <persname encodinganalog="600" source="local">Curran, Henry</persname>
-      <corpname encodinganalog="610" source="lcsh">New York (State). Legislature. Senate </corpname>
-      <corpname encodinganalog="610" source="lcsh">New York (State). Legislature. Senate. Committee
-        on Education </corpname>
-      <corpname encodinganalog="610" source="lcsh">New York (State). Legislature. Senate. Committee
-        on Finance </corpname>
-      <subject encodinganalog="650" source="lcsh">Politicians--New York (State)</subject>
-      <subject encodinganalog="650" source="lcsh">New York (State). Banking law </subject>
-      <geogname encodinganalog="651" source="lcsh">New York (State)--Politics and
-        government</geogname>
-      <geogname encodinganalog="651" source="lcsh">Nassau County (N.Y.)</geogname>
-      <genreform encodinganalog="655" source="aat">Bills (legislative records)</genreform>
-      <genreform encodinganalog="655" source="aat">Clippings</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Congressional committee reports</genreform>
-      <genreform encodinganalog="655" source="aat">Legislative records</genreform>
-    </controlaccess>
-    <prefercite encodinganalog="524">
+    <prefercite id="aspace_6900353b3a6a9e72f8eb35b513421eb8">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Henry Curran Papers, 1961-1968. M.E.
-        Grenander Department of Special Collections and Archives, University Libraries, University
-        at Albany, State University of New York (hereafter referred to as the Curran Papers).</p>
+      <p> Identification of specific item, series, box, folder, Henry Curran Papers, 1961-1968. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Curran Papers).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <!-- Start series 1-->
-      <c01 level="series" id="nam_apap237-1">
+    <controlaccess>
+      <subject source="meg">Politics and Politicians</subject>
+      <subject source="lcsh">Politicians--New York (State)</subject>
+      <subject source="lcsh">New York (State). Banking law</subject>
+      <geogname source="lcsh">New York (State)--Politics and government</geogname>
+      <geogname source="lcsh">Nassau County (N.Y.)</geogname>
+      <genreform source="aat">Bills (legislative records)</genreform>
+      <genreform source="aat">Clippings</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Congressional committee reports</genreform>
+      <genreform source="aat">Legislative Records</genreform>
+      <persname source="local">Curran, Henry</persname>
+      <corpname source="lcsh">New York (State). Legislature. Senate</corpname>
+      <corpname source="lcsh">New York (State). Legislature. Senate. Committee on Education</corpname>
+      <corpname source="lcsh">New York (State). Legislature. Senate. Committee on Finance</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_132fec5cd79a5eefd055bc027bb03eef" level="series">
         <did>
+          <unittitle>Legislation</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Legislation</unittitle>
-          <physdesc>
-            <physfacet> 1 cubic foot </physfacet>
-          </physdesc>
           <unitdate normal="1961/1968" type="inclusive">1961-1968</unitdate>
+          <physdesc>
+            <physfacet id="aspace_ff521d5303a9ced58e1133bfa9151842">1 cubic foot</physfacet>
+          </physdesc>
         </did>
-        <arrangement>
-          <p> Arranged chronologically.</p>
+        <arrangement id="aspace_c30d28bdcd8fc9af43601c66be051456">
+          <head>Arrangement</head>
+          <p>Arranged chronologically.</p>
         </arrangement>
-        <scopecontent>
-          <p>This series consists of legislation that Curran sponsored. Most of the files include
-            draft or final copies of the bill, fact sheets, and memos. These memos are addressed to
-            various parties, such as other legislators. A few press releases are included as well as
-            the Joint Committee to Revise Banking Law reports from 1967 and 1968 and related
-            supplementary materials. This supplemental material consists largely of committee
-            testimony.</p>
+        <scopecontent id="aspace_3a01513a087b346b986c26f5b68d968b">
+          <head>Scope and Contents</head>
+          <p>This series consists of legislation that Curran sponsored. Most of the files include draft or final copies of the bill, fact sheets, and memos. These memos are addressed to various parties, such as other legislators. A few press releases are included as well as the Joint Committee to Revise Banking Law reports from 1967 and 1968 and related supplementary materials. This supplemental material consists largely of committee testimony.</p>
         </scopecontent>
-        <c02 id="nam_apap237-1_1">
+        <c02 id="aspace_91f2980e619daf2bb3852e80690b6c7b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Legislation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961">1961</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_258f1ec85cb7a8b6f7d469ce3abebbc3" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_d0350986f20b9b7aa25fca0e2d1e3208" parent="aspace_258f1ec85cb7a8b6f7d469ce3abebbc3" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap237-1_2">
+        <c02 id="aspace_d6ffa8e719059f322e5befb430eae65d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2-3</container>
             <unittitle>Legislative record</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
+            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+            <container id="aspace_3334a94d17f0422e3d74ab9d223c9a14" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_03a7bc85daf2a8fcca01be01c36e14cd" parent="aspace_3334a94d17f0422e3d74ab9d223c9a14" type="Folder">2-3</container>
           </did>
         </c02>
-        <c02 id="nam_apap237-1_3">
+        <c02 id="aspace_2da7f5276249db2b746d9bdf9bd39639" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4-5</container>
             <unittitle>Legislation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
+            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+            <container id="aspace_eea8491d4604a11d24d09da6b28a4601" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_a22327d75f496e18ac0d9a97983b58bb" parent="aspace_eea8491d4604a11d24d09da6b28a4601" type="Folder">4-5</container>
           </did>
         </c02>
-        <c02 id="nam_apap237-1_4">
+        <c02 id="aspace_78091f30851a0ee58d3356cfed923540" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6-8</container>
             <unittitle>Legislation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963">1963</unitdate>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_6978e48153d81b812d2fc1f85d1b00c2" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_53c948096b4c67870dd6260fdb13aaaa" parent="aspace_6978e48153d81b812d2fc1f85d1b00c2" type="Folder">6-8</container>
           </did>
         </c02>
-        <c02 id="nam_apap237-1_5">
+        <c02 id="aspace_1bba48eaf38895b9fb56c1ffa6f1bbac" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9-11</container>
             <unittitle>Legislative record</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1964</unitdate>
+            <unitdate normal="1962/1962" type="inclusive">1964</unitdate>
+            <container id="aspace_1a1052acdb06830c61f641a5536bb7d9" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_0e5a6cf03afb1462e7563d97a1f715cd" parent="aspace_1a1052acdb06830c61f641a5536bb7d9" type="Folder">9-11</container>
           </did>
         </c02>
-        <c02 id="nam_apap237-1_6">
+        <c02 id="aspace_e3a0bb88350e864775583c489e0fece1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12-13</container>
             <unittitle>Legislation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_54d2fc70fabd287491bf9e37bfeb4dcb" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_cbd0e42a6136e6a6063bd3cd26e77449" parent="aspace_54d2fc70fabd287491bf9e37bfeb4dcb" type="Folder">12-13</container>
           </did>
         </c02>
-        <c02 id="nam_apap237-1_7">
+        <c02 id="aspace_cede306b181d04bc987f178a82443be5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14-15</container>
-            <unittitle>Supplemental materials, Joint Legislative Committee to Revise Banking
-              Laws</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966/1967">1966-1967</unitdate>
+            <unittitle>Supplemental materials, Joint Legislative Committee to Revise Banking Laws</unittitle>
+            <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
+            <container id="aspace_b04be937c5588dacf4ac58e262f97bbb" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_6bb9a046a133c9d4ead0e5b20c49aac9" parent="aspace_b04be937c5588dacf4ac58e262f97bbb" type="Folder">14-15</container>
           </did>
         </c02>
-        <c02 id="nam_apap237-1_8">
+        <c02 id="aspace_fd58239c222d24ffb45de8537dd6aec0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16-17</container>
-            <unittitle>Final Report, Joint Legislative Committee to Revise Banking Laws (1 and 2 of
-              3)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">1967</unitdate>
+            <unittitle>Final Report, Joint Legislative Committee to Revise Banking Laws (1 and 2 of 3)</unittitle>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_990df047644774799c4bc7cbdca8586f" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_9083e20eb1f141d6dc9a9eb8a3e4c48d" parent="aspace_990df047644774799c4bc7cbdca8586f" type="Folder">16-17</container>
           </did>
         </c02>
-        <c02 id="nam_apap237-1_9">
+        <c02 id="aspace_425c0443cb2c525ff36265687ead18d5" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
-            <unittitle>Final Report, Joint Legislative Committee to Revise Banking Laws (3 of
-              3)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">1967</unitdate>
+            <unittitle>Final Report, Joint Legislative Committee to Revise Banking Laws (3 of 3)</unittitle>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_8b1f9b6ce52bedcb63675a6301784666" label="Mixed Materials" type="Box">2 (1-Legislation)</container>
+            <container id="aspace_36ebc7c9d6a713e724a7210a34cc5a54" parent="aspace_8b1f9b6ce52bedcb63675a6301784666" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap237-1_10">
+        <c02 id="aspace_641af2ca935061b65266d69f5ccff87c" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
-            <unittitle>Final Report, Joint Legislative Committee to Revise the Banking
-              Law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968">1968</unitdate>
+            <unittitle>Final Report, Joint Legislative Committee to Revise the Banking Law</unittitle>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_f2691ed7d1300ad3fc82355700c9a022" label="Mixed Materials" type="Box">2 (1-Legislation)</container>
+            <container id="aspace_463e35337222ced978a5084112a5dbaf" parent="aspace_f2691ed7d1300ad3fc82355700c9a022" type="Folder">2</container>
           </did>
         </c02>
       </c01>
-      <!-- Start series 2-->
-      <c01 level="series" id="nam_apap237-2">
+      <c01 id="aspace_f53de9ca2ec5147287b5af2b816ce096" level="series">
         <did>
+          <unittitle>Clippings</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Clippings</unittitle>
-          <physdesc>
-            <physfacet> .8 cu. ft. </physfacet>
-          </physdesc>
-          <unitdate normal="1964" type="inclusive">1964</unitdate>
+          <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
           <unitdate normal="1967/1968" type="inclusive">1967-1968</unitdate>
           <unitdate normal="1961/1968" type="inclusive">Undated</unitdate>
+          <physdesc>
+            <physfacet id="aspace_5185f811ab4864008713477bf4473220">.8 cu. ft.</physfacet>
+          </physdesc>
         </did>
-        <arrangement>
-          <p> Arranged chronologically. </p>
+        <arrangement id="aspace_6f2daf1aa7548e0ad77ade56f90a689c">
+          <head>Arrangement</head>
+          <p>Arranged chronologically.</p>
         </arrangement>
-        <scopecontent>
-          <p>This series is composed entirely of newspaper articles likely sent to Curran or his
-            staff from a news clipping service. Most of the clippings are related to banking law or
-            Curran’s career. There are a few related to adoption. Please note the clippings for the
-            year 1964 cover a variety of topics ranging from obscenity and moral issues to general
-            news. </p>
+        <scopecontent id="aspace_037397e288dc3213e5139fc25c93b1a5">
+          <head>Scope and Contents</head>
+          <p>This series is composed entirely of newspaper articles likely sent to Curran or his staff from a news clipping service. Most of the clippings are related to banking law or Curranâs career. There are a few related to adoption. Please note the clippings for the year 1964 cover a variety of topics ranging from obscenity and moral issues to general news.</p>
         </scopecontent>
-        <c02 id="nam_apap237-2_1">
+        <c02 id="aspace_d56d380970860f0c23e5eb8d22140926" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Adoption</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_ab560c637399308ae7f543bb11ceac73" label="Mixed Materials" type="Box">2 (2-Clippings)</container>
+            <container id="aspace_e865f78b3a6f1c623d9edfc33524fb9a" parent="aspace_ab560c637399308ae7f543bb11ceac73" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap237-2_2">
+        <c02 id="aspace_8a781489fee0a8dc00d5fa1ace1092ac" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4-7</container>
             <unittitle>General newsclippings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_f21fa987169b0d8ecf7d132e5db7082a" label="Mixed Materials" type="Box">2 (2-Clippings)</container>
+            <container id="aspace_8f714a20994860a36660c974b465fc16" parent="aspace_f21fa987169b0d8ecf7d132e5db7082a" type="Folder">4-7</container>
           </did>
         </c02>
-        <c02 id="nam_apap237-2_3">
+        <c02 id="aspace_0ea9a195627e11e228b853ac247852cc" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
             <unittitle>Newsclippings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967-08">1967 August</unitdate>
+            <unitdate normal="1967-08/1967-08" type="inclusive">1967 August</unitdate>
+            <container id="aspace_c87e20f588cf1f42587e3c30656bd5d7" label="Mixed Materials" type="Box">2 (2-Clippings)</container>
+            <container id="aspace_675829679bf04978ede0679e8f1c290a" parent="aspace_c87e20f588cf1f42587e3c30656bd5d7" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap237-2_4">
+        <c02 id="aspace_6382d44725059f5935c7345a9ff497f7" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
             <unittitle>Newsclippings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967-09">1967 September</unitdate>
+            <unitdate normal="1967-09/1967-09" type="inclusive">1967 September</unitdate>
+            <container id="aspace_74f48b2e5bb62a99bfe486be7db3eeca" label="Mixed Materials" type="Box">2 (2-Clippings)</container>
+            <container id="aspace_74f739eee739cc250dd4c1ae1c657067" parent="aspace_74f48b2e5bb62a99bfe486be7db3eeca" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap237-2_5">
+        <c02 id="aspace_c515b510b7d59bce1504d5088074c9e4" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>Newsclippings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967-10">1967 October</unitdate>
+            <unitdate normal="1967-10/1967-10" type="inclusive">1967 October</unitdate>
+            <container id="aspace_2637cab9e1872199614dd19d70693890" label="Mixed Materials" type="Box">3 (2-Clippings)</container>
+            <container id="aspace_770a4cc5ca8f36e7a2c48680c97700bc" parent="aspace_2637cab9e1872199614dd19d70693890" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap237-2_6">
+        <c02 id="aspace_a6dfdc2d7039e10d8ec36a6071c373d1" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>Newsclippings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967-11">1967 November</unitdate>
+            <unitdate normal="1967-11/1967-11" type="inclusive">1967 November</unitdate>
+            <container id="aspace_3f765e226b7d3a78ff505861d22baf02" label="Mixed Materials" type="Box">3 (2-Clippings)</container>
+            <container id="aspace_d6a0f08ef7d821e50c663fefa5a664dc" parent="aspace_3f765e226b7d3a78ff505861d22baf02" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap237-2_7">
+        <c02 id="aspace_2b2f63bf680dd7f48fe1beea1e22f687" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">3</container>
             <unittitle>Newsclippings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967-11/1967-12">1967 November-1967 December</unitdate>
+            <unitdate normal="1967-11/1967-12" type="inclusive">1967 November-1967 December</unitdate>
+            <container id="aspace_5c1d9be2a00e867dd30eea171f3adadc" label="Mixed Materials" type="Box">3 (2-Clippings)</container>
+            <container id="aspace_1da21bd8ce6742fcbc4b9f35f5b047f8" parent="aspace_5c1d9be2a00e867dd30eea171f3adadc" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap237-2_8">
+        <c02 id="aspace_702683c58cbda019b939433b55b6322d" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4-5</container>
             <unittitle>Career</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/1968">1967-1968</unitdate>
+            <unitdate normal="1967/1968" type="inclusive">1967-1968</unitdate>
+            <container id="aspace_66a274971586a0e58e69d294c57fc4c5" label="Mixed Materials" type="Box">3 (2-Clippings)</container>
+            <container id="aspace_e9daa2a9df2d4c7635897674c0d76987" parent="aspace_66a274971586a0e58e69d294c57fc4c5" type="Folder">4-5</container>
           </did>
         </c02>
-        <c02 id="nam_apap237-2_9">
+        <c02 id="aspace_a59465011e2fc5ac25282a605aa22b9e" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">6</container>
             <unittitle>Newsclippings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968-01">1968 January</unitdate>
+            <unitdate normal="1968-01/1968-01" type="inclusive">1968 January</unitdate>
+            <container id="aspace_02bc0aa13c3a8f6dfb5c286b46975021" label="Mixed Materials" type="Box">3 (2-Clippings)</container>
+            <container id="aspace_673e5811acb0bd9d0add1819abc4040e" parent="aspace_02bc0aa13c3a8f6dfb5c286b46975021" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap237-2_10">
+        <c02 id="aspace_d48bf53dfd0cca76fc822afea80955f6" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">7</container>
             <unittitle>Newsclippings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968-02/1968-03">1968 February-1968 March</unitdate>
+            <unitdate normal="1968-02/1968-03" type="inclusive">1968 February-1968 March</unitdate>
+            <container id="aspace_59560f65b253acd7907e97689314fd2d" label="Mixed Materials" type="Box">3 (2-Clippings)</container>
+            <container id="aspace_c395df2a7477c373f543fa151a797643" parent="aspace_59560f65b253acd7907e97689314fd2d" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap237-2_11">
+        <c02 id="aspace_a1b0f744cbcc31d15820ee3ce1a90050" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">8</container>
             <unittitle>Newsclippings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968-03">1968 March</unitdate>
+            <unitdate normal="1968-03/1968-03" type="inclusive">1968 March</unitdate>
+            <container id="aspace_a5eb1ef474a10e838010559cca2b8650" label="Mixed Materials" type="Box">3 (2-Clippings)</container>
+            <container id="aspace_bf031c33eb88a0977d3756824542b955" parent="aspace_a5eb1ef474a10e838010559cca2b8650" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap237-2_12">
+        <c02 id="aspace_ba3d72bd4cc4bdf841d1309517fd4502" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">9</container>
             <unittitle>Newsclippings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968-04">1968 April</unitdate>
+            <unitdate normal="1968-04/1968-04" type="inclusive">1968 April</unitdate>
+            <container id="aspace_af9eeb0fcb726672a0388b2137eec07b" label="Mixed Materials" type="Box">3 (2-Clippings)</container>
+            <container id="aspace_d2ee642eba5c1aae3a47f7e27acffef1" parent="aspace_af9eeb0fcb726672a0388b2137eec07b" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap237-2_13">
+        <c02 id="aspace_746d266f69c357c3f671c82f617ae8d3" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">10</container>
             <unittitle>Newsclippings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961/1968">Undated</unitdate>
+            <unitdate normal="1961/1968" type="inclusive">Undated</unitdate>
+            <container id="aspace_b5d76bd559e4203e160259d9e82f3a1c" label="Mixed Materials" type="Box">3 (2-Clippings)</container>
+            <container id="aspace_c89fdd9f7114c0f82dd7c440446d491d" parent="aspace_b5d76bd559e4203e160259d9e82f3a1c" type="Folder">10</container>
           </did>
         </c02>
       </c01>

@@ -1,91 +1,88 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap336">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/apap336.html">nam_apap336</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap336">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap336.xml">apap336</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>MICHAEL RADELET (APAP336)<date normal="1984/2006" type="inclusive">1984-2006</date></titleproper>
+        <titleproper>Radelet, Michael; Papers <num>apap336</num></titleproper>
         <author>unprocessed</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2016" type="publication">Copyright 2016 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2016</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Brian Keough<date normal="2016-12-26">2016 December 26</date></creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 15:50:51 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2016 December 26</date>
+        <item>Encoded in EAD by Brian Keough</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>Michael Radelet<date normal="1984/2006" type="inclusive">1984-2006</date></titleproper>
-      <publisher/>
-      <date type="publication">Copyright 2016 By the University at Albany, SUNY. All rights reserved.</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap336</unitid>
-      <unittitle>Michael Radelet<unitdate label="Date:" normal="1984/2006" type="inclusive">1984-2006</unitdate></unittitle>
-      <abstract label="Abstract:">This collection contains the papers of Michael Radelet.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <persname encodinganalog="100" source="lcsh">Radelet, Michael </persname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">6</extent>
-      </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Michael Radelet<unitdate normal="1984/2006" type="inclusive">1984-2006</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="lcsh">Radelet, Michael</persname>
+      </origination>
+      <unitid>apap336</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">6 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_24a1eeca2544a7d0dfc4994eaac7f78a">This collection contains the papers of Michael Radelet.</abstract>
+      <langmaterial id="aspace_2847d697b32ffdee6078c0333456cc11">English</langmaterial>
+      <physloc id="aspace_5cc0be8879b5c42407d1aea622f85cc9">The materials are located onsite in the department.</physloc>
+      <container id="aspace_62b2ced93e66a0b81a8ecdd8310cba00" label="Mixed Materials" type="Collection">X</container>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_a8173d9dd21b752c024b7ae331375e7b">
+      <head>Processing Information</head>
+      <p>Processed in 2016 by unprocessed.</p>
+    </processinfo>
+    <accessrestrict id="aspace_47fdf9aa78f98b4d173faecbf4b78607">
       <head>Access</head>
       <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. Please contact an archivist for more information.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_d3b4c4d30ddc39f80a619162a146efd5">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
-      <p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p> The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_ca6f386d4c7e827fee98790179567adb">
       <head>Acquisition Information</head>
       <p>All items in this collection were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_63f62a3c61a2059b291b77f08f6f1fa8">
       <head>Historical Note</head>
-      <p>Michael Radelet is a professor of Sociology at the University of Colorado at Boulder and a long-time scholar of capital punishment, criminology, deviance and the sociology of law, and medical sociology. </p>
+      <p>Michael Radelet is a professor of Sociology at the University of Colorado at Boulder and a long-time scholar of capital punishment, criminology, deviance and the sociology of law, and medical sociology.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_c6b2b4a46a64d59c3d1a1b9e26b75489">
+      <head>Scope and Contents</head>
       <p>The collection contains research materials on capital punishment cases analyzed for inclusion in articles or book chapters, including Executions of Whites for Crimes Against Blacks (1989), Executive Clemency in Post-Furman Cases (1993), and On Botched Executions (with co-author Marian J. Borg) which appeared in Capital Punishment, Strategies for Abolition. The collection also features copies of the scholarly works and correspondence related to their publication.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_df00bee2466e09aca8f764114ff9c288">
       <head>Arrangement of the Collection</head>
       <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <prefercite>
+    <prefercite id="aspace_d5ce32c93fd266c41a14524c3a4db2b4">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Michael Radelet, 1984-2006. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Michael Radelet).</p>
+      <p> Identification of specific item, series, box, folder, Michael Radelet, 1984-2006. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Michael Radelet).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Death Penalty</subject>
-      <subject source="lcsh" encodinganalog="650">Capital Punishment</subject>
+      <subject source="meg">Death Penalty</subject>
+      <subject source="lcsh">Capital punishment</subject>
     </controlaccess>
+    <dsc/>
   </archdesc>
 </ead>

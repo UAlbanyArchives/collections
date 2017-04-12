@@ -1,359 +1,340 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap090">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="nalsu" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" url="http://library.albany.edu/speccoll/findaids/apap090.xml" identifier="##">nam_apap090</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap090">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap090.xml">apap090</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>THOMAS E. MULLIGAN PAPERS (APAP090)<date normal="1941/1973" type="inclusive">1941-1973</date></titleproper>
+        <titleproper>Mulligan, Thomas E., Jr.; Papers <num>apap090</num></titleproper>
         <author>Rosann Santos</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2012">Copyright 2012 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2012</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Helen Strother<date normal="2012">2012</date>
-			</creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 14:13:18 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2012</date>
+        <item>Encoded in EAD by Helen Strother</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>THOMAS E. MULLIGAN PAPERS (APAP090)<date normal="1941/1973" type="inclusive">1941-1973</date></titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2012</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap090</unitid>
-      <unittitle>Thomas E. Mulligan Papers<unitdate type="inclusive" normal="1941/1973" label="Date:"> 1941-1973</unitdate></unittitle>
-      <origination>
-        <persname encodinganalog="100" source="lcsh">Mulligan, Thomas E., 1918-1985</persname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">1</extent>
-      </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">The Thomas E. Mulligan Papers document Mulligan's life from 1941 to 1973 including his two unsucessful political campaigns, one for Mayor of Albany and the other for assemblyman.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Thomas E. Mulligan Papers<unitdate normal="1941/1973" type="inclusive">1941-1973</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="lcsh">Mulligan, Thomas E., 1918-1985</persname>
+      </origination>
+      <unitid>apap090</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_a5b28b5c5b78381ed5943ddaa8c3b212">The Thomas E. Mulligan Papers document Mulligan's life from 1941 to 1973 including his two unsucessful political campaigns, one for Mayor of Albany and the other for assemblyman.</abstract>
+      <langmaterial id="aspace_dd5fb76f232e9187f5f2287e2b3cd8ac">English</langmaterial>
+      <physloc id="aspace_a190f26430a33a88db01565ffb87405d">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_e4485ed6d716e6f36fdf767d989aa3e6">
+      <head>Processing Information</head>
+      <p>Processed in 2012 by Rosann Santos.</p>
+    </processinfo>
+    <accessrestrict id="aspace_c47c225cdeb339c35e8e73f83b158c36">
       <head>Access</head>
-      <p> Access to this record group is unrestricted. </p>
+      <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_6bff71d754b6a7915f4f75fbb624a5f7">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.  Whenever possible, the M.E. Grenander Department of Special Collections and Archives will  provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_3baabe9cbb949d2b178439c5fecc05ec">
       <head>Acquisition Information</head>
-      <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by William Kennedy in 1985. </p>
+      <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by William Kennedy in 1985.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_f1c8643e9f63ad65046fbe7512dcc71c">
       <head>Biographical History</head>
       <p>Thomas "Ed" Mulligan, Jr. (1818-1985) was an Albany Republican who made two unsuccessful attempts to become elected to political office. He hoped to eventually overthrow the reigning O'Connell/Corning Democratic Political Machine. In his first race, in 1953, he ran for Mayor of Albany against the long-standing Democratic favorite Erastus Corning and surprised the city with a powerful campaign that drew more votes than any previous Republican candidate running for that position against Corning. </p>
-      <p>Born on March 6, 1918, in Albany, New York, Mulligan attended St. Theresa's Parochial School, Christian Brothers Academy and Siena College where he received the Sigma Omega Achievement Award and was elected night college President as well as night editor of the Siena News. Prior to entering the United States Air Force in 1940, Mulligan worked for radio stations WOKO and WABY and as a staff reporter for the Knickerbocker News. During World War II, he served as a B-17 bomber pilot until he was shot down and taken prisoner by the Germans in 1943. In 1951, Mulligan served as Chairman of the Publicity Committee for the Salvation Army Drive. In 1952, he founded the Albany County Eisenhower Committee and was appointed to the New York State Merit Award Board and the New York State Personnel Relations Board by Gov. Thomas E. Dewey. When nominated by the Republican Party to run for Mayor in 1953, Mulligan was employed as a publicity agent for the New York Department of State. He resigned from this position in order to campaign on July 30, 1953, the day his nomination was announced. The 1953 campaign was filled with accusations of corruption against the Democratic city government in areas such as fire safety in the public schools, traffic and highway department neglect, and understaffing of the city police and fire departments. </p>
-      <p>He lost the race to Mayor Corning by over thirty-four thousand votes. Mulligan returned to his state publicity job until he was fired by Edward S. Conway, the Republican GOP Chairman, in 1964, at the start of his second political campaign after challenging Conway's leadership of the party. Mulligan lost the 1965 election for assemblyman to Edward Rook, although this campaign was, as was his first, a heated struggle.</p>
-      <p>Upon his death, on April 22, 1985, the ownership of Thomas Mulligan's personal papers transferred to author William Kennedy pursuant to provisions in Mulligan's will. Mr. Kennedy then donated the collection to the University Libraries, State University of New York at Albany. </p>
+      <p> Born on March 6, 1918, in Albany, New York, Mulligan attended St. Theresa's Parochial School, Christian Brothers Academy and Siena College where he received the Sigma Omega Achievement Award and was elected night college President as well as night editor of the Siena News. Prior to entering the United States Air Force in 1940, Mulligan worked for radio stations WOKO and WABY and as a staff reporter for the Knickerbocker News. During World War II, he served as a B-17 bomber pilot until he was shot down and taken prisoner by the Germans in 1943. In 1951, Mulligan served as Chairman of the Publicity Committee for the Salvation Army Drive. In 1952, he founded the Albany County Eisenhower Committee and was appointed to the New York State Merit Award Board and the New York State Personnel Relations Board by Gov. Thomas E. Dewey. When nominated by the Republican Party to run for Mayor in 1953, Mulligan was employed as a publicity agent for the New York Department of State. He resigned from this position in order to campaign on July 30, 1953, the day his nomination was announced. The 1953 campaign was filled with accusations of corruption against the Democratic city government in areas such as fire safety in the public schools, traffic and highway department neglect, and understaffing of the city police and fire departments. </p>
+      <p> He lost the race to Mayor Corning by over thirty-four thousand votes. Mulligan returned to his state publicity job until he was fired by Edward S. Conway, the Republican GOP Chairman, in 1964, at the start of his second political campaign after challenging Conway's leadership of the party. Mulligan lost the 1965 election for assemblyman to Edward Rook, although this campaign was, as was his first, a heated struggle.</p>
+      <p> Upon his death, on April 22, 1985, the ownership of Thomas Mulligan's personal papers transferred to author William Kennedy pursuant to provisions in Mulligan's will. Mr. Kennedy then donated the collection to the University Libraries, State University of New York at Albany.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_3e87b751d4f5d57eabf24883566c8b32">
+      <head>Scope and Contents</head>
       <p>Included in the collection are: direct correspondence, between Mr. Mulligan and others and also third-party correspondence, between other persons about Mulligan, dated between 1946 and 1971; campaign promotion materials, including scripts of radio programs, political advertisements, leaflets, buttons and photos, which represent a large portion of the papers but are undated; newspaper clippings about Mulligan dating from 1952 to 1967; various subject files composed mainly of investigations conducted by Mulligan into city corruption; and some personal memorabilia. There are also some black and white photos included in the collection. </p>
-      <p>Series one is made up of correspondence dating from 1946-1971. The series is divided into direct correspondence (November 1946 to May 1973) and third-party correspondence (August 1953 to June 1971). Some of the correspondence is undated. Series two includes campaign materials (undated). The file contains promotional materials about Mulligan and TV and radio address made by Mulligan in 1953. Series three is a collection of newspaper clippings spanning from 1952-1967. Series four is made up of subject files (1941-1973). The folders contain personal memorabilia, candidate lists, Albany Public School Citizens Committee information, Salvation Army promotional materials, information on the Republican Committee, grievances against city agencies, Pine Bush Land Grab Story, sales tax delinquency, snow removal contract deals, Albany Housing Authority, and Andrew M. Pickney Resignation, 1972-1973. Some of these files also contain black and white photographs. </p>
+      <p> Series one is made up of correspondence dating from 1946-1971. The series is divided into direct correspondence (November 1946 to May 1973) and third-party correspondence (August 1953 to June 1971). Some of the correspondence is undated. Series two includes campaign materials (undated). The file contains promotional materials about Mulligan and TV and radio address made by Mulligan in 1953. Series three is a collection of newspaper clippings spanning from 1952-1967. Series four is made up of subject files (1941-1973). The folders contain personal memorabilia, candidate lists, Albany Public School Citizens Committee information, Salvation Army promotional materials, information on the Republican Committee, grievances against city agencies, Pine Bush Land Grab Story, sales tax delinquency, snow removal contract deals, Albany Housing Authority, and Andrew M. Pickney Resignation, 1972-1973. Some of these files also contain black and white photographs.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_f61e73d85e65809bd0ea862166e5ae91">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series:</p>
-      <list type="simple">
-        <item>Series 1:  Correspondence, 1946-1971</item>
-        <item>Series 2:  Campaign Materials, 1953 and undated</item>
-        <item>Series 3:  Newspaper Clippings, 1952-1967</item>
-        <item>Series 4:  Subject Files, 1941-1973</item>
-      </list>
       <p>All series are arranged chronologically.</p>
     </arrangement>
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Public Servants </subject>
-      <subject source="meg" encodinganalog="650">Albany, New York</subject>
-      <persname encodinganalog="600" source="lcsh">Mulligan, Thomas E., 1918-1985</persname>
-      <subject encodinganalog="650" source="lcsh">Albany (N.Y.)--History</subject>
-      <subject encodinganalog="650" source="lcsh">Albany (N.Y.) Office of the Mayor</subject>
-      <subject encodinganalog="650" source="lcsh">Albany (N.Y.) Politics and government--20th century</subject>
-      <geogname encodinganalog="651" source="lcsh">Albany (N.Y.)</geogname>
-      <genreform encodinganalog="655" source="aat">Scripts, Television</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Clippings</genreform>
-      <genreform encodinganalog="655" source="aat">Promotional Materials</genreform>
-      <genreform encodinganalog="655" source="aat">Notes</genreform>
-      <genreform encodinganalog="655" source="aat">Minutes</genreform>
-      <genreform encodinganalog="655" source="aat">Political Campaigns</genreform>
-      <genreform encodinganalog="655" source="aat">Financial Records</genreform>
-      <genreform encodinganalog="655" source="aat">Photographs</genreform>
-    </controlaccess>
-    <prefercite>
+    <prefercite id="aspace_3ee646dac0918ae360897d4e30e86db4">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Thomas E. Mulligan Papers,  1941-1973. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, Thomas E. Mulligan Papers, 1941-1973. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <!-- Start series 1-->
-      <c01 level="series" id="nam_apap090-1">
+    <controlaccess>
+      <subject source="meg">Public Servants</subject>
+      <subject source="meg">Albany, New York</subject>
+      <subject source="lcsh">Albany (N.Y.)--History</subject>
+      <subject source="lcsh">Albany (N.Y.) Office of the Mayor</subject>
+      <subject source="lcsh">Albany (N.Y.) Politics and government--20th century</subject>
+      <geogname source="lcsh">Albany (N.Y.)</geogname>
+      <genreform source="aat">Scripts, Television</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Clippings</genreform>
+      <genreform source="aat">Promotional Materials</genreform>
+      <genreform source="aat">Notes</genreform>
+      <genreform source="aat">Minutes</genreform>
+      <genreform source="aat">Political Campaigns</genreform>
+      <genreform source="aat">Financial Records</genreform>
+      <genreform source="aat">Photographs</genreform>
+      <persname source="lcsh">Mulligan, Thomas E., 1918-1985</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ec1904f9aab51bd311f1e4866db1dc92" level="series">
         <did>
+          <unittitle>Correspondence</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Correspondence</unittitle>
-          <unitdate type="inclusive" normal="1946/1971">1946-1971</unitdate>
-          <!-- <physdesc><extent>1.61 cubic feet</extent></physdesc> -->
+          <unitdate normal="1946/1971" type="inclusive">1946-1971</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_1e193d9c6359838ba63c0be3fa6a25b9">
+          <head>Arrangement</head>
           <p>Arranged chronologically where possible.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_1d0437eb6d67d6bc3cb4811bce70087e">
+          <head>Scope and Contents</head>
           <p>Series one is made up of correspondence dating from 1946-1971. The series is divided into direct correspondence (November 1946 to May 1973) and third-party correspondence (August 1953 to June 1971). Some of the correspondence is undated.</p>
         </scopecontent>
-        <c02 id="nam_apap090-1_1">
+        <c02 id="aspace_cb0ba1ebd2775f8fe902abace6a9bdd2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Direct Correspondence, November 1946 to September 1953</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="194611/195309">November 1946-September 1953</unitdate>
+            <unitdate type="inclusive">November 1946-September 1953</unitdate>
+            <container id="aspace_ff0940db8e84bd757aea07ecfecc3de9" label="Mixed Materials" type="Box">1 (1-Correspondence)</container>
+            <container id="aspace_f3c86ee5b2f2fd8705198370428e148b" parent="aspace_ff0940db8e84bd757aea07ecfecc3de9" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap090-1_2">
+        <c02 id="aspace_e3a5383b29010daa99935c5279e6ab0b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Direct Correspondence, October 1953 to May 1973 and undated</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="195310/197305">October 1953-May 1973</unitdate>
-            <unitdate type="inclusive" normal="1941/1973">Undated</unitdate>
+            <unitdate type="inclusive">October 1953-May 1973</unitdate>
+            <unitdate normal="1941/1973" type="inclusive">Undated</unitdate>
+            <container id="aspace_6f02a33f9c83489b481fa9462886c5fc" label="Mixed Materials" type="Box">1 (1-Correspondence)</container>
+            <container id="aspace_a1fa96d552e48741ee0b88bcb98c6e3f" parent="aspace_6f02a33f9c83489b481fa9462886c5fc" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap090-1_3">
+        <c02 id="aspace_fd79e0eb61b3c3b97f922b1a334254ac" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Third-party Correspondence, August 1953 to June 1971 and undated</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="195308/197106">August 1953-June 1971</unitdate>
-            <unitdate type="inclusive" normal="1941/1973">Undated</unitdate>
+            <unitdate type="inclusive">August 1953-June 1971</unitdate>
+            <unitdate normal="1941/1973" type="inclusive">Undated</unitdate>
+            <container id="aspace_716ee39dd4d8515caa16a9acf5adbf6a" label="Mixed Materials" type="Box">1 (1-Correspondence)</container>
+            <container id="aspace_22c587089652c38a55921563ff7a8f5c" parent="aspace_716ee39dd4d8515caa16a9acf5adbf6a" type="Folder">3</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap090-2">
+      <c01 id="aspace_f5cd5e2b56b2c1f99291dc8237d3a633" level="series">
         <did>
+          <unittitle>Campaign Materials, 1953 and undated</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Campaign Materials, 1953 and undated</unittitle>
-          <unitdate type="inclusive" normal="1953">1953</unitdate>
-          <unitdate type="inclusive" normal="1941/1973">Undated</unitdate>
-          <!--<physdesc><extent>4.60 cubic feet</extent></physdesc> -->
+          <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+          <unitdate normal="1941/1973" type="inclusive">Undated</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_cdf3eca3b49e6e67189fea82102c478f">
+          <head>Arrangement</head>
           <p>Arranged chronologically where possible.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_b82db241994b0c25a95245fc7c303977">
+          <head>Scope and Contents</head>
           <p>Series two includes campaign materials (undated). The file contains promotional materials about Mulligan and TV and radio address made by Mulligan in 1953.</p>
         </scopecontent>
-        <c02 id="nam_apap090-2_1">
+        <c02 id="aspace_52e352eebf16e3e04970bd76a60d8305" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Drafts of Television Addresses, 1953</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1953">1953</unitdate>
+            <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+            <container id="aspace_c462dac5f072ba0c55e132eb2598d043" label="Mixed Materials" type="Box">1 (2-Campaign Materials, 1953 and undated)</container>
+            <container id="aspace_4fd8298b1a3e9b7862864c2f8bb320a5" parent="aspace_c462dac5f072ba0c55e132eb2598d043" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap090-2_2">
+        <c02 id="aspace_05301bfb5ebf357f1c6f97f1094cab04" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Final Scripts of Television Addresses, 1953</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1953">1953</unitdate>
+            <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+            <container id="aspace_c9efbfbc205258efc3f9ead17d73cbe4" label="Mixed Materials" type="Box">1 (2-Campaign Materials, 1953 and undated)</container>
+            <container id="aspace_7d515a00d73af00c5d7077c5e16a268f" parent="aspace_c9efbfbc205258efc3f9ead17d73cbe4" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap090-2_3">
+        <c02 id="aspace_84099732166767b1b1eca2726a2e1f88" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Handwritten Notes and Telephone Messages</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941/1973">Undated</unitdate>
+            <unitdate normal="1941/1973" type="inclusive">Undated</unitdate>
+            <container id="aspace_6befdf990a06a4ce6fb18a3cd4992eac" label="Mixed Materials" type="Box">1 (2-Campaign Materials, 1953 and undated)</container>
+            <container id="aspace_b71676e93ebcfb0818163b7db525ab24" parent="aspace_6befdf990a06a4ce6fb18a3cd4992eac" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap090-2_4">
+        <c02 id="aspace_0cc8de77a706ac220be953c0cf411ed7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Promotional Materials About Mulligan</unittitle>
-            <unitdate type="inclusive" normal="1941/1973">Undated</unitdate>
+            <unitdate normal="1941/1973" type="inclusive">Undated</unitdate>
+            <container id="aspace_eddfee725f2186bacc8c02c974016518" label="Mixed Materials" type="Box">1 (2-Campaign Materials, 1953 and undated)</container>
+            <container id="aspace_2d800c705ea095e84293d402ec2f37f3" parent="aspace_eddfee725f2186bacc8c02c974016518" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap090-2_5">
+        <c02 id="aspace_b26d4624e06e9aaa42cb64172a60fe9c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Promotional Materials About the Republican Party</unittitle>
-            <unitdate type="inclusive" normal="1941/1973">Undated</unitdate>
+            <unitdate normal="1941/1973" type="inclusive">Undated</unitdate>
+            <container id="aspace_40ebcfe7ec131ca15a70fc7f0759ae46" label="Mixed Materials" type="Box">1 (2-Campaign Materials, 1953 and undated)</container>
+            <container id="aspace_926cc316ff673d8478ef2dcc0d21cfe3" parent="aspace_40ebcfe7ec131ca15a70fc7f0759ae46" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap090-2_6">
+        <c02 id="aspace_6ea1ccd1ee0b8a35e1884efee1340878" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Proposed Advertising Schedules, Price Lists and Bills, 1953</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1953">1953</unitdate>
+            <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+            <container id="aspace_efda39e10cbca2da803a5e5f2bbaec99" label="Mixed Materials" type="Box">1 (2-Campaign Materials, 1953 and undated)</container>
+            <container id="aspace_b9260594f9436b83c9df047ec2461b16" parent="aspace_efda39e10cbca2da803a5e5f2bbaec99" type="Folder">9</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap090-3">
+      <c01 id="aspace_9311124b79c9817fb68cc96a3f650aef" level="series">
         <did>
+          <unittitle>Newspaper Clippings, 1952-1967</unittitle>
           <unitid>3</unitid>
-          <unittitle label="Series">Newspaper Clippings, 1952-1967</unittitle>
-          <unitdate type="inclusive" normal="1952/1967">1952-1967</unitdate>
-          <!-- <physdesc><extent>1.14 cubic feet</extent></physdesc> -->
+          <unitdate normal="1952/1967" type="inclusive">1952-1967</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_c7c6969b6511119f2dcde6ce8bbcee16">
+          <head>Arrangement</head>
           <p>Arranged chronologically.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_97f3a0f47789aa56c0e21ad09e7962b4">
+          <head>Scope and Contents</head>
           <p>Series three is a collection of newspaper clippings spanning from 1952-1967.</p>
         </scopecontent>
-        <c02 id="nam_apap090-3_1">
+        <c02 id="aspace_c075ac8b25b4f816eb74df52b557693a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>June 1952 to December 1953</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="195206/195312">June 1952-December 1953</unitdate>
+            <unitdate type="inclusive">June 1952-December 1953</unitdate>
+            <container id="aspace_ce84fa284032e66403e87c373684446c" label="Mixed Materials" type="Box">1 (3-Newspaper Clippings, 1952-1967)</container>
+            <container id="aspace_931a1098048847e02d97b414d6110aea" parent="aspace_ce84fa284032e66403e87c373684446c" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap090-3_2">
+        <c02 id="aspace_482050fe3e62c40a8d33082d757a0d2f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>January 1954 to November 1967</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="195401/196711">January 1954-November 1967</unitdate>
+            <unitdate type="inclusive">January 1954-November 1967</unitdate>
+            <container id="aspace_f7693d525de84e5b766288f64c8c9382" label="Mixed Materials" type="Box">1 (3-Newspaper Clippings, 1952-1967)</container>
+            <container id="aspace_f2b1f8523f55cc491ae02f94901d647e" parent="aspace_f7693d525de84e5b766288f64c8c9382" type="Folder">11</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap090-4">
+      <c01 id="aspace_189e58a774687f84727cd38cd510e710" level="series">
         <did>
+          <unittitle>Subject Files, 1941-1973</unittitle>
           <unitid>4</unitid>
-          <unittitle label="Series">Subject Files, 1941-1973</unittitle>
           <unitdate normal="1941/1973" type="inclusive">1941-1973</unitdate>
         </did>
-        <arrangement>
-          <p>Folders are arranged alphabetically.  Material within folders is arranged chronologically.</p>
+        <arrangement id="aspace_cb3f18888426e4234b4f44e26a776c1a">
+          <head>Arrangement</head>
+          <p>Folders are arranged alphabetically. Material within folders is arranged chronologically.</p>
         </arrangement>
-        <scopecontent>
-          <p>Series four is made up of subject files (1941-1973). The folders contain personal memorabilia, candidate lists, Albany Public School Citizens Committee information, Salvation Army promotional materials, information on the Republican Committee, grievances against city agencies, Pine Bush Land Grab Story, sales tax delinquency, snow removal contract deals, Albany Housing Authority, and Andrew M. Pickney Resignation, 1972-1973. Some of these files also contain black and white photographs. </p>
+        <scopecontent id="aspace_a67720e5886c00ebc5def34a6a817649">
+          <head>Scope and Contents</head>
+          <p>Series four is made up of subject files (1941-1973). The folders contain personal memorabilia, candidate lists, Albany Public School Citizens Committee information, Salvation Army promotional materials, information on the Republican Committee, grievances against city agencies, Pine Bush Land Grab Story, sales tax delinquency, snow removal contract deals, Albany Housing Authority, and Andrew M. Pickney Resignation, 1972-1973. Some of these files also contain black and white photographs.</p>
         </scopecontent>
-        <c02 id="nam_apap090-4_1">
+        <c02 id="aspace_573a6aee46ec836610fb047c512370c7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Albany Housing Authority, 1970</unittitle>
-            <unitdate normal="1970" type="inclusive">1970</unitdate>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_4ab8410a50792493f15d62dd311c3fd4" label="Mixed Materials" type="Box">1 (4-Subject Files, 1941-1973)</container>
+            <container id="aspace_715a3ab5c6eeb05ed8c090c280c7b0f0" parent="aspace_4ab8410a50792493f15d62dd311c3fd4" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap090-4_2">
+        <c02 id="aspace_f389e5eea6dc68bbceb36a3217d03b5a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Albany Public School Citizens, Committee, 1949-1954</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1949/1954">1949-1954</unitdate>
+            <unitdate normal="1949/1954" type="inclusive">1949-1954</unitdate>
+            <container id="aspace_9a006edbdd2aa6b96fc00ee704a301a2" label="Mixed Materials" type="Box">1 (4-Subject Files, 1941-1973)</container>
+            <container id="aspace_6da3516f151b105c39ab06e1bb6ef9df" parent="aspace_9a006edbdd2aa6b96fc00ee704a301a2" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap090-4_3">
+        <c02 id="aspace_1967ad785b516a7d228977a9e26e26a3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Complaints Against City Agencies, 1953</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1953">1953</unitdate>
+            <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+            <container id="aspace_5f73b22a079fdc48b6919eff21b1e6d5" label="Mixed Materials" type="Box">1 (4-Subject Files, 1941-1973)</container>
+            <container id="aspace_50d96dccde05ca1831b5fbc614da2280" parent="aspace_5f73b22a079fdc48b6919eff21b1e6d5" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap090-4_4">
+        <c02 id="aspace_fe96acacb179659543852eb38bb63722" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
-            <unittitle>Lists of Candidates, Labor Committee, Members and Albany County Canvass of Voters, 1946-1953 
-						</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946/1953">1946-1953</unitdate>
+            <unittitle>Lists of Candidates, Labor Committee, Members and Albany County Canvass of Voters, 1946-1953</unittitle>
+            <unitdate normal="1946/1953" type="inclusive">1946-1953</unitdate>
+            <container id="aspace_a9c86ef55969fa25250bd5fb00ed837f" label="Mixed Materials" type="Box">1 (4-Subject Files, 1941-1973)</container>
+            <container id="aspace_758fed7765ae69165b54b9bad2a12a07" parent="aspace_a9c86ef55969fa25250bd5fb00ed837f" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap090-4_5">
+        <c02 id="aspace_49c84fda823854c4913d1b0ca953927f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Personal Memorabilia, 1941-1956</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1941/1956">1941-1956</unitdate>
+            <unitdate normal="1941/1956" type="inclusive">1941-1956</unitdate>
+            <container id="aspace_3a8fbe3fe979ecab961372def4bc0d62" label="Mixed Materials" type="Box">1 (4-Subject Files, 1941-1973)</container>
+            <container id="aspace_e1c40aa8b4ad593ead5e648c9a466687" parent="aspace_3a8fbe3fe979ecab961372def4bc0d62" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap090-4_6">
+        <c02 id="aspace_f08ed3ceab2c8e82389d325a97037f04" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>Pickney, Andrew M. Resignation, 1972-1973</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972/1973">1972-1973</unitdate>
+            <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
+            <container id="aspace_e8d5449210b61cd0db7faf0d550ed1a1" label="Mixed Materials" type="Box">1 (4-Subject Files, 1941-1973)</container>
+            <container id="aspace_68919c69c9a49901e578b195f1ee9edb" parent="aspace_e8d5449210b61cd0db7faf0d550ed1a1" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap090-4_7">
+        <c02 id="aspace_0415a691d9a266556553cafd608859f0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>Pine Bush Land Grab Story, 1955-1971</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1955/1971">1955-1971</unitdate>
+            <unitdate normal="1955/1971" type="inclusive">1955-1971</unitdate>
+            <container id="aspace_27a091b04f0756f309d894839d99542a" label="Mixed Materials" type="Box">1 (4-Subject Files, 1941-1973)</container>
+            <container id="aspace_f2be30c3f9da6a944ed76536ac1ebb5a" parent="aspace_27a091b04f0756f309d894839d99542a" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap090-4_8">
+        <c02 id="aspace_7649b708c57b970fb3c20421e838e953" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
-            <unittitle> Republican Committee Materials, 1952-1967</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1952/1967">1952-1967</unitdate>
+            <unittitle>Republican Committee Materials, 1952-1967</unittitle>
+            <unitdate normal="1952/1967" type="inclusive">1952-1967</unitdate>
+            <container id="aspace_0bb71f52665060be6664d617bb70615e" label="Mixed Materials" type="Box">1 (4-Subject Files, 1941-1973)</container>
+            <container id="aspace_efda7f7154a9b7d4bd9b4974263e2291" parent="aspace_0bb71f52665060be6664d617bb70615e" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap090-4_9">
+        <c02 id="aspace_412e845151f85a1dbd1079de92e9a7bc" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>Salvation Army Promotion Materials, 1951-1952</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951/1952">1951-1952</unitdate>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_b3e2c886c33cdf891a548211a5071b2f" label="Mixed Materials" type="Box">1 (4-Subject Files, 1941-1973)</container>
+            <container id="aspace_88f1a6121974d02fe4c8756446afd464" parent="aspace_b3e2c886c33cdf891a548211a5071b2f" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap090-4_10">
+        <c02 id="aspace_89fa4486588efcc25c7e6ea435dccc9a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>Sales Tax Delinquency, 1960-1972</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960/1972">1960-1972</unitdate>
+            <unitdate normal="1960/1972" type="inclusive">1960-1972</unitdate>
+            <container id="aspace_197e864026390b7a8fd004b056d1bc28" label="Mixed Materials" type="Box">1 (4-Subject Files, 1941-1973)</container>
+            <container id="aspace_7c797504fc6cf0a70df074379680a9af" parent="aspace_197e864026390b7a8fd004b056d1bc28" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap090-4_11">
+        <c02 id="aspace_886234225764a11e0fe969713ef92105" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>Snow Removal Contract Deals, 1969-1970</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1970">1969-1970</unitdate>
+            <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
+            <container id="aspace_4eb1e747c6657f144f9d3b115f543e38" label="Mixed Materials" type="Box">1 (4-Subject Files, 1941-1973)</container>
+            <container id="aspace_1515c881c57c59e30edc595454214fbf" parent="aspace_4eb1e747c6657f144f9d3b115f543e38" type="Folder">22</container>
           </did>
         </c02>
       </c01>

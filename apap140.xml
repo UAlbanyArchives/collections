@@ -1,777 +1,679 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap140">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap140.xml" identifier="##">nam_apap140</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap140">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap140.xml">apap140</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>HENRY M. MADEJ PAPERS (APAP140)<date normal="1975/2008" type="inclusive">1975-2008</date></titleproper>
+        <titleproper>Madej, Henry M.; Papers <num>apap140</num></titleproper>
         <author>Chloe Pfendler</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2013">Copyright 2013 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2013</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Chloe Pfendler<date normal="2013">2013</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 14:40:51 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2013-09">September 2013</date>
-        <item> The finding aid for this collection was updated by Samantha Brown
-          after items about Albany's Tricentennial were added to the collection. Changes were 
-          made to the Abstract, Scope and Content Note, Biographical Sketch, and Container List.
-        </item>
+        <date>September 2013</date>
+        <item>The finding aid for this collection was updated by Samantha Brown after items about Albany's Tricentennial were added to the collection. Changes were made to the Abstract, Scope and Content Note, Biographical Sketch, and Container List.</item>
+      </change>
+      <change>
+        <date>2013</date>
+        <item>Encoded in EAD by Chloe Pfendler</item>
       </change>
     </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>HENRY M. MADEJ PAPERS (APAP140)<date normal="1975/2008" type="inclusive">1975-2008</date>
-      </titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2013</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap140</unitid>
-      <unittitle>Henry M. Madej Papers <unitdate type="inclusive" normal="1975/2008" label="Date:">
-          1975-2008</unitdate>
-      </unittitle>
-      <physdesc label="Physical Characteristics:">
-        <extent unit="cubic ft.">2.93</extent>
-      </physdesc>
-      <origination>
-        <persname encodinganalog="100" source="local">Madej, Henry M.</persname>
-      </origination>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">The Henry M. Madej papers contain documents pertaining to 
-        his work with the Albany City Charter Revision Commission, the Pine Hills Neighborhood
-        Association, and the Albany Tricentennial Commission. The documents in this collection
-        include professional correspondence, newspaper clippings, meeting minutes, agendas, 
-        document drafts, press releases, newsletters, pamphlets, memorabilia, magazines, 
-        invitations, schedules, event plans,  and handwritten notes as well  other materials 
-        that document his involvement with the city of Albany, New York and the University at Albany 
-        community. 
-      </abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Henry M. Madej Papers<unitdate normal="1975/2008" type="inclusive">1975-2008</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="local">Madej, Henry M.</persname>
+      </origination>
+      <unitid>apap140</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.93 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_41b3301133e5472f19a24faa342e8398">The Henry M. Madej papers contain documents pertaining to his work with the Albany City Charter Revision Commission, the Pine Hills Neighborhood Association, and the Albany Tricentennial Commission. The documents in this collection include professional correspondence, newspaper clippings, meeting minutes, agendas, document drafts, press releases, newsletters, pamphlets, memorabilia, magazines, invitations, schedules, event plans, and handwritten notes as well other materials that document his involvement with the city of Albany, New York and the University at Albany community.</abstract>
+      <langmaterial id="aspace_37c358709d5ff20b9776772305324e87">English</langmaterial>
+      <physloc id="aspace_334f51d5ab3c08a4e9c8472c49042402">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_b4bb1d88393bd582c8b0d4447340e707">
+      <head>Processing Information</head>
+      <p>Processed in 2013 by Chloe Pfendler.</p>
+    </processinfo>
+    <accessrestrict id="aspace_c9d2e5e40cb01d1827d78effacad9dad">
       <head>Access</head>
-      <p> Access to this record group is unrestricted. </p>
+      <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_dc6fec6dae19535c0c82c1fa1666b078">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_94888d602893878d6a39c724ccfba888">
       <head>Acquisition Information</head>
-      <p>Henry M. Madej began donating his papers to the M.E. Grenander Department of Special
-        Collections in 2002, and has continued to make subsequent donations. </p>
+      <p>Henry M. Madej began donating his papers to the M.E. Grenander Department of Special Collections in 2002, and has continued to make subsequent donations.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_6ed84a03e525d65a6d71660846ba9ce0">
       <head>Biographical Sketch</head>
-      <p>Henry Madej, an alumnus of the University at Albany, received his bachelor of arts degree
-        in 1967 and his master of public administration degree in 1969. An inductee to the Alpha Phi
-        Gamma Journalism Fraternity and a supporter of the University at Albany campus community,
-        Madej was recognized in 1986 for fifteen years of service to the University Alumni Council.
-        Madej served as deputy director, New York State Assembly Research Service, and later as
-        legislative director for a New York State Assemblyperson.</p>
-      <p> A long-time Albany resident, Madej has been extremely active in the city's Pine Hills
-        Neighborhood Association, serving a term as president of the organization. The Pine Hills
-        Neighborhood Association covers the neighborhood adjacent to the University at Albany's
-        Downtown Campus and is a mix of student housing, long-term residents, and commercial areas. </p>
-      <p> Because of his involvement with the Pine Hills Neighborhood Association, Madej became 
-        involved with planning Albany's Tricentennial celebration and was the Pine Hills representative 
-        to the Tricentennial Commission. As Pine Hills representative, Madej helped decide which
-        banners that would be used in his neighboorhood and where they would be placed. In addition, Madej also assisted with
-        scheduling events that would take place throughout the year for the Tricentennial.</p>
-      <p> Madej was also involved with other citywide initiatives and organizations. He served on the Albany City Charter
-        Revision Commission in the late 1990s, an organization which sought to update the 300 year
-        old Albany city charter so that it reflected an effective municipal government for the new
-        millennium. As described by Revision Commission member Mary Ellen O’Connor in a 1997 <emph render="italic">Times Union</emph> article, the impetus of the Commission was to “revise
-        rather that rewrite Albany's charter in order to maintain our historic status as having the
-        oldest city charter in the United States. We want to present a clear and concise legal
-        directive for those who administer our city government.” Greatly dedicated to improving
-        Albany, Madej has participated on various other local boards and committees, including a
-        review panel established by Mayor Gerald D. Jennings in 2001 to deliberate on parking
-        problems in the Pine Hills neighborhood. </p>
-      <p> The information provided above was gleaned from the following sources, in addition to
-          those found in the Henry M. Madej Papers themselves: <list type="simple"><item>"Albany's Historic Charter Overdue for Modernization,"<emph render="italic"> Times
-                Union,</emph> 20 July 1997, sec. PERSPECTIVE, B1</item><item>"Review Panel Established,"<emph render="italic"> Times Union,</emph> 16 February
-              2001, sec. CAPITAL REGION, B4</item></list>
-        </p>
+      <p>Henry Madej, an alumnus of the University at Albany, received his bachelor of arts degree in 1967 and his master of public administration degree in 1969. An inductee to the Alpha Phi Gamma Journalism Fraternity and a supporter of the University at Albany campus community, Madej was recognized in 1986 for fifteen years of service to the University Alumni Council. Madej served as deputy director, New York State Assembly Research Service, and later as legislative director for a New York State Assemblyperson.</p>
+      <p>  A long-time Albany resident, Madej has been extremely active in the city's Pine Hills Neighborhood Association, serving a term as president of the organization. The Pine Hills Neighborhood Association covers the neighborhood adjacent to the University at Albany's Downtown Campus and is a mix of student housing, long-term residents, and commercial areas. </p>
+      <p>  Because of his involvement with the Pine Hills Neighborhood Association, Madej became involved with planning Albany's Tricentennial celebration and was the Pine Hills representative to the Tricentennial Commission. As Pine Hills representative, Madej helped decide which banners that would be used in his neighboorhood and where they would be placed. In addition, Madej also assisted with scheduling events that would take place throughout the year for the Tricentennial.</p>
+      <p>  Madej was also involved with other citywide initiatives and organizations. He served on the Albany City Charter Revision Commission in the late 1990s, an organization which sought to update the 300 year old Albany city charter so that it reflected an effective municipal government for the new millennium. As described by Revision Commission member Mary Ellen O’Connor in a 1997 <emph render="italic">Times Union</emph> article, the impetus of the Commission was to “revise rather that rewrite Albany's charter in order to maintain our historic status as having the oldest city charter in the United States. We want to present a clear and concise legal directive for those who administer our city government.” Greatly dedicated to improving Albany, Madej has participated on various other local boards and committees, including a review panel established by Mayor Gerald D. Jennings in 2001 to deliberate on parking problems in the Pine Hills neighborhood. </p>
+      <p>  The information provided above was gleaned from the following sources, in addition to those found in the Henry M. Madej Papers themselves:</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The Henry M. Madej Papers primarily document his community involvement with the Albany City 
-        Charter Revision Commission and the Pine Hills Neighborhood Association during the 1990s and 
-        2000s. Along with these items, the collection also includes documents showing Madej’s involvement
-        in  planning Albany’s Tricentennial celebration. The items concerning the Tricentennial date from 
-        1983 to 1987 with the majority focusing on 1986. There are no materials covering 1984. The collection 
-        is comprised of professional correspondence, meeting minutes and agendas, addresses made to public 
-        hearings, newsletters, document drafts, organizational by laws, sample charters from other cities in 
-        New York State, notes, event schedules, event invitations,event plans, and pamphlets. In addition, 
-        the collection contains newspaper clippings, magazines and editorials related to Madej's work with 
-        these organizations. The collection also includes four cloth banners from the Pine Hills Neighborhood
-        Association, two Frisbees from Albany’s Tricentennial, an Albany Tricentennial Neighborhood Olympics Medal,
-        and photographs and certificates associated with Madej's University at Albany alumni activities.
-      </p>
+    <scopecontent id="aspace_128acd74af21d2c7c69454ac16f67748">
+      <head>Scope and Contents</head>
+      <p>The Henry M. Madej Papers primarily document his community involvement with the Albany City Charter Revision Commission and the Pine Hills Neighborhood Association during the 1990s and 2000s. Along with these items, the collection also includes documents showing Madej’s involvement in planning Albany’s Tricentennial celebration. The items concerning the Tricentennial date from 1983 to 1987 with the majority focusing on 1986. There are no materials covering 1984. The collection is comprised of professional correspondence, meeting minutes and agendas, addresses made to public hearings, newsletters, document drafts, organizational by laws, sample charters from other cities in New York State, notes, event schedules, event invitations,event plans, and pamphlets. In addition, the collection contains newspaper clippings, magazines and editorials related to Madej's work with these organizations. The collection also includes four cloth banners from the Pine Hills Neighborhood Association, two Frisbees from Albany’s Tricentennial, an Albany Tricentennial Neighborhood Olympics Medal, and photographs and certificates associated with Madej's University at Albany alumni activities.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_567e55e91623f98ee08d8974a99903bf">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized chronologically. There are no series.</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-           Try to give as many access points as you can to increase the chances of 
-           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-           to comment them out! -->
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Neighborhood and Community Associations</subject>
-      <subject source="meg" encodinganalog="650">Albany, New York</subject>
-      <persname encodinganalog="600" source="local">Madej, Henry M.</persname>
-      <corpname encodinganalog="610" source="local">Albany City Charter Revision
-        Commission</corpname>
-      <corpname encodinganalog="610" source="local">Pine Hills Neighborhood Association</corpname>
-      <subject encodinganalog="650" source="lcsh">Community organization--New York
-        (State).</subject>
-      <subject encodinganalog="650" source="lcsh">Neighborhood watch programs--New York
-        State--Albany.</subject>
-      <subject encodinganalog="650" source="lcsh">Citizens' Associations--New York
-        State--Albany.</subject>
-      <subject encodinganalog="650" source="lcsh">Charters--New York State--Albany.</subject>
-      <geogname encodinganalog="651" source="lcsh">Albany (N.Y.) </geogname>
-      <genreform encodinganalog="655" source="aat">Clippings</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Banners</genreform>
-      <genreform encodinganalog="655" source="aat">Bylaws (administrative records)</genreform>
-      <genreform encodinganalog="655" source="aat">Photographs</genreform>
-      <genreform encodinganalog="655" source="aat">Calendars</genreform>
-      <genreform encodinganalog="655" source="aat">Brochures</genreform>
-      <genreform encodinganalog="655" source="aat">Minutes</genreform>
-      <genreform encodinganalog="655" source="aat">Newsletters</genreform>
-    </controlaccess>
-    <prefercite encodinganalog="524">
+    <prefercite id="aspace_3375257caa96bef19c89d955cc1506e3">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, box, folder, Henry M. Madej Papers, 1975-2008. M.E.
-        Grenander Department of Special Collections and Archives, University Libraries, University
-        at Albany, State University of New York (hereafter referred to as the Madej Papers).</p>
+      <p> Identification of specific item, box, folder, Henry M. Madej Papers, 1975-2008. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Madej Papers).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_apap140-1">
+    <controlaccess>
+      <subject source="meg">Neighborhood and Community Associations</subject>
+      <subject source="meg">Albany, New York</subject>
+      <subject source="lcsh">Community organization--New York (State).</subject>
+      <subject source="lcsh">Neighborhood watch programs--New York State--Albany.</subject>
+      <subject source="lcsh">Citizens' Associations--New York State--Albany.</subject>
+      <subject source="lcsh">Charters--New York State--Albany.</subject>
+      <geogname source="lcsh">Albany (N.Y.)</geogname>
+      <genreform source="aat">Clippings</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Banners</genreform>
+      <genreform source="aat">Bylaws (administrative records)</genreform>
+      <genreform source="aat">Photographs</genreform>
+      <genreform source="aat">Calendars</genreform>
+      <genreform source="aat">Brochures</genreform>
+      <genreform source="aat">Minutes</genreform>
+      <genreform source="aat">Newsletters</genreform>
+      <persname source="local">Madej, Henry M.</persname>
+      <corpname source="local">Albany City Charter Revision Commission</corpname>
+      <corpname source="local">Pine Hills Neighborhood Association</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_a4f3c17271b5d7793649e70717004606" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>Albany County Charter Transition</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975">1975</unitdate>
+          <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+          <container id="aspace_557df5408e045509cf69fcb9a0163082" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_7303222d26ab905bfee73f8678121246" parent="aspace_557df5408e045509cf69fcb9a0163082" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-2">
+      <c01 id="aspace_3a0fc609049bb75822566e83db126700" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Histories of Pine Hills</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977">1977</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2005">2005</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+          <unitdate normal="2005/2005" type="inclusive">2005</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_4d41a099d8d8d2532e091328e93d5bae" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_78fa62a2c0d861cc771ade3af398138c" parent="aspace_4d41a099d8d8d2532e091328e93d5bae" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-3">
+      <c01 id="aspace_6606a1b70047c4d81473d2c0873c6999" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>Albany County Charter Citizens Review Committee Final Report</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
+          <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+          <container id="aspace_bc89c55f0dc99909354b6143148a47c4" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_7bb49116288b5ff38aed798a9597f84f" parent="aspace_bc89c55f0dc99909354b6143148a47c4" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-4">
+      <c01 id="aspace_b7c8715affd1b47d4a58d5e431e653d6" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Photographs</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_d95d4eb5e8720dce95305375c2591fe3" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_0958e29117dc27542c4dde5b4b9ca76b" parent="aspace_d95d4eb5e8720dce95305375c2591fe3" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-5">
+      <c01 id="aspace_33b6ea723fd2cb5f25984e9ac4310ef6" level="otherlevel">
         <did>
-          <container type="Oversized">3</container>
           <unittitle>Tricentennial Commemorative Newspapers</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+          <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+          <container id="aspace_4b65dffda67077d788060fb8252eac8e" label="Mixed Materials" type="Oversized">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-6">
+      <c01 id="aspace_55e5d25b24c5e0f1ad9a7745b5df4295" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Tricentennial Committee</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_4cb6343605d8808021169065487a85b2" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_9e68df0a870e40b69e64eae362fa233d" parent="aspace_4cb6343605d8808021169065487a85b2" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-7">
+      <c01 id="aspace_1c1584f0884c29f64ef319c854dcba97" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Tricentennial Neighborhood Committee Plans</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_c1f1480ad55d5dd4bff548303bf75475" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_7aa4e2171ec845dc4da36731eb819bda" parent="aspace_c1f1480ad55d5dd4bff548303bf75475" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-8">
+      <c01 id="aspace_7f3784e7d1089274cc526f65eb272edb" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Tricentennial Pamphlets</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985/1986">1985-1986</unitdate>
+          <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
+          <container id="aspace_869c563db3e22294441fbdb0cd99f609" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_24b8d0efcd590927deb0127dae94f78f" parent="aspace_869c563db3e22294441fbdb0cd99f609" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-9">
+      <c01 id="aspace_0ae336387d60ec0850c527a3d4cf8a91" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
-          <unittitle><emph render="italic">Government By the People</emph> by Stefan
-            Bielinski</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+          <unittitle><emph render="italic">Government By the People</emph> by Stefan Bielinski</unittitle>
+          <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+          <container id="aspace_cef998b950589207af90c05fadb7cc84" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_fc24a01d29ffd1f2ad913dbc87d92fe6" parent="aspace_cef998b950589207af90c05fadb7cc84" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-10">
+      <c01 id="aspace_96e6b0f3fc60ca02889828917e757110" level="otherlevel">
         <did>
-          <container type="Oversized">3</container>
           <unittitle>Tricentennial Commemorative Newspapers</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+          <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+          <container id="aspace_c5d9be668ae67945181410e4c3cdbb6d" label="Mixed Materials" type="Oversized">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-11">
+      <c01 id="aspace_8a6cca944eb5f8e4da88ba3c0bc45d85" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Tricentennial Magazines</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+          <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+          <container id="aspace_333ab327c0a72d67ebf92d4a20c3c82d" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_3454b425c1911773965f26589054f577" parent="aspace_333ab327c0a72d67ebf92d4a20c3c82d" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-12">
+      <c01 id="aspace_49a1de8fd945c4834f14890c15b27f20" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Tricentennial Programs and Newsletters</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+          <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+          <container id="aspace_617f6e4c342a78b524bc613275bbde99" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_65cfd03452d0a0d7d3c78ea0d4beeda7" parent="aspace_617f6e4c342a78b524bc613275bbde99" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-13">
+      <c01 id="aspace_2d4009fdda1ed6ed41aee28fbbbfe538" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Tricentennial Concert Event</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_d70bd15d590596318266833ec4e674f2" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_f8d499fbd7052eb07a561dbd7c584560" parent="aspace_d70bd15d590596318266833ec4e674f2" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-14">
+      <c01 id="aspace_6e2f93ce00bbbf4646db18d2d8bec9c9" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">12</container>
           <unittitle>Tricentennial Event Invitation</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_6aae69b75c4c90462df5d37112496964" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_b1a7346641110447e9cbbdad280ddda3" parent="aspace_6aae69b75c4c90462df5d37112496964" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-15">
+      <c01 id="aspace_ac6d066ed0b02b566dc236b3b5a2ef42" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">13</container>
           <unittitle>Tricentennial Event Schedule</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_4db8a2eee8015b901b7b1cf8532dacd8" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_fcf381874d4c589261afefb4dda9c540" parent="aspace_4db8a2eee8015b901b7b1cf8532dacd8" type="Folder">13</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-16">
+      <c01 id="aspace_910c2bf5174f6f8a995f5a6699cd6a0d" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">14</container>
           <unittitle>Tricentennial Gala</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_c55ba5329751da110026931325bd194c" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_c88b8d2bd45fbdde0a7903d66abc8984" parent="aspace_c55ba5329751da110026931325bd194c" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-17">
+      <c01 id="aspace_24b87ac9f655066fb5c205d88760d6f8" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">15</container>
           <unittitle>Tricentennial Newspaper Clippings</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_b4666e371c8a2789cb88055f03559a58" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_f5967580a8fb8af2f91b88c1634d746c" parent="aspace_b4666e371c8a2789cb88055f03559a58" type="Folder">15</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-18">
+      <c01 id="aspace_7d3149364e8845d3be00575d990899fb" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">16</container>
           <unittitle>Tricentennial Commemorative Album</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_72c31b7ce46e02e130bbe2194fa064f9" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_31a216f92aa729067b8ecfbcf6e79070" parent="aspace_72c31b7ce46e02e130bbe2194fa064f9" type="Folder">16</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-19">
+      <c01 id="aspace_64bbb7aa01c0fea81838a8a94b8b29be" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">17</container>
           <unittitle>Pine Hills Neighborhood Association Newsletter</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/2000">1990-2000</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002">2002</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2004/2008">2004-2008</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1990/2000" type="inclusive">1990-2000</unitdate>
+          <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+          <unitdate normal="2004/2008" type="inclusive">2004-2008</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_a810bd839fb2d220ee83c63e1d9bc089" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_2b5f0b94c60efb72152af446a0ee3e5c" parent="aspace_a810bd839fb2d220ee83c63e1d9bc089" type="Folder">17</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-20">
+      <c01 id="aspace_449753a05274be6486c41fb677bf56b5" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">18</container>
           <unittitle>New Resident Welcome Letter</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992/1997">1992-1997</unitdate>
+          <unitdate normal="1992/1997" type="inclusive">1992-1997</unitdate>
+          <container id="aspace_63910b8fffff0dd4f08051ce240cb0f9" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_81429f08d835b6b8cbd9ed739df8df78" parent="aspace_63910b8fffff0dd4f08051ce240cb0f9" type="Folder">18</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-21">
+      <c01 id="aspace_a9b67893b3dfb31a8ea328eb904810a0" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">19-21</container>
           <unittitle>Correspondences and Memos</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994">1994</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996/1998">1996-1998</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+          <unitdate normal="1996/1998" type="inclusive">1996-1998</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_7e05c148af46e05f5caf110c746aa0b1" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_5a8247bdf4f448b03978e9f78bf87296" parent="aspace_7e05c148af46e05f5caf110c746aa0b1" type="Folder">19-21</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-22">
+      <c01 id="aspace_871abca2c6d369c81307f60bce6337f3" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">22</container>
           <unittitle>Phase II Report of Citywide Management Audit</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995">1995</unitdate>
+          <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+          <container id="aspace_272d74d2eaaa80ddff56ef8a0720c8e4" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_99f2570fbde6f0399a7ada579e6054c2" parent="aspace_272d74d2eaaa80ddff56ef8a0720c8e4" type="Folder">22</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-23">
+      <c01 id="aspace_f10cdda448f094706ce2036fe3d9195a" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">23</container>
           <unittitle>Press Releases</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996/1997">1996-1997</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">ca.
-            1998</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1996/1997" type="inclusive">1996-1997</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">ca. 1998</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_65ff0779b21f91c5f5c33d664a61ec7b" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_8fd72136b30b875026b971451366de26" parent="aspace_65ff0779b21f91c5f5c33d664a61ec7b" type="Folder">23</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-24">
+      <c01 id="aspace_9af2e7dbab293be0b7ef68f26090800e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">24</container>
           <unittitle>Albany City Record</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998">1998</unitdate>
+          <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+          <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+          <container id="aspace_ad207c73dcbd0452157bdde48faebce2" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_5f44e7e6fa68989aae60b4cf17c6294c" parent="aspace_ad207c73dcbd0452157bdde48faebce2" type="Folder">24</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-25">
+      <c01 id="aspace_2d4a699358daeed501f2916fb8b4dae7" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">25</container>
           <unittitle>City of Albany Charter Policy, Provisions, and Guidelines</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991/2001">ca.
-            1996</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+          <unitdate normal="1991/2001" type="inclusive">ca. 1996</unitdate>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <container id="aspace_e4f1fda3c15f3337b25b22f49570a130" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_700f778dc55adb070c73ec6571421241" parent="aspace_e4f1fda3c15f3337b25b22f49570a130" type="Folder">25</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-26">
+      <c01 id="aspace_8bf7ae3f3f415779be17b686774bd281" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">26</container>
           <unittitle>Pine Hills Tour</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <container id="aspace_b4dc4fdb90cac7dcd176208c70a7e13a" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_66873dc247746484f022fc9e62b11602" parent="aspace_b4dc4fdb90cac7dcd176208c70a7e13a" type="Folder">26</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-27">
+      <c01 id="aspace_9d748fba73c73f315a65052ad116f864" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">27</container>
           <unittitle>Charter Revision Commission Meeting Minutes, Notes, and Agendas</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997-01/1998-01">1997 January-1998 January</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998-04/1998-08">1998 April-1998 August</unitdate>
+          <unitdate normal="1997-01/1998-01" type="inclusive">1997 January-1998 January</unitdate>
+          <unitdate normal="1998-04/1998-08" type="inclusive">1998 April-1998 August</unitdate>
+          <container id="aspace_15651f2dec158acb9085382ffac8eb42" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_5a1709adef8d0851cfc042fb3d88b23e" parent="aspace_15651f2dec158acb9085382ffac8eb42" type="Folder">27</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-28">
+      <c01 id="aspace_a70e3a559acfe766157d83ec128ff14b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">28-30</container>
           <unittitle>City of Albany Charter Drafts and Notes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997-12/1998-01">1997 December-1998 January</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998-06/1998-08">1998 June-1998 August</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1997-12/1998-01" type="inclusive">1997 December-1998 January</unitdate>
+          <unitdate normal="1998-06/1998-08" type="inclusive">1998 June-1998 August</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_3d7f3db3c4260ca30317f6dc7a8d1cfc" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_a70f6ced3c4a4221cafc0af5fae3f544" parent="aspace_3d7f3db3c4260ca30317f6dc7a8d1cfc" type="Folder">28-30</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-29">
+      <c01 id="aspace_f48c0cc237c8db171e488be41da6755b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">31</container>
           <unittitle>Albany Charter Revision Commission Brochure</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <container id="aspace_c5491f54c9f8bf93f5ad2a2e0f565830" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_8d0cea98075418307f7903c7e6905e0d" parent="aspace_c5491f54c9f8bf93f5ad2a2e0f565830" type="Folder">31</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-30">
+      <c01 id="aspace_a4cbf2d0ca02693334504bdfc6c666fc" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">32</container>
           <unittitle>Albany Charter Revision Commission Public Outreach Strategy</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <container id="aspace_20cc0cb0a7f24aa90818934089de0e97" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_356c9002b7c114e61b29f4a9150cd2c8" parent="aspace_20cc0cb0a7f24aa90818934089de0e97" type="Folder">32</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-31">
+      <c01 id="aspace_f0ec5dd7e54ceed910853553c7ff9c09" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">33</container>
-          <unittitle>Charter Revision Commission Orientation Sessions and Role of
-            Charter</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+          <unittitle>Charter Revision Commission Orientation Sessions and Role of Charter</unittitle>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <container id="aspace_f02ace24edd40ed777aa22f3a07ce0ca" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_b96cbdc7da1febc2a13245a53e6c002b" parent="aspace_f02ace24edd40ed777aa22f3a07ce0ca" type="Folder">33</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-32">
+      <c01 id="aspace_859ee28decbf98a1081393ea78851592" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">34</container>
           <unittitle>Mayor and Council Brief</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <container id="aspace_bc72135ff7242a7f1d525cc186bd1981" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_ca620fdea799222c226eebc947200ced" parent="aspace_bc72135ff7242a7f1d525cc186bd1981" type="Folder">34</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-33">
+      <c01 id="aspace_67fc14403ab92221cee703fa054f3fa7" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">35</container>
           <unittitle>Proposal for City Charter Revision Commission, City of Albany</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <container id="aspace_78a1364838a9a0f353ed954c6a8909c1" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_09bf91171071d381d5d4b48d535c23a5" parent="aspace_78a1364838a9a0f353ed954c6a8909c1" type="Folder">35</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-34">
+      <c01 id="aspace_8718f6ca7fdfb485134be5873d48b109" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">36</container>
           <unittitle>Sample Charter Provisions for Yonkers and Rochester</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <container id="aspace_cc909a448f70034f9d602ee9aa62ad7b" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_d350dfc234e5d4822c62941ead64ec51" parent="aspace_cc909a448f70034f9d602ee9aa62ad7b" type="Folder">36</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-35">
+      <c01 id="aspace_f958dddc295a1ba09c1846d85141912a" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">37</container>
-          <unittitle>Charter Provisions for Elected Officials in Selected Cities in New York
-            State</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unittitle>Charter Provisions for Elected Officials in Selected Cities in New York State</unittitle>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_b74f30adea07d11c333a301e7a773f3c" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_0f6d87820742513ac3b475e984a2433d" parent="aspace_b74f30adea07d11c333a301e7a773f3c" type="Folder">37</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-36">
+      <c01 id="aspace_d3d2de3bb2972230bc8b43f9f7c124d9" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">38</container>
           <unittitle>Charter Public Hearing Addresses and Notices</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997/1998">1997-1998</unitdate>
+          <unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate>
+          <container id="aspace_246ed4dc968876935e227b033f81a278" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_2959d3091a908847bcd10d7cf4cd82ce" parent="aspace_246ed4dc968876935e227b033f81a278" type="Folder">38</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-37">
+      <c01 id="aspace_0eb7055f78d7950778eb631d520f2812" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">39</container>
           <unittitle>Charter Revision Commission Voting Record</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997/1998">1997-1998</unitdate>
+          <unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate>
+          <container id="aspace_e1eb9abad721f4780fc50e6d9622e89a" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_d9fb11f2d0605489aec181c00b2af9b9" parent="aspace_e1eb9abad721f4780fc50e6d9622e89a" type="Folder">39</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-38">
+      <c01 id="aspace_ca93f685a4cbe63d8d2fa01b171865a6" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">40</container>
           <unittitle>News Clippings and Editorials</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997/1998">1997-1998</unitdate>
+          <unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate>
+          <container id="aspace_2d6a157fbb189e3b679b5890b119aa81" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_5e620d0dbbd4cf484b5d375024b3adcd" parent="aspace_2d6a157fbb189e3b679b5890b119aa81" type="Folder">40</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-39">
+      <c01 id="aspace_c3419126ddc4e4e717c4f3ccd7205ea1" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">41</container>
           <unittitle>Charter Commission and Council Motions and Proposals</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997/1998">1997-1998</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_c1d7cf5d85ad7eb3996fc1d96c3a1f55" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_8d3bea6894c421b65d81c707dd1d60c2" parent="aspace_c1d7cf5d85ad7eb3996fc1d96c3a1f55" type="Folder">41</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-40">
+      <c01 id="aspace_72c4ffb574aea39e600f271f37b31c6d" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">42</container>
-          <unittitle>Charter Revision Commission Proposed Work plan/Calendar and
-            Schedules</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992/2002">ca.
-            1997</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unittitle>Charter Revision Commission Proposed Work plan/Calendar and Schedules</unittitle>
+          <unitdate normal="1992/2002" type="inclusive">ca. 1997</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_9b9fef4bcc50beea295751c2e070fef3" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_4ec3eea870e8e109a1368bc32d813105" parent="aspace_9b9fef4bcc50beea295751c2e070fef3" type="Folder">42</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-41">
+      <c01 id="aspace_e81ea14bcc6268398b69e883ac80cc0b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">43</container>
           <unittitle>Proposed City Charter for Albany</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998">1998</unitdate>
+          <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+          <container id="aspace_2833d685d5b3110668cebf1b5998d8ed" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_f4ec6d593d8852dc4dcc578380d6fa98" parent="aspace_2833d685d5b3110668cebf1b5998d8ed" type="Folder">43</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-42">
+      <c01 id="aspace_fd3ade9f90f5d2163d0e4249fe67ae03" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">44</container>
           <unittitle>
             <emph render="italic">The Beverwyck Neighbor</emph>
           </unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998">1998</unitdate>
+          <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+          <container id="aspace_ae38ec4f4a97db3a113e0b4fffaf5495" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_f168b09fbe9869003f9e383723bdeb2e" parent="aspace_ae38ec4f4a97db3a113e0b4fffaf5495" type="Folder">44</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-43">
+      <c01 id="aspace_e3962d931bb65060e4ed6c8370bc7da2" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">45</container>
           <unittitle>Budgetary Documents</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998">1998</unitdate>
+          <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+          <container id="aspace_f71b64a0dfdc1e7e965aa8b31623c41f" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_64fc74e0e498c4966cf0aa3cb80d0851" parent="aspace_f71b64a0dfdc1e7e965aa8b31623c41f" type="Folder">45</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-44">
+      <c01 id="aspace_9d0020a4634bd70dcedea55ffa3ba57c" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">46</container>
           <unittitle>Charter Revision Commission Meeting Notices</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998">1998</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_06f76f3c425130372a6aec1eeeca732e" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_35fcd500fe376a2f35f4f03cd419ee78" parent="aspace_06f76f3c425130372a6aec1eeeca732e" type="Folder">46</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-45">
+      <c01 id="aspace_50859e20e40a19a527e8f35cf35da886" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">47</container>
           <unittitle>General Notes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998">1998</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_e93a4a886c49f49a8c4668175da1cfcf" label="Mixed Materials" type="Box">1 (Henry M. Madej Papers )</container>
+          <container id="aspace_a374c71c20b8edfc6b9ed1b239bdb54c" parent="aspace_e93a4a886c49f49a8c4668175da1cfcf" type="Folder">47</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-46">
+      <c01 id="aspace_db94ecaa74f74680dd24fdee95df8e51" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">1</container>
           <unittitle>NYCOM Guide to City Charters and Charter Revision</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998">1998</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_0997e364ffafd839900641e8522c6536" label="Mixed Materials" type="Box">2 (Henry M. Madej Papers )</container>
+          <container id="aspace_a647c2eec43ad4e2cbd1fe81fe8da32c" parent="aspace_0997e364ffafd839900641e8522c6536" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-47">
+      <c01 id="aspace_16481cb6f20ede1e9b39d10da4d39777" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">2</container>
           <unittitle>Portion of Albany City Charter</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998">1998</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_a6c8b47aca16003b237b786ace4567b0" label="Mixed Materials" type="Box">2 (Henry M. Madej Papers )</container>
+          <container id="aspace_28f44f382eee2980163f5ae3c8683376" parent="aspace_a6c8b47aca16003b237b786ace4567b0" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-48">
+      <c01 id="aspace_35db12a3bc63f2374021689bec9f2d2c" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">3</container>
           <unittitle>Charter Revision Commission Resolutions</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">ca.
-            1998</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">ca. 1998</unitdate>
+          <container id="aspace_474877223632848d6d2e8bd063946c0e" label="Mixed Materials" type="Box">2 (Henry M. Madej Papers )</container>
+          <container id="aspace_a7c5f2be265b3efe2e98bb2769690b20" parent="aspace_474877223632848d6d2e8bd063946c0e" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-49">
+      <c01 id="aspace_4e4975eaf1985cbdef26e583edd113ca" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">4</container>
           <unittitle>Pine Hills Neighborhood Association</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2003">2003</unitdate>
+          <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
+          <container id="aspace_a213c99735162d7e226ae35f4880e57d" label="Mixed Materials" type="Box">2 (Henry M. Madej Papers )</container>
+          <container id="aspace_07d3e4597fd1692a69b593f7d75a005f" parent="aspace_a213c99735162d7e226ae35f4880e57d" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-50">
+      <c01 id="aspace_e8f2b2d41151dcf00d0950512add1182" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">5</container>
           <unittitle>Pine Hills Business Directory</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2004">2004</unitdate>
+          <unitdate normal="2004/2004" type="inclusive">2004</unitdate>
+          <container id="aspace_fe700689b06e6f9e0efa6c1815ba7ea9" label="Mixed Materials" type="Box">2 (Henry M. Madej Papers )</container>
+          <container id="aspace_87e165734852da264245138a89774231" parent="aspace_fe700689b06e6f9e0efa6c1815ba7ea9" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-51">
+      <c01 id="aspace_89ac699194b7834a66dda6546af58809" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">6</container>
           <unittitle>Albany City Comptroller Provisions</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_58d69bb5b66fe852944b9c62210c2c09" label="Mixed Materials" type="Box">2 (Henry M. Madej Papers )</container>
+          <container id="aspace_7de700ece64a09dede6532b845edef71" parent="aspace_58d69bb5b66fe852944b9c62210c2c09" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-52">
+      <c01 id="aspace_ec4ccd9aaec5a5bd6bb921a6ce65caee" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">7</container>
           <unittitle>"A Brief History of the Mohawk &amp; Hudson Railroad"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_e6ac025e620e7ba6ca6ae62e3dac1a62" label="Mixed Materials" type="Box">2 (Henry M. Madej Papers )</container>
+          <container id="aspace_b384f54107736b465e7da06c9b7a5a9b" parent="aspace_e6ac025e620e7ba6ca6ae62e3dac1a62" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-53">
+      <c01 id="aspace_84c98bee383113af8c9b4293e8664b90" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">8</container>
           <unittitle>Helen Desfosses Albany Common Council Presidential Campaign Ad</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_32be4ca8f0e64b2403083aedc79ed8a4" label="Mixed Materials" type="Box">2 (Henry M. Madej Papers )</container>
+          <container id="aspace_67e9cb45b63416cd82d2d35667e89859" parent="aspace_32be4ca8f0e64b2403083aedc79ed8a4" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-54">
+      <c01 id="aspace_04900c4ff8d96124265410913ae4d58b" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">9</container>
           <unittitle>List of Committee Members</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_55c2f996d116c257182666c7c4141715" label="Mixed Materials" type="Box">2 (Henry M. Madej Papers )</container>
+          <container id="aspace_00b4a504e33acff33db8e87b6bdb7b14" parent="aspace_55c2f996d116c257182666c7c4141715" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-55">
+      <c01 id="aspace_2976b890ba50bee8a7cafc3740f86e13" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">10</container>
           <unittitle>Meeting Attendance List</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_c6a9732f965b5bfc305c6816b0f70406" label="Mixed Materials" type="Box">2 (Henry M. Madej Papers )</container>
+          <container id="aspace_852307356fbb15eafcf6c0c6aced51f4" parent="aspace_c6a9732f965b5bfc305c6816b0f70406" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-56">
+      <c01 id="aspace_8beeaca589bfec637b69f8915c13c0fc" level="otherlevel">
         <did>
-          <container type="Oversized">1</container>
           <unittitle>Pine Hills Neighborhood Association Banners</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_7aec425869e9f24bcf4d3162612ce6f9" label="Mixed Materials" type="Oversized">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-57">
+      <c01 id="aspace_922dec1625317b7a356b9819465fbf09" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">11</container>
           <unittitle>Proposal Charter Q&amp;A's, Charter Voting Flyers</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_216acd9f3199ae477137501511c40f6d" label="Mixed Materials" type="Box">2 (Henry M. Madej Papers )</container>
+          <container id="aspace_6fce63b01980a34133e2a071f675e359" parent="aspace_216acd9f3199ae477137501511c40f6d" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-58">
+      <c01 id="aspace_60d8c4c0b61a30d702161a3f168fde34" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">12</container>
           <unittitle>"Revising City Charters in New York State" Article</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_c76d667215f16fa5807523490ee82587" label="Mixed Materials" type="Box">2 (Henry M. Madej Papers )</container>
+          <container id="aspace_da63f7acfff390dc7557df390f86b73c" parent="aspace_c76d667215f16fa5807523490ee82587" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-59">
+      <c01 id="aspace_ad863123b031e1dc1ca82b655cba412a" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">1</container>
           <unittitle>Sample Stationary</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_b2d3189fcd23fa7f76500162afd8e24b" label="Mixed Materials" type="Box">3 (Henry M. Madej Papers )</container>
+          <container id="aspace_01ad7c1f38bad8e8ff2abe48be698247" parent="aspace_b2d3189fcd23fa7f76500162afd8e24b" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-60">
+      <c01 id="aspace_a0d171fd58a7d8c0c55e54fd4125868c" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">2</container>
           <unittitle>Supplemental Reference Material</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_436f048388aabdb2e671713f84728c51" label="Mixed Materials" type="Box">3 (Henry M. Madej Papers )</container>
+          <container id="aspace_d68394fb88aae5f6f2dd197d9df52b8b" parent="aspace_436f048388aabdb2e671713f84728c51" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-61">
+      <c01 id="aspace_b6a2a8a861c7cd0fac3c8f36ee4f45c7" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">3</container>
           <unittitle>Tricentennial Boards of Famous Albany Residents</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_aee2c4b031b6889c9771ec8502ae9fee" label="Mixed Materials" type="Box">3 (Henry M. Madej Papers )</container>
+          <container id="aspace_ef68e7dcb78ae52ded1c4cc305901083" parent="aspace_aee2c4b031b6889c9771ec8502ae9fee" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-62">
+      <c01 id="aspace_3bb60ae2756940f833a7aea36cc1251a" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">4</container>
           <unittitle>Tricentennial Boards of Famous Albany Residents</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_67bca8f367bfe789806d4cabd199dae7" label="Mixed Materials" type="Box">3 (Henry M. Madej Papers )</container>
+          <container id="aspace_a036b2773a3846c3eadac22c1d6f09f6" parent="aspace_67bca8f367bfe789806d4cabd199dae7" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-63">
+      <c01 id="aspace_0e9898aca3a57cbc5bd5c2d8f078d765" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">5</container>
           <unittitle>Tricentennial Event Flyer</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_84479f7a1208d2171985d65b2f90b629" label="Mixed Materials" type="Box">3 (Henry M. Madej Papers )</container>
+          <container id="aspace_4423ad6946869bb3bca026b45c95a9e9" parent="aspace_84479f7a1208d2171985d65b2f90b629" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-64">
+      <c01 id="aspace_de0b83283e4cf3282c4599db9da55612" level="otherlevel">
         <did>
-          <container type="Oversized">2</container>
           <unittitle>Tricentennial Frisbees and Tricentennial Neighborhood Olympic Medal</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_8928f47b2234129280ce70c9a73715a9" label="Mixed Materials" type="Oversized">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-65">
+      <c01 id="aspace_603e9861062cdea071cd2c856fefa592" level="otherlevel">
         <did>
-          <container type="Oversized">3</container>
           <unittitle>Tricentennial Gala Map</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_e60ccbb97bc9f2713e38b97150618722" label="Mixed Materials" type="Oversized">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-66">
+      <c01 id="aspace_894533e79bf2f63ddf63530f183696d5" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">6</container>
           <unittitle>Tricentennial Ice Cream Memorabilia</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_32cd71e0b6ceb2b99fbc3069852849b9" label="Mixed Materials" type="Box">3 (Henry M. Madej Papers )</container>
+          <container id="aspace_3407b59a908e1fbe38f6d96fc957e7ac" parent="aspace_32cd71e0b6ceb2b99fbc3069852849b9" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-67">
+      <c01 id="aspace_e93e3da430e90ba4e31fd68ba8916dc6" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">7</container>
           <unittitle>"What Do We Know About Albany's Elected Officials?" Report</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_6fc6f62154f9bd54b526b33737434a4a" label="Mixed Materials" type="Box">3 (Henry M. Madej Papers )</container>
+          <container id="aspace_41ad32e4faf6d51179858a0978049096" parent="aspace_6fc6f62154f9bd54b526b33737434a4a" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_apap140-68">
+      <c01 id="aspace_a43bb7a3478760a71244804f6a355b70" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">8</container>
-          <unittitle>"Why the City of Albany Needs One Chief Financial Officer Now"
-            Report</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/2008">Undated</unitdate>
+          <unittitle>"Why the City of Albany Needs One Chief Financial Officer Now" Report</unittitle>
+          <unitdate normal="1975/2008" type="inclusive">Undated</unitdate>
+          <container id="aspace_be722748ee0b333c7afdd6b8d3007f60" label="Mixed Materials" type="Box">3 (Henry M. Madej Papers )</container>
+          <container id="aspace_4f088fcf4db67c0c4f79d275459a0b81" parent="aspace_be722748ee0b333c7afdd6b8d3007f60" type="Folder">8</container>
         </did>
       </c01>
     </dsc>

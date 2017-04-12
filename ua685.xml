@@ -1,911 +1,943 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua685">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua685.html">nam_ua685</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua685">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua685.xml">ua685</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>CENTER FOR WOMEN IN GOVERNMENT &amp; CIVIL SOCIETY RECORDS (UA685)<date normal="1976/1988" type="inclusive">1976-1988</date></titleproper>
+        <titleproper>Center for Women in Government; Records <num>ua685</num></titleproper>
         <author>unprocessed</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2016" type="publication">Copyright 2016 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2016</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Gregory Wiedeman<date normal="2016-04">2016 April</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 18:05:36 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2014">2014</date>
+        <date>2014</date>
         <item>EAD file created</item>
+      </change>
+      <change>
+        <date>2016 April</date>
+        <item>Encoded in EAD by Gregory Wiedeman</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua685</unitid>
-      <unittitle>Center for Women in Government &amp; Civil Society Records<unitdate normal="1976/1988" type="inclusive">1976-1988</unitdate></unittitle>
-      <abstract label="Abstract:">The Center for Women in Government &amp; Civil Society (CWGCS) was established in 1978 to elimination of sex discrimination in New York State government employment. The Center part of the Rockefeller College of Public Affairs &amp; Policy and receives both public and private funding.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="lcsh">State University of New York at Albany. Center for Women in Government</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">22</extent>
-      </physdesc>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Center for Women in Government &amp; Civil Society Records<unitdate normal="1976/1988" type="inclusive">1976-1988</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="lcsh">State University of New York at Albany. Center for Women in Government</corpname>
+      </origination>
+      <unitid>ua685</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">22 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_290e5f5731d7ea79e8d1c1dc62197469">The Center for Women in Government &amp; Civil Society (CWGCS) was established in 1978 to elimination of sex discrimination in New York State government employment. The Center part of the Rockefeller College of Public Affairs &amp; Policy and receives both public and private funding.</abstract>
+      <langmaterial id="aspace_12e23c41b2a456c5b64e386121b0bd33">English</langmaterial>
+      <physloc id="aspace_5313f98d3cb22ba6c0694b0529fca99e">The materials are located onsite in the department.</physloc>
     </did>
-    <phystech>
+    <processinfo id="aspace_b42e779ca6bbd5c885055679bdb1af82">
+      <head>Processing Information</head>
+      <p>Processed in 2016 by unprocessed.</p>
+    </processinfo>
+    <phystech id="aspace_b874ff93911bd8f4c3986680e6a77d6a">
+      <head>Physical Characteristics and Technical Requirements</head>
       <p>Web Archives</p>
     </phystech>
-    <bioghist>
+    <bioghist id="aspace_e196a7a601ea58c48c0b5f47c2bed707">
       <head>Administrative History</head>
       <p>The Center for Women in Government &amp; Civic Society (CWG) was established in 1978 to elimination of sex discrimination in New York State government employment. This mission is addressed through research to identify and develop methods to remove structural barriers to advancement; training of women and their organizations on leadership, management, and career planning; networking. [CWG Bylaws, 1983, p.1] The Center functioned as part of the Comparative Studies Center, subsequently the Institute for Government and Policy Studies (1981-86) of the Graduate School of Public Affairs, Rockefeller College, State University of New York at Albany. In 1987 the Center became an independent unit of the Graduate School of Public Affairs. The Center receives both public and private funding with its financial management performed by SUNYA and the Research Foundation. [CWG Bylaws, 1983, p.1]</p>
-      <p>The Center was co-founded by Nancy Perlman, who served as director until 1986, and Linda Tarr-Whelan, administrative director of the New York State Department of Labor Tarr-Whelan served as President of the Center's Board of Directors until the fall of 1979.</p>
-      <p>The CWG was initially governed by the Executive - Ad Hoc Advisory Committee whose members served on and chose the remaining members of the permanent Board of Directors. [CWG Draft Interim Bylaws, p.1] The CWG is governed by a 25 member Board of Directors made up of individuals or representatives of organizations interested and involved in the elimination of sex discrimination in the public sector. The Board meets four times annually or at the request of one-half of the Board or two-thirds of the Executive Committee. The Board is responsible for setting overall Center policy, financial planning, and staffing. The Executive Committee is comprised of the Board President, Secretary and five Board members. It too meets four times a year or at the request of one-half the Executive Committee. The Executive Committee has the power to make decisions of the Board when necessary subject to ratification by the Board. Nominations of new members to the Board of Directors are made by the Executive Committee. [CWG Bylaws, 1983] The day to day operations of the CWG are controlled by the Executive Director, formerly the Director, of the CWG.</p>
-      <p>The CWG extended its work to include programs within New York City in 1980 and offers technical assistance to groups and organizations within the state. The Center also contracts outside the State of New York to conduct studies on barriers to the advancement of women. [The Nelson A. Rockefeller College of Public Affairs and Policy Bulletin, p. 45]</p>
+      <p> The Center was co-founded by Nancy Perlman, who served as director until 1986, and Linda Tarr-Whelan, administrative director of the New York State Department of Labor Tarr-Whelan served as President of the Center's Board of Directors until the fall of 1979.</p>
+      <p> The CWG was initially governed by the Executive - Ad Hoc Advisory Committee whose members served on and chose the remaining members of the permanent Board of Directors. [CWG Draft Interim Bylaws, p.1] The CWG is governed by a 25 member Board of Directors made up of individuals or representatives of organizations interested and involved in the elimination of sex discrimination in the public sector. The Board meets four times annually or at the request of one-half of the Board or two-thirds of the Executive Committee. The Board is responsible for setting overall Center policy, financial planning, and staffing. The Executive Committee is comprised of the Board President, Secretary and five Board members. It too meets four times a year or at the request of one-half the Executive Committee. The Executive Committee has the power to make decisions of the Board when necessary subject to ratification by the Board. Nominations of new members to the Board of Directors are made by the Executive Committee. [CWG Bylaws, 1983] The day to day operations of the CWG are controlled by the Executive Director, formerly the Director, of the CWG.</p>
+      <p> The CWG extended its work to include programs within New York City in 1980 and offers technical assistance to groups and organizations within the state. The Center also contracts outside the State of New York to conduct studies on barriers to the advancement of women. [The Nelson A. Rockefeller College of Public Affairs and Policy Bulletin, p. 45]</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_bdf79190fe20dc7b89612d3ec9d637f2">
+      <head>Scope and Contents</head>
       <p>The records of the Center for Women in Government include agendas and minutes, quarterly reports, publications, correspondence, memoranda, and project proposals relating to the mission of the CWG to "identify and remove the barriers to equal employment opportunities for women." These records date from 1976 just prior to the Center's establishment through 1988.</p>
-      <p>The records of the CWG are divided into five series: Board of Directors (Governance), 1977-1983; Board President Records, 1976-79; Correspondence, Dec. 1977, 1978-86; Executive Director's Subject Files, 1976-87; and Publications, 1979-88. The Board of Director series was divided into four subseries: Board Members, 1977-83; Board of Directors Meeting Reports, 1977-83; Executive Committee, 1978-81; and Board Correspondence, 1978-86. These records were created and maintained by the Administrative Office of the CWG for Center and Board operations. The Board President Records are the records retained by the CWG of the first Board President and co-founder Linda Tarr-Whelan. They contain material predating the Center's establishment. The Correspondence series contain the day files of the CWG arranged chronologically by year, month and day. These day files were kept because there are no correspondence files New Director of the Center for Women in Government for the period 1977-1986. The records of the Director were interfiled with general correspondence of the Center. The general correspondence (day files) are the primary source of administrative information for that period. The Publications series includes all publications of the CWG printed by contract and in-house.</p>
+      <p> The records of the CWG are divided into five series: Board of Directors (Governance), 1977-1983; Board President Records, 1976-79; Correspondence, Dec. 1977, 1978-86; Executive Director's Subject Files, 1976-87; and Publications, 1979-88. The Board of Director series was divided into four subseries: Board Members, 1977-83; Board of Directors Meeting Reports, 1977-83; Executive Committee, 1978-81; and Board Correspondence, 1978-86. These records were created and maintained by the Administrative Office of the CWG for Center and Board operations. The Board President Records are the records retained by the CWG of the first Board President and co-founder Linda Tarr-Whelan. They contain material predating the Center's establishment. The Correspondence series contain the day files of the CWG arranged chronologically by year, month and day. These day files were kept because there are no correspondence files New Director of the Center for Women in Government for the period 1977-1986. The records of the Director were interfiled with general correspondence of the Center. The general correspondence (day files) are the primary source of administrative information for that period. The Publications series includes all publications of the CWG printed by contract and in-house.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_3facb5379e599e282b5dfd10902051ac">
       <head>Arrangement of the Collection</head>
       <p>The collection is only partially processed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_89a65e7adcb3de9a3806ea431d7ed0f3">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_956818c321134cd20c6a4e073018fd06">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_dc0ccfe7477b5ca26b204b7dbe4ededc">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
-      <p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p> The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_fcc8cbb046e19da74c5015a4bf50fe47">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Center for Women in Government &amp; Civil Society Records, 1976-1988. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Center for Women in Government &amp; Civil Society Records).</p>
+      <p> Identification of specific item, series, box, folder, Center for Women in Government &amp; Civil Society Records, 1976-1988. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Center for Women in Government &amp; Civil Society Records).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Women</subject>
-      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany</corpname>
-      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany. Graduate School of Public Affairs</corpname>
-      <subject encodinganalog="650" source="lcsh">Public policy and administration </subject>
-      <subject encodinganalog="650" source="lcsh">Higher education and state.</subject>
-      <subject encodinganalog="650" source="lcsh">Sex discrimination</subject>
-      <genreform source="meg" encodinganalog="655">Web Archives</genreform>
+      <subject source="meg">Women</subject>
+      <subject source="lcsh">Public policy and administration</subject>
+      <subject source="lcsh">Higher education and state.</subject>
+      <subject source="lcsh">Sex discrimination</subject>
+      <genreform source="meg">Web Archives</genreform>
+      <corpname source="lcsh">State University of New York at Albany</corpname>
+      <corpname source="lcsh">State University of New York at Albany. Graduate School of Public Affairs</corpname>
     </controlaccess>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_ua685-1" level="series">
+    <dsc>
+      <c01 id="aspace_df0239ee26780a9991adb587459949fb" level="series">
         <did>
+          <unittitle>Board of Directors Governance File</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Board of Directors Governance File</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1977/1983" type="inclusive">1977-1983</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">1</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1977/1983" type="inclusive">1977-1983</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_427e274842ba8c20cf596a1e8230359e">
+          <head>Arrangement</head>
           <p>This series is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_9483b1e6f2d59d47ae0ba5141b527ed3">
+          <head>Scope and Contents</head>
           <p>This series consists of records of the Board of Directors relating to the governing of the CWG and is arranged in four subseries: Board Members, Executive Committee, Board of Directors Meeting Reports, and Board Correspondence. These records were created and maintained by the Administrative Office of the CWG for Center and Board operations.</p>
         </scopecontent>
-        <c02 id="nam_ua685-1.1" level="subseries">
+        <c02 id="aspace_91809ab8f3c8c8af659e378385fe9910" level="subseries">
           <did>
+            <unittitle>Board Members</unittitle>
             <unitid>1.1</unitid>
-            <unittitle label="Subseries">Board Members</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1977/1983" type="inclusive">1977-1983</unitdate>
-            <physdesc>
-              <extent unit="cubic ft.">0.35</extent>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">0.35 cubic ft.</extent>
             </physdesc>
+            <unitdate normal="1977/1983" type="inclusive">1977-1983</unitdate>
           </did>
-          <arrangement>
+          <arrangement id="aspace_665e5cdbdc52eb6124e681bffae2083d">
+            <head>Arrangement</head>
             <p>Arranged alphabetically and chronologically.</p>
           </arrangement>
-          <scopecontent>
+          <scopecontent id="aspace_09e48d3b6719ce4e6382a5834ae3195a">
+            <head>Scope and Contents</head>
             <p>This subseries consists primarily of letters of election and acceptance to the members of the Board of Directors of CWG. More substantive correspondence and some newsclippings on topics such as the establishment of the CWG, CWG training programs, workshops and research issues on comparable worth, career mobility and career ladders in State Government, discrimination, and Day Care Centers for State employees can be found in the following Board Member files: Karen Burnstein, Frances Berko, William McGowan, Robert E. Quinn, Delores Schmidt, Aldo Baaklini, Linda Tarr-Whelan, Pamela Tate and Anne Nelson. These files contain both correspondence to and from these Board members.</p>
           </scopecontent>
         </c02>
-        <c02 id="nam_ua685-1.2" level="subseries">
+        <c02 id="aspace_141a9824f8d7630cd7b1eb6e45d96f66" level="subseries">
           <did>
+            <unittitle>Executive Committee</unittitle>
             <unitid>1.2</unitid>
-            <unittitle label="Subseries">Executive Committee</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1978/1981" type="inclusive">1978-1981</unitdate>
-            <physdesc>
-              <extent unit="cubic ft.">0.175</extent>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">0.175 cubic ft.</extent>
             </physdesc>
+            <unitdate normal="1978/1981" type="inclusive">1978-1981</unitdate>
           </did>
-          <arrangement>
+          <arrangement id="aspace_dfe16d09867d68252201d82a3f2697e3">
+            <head>Arrangement</head>
             <p>Semi-chronological arrangement.</p>
           </arrangement>
-          <scopecontent>
+          <scopecontent id="aspace_d0fdb230413dbf703d5e79133def3aab">
+            <head>Scope and Contents</head>
             <p>This subseries consists of correspondence, agendas, and minutes of the Executive Committee of the CWG Board of Directors. The major topics included are bylaws, nominations to the Board, funding, the CWG New York City project (1980-81), and pay equity study (1979-81), and training programs.</p>
           </scopecontent>
         </c02>
-        <c02 id="nam_ua685-1.3" level="subseries">
+        <c02 id="aspace_b49cff64fd8f18f9d7978ad553a2499a" level="subseries">
           <did>
+            <unittitle>Board of Directors Meeting Reports</unittitle>
             <unitid>1.3</unitid>
-            <unittitle label="Subseries">Board of Directors Meeting Reports</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1977/1983" type="inclusive">1977-1983</unitdate>
-            <physdesc>
-              <extent unit="cubic ft.">0.35</extent>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">0.35 cubic ft.</extent>
             </physdesc>
+            <unitdate normal="1977/1983" type="inclusive">1977-1983</unitdate>
           </did>
-          <arrangement>
+          <arrangement id="aspace_6a333d047b2836f0443def0638e6f26f">
+            <head>Arrangement</head>
             <p>Arranged chronologically</p>
           </arrangement>
-          <scopecontent>
+          <scopecontent id="aspace_6a23e190330d43f5e2bd215c0f4513b7">
+            <head>Scope and Contents</head>
             <p>This subseries consists of quarterly reports of the Board of Directors which include agendas and minutes, the Director's Report to the BD, and the Financial Report. Some contain bylaws, but no financial report. Minutes are those of the previous meeting. Missing are the reports for March, 1979 and September, 1983. Topics covered in these reports include comparable worth/pay equity (1979-83), career mobility (1979-83), sexual harassment (1980-83), affirmative action, office technology, race and sex discrimination, and; CWG staffing, training programs, public education/networking and fund raising. This subseries also includes Board Lists for 1980, 1981 and 1982.</p>
           </scopecontent>
         </c02>
-        <c02 id="nam_ua685-1.4" level="subseries">
+        <c02 id="aspace_2cbc52da83934e16dfff6e66aa3bc8a4" level="subseries">
           <did>
+            <unittitle>Board Correspondence</unittitle>
             <unitid>1.4</unitid>
-            <unittitle label="Subseries">Board Correspondence</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1978/1982" type="inclusive">1978-1982</unitdate>
-            <physdesc>
-              <extent unit="cubic ft.">0.175</extent>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">0.175 cubic ft.</extent>
             </physdesc>
+            <unitdate normal="1978/1982" type="inclusive">1978-1982</unitdate>
           </did>
-          <scopecontent>
+          <scopecontent id="aspace_57403568bf7840aa9ec5908eb0520f0b">
+            <head>Scope and Contents</head>
             <p>This subseries consists of correspondence - letters and memoranda sent to the members of the Board. Topics covered include changes in the CWG Board, BM conflicts of interest, CWG mission, nominations/elections to the Board, grants and donations, and issues such as career ladders, pay equity, rape legislation, and NYC Advisor Program. This subseries also includes the records of the Executive - Ad Hoc Advisory Committee consisting of memoranda and letters on funding and the establishment of the CWG and lists of members of the Committee and Board.</p>
           </scopecontent>
         </c02>
       </c01>
-      <c01 id="nam_ua685-2" level="series">
+      <c01 id="aspace_f59d8aef01918b98a216f3d60bf566a8" level="series">
         <did>
+          <unittitle>Board President Records</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Board President Records</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1976-1979" type="inclusive">1976-1979</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.25</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.25 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1976/1979" type="inclusive">1976-1979</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_bc7472d9810be05be20a937004465f3a">
+          <head>Arrangement</head>
           <p>This series is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_c5d1a540a7ac756113a546d66ca1c3bf">
+          <head>Scope and Contents</head>
           <p>This series contains the retained records of the first President of the Board of Directors and co-founder of the CWG, Linda Tarr-Whelan and consists of correspondence (letters and memoranda's for 1977-6/79), agendas, proposal notes, photocopies of news clippings, Board and other reports. Topics 'included are sex discrimination in public employment, career mobility, and establishment of the CWG, affirmative action, funding and career planning. Some of the information contained in these files predate the founding of the CWG in 1978.</p>
         </scopecontent>
       </c01>
-      <c01 id="nam_ua685-3" level="series">
+      <c01 id="aspace_8b4718bfd10fe0643042b13f7d4d0f9c" level="series">
         <did>
+          <unittitle>Correspondence (Day Files)</unittitle>
           <unitid>3</unitid>
-          <unittitle label="Series">Correspondence (Day Files)</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1977/1986" type="inclusive">1977-1986</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">3.5</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">3.5 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1977/1986" type="inclusive">1977-1986</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_179eca98cee30249df1d8ab349fa4465">
+          <head>Arrangement</head>
           <p>Arranged chronologically.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_230552bdcb79e07ef267a13621519683">
+          <head>Scope and Contents</head>
           <p>Contains 1979-83 day files preceded by general incoming and outgoing correspondence files. This series consists of the central day files of the CWG. It includes letters, form letters, memoranda, project proposals, and project updates. Topics covered in this series includes career ladders, career mobility (1979-85), sex discrimination and discrimination of the handicapped, women and minority advancement, comparable worth/pay equity 1979-86), child care, and sexual harassment (1979-83), as well as Center training programs, and funding.</p>
         </scopecontent>
       </c01>
-      <c01 id="nam_ua685-4" level="series">
+      <c01 id="aspace_e2a7d099bf5e184886c67ad703576ca8" level="series">
         <did>
+          <unittitle>Executive Director's Subject Files</unittitle>
           <unitid>4</unitid>
-          <unittitle label="Series">Executive Director's Subject Files</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1976/1988" type="inclusive">1976-1988</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">1</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1976/1988" type="inclusive">1976-1988</unitdate>
         </did>
-        <scopecontent>
+        <scopecontent id="aspace_fa2b9ec04166824733a63ca67df47bb4">
+          <head>Scope and Contents</head>
           <p>The series includes documents relating to the creation of the center, by-laws, Board of Director notices, minutes and agendas, and the Director's report to the Board. Also included are the Executive Committee agenda minutes and notices, budgets, financial records, fellowship programs, conferences held and activity summaries. Also included are proposals for reports, studies, and programs; bibliographies, brochures from Center programs, a news release file and news articles relating to the Center.</p>
         </scopecontent>
-        <c02 id="nam_ua685-4_1">
+        <c02 id="aspace_29d738f584da43e2f38039141077bc76" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Bibliographies</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal=" 1978/1987"> 1978-1987</unitdate>
+            <unitdate normal="1978/1987" type="inclusive">1978-1987</unitdate>
+            <container id="aspace_a00a312bdcaf5557b45b1c0e573ee525" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_6a0c475e095a6ca276bf429469a2615b" parent="aspace_a00a312bdcaf5557b45b1c0e573ee525" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_2">
+        <c02 id="aspace_f340e6d3e38dff35d6cdae184d1bddaa" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
-            <unittitle>Board of Directors notices,  meetings and minutes</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal=" 1978/1979"> 1978-1979</unitdate>
+            <unittitle>Board of Directors notices, meetings and minutes</unittitle>
+            <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container id="aspace_fe4eb07a92a5336ccf7a7c339007e679" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_5c055e0c705af480943dec1a4894b4f2" parent="aspace_fe4eb07a92a5336ccf7a7c339007e679" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_3">
+        <c02 id="aspace_e8f9daa74a8fef044559202f804811dc" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Board of Directors minutes and reports</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal=" 1978/1985"> 1978-1985</unitdate>
+            <unitdate normal="1978/1985" type="inclusive">1978-1985</unitdate>
+            <container id="aspace_c6868a36b9a74b32d81d1620299e9ccb" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_c7d5b5bb1853ce4328f9d0a6b409d629" parent="aspace_c6868a36b9a74b32d81d1620299e9ccb" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_4">
+        <c02 id="aspace_595ee77a8b41da9dcd483b65275e413b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Board of Directors minutes and reports</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal=" 1978/1979"> 1978-1979</unitdate>
+            <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container id="aspace_47abed3c06bf0dadc6b340e9e6566a27" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_13c9d80d8d72ba610f114907f6231160" parent="aspace_47abed3c06bf0dadc6b340e9e6566a27" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_5">
+        <c02 id="aspace_fc18561a2e707ba80057b1835458b26a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Brochures</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal=" 1977/1987"> 1977-1987</unitdate>
+            <unitdate normal="1977/1987" type="inclusive">1977-1987</unitdate>
+            <container id="aspace_a54fc4f37d6d1b9f18c3b29fd2d2d1ad" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_fe55cb2604535c3975b2bca149fbefb0" parent="aspace_a54fc4f37d6d1b9f18c3b29fd2d2d1ad" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_6">
+        <c02 id="aspace_e0ff7708f28c58ae1e52719e95e9687a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Budget and Finance</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal=" 1978/1980"> 1978-1980</unitdate>
+            <unitdate normal="1978/1980" type="inclusive">1978-1980</unitdate>
+            <container id="aspace_1ead3a55772f16afcffc1e6905b08ab4" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_f78512c6a29614d0a3599772fabf6990" parent="aspace_1ead3a55772f16afcffc1e6905b08ab4" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_7">
+        <c02 id="aspace_60cda0bde89325c0ddb8c6c1c2a0fa7d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>By-Laws</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1976">1976</unitdate>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_5d26bfd03ee345ab8eea26e7906cd65f" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_0a6b6600ae4472c9f1657401f284e876" parent="aspace_5d26bfd03ee345ab8eea26e7906cd65f" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_8">
+        <c02 id="aspace_a01b56ad4032d790f280037c9c462c36" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Career Planning handbook news coverage</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal=" 1979/1981"> 1979-1981</unitdate>
+            <unitdate normal="1979/1981" type="inclusive">1979-1981</unitdate>
+            <container id="aspace_ca6cf5a131528054a22bf3691689b7f9" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_86ade6da6a96e5c129d087ea8fe7876f" parent="aspace_ca6cf5a131528054a22bf3691689b7f9" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_9">
+        <c02 id="aspace_a9fc1ff83926f4e128d695b6a87d2eba" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Conferences held</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1983">1983</unitdate>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_a389a3c72afe84abd89c6f101f3c1e64" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_600faf5d7a5a65271a3cf66428d11ead" parent="aspace_a389a3c72afe84abd89c6f101f3c1e64" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_10">
+        <c02 id="aspace_e3dc27dbcc65a8bc13534af08a254e09" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Director's report to the board</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal=" 1978/1982"> 1978-1982</unitdate>
+            <unitdate normal="1978/1982" type="inclusive">1978-1982</unitdate>
+            <container id="aspace_ecc13461fe87c804d62a6b06bfa6fccb" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_bf45cb1b98904dc29157914ee535f968" parent="aspace_ecc13461fe87c804d62a6b06bfa6fccb" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_11">
+        <c02 id="aspace_079ecf3ef4bc369202349278a1a179a0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Executive Committee minutes and agenda</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal=" 1982/1985"> 1982-1985</unitdate>
+            <unitdate normal="1982/1985" type="inclusive">1982-1985</unitdate>
+            <container id="aspace_a60605f6a4d7fa459678c40976246d7e" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_2adb5d6deae0d27d20de4394c27c970c" parent="aspace_a60605f6a4d7fa459678c40976246d7e" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_12">
+        <c02 id="aspace_f57c5d50851372b0691f074d23cda8b6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Fellowships</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal=" 1983/1987"> 1983-1987</unitdate>
+            <unitdate normal="1983/1987" type="inclusive">1983-1987</unitdate>
+            <container id="aspace_c5bdc906194d2ab91c3515e85be1dc34" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_3606676beb3f4411e37fa744acfd7726" parent="aspace_c5bdc906194d2ab91c3515e85be1dc34" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_13">
+        <c02 id="aspace_e78a787e4a837bc8decc89b7c1cc813e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Goals and priorities</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal=" 1978/1979"> 1978-1979</unitdate>
+            <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container id="aspace_dc09e764cb7918ec6667a61bb6374ea6" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_344c6466ef673cdf383d5e9ddc689738" parent="aspace_dc09e764cb7918ec6667a61bb6374ea6" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_14">
+        <c02 id="aspace_169e7028b9a020b5285299b969ee5e88" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>History</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1978">1978</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1988">1988</unitdate>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_2a547e7f9fa97fc3444c63e1f8811495" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_ee8c2b146d6d73b884819b9893b35c7b" parent="aspace_2a547e7f9fa97fc3444c63e1f8811495" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_15">
+        <c02 id="aspace_6badac8ad83abde1956cfabd2c0c74b6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Memos and notices</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal=" 1980/1984"> 1980-1984</unitdate>
+            <unitdate normal="1980/1984" type="inclusive">1980-1984</unitdate>
+            <container id="aspace_3c9cdcc409d1951c0347aa3038b05012" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_a499c68280b9c762e65181449b70c281" parent="aspace_3c9cdcc409d1951c0347aa3038b05012" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_16">
+        <c02 id="aspace_38b86c2c4c6b9fc5d9109a4b2c947a22" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>News articles</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal=" 1980/1984"> 1980-1984</unitdate>
+            <unitdate normal="1980/1984" type="inclusive">1980-1984</unitdate>
+            <container id="aspace_518bbe5d5877d7da2747da386e1c95b9" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_aebde11c67d854e5e4106c0f80f2c252" parent="aspace_518bbe5d5877d7da2747da386e1c95b9" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_17">
+        <c02 id="aspace_acb13b9adc257ab2a22734243aed2dfc" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>News releases</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal=" 1980/1981"> 1980-1981</unitdate>
+            <unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate>
+            <container id="aspace_bc9c17919d32d7e662b6d3c598a97f0e" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_ad4e09abd91f9471e92c02aaafcb9b48" parent="aspace_bc9c17919d32d7e662b6d3c598a97f0e" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_18">
+        <c02 id="aspace_b5093974c1ffbc202aad494e2df3061f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>News on Women in Government</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal=" 1982/1987"> 1982-1987</unitdate>
+            <unitdate normal="1982/1987" type="inclusive">1982-1987</unitdate>
+            <container id="aspace_94eaeb706db2f0716850a9c05281b916" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_ae2423418654be4d8fd5c5ff6e8fa4d4" parent="aspace_94eaeb706db2f0716850a9c05281b916" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_19">
+        <c02 id="aspace_b3e007d174e03f680bee1e4629c25eb2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>Program-Managerial Access Project</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_c3b910e0c599a26039f455e6671fea96" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_82d98c156610bdbda3d307c8b9b982c8" parent="aspace_c3b910e0c599a26039f455e6671fea96" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_20">
+        <c02 id="aspace_e60b66db4116d55c19e00e242a0abd8e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>Program-Preparing for a Change</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1985">1985</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_09de7ea8e04eba68c087a34a9782119a" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_b981462b7e3f56438c1b42ffb61a8bd3" parent="aspace_09de7ea8e04eba68c087a34a9782119a" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_21">
+        <c02 id="aspace_3b81c7fcf755f35cbfe8e26a24eb1246" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>Program-Managing a Changing Workforce</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_36667964c0d69475cf2638cae71f5384" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_46f092c17c34b11d7cf9be4c300cbaf2" parent="aspace_36667964c0d69475cf2638cae71f5384" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_22">
+        <c02 id="aspace_f51852ba641bb24ea7bd2da4f13ca393" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>Program-Underdeveloped Women Working for New York State Government</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1980">1980</unitdate>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_75d594a1d7356c3410254076a8e3f0ad" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_92480b7915515c0d733c3556559683eb" parent="aspace_75d594a1d7356c3410254076a8e3f0ad" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_23">
+        <c02 id="aspace_42ae6a38ab0b42a116eb6c95562b243f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23</container>
             <unittitle>Proposal-Comparable Worth</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_b6d14c83485ff80e95c92aca1bf1123e" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_535f6c9cd1d17cf47ef1476f45741914" parent="aspace_b6d14c83485ff80e95c92aca1bf1123e" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_24">
+        <c02 id="aspace_a39c5f51b8f9f37f144d99c5ece4949e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">24</container>
             <unittitle>Proposal-Continuing Education in State Government</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1978">1978</unitdate>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_01e11c2c10af664b16511e595af85201" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_62251d3c16a7bf2e216056f37c43856e" parent="aspace_01e11c2c10af664b16511e595af85201" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_25">
+        <c02 id="aspace_1a59f504fb223e27e85b0258f59f6351" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">25</container>
             <unittitle>Proposal for Establishing a New York City Program for Women in State Government</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1979">1979</unitdate>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_862b0bb0bb1d6e8521967f1496b2dfca" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_5527c32de30970f5427852cab26d476d" parent="aspace_862b0bb0bb1d6e8521967f1496b2dfca" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_26">
+        <c02 id="aspace_c21fc342fa51344735ac281bce1dec8f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">26</container>
             <unittitle>Proposal-Women as Managers</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1979">1979</unitdate>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_64bf6e32d6a09d228078ee4dea1becfd" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_db3bb7946329be3dba9b4a9664c8ec93" parent="aspace_64bf6e32d6a09d228078ee4dea1becfd" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_27">
+        <c02 id="aspace_3e9f57f8ce14b242a13ef91fd3c7a9db" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">27</container>
             <unittitle>Proposal for Center</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1976">1976</unitdate>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_9038e368db2c47f6523e630785fa4966" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_07d4af470c53c47c9dcf130f4fbabdb4" parent="aspace_9038e368db2c47f6523e630785fa4966" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_28">
+        <c02 id="aspace_e38c3be01e0d4beabeec4439d7be0895" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">28</container>
             <unittitle>Publication lists</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal=" 1976/1987"> 1976-1987</unitdate>
+            <unitdate normal="1976/1987" type="inclusive">1976-1987</unitdate>
+            <container id="aspace_3d9f6a6398801a944f6b779c37ac3cb2" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_8ae534eb5bf01e361f7260bacf7d37c8" parent="aspace_3d9f6a6398801a944f6b779c37ac3cb2" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_29">
+        <c02 id="aspace_054f89101b9fa7e4b6944407a2f3311b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">29</container>
             <unittitle>Publications</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal=" 1979/1987"> 1979-1987</unitdate>
+            <unitdate normal="1979/1987" type="inclusive">1979-1987</unitdate>
+            <container id="aspace_fe5e025f7cc648a9eb067bcc48f150fe" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_79043978f5b8e0f7b7d0f3b9e3c13766" parent="aspace_fe5e025f7cc648a9eb067bcc48f150fe" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_30">
+        <c02 id="aspace_71dd443e7ad7107d17c41fb63c8d6919" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">30</container>
             <unittitle>Speeches/Transcripts</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1976">1976</unitdate>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_95f62e372f85fbdf9b89eccf2660ee12" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_dc9be109c37c3f50f650f8fe164d0919" parent="aspace_95f62e372f85fbdf9b89eccf2660ee12" type="Folder">30</container>
           </did>
         </c02>
-        <c02 id="nam_ua685-4_31">
+        <c02 id="aspace_41f52d51658c14554cc633cf5b89bf83" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">31</container>
             <unittitle>Summary of activities</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1985">1985</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_c036b342819494647e764c93c12e36ca" label="Mixed Materials" type="Box">1 (4-Executive Director's Subject Files)</container>
+            <container id="aspace_9a590e93bf20f20523a1c49e551e4c54" parent="aspace_c036b342819494647e764c93c12e36ca" type="Folder">31</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_ua685-5" level="series">
+      <c01 id="aspace_f74cc775f7549d750afeff8def62ca38" level="series">
         <did>
+          <unittitle>Publications</unittitle>
           <unitid>5</unitid>
-          <unittitle label="Series">Publications</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1979/1987" type="inclusive">1979-1987</unitdate>
+          <unitdate normal="1979/1987" type="inclusive">1979-1987</unitdate>
         </did>
-        <scopecontent>
+        <scopecontent id="aspace_5c8478ddba89f1257c87c506189568ae">
+          <head>Scope and Contents</head>
           <p>This series includes the working papers and reports published by the CWG.</p>
         </scopecontent>
-        <c02 id="nam_ua685-5.1" level="subseries">
+        <c02 id="aspace_e03970c1731cb3f5cba98b00a2afe826" level="subseries">
           <did>
+            <unittitle>Reports</unittitle>
             <unitid>5.1</unitid>
-            <unittitle label="Subseries">Reports</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1978-1986" type="inclusive">1978-1986</unitdate>
+            <unitdate normal="1978/1986" type="inclusive">1978-1986</unitdate>
           </did>
-          <scopecontent>
+          <scopecontent id="aspace_2507ac6fc6f753e9572f701934e4a97f">
+            <head>Scope and Contents</head>
             <p>This series includes published and unpublished reports used in seminars and self-help programs. The reports cover such problems as discrimination, pay equity, understanding affirmative action, bridge jobs in New York State government and hiring policies in New York City.</p>
           </scopecontent>
-          <c03 id="nam_ua685-5.1_1">
+          <c03 id="aspace_da11e609b930c044883066edfce41c80" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">1</container>
               <unittitle>The New York State Pay Equity Study: A Research Report</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1986">1986</unitdate>
+              <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+              <container id="aspace_535bffbfd85dfbece80a4364a5ef6dd9" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_ea086c50765d5ad10a5992e8c29f7082" parent="aspace_535bffbfd85dfbece80a4364a5ef6dd9" type="Folder">1</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.1_2">
+          <c03 id="aspace_49468f1e555f023258e3019572f95702" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">2</container>
               <unittitle>Alternative Routes for Managerial Promotion in New York State: A Research Report</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1984">1984</unitdate>
+              <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+              <container id="aspace_05c231b9027396b116c972c539e33e00" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_61a88e5f58c0f62854abeeb028aff16f" parent="aspace_05c231b9027396b116c972c539e33e00" type="Folder">2</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.1_3">
+          <c03 id="aspace_b65abce7971ed1e46c2e80cc44d1a847" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">3</container>
               <unittitle>Occupational Segregation and Its Impact on working Women: Report of a Conference (Sponsored by the Ford Foundation)</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1982">1982</unitdate>
+              <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+              <container id="aspace_3afd5f755ffc6953d57ab5851079fff2" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_26ccdf43e5013f7ce6ca38b89d733f23" parent="aspace_3afd5f755ffc6953d57ab5851079fff2" type="Folder">3</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.1_4">
+          <c03 id="aspace_b41ee4146bd2952a74c3c6b28b16c592" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">4</container>
               <unittitle>Hiring Policies in the New York City Uniformed Services</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1986">1986</unitdate>
+              <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+              <container id="aspace_2e0b9970055ff4fd823291a767cb67db" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_71ddb3ad348c71d541d4cf219fa50f43" parent="aspace_2e0b9970055ff4fd823291a767cb67db" type="Folder">4</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.1_5">
+          <c03 id="aspace_585795171623f77d8ccf26d1d9e222da" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">5</container>
               <unittitle>The Effects of Personnel Practices on Female Employees on the NYS Unified Court System</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1986">1986</unitdate>
+              <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+              <container id="aspace_e0d3cbb03cd78e0baf3e58e74052c1a6" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_b0eb705c69a5cddddfa3013d7a28afe2" parent="aspace_e0d3cbb03cd78e0baf3e58e74052c1a6" type="Folder">5</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.1_6">
+          <c03 id="aspace_7e6446c69b1fbeef53300590c0d5266b" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">6</container>
               <unittitle>Ergonomics: The Changing Office</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1987">1987</unitdate>
+              <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+              <container id="aspace_fd8a1b0d62a3dc4315955852ca845e6a" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_1d2b6a34b5b87c9fee34a1fe28e1f72d" parent="aspace_fd8a1b0d62a3dc4315955852ca845e6a" type="Folder">6</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.1_7">
+          <c03 id="aspace_cb6f56196df6a13edcd84e78d3efe8bd" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">7</container>
               <unittitle>Managerial Access Project</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1985">1985</unitdate>
+              <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+              <container id="aspace_72ba28c3066dfaac81a95bf4f3a8d538" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_751db93467b23ddfa89086fcea844385" parent="aspace_72ba28c3066dfaac81a95bf4f3a8d538" type="Folder">7</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.1_8">
+          <c03 id="aspace_015f54b5362db3245911aa51146b5e39" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">1</container>
               <unittitle>Alternative Routes of Promotion, 1981</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1981">1981</unitdate>
+              <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+              <container id="aspace_dd95ed0a3e12a1510d89ae274164227c" label="Mixed Materials" type="Box">2 (5-Publications)</container>
+              <container id="aspace_85dfda7201fbacc660b78355f8ff2830" parent="aspace_dd95ed0a3e12a1510d89ae274164227c" type="Folder">1</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.1_9">
+          <c03 id="aspace_fc418280af462aeb3e3e75460c9613f2" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">2</container>
               <unittitle>Alternative Routes for Managerial Promotion in New York State: An Analysis of Their Differential Use on the Basis of Sex and Minority Status</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1984">1984</unitdate>
+              <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+              <container id="aspace_5131e9d15de5ade5d0be3d020f93cef0" label="Mixed Materials" type="Box">2 (5-Publications)</container>
+              <container id="aspace_8608e423e909c1dd103791a84b21351a" parent="aspace_5131e9d15de5ade5d0be3d020f93cef0" type="Folder">2</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.1_10">
+          <c03 id="aspace_bd5e0ae80c80c8e67881758827aa4eec" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">3</container>
               <unittitle>Bridge Jobs in New York State Government</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1978">1978</unitdate>
+              <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+              <container id="aspace_f5bd291e8eb34ab9f861673a429a9fec" label="Mixed Materials" type="Box">2 (5-Publications)</container>
+              <container id="aspace_91c536b4bad5e099f5b54f2b3b02068b" parent="aspace_f5bd291e8eb34ab9f861673a429a9fec" type="Folder">3</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.1_11">
+          <c03 id="aspace_498b33d9866e74ec8f4fb79ed366b24d" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">4</container>
               <unittitle>Improving the Status of Women and Minorities</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1986">1986</unitdate>
+              <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+              <container id="aspace_b6c01cb18aace6addc88c8a298cc1728" label="Mixed Materials" type="Box">2 (5-Publications)</container>
+              <container id="aspace_680142ffd1555751a21a3b73c1862d67" parent="aspace_b6c01cb18aace6addc88c8a298cc1728" type="Folder">4</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.1_12">
+          <c03 id="aspace_2dddc722b54b840ec6e60930c5e79efc" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">5</container>
               <unittitle>Office Automation; A Survey of Government Employees</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1987">1987</unitdate>
+              <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+              <container id="aspace_a3f8ecbf7c3c5736d33aea52312d0a9c" label="Mixed Materials" type="Box">2 (5-Publications)</container>
+              <container id="aspace_85354bfc655e06606f101638739a21d2" parent="aspace_a3f8ecbf7c3c5736d33aea52312d0a9c" type="Folder">5</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.1_13">
+          <c03 id="aspace_e5da3af387231fc8b1141e30ad0be9a2" level="file">
             <did>
-              <container type="Box">2</container>
-              <container type="Folder">6</container>
               <unittitle>Understanding and Utilizing Affirmative Action: A program for Managers and Supervisors</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1985">1985</unitdate>
+              <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+              <container id="aspace_00bd2a114b046cc68c8e54e5b02b51b6" label="Mixed Materials" type="Box">2 (5-Publications)</container>
+              <container id="aspace_26518a49b0e9ed655d71704f11cf2989" parent="aspace_00bd2a114b046cc68c8e54e5b02b51b6" type="Folder">6</container>
             </did>
           </c03>
         </c02>
-        <c02 id="nam_ua685-5.2" level="subseries">
+        <c02 id="aspace_f7e4874b387717d7620d964401da1175" level="subseries">
           <did>
+            <unittitle>Working Papers</unittitle>
             <unitid>5.2</unitid>
-            <unittitle label="Subseries">Working Papers</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1979/1986" type="inclusive">1979-1986</unitdate>
+            <unitdate normal="1979/1986" type="inclusive">1979-1986</unitdate>
           </did>
-          <scopecontent>
+          <scopecontent id="aspace_e1cf57425be673a4c496405631bf3efe">
+            <head>Scope and Contents</head>
             <p>Working papers are developed to support a specific area of concern and are then used in seminars and special forum programs by which the center can help educate women. They report on admission of women in medical school, comparable worth, pay equity and sex-segregated career ladders.</p>
           </scopecontent>
-          <c03 id="nam_ua685-5.2_1">
+          <c03 id="aspace_f10e2e24fa8d34edf77e7ef4b195cb74" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">1</container>
               <unittitle>Sex-Segregated Career Ladders in New York State Government Employment: A structural Analysis of Inequality in Employment</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1979">1979</unitdate>
+              <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+              <container id="aspace_2f3550bd98da82805efa6125665b12aa" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_d5f728e68884f1e14480d50decbd4c6e" parent="aspace_2f3550bd98da82805efa6125665b12aa" type="Folder">1</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.2_2">
+          <c03 id="aspace_b2103ad79be67f99b6b56ec38fcf8899" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">2</container>
               <unittitle>Summary of Working Papers #1</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1979">1979</unitdate>
+              <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+              <container id="aspace_c8c9a5974b3e6349386c06bd39d52072" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_40590ade8169a87f850a529452b993d2" parent="aspace_c8c9a5974b3e6349386c06bd39d52072" type="Folder">2</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.2_3">
+          <c03 id="aspace_965731eb671698f35ffd26a5e01b87e7" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">3</container>
               <unittitle>Preliminary Memorandum on pay Equity</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1980">1980</unitdate>
+              <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+              <container id="aspace_03d94aafc539a93bf549f0f68233a79b" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_374c37ea5634c6dc7340d0598a3cecd4" parent="aspace_03d94aafc539a93bf549f0f68233a79b" type="Folder">3</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.2_4">
+          <c03 id="aspace_7d6821821ffd8c91fb3825816edba31f" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">4</container>
               <unittitle>Women, Unions and Equal Employment Opportunity</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1981">1981</unitdate>
+              <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+              <container id="aspace_b9c9f932a321a3c8e9509b6fdf06953f" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_becf4d53acea6eb6a02d85b2d854da07" parent="aspace_b9c9f932a321a3c8e9509b6fdf06953f" type="Folder">4</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.2_5">
+          <c03 id="aspace_1ec24423e98756207dae474907fb91c5" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">5</container>
               <unittitle>The Employment Effects of Comparable Worth Policy for Women</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1982">1982</unitdate>
+              <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+              <container id="aspace_d00c20979ca51215c231a4ed7ee03c2a" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_d76fb8fe688f099345887a0ad238fd5d" parent="aspace_d00c20979ca51215c231a4ed7ee03c2a" type="Folder">5</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.2_6">
+          <c03 id="aspace_fa47709ad519cd3da1c2fb1a0ec518de" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">6</container>
               <unittitle>Labor Market Inequality and Equal Employment Policy for Women: Across National Comparison</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1979">1979</unitdate>
+              <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+              <container id="aspace_e5b69d593e2e59abf84e3d0d6652356b" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_34fb5cd7473c3d28a56769aa1cf2ed9c" parent="aspace_e5b69d593e2e59abf84e3d0d6652356b" type="Folder">6</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.2_7">
+          <c03 id="aspace_c4075b946c93296a8adc020520d50523" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">7</container>
               <unittitle>Statistics on Women and Minorities in Public Employment</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1983">1983</unitdate>
+              <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+              <container id="aspace_b7aeda2eca38eff85626c1002627a838" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_89487406a9545238c4468edd7835504b" parent="aspace_b7aeda2eca38eff85626c1002627a838" type="Folder">7</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.2_8">
+          <c03 id="aspace_bbf26e516c6a9582c138fe11f1534f78" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">8</container>
               <unittitle>Summary of Working Papers #6</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1984">1984</unitdate>
+              <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+              <container id="aspace_a3051ef4bc060715e8982622b3462b68" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_3670a5322e1e7215978c83ef826f16b2" parent="aspace_a3051ef4bc060715e8982622b3462b68" type="Folder">8</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.2_9">
+          <c03 id="aspace_12aa875ec2e62f737fb98a886906f980" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">9</container>
               <unittitle>Managerial Promotions in the Public Sector: The Impact of Eligibility Requirements on Women and Minorities</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1982">1982</unitdate>
+              <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+              <container id="aspace_e8a26424a6b8c632162dcfdbfc73b090" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_2bbca17d38e8b3d7c5776bbf8b325066" parent="aspace_e8a26424a6b8c632162dcfdbfc73b090" type="Folder">9</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.2_10">
+          <c03 id="aspace_3ab539090d160ff9f7277c7bcd1b0b0d" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">10</container>
               <unittitle>The Admission of Women and Minorities to Medical School</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1982">1982</unitdate>
+              <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+              <container id="aspace_0b6638d90878e2f814be66c0e6a5a6fd" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_a82246073ab8130f4ad5e0650d4fad42" parent="aspace_0b6638d90878e2f814be66c0e6a5a6fd" type="Folder">10</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.2_11">
+          <c03 id="aspace_644ac1b5638ddce2af25ace45f5a9e3c" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">11</container>
               <unittitle>Hard Truths for Strategic Change; Dilemmas for Implementing Affirmative Action</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1982">1982</unitdate>
+              <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+              <container id="aspace_1dd2b4c8c7af927043a7ebeec26960b2" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_c4fc45808bc52ca29dd2917745f7368e" parent="aspace_1dd2b4c8c7af927043a7ebeec26960b2" type="Folder">11</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.2_12">
+          <c03 id="aspace_cbb1664bd4e7ecaf421dd6c92b001f0d" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">12</container>
               <unittitle>Testimony of the Center for Women in Government before the United States House of Representatives</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1982">1982</unitdate>
+              <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+              <container id="aspace_2521cdec2425c92df895ce3b4152674f" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_f2b73d6e44a6d701a28a8b1ffba85bf5" parent="aspace_2521cdec2425c92df895ce3b4152674f" type="Folder">12</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.2_13">
+          <c03 id="aspace_fca414dcbb1e1eeb6bfa3235dc08f8eb" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">13</container>
               <unittitle>A Want of Harmony; Perspectives on Wage Discrimination and Comparable Worth</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1983">1983</unitdate>
+              <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+              <container id="aspace_e6502c158beb8142936b4426bda2c316" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_53a35dca7a3a95ae04f231477cdd589f" parent="aspace_e6502c158beb8142936b4426bda2c316" type="Folder">13</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.2_14">
+          <c03 id="aspace_757c8fbe4f50ea96f595a0444872ca25" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">14</container>
               <unittitle>New Directions of Equal Employment Policy; Training Women for Non-Traditional Occupations</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1984">1984</unitdate>
+              <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+              <container id="aspace_5708d9dbef0f8561e5ded51c958b0c19" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_99be7dc947f35b213371ae88d0d8a17c" parent="aspace_5708d9dbef0f8561e5ded51c958b0c19" type="Folder">14</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.2_15">
+          <c03 id="aspace_c452392a74663576eda443995e80e0f1" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">15</container>
               <unittitle>Comparable Worth and Wage Discrimination</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1984">1984</unitdate>
+              <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+              <container id="aspace_3c3e8d9c3353f0b341266aeb5c9ac433" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_62af112d72f83097113f5fe9662b5561" parent="aspace_3c3e8d9c3353f0b341266aeb5c9ac433" type="Folder">15</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.2_16">
+          <c03 id="aspace_988a470ddcf3e89c593bb05373378540" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">16</container>
               <unittitle>Equitable Compensation; Methodological Criteria for Comparable Worth</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1985">1985</unitdate>
+              <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+              <container id="aspace_c10ca360123fa0d85663eebf0507b7a3" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_00434eb3b5cb02d235221bcd6fbe3c0d" parent="aspace_c10ca360123fa0d85663eebf0507b7a3" type="Folder">16</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.2_17">
+          <c03 id="aspace_cd33c0ba5bd4936b6e6c678ea37f3db8" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">17</container>
               <unittitle>Minorities and Pay Equity in New York State Government Employment</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1986">1986</unitdate>
+              <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+              <container id="aspace_61e4510eb9ad95fd9d21fa002a0f52b7" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_8b48c8a9401e4f566facc53cb15497b4" parent="aspace_61e4510eb9ad95fd9d21fa002a0f52b7" type="Folder">17</container>
             </did>
           </c03>
         </c02>
-        <c02 id="nam_ua685-5.3" level="subseries">
+        <c02 id="aspace_830df245f8c874380dac103e1e6e6aaa" level="subseries">
           <did>
+            <unittitle>Curricula</unittitle>
             <unitid>5.3</unitid>
-            <unittitle label="Subseries">Curricula</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1979/1987" type="inclusive">1979-1987</unitdate>
+            <unitdate normal="1979/1987" type="inclusive">1979-1987</unitdate>
           </did>
-          <scopecontent>
+          <scopecontent id="aspace_374383430ad5c87b544d8e2d0b4fa2be">
+            <head>Scope and Contents</head>
             <p>Curricula are used as a teaching tool in seminars and training sessions.</p>
           </scopecontent>
-          <c03 id="nam_ua685-5.3_1">
+          <c03 id="aspace_cbe978ff4cc41eb0dba433b3869d3a9a" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">1</container>
               <unittitle>Ergonomics; The Changing Office</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1987">1987</unitdate>
+              <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+              <container id="aspace_2eea8ad423d9f7a3abfa31a5962d2ad2" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_39fa14b60cc358c155b547467166b786" parent="aspace_2eea8ad423d9f7a3abfa31a5962d2ad2" type="Folder">1</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.3_2">
+          <c03 id="aspace_f6499f47837e540688c240a3c488a9e9" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">2</container>
               <unittitle>Next Step</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1979/1980">1979-1980</unitdate>
+              <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
+              <container id="aspace_e768c34db262592cbcce67a31f4d17a5" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_8054532181cde1d04ffbf98bda0f31fa" parent="aspace_e768c34db262592cbcce67a31f4d17a5" type="Folder">2</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.3_3">
+          <c03 id="aspace_ae0c35fe510d22547b7a42ba2ae406d7" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">3</container>
               <unittitle>Sexual Harassment: Preventive Intervention for New York State</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1980">1980</unitdate>
+              <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+              <container id="aspace_d60c2b5e75e4b6e1bc5f3a3af8181b84" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_6c3582d8fbe11873e3d3183fbce5bbcb" parent="aspace_d60c2b5e75e4b6e1bc5f3a3af8181b84" type="Folder">3</container>
             </did>
           </c03>
         </c02>
-        <c02 id="nam_ua685-5.4" level="subseries">
+        <c02 id="aspace_39c2de5deb13fddbb7d7feeca0f3e871" level="subseries">
           <did>
+            <unittitle>Guidebooks</unittitle>
             <unitid>5.4</unitid>
-            <unittitle label="Subseries">Guidebooks</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1980/1985" type="inclusive">1980-1985</unitdate>
+            <unitdate normal="1980/1985" type="inclusive">1980-1985</unitdate>
           </did>
-          <scopecontent>
+          <scopecontent id="aspace_59129d9dd3394fed7c6676d0d00f0b24">
+            <head>Scope and Contents</head>
             <p>These guidebooks are used to help women deal with workplace problems and changes in the problem areas.</p>
           </scopecontent>
-          <c03 id="nam_ua685-5.4_1">
+          <c03 id="aspace_4207cd98d1d95971cd0aa81985813a26" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">1</container>
               <unittitle>Preventing Sexual Harassment</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1980">1980</unitdate>
+              <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+              <container id="aspace_725c73d007bb95de7f7f1b0a9bca443f" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_eefca846fcfaba3d54b1916ef0fa2846" parent="aspace_725c73d007bb95de7f7f1b0a9bca443f" type="Folder">1</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.4_2">
+          <c03 id="aspace_ed20a90ef9f8eaa7eb76dc0e1b4b3b3b" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">2</container>
               <unittitle>Sexual Harassment; Landmark Cases</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1981">1981</unitdate>
+              <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+              <container id="aspace_0855ec4d6a32adb8b7cc66c5324c6a6d" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_65828c4eeb49ba9331afed263cc433d5" parent="aspace_0855ec4d6a32adb8b7cc66c5324c6a6d" type="Folder">2</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.4_3">
+          <c03 id="aspace_37b4c37470da91325367674b3011e6b2" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">3</container>
               <unittitle>Managing Sexual Harassment Problems</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1981">1981</unitdate>
+              <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+              <container id="aspace_c293ce505e8b981f8ffc39040cba1961" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_3c694830e858e7a7f2cd670b5c401951" parent="aspace_c293ce505e8b981f8ffc39040cba1961" type="Folder">3</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.4_4">
+          <c03 id="aspace_7350f000037eda76605520c6ddcd0f77" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">4</container>
               <unittitle>Non-Traditional Jobs for Women</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1984">1984</unitdate>
+              <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+              <container id="aspace_a2eec55b54ac4bc401f460d6cc91edc7" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_c36b2f49e430e956484e08190809fefe" parent="aspace_a2eec55b54ac4bc401f460d6cc91edc7" type="Folder">4</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.4_5">
+          <c03 id="aspace_ed162b7606fe7502ddd386dc9e48ac46" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">5</container>
               <unittitle>Women in Uniform Services</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1985">1985</unitdate>
+              <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+              <container id="aspace_0b64092a3e647cf617daa55ca24b0340" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_82ab7488b538e59c63c44c5e0970b90f" parent="aspace_0b64092a3e647cf617daa55ca24b0340" type="Folder">5</container>
             </did>
           </c03>
         </c02>
-        <c02 id="nam_ua685-5.5" level="subseries">
+        <c02 id="aspace_4f3aeabdbc4e4c178e19c448fdd945f8" level="subseries">
           <did>
+            <unittitle>Executive Development Institute</unittitle>
             <unitid>5.5</unitid>
-            <unittitle label="Subseries">Executive Development Institute</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1985" type="inclusive">1985</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
           </did>
-          <scopecontent>
+          <scopecontent id="aspace_49eecbbb76fe1e6a4c37f0724dd4f0ce">
+            <head>Scope and Contents</head>
             <p>The Institute is held across the state to educate women in areas of concern such as comparable worth and discrimination.</p>
           </scopecontent>
-          <c03 id="nam_ua685-5.5_1">
+          <c03 id="aspace_9a66b5a840a58f38227db27b10dbcb63" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">1</container>
               <unittitle>Institute program papers</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1985">1985</unitdate>
+              <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+              <container id="aspace_e1aacb11cbf2b3dae339297710da9d3f" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_84f0a6431f504fab3934bef1880d76b9" parent="aspace_e1aacb11cbf2b3dae339297710da9d3f" type="Folder">1</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.5_2">
+          <c03 id="aspace_82e49153cdf63f7da1db2267c9302ac2" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">2</container>
               <unittitle>Comparable Worth Project</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1985">1985</unitdate>
+              <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+              <container id="aspace_6d91e2a81df51e9bf05d032b9e5041ee" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_bca685f14e6f1760eece193552f27796" parent="aspace_6d91e2a81df51e9bf05d032b9e5041ee" type="Folder">2</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.5_3">
+          <c03 id="aspace_f28b6f95f5aedeec710f71285175bf3d" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">3</container>
               <unittitle>Discrimination</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1985">1985</unitdate>
+              <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+              <container id="aspace_bcdefbcf8298640274c04382207ced59" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_b914d5b11b7cbcbedecd4b2cb31ebff6" parent="aspace_bcdefbcf8298640274c04382207ced59" type="Folder">3</container>
             </did>
           </c03>
-          <c03 id="nam_ua685-5.5_4">
+          <c03 id="aspace_4303d532d4ea93e670929c0387fe3923" level="file">
             <did>
-              <container type="Box">1</container>
-              <container type="Folder">4</container>
               <unittitle>Participants of Executive Development Institute</unittitle>
-              <unitdate calendar="gregorian" era="ce" normal="1985">1985</unitdate>
+              <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+              <container id="aspace_62998bb059d242674f9e53f2545cf625" label="Mixed Materials" type="Box">1 (5-Publications)</container>
+              <container id="aspace_745c624cc55385e3f580d5864fcbe6fc" parent="aspace_62998bb059d242674f9e53f2545cf625" type="Folder">4</container>
             </did>
           </c03>
         </c02>
       </c01>
-      <c01 id="nam_ua685-6" level="series">
+      <c01 id="aspace_6d172d29fce6346e02ffe4c8325b8595" level="series">
         <did>
-          <unitid>6</unitid>
           <unittitle>Web Archives</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2010-02-18/2016-09-18">2010 February 18-2016 September 18</unitdate>
-          <physdesc>
-            <extent unit="captures">771</extent>
+          <unitid>6</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">771 captures</extent>
           </physdesc>
+          <unitdate normal="2010-02-18/2016-09-18" type="inclusive">2010 February 18-2016 September 18</unitdate>
         </did>
-        <acqinfo>
+        <acqinfo id="aspace_e8ecaf5d5652e4b728bf317db746ceee">
+          <head>Immediate Source of Acquisition</head>
           <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both the university's collection and the Internet Archive's public collection.</p>
-          <p>Surface-level crawling of www.albany.edu is performed daily which should includes most top-level webpages. Separate targeted crawls of every albany.edu subdomain are performed monthly to attempt to gather all content. This includes: www.albany.edu, www.rna.albany.edu, www.ctg.albany.edu, www.ualbanysports.com, www.albany.edu/rockefeller, www.albany.edu/cela, www.albany.edu/asrc, m.albany.edu,	library.albany.edu,	events.albany.edu,	cstar.cestm.albany.edu, csda.albany.edu, and alumni.albany.edu</p>
+          <p> Surface-level crawling of www.albany.edu is performed daily which should includes most top-level webpages. Separate targeted crawls of every albany.edu subdomain are performed monthly to attempt to gather all content. This includes: www.albany.edu, www.rna.albany.edu, www.ctg.albany.edu, www.ualbanysports.com, www.albany.edu/rockefeller, www.albany.edu/cela, www.albany.edu/asrc, m.albany.edu,	library.albany.edu,	events.albany.edu,	cstar.cestm.albany.edu, csda.albany.edu, and alumni.albany.edu</p>
         </acqinfo>
-        <phystech>
+        <phystech id="aspace_14f8fd7d13edad3dbd9a786c63055d02">
+          <head>Physical Characteristics and Technical Requirements</head>
           <p>Web Archives</p>
         </phystech>
-        <c02 id="nam_ua685-6_1">
+        <c02 id="aspace_e11a68a5f8171bac676afd111e32d2cf" level="file">
           <did>
-            <container type="Web-Archive">1</container>
             <unittitle>http://www.albany.edu/womeningov/ - University Archives collection</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2013-05-08/2016-09-18">2013 May 8-2016 September 18</unitdate>
-            <dao actuate="onrequest" linktype="simple" show="new" href="http://wayback.archive-it.org/3308/*/http://www.albany.edu/womeningov/"/>
+            <unitdate normal="2013-05-08/2016-09-18" type="inclusive">2013 May 8-2016 September 18</unitdate>
+            <container id="aspace_b8f63a80a9ebe47b9712e080fa855d2b" label="Mixed Materials" type="Web-Archive">1</container>
+            <dao xlink:actuate="onrequest" xlink:href="http://wayback.archive-it.org/3308/*/http://www.albany.edu/womeningov/" xlink:show="new" xlink:title="http://www.albany.edu/womeningov/ - University Archives collection">
+              <daodesc>
+                <p>http://www.albany.edu/womeningov/ - University Archives collection</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
-        <c02 id="nam_ua685-6_2">
+        <c02 id="aspace_1612bf2d96ae4b41bc307fd73da58dff" level="file">
           <did>
-            <container type="WARC">1</container>
             <unittitle>WARC file for http://www.albany.edu/womeningov/, (please see https://en.wikipedia.org/wiki/Web_ARChive for more details)</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2013-05-08/2016-09-18">2013 May 8-2016 September 18</unitdate>
+            <unitdate normal="2013-05-08/2016-09-18" type="inclusive">2013 May 8-2016 September 18</unitdate>
+            <container id="aspace_5edebd8cf4078ec38f4c63ffcbd84887" label="Mixed Materials" type="WARC">1</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_2cc79d9fb1a98d8c8a04f97944a642c7">
+            <head>Conditions Governing Access</head>
             <p>WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in researching with web archives.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua685-6_3">
+        <c02 id="aspace_f6744f4bd0d9969238ce765d14a632a5" level="file">
           <did>
-            <container type="Web-Archive">2</container>
             <unittitle>http://www.albany.edu/womeningov/ - Internet Archive collection</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2010-02-18/2016-09-18">2010 February 18-2016 September 18</unitdate>
-            <dao actuate="onrequest" linktype="simple" show="new" href="https://web.archive.org/web/*/http://www.albany.edu/womeningov/"/>
+            <unitdate normal="2010-02-18/2016-09-18" type="inclusive">2010 February 18-2016 September 18</unitdate>
+            <container id="aspace_ca0b8fee90c04d58ae0385ed25550b44" label="Mixed Materials" type="Web-Archive">2</container>
+            <dao xlink:actuate="onrequest" xlink:href="https://web.archive.org/web/*/http://www.albany.edu/womeningov/" xlink:show="new" xlink:title="http://www.albany.edu/womeningov/ - Internet Archive collection">
+              <daodesc>
+                <p>http://www.albany.edu/womeningov/ - Internet Archive collection</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
       </c01>

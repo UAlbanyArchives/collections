@@ -1,282 +1,266 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap035">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap035.xml" identifier="##">nam_apap035</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap035">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap035.xml">apap035</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>SCHENECTADY LABOR TEMPLE ASSOCIATION (APAP035)<date normal="1912/1977" type="inclusive">1912-1977</date></titleproper>
-        <author>Geoffrey A. Huth and Amy C. Schindler </author>
+        <titleproper>Schenectady Labor Temple Association; Records <num>apap035</num></titleproper>
+        <author>Geoffrey A. Huth and Amy C. Schindler</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2012">Copyright 2012 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2012</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Khadi Diop<date normal="2014">2014</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 17:50:13 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Encoded in EAD by Khadi Diop</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>SCHENECTADY LABOR TEMPLE ASSOCIATION (APAP035)<date normal="1912/1977" type="inclusive">1912-1977</date></titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2012</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap035</unitid>
-      <unittitle>Schenectady Labor Temple Association<unitdate type="inclusive" normal="1912/1977" label="Date:">1912-1977</unitdate></unittitle>
-      <origination>
-        <corpname encodinganalog="110" source="local">Schenectady Labor Temple Association</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
+      </repository>
+      <unittitle>Schenectady Labor Temple Association<unitdate normal="1912/1977" type="inclusive">1912-1977</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">Schenectady Labor Temple Association</corpname>
       </origination>
-      <physdesc>
-        <extent unit="cubic ft.">8</extent>
+      <unitid>apap035</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">8 cubic ft.</extent>
         <physfacet>processed to date</physfacet>
       </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
-      </repository>
-      <abstract label="Abstract:">Founded in 1907, the Schenectady Labor Temple Association promotes labor relations and interests within Schenectady County, NY.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <abstract id="aspace_2afc634094de745119c42410cb01714c">Founded in 1907, the Schenectady Labor Temple Association promotes labor relations and interests within Schenectady County, NY.</abstract>
+      <langmaterial id="aspace_6525fb9afbfefff0ecd8bfd7091c2083">English</langmaterial>
+      <physloc id="aspace_603a13c32a82973b27faab75e5016f9e">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_fcf9985ce448ff5fa727b41d55faa7e7">
+      <head>Processing Information</head>
+      <p>Processed in 2012 by Geoffrey A. Huth and Amy C. Schindler .</p>
+    </processinfo>
+    <accessrestrict id="aspace_62a9d0052a700b2e096ea0f5177cd020">
       <head>Access</head>
-      <p> Access to this record group is unrestricted.</p>
+      <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_80129049414cf5e495be2697e8f17bd6">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright. 
-	  Whenever possible, the M.E. Grenander Department of Special Collections and Archives 
-	  will provide information about copyright owners and other restrictions, 
-	  but the legal determination ultimately rests with the researcher. 
-	  Requests for permission to publish material from this collection should be discussed 
-	  with the Head of Special Collections and Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_c90d28b2013d00132e66d828a6c23cc1">
       <head>Acquisition Information</head>
-      <p>All items in this manuscript group were lent to the University Libraries, 
-	  M.E. Grenander Department of Special Collections and Archives,
-	  by the Schenectady Labor Temple Association for preservation photocopying 
-	  as a part of the Harry Van Arsdale, Jr., Labor History Project. 
-	  The originals have been returned to the Schenectady Labor Temple Association.</p>
+      <p>All items in this manuscript group were lent to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by the Schenectady Labor Temple Association for preservation photocopying as a part of the Harry Van Arsdale, Jr., Labor History Project. The originals have been returned to the Schenectady Labor Temple Association.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_a42f3c5295d291bb7f7c211c6ac62955">
       <head>Organizational Sketch</head>
       <p>The Schenectady Labor Temple Association was incorporated in 1907 and was primarily interested in the erection and then the management of the Schenectady Labor Temple. The Association has also been involved in promoting labor interests in Schenectady, New York, most obviously through the publication of an annual labor and business directory. The Schenectady Labor Temple was designed by Schenectady architect R. L. Bowen and completed in 1927 on the corner of Clinton and Liberty Streets. The Labor Temple provided office and meeting space for unions throughout eastern New York and extending as far north as the Canadian border.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_5e657528c8b2455f2af9645105905060">
+      <head>Scope and Contents</head>
       <p>The collection contains minutes of meetings, 1912–1958; yearbooks, 1931–1967; and by–laws, 1940s, 1960s.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_d90c5636321c8278a7018fa97987491f">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized chronologically. There are no series.</p>
     </arrangement>
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Schenectady, New York</subject>
-      <subject source="meg" encodinganalog="650">Labor</subject>
-      <corpname encodinganalog="610" source="local">Schenectady Labor Temple Association</corpname>
-      <corpname encodinganalog="610" source="lcsh">Labor union locals</corpname>
-      <subject encodinganalog="650" source="lcsh">Labor unions -- Social aspects -- New York (State)</subject>
-      <subject encodinganalog="650" source="lcsh">Labor unions -- New York (State) -- Schenectady.</subject>
-      <genreform encodinganalog="655" source="aat">Minutes</genreform>
-      <genreform encodinganalog="655" source="aat">Financial records</genreform>
-    </controlaccess>
-    <prefercite>
+    <prefercite id="aspace_a4fe0f92dd0a0d30a69db16300a1533a">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Schenectady Labor Temple Association, 1912-1977. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, Schenectady Labor Temple Association, 1912-1977. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_apap035-1">
+    <controlaccess>
+      <subject source="meg">Schenectady, New York</subject>
+      <subject source="meg">Labor</subject>
+      <subject source="lcsh">Labor unions -- Social aspects -- New York (State)</subject>
+      <subject source="lcsh">Labor unions -- New York (State) -- Schenectady.</subject>
+      <genreform source="aat">Minutes</genreform>
+      <genreform source="aat">Financial Records</genreform>
+      <corpname source="local">Schenectady Labor Temple Association</corpname>
+      <corpname source="lcsh">Labor union locals</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_08b97214c37e4471c5911105dbb5f565" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>Annual Report of the Utica Labor Temple, 1917</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959">1917</unitdate>
+          <unitdate normal="1959/1959" type="inclusive">1917</unitdate>
+          <container id="aspace_90d7e6823ed77080cd357efccffdd252" label="Mixed Materials" type="Box">1 (Schenectady Labor Temple Association)</container>
+          <container id="aspace_91d3dc1f944dca843de7df1a5ebe68bb" parent="aspace_90d7e6823ed77080cd357efccffdd252" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap035-2">
+      <c01 id="aspace_f98d99a056c73819431ea9f509e4e452" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Constitution and Bylaws, circa 1940s, 1960s</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1936/1966">1940s, 1960s</unitdate>
+          <unitdate normal="1936/1966" type="inclusive">1940s, 1960s</unitdate>
+          <container id="aspace_fbbeff41eb1b33c2e029dd77772f3be3" label="Mixed Materials" type="Box">1 (Schenectady Labor Temple Association)</container>
+          <container id="aspace_aec49763dca30a92f2ef89e6e989911e" parent="aspace_fbbeff41eb1b33c2e029dd77772f3be3" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap035-3">
+      <c01 id="aspace_a5cf6f0faf35100eff25c45dcd602c98" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>Correspondence with Department of Labor Concerning Labor Temple Construction</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1928">1928</unitdate>
+          <unitdate normal="1928/1928" type="inclusive">1928</unitdate>
+          <container id="aspace_095e075b55fcf5491f5d5271cc712edf" label="Mixed Materials" type="Box">1 (Schenectady Labor Temple Association)</container>
+          <container id="aspace_55da7ccc28bfbf1c75da5e28b5a661bd" parent="aspace_095e075b55fcf5491f5d5271cc712edf" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap035-4">
+      <c01 id="aspace_3a56f1dddf7d6a913d9bdd47070ef7ec" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Financial Reports</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976-1977">1966, 1976-1977</unitdate>
+          <unitdate normal="1976/1977" type="inclusive">1966, 1976-1977</unitdate>
+          <container id="aspace_e59738302d9e1e55043f96e3cb41306a" label="Mixed Materials" type="Box">1 (Schenectady Labor Temple Association)</container>
+          <container id="aspace_0d323469c8f39c0a6850b0b2f1e0ae35" parent="aspace_e59738302d9e1e55043f96e3cb41306a" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap035-5">
+      <c01 id="aspace_081427d2f9fcdcebbdb36b2567798f50" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Labor and Business Directory</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951/1959">1966, 1976-1977</unitdate>
+          <unitdate normal="1951/1959" type="inclusive">1966, 1976-1977</unitdate>
+          <container id="aspace_83cf26d106c1115c6a3c188830acb384" label="Mixed Materials" type="Box">1 (Schenectady Labor Temple Association)</container>
+          <container id="aspace_124efdd5d85e0696a348af317cd388a6" parent="aspace_83cf26d106c1115c6a3c188830acb384" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap035-6">
+      <c01 id="aspace_a880ead7b3bb7b23b15fb524d48b014f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1912/1915">1912-1915</unitdate>
+          <unitdate normal="1912/1915" type="inclusive">1912-1915</unitdate>
+          <container id="aspace_7a69f007aea35483693ada9991bdf8d2" label="Mixed Materials" type="Box">1 (Schenectady Labor Temple Association)</container>
+          <container id="aspace_9c1b2f035fe5f2fcff1754253f7f50fb" parent="aspace_7a69f007aea35483693ada9991bdf8d2" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap035-7">
+      <c01 id="aspace_416ba4eb5e2cc17a7064a9cc24761052" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/1915">1914-1915</unitdate>
+          <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+          <container id="aspace_0cc07178e2f497483e6f88fa4e1685c8" label="Mixed Materials" type="Box">1 (Schenectady Labor Temple Association)</container>
+          <container id="aspace_148943f74f2c3031f0704f8b4119d9b8" parent="aspace_0cc07178e2f497483e6f88fa4e1685c8" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_apap035-8">
+      <c01 id="aspace_ad7ee48462cb895e3d8df609bf539c26" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1915/1918">1915-1918</unitdate>
+          <unitdate normal="1915/1918" type="inclusive">1915-1918</unitdate>
+          <container id="aspace_9fa95e5ddf19f367b3bbf3a24369f0ec" label="Mixed Materials" type="Box">1 (Schenectady Labor Temple Association)</container>
+          <container id="aspace_9b615907161ae83918522e9f1b9e8bf3" parent="aspace_9fa95e5ddf19f367b3bbf3a24369f0ec" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_apap035-9">
+      <c01 id="aspace_a25b5dbff5954a7c0e848fa4f793f99f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1915/1918">1915-1918</unitdate>
+          <unitdate normal="1915/1918" type="inclusive">1915-1918</unitdate>
+          <container id="aspace_4f52729ec16d9531c05ec0f4f9e4d3d9" label="Mixed Materials" type="Box">1 (Schenectady Labor Temple Association)</container>
+          <container id="aspace_ab67be092d1c28e6ec51b5ca1fc8221f" parent="aspace_4f52729ec16d9531c05ec0f4f9e4d3d9" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_apap035-10">
+      <c01 id="aspace_c4cb38454a528480d8dc6aff26617c67" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1918/1921">1918-1921</unitdate>
+          <unitdate normal="1918/1921" type="inclusive">1918-1921</unitdate>
+          <container id="aspace_9af9c7e089277e2c0cf1b4d1784a70f3" label="Mixed Materials" type="Box">1 (Schenectady Labor Temple Association)</container>
+          <container id="aspace_189afae91fb5d83f9307f57df6cf37f3" parent="aspace_9af9c7e089277e2c0cf1b4d1784a70f3" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_apap035-11">
+      <c01 id="aspace_ba7abe22bed85c97139c03858ec8039e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1921/1925">1921-1925</unitdate>
+          <unitdate normal="1921/1925" type="inclusive">1921-1925</unitdate>
+          <container id="aspace_75f464b047ba8e5160148c07c9c0fc00" label="Mixed Materials" type="Box">1 (Schenectady Labor Temple Association)</container>
+          <container id="aspace_399c0cebf3d1a274227f0e958c6ecf81" parent="aspace_75f464b047ba8e5160148c07c9c0fc00" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_apap035-12">
+      <c01 id="aspace_faefeb5412edea03be5c8daaf057875b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">12</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1926/1930">1926-1930</unitdate>
+          <unitdate normal="1926/1930" type="inclusive">1926-1930</unitdate>
+          <container id="aspace_a89f50c8f1bc767cad5247a7e4284830" label="Mixed Materials" type="Box">1 (Schenectady Labor Temple Association)</container>
+          <container id="aspace_4747b22505c324272f0b3f0b4a67730d" parent="aspace_a89f50c8f1bc767cad5247a7e4284830" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_apap035-13">
+      <c01 id="aspace_b818a87556e4e5b882ddfe557b7b0ffa" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">13</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1926/1930">1926-1930</unitdate>
+          <unitdate normal="1926/1930" type="inclusive">1926-1930</unitdate>
+          <container id="aspace_3d2200ddfb69fac304d6a1f680aa81c4" label="Mixed Materials" type="Box">1 (Schenectady Labor Temple Association)</container>
+          <container id="aspace_b4107e3100eed7e8cf7583518c700a32" parent="aspace_3d2200ddfb69fac304d6a1f680aa81c4" type="Folder">13</container>
         </did>
       </c01>
-      <c01 id="nam_apap035-14">
+      <c01 id="aspace_3bb171d22c10a84346fc558f3d03f951" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">14</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1930/1940">1930-1940</unitdate>
+          <unitdate normal="1930/1940" type="inclusive">1930-1940</unitdate>
+          <container id="aspace_e7b0d580d7d497da730acea17c4aa898" label="Mixed Materials" type="Box">1 (Schenectady Labor Temple Association)</container>
+          <container id="aspace_940f536bad54068a79fca16f24e40941" parent="aspace_e7b0d580d7d497da730acea17c4aa898" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_apap035-15">
+      <c01 id="aspace_4c84dbdebe11b2a51e366bd8ecfa79af" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">1</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940/1945">1940-1945</unitdate>
+          <unitdate normal="1940/1945" type="inclusive">1940-1945</unitdate>
+          <container id="aspace_899d41f07eab0eef63d6aa83916b2113" label="Mixed Materials" type="Box">2 (Schenectady Labor Temple Association)</container>
+          <container id="aspace_4ca94b8effcf072c03c19dff1e9f83cc" parent="aspace_899d41f07eab0eef63d6aa83916b2113" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap035-16">
+      <c01 id="aspace_11e3ab2f8a57860ba38bd27e36909d20" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">2</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946/1951">1946-1951</unitdate>
+          <unitdate normal="1946/1951" type="inclusive">1946-1951</unitdate>
+          <container id="aspace_3a87540320040c91e23ba01813252f49" label="Mixed Materials" type="Box">2 (Schenectady Labor Temple Association)</container>
+          <container id="aspace_d01dca94922374ce3c0f1905d3f54977" parent="aspace_3a87540320040c91e23ba01813252f49" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap035-17">
+      <c01 id="aspace_61f31bc379cd9bc671c52a6c80e49d2f" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">3</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1952/1958">1952-1958</unitdate>
+          <unitdate normal="1952/1958" type="inclusive">1952-1958</unitdate>
+          <container id="aspace_9ecbf1e96a6b73112efe054975eef0df" label="Mixed Materials" type="Box">2 (Schenectady Labor Temple Association)</container>
+          <container id="aspace_2208938b5513010e73a2324318673a3e" parent="aspace_9ecbf1e96a6b73112efe054975eef0df" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap035-18">
+      <c01 id="aspace_f84d856b0bf709cfeeb1754eac8a9e79" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">4</container>
           <unittitle>Newsclipping</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
+          <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+          <container id="aspace_ff769892cae419632a424e4f9a3793e5" label="Mixed Materials" type="Box">2 (Schenectady Labor Temple Association)</container>
+          <container id="aspace_1d29b673db48f32f4520f1c464011b05" parent="aspace_ff769892cae419632a424e4f9a3793e5" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap035-19">
+      <c01 id="aspace_da085c73e1fd5c1ba9a7e53653535ee6" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">5</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1921/1925">1921-1925</unitdate>
+          <unitdate normal="1921/1925" type="inclusive">1921-1925</unitdate>
+          <container id="aspace_68e2113ea1105cced3d294fe1dbf0188" label="Mixed Materials" type="Box">2 (Schenectady Labor Temple Association)</container>
+          <container id="aspace_2f6466eb21e929c075b039a5fb826c9c" parent="aspace_68e2113ea1105cced3d294fe1dbf0188" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap035-20">
+      <c01 id="aspace_393a7e9c68cb560b25c29e9f37ab1e21" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">6</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1926/1930">1926-1930</unitdate>
+          <unitdate normal="1926/1930" type="inclusive">1926-1930</unitdate>
+          <container id="aspace_8d77642b05f07b4971a3bef18ceaa1e0" label="Mixed Materials" type="Box">2 (Schenectady Labor Temple Association)</container>
+          <container id="aspace_4531d77dc8e48aac7a8b8b607817f089" parent="aspace_8d77642b05f07b4971a3bef18ceaa1e0" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap035-21">
+      <c01 id="aspace_9f1dfa88b0cf19d940c4c454b709b486" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">7</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1926/1930">1926-1930</unitdate>
+          <unitdate normal="1926/1930" type="inclusive">1926-1930</unitdate>
+          <container id="aspace_125ba45d86a627e0ca159a56f46e3e70" label="Mixed Materials" type="Box">2 (Schenectady Labor Temple Association)</container>
+          <container id="aspace_79e9a9c280355abba9ccf18c81a50768" parent="aspace_125ba45d86a627e0ca159a56f46e3e70" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_apap035-22">
+      <c01 id="aspace_bbf07f642c7e0e84074d8bada4a4255b" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">8</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1930/1940">1930-1940</unitdate>
+          <unitdate normal="1930/1940" type="inclusive">1930-1940</unitdate>
+          <container id="aspace_da3a8d86da726f41e6b51e9eb92d2181" label="Mixed Materials" type="Box">2 (Schenectady Labor Temple Association)</container>
+          <container id="aspace_7e519cc76802e336911a18fffa47a554" parent="aspace_da3a8d86da726f41e6b51e9eb92d2181" type="Folder">8</container>
         </did>
       </c01>
     </dsc>

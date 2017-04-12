@@ -1,82 +1,74 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ger039">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ger039.html">nam_ger039</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ger039">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ger039.xml">ger039</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>ADELE GERHARD PAPERS (GER039)<date normal="1938/1956" type="inclusive">1938-1956</date></titleproper>
+        <titleproper>Gerhard, Adele; Manuscripts <num>ger039</num></titleproper>
         <author>Sandra Hunt Hawrylchak</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2007-06-12" type="publication">Copyright 2007 June 12 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2007 June 12</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Gregory Wiedeman<date normal="2015">2015</date>
-			</creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:26:46 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2015-12">2015 December</date>
+        <date>2015 December</date>
         <item>Converted to EAD</item>
+      </change>
+      <change>
+        <date>2015</date>
+        <item>Encoded in EAD by Gregory Wiedeman</item>
       </change>
     </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>Adele Gerhard Papers<date normal="1938/1956" type="inclusive">1938-1956</date></titleproper>
-      <publisher>
-			</publisher>
-      <date type="publication">Copyright 2015 By the University at Albany, SUNY. All rights reserved.</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ger039</unitid>
-      <unittitle>Adele Gerhard Papers<unitdate label="Date:" normal="1938/1956" type="inclusive">1938-1956</unitdate></unittitle>
-      <abstract label="Abstract:">Cologne-born novelist who wrote <emph render="italic">Ga</emph>, <emph render="italic">Unter den Gestirnen</emph>, <emph render="italic">Wahrer der Leuchte</emph>, <emph render="italic">Das Kind</emph>, <emph render="italic">Spuren im Schnee</emph>, and <emph render="italic">Wurzelweibchen</emph>. Emigrated to the US in 1938 before returning to Germany in 1955.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <persname encodinganalog="100" source="lcsh">Gerhard, Adele, 1868-1956</persname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">0.33</extent>
-      </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Adele Gerhard Papers<unitdate normal="1938/1956" type="inclusive">1938-1956</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="lcsh">Gerhard, Adele, 1868-1956</persname>
+      </origination>
+      <unitid>ger039</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.33 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_13151028daac0f42065678852c88489b">Cologne-born novelist who wrote <emph render="italic">Ga</emph>, <emph render="italic">Unter den Gestirnen</emph>, <emph render="italic">Wahrer der Leuchte</emph>, <emph render="italic">Das Kind</emph>, <emph render="italic">Spuren im Schnee</emph>, and <emph render="italic">Wurzelweibchen</emph>. Emigrated to the US in 1938 before returning to Germany in 1955.</abstract>
+      <langmaterial id="aspace_a182fe234446221c8069308ed9d168b8">English</langmaterial>
+      <physloc id="aspace_18d54d3381b473f35c6dc42d28dffed6">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_30bb97d09abf4062cbc7894b44abce20">
+      <head>Processing Information</head>
+      <p>Processed in 2007 June 12 by Sandra Hunt Hawrylchak.</p>
+    </processinfo>
+    <accessrestrict id="aspace_45b35b5f356bf5ef3011d73765cd9080">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_21d9950d809d70719bb612716e4f3be5">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites. </p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
-      <p>The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future. </p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
+      <p> The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_6996c10374f843f57c2b84cbf85f2d75">
       <head>Acquisition Information</head>
-      <p> All items in this manuscript collection were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by Melitta Gerhard, the daughter of Adele Gerhard.<date normal="1980-08">1980 August</date></p>
+      <p>All items in this manuscript collection were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by Melitta Gerhard, the daughter of Adele Gerhard.<date normal="1980-08">1980 August</date></p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_db986bf90ede927932118083050be013">
       <head>Biographical History</head>
       <p>Adele Gerhard was born in Cologne, Germany, in 1868 where she spent her childhood and adolescent years. She married Stephan Gerhard in 1889 and moved to Berlin, where her involvement in social work brought her in contact with some of the outstanding women figures of her day, Susan B. Anthony, Beatrice Webb and others. </p>
-      <p>After the birth of her children (Melitta in 1891 and Dietrich in 1896), Adele turned her hand to creative writing. Her first short story was published in 1894 and her full-length work, Mutterschaft und geistige Arbeit, was published in 1901. Her works reflect the times in which she lived, the social movements of the 1890s, womens rights, the youth movement in Germany, and the changes brought about by war and its aftermath. Adele Gerhard followed her children to America in 1938 at the age of 60 after having briefly visited in 1937. She lived most of the time with her daughter, Melitta, became an American citizen, and continued to write in her native German. She returned to Germany in 1955 and died in her native city of Cologne one year later on May 10, 1956. </p>
+      <p> After the birth of her children (Melitta in 1891 and Dietrich in 1896), Adele turned her hand to creative writing. Her first short story was published in 1894 and her full-length work, Mutterschaft und geistige Arbeit, was published in 1901. Her works reflect the times in which she lived, the social movements of the 1890s, womens rights, the youth movement in Germany, and the changes brought about by war and its aftermath. Adele Gerhard followed her children to America in 1938 at the age of 60 after having briefly visited in 1937. She lived most of the time with her daughter, Melitta, became an American citizen, and continued to write in her native German. She returned to Germany in 1955 and died in her native city of Cologne one year later on May 10, 1956. </p>
       <p>
         <chronlist>
           <chronitem>
@@ -118,156 +110,154 @@
         </chronlist>
       </p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The Adele Gerhard Papers consist of 0.33 cubic feet of materials, 1938-1956, and include hand-corrected typescripts of three unpublished novels written by Gerhard during her years in the U.S. (Ga, Unter den Gestirnen and Wahrer der Leuchte) and four novellas, as well as photocopies or clippings of essays and one serialized novella (Ulmenfrucht). Also included in the collection are clippings about Adele Gerhard and reviews of her works. </p>
+    <scopecontent id="aspace_f4000e6bac4bdfd080c37d6fa146ba01">
+      <head>Scope and Contents</head>
+      <p>The Adele Gerhard Papers consist of 0.33 cubic feet of materials, 1938-1956, and include hand-corrected typescripts of three unpublished novels written by Gerhard during her years in the U.S. (Ga, Unter den Gestirnen and Wahrer der Leuchte) and four novellas, as well as photocopies or clippings of essays and one serialized novella (Ulmenfrucht). Also included in the collection are clippings about Adele Gerhard and reviews of her works.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_ab4ffdc9b39eb6c7bdcc498c647b9cf4">
       <head>Arrangement of the Collection</head>
       <p>The collection has no series.</p>
     </arrangement>
-    <prefercite>
+    <prefercite id="aspace_e0b997795cb4763d94aad7aa8243d7df">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Adele Gerhard Papers,  1938-1956. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Gerhard Papers).</p>
+      <p> Identification of specific item, series, box, folder, Adele Gerhard Papers, 1938-1956. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Gerhard Papers).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Literature</subject>
-      <persname encodinganalog="600" source="lcsh">Gerhard, Adele, 1868-1956</persname>
-      <persname encodinganalog="600" source="lcsh">Spalek, John M.</persname>
-      <persname encodinganalog="600" source="lcsh">Gerhard, Melitta, 1891-</persname>
-      <subject encodinganalog="650" source="lcsh">World War, 1939-1945--Refugees.</subject>
-      <subject encodinganalog="650" source="lcsh">Women authors.</subject>
+      <subject source="meg">Literature</subject>
+      <subject source="lcsh">World War, 1939-1945--Refugees.</subject>
+      <subject source="lcsh">Women authors.</subject>
+      <persname source="lcsh">Gerhard, Adele, 1868-1956</persname>
+      <persname source="lcsh">Spalek, John M.</persname>
+      <persname source="lcsh">Gerhard, Melitta, 1891-</persname>
     </controlaccess>
     <dsc>
-      <head>Container List</head>
-      <c01 id="nam_ger039-1">
+      <c01 id="aspace_70b7eacb97a5898378b53f9c7556303b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
-          <unittitle>Correspondence between Melitta Gerhard and Dr. John M. Spalek re: Adele Gerhard materials. 3 L.. Also listing of Adele Gerhard Papers at the Deutsches Literaturarchiv, Marbach. </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1980">1980</unitdate>
+          <unittitle>Correspondence between Melitta Gerhard and Dr. John M. Spalek re: Adele Gerhard materials. 3 L.. Also listing of Adele Gerhard Papers at the Deutsches Literaturarchiv, Marbach.</unittitle>
+          <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+          <container id="aspace_370bd7a321d3bb1fedf9075fe7616f39" label="Mixed Materials" type="Box">1 (Adele Gerhard Papers)</container>
+          <container id="aspace_c9bd86770a63d3858323439d50a52562" parent="aspace_370bd7a321d3bb1fedf9075fe7616f39" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ger039-2">
+      <c01 id="aspace_ab9c8e8ab0c12b1bb192631cf2acba5c" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Photocopy of a document honoring Adele Gerhard on her 80th birthday</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1948">1948</unitdate>
+          <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+          <container id="aspace_92751d97e3f9e8b221c6b185063937b5" label="Mixed Materials" type="Box">1 (Adele Gerhard Papers)</container>
+          <container id="aspace_b718c4cd68316521682e226d9eeae433" parent="aspace_92751d97e3f9e8b221c6b185063937b5" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ger039-3">
+      <c01 id="aspace_ac31f2e23aa913f9a262d6b9e220da43" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
-          <unittitle>Unpublished manuscript: "Ga." Typescript of unpub. Novel, Part I. 29p.; Part II. 52p. </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1933/1934">1933-1934</unitdate>
+          <unittitle>Unpublished manuscript: "Ga." Typescript of unpub. Novel, Part I. 29p.; Part II. 52p.</unittitle>
+          <unitdate normal="1933/1934" type="inclusive">1933-1934</unitdate>
+          <container id="aspace_8994862a55db645dcf3dd01c0b78e514" label="Mixed Materials" type="Box">1 (Adele Gerhard Papers)</container>
+          <container id="aspace_b40aad4ee1f6634e8f8feb534623af0c" parent="aspace_8994862a55db645dcf3dd01c0b78e514" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ger039-4">
+      <c01 id="aspace_dc1daa7acb7642211695e4ea0f5d88a3" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
-          <unittitle>Unpublished manuscript: "Unter den Gestirnen." Typescript of unpub. novel. Photocopy. 73p. </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1938/1956">Undated</unitdate>
+          <unittitle>Unpublished manuscript: "Unter den Gestirnen." Typescript of unpub. novel. Photocopy. 73p.</unittitle>
+          <unitdate normal="1938/1956" type="inclusive">Undated</unitdate>
+          <container id="aspace_3a26d3642de19435a0280c90985bfb78" label="Mixed Materials" type="Box">1 (Adele Gerhard Papers)</container>
+          <container id="aspace_5cddbdc9f70caf393f696322a8cc5dee" parent="aspace_3a26d3642de19435a0280c90985bfb78" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_ger039-5">
+      <c01 id="aspace_89d5b2c5aa6a0679ebf50a354c6ae86e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
-          <unittitle>Unpublished manuscript: "Wahrer der Leuchte." Typescript of unpub. novel. Part I. 30p.; Part II. 22p.; Part III. 20p. </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1938/1956">Undated</unitdate>
+          <unittitle>Unpublished manuscript: "Wahrer der Leuchte." Typescript of unpub. novel. Part I. 30p.; Part II. 22p.; Part III. 20p.</unittitle>
+          <unitdate normal="1938/1956" type="inclusive">Undated</unitdate>
+          <container id="aspace_fc36898ea28a41948b7d2443e0adb7d4" label="Mixed Materials" type="Box">1 (Adele Gerhard Papers)</container>
+          <container id="aspace_ddb14812075f2da4bd50936829bc280b" parent="aspace_fc36898ea28a41948b7d2443e0adb7d4" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_ger039-6">
+      <c01 id="aspace_db3cffabf6ebe37828f9b80e353c25c5" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
-          <unittitle>Unpublished manuscript: "Das Kind. Stephan Gerhard zu Ehren." Novelle. Typescript. 18p. </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1938/1956">Undated</unitdate>
+          <unittitle>Unpublished manuscript: "Das Kind. Stephan Gerhard zu Ehren." Novelle. Typescript. 18p.</unittitle>
+          <unitdate normal="1938/1956" type="inclusive">Undated</unitdate>
+          <container id="aspace_619214c59bdfd6aaf1bb0eb2126a326d" label="Mixed Materials" type="Box">1 (Adele Gerhard Papers)</container>
+          <container id="aspace_efd27db1d6a060c3de380c8a7e8c89d0" parent="aspace_619214c59bdfd6aaf1bb0eb2126a326d" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_ger039-7">
+      <c01 id="aspace_1cec20794912dcb4b3b1e56cf9d3ba55" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
-          <unittitle>Unpublished manuscript: "Spuren im Schnee." Novella. Typescript. 23p. </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1938/1956">Undated</unitdate>
+          <unittitle>Unpublished manuscript: "Spuren im Schnee." Novella. Typescript. 23p.</unittitle>
+          <unitdate normal="1938/1956" type="inclusive">Undated</unitdate>
+          <container id="aspace_83f08ea6284816615b5ce0f9339021d5" label="Mixed Materials" type="Box">1 (Adele Gerhard Papers)</container>
+          <container id="aspace_1ba926a0ea393dcc56e34875c87f9be9" parent="aspace_83f08ea6284816615b5ce0f9339021d5" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_ger039-8">
+      <c01 id="aspace_f80fc809ba9a97723d0529bb44df6699" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
           <unittitle>Unpublished manuscript: "Der Wassermann." Novella. Typescript. 21p.</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1938/1956">Undated</unitdate>
+          <unitdate normal="1938/1956" type="inclusive">Undated</unitdate>
+          <container id="aspace_f8b67a8e9b58af1cc11ea82e644703fe" label="Mixed Materials" type="Box">1 (Adele Gerhard Papers)</container>
+          <container id="aspace_d824dfeccd64f376e428ae94b72527a2" parent="aspace_f8b67a8e9b58af1cc11ea82e644703fe" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_ger039-9">
+      <c01 id="aspace_dde476046bf37ee14a14f1accda131f9" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Unpublished manuscript: "Wurzelweibchen." Novella. Typescript. 34p.</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1938/1956">Undated</unitdate>
+          <unitdate normal="1938/1956" type="inclusive">Undated</unitdate>
+          <container id="aspace_b50f4b58ef2a4b65ded5049a341e57ba" label="Mixed Materials" type="Box">1 (Adele Gerhard Papers)</container>
+          <container id="aspace_114acf5a12e82322b1cb56349f089017" parent="aspace_b50f4b58ef2a4b65ded5049a341e57ba" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ger039-10">
+      <c01 id="aspace_f349719ca8abbb8dfb82283bf2788cab" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
-          <unittitle>Publication: Der Pestkirchhof. Section from a book, pp. 603-626. </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1938/1956">Undated</unitdate>
+          <unittitle>Publication: Der Pestkirchhof. Section from a book, pp. 603-626.</unittitle>
+          <unitdate normal="1938/1956" type="inclusive">Undated</unitdate>
+          <container id="aspace_565e42751815de0b6780a97d1e6719a7" label="Mixed Materials" type="Box">1 (Adele Gerhard Papers)</container>
+          <container id="aspace_76e2e485f8df387767ae17aef6530044" parent="aspace_565e42751815de0b6780a97d1e6719a7" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ger039-11">
+      <c01 id="aspace_b1401b7011ebb9ece7d3ba451b730e34" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
-          <unittitle>Publication: Schicksalslied. Section from a book, pp. 342-358. </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1938/1956">Undated</unitdate>
+          <unittitle>Publication: Schicksalslied. Section from a book, pp. 342-358.</unittitle>
+          <unitdate normal="1938/1956" type="inclusive">Undated</unitdate>
+          <container id="aspace_142b71196b86e7050eaf0457306abb9b" label="Mixed Materials" type="Box">1 (Adele Gerhard Papers)</container>
+          <container id="aspace_b45ae5730eb1fca3d67194758ecc451f" parent="aspace_142b71196b86e7050eaf0457306abb9b" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ger039-12">
+      <c01 id="aspace_fe72529006c8aa9af247ad97ab73c5af" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">12</container>
-          <unittitle>Publication: Ulmenfrucht. Novella serialization, Neue Freie Presse, 1935. Clippings and photocopies. </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1938/1956">Undated</unitdate>
+          <unittitle>Publication: Ulmenfrucht. Novella serialization, Neue Freie Presse, 1935. Clippings and photocopies.</unittitle>
+          <unitdate normal="1938/1956" type="inclusive">Undated</unitdate>
+          <container id="aspace_eb2e1f0b9e5c45267e9bb4ad87f70f91" label="Mixed Materials" type="Box">1 (Adele Gerhard Papers)</container>
+          <container id="aspace_b1f241cf8d94ea15917d4e5bde5608c0" parent="aspace_eb2e1f0b9e5c45267e9bb4ad87f70f91" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_ger039-13">
+      <c01 id="aspace_728163b431bc475ccb959c1d5183bc73" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">13</container>
-          <unittitle>Publication: Photocopies of published essays. 7 items. </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1938/1956">Undated</unitdate>
+          <unittitle>Publication: Photocopies of published essays. 7 items.</unittitle>
+          <unitdate normal="1938/1956" type="inclusive">Undated</unitdate>
+          <container id="aspace_341b1884f2a9859240df9dbaa77bd220" label="Mixed Materials" type="Box">1 (Adele Gerhard Papers)</container>
+          <container id="aspace_69a5c3c6818125c8bc9d8530c411c5b9" parent="aspace_341b1884f2a9859240df9dbaa77bd220" type="Folder">13</container>
         </did>
       </c01>
-      <c01 id="nam_ger039-14">
+      <c01 id="aspace_7f8d27dca6d53844efe9ef554597ccbe" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">14</container>
-          <unittitle>Photocopies of catalog cards from the Adele Gerhard Collection at the Deutsches Literaturarchiv, Marbach, Germany. </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1938/1956">Undated</unitdate>
+          <unittitle>Photocopies of catalog cards from the Adele Gerhard Collection at the Deutsches Literaturarchiv, Marbach, Germany.</unittitle>
+          <unitdate normal="1938/1956" type="inclusive">Undated</unitdate>
+          <container id="aspace_12dac7c59305cde2451f668a6b4c321b" label="Mixed Materials" type="Box">1 (Adele Gerhard Papers)</container>
+          <container id="aspace_92fffdceb518c3eb2d0abe5f8171b74c" parent="aspace_12dac7c59305cde2451f668a6b4c321b" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_ger039-15">
+      <c01 id="aspace_1197a7fd57e2784ed29d256cc703593e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">15</container>
-          <unittitle>Lexicon entries. </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1938/1956">Undated</unitdate>
+          <unittitle>Lexicon entries.</unittitle>
+          <unitdate normal="1938/1956" type="inclusive">Undated</unitdate>
+          <container id="aspace_bf10533342a8d56e59c5baca64b6222e" label="Mixed Materials" type="Box">1 (Adele Gerhard Papers)</container>
+          <container id="aspace_72489e6801051e91418e9fe5893c6850" parent="aspace_bf10533342a8d56e59c5baca64b6222e" type="Folder">15</container>
         </did>
       </c01>
-      <c01 id="nam_ger039-16">
+      <c01 id="aspace_72527b0a7677cbb739117e133fc9ce4c" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">16</container>
-          <unittitle>Clippings of articles about Adele Gerhard (originals at Deutsches Literaturarchiv). </unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1938/1956">Undated</unitdate>
+          <unittitle>Clippings of articles about Adele Gerhard (originals at Deutsches Literaturarchiv).</unittitle>
+          <unitdate normal="1938/1956" type="inclusive">Undated</unitdate>
+          <container id="aspace_209e48a255acf0ec2820168ba2f54337" label="Mixed Materials" type="Box">1 (Adele Gerhard Papers)</container>
+          <container id="aspace_3430eed4fece4ebae9fe59fe7ade8d37" parent="aspace_209e48a255acf0ec2820168ba2f54337" type="Folder">16</container>
         </did>
       </c01>
     </dsc>

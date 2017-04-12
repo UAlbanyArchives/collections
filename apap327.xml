@@ -1,404 +1,336 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap327">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap327.xml" identifier="##">nam_apap327</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap327">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap327.xml">apap327</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>NORTH COUNTRY JAMES BAY GROUP RECORDS (APAP327)<date normal="1966/1998" type="inclusive">1966-1998</date></titleproper>
+        <titleproper>North Country James Bay Group Records; Records <num>apap327</num></titleproper>
         <author>James Weis</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2012">Copyright 2012 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2012</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>James Weis<date normal="2012">2012</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 15:46:11 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2012-12-28">2012 December 28</date>
+        <date>2012 December 28</date>
         <item>Jodi Boyle added new files from 2012 accession.</item>
+      </change>
+      <change>
+        <date>2012</date>
+        <item>Encoded in EAD by James Weis</item>
       </change>
     </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>NORTH COUNTRY JAMES BAY GROUP RECORDS (APAP327)<date normal="1966/1998" type="inclusive">1966-1998</date>
-      </titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2012</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap327</unitid>
-      <unittitle>North Country James Bay Group Records <unitdate type="inclusive" normal="1966/1998" label="Date:"> 1966-1998</unitdate>
-      </unittitle>
-      <physdesc label="Physical Characteristics:">
-        <extent unit="cubic ft.">1.2</extent>
-      </physdesc>
-      <origination>
-        <corpname encodinganalog="110" source="local">North Country James Bay Group</corpname>
-      </origination>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">The North Country James Bay Group records document efforts of this
-        upstate New York environmental organization to stop Hydro-Québec’s Great Whale (Grande
-        Baleine) River/James Bay II development efforts in the early 1990s.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-        <language langcode="fr">French</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>North Country James Bay Group Records<unitdate normal="1966/1998" type="inclusive">1966-1998</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">North Country James Bay Group</corpname>
+      </origination>
+      <unitid>apap327</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.2 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_1de75f7d02f211fa7fb59387b329be5d">The North Country James Bay Group records document efforts of this upstate New York environmental organization to stop Hydro-Québec’s Great Whale (Grande Baleine) River/James Bay II development efforts in the early 1990s.</abstract>
+      <physloc id="aspace_cd6fa598278e052902adc79f790af780">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_fb20f52f7c02fe3e21e495fbbd887503">
+      <head>Processing Information</head>
+      <p>Processed in 2012 by James Weis.</p>
+    </processinfo>
+    <accessrestrict id="aspace_bc18283a40b02a8f20aad5a973c03435">
       <head>Access</head>
-      <p> Access to this record group is unrestricted. </p>
+      <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_6caebeab3b195635452f0fdd579d9ef2">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_6987ad05601d2b656ee39399d6246e9d">
       <head>Acquisition Information</head>
-      <p>Margaret Weitzmann and Lucia Dailey donated materials in 2011 and 2012 to the M.E. Grenander
-        Department of Special Collections and Archives.</p>
+      <p>Margaret Weitzmann and Lucia Dailey donated materials in 2011 and 2012 to the M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_f6cfdb80a64db574b2216ae1710d2796">
       <head>Biographical Sketch</head>
-      <p>The James Bay hydroelectric project was an extensive build-up of hydroelectric power plants
-        in the James Bay area and other nearby areas of Canada by Hydro-Québec.  This multi-phase project began in 1972 with the construction of the first phase, the LaGrande
-        complex. Nearly two decades later, plans for the multi-billion dollar James Bay II or Great Whale (Grande Baleine) River hydroelectric project 
-        called for the construction of dams, dikes, and reservoirs, the
-        flooding of wilderness, removal of forest land, and the diversion of rivers. Similar action
-        occurred with James Bay I. In light of environmental effects of the previous project and its negative impact upon the traditional lifestyle of the Cree people, the plans
-        for James Bay II caused concern among native peoples of the area, scientists and environmental groups
-        around the world. Plans were eventually stopped in the early 1990s after New York State withdrew from
-        a billion dollar hydroelectric purchase agreement with Hydro-Québec in 1992 citing changed economic conditions, the Canadian government required Hydro-Québec to revise its environmental study prepared for James Bay II and the then Premier of Quebec, Jacques Parizeau, announced in 1994 that the project was being put on hold indefinitely.</p>
-      <p>The North Country James Bay Group was a New York-based grassroots organization dedicated to
-        halting the development of the Great Whale River Project over concerns of a potential impact
-        upon the environment, the rights of indigenous peoples living in the area and the
-        argument that New York State did not need to purchase power from Hydro-Québec to meet its
-        energy needs. North Country James Bay Group member Margaret Weitzmann, the principal donor
-        of this collection, was a librarian and is now Faculty Emeriti for the State University of
-        New York Potsdam campus. On behalf of the North Country James Bay Group, she spoke at public hearings, wrote articles and letters to the editor, attended and chaired conferences and participated in demonstrations against James Bay II.</p>
+      <p>The James Bay hydroelectric project was an extensive build-up of hydroelectric power plants in the James Bay area and other nearby areas of Canada by Hydro-Québec. This multi-phase project began in 1972 with the construction of the first phase, the LaGrande complex. Nearly two decades later, plans for the multi-billion dollar James Bay II or Great Whale (Grande Baleine) River hydroelectric project called for the construction of dams, dikes, and reservoirs, the flooding of wilderness, removal of forest land, and the diversion of rivers. Similar action occurred with James Bay I. In light of environmental effects of the previous project and its negative impact upon the traditional lifestyle of the Cree people, the plans for James Bay II caused concern among native peoples of the area, scientists and environmental groups around the world. Plans were eventually stopped in the early 1990s after New York State withdrew from a billion dollar hydroelectric purchase agreement with Hydro-Québec in 1992 citing changed economic conditions, the Canadian government required Hydro-Québec to revise its environmental study prepared for James Bay II and the then Premier of Quebec, Jacques Parizeau, announced in 1994 that the project was being put on hold indefinitely.</p>
+      <p> The North Country James Bay Group was a New York-based grassroots organization dedicated to halting the development of the Great Whale River Project over concerns of a potential impact upon the environment, the rights of indigenous peoples living in the area and the argument that New York State did not need to purchase power from Hydro-Québec to meet its energy needs. North Country James Bay Group member Margaret Weitzmann, the principal donor of this collection, was a librarian and is now Faculty Emeriti for the State University of New York Potsdam campus. On behalf of the North Country James Bay Group, she spoke at public hearings, wrote articles and letters to the editor, attended and chaired conferences and participated in demonstrations against James Bay II.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The North Country James Bay Group Records document efforts of this upstate New York
-        environmental organization to stop Hydro-Québec’s Great Whale (Grande Baleine) River/James
-        Bay II development efforts in the early 1990s. This collection, donated by group members Margaret Weitzmann and Lucia
-        Dailey, includes press releases, manuscripts and writings, fliers for rallies and events,
-        conference materials, U.S. and Canadian newspaper clippings, statements made at public
-        hearings, correspondence and subject files.</p>
+    <scopecontent id="aspace_9efd5c488ae53996c396bc5972304b01">
+      <head>Scope and Contents</head>
+      <p>The North Country James Bay Group Records document efforts of this upstate New York environmental organization to stop Hydro-Québec’s Great Whale (Grande Baleine) River/James Bay II development efforts in the early 1990s. This collection, donated by group members Margaret Weitzmann and Lucia Dailey, includes press releases, manuscripts and writings, fliers for rallies and events, conference materials, U.S. and Canadian newspaper clippings, statements made at public hearings, correspondence and subject files.</p>
     </scopecontent>
-    <separatedmaterial encodinganalog="544 0">
-      <p>Archivists transfered several multi-volume reports, including the <title><emph render="italic">Great Whale Environmental Assessment</emph></title> and Hydro-Québec’s
-            <title><emph render="italic">Grande Baleine Complex Feasibility Study</emph></title> to
-        Cataloging for inclusion in Minerva, the University Library catalog. After being cataloged,
-        they will reside in the book division of Special Collections.</p>
+    <separatedmaterial id="aspace_6856b781a0663c468c323282510e1dbb">
+      <head>Separated Materials</head>
+      <p>Archivists transfered several multi-volume reports, including the <title><emph render="italic">Great Whale Environmental Assessment</emph></title> and Hydro-Québec’s <title><emph render="italic">Grande Baleine Complex Feasibility Study</emph></title> to Cataloging for inclusion in Minerva, the University Library catalog. After being cataloged, they will reside in the book division of Special Collections.</p>
     </separatedmaterial>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_655b3a411626f56ebf842a5ebe059afc">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized alphabetically. There are no series.</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-           Try to give as many access points as you can to increase the chances of 
-           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-           to comment them out! -->
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Social Activists and Public Advocates</subject>
-      <subject source="meg" encodinganalog="650">Native Americans</subject>
-      <subject source="meg" encodinganalog="650">Conservation and the Environment</subject>
-      <corpname encodinganalog="610" source="local">North Country James Bay Group</corpname>
-      <corpname encodinganalog="610" source="lcsh">Hydro-Québec</corpname>
-      <corpname encodinganalog="610" source="lcsh">Power Authority of the State of New York</corpname>
-      <corpname encodinganalog="610" source="lcsh">James Bay Hydroelectric Project</corpname>
-      <subject encodinganalog="650" source="lcsh">Conservation of natural resources--Canada</subject>
-      <subject encodinganalog="650" source="lcsh">Cree Indians--James Bay Region--Social life and customs</subject>
-      <subject encodinganalog="650" source="lcsh">Water-power--United States</subject>
-      <subject encodinganalog="650" source="lcsh">Aquatic resources conservation--Canada</subject>
-      <subject encodinganalog="650" source="lcsh">Wildlife conservation--Canada</subject>
-      <geogname encodinganalog="651" source="lcsh">James Bay (Nunavut)</geogname>
-      <geogname encodinganalog="651" source="lcsh">New York (State)</geogname>
-      <geogname encodinganalog="651" source="lcsh">James Bay Region--Environmental conditions.</geogname>
-      <geogname encodinganalog="651" source="lcsh">Upstate New York (N.Y.)</geogname>
-      <genreform encodinganalog="655" source="aat">Speeches</genreform>
-      <genreform encodinganalog="655" source="aat">Clippings</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Official reports</genreform>
-      <genreform encodinganalog="655" source="aat">Fliers (printed matter)</genreform>
-      <genreform encodinganalog="655" source="aat">Press releases</genreform>
-    </controlaccess>
-    <prefercite encodinganalog="524">
+    <prefercite id="aspace_2495cb27975984d9ca32ee1fab9f787d">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, North Country James Bay Group
-        Records, 1966-1998. M.E. Grenander Department of Special Collections and Archives,
-        University Libraries, University at Albany, State University of New York (hereafter referred
-        to as the North Country James Bay Group Records).</p>
+      <p> Identification of specific item, series, box, folder, North Country James Bay Group Records, 1966-1998. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the North Country James Bay Group Records).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_apap327-1">
+    <controlaccess>
+      <subject source="meg">Social Activists and Public Advocates</subject>
+      <subject source="meg">Native Americans</subject>
+      <subject source="meg">Conservation and the Environment</subject>
+      <subject source="lcsh">Conservation of natural resources--Canada</subject>
+      <subject source="lcsh">Cree Indians--James Bay Region--Social life and customs</subject>
+      <subject source="lcsh">Water-power--United States</subject>
+      <subject source="lcsh">Aquatic resources conservation--Canada</subject>
+      <subject source="lcsh">Wildlife conservation--Canada</subject>
+      <geogname source="lcsh">James Bay (Nunavut)</geogname>
+      <geogname source="lcsh">New York (State)</geogname>
+      <geogname source="lcsh">James Bay Region--Environmental conditions.</geogname>
+      <geogname source="lcsh">Upstate New York (N.Y.)</geogname>
+      <genreform source="aat">Speeches</genreform>
+      <genreform source="aat">Clippings</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Official reports</genreform>
+      <genreform source="aat">Fliers (printed matter)</genreform>
+      <genreform source="aat">Press Releases</genreform>
+      <corpname source="local">North Country James Bay Group</corpname>
+      <corpname source="lcsh">Hydro-Québec</corpname>
+      <corpname source="lcsh">Power Authority of the State of New York</corpname>
+      <corpname source="lcsh">James Bay Hydroelectric Project</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_8c664fa62e7ae773657398ee9978a07f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
-          <unittitle>Background Information on the Conformity and Quality Review of the
-            Environmental Impact Statement for the Proposed Great Whale Project</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966/1998">Undated</unitdate>
+          <unittitle>Background Information on the Conformity and Quality Review of the Environmental Impact Statement for the Proposed Great Whale Project</unittitle>
+          <unitdate normal="1966/1998" type="inclusive">Undated</unitdate>
+          <container id="aspace_01f82203f17ccc38ea0a8da7fc2d96b4" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_61333fbe3a7624967f0ae05d312799c5" parent="aspace_01f82203f17ccc38ea0a8da7fc2d96b4" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-2">
+      <c01 id="aspace_edab5008174f1f0872ba31189be4959d" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Communications and Outreach</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1994">1989-1994</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997/1998">1997-1998</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966/1998">Undated</unitdate>
+          <unitdate normal="1989/1994" type="inclusive">1989-1994</unitdate>
+          <unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate>
+          <unitdate normal="1966/1998" type="inclusive">Undated</unitdate>
+          <container id="aspace_71daa8bb2d292a041d8af6e79d9ca572" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_8bb989bcfad62330136414c32c044c1d" parent="aspace_71daa8bb2d292a041d8af6e79d9ca572" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-3">
+      <c01 id="aspace_bc1b5869dad328087cfbfc23e1056225" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>Conference, Albany 1994</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993/1994">1993-1994</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966/1998">Undated</unitdate>
+          <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+          <unitdate normal="1966/1998" type="inclusive">Undated</unitdate>
+          <container id="aspace_61f89944a6ead850058410c2c9b4b4c0" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_c2eebcdb20d3376f7c0536f35c0ad801" parent="aspace_61f89944a6ead850058410c2c9b4b4c0" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-4">
+      <c01 id="aspace_b07f56f87317fc5daea773cae02bebd7" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Conference, Cornell 1991</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+          <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+          <container id="aspace_75cdfafd46f1007c0601a15503ad7187" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_5a191a845a73b8bd479387f109eea352" parent="aspace_75cdfafd46f1007c0601a15503ad7187" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-5">
+      <c01 id="aspace_1294388a6b331a32a0b2663977cc6d7b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Confernece, Montreal 1997</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966/1998">Undated</unitdate>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <unitdate normal="1966/1998" type="inclusive">Undated</unitdate>
+          <container id="aspace_7e22f0e9bf967525e08cd6aa1584ae73" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_3f9851ea59cf46ac4ff5d8b782da3ae3" parent="aspace_7e22f0e9bf967525e08cd6aa1584ae73" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-6">
+      <c01 id="aspace_810f91df00f5d922e0fa6b82844b1cd1" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Correspondence from NYPA to Luke Dailey</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991/1992">1991-1992</unitdate>
+          <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
+          <container id="aspace_45353971fa264de12df0d0cde4dc084c" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_b88d84195528eab4aed4ce1cd3d0eb72" parent="aspace_45353971fa264de12df0d0cde4dc084c" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-7">
+      <c01 id="aspace_03611a44a3d44fff3ef5a8e9c1d9f602" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Correspondence, M. Weitzmann</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1994">1989-1994</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997/1998">1997-1998</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966/1998">Undated</unitdate>
+          <unitdate normal="1989/1994" type="inclusive">1989-1994</unitdate>
+          <unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate>
+          <unitdate normal="1966/1998" type="inclusive">Undated</unitdate>
+          <container id="aspace_0f4963941ecc1b62b6429a145c872bc5" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_d0f2ae633418dc0fdc3f2a321cb61523" parent="aspace_0f4963941ecc1b62b6429a145c872bc5" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-8">
+      <c01 id="aspace_efb741ee25374dfda5e9027a3a1b5bea" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
-          <unittitle>Current Issues: James Bay, Hydro-Québec and the Relationship with New York
-            State</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+          <unittitle>Current Issues: James Bay, Hydro-Québec and the Relationship with New York State</unittitle>
+          <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+          <container id="aspace_cd7d8cb2c000b9be1c4b4288e965556a" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_a29daa2a44325187daa6eb073f84a62c" parent="aspace_cd7d8cb2c000b9be1c4b4288e965556a" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-9">
+      <c01 id="aspace_461409e0ea029746f6ac0343f19d16fb" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
-          <unittitle>Draft Guidelines for the Environmental Impact Study of the Great Whale
-            Hydroelectric Project</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992">1992</unitdate>
+          <unittitle>Draft Guidelines for the Environmental Impact Study of the Great Whale Hydroelectric Project</unittitle>
+          <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+          <container id="aspace_e2de481f779e297e1af0e69d8b06e304" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_1833740be67b86ee4fe6b436baefcb65" parent="aspace_e2de481f779e297e1af0e69d8b06e304" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-10">
+      <c01 id="aspace_d766ecfb3355f50c784ba5c350ae1ebf" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10-11</container>
           <unittitle>
-            <emph render="italic">Environmental Impact Statement for the Proposed Great
-              Whale Hydroelectric Project</emph>
+            <emph render="italic">Environmental Impact Statement for the Proposed Great Whale Hydroelectric Project</emph>
           </unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992">1992</unitdate>
+          <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+          <container id="aspace_73c893f3131027178f950d80c219f7f7" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_641eb7e9a4955d05e7a7f9f4fb494ded" parent="aspace_73c893f3131027178f950d80c219f7f7" type="Folder">10-11</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-11">
+      <c01 id="aspace_83894fb0e883911c11f0a0d84c75a2c0" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">12</container>
           <unittitle>Fliers and Pamphlets</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1992">1990-1992</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966/1998">Undated</unitdate>
+          <unitdate normal="1990/1992" type="inclusive">1990-1992</unitdate>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <unitdate normal="1966/1998" type="inclusive">Undated</unitdate>
+          <container id="aspace_8dead7088a2dfbf857331aaff29b5819" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_c5c3545fd6678e0d680e77e6f4ee7e03" parent="aspace_8dead7088a2dfbf857331aaff29b5819" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-12">
+      <c01 id="aspace_cf3ffa9f438694f6d32485768de50bba" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">13-14</container>
           <unittitle>Hydro-Québec Publications</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1991">1989-1991</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993">1993</unitdate>
+          <unitdate normal="1989/1991" type="inclusive">1989-1991</unitdate>
+          <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+          <container id="aspace_d6355810f4de78798e0c2fc4589178da" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_eabba3362231f9f0555769dcb7633040" parent="aspace_d6355810f4de78798e0c2fc4589178da" type="Folder">13-14</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-13">
+      <c01 id="aspace_31c59ac7dec382dc898b375faa346fb5" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">15</container>
           <unittitle>Journal Articles</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1992">1990-1992</unitdate>
+          <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+          <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+          <unitdate normal="1990/1992" type="inclusive">1990-1992</unitdate>
+          <container id="aspace_12b6998fac8e9e02ae3dc33da9e9d216" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_c6d52bf9371c5b0af2062ac6ba7f1400" parent="aspace_12b6998fac8e9e02ae3dc33da9e9d216" type="Folder">15</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-14">
+      <c01 id="aspace_5b3579a0375ca45ed1a7b0db71d405b8" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">16</container>
           <unittitle>League of Women Voters</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1992">1990-1992</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966/1998">Undated</unitdate>
+          <unitdate normal="1990/1992" type="inclusive">1990-1992</unitdate>
+          <unitdate normal="1966/1998" type="inclusive">Undated</unitdate>
+          <container id="aspace_b34818d2d5f0ab952c9b764fec3adf2e" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_91a6c0f71b894e6ad49b01f7e3b43a70" parent="aspace_b34818d2d5f0ab952c9b764fec3adf2e" type="Folder">16</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-15">
+      <c01 id="aspace_ca88d8008a2a5221bf48ece44772c33e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">17</container>
           <unittitle>
             <emph render="italic">Les Lignes a 735KV Baie James</emph>
           </unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977">1977</unitdate>
+          <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+          <container id="aspace_22673a9c814aede354cfce4f3f4142ba" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_317e4d90c2083dc40158c85b9b2a84cd" parent="aspace_22673a9c814aede354cfce4f3f4142ba" type="Folder">17</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-16">
+      <c01 id="aspace_28483aaaae23994d960ba07316e70634" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">18-19</container>
           <unittitle>New York State Reports and Environmental Review</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992">1992</unitdate>
+          <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+          <container id="aspace_047aa80f2989334666cff5f5ae7a54c4" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_6015b02e513c38c432990cdca1585f55" parent="aspace_047aa80f2989334666cff5f5ae7a54c4" type="Folder">18-19</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-17">
+      <c01 id="aspace_01735ce2f1b24ff16d94447e57214b8d" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">20-21</container>
           <unittitle>Newspaper and Magazine Articles</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985/1986">1985-1986</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1994">1988-1994</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966/1998">Undated</unitdate>
+          <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+          <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+          <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
+          <unitdate normal="1988/1994" type="inclusive">1988-1994</unitdate>
+          <unitdate normal="1966/1998" type="inclusive">Undated</unitdate>
+          <container id="aspace_cde096d05731da88df27d856e293a7f2" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_37bd31624876ee051efbc69fa6a2a18f" parent="aspace_cde096d05731da88df27d856e293a7f2" type="Folder">20-21</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-18">
+      <c01 id="aspace_c499d771a3fe2de32f1d495257aee860" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">22</container>
           <unittitle>Newspaper, Full Text</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991/1992">1991-1992</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966/1998">Undated</unitdate>
+          <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+          <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
+          <unitdate normal="1966/1998" type="inclusive">Undated</unitdate>
+          <container id="aspace_9ea551b4dbf888445c9e71def940b599" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_bf28e44f97fa268c37cba4eae06cfcf5" parent="aspace_9ea551b4dbf888445c9e71def940b599" type="Folder">22</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-19">
+      <c01 id="aspace_6e4adbabf8c8faf191acf617eef5a161" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">23-26</container>
           <unittitle>Newspaper Items, Quebec/ James Bay</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1994">1990-1994</unitdate>
+          <unitdate normal="1990/1994" type="inclusive">1990-1994</unitdate>
+          <container id="aspace_e7114fc87bf817144d166ceb78f34cfb" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_63b7304495dec14b14b80941209be0fd" parent="aspace_e7114fc87bf817144d166ceb78f34cfb" type="Folder">23-26</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-20">
+      <c01 id="aspace_cb072d3db2597578ed34023c4532ec01" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">27</container>
           <unittitle>Press Releases</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1994">1989-1994</unitdate>
+          <unitdate normal="1989/1994" type="inclusive">1989-1994</unitdate>
+          <container id="aspace_af3e080aba1ff2923f0d27d4efe3223a" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_8fc1bd4647ab8990270d0a51b5230d08" parent="aspace_af3e080aba1ff2923f0d27d4efe3223a" type="Folder">27</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-21">
+      <c01 id="aspace_6af7892c53d7a19fe4184830dc8af184" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">28</container>
           <unittitle>P.R.O.T.E.C.T</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993/1994">1993-1994</unitdate>
+          <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+          <container id="aspace_e66ff6dec6cba251cbe3a0055c1aff04" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_0ca8930f3d1c506b4678b2a79a7e1136" parent="aspace_e66ff6dec6cba251cbe3a0055c1aff04" type="Folder">28</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-22">
+      <c01 id="aspace_b4c1fa8b08125e8a3f2e5fcaa83fb1af" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">29-30</container>
           <unittitle>Public Hearings, Testimony, and Supplemental Materials</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1995">1990-1995</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966/1998">Undated</unitdate>
+          <unitdate normal="1990/1995" type="inclusive">1990-1995</unitdate>
+          <unitdate normal="1966/1998" type="inclusive">Undated</unitdate>
+          <container id="aspace_f5df54de41be5fee405cd3170b023040" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_96f2c9dee221849e5a14b1e804d35f23" parent="aspace_f5df54de41be5fee405cd3170b023040" type="Folder">29-30</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-23">
+      <c01 id="aspace_d8a144f09690875bfc325bb83fa4318d" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">31</container>
           <unittitle>Published Articles by Margaret Weitzmann</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1991">1990-1991</unitdate>
+          <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+          <container id="aspace_eb50066e3acd1057e02abf608b7af677" label="Mixed Materials" type="Box">1 (North Country James Bay Group Records )</container>
+          <container id="aspace_44f2961e19f604912fee859ba4e73f49" parent="aspace_eb50066e3acd1057e02abf608b7af677" type="Folder">31</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-24">
+      <c01 id="aspace_50be86f4f376e9ca1e6678a3cb4856d6" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">1</container>
-          <unittitle>Statement of Concerns and Recommendations for Protection and Enhancement
-            Measures</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975">1975</unitdate>
+          <unittitle>Statement of Concerns and Recommendations for Protection and Enhancement Measures</unittitle>
+          <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+          <container id="aspace_58a7c11412d93d4d5472ba0ae74e5485" label="Mixed Materials" type="Box">2 (North Country James Bay Group Records )</container>
+          <container id="aspace_fbdd976a0b5bd9b63a7b90f17aa1b716" parent="aspace_58a7c11412d93d4d5472ba0ae74e5485" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap327-25">
+      <c01 id="aspace_34ee1b022a04c3f2b1be9d65fedb683b" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">2</container>
           <unittitle>
-            <emph render="italic">Surface Water Data, Ungava Bay Drainage
-              (1954-1963)</emph>
+            <emph render="italic">Surface Water Data, Ungava Bay Drainage (1954-1963)</emph>
           </unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966">1966</unitdate>
+          <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+          <container id="aspace_ebbb4612b39ff6d4db2047b569c01444" label="Mixed Materials" type="Box">2 (North Country James Bay Group Records )</container>
+          <container id="aspace_9a2b5bc77cd3c413b3f9d7d41aab0dfa" parent="aspace_ebbb4612b39ff6d4db2047b569c01444" type="Folder">2</container>
         </did>
       </c01>
     </dsc>

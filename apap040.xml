@@ -1,348 +1,293 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap040">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="nalsu" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" url="http://library.albany.edu/speccoll/findaids/apap040.xml" identifier="##">nam_apap040</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap040">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap040.xml">apap040</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>VERSATILE CLUB RECORDS (APAP040)<date normal="1937/2011" type="inclusive">1937-2011</date></titleproper>
+        <titleproper>Versatile Club; Records <num>apap040</num></titleproper>
         <author>Shurawl Bryan</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2012">Copyright 2012 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2012</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Katy Sweet<date normal="2013">2013</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 18:01:27 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2013</date>
+        <item>Encoded in EAD by Katy Sweet</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>VERSATILE CLUB RECORDS (APAP040)<date normal="1937/2011" type="inclusive">1937-2011</date></titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2013</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap040</unitid>
-      <unittitle>Versatile Club Records<unitdate type="inclusive" normal="1937/2011" label="Date:"> 1937-2011</unitdate></unittitle>
-      <origination>
-        <corpname encodinganalog="110" source="local">Versatile Club</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">0.50</extent>
-      </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">The Versatile Club Records document the day-to-day
-        operations of the first 100 years of this community organization founded in 1910.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Versatile Club Records<unitdate normal="1937/2011" type="inclusive">1937-2011</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">Versatile Club</corpname>
+      </origination>
+      <unitid>apap040</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.50 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_40f8e156dac68a83a5b2515e743cc802">The Versatile Club Records document the day-to-day operations of the first 100 years of this community organization founded in 1910.</abstract>
+      <langmaterial id="aspace_28c4698b8c9a1dda976cced01cadf388">English</langmaterial>
+      <physloc id="aspace_cb0be9509c8893a0ce47ed8eccf2b310">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_c470e611caf86a423c88877bee251b22">
+      <head>Processing Information</head>
+      <p>Processed in 2012 by Shurawl Bryan.</p>
+    </processinfo>
+    <accessrestrict id="aspace_e3e55ecc26c21b83484484c4bbfa3489">
       <head>Access</head>
-      <p> Access to this record group is unrestricted. </p>
+      <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_e720afacd060edb853f224ce1ad36b26">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_ba84b37c41675a94328cdbccb3750f6a">
       <head>Acquisition Information</head>
-      <p>All items in this record group were donated to the University Libraries, 
-	  M.E. Grenander Department of Special Collections and Archives, by the Versatile Club in February 1993. 
-	  Two additional accessions were received from Carol Praylor, former president, 
-	  in September 2004 and in September 2011. </p>
+      <p>All items in this record group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by the Versatile Club in February 1993. Two additional accessions were received from Carol Praylor, former president, in September 2004 and in September 2011.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_88a012d30170b67a4f13d56573b27784">
       <head>Administrative History</head>
-      <p>The Girls Versatile Club of Troy, New York was organized in 1931 under the direction of Reverend H. D. White of the 
-	  A.M.E. Zion Church "to strengthen  religious ties, to find an outlet in good clean fun, and above all, to learn to live 
-	  and play as well as work together as friends."[1]  The Club was formed following conflicts between the male and female 
-	  members of the Elusion Club of the A.M.E. Zion Church of Troy.  Reverend H. D. White advised the female members to form 
-	  an all girl club, not restricted to members of the A.M.E. Zion Church, but to include any Troy girls who met moral and 
-	  religious standards.[2]  In February 1947 the club adopted its present name, The Versatile Club.[3]</p>
-      <p>In 1956 the Versatile Club restated its purpose "to further Christian aims and to strive always to make this community 
-		a better one because of the existence of the Versatile Club."[4]  The purpose of the club currently is the "Pleasure and 
-		Recreation of its Members &amp; Civic Service."[5]  During the course of its existence the Versatile Club has contributed 
-		to church repairs, sponsored African American entertainers, provided scholarship support for members attending colleges, 
-		since the 1961 sponsored women's only "Ladies of Leisure &amp; Career Womens Luncheons" which brought prominent women speakers 
-		to Troy including Muriel Jenkens, Ersa Poston, Shirley L. White and Dr. Dorothy Brown.  The Club formed a junior Versatile 
-		Club to reach young children.  The Versatile Club has given strong support to drives to fund research on Sickle Cell Anemia.  
-		The Club also sponsors trips and outings for its members.[6]</p>
-      <p>The Versatile Club originally held its meetings every Monday night at the home of Club members, currently it holds monthly meetings 
-	at Bethel Baptist Church.[7]  The Club also holds an annual Palm Sunday church meeting rotating among the Bethel Baptist, Oakwood Presbyterian, 
-	and A.M.E. Zion Methodist churches.</p>
-      <p>The administrative officers of the club are a President, Vice President, Recording Secretary, Assistant Recording Secretary, Corresponding 
-	Secretary, Assistant Corresponding Secretary, Financial Secretary, Assistant Financial Secretary, Treasurer, Chaplain, and Assistant Chaplain.  
-	The Versatile Club's presidents have included: Jane Reese (1931-1981), Connie Gordon, Louise Byrd, Wilhamenia Simon, Carol Praylor, 
-	Irene Van Slyke, Patricia Hicks and and Catheryne Collington.</p>
-      <!--<head>Notes</head>
-	<note>
-	<list type="ordered" numeration="arabic">
-	<item>&quot;Brief Club History,&quot; 25th Anniversary VC [pamphlet], The Versatile Club, Troy, N.Y, 1956.</item>
-	<item> Installation Ceremony Notes, [ca. 1936].</item>
-	<item>Draft Meeting Minutes, February 10, 1947.</item>
-	<item>&quot;Brief Club History&quot;</item>
-	<item>Clause I, by-laws, revised October 11, 1986.</item>
-	<item>&quot;The Versatile Club,&quot; 50 Anniversary [program], Versatile Club, Troy, NY, November 12, 1982.</item>
-	<item>Clause II, By-laws, [ca. 1939]; Clause II, By-laws, revised October 11, 1986.</item>
-	</list>
-	</note>-->
+      <p>The Girls Versatile Club of Troy, New York was organized in 1931 under the direction of Reverend H. D. White of the A.M.E. Zion Church "to strengthen religious ties, to find an outlet in good clean fun, and above all, to learn to live and play as well as work together as friends."[1] The Club was formed following conflicts between the male and female members of the Elusion Club of the A.M.E. Zion Church of Troy. Reverend H. D. White advised the female members to form an all girl club, not restricted to members of the A.M.E. Zion Church, but to include any Troy girls who met moral and religious standards.[2] In February 1947 the club adopted its present name, The Versatile Club.[3]</p>
+      <p> In 1956 the Versatile Club restated its purpose "to further Christian aims and to strive always to make this community a better one because of the existence of the Versatile Club."[4] The purpose of the club currently is the "Pleasure and Recreation of its Members &amp; Civic Service."[5] During the course of its existence the Versatile Club has contributed to church repairs, sponsored African American entertainers, provided scholarship support for members attending colleges, since the 1961 sponsored women's only "Ladies of Leisure &amp; Career Womens Luncheons" which brought prominent women speakers to Troy including Muriel Jenkens, Ersa Poston, Shirley L. White and Dr. Dorothy Brown. The Club formed a junior Versatile Club to reach young children. The Versatile Club has given strong support to drives to fund research on Sickle Cell Anemia. The Club also sponsors trips and outings for its members.[6]</p>
+      <p> The Versatile Club originally held its meetings every Monday night at the home of Club members, currently it holds monthly meetings at Bethel Baptist Church.[7] The Club also holds an annual Palm Sunday church meeting rotating among the Bethel Baptist, Oakwood Presbyterian, and A.M.E. Zion Methodist churches.</p>
+      <p> The administrative officers of the club are a President, Vice President, Recording Secretary, Assistant Recording Secretary, Corresponding Secretary, Assistant Corresponding Secretary, Financial Secretary, Assistant Financial Secretary, Treasurer, Chaplain, and Assistant Chaplain. The Versatile Club's presidents have included: Jane Reese (1931-1981), Connie Gordon, Louise Byrd, Wilhamenia Simon, Carol Praylor, Irene Van Slyke, Patricia Hicks and and Catheryne Collington.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>Contained in the records of the Versatile Club are official and draft minutes of meetings, memorabilia relating to social activities, by-laws, 
-	  financial documents, photographs, and resumes/biographical sketches of club members covering the period from 1945 through 1988.  Minutes of 
-	  meetings from the 1930s and early 1940s were burned according to President Louise Byrd.  A complete set of meeting minutes exists for the period, 
-	  1950-62, and 1981 - June 1988, while scattered draft minutes cover the period 1945-88.  The official minutes from 1931-1949, July 1950-December 1950, 
-	  and July 1962-March 1981 are missing.</p>
-      <p>Since the Versatile Club has operated primarily as a social club, the focus of its records relates to the social activities they sponsored from 
-	  1945-1988.  Among the numerous entertainers the Versatile Club brought to Troy were Duke Ellington, Ella Fitzgerald, Mary Lou Williams, Fat Man 
-	  Robinson's Orchestra, and the pianist Dennie Carter.  The rising cost of hiring entertainers forced the club to curtail its sponsorship of 
-	  major bands in the late 1950s.  The Versatile also sponsors African-American speakers, youth dances, fashion shows, and supports worthy charities 
-	  such as the Girls Training School.  The Club has a continuing interest in preserving a record of the underground railroad in Troy, and donated a 
-	  plaque in honor Charles Nalle, an escaped slave who had been arrested under the fugitive slave act, and freed by a citizens riot in 1860.</p>
+    <scopecontent id="aspace_945e446555824e9e38afabeb85bb3ec6">
+      <head>Scope and Contents</head>
+      <p>Contained in the records of the Versatile Club are official and draft minutes of meetings, memorabilia relating to social activities, by-laws, financial documents, photographs, and resumes/biographical sketches of club members covering the period from 1945 through 1988. Minutes of meetings from the 1930s and early 1940s were burned according to President Louise Byrd. A complete set of meeting minutes exists for the period, 1950-62, and 1981 - June 1988, while scattered draft minutes cover the period 1945-88. The official minutes from 1931-1949, July 1950-December 1950, and July 1962-March 1981 are missing.</p>
+      <p> Since the Versatile Club has operated primarily as a social club, the focus of its records relates to the social activities they sponsored from 1945-1988. Among the numerous entertainers the Versatile Club brought to Troy were Duke Ellington, Ella Fitzgerald, Mary Lou Williams, Fat Man Robinson's Orchestra, and the pianist Dennie Carter. The rising cost of hiring entertainers forced the club to curtail its sponsorship of major bands in the late 1950s. The Versatile also sponsors African-American speakers, youth dances, fashion shows, and supports worthy charities such as the Girls Training School. The Club has a continuing interest in preserving a record of the underground railroad in Troy, and donated a plaque in honor Charles Nalle, an escaped slave who had been arrested under the fugitive slave act, and freed by a citizens riot in 1860.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_1c0ff3f056c1956021fc946f9bc0d720">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into two boxes.</p>
     </arrangement>
-    <!--PUT IN SUBJECT (LCSH) AND GENRE (AAT) HEADINGS HERE-->
-    <controlaccess>
-      <subject source="meg" encodinganalog="650">African Americans and Civil Rights Organizations</subject>
-      <subject source="meg" encodinganalog="650">Women</subject>
-      <subject source="meg" encodinganalog="650">Rensselaer County, New York</subject>
-      <subject source="meg" encodinganalog="650">Ethnic Groups</subject>
-      <head>Subject and Genre Headings</head>
-      <corpname encodinganalog="610" source="local">The Versatile Club</corpname>
-      <subject encodinganalog="650" source="lcsh">Girls--Societies and clubs</subject>
-      <subject encodinganalog="650" source="lcsh">Baptist associations</subject>
-      <geogname encodinganalog="651" source="local">Troy (N.Y.)</geogname>
-      <genreform encodinganalog="655" source="aat">Membership</genreform>
-      <genreform encodinganalog="655" source="aat">Minutes</genreform>
-      <genreform encodinganalog="655" source="aat">Financial Records</genreform>
-      <genreform encodinganalog="655" source="aat">Photographs</genreform>
-      <genreform encodinganalog="655" source="aat">Clippings (information artifacts)</genreform>
-      <genreform encodinganalog="655" source="aat">Bylaws (administrative records)</genreform>
-      <genreform encodinganalog="655" source="aat">Greeting Cards</genreform>
-    </controlaccess>
-    <prefercite>
+    <prefercite id="aspace_5559cdf3c3ff44ba6f7301616b6a1b16">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Versatile Club Records,  1937-2011. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, Versatile Club Records, 1937-2011. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 level="series" id="nam_apap040-1">
+    <controlaccess>
+      <subject source="meg">African Americans and Civil Rights Organizations</subject>
+      <subject source="meg">Women</subject>
+      <subject source="meg">Rensselaer County, New York</subject>
+      <subject source="meg">Ethnic Groups</subject>
+      <subject source="lcsh">Girls--Societies and clubs</subject>
+      <subject source="lcsh">Baptist associations</subject>
+      <geogname source="local">Troy (N.Y.)</geogname>
+      <genreform source="aat">Membership</genreform>
+      <genreform source="aat">Minutes</genreform>
+      <genreform source="aat">Financial Records</genreform>
+      <genreform source="aat">Photographs</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <genreform source="aat">Bylaws (administrative records)</genreform>
+      <genreform source="aat">Greeting Cards</genreform>
+      <corpname source="local">The Versatile Club</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_f798ef333a514a3802e4aa84501849e3" level="series">
         <did>
+          <unittitle>Box 1</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Box 1</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1939/2011">1939-2011</unitdate>
-          <unitdate type="inclusive" normal="1937/2011">Undated</unitdate>
+          <unitdate normal="1939/2011" type="inclusive">1939-2011</unitdate>
+          <unitdate normal="1937/2011" type="inclusive">Undated</unitdate>
         </did>
-        <c02 id="nam_apap040-1_1">
+        <c02 id="aspace_497adf81335c42e491eaea0140490442" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Anniversary Brochures, 25th, 50th and 80th</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2011">2011</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <unitdate normal="2011/2011" type="inclusive">2011</unitdate>
+            <container id="aspace_588531035080d5db086da637ecb95546" label="Mixed Materials" type="Box">1 (1-Box 1)</container>
+            <container id="aspace_b58c932b16d26bb315db1551f54a89c6" parent="aspace_588531035080d5db086da637ecb95546" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap040-1_2">
+        <c02 id="aspace_47b543ee2e3554f18435acd1eaec67bb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Brown, Dorothy, News Clipping</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998/2008">ca. 2003</unitdate>
+            <unitdate normal="1998/2008" type="inclusive">ca. 2003</unitdate>
+            <container id="aspace_0194fc34b2f2ac54aa71f475f607b3ea" label="Mixed Materials" type="Box">1 (1-Box 1)</container>
+            <container id="aspace_eb3eb2a9b8692c1bbd6be0d2823840f3" parent="aspace_0194fc34b2f2ac54aa71f475f607b3ea" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap040-1_3">
+        <c02 id="aspace_e70e0763bc8985b91e1d8688e5c91391" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>By-laws</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1939">1939</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961">1961</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937/2011">Undated</unitdate>
+            <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <unitdate normal="1937/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_fc79b46f8b7985069b167cce1485c241" label="Mixed Materials" type="Box">1 (1-Box 1)</container>
+            <container id="aspace_e9fba957e00cf1ba73c150a85b4d6bed" parent="aspace_fc79b46f8b7985069b167cce1485c241" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap040-1_4">
+        <c02 id="aspace_698323cd51105d8ed1ea6051e6151717" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Charles Nalle Plaque, Photograph</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937/2011">Undated</unitdate>
+            <unitdate normal="1937/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_d3501bdcfbeed3ace8c3b545ebf585f6" label="Mixed Materials" type="Box">1 (1-Box 1)</container>
+            <container id="aspace_dbd75193626f6f34eb294ab73686ce02" parent="aspace_d3501bdcfbeed3ace8c3b545ebf585f6" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap040-1_5">
+        <c02 id="aspace_1eec289dce4429695ffd7e17ee5be3e0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Club Cap</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937/2011">Undated</unitdate>
+            <unitdate normal="1937/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_296123138a87e18759c47d89e6a0e63d" label="Mixed Materials" type="Box">1 (1-Box 1)</container>
+            <container id="aspace_64be2bbf841b02185ca625ca2d647855" parent="aspace_296123138a87e18759c47d89e6a0e63d" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap040-1_6">
+        <c02 id="aspace_28f56aa03b60d27913bd8631e11a30f3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Draft Meeting Minutes-Bound</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="194511/195509">November 1945-September 1955</unitdate>
+            <unitdate type="inclusive">November 1945-September 1955</unitdate>
+            <container id="aspace_611ae479b946e25616ee4269c40df87f" label="Mixed Materials" type="Box">1 (1-Box 1)</container>
+            <container id="aspace_efd590991575fe92b67f53d09dfc3998" parent="aspace_611ae479b946e25616ee4269c40df87f" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap040-1_7">
+        <c02 id="aspace_6ed733678d1cb16d11b678242b41f809" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Draft Meeting Minutes-Loose Pages</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="195101/198804">January 1951-April 1988</unitdate>
+            <unitdate type="inclusive">January 1951-April 1988</unitdate>
+            <container id="aspace_68fe291a3bde719a7c0c564e244bf380" label="Mixed Materials" type="Box">1 (1-Box 1)</container>
+            <container id="aspace_d93b8162ad93f116977da59cedd72cf8" parent="aspace_68fe291a3bde719a7c0c564e244bf380" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap040-1_8">
+        <c02 id="aspace_012116ee5ff8317e4061a2075c442351" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Financial Documents</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950/1984">1950-1984</unitdate>
+            <unitdate normal="1950/1984" type="inclusive">1950-1984</unitdate>
+            <container id="aspace_d0c17dab20fd1681d8f5f569a359a0c9" label="Mixed Materials" type="Box">1 (1-Box 1)</container>
+            <container id="aspace_7cf3bfff1d59d00427f18e642a6016a7" parent="aspace_d0c17dab20fd1681d8f5f569a359a0c9" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap040-1_9">
+        <c02 id="aspace_210766b69c9070f9f068d227a14e25d5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Installation Ceremony, Notes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937/2011">Undated</unitdate>
+            <unitdate normal="1937/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_7c00605e85da48337e4931834fd47ad4" label="Mixed Materials" type="Box">1 (1-Box 1)</container>
+            <container id="aspace_318312d7c513810cd934bf1b55ee5ae7" parent="aspace_7c00605e85da48337e4931834fd47ad4" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap040-1_10">
+        <c02 id="aspace_071389d9f0dec00593e6360afc1a87b3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Ladies of Leisure &amp; Career Girls/Women Luncheon</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1990">1968-1990</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937/2011">Undated</unitdate>
+            <unitdate normal="1968/1990" type="inclusive">1968-1990</unitdate>
+            <unitdate normal="1937/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_f60a232a32cfeb88254a4df88fc6185b" label="Mixed Materials" type="Box">1 (1-Box 1)</container>
+            <container id="aspace_3e8fc150c22b8434df389b2bf334f14c" parent="aspace_f60a232a32cfeb88254a4df88fc6185b" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap040-1_11">
+        <c02 id="aspace_96d4f1b8e8afb5039e430705ee7bdf13" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Membership</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950/1983">1950-1983</unitdate>
+            <unitdate normal="1950/1983" type="inclusive">1950-1983</unitdate>
+            <container id="aspace_0a5c9f1012ca4430de86b461a36f3891" label="Mixed Materials" type="Box">1 (1-Box 1)</container>
+            <container id="aspace_7940152b3fa22addc504ff2e7a0d0020" parent="aspace_0a5c9f1012ca4430de86b461a36f3891" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap040-1_12">
+        <c02 id="aspace_32c988642aeeae4810af63ecd51e0b5c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Miscellaneous Notes and Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937/2011">Undated</unitdate>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <unitdate normal="1937/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_f001e4f51d94c7ca17cc8947c0743615" label="Mixed Materials" type="Box">1 (1-Box 1)</container>
+            <container id="aspace_5e9fb6ae8794d32cdc3e000985a47050" parent="aspace_f001e4f51d94c7ca17cc8947c0743615" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap040-1_13">
+        <c02 id="aspace_390d009867904ae5a66ca6fa2acb63a5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>News Clipping, Class'ique</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002-03">March 2002</unitdate>
+            <unitdate normal="2002-03/2002-03" type="inclusive">March 2002</unitdate>
+            <container id="aspace_b546e765d00be3737f5a02026abdb534" label="Mixed Materials" type="Box">1 (1-Box 1)</container>
+            <container id="aspace_1d18cc080ab03cbe53d975d1f516cdc4" parent="aspace_b546e765d00be3737f5a02026abdb534" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap040-1_14">
+        <c02 id="aspace_89a239578c1805a0a33d5e16da266152" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Official Meeting Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="195006/195501">June 1950-January 1955</unitdate>
+            <unitdate type="inclusive">June 1950-January 1955</unitdate>
+            <container id="aspace_892ba40bd7cc551779eac98054605352" label="Mixed Materials" type="Box">1 (1-Box 1)</container>
+            <container id="aspace_e4d6afa071fa4d3681519d0bc9d17ae6" parent="aspace_892ba40bd7cc551779eac98054605352" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap040-1_15">
+        <c02 id="aspace_665cd7300af74aea1232564190aff0ce" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Official Meeting Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="195501/196206">January 1955-June 1962</unitdate>
+            <unitdate type="inclusive">January 1955-June 1962</unitdate>
+            <container id="aspace_c6a52a44410182c30a37352a8deeafd2" label="Mixed Materials" type="Box">2 (1-Box 1)</container>
+            <container id="aspace_dbaebabe42126b98c48a157713b1114c" parent="aspace_c6a52a44410182c30a37352a8deeafd2" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap040-1_16">
+        <c02 id="aspace_fe7a63a35f5816c1722d50f5eec00a2b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>Official Meeting Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="198104/198806">April 1981-June 1988</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002">2002</unitdate>
+            <unitdate type="inclusive">April 1981-June 1988</unitdate>
+            <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+            <container id="aspace_4f74ff5d789ace8496e76466bcbe7cb7" label="Mixed Materials" type="Box">2 (1-Box 1)</container>
+            <container id="aspace_4f354e6752fa208207c178bc0e083467" parent="aspace_4f74ff5d789ace8496e76466bcbe7cb7" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap040-1_17">
+        <c02 id="aspace_76ff42624b61dccfb3d593cda08d7060" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Photographs</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995">1995</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937/2011">Undated</unitdate>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <unitdate normal="1937/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_084fbf683547ecf503a6b6d17c84548f" label="Mixed Materials" type="Box">2 (1-Box 1)</container>
+            <container id="aspace_3d8472b0a6f38cf41179683a7eec7fc4" parent="aspace_084fbf683547ecf503a6b6d17c84548f" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap040-1_18">
+        <c02 id="aspace_68f0fe06864c2118c0ed1d977369843e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Rensselaer County Legislature Resolution</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2001">2001</unitdate>
+            <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_41e884ccc785f60c6543016c24986d5d" label="Mixed Materials" type="Box">2 (1-Box 1)</container>
+            <container id="aspace_400b26f02e2de778d2ee1b9c14dbfa20" parent="aspace_41e884ccc785f60c6543016c24986d5d" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap040-1_19">
+        <c02 id="aspace_e781758982bd21f76a10af2e51783e04" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>Resumes/Biographical Sheets</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/1976">1963-1976</unitdate>
+            <unitdate normal="1963/1976" type="inclusive">1963-1976</unitdate>
+            <container id="aspace_c1c9091bbcf1f882e2124a7d14d11a8c" label="Mixed Materials" type="Box">2 (1-Box 1)</container>
+            <container id="aspace_b0613b142449cd33ded3ced87d7dfc1f" parent="aspace_c1c9091bbcf1f882e2124a7d14d11a8c" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap040-1_20">
+        <c02 id="aspace_ddac8f3350046711d8fd28a0c7ad20c5" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>Social Activity Memorabilia</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937/1988">1937-1988</unitdate>
+            <unitdate normal="1937/1988" type="inclusive">1937-1988</unitdate>
+            <container id="aspace_0f235d22f953e82c65f158f8085c12b6" label="Mixed Materials" type="Box">2 (1-Box 1)</container>
+            <container id="aspace_3fc4739ea2d7516e341b074f70bf61db" parent="aspace_0f235d22f953e82c65f158f8085c12b6" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap040-1_21">
+        <c02 id="aspace_591ad83f6bc8ff3f0c995650204ad499" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
             <unittitle>Social Invitations</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951/1989">1951-1989</unitdate>
+            <unitdate normal="1951/1989" type="inclusive">1951-1989</unitdate>
+            <container id="aspace_145634fb6b5562eb613e8ee7acc38c8e" label="Mixed Materials" type="Box">2 (1-Box 1)</container>
+            <container id="aspace_011ed363ec64919375a1eff1fbfda0c3" parent="aspace_145634fb6b5562eb613e8ee7acc38c8e" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap040-1_22">
+        <c02 id="aspace_a5554c912d30969fe66a26f723886d68" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
             <unittitle>Thank You/Apology/Sympathy Cards</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951/1990">1951-1990</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937/2011">Undated</unitdate>
+            <unitdate normal="1951/1990" type="inclusive">1951-1990</unitdate>
+            <unitdate normal="1937/2011" type="inclusive">Undated</unitdate>
+            <container id="aspace_f6d87921455357884bde3739bbd6e38a" label="Mixed Materials" type="Box">2 (1-Box 1)</container>
+            <container id="aspace_2edebcb0079d524f14a6dd50a2e0afef" parent="aspace_f6d87921455357884bde3739bbd6e38a" type="Folder">8</container>
           </did>
         </c02>
       </c01>

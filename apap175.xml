@@ -1,241 +1,180 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap175">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap175.xml" identifier="##">nam_apap175</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap175">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap175.xml">apap175</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>MALCOLM WILSON PAPERS (APAP175)<date normal="1971/1974" type="inclusive">1971-1974</date></titleproper>
+        <titleproper>Wilson, Malcolm; Papers <num>apap175</num></titleproper>
         <author>Chris Batista</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2006">Copyright 2006 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2006</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Michele Tuohy<date normal="2014">2014</date>
-			</creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 14:50:24 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Encoded in EAD by Michele Tuohy</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>MALCOLM WILSON PAPERS (APAP175)<date normal="1971/1974" type="inclusive">1971-1974</date></titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2006</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap175</unitid>
-      <unittitle>Malcolm Wilson Papers<unitdate type="inclusive" normal="1971-1974" label="Date:"> 1971-1974</unitdate></unittitle>
-      <origination>
-        <persname encodinganalog="100" source="lcsh">Wilson, Malcolm, 1914-2000</persname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
+      </repository>
+      <unittitle>Malcolm Wilson Papers<unitdate normal="1971/1974" type="inclusive">1971-1974</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="lcsh">Wilson, Malcolm, 1914-2000</persname>
       </origination>
-      <physdesc>
-        <extent unit="cubic ft.">0.4</extent>
+      <unitid>apap175</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.4 cubic ft.</extent>
         <physfacet>processed to date</physfacet>
       </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
-      </repository>
-      <abstract label="Abstract:">This collection contains papers related to Malcolm Wilson and political 
-	  career as governor of New York.  Included are news articles, press conferences and other materials 
-	  relating to his political career during the years 1971-1974.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <abstract id="aspace_fbb705a9557674b56060e5a57dae1efb">This collection contains papers related to Malcolm Wilson and political career as governor of New York. Included are news articles, press conferences and other materials relating to his political career during the years 1971-1974.</abstract>
+      <langmaterial id="aspace_26254bc90c3b4e9a0cc539f375b504e6">English</langmaterial>
+      <physloc id="aspace_b63c686de0e5bed24044f590fd1130b8">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_37c049a96fb3ebdd56b28fb6258044aa">
+      <head>Processing Information</head>
+      <p>Processed in 2006 by Chris Batista.</p>
+    </processinfo>
+    <accessrestrict id="aspace_15a05f2134402c7b66ab5eee6ac6dc22">
       <head>Access</head>
-      <p> Access to this record group is unrestricted.</p>
+      <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_ff898a8d54238fceaacd2a7f6b978ac5">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_41c97d26b6df1f6a4fce3e29390f78ae">
       <head>Acquisition Information</head>
-      <p>All the items in this manuscript group were donated to the University Libraries, M.E.
-        Grenander Department of Special Collections and Archives.</p>
+      <p>All the items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_5a941926720bdfa41902ebcad40b0f13">
       <head>Biographical Sketch</head>
-      <p>Charles Malcolm Wilson was born on February 26, 1914. Wilson was a graduate of 
-	  Fordham University (1933) and Fordham Law (1936). He became a member of the New York 
-	  State Assembly in 1939 and in 1958 he left office to run for lieutenant governor 
-	  on the ticket with Nelson A. Rockefeller. Wilson’s first run for public office was in 
-	  1938 when he was elected to the State Assembly from Yonkers. Wilson was re-elected to 
-	  the Assembly for nine additional terms from a predominantly Democratic district. As a 
-	  member of the State Assembly, he introduced 1,250 bills of which 432 were passed in 
-	  both houses of the legislature and signed by the governor. One of the more significant
-	  bills to be passed was the creation of the Higher Education Assistance Corporation 
-	  providing for a state guaranteed loan program for students attending public or private 
-	  colleges. Wilson served as lieutenant governor under Nelson Rockefeller until 
-	  Rockefeller’s resignation in 1973. Rockefeller recognized Wilson as the man who pushed 
-	  for revenue sharing as well as working with local and state government. Wilson served 
-	  as governor from 1973 through 1974.</p>
-      <p>On June 1, 1974, Wilson delivered a speech on his candidacy to run for governor, 
-	  stating: “What I am and have been throughout my public service: progressive in meeting 
-	  human needs and conservative in handling the people’s tax dollars.” Wilson ran for 
-	  governor in 1975, but lost the election to Hugh Carey of Brooklyn. After retirement 
-	  from political life, Wilson served as CEO of Manhattan Saving Banks. Wilson died on 
-	  March 13, 2000.</p>
+      <p>Charles Malcolm Wilson was born on February 26, 1914. Wilson was a graduate of Fordham University (1933) and Fordham Law (1936). He became a member of the New York State Assembly in 1939 and in 1958 he left office to run for lieutenant governor on the ticket with Nelson A. Rockefeller. Wilson’s first run for public office was in 1938 when he was elected to the State Assembly from Yonkers. Wilson was re-elected to the Assembly for nine additional terms from a predominantly Democratic district. As a member of the State Assembly, he introduced 1,250 bills of which 432 were passed in both houses of the legislature and signed by the governor. One of the more significant bills to be passed was the creation of the Higher Education Assistance Corporation providing for a state guaranteed loan program for students attending public or private colleges. Wilson served as lieutenant governor under Nelson Rockefeller until Rockefeller’s resignation in 1973. Rockefeller recognized Wilson as the man who pushed for revenue sharing as well as working with local and state government. Wilson served as governor from 1973 through 1974.</p>
+      <p> On June 1, 1974, Wilson delivered a speech on his candidacy to run for governor, stating: “What I am and have been throughout my public service: progressive in meeting human needs and conservative in handling the people’s tax dollars.” Wilson ran for governor in 1975, but lost the election to Hugh Carey of Brooklyn. After retirement from political life, Wilson served as CEO of Manhattan Saving Banks. Wilson died on March 13, 2000.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>This collection contains papers related to the political life of Malcolm Wilson and 
-	  his tenure as governor of New York. The collection includes a selection of speeches and 
-	  addresses by Wilson. Wilson’s swearing in address as the 50th governor of New York State 
-	  is one of the highlights of the collection.</p>
-      <p>Wilson’s work with the Women’s National Republican Club is documented in the collection. 
-	  Wilson was a strong supporter of women’s rights. He emphasized that as a Republican, he 
-	  was committed to the rights and freedoms of individuals. The collection also includes 
-	  transcripts of press conferences from 1973-1974. Also included is the transcript of a press 
-	  conference regarding the Watergate Scandal in which Wilson commented on the president, the 
-	  nation, and his thoughts about how the situation was handled.</p>
-      <p>The remarks folder includes the remarks of Governor Wilson on the issues of the day. Some 
-	  of the more interesting documents relate to Wilson’s work in Harlem and the erection of a 
-	  state office building in uptown Manhattan. Wilson believed that this was a historic moment 
-	  because of the participation of African Americans in a state government project.</p>
-      <p>Wilson’s remarks when announcing his candidacy for the governorship of New York in 1974 is 
-	  also in the collection. In the press conference transcript, Wilson is questioned about his 
-	  campaign and his preparations for the upcoming election. Wilson discusses the needs of New 
-	  York State and the state budget which he wanted to divide between local and state government. 
-	  Wilson was also questioned about ethnic groups and minorities in New York City and he responded 
-	  by stating that he was not concerned about political affiliation or race, but rather the job he 
-	  was doing for the people of New York.</p>
-      <p>The New York State budget is always a cause for concern in order to balance the needs of the 
-	  citizens of New York. One of Rockefeller’s and Wilson’s main concerns was the increased taxation 
-	  in New York State and the services which needed to be provided for the people of New York. Along 
-	  with Assembly Speaker Perry Duryea, Wilson attempted to make sure that New Yorkers were getting 
-	  their tax dollars back in through public services.</p>
-      <p>News clippings are also a vital part of the collection. In this section of the collection you 
-	  can find articles related to Malcolm Wilson and his initiatives. One of the news clippings is a 
-	  New York Times article discussing Rockefeller’s work that Wilson continued after he assumed the 
-	  position of governor.</p>
-      <p>In this collection you will also find Wilson’s message to the Legislature from 1974, in which 
-	  he addresses the needs of New York State. He cited the energy crisis and improving the 
-	  administration of justice as areas in need of improvement.</p>
-      <p>Related collections in the M.E. Grenander Department of Special Collections and Archives can 
-	  be found at the Subject Guides for the New York State Modern Political Archive and Public Servants 
-	  and Politicians.</p>
+    <scopecontent id="aspace_5f19682fde0dba9ec3935fd68fd7cef2">
+      <head>Scope and Contents</head>
+      <p>This collection contains papers related to the political life of Malcolm Wilson and his tenure as governor of New York. The collection includes a selection of speeches and addresses by Wilson. Wilson’s swearing in address as the 50th governor of New York State is one of the highlights of the collection.</p>
+      <p> Wilson’s work with the Women’s National Republican Club is documented in the collection. Wilson was a strong supporter of women’s rights. He emphasized that as a Republican, he was committed to the rights and freedoms of individuals. The collection also includes transcripts of press conferences from 1973-1974. Also included is the transcript of a press conference regarding the Watergate Scandal in which Wilson commented on the president, the nation, and his thoughts about how the situation was handled.</p>
+      <p> The remarks folder includes the remarks of Governor Wilson on the issues of the day. Some of the more interesting documents relate to Wilson’s work in Harlem and the erection of a state office building in uptown Manhattan. Wilson believed that this was a historic moment because of the participation of African Americans in a state government project.</p>
+      <p> Wilson’s remarks when announcing his candidacy for the governorship of New York in 1974 is also in the collection. In the press conference transcript, Wilson is questioned about his campaign and his preparations for the upcoming election. Wilson discusses the needs of New York State and the state budget which he wanted to divide between local and state government. Wilson was also questioned about ethnic groups and minorities in New York City and he responded by stating that he was not concerned about political affiliation or race, but rather the job he was doing for the people of New York.</p>
+      <p> The New York State budget is always a cause for concern in order to balance the needs of the citizens of New York. One of Rockefeller’s and Wilson’s main concerns was the increased taxation in New York State and the services which needed to be provided for the people of New York. Along with Assembly Speaker Perry Duryea, Wilson attempted to make sure that New Yorkers were getting their tax dollars back in through public services.</p>
+      <p> News clippings are also a vital part of the collection. In this section of the collection you can find articles related to Malcolm Wilson and his initiatives. One of the news clippings is a New York Times article discussing Rockefeller’s work that Wilson continued after he assumed the position of governor.</p>
+      <p> In this collection you will also find Wilson’s message to the Legislature from 1974, in which he addresses the needs of New York State. He cited the energy crisis and improving the administration of justice as areas in need of improvement.</p>
+      <p> Related collections in the M.E. Grenander Department of Special Collections and Archives can be found at the Subject Guides for the New York State Modern Political Archive and Public Servants and Politicians.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_d3ff1ebdbe2737783f66659ddb22e923">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized alphabetically. There are no series.</p>
     </arrangement>
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Public Servants </subject>
-      <subject source="meg" encodinganalog="650">Politics and Politicians</subject>
-      <persname encodinganalog="600" source="lcsh">Wilson, Malcolm, 1914-2000 </persname>
-      <subject encodinganalog="650" source="lcsh">Politics</subject>
-      <subject encodinganalog="650" source="lcsh">Governors</subject>
-      <geogname encodinganalog="651" source="lcsh">New York (State)</geogname>
-      <genreform encodinganalog="655" source="local">News Clippings</genreform>
-      <genreform encodinganalog="655" source="local">Remarks</genreform>
-      <genreform encodinganalog="655" source="aat">Press Conference</genreform>
-      <genreform encodinganalog="655" source="aat">Speeches (documents)</genreform>
-    </controlaccess>
-    <prefercite>
+    <prefercite id="aspace_6b19991a20edfa50eb1daacf7e063e3d">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Malcolm Wilson Papers,  1971-1974. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, Malcolm Wilson Papers, 1971-1974. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_apap175-1">
+    <controlaccess>
+      <subject source="meg">Public Servants</subject>
+      <subject source="meg">Politics and Politicians</subject>
+      <subject source="lcsh">Politics</subject>
+      <subject source="lcsh">Governors</subject>
+      <geogname source="lcsh">New York (State)</geogname>
+      <genreform source="local">News Clippings</genreform>
+      <genreform source="local">Remarks</genreform>
+      <genreform source="aat">Press Conference</genreform>
+      <genreform source="aat">Speeches (documents)</genreform>
+      <persname source="lcsh">Wilson, Malcolm, 1914-2000</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_e04925b578df8fa92ed0c498609fe254" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>Budget Cuts</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+          <container id="aspace_e84cb61862a4b238e6e01a04a12c64ef" label="Mixed Materials" type="Box">1 (Malcolm Wilson Papers)</container>
+          <container id="aspace_a799821aec8c60fd2285092cbb8c7b72" parent="aspace_e84cb61862a4b238e6e01a04a12c64ef" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap175-2">
+      <c01 id="aspace_d6f72e25d73d2bca0731a47b5f98f9c5" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Candidacy and Nomination</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+          <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+          <container id="aspace_38fb9858398eab661c8f7c72b4eba35f" label="Mixed Materials" type="Box">1 (Malcolm Wilson Papers)</container>
+          <container id="aspace_3d7c65f0cc6263cd4ea7a9d2ec62252b" parent="aspace_38fb9858398eab661c8f7c72b4eba35f" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap175-3">
+      <c01 id="aspace_a9780e9381971d778a95350256de4156" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>Message to the Legislature</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+          <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+          <container id="aspace_67e157a8de5967eb2b0799e84423c7c7" label="Mixed Materials" type="Box">1 (Malcolm Wilson Papers)</container>
+          <container id="aspace_dcc4df546e0aa3b72f1164da5494329f" parent="aspace_67e157a8de5967eb2b0799e84423c7c7" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap175-4">
+      <c01 id="aspace_87d04574be066d742c618799b2bd2c49" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>News Clippings</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971/1974">circa 1971-1974</unitdate>
+          <unitdate normal="1971/1974" type="inclusive">circa 1971-1974</unitdate>
+          <container id="aspace_050ccffeb19b2c289f69f8517ec865c7" label="Mixed Materials" type="Box">1 (Malcolm Wilson Papers)</container>
+          <container id="aspace_1c26b08acbf750656311d7cfdba1c7c2" parent="aspace_050ccffeb19b2c289f69f8517ec865c7" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap175-5">
+      <c01 id="aspace_36f6bf3d21010af17863f6992de51a33" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>News Clippings</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971/1974">circa 1971-1974</unitdate>
+          <unitdate normal="1971/1974" type="inclusive">circa 1971-1974</unitdate>
+          <container id="aspace_2863cc51dc1f319790009e67af0e0db9" label="Mixed Materials" type="Box">1 (Malcolm Wilson Papers)</container>
+          <container id="aspace_a3fda3a785dfb26d663aa332f992337e" parent="aspace_2863cc51dc1f319790009e67af0e0db9" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap175-6">
+      <c01 id="aspace_40ef6968e36ee0f4fd64dac7c28da0f1" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Press Conferences</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973">1973</unitdate>
+          <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+          <container id="aspace_e7c11e9a47f147ec2b67d228556fd843" label="Mixed Materials" type="Box">1 (Malcolm Wilson Papers)</container>
+          <container id="aspace_ac56a601d8308a188e12b1a8b51436d3" parent="aspace_e7c11e9a47f147ec2b67d228556fd843" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap175-7">
+      <c01 id="aspace_2608ed449660f989d0174aa6fc5c140f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Press Conferences</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+          <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+          <container id="aspace_c7297a986f3e7ab9ad622ea5487e595c" label="Mixed Materials" type="Box">1 (Malcolm Wilson Papers)</container>
+          <container id="aspace_38c1cf9e784dfd4a3834c72247585114" parent="aspace_c7297a986f3e7ab9ad622ea5487e595c" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_apap175-8">
+      <c01 id="aspace_52a4712ed7d7166b5a1f99ab123fb9d4" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
           <unittitle>Press Conferences</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+          <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+          <container id="aspace_51fd6f22c877de0e728123301d7bf915" label="Mixed Materials" type="Box">1 (Malcolm Wilson Papers)</container>
+          <container id="aspace_86e289ae9db7f93900b611f67c650c27" parent="aspace_51fd6f22c877de0e728123301d7bf915" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_apap175-9">
+      <c01 id="aspace_0ee473f48a49f4c82a8dfea8fda9e685" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Remarks of Governor Malcolm Wilson</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+          <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+          <container id="aspace_40c660bf2f36e4c02f4212ac19598a15" label="Mixed Materials" type="Box">1 (Malcolm Wilson Papers)</container>
+          <container id="aspace_8f4f2ad298775467343ecab0b9477e1f" parent="aspace_40c660bf2f36e4c02f4212ac19598a15" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_apap175-10">
+      <c01 id="aspace_d5cbee0af66eaacf3e57bc5383151e8d" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Speeches</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973/1974">1973-1974</unitdate>
+          <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+          <container id="aspace_fced730b3999f7914145fc27d188277b" label="Mixed Materials" type="Box">1 (Malcolm Wilson Papers)</container>
+          <container id="aspace_a01e881f396f07d0aa8272c583d5f642" parent="aspace_fced730b3999f7914145fc27d188277b" type="Folder">10</container>
         </did>
       </c01>
     </dsc>

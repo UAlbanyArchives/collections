@@ -1,983 +1,920 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua390">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/ua390.xml" identifier="##">nam_ua390</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua390">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua390.xml">ua390</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>OFFICE OF COMMUNICATIONS AND MARKETING RECORDS (UA390)<date normal="1981/2005" type="inclusive">1981-2005</date></titleproper>
+        <titleproper>Communication and Marketing, Office of; Records <num>ua390</num></titleproper>
         <author>Angela Perez</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2012">Copyright 2012 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2012</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Angela Perez<date normal="2012">2012</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:43:08 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2012</date>
+        <item>Encoded in EAD by Angela Perez</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>OFFICE OF COMMUNICATIONS AND MARKETING RECORDS (UA390)<date normal="1981/2005" type="inclusive">1981-2005</date>
-      </titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2012</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua390</unitid>
-      <unittitle>Office of Communications and Marketing Records <unitdate type="inclusive" normal="1981/2005" label="Date:">1981-2005</unitdate>
-      </unittitle>
-      <physdesc label="Physical Characteristics:">
-        <extent unit="cubic ft.">5.0</extent>
-      </physdesc>
-      <origination>
-        <corpname encodinganalog="110" source="local">Office of Communications and Marketing (University at Albany)</corpname>
-      </origination>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">The Office of Communications and Marketing Records contain video
-        footage of winter and spring commencement ceremonies at the University at Albany between
-        1981-2005. </abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Office of Communications and Marketing Records<unitdate normal="1981/2005" type="inclusive">1981-2005</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">Office of Communications and Marketing (University at Albany)</corpname>
+      </origination>
+      <unitid>ua390</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5.0 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_dcb20eec53a1b78ab7fe57f01ac0dbe4">The Office of Communications and Marketing Records contain video footage of winter and spring commencement ceremonies at the University at Albany between 1981-2005.</abstract>
+      <langmaterial id="aspace_c4b2181f45727951ad5ef574061e7b63">English</langmaterial>
+      <physloc id="aspace_9439905a419690c0e5cc16b195cba6fa">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_9a3d57518ba82b12bd6f8e8e69032a63">
+      <head>Processing Information</head>
+      <p>Processed in 2012 by Angela Perez.</p>
+    </processinfo>
+    <accessrestrict id="aspace_1b2e3c8aa20b7e824b7b81969df86c7d">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_77103467282a2de55269884a1a01625d">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_8b7eed717ab2eef2ec3d0e9a40753657">
       <head>Acquisition Information</head>
-      <p>The M.E. Grenander Department of Special Collections and Archives received these videos
-        from the Office of Communications and Marketing.</p>
+      <p>The M.E. Grenander Department of Special Collections and Archives received these videos from the Office of Communications and Marketing.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_89d67b609a6ef3a5652dad8d21a4129e">
       <head>Biographical Sketch</head>
-      <p> Founded in 1844 as the New York State Normal School, the University at Albany held its
-        first commencement ceremony in 1845. The first graduating class of the Normal School
-        consisted of 34 graduates; 29 men and 5 women. Currently the University at Albany holds two
-        commencements during the year, one in May and the other in the December, with more than
-        3,000 students receiving degrees annually. </p>
+      <p>Founded in 1844 as the New York State Normal School, the University at Albany held its first commencement ceremony in 1845. The first graduating class of the Normal School consisted of 34 graduates; 29 men and 5 women. Currently the University at Albany holds two commencements during the year, one in May and the other in the December, with more than 3,000 students receiving degrees annually.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>While the Office of Communications and Marketing annually films many other campus events,
-        the commencement videos are the first to be included in this finding aid. Therefore the
-        records primarily include VHS, Mini-DV and DVD footage of May undergraduate and graduate
-        commencement ceremonies and a smaller amount of footage from the joint winter commencement
-        in December. Frequently there are multiple videos for the same ceremony, including footage
-        taken from different angles. Some videos feature departmental commencements or other annual
-        events, such as “Torch Night,” which is held the day before graduation and inducts graduates
-        into the Alumni Association. </p>
+    <scopecontent id="aspace_788d0c985509cfc534997a6e5356f84b">
+      <head>Scope and Contents</head>
+      <p>While the Office of Communications and Marketing annually films many other campus events, the commencement videos are the first to be included in this finding aid. Therefore the records primarily include VHS, Mini-DV and DVD footage of May undergraduate and graduate commencement ceremonies and a smaller amount of footage from the joint winter commencement in December. Frequently there are multiple videos for the same ceremony, including footage taken from different angles. Some videos feature departmental commencements or other annual events, such as “Torch Night,” which is held the day before graduation and inducts graduates into the Alumni Association.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_800fdb9fbf646d7ab78bd2f54131181d">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized chronologically. There are no series.</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-           Try to give as many access points as you can to increase the chances of 
-           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-           to comment them out! -->
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany </corpname>
-      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany--Office of
-        Communications and Marketing </corpname>
-      <subject encodinganalog="650" source="lcsh">Commencement ceremonies--New York
-        (State)--Albany</subject>
-      <subject encodinganalog="650" source="lcsh">Education, Higher--New York (State)</subject>
-      <genreform encodinganalog="655" source="aat">VHS (TM)</genreform>
-      <genreform encodinganalog="655" source="aat">DVDs</genreform>
-      <genreform encodinganalog="655" source="aat">Videocassettes</genreform>
-    </controlaccess>
-    <prefercite encodinganalog="524">
+    <prefercite id="aspace_dfba2a849a9bb6562f9541897323f7d5">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Office of Communications and
-        Marketing Records, 1981-2005. M.E. Grenander Department of Special Collections and Archives,
-        University Libraries, University at Albany, State University of New York.</p>
+      <p> Identification of specific item, series, box, folder, Office of Communications and Marketing Records, 1981-2005. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York.</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_ua390-1">
+    <controlaccess>
+      <subject source="lcsh">Commencement ceremonies--New York (State)--Albany</subject>
+      <subject source="lcsh">Education, Higher--New York (State)</subject>
+      <genreform source="aat">VHS (TM)</genreform>
+      <genreform source="aat">DVDs</genreform>
+      <genreform source="aat">Videocassettes</genreform>
+      <corpname source="lcsh">State University of New York at Albany</corpname>
+      <corpname source="lcsh">State University of New York at Albany--Office of Communications and Marketing</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_5cf79c14c43a64d6966edc3d5d556030" level="otherlevel">
         <did>
-          <container type="Video-Tape">1</container>
           <unittitle>Commencement - Back-up Tape</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981-05-24">1981 May 24</unitdate>
+          <unitdate normal="1981-05-24/1981-05-24" type="inclusive">1981 May 24</unitdate>
+          <container id="aspace_4ac155ad5410b073fa70450160a27c4d" label="Mixed Materials" type="Video-Tape">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-2">
+      <c01 id="aspace_bd7538f8a86e38c2094249ee31a0aa33" level="otherlevel">
         <did>
-          <container type="Video-Tape">2</container>
           <unittitle>Commencement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982-05-23">1982 May 23</unitdate>
+          <unitdate normal="1982-05-23/1982-05-23" type="inclusive">1982 May 23</unitdate>
+          <container id="aspace_8de1e3b6a5f58eeaa2796fb087f3c74a" label="Mixed Materials" type="Video-Tape">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-3">
+      <c01 id="aspace_ddaccff65392ea989dc92b5a706e8324" level="otherlevel">
         <did>
-          <container type="Video-Tape">3</container>
-          <unittitle>Commencement - Lighting Test at the Lectern on the Speakers
-            Platform</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+          <unittitle>Commencement - Lighting Test at the Lectern on the Speakers Platform</unittitle>
+          <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+          <container id="aspace_be1acb252018235d1112f4839ede3eaa" label="Mixed Materials" type="Video-Tape">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-4">
+      <c01 id="aspace_69bf756d403d121f32e91510496cffe5" level="otherlevel">
         <did>
-          <container type="Video-Tape">4-7</container>
           <unittitle>Commencement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
-          <physdesc>4 duplicate copies</physdesc>
+          <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+          <physdesc id="aspace_019873f7263f1310689ac7e8fd738c5b">4 duplicate copies</physdesc>
+          <container id="aspace_97aee87ccbfb0d55fbb732b682f951cc" label="Mixed Materials" type="Video-Tape">4-7</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-5">
+      <c01 id="aspace_6d5983fea7e301290c390e06a1938371" level="otherlevel">
         <did>
-          <container type="Video-Tape">8</container>
-          <unittitle>Commencement - Graduate Ceremony - Podium Camera and Master Audio - Tape
-            #1</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985-05-15">1985 May 15</unitdate>
+          <unittitle>Commencement - Graduate Ceremony - Podium Camera and Master Audio - Tape #1</unittitle>
+          <unitdate normal="1985-05-15/1985-05-15" type="inclusive">1985 May 15</unitdate>
+          <container id="aspace_7478c3bb6a8a77c6fc70844cf5f4d4f7" label="Mixed Materials" type="Video-Tape">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-6">
+      <c01 id="aspace_f4f0669c2175140761eec1b272d5217c" level="otherlevel">
         <did>
-          <container type="Video-Tape">9</container>
-          <unittitle>Commencement - Graduate Ceremony - Podium Camera and Master Audio - Tape
-            #2</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985-05-15">1985 May 15</unitdate>
+          <unittitle>Commencement - Graduate Ceremony - Podium Camera and Master Audio - Tape #2</unittitle>
+          <unitdate normal="1985-05-15/1985-05-15" type="inclusive">1985 May 15</unitdate>
+          <container id="aspace_552a16adc0f59d2261181b1cb549d975" label="Mixed Materials" type="Video-Tape">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-7">
+      <c01 id="aspace_08d91924773607f2651c77d1fe4a8741" level="otherlevel">
         <did>
-          <container type="Video-Tape">10</container>
           <unittitle>SUNY Albany Commencement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985-05-19">1985 May 19</unitdate>
+          <unitdate normal="1985-05-19/1985-05-19" type="inclusive">1985 May 19</unitdate>
+          <container id="aspace_cbbda68c09a020b7b46f0308247a50f8" label="Mixed Materials" type="Video-Tape">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-8">
+      <c01 id="aspace_86d48a646431563509cebbbd675ad6ff" level="otherlevel">
         <did>
-          <container type="Video-Tape">11-13</container>
           <unittitle>SUNY Albany Commencement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986-05-18">1986 May 18</unitdate>
-          <physdesc>3 duplicate copies</physdesc>
+          <unitdate normal="1986-05-18/1986-05-18" type="inclusive">1986 May 18</unitdate>
+          <physdesc id="aspace_59eaa8cbba18f4144da739a769ae59f9">3 duplicate copies</physdesc>
+          <container id="aspace_5b9961edff80b5f2920196c49a31bf7e" label="Mixed Materials" type="Video-Tape">11-13</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-9">
+      <c01 id="aspace_3614e69a10b175fc4c044eb6cf1c309e" level="otherlevel">
         <did>
-          <container type="Video-Tape">14-17</container>
           <unittitle>143rd Commencement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987-05-17">1987 May 17</unitdate>
-          <physdesc>4 duplicate copies </physdesc>
+          <unitdate normal="1987-05-17/1987-05-17" type="inclusive">1987 May 17</unitdate>
+          <physdesc id="aspace_b241a85e0d8408cf6bb9c57dbfe26388">4 duplicate copies</physdesc>
+          <container id="aspace_298f11297ff4edf6a5a7bd30d4b84112" label="Mixed Materials" type="Video-Tape">14-17</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-10">
+      <c01 id="aspace_c27c69bb117a7813f31b2b68b78e22f1" level="otherlevel">
         <did>
-          <container type="Video-Tape">18-21</container>
-          <unittitle>143rd Commencement - Chemistry Doctorates - Dr. Eric Block - Chemistry
-            Department</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987-05-17">1987 May 17</unitdate>
+          <unittitle>143rd Commencement - Chemistry Doctorates - Dr. Eric Block - Chemistry Department</unittitle>
+          <unitdate normal="1987-05-17/1987-05-17" type="inclusive">1987 May 17</unitdate>
+          <container id="aspace_1000b98f80f0116a24e46d62b6377adc" label="Mixed Materials" type="Video-Tape">18-21</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-11">
+      <c01 id="aspace_ba976852bd77847fb7bfbbbc64f26184" level="otherlevel">
         <did>
-          <container type="Video-Tape">22</container>
           <unittitle>143rd Commencement - Edited Master</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987-05-17">1987 May 17</unitdate>
+          <unitdate normal="1987-05-17/1987-05-17" type="inclusive">1987 May 17</unitdate>
+          <container id="aspace_d46c5fba2fb129657de5af94a6815211" label="Mixed Materials" type="Video-Tape">22</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-12">
+      <c01 id="aspace_e68c88f3bb5e89ae2b1dbe95f6b327b7" level="otherlevel">
         <did>
-          <container type="Video-Tape">23-29</container>
           <unittitle>SUNYA Commencement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987-05-17">1987 May 17</unitdate>
-          <physdesc>7 duplicate copies </physdesc>
+          <unitdate normal="1987-05-17/1987-05-17" type="inclusive">1987 May 17</unitdate>
+          <physdesc id="aspace_6b7b2f5bc834b7285e0f7b5505f46121">7 duplicate copies</physdesc>
+          <container id="aspace_1e62ddce27f54cb96f6766d3446ff454" label="Mixed Materials" type="Video-Tape">23-29</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-13">
+      <c01 id="aspace_cdb10da735d0ca16a7eba5b1027ef78f" level="otherlevel">
         <did>
-          <container type="Video-Tape">30-31</container>
           <unittitle>Commencement - Torch Night</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988-05-14">1988 May 14</unitdate>
-          <physdesc>2 duplicate copies</physdesc>
+          <unitdate normal="1988-05-14/1988-05-14" type="inclusive">1988 May 14</unitdate>
+          <physdesc id="aspace_8cf7d9a4cd186e5e720563bfa56af1b8">2 duplicate copies</physdesc>
+          <container id="aspace_4b28b4ac13b1de1621069034368876b2" label="Mixed Materials" type="Video-Tape">30-31</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-14">
+      <c01 id="aspace_d589127118de5c8686e80e17ab1c5e84" level="otherlevel">
         <did>
-          <container type="Video-Tape">32-34</container>
           <unittitle>144th Commencement - Undergraduate Ceremony</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988-05-15">1988 May 15</unitdate>
-          <physdesc>3 duplicate copies </physdesc>
+          <unitdate normal="1988-05-15/1988-05-15" type="inclusive">1988 May 15</unitdate>
+          <physdesc id="aspace_d0d4e4b89ef7593ba91e6ae9ae78c2ee">3 duplicate copies</physdesc>
+          <container id="aspace_34d2ee1192a71124dcfd8b6676fd24db" label="Mixed Materials" type="Video-Tape">32-34</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-15">
+      <c01 id="aspace_102a8050aee7aede27afb5e5a1800e2c" level="otherlevel">
         <did>
-          <container type="Video-Tape">35-44</container>
           <unittitle>144th SUNYA Commencement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988-05-15">1988 May 15</unitdate>
-          <physdesc>10 duplicate copies </physdesc>
+          <unitdate normal="1988-05-15/1988-05-15" type="inclusive">1988 May 15</unitdate>
+          <physdesc id="aspace_d8addea35926ca6ff2fe13e0727a1b4e">10 duplicate copies</physdesc>
+          <container id="aspace_d43e4f5139a2a3c20e920787a8071f95" label="Mixed Materials" type="Video-Tape">35-44</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-16">
+      <c01 id="aspace_76f5c2cc5f6b7b2863ac7bfe0e0b848c" level="otherlevel">
         <did>
-          <container type="Video-Tape">45</container>
           <unittitle>Commencement - Undergraduate Ceremony - Podium Camera</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988-05-15">1988 May 15</unitdate>
+          <unitdate normal="1988-05-15/1988-05-15" type="inclusive">1988 May 15</unitdate>
+          <container id="aspace_b0b94337472f06b7beedc4a5d68a5fae" label="Mixed Materials" type="Video-Tape">45</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-17">
+      <c01 id="aspace_6a021a1849ab40acc7366a0c1b2b8ba6" level="otherlevel">
         <did>
-          <container type="Video-Tape">46</container>
           <unittitle>Commencement - Undergraduate Ceremony – Platform Camera</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988-05-15">1988 May 15</unitdate>
+          <unitdate normal="1988-05-15/1988-05-15" type="inclusive">1988 May 15</unitdate>
+          <container id="aspace_3d289f5eabe8595b58f287c175423db5" label="Mixed Materials" type="Video-Tape">46</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-18">
+      <c01 id="aspace_e68a031646cf03dac294ecb26b1b2c9e" level="otherlevel">
         <did>
-          <container type="Video-Tape">47</container>
           <unittitle>Commencement - Undergraduate Ceremony – Roving Camera (LEN)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988-05-15">1988 May 15</unitdate>
+          <unitdate normal="1988-05-15/1988-05-15" type="inclusive">1988 May 15</unitdate>
+          <container id="aspace_166c66d325b6dc0bc09cdf82dc8b0ea3" label="Mixed Materials" type="Video-Tape">47</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-19">
+      <c01 id="aspace_4f0d9037f6954ec3ee876c001092690e" level="otherlevel">
         <did>
-          <container type="Video-Tape">48</container>
-          <unittitle>Commencement - Undergraduate and Graduate Ceremony – Roving Camera
-            (BILL)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988-05-15">1988 May 15</unitdate>
+          <unittitle>Commencement - Undergraduate and Graduate Ceremony – Roving Camera (BILL)</unittitle>
+          <unitdate normal="1988-05-15/1988-05-15" type="inclusive">1988 May 15</unitdate>
+          <container id="aspace_a1417c79c7ae2ce71af8b364043a9376" label="Mixed Materials" type="Video-Tape">48</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-20">
+      <c01 id="aspace_d9ae00ce6742ef5cad0510824327a31e" level="otherlevel">
         <did>
-          <container type="Video-Tape">49-54</container>
           <unittitle>Commencement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991-05-26">1991 May 26</unitdate>
-          <physdesc>6 duplicate copies </physdesc>
+          <unitdate normal="1991-05-26/1991-05-26" type="inclusive">1991 May 26</unitdate>
+          <physdesc id="aspace_018eea83e8fdf7a69c33ca3d5a023adc">6 duplicate copies</physdesc>
+          <container id="aspace_fe4df90e732e98a0a7baa1e691ff1fa3" label="Mixed Materials" type="Video-Tape">49-54</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-21">
+      <c01 id="aspace_f82c199804452f4c57d08ff981fbd3d6" level="otherlevel">
         <did>
-          <container type="Video-Tape">55-56</container>
           <unittitle>147th Commencement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991-05-26">1991 May 26</unitdate>
-          <physdesc>2 duplicate copies </physdesc>
+          <unitdate normal="1991-05-26/1991-05-26" type="inclusive">1991 May 26</unitdate>
+          <physdesc id="aspace_12f4d5d7848fb04db11b9cd6e899a533">2 duplicate copies</physdesc>
+          <container id="aspace_82ee96c97187258da40d5fe9c071ef07" label="Mixed Materials" type="Video-Tape">55-56</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-22">
+      <c01 id="aspace_b10786b62ea9463eab2d326ac194a776" level="otherlevel">
         <did>
-          <container type="Video-Tape">57-58</container>
           <unittitle>147th Commencement - Center Stage Camera</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991-05-26">1991 May 26</unitdate>
-          <physdesc>2 duplicate copies </physdesc>
+          <unitdate normal="1991-05-26/1991-05-26" type="inclusive">1991 May 26</unitdate>
+          <physdesc id="aspace_3ab18d38e5537781a3f391ac4f2994de">2 duplicate copies</physdesc>
+          <container id="aspace_5eb648b116061632baa67bef44bd9c79" label="Mixed Materials" type="Video-Tape">57-58</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-23">
+      <c01 id="aspace_687009acacd0ec021ac95d14ad50d9bd" level="otherlevel">
         <did>
-          <container type="Video-Tape">52</container>
           <unittitle>147th Commencement - Stage Left Camera</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991-05-26">1991 May 26</unitdate>
+          <unitdate normal="1991-05-26/1991-05-26" type="inclusive">1991 May 26</unitdate>
+          <container id="aspace_7657a5813c56168570b83aafaac194b0" label="Mixed Materials" type="Video-Tape">52</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-24">
+      <c01 id="aspace_d214cacea8ab230d0ddf5b3ca1cfc5ca" level="otherlevel">
         <did>
-          <container type="Video-Tape">60-61</container>
           <unittitle>147th Commencement - Stage Right Camera</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991-05-26">1991 May 26</unitdate>
-          <physdesc>2 duplicate copies </physdesc>
+          <unitdate normal="1991-05-26/1991-05-26" type="inclusive">1991 May 26</unitdate>
+          <physdesc id="aspace_13fa76a9f54756e6b9c064fff6e1159b">2 duplicate copies</physdesc>
+          <container id="aspace_363fe2131f1d918310d2b79cb6344a98" label="Mixed Materials" type="Video-Tape">60-61</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-25">
+      <c01 id="aspace_59eb75f9d1c6754cb2934f3eb8fa4214" level="otherlevel">
         <did>
-          <container type="Video-Tape">62-63</container>
           <unittitle>148th Commencement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992">1992</unitdate>
-          <physdesc>2 duplicate copies </physdesc>
+          <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+          <physdesc id="aspace_ebdab0764571a05425102c24e50a7e93">2 duplicate copies</physdesc>
+          <container id="aspace_666910f664ac91a92dd816ebdf60ce22" label="Mixed Materials" type="Video-Tape">62-63</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-26">
+      <c01 id="aspace_b62756f7036d62a0bbfd911f8842816e" level="otherlevel">
         <did>
-          <container type="Video-Tape">64-67</container>
           <unittitle>149th Commencement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993-05-16">1993 May 16</unitdate>
-          <physdesc>4 duplicate copies </physdesc>
+          <unitdate normal="1993-05-16/1993-05-16" type="inclusive">1993 May 16</unitdate>
+          <physdesc id="aspace_1fb82ca5a18b30f41d8fe37243f47769">4 duplicate copies</physdesc>
+          <container id="aspace_2df6c57ef7f55719a7127950f3253eeb" label="Mixed Materials" type="Video-Tape">64-67</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-27">
+      <c01 id="aspace_ea4ccd7612a984f59630a84a0471e45a" level="otherlevel">
         <did>
-          <container type="Video-Tape">68-72</container>
           <unittitle>150th Commencement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994-05-15">1994 May 15</unitdate>
-          <physdesc>5 duplicate copies </physdesc>
+          <unitdate normal="1994-05-15/1994-05-15" type="inclusive">1994 May 15</unitdate>
+          <physdesc id="aspace_53db8cb2136c1c07dbd5c97e19b6e4e8">5 duplicate copies</physdesc>
+          <container id="aspace_8aa73971c08e2a08a1029012b4cb3077" label="Mixed Materials" type="Video-Tape">68-72</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-28">
+      <c01 id="aspace_e2d781e17f98dc93dd303b48a25c538c" level="otherlevel">
         <did>
-          <container type="Video-Tape">73</container>
           <unittitle>Fountain Day and Graduation - Tape #1</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994">1994</unitdate>
+          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+          <container id="aspace_921bf2e4131ee1d54430689f167b253f" label="Mixed Materials" type="Video-Tape">73</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-29">
+      <c01 id="aspace_f2ac0d3fb04c2e849b54595d435726f6" level="otherlevel">
         <did>
-          <container type="Video-Tape">74</container>
           <unittitle>Fountain Day and Graduation - Tape #2</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994">1994</unitdate>
+          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+          <container id="aspace_3e25401201399723b0594866716ad101" label="Mixed Materials" type="Video-Tape">74</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-30">
+      <c01 id="aspace_227dabf24796c7c5192f512723e970bf" level="otherlevel">
         <did>
-          <container type="Video-Tape">75</container>
           <unittitle>151st Commencement - Undergraduate Ceremony - Edited Master</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995">1995</unitdate>
+          <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+          <container id="aspace_c59d386a721012f7c2893493e93a99fe" label="Mixed Materials" type="Video-Tape">75</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-31">
+      <c01 id="aspace_360e95ea4da2394f6a61d125d212c355" level="otherlevel">
         <did>
-          <container type="Video-Tape">76-78</container>
           <unittitle>151st Commencement - Graduate</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995">1995</unitdate>
-          <physdesc>3 duplicate copies </physdesc>
+          <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+          <physdesc id="aspace_a5bbb6f4855bdae9d24fc3c6f8d2de90">3 duplicate copies</physdesc>
+          <container id="aspace_625dbc48d46f361583684556e007fdad" label="Mixed Materials" type="Video-Tape">76-78</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-32">
+      <c01 id="aspace_b559017a1bb3b309d5656863ac91cc75" level="otherlevel">
         <did>
-          <container type="Video-Tape">79-80</container>
           <unittitle>Graduate UA Ceremony</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995">1995</unitdate>
-          <physdesc>2 duplicate copies </physdesc>
+          <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+          <physdesc id="aspace_ef0f9b4f8ccde62ab4870b2bd8b10971">2 duplicate copies</physdesc>
+          <container id="aspace_e987a3cb0eaa2748e5d37d48f9b16e36" label="Mixed Materials" type="Video-Tape">79-80</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-33">
+      <c01 id="aspace_7578a0f931c6090738cf05105b0fe2be" level="otherlevel">
         <did>
-          <container type="Video-Tape">81-82</container>
           <unittitle>Undergraduate UA Ceremony</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995">1995</unitdate>
-          <physdesc>2 duplicate copies </physdesc>
+          <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+          <physdesc id="aspace_765398d4c610b5f75259b646f28f9989">2 duplicate copies</physdesc>
+          <container id="aspace_7b4a8de4bdaa88a5a862f591484f8e3a" label="Mixed Materials" type="Video-Tape">81-82</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-34">
+      <c01 id="aspace_31385f586dc41eb6fb80d6d03ddeab69" level="otherlevel">
         <did>
-          <container type="Video-Tape">83</container>
           <unittitle>Graduation – Suits Master – Stage Right – Undergraduate</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
+          <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+          <container id="aspace_d0dc42128f0e847ac666a8de1ace2d2e" label="Mixed Materials" type="Video-Tape">83</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-35">
+      <c01 id="aspace_c000249dc489c5d029f3bc0d0584c391" level="otherlevel">
         <did>
-          <container type="Video-Tape">84</container>
-          <unittitle>Graduation – Suits Master – Stage Right – Undergraduate @ Pepsi
-            Arena</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
+          <unittitle>Graduation – Suits Master – Stage Right – Undergraduate @ Pepsi Arena</unittitle>
+          <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+          <container id="aspace_ba170a426ea6a0c16d1f2dd62a7bdbc3" label="Mixed Materials" type="Video-Tape">84</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-36">
+      <c01 id="aspace_d1936a870f11ad123fec755c0d331479" level="otherlevel">
         <did>
-          <container type="Video-Tape">85</container>
           <unittitle>Graduation Stage Left – Undergraduate @ Pepsi Arena</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966">1996</unitdate>
+          <unitdate normal="1966/1966" type="inclusive">1996</unitdate>
+          <container id="aspace_e3bef96c65870889e378532fa3e8faeb" label="Mixed Materials" type="Video-Tape">85</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-37">
+      <c01 id="aspace_e87fd62970113c886daf09ad926b6e2d" level="otherlevel">
         <did>
-          <container type="Video-Tape">86</container>
           <unittitle>Graduation – Stage Left – Graduate Ceremony @ RAAC</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
+          <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+          <container id="aspace_64a2b3462b8f5d783c27382ed2dfa903" label="Mixed Materials" type="Video-Tape">86</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-38">
+      <c01 id="aspace_770148a5fc160ba91cfb22c4b5ffd414" level="otherlevel">
         <did>
-          <container type="Video-Tape">87-88</container>
           <unittitle>Graduation Ceremony @ RAAC – Stage Right – Audio on Separate VHS</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
-          <physdesc>2 duplicate copies </physdesc>
+          <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+          <physdesc id="aspace_9d504f8bcef769945390abb276371daf">2 duplicate copies</physdesc>
+          <container id="aspace_5742b194d0b6965b43eb049af7313012" label="Mixed Materials" type="Video-Tape">87-88</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-39">
+      <c01 id="aspace_eca8a9851fef69158cbfe34e0e2d4b77" level="otherlevel">
         <did>
-          <container type="Video-Tape">89</container>
           <unittitle>Graduation – Stage Right - @ RAAC Tape #1</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
+          <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+          <container id="aspace_6d9041f3b23a1bb8a0fd69b7afa2e11b" label="Mixed Materials" type="Video-Tape">89</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-40">
+      <c01 id="aspace_8a944bae403ffe903c0e9242ac679caa" level="otherlevel">
         <did>
-          <container type="Video-Tape">90</container>
           <unittitle>Graduation – Stage Right - @ RAAC Tape #2</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
+          <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+          <container id="aspace_7ce65ff9e8ecc2738dfa9c6d253fbf66" label="Mixed Materials" type="Video-Tape">90</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-41">
+      <c01 id="aspace_024a85688dc197a65f8416073d0d9068" level="otherlevel">
         <did>
-          <container type="Video-Tape">91-92</container>
           <unittitle>152nd Commencement - SUNYA- Undergraduate Ceremony</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996-05-19">1996 May 19</unitdate>
-          <physdesc>2 duplicate copies </physdesc>
+          <unitdate normal="1996-05-19/1996-05-19" type="inclusive">1996 May 19</unitdate>
+          <physdesc id="aspace_4ea345e272c6e41239d21eee7b211b42">2 duplicate copies</physdesc>
+          <container id="aspace_8501a636737f00b7c49f15e13234839c" label="Mixed Materials" type="Video-Tape">91-92</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-42">
+      <c01 id="aspace_6e6d0e5c4ca9acfc8c1a0566c9d49cde" level="otherlevel">
         <did>
-          <container type="Video-Tape">93-94</container>
           <unittitle>152nd Commencement - SUNYA - Graduate - Doctors, Masters</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996-05-19">1996 May 19</unitdate>
-          <physdesc>2 duplicate copies </physdesc>
+          <unitdate normal="1996-05-19/1996-05-19" type="inclusive">1996 May 19</unitdate>
+          <physdesc id="aspace_5e23a934d8e2787510f3f932babbce37">2 duplicate copies</physdesc>
+          <container id="aspace_f42fb1f99613a5a82c4879cc0597144c" label="Mixed Materials" type="Video-Tape">93-94</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-43">
+      <c01 id="aspace_5a0bd10c1c2535b1ea17a8462d90ef33" level="otherlevel">
         <did>
-          <container type="Video-Tape">95</container>
           <unittitle>Graduation – Graduate – RAAC – Final Edited Master</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <container id="aspace_6b087fe51da7270ba3ee9e32ce81d339" label="Mixed Materials" type="Video-Tape">95</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-44">
+      <c01 id="aspace_4cf3d0d10f58c0db0f584c2700b86b3d" level="otherlevel">
         <did>
-          <container type="Video-Tape">96</container>
-          <unittitle>Graduation – Graduate – RAAC – Master, Stage Right – Shot close from
-            floor</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+          <unittitle>Graduation – Graduate – RAAC – Master, Stage Right – Shot close from floor</unittitle>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <container id="aspace_01e69835bebffa2ade56d6fa1fc7303b" label="Mixed Materials" type="Video-Tape">96</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-45">
+      <c01 id="aspace_ea568f6bce04915be93de7d0a51ba7cc" level="otherlevel">
         <did>
-          <container type="Video-Tape">97</container>
           <unittitle>Graduation – Undergraduate (Knick) - Tape #1 – Stage Right</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <container id="aspace_caaac259b6ffecd4299bf021668a6c8f" label="Mixed Materials" type="Video-Tape">97</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-46">
+      <c01 id="aspace_5117787d005a4e3352b743eb8f42cdb0" level="otherlevel">
         <did>
-          <container type="Video-Tape">98-104</container>
           <unittitle>University at Albany Commencement– Graduate Ceremony</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
-          <physdesc>7 duplicate copies </physdesc>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <physdesc id="aspace_4b9bb1399a30dd53e660e2ab64ed78de">7 duplicate copies</physdesc>
+          <container id="aspace_2693f879c12f45775424f1304baa0d70" label="Mixed Materials" type="Video-Tape">98-104</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-47">
+      <c01 id="aspace_467b2ac02470d1048d93b0595f303d39" level="otherlevel">
         <did>
-          <container type="Video-Tape">105-108</container>
           <unittitle>University at Albany Commencement – Undergraduate Ceremony</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
-          <physdesc>4 duplicate copies </physdesc>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <physdesc id="aspace_bdbcd47a666c461a2d825cb735f94678">4 duplicate copies</physdesc>
+          <container id="aspace_79cb7643e7c90202fac6f0212b513069" label="Mixed Materials" type="Video-Tape">105-108</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-48">
+      <c01 id="aspace_11e3e08ad57d4c49b9056d1357107121" level="otherlevel">
         <did>
-          <container type="Video-Tape">109-113</container>
           <unittitle>Commencement University at Albany Graduation – Undergraduate</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998">1998</unitdate>
-          <physdesc>5 duplicate copies </physdesc>
+          <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+          <physdesc id="aspace_709cef2828a7a093ea0abf0b3452b5a4">5 duplicate copies</physdesc>
+          <container id="aspace_22bcc7fec94ab20cec49533fdf26a1de" label="Mixed Materials" type="Video-Tape">109-113</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-49">
+      <c01 id="aspace_6c6e51417fe12d76166bc0b23605653f" level="otherlevel">
         <did>
-          <container type="Video-Tape">114-116</container>
           <unittitle>Commencement University at Albany – Graduate</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998">1998</unitdate>
-          <physdesc>3 duplicate copies </physdesc>
+          <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+          <physdesc id="aspace_46c548d4c39d34265e414874ecdca34a">3 duplicate copies</physdesc>
+          <container id="aspace_98848ee6b71dadfb33c62277441db26f" label="Mixed Materials" type="Video-Tape">114-116</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-50">
+      <c01 id="aspace_e9106a7112af52f4a45717b85c3e5977" level="otherlevel">
         <did>
-          <container type="Video-Tape">117</container>
           <unittitle>Commencement - Senior Class Video</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998">1998</unitdate>
+          <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+          <container id="aspace_aa1bd791ca7ae0323c59b869f593369c" label="Mixed Materials" type="Video-Tape">117</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-51">
+      <c01 id="aspace_257af54134d96b0067e4de83090a9d71" level="otherlevel">
         <did>
-          <container type="Video-Tape">118</container>
           <unittitle>Commencement State University of New York at Albany</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998-12-11">1998 December 11</unitdate>
+          <unitdate normal="1998-12-11/1998-12-11" type="inclusive">1998 December 11</unitdate>
+          <container id="aspace_3393a5f1f06e23fcb069ee92fc3a307d" label="Mixed Materials" type="Video-Tape">118</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-52">
+      <c01 id="aspace_dea4b9e651ab9c47755015211c1e4e89" level="otherlevel">
         <did>
-          <container type="Video-Tape">119-125</container>
           <unittitle>Commencement Ceremony – Graduate</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1999">1999</unitdate>
-          <physdesc>7 duplicate copies </physdesc>
+          <unitdate normal="1999/1999" type="inclusive">1999</unitdate>
+          <physdesc id="aspace_7443b1d0b3cf899256b7b5524d118ab3">7 duplicate copies</physdesc>
+          <container id="aspace_9f9e3ce18eb022e61e9c92fee0332480" label="Mixed Materials" type="Video-Tape">119-125</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-53">
+      <c01 id="aspace_d787f7dce770d01632feb632965f3849" level="otherlevel">
         <did>
-          <container type="Video-Tape">126-131</container>
           <unittitle>Commencement Ceremony – Undergraduate</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1999">1999</unitdate>
-          <physdesc>6 duplicate copies </physdesc>
+          <unitdate normal="1999/1999" type="inclusive">1999</unitdate>
+          <physdesc id="aspace_728d47285e5942da57c4bec6701f074b">6 duplicate copies</physdesc>
+          <container id="aspace_521314e3fc7b5c14b512932056080ddc" label="Mixed Materials" type="Video-Tape">126-131</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-54">
+      <c01 id="aspace_9bb3b35aa2b61252cf416af6d50fbac9" level="otherlevel">
         <did>
-          <container type="Video-Tape">132</container>
           <unittitle>Pre Commencement Ceremony Picture - Master Copy</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1999">1999</unitdate>
+          <unitdate normal="1999/1999" type="inclusive">1999</unitdate>
+          <container id="aspace_97a380d14bfec993852f5f36ce2177a2" label="Mixed Materials" type="Video-Tape">132</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-55">
+      <c01 id="aspace_ae2b971fe1adbef90c7fbda10c6a937e" level="otherlevel">
         <did>
-          <container type="Video-Tape">133</container>
           <unittitle>Commencement Clip - Ch. 13 News 11:00pm</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1999-05-23">1999 May 23</unitdate>
+          <unitdate normal="1999-05-23/1999-05-23" type="inclusive">1999 May 23</unitdate>
+          <container id="aspace_4e4f997b7315f737d82286e47ed89223" label="Mixed Materials" type="Video-Tape">133</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-56">
+      <c01 id="aspace_740d89d8a0e85b6872cb88d476ccc045" level="otherlevel">
         <did>
-          <container type="Video-Tape">134</container>
-          <unittitle>Graduation @RAAC – Master – Graduate Ceremony – Stage Left - Tape
-            #1</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1999-05-23">1999 May 23</unitdate>
+          <unittitle>Graduation @RAAC – Master – Graduate Ceremony – Stage Left - Tape #1</unittitle>
+          <unitdate normal="1999-05-23/1999-05-23" type="inclusive">1999 May 23</unitdate>
+          <container id="aspace_9faba5c88189f3b8a6cb423b7051a9f0" label="Mixed Materials" type="Video-Tape">134</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-57">
+      <c01 id="aspace_f7089d89ccc30ad48b4d383e785939bf" level="otherlevel">
         <did>
-          <container type="Video-Tape">135</container>
-          <unittitle>Graduation @RAAC – Master – Graduate Ceremony – Stage Left - Tape
-            #2</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1999-05-23">1999 May 23</unitdate>
+          <unittitle>Graduation @RAAC – Master – Graduate Ceremony – Stage Left - Tape #2</unittitle>
+          <unitdate normal="1999-05-23/1999-05-23" type="inclusive">1999 May 23</unitdate>
+          <container id="aspace_1a95b10557aeca0a9da278e62e7ec25a" label="Mixed Materials" type="Video-Tape">135</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-58">
+      <c01 id="aspace_c2fa650841bf90e5217544f8b04dcebe" level="otherlevel">
         <did>
-          <container type="Video-Tape">136</container>
           <unittitle>Commencement – Stage Right – Graduate Ceremony Part 1</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000">2000</unitdate>
+          <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+          <container id="aspace_cce442a29446d7adc5a34b9ab08d5a82" label="Mixed Materials" type="Video-Tape">136</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-59">
+      <c01 id="aspace_827e39f8e73580e8971c8664c9be796a" level="otherlevel">
         <did>
-          <container type="Video-Tape">137</container>
           <unittitle>Commencement – Stage Right – Graduate Ceremony Part 2</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000">2000</unitdate>
+          <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+          <container id="aspace_23cd0af8e044b625a8bffcf36d4b6d87" label="Mixed Materials" type="Video-Tape">137</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-60">
+      <c01 id="aspace_fcac7e19418934d49ac36caaf3bd9f71" level="otherlevel">
         <did>
-          <container type="Video-Tape">138</container>
-          <unittitle>University at Albany – Stage Right- Master Copy– Graduate Ceremony -Tape
-            #1</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000">2000</unitdate>
+          <unittitle>University at Albany – Stage Right- Master Copy– Graduate Ceremony -Tape #1</unittitle>
+          <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+          <container id="aspace_0a95faf4d19cdf4bd65af3ab93f68e44" label="Mixed Materials" type="Video-Tape">138</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-61">
+      <c01 id="aspace_e284087a1c5e3352128bfec2a99e55f7" level="otherlevel">
         <did>
-          <container type="Video-Tape">139</container>
-          <unittitle>University at Albany – Stage Right- Master Copy – Graduate Ceremony - Tape
-            #2</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000">2000</unitdate>
+          <unittitle>University at Albany – Stage Right- Master Copy – Graduate Ceremony - Tape #2</unittitle>
+          <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+          <container id="aspace_711a2175b8b8cdaae11421c41a1f31de" label="Mixed Materials" type="Video-Tape">139</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-62">
+      <c01 id="aspace_02781ad54b68dbd3e6978cc47ed714f7" level="otherlevel">
         <did>
-          <container type="Video-Tape">140</container>
           <unittitle>University at Albany Graduation – Undergraduate</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000">2000</unitdate>
+          <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+          <container id="aspace_d485e0a8b2019a7fae5395296eb5394b" label="Mixed Materials" type="Video-Tape">140</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-63">
+      <c01 id="aspace_6347db11269a18133517ee77d016e05f" level="otherlevel">
         <did>
-          <container type="Video-Tape">141</container>
           <unittitle>University at Albany Graduation – Graduate</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000">2000</unitdate>
+          <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+          <container id="aspace_ac5cc4d6578dd5626af66100cf9dd315" label="Mixed Materials" type="Video-Tape">141</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-64">
+      <c01 id="aspace_f171f862a91ba288d5d45baf6b7a631c" level="otherlevel">
         <did>
-          <container type="Video-Tape">142-144</container>
           <unittitle>Graduation – University at Albany – Graduate Ceremony</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000">2000</unitdate>
-          <physdesc>3 duplicate copies </physdesc>
+          <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+          <physdesc id="aspace_0630ce1b4fcbeaef03485a50dc4777e3">3 duplicate copies</physdesc>
+          <container id="aspace_68abe9a27626d9d0f136a362b230816f" label="Mixed Materials" type="Video-Tape">142-144</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-65">
+      <c01 id="aspace_56122642a2569325674d776400e3c0b2" level="otherlevel">
         <did>
-          <container type="Video-Tape">145-154</container>
           <unittitle>University at Albany – Graduation – Undergraduate Ceremony</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000">2000</unitdate>
-          <physdesc>10 duplicate copies </physdesc>
+          <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+          <physdesc id="aspace_d617267860724f161a194bb9edeb3170">10 duplicate copies</physdesc>
+          <container id="aspace_37ca92e7bf5d5a403c13608a636ad869" label="Mixed Materials" type="Video-Tape">145-154</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-66">
+      <c01 id="aspace_072616863c8fbaa4be74faa6d3a95f25" level="otherlevel">
         <did>
-          <container type="Video-Tape">155</container>
-          <unittitle>University at Albany Graduation – Stage Left at the RAAC – Graduate Ceremony -
-            Tape #1</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000-05-21">2000 May 21</unitdate>
+          <unittitle>University at Albany Graduation – Stage Left at the RAAC – Graduate Ceremony - Tape #1</unittitle>
+          <unitdate normal="2000-05-21/2000-05-21" type="inclusive">2000 May 21</unitdate>
+          <container id="aspace_d61815cc59f1ee7d82d3335cb7eae8d8" label="Mixed Materials" type="Video-Tape">155</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-67">
+      <c01 id="aspace_7ff23fccc754cfed670cae35fa1e418d" level="otherlevel">
         <did>
-          <container type="Video-Tape">156</container>
-          <unittitle>University at Albany – Graduation– Undergraduate at Pepsi Arena (Master
-            Copy)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000-05-21">2000 May 21</unitdate>
+          <unittitle>University at Albany – Graduation– Undergraduate at Pepsi Arena (Master Copy)</unittitle>
+          <unitdate normal="2000-05-21/2000-05-21" type="inclusive">2000 May 21</unitdate>
+          <container id="aspace_256feb375304ac18feaaa03190f6f735" label="Mixed Materials" type="Video-Tape">156</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-68">
+      <c01 id="aspace_bedd697469cf4a08b113d0c61749b79e" level="otherlevel">
         <did>
-          <container type="Video-Tape">157</container>
-          <unittitle>University at Albany Graduation – Stage Left at the RAAC – Graduate Ceremony -
-            Tape #2</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000-05-21">2000 May 21</unitdate>
+          <unittitle>University at Albany Graduation – Stage Left at the RAAC – Graduate Ceremony - Tape #2</unittitle>
+          <unitdate normal="2000-05-21/2000-05-21" type="inclusive">2000 May 21</unitdate>
+          <container id="aspace_68d4fc6265da90a3233e80ac66bf77c6" label="Mixed Materials" type="Video-Tape">157</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-69">
+      <c01 id="aspace_3305d54ca0ffdc5b6702f4fffce31f44" level="otherlevel">
         <did>
-          <container type="Video-Tape">158</container>
           <unittitle>Graduation – University at Albany – Master – Graduate Ceremony</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000-05-21">2000 May 21</unitdate>
+          <unitdate normal="2000-05-21/2000-05-21" type="inclusive">2000 May 21</unitdate>
+          <container id="aspace_cce1e2937890c7e564ead9dd460fd47e" label="Mixed Materials" type="Video-Tape">158</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-70">
+      <c01 id="aspace_3bd1e8d568101ed59e7fb2eecc53981e" level="otherlevel">
         <did>
-          <container type="Video-Tape">159</container>
           <unittitle>Graduation – University at Albany – Graduate Ceremony – COPY</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000-05-21">2000 May 21</unitdate>
+          <unitdate normal="2000-05-21/2000-05-21" type="inclusive">2000 May 21</unitdate>
+          <container id="aspace_ebd265bc90eb7bdaa95cca3d281348bb" label="Mixed Materials" type="Video-Tape">159</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-71">
+      <c01 id="aspace_6f942b3d5d2420c0300abd4f0fbb8ce6" level="otherlevel">
         <did>
-          <container type="Video-Tape">160</container>
           <unittitle>University at Albany – Graduation 2000 – Graduate Ceremony – RAAC</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000-05-21">2000 May 21</unitdate>
+          <unitdate normal="2000-05-21/2000-05-21" type="inclusive">2000 May 21</unitdate>
+          <container id="aspace_b968f2f8db3c5c0e074d12d6761f0b1b" label="Mixed Materials" type="Video-Tape">160</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-72">
+      <c01 id="aspace_0e0b94b0a65b1f4b2190cfda5a252426" level="otherlevel">
         <did>
-          <container type="Video-Tape">161</container>
           <unittitle>Undergraduate Ceremony – Raw Footage</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2001">2001</unitdate>
+          <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_cdd99c2cd244e854dc4e7ddb65a39dc5" label="Mixed Materials" type="Video-Tape">161</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-73">
+      <c01 id="aspace_8a2ad65459a24fdebb8edae49482af45" level="otherlevel">
         <did>
-          <container type="Video-Tape">162</container>
           <unittitle>Graduate Ceremony – Master - Raw Material</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2001">2001</unitdate>
+          <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_fb29350e8d5b5fdac0ce5a30f6c99965" label="Mixed Materials" type="Video-Tape">162</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-74">
+      <c01 id="aspace_cc9214cef5bc953adfd769046f751a59" level="otherlevel">
         <did>
-          <container type="Video-Tape">163</container>
           <unittitle>Undergraduate Ceremony - Dub from Dig8 Original</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2001">2001</unitdate>
+          <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_423a18881ac3aed544f8062bbd6b83f6" label="Mixed Materials" type="Video-Tape">163</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-75">
+      <c01 id="aspace_96054f70a45d7e65fc287399577e2ab1" level="otherlevel">
         <did>
-          <container type="Video-Tape">164</container>
           <unittitle>University at Albany – Undergraduate Ceremony – Master</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2001">2001</unitdate>
+          <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_033a5764e978e3f2ef0019a643165b01" label="Mixed Materials" type="Video-Tape">164</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-76">
+      <c01 id="aspace_85c0454d966fc8191024c1a1b4f72801" level="otherlevel">
         <did>
-          <container type="Video-Tape">165</container>
           <unittitle>University at Albany – Undergraduate Ceremony Duplication</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2001">2001</unitdate>
+          <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_9df165c926ced33896847a7e084990b0" label="Mixed Materials" type="Video-Tape">165</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-77">
+      <c01 id="aspace_0a186b3a1ed34fa9582f004ac69fe951" level="otherlevel">
         <did>
-          <container type="Video-Tape">166</container>
           <unittitle>Graduate Ceremony – Wayne Tape #2</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002">2002</unitdate>
+          <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_2f9dd57f1610f6c5fbe4afd96fe79dd1" label="Mixed Materials" type="Video-Tape">166</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-78">
+      <c01 id="aspace_50352f8be7503bca9d403cac2d4b0d54" level="otherlevel">
         <did>
-          <container type="Video-Tape">167</container>
           <unittitle>Commencement - University at Albany - Graduate - Spring</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002">2002</unitdate>
+          <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_4743b1aab6a002642e481921a4886121" label="Mixed Materials" type="Video-Tape">167</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-79">
+      <c01 id="aspace_bb64da9e73dc7d737a8429ba3374d8b9" level="otherlevel">
         <did>
-          <container type="Video-Tape">168-169</container>
           <unittitle>Commencement - Undergraduate</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002-05-19">2002 May 19</unitdate>
-          <physdesc>2 duplicate copies </physdesc>
+          <unitdate normal="2002-05-19/2002-05-19" type="inclusive">2002 May 19</unitdate>
+          <physdesc id="aspace_a76516f9ad68caa36e727766b9f0b74e">2 duplicate copies</physdesc>
+          <container id="aspace_ac8ea544258c2235d5589a633cc79c35" label="Mixed Materials" type="Video-Tape">168-169</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-80">
+      <c01 id="aspace_b6a673d4ed3ce487236013ba491fbca6" level="otherlevel">
         <did>
-          <container type="Video-Tape">170-175</container>
           <unittitle>Commencement - University at Albany</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002-12-08">2002 December 08</unitdate>
-          <physdesc>6 duplicate copies </physdesc>
+          <unitdate normal="2002-12-08/2002-12-08" type="inclusive">2002 December 08</unitdate>
+          <physdesc id="aspace_578adb32764baf53d91371c61ffaf08a">6 duplicate copies</physdesc>
+          <container id="aspace_933e4b98ab7d2120bf842e6bfaaaba76" label="Mixed Materials" type="Video-Tape">170-175</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-81">
+      <c01 id="aspace_36e9bf379222c838ed332cbdf8dd4bf9" level="otherlevel">
         <did>
-          <container type="Video-Tape">176</container>
           <unittitle>Graduate Ceremony - Master</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2004-05-15">2004 May 15</unitdate>
+          <unitdate normal="2004-05-15/2004-05-15" type="inclusive">2004 May 15</unitdate>
+          <container id="aspace_820f00847d8a5dd105a5a636a2e3149d" label="Mixed Materials" type="Video-Tape">176</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-82">
+      <c01 id="aspace_17e8a8984adaeb8eb4760f9b306554db" level="otherlevel">
         <did>
-          <container type="Video-Tape">177</container>
           <unittitle>Graduate Ceremony</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2004-05-15">2004 May 15</unitdate>
+          <unitdate normal="2004-05-15/2004-05-15" type="inclusive">2004 May 15</unitdate>
+          <container id="aspace_23eaea3c14bb9b51b8fa5eef89bcc474" label="Mixed Materials" type="Video-Tape">177</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-83">
+      <c01 id="aspace_bdaf9189a0769ff6242a07043780d021" level="otherlevel">
         <did>
-          <container type="Video-Tape">178-183</container>
           <unittitle>Undergraduate Ceremony</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2004-05-16">2004 May 16</unitdate>
-          <physdesc>6 duplicate copies </physdesc>
+          <unitdate normal="2004-05-16/2004-05-16" type="inclusive">2004 May 16</unitdate>
+          <physdesc id="aspace_d60ae0885fc42662e2f8c35e4017ef77">6 duplicate copies</physdesc>
+          <container id="aspace_eab1c9a4c8368c0e36d7d3ba2d54db7a" label="Mixed Materials" type="Video-Tape">178-183</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-84">
+      <c01 id="aspace_8bff6eb4cde43d6e6311a0e6730d27d8" level="otherlevel">
         <did>
-          <container type="Video-Tape">184</container>
           <unittitle>SUNY A CAM - Tape #1 (Tapes)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2004-12">2004 December</unitdate>
+          <unitdate normal="2004-12/2004-12" type="inclusive">2004 December</unitdate>
+          <container id="aspace_59220d4874108b7109eb78e86ba844e7" label="Mixed Materials" type="Video-Tape">184</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-85">
+      <c01 id="aspace_3822a35d001c0db4f9bb4a33f0ed656b" level="otherlevel">
         <did>
-          <container type="Video-Tape">185</container>
           <unittitle>SUNY A CAM - Tape #2 (Tapes)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2004-12">2004 December</unitdate>
+          <unitdate normal="2004-12/2004-12" type="inclusive">2004 December</unitdate>
+          <container id="aspace_5452f2786f145731a0a24a21502f20b8" label="Mixed Materials" type="Video-Tape">185</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-86">
+      <c01 id="aspace_af4f18bd134887548c301317c0fe20f0" level="otherlevel">
         <did>
-          <container type="Video-Tape">186</container>
           <unittitle>SUNY A CAM - Tape #3 (Tapes)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2004-12">2004 December</unitdate>
+          <unitdate normal="2004-12/2004-12" type="inclusive">2004 December</unitdate>
+          <container id="aspace_0e5df67937869f3121795a9de633e011" label="Mixed Materials" type="Video-Tape">186</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-87">
+      <c01 id="aspace_b1f7322a9627b853766c48fda19996e0" level="otherlevel">
         <did>
-          <container type="Video-Tape">187</container>
           <unittitle>SUNY B CAM - Tape #1 (Tapes)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2004-12">2004 December</unitdate>
+          <unitdate normal="2004-12/2004-12" type="inclusive">2004 December</unitdate>
+          <container id="aspace_fa653180e1dde477a3a23d7df1a2cdbe" label="Mixed Materials" type="Video-Tape">187</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-88">
+      <c01 id="aspace_def59f19dacab56c546e37ca5db29951" level="otherlevel">
         <did>
-          <container type="Video-Tape">188</container>
           <unittitle>SUNY B CAM - Tape #2 (Tapes)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2004-12">2004 December</unitdate>
+          <unitdate normal="2004-12/2004-12" type="inclusive">2004 December</unitdate>
+          <container id="aspace_2bf6e1955ccc81f56f3430ad88267ec3" label="Mixed Materials" type="Video-Tape">188</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-89">
+      <c01 id="aspace_1d999b211fe829faf4e320e140288209" level="otherlevel">
         <did>
-          <container type="Video-Tape">189-192</container>
           <unittitle>Commencement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2004-12-12">2004 December 12</unitdate>
-          <physdesc>4 duplicate copies </physdesc>
+          <unitdate normal="2004-12-12/2004-12-12" type="inclusive">2004 December 12</unitdate>
+          <physdesc id="aspace_51e0fbffebe2405fb79179c39e662c50">4 duplicate copies</physdesc>
+          <container id="aspace_3b1e9a770c94ba18420d1c29dba1edf8" label="Mixed Materials" type="Video-Tape">189-192</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-90">
+      <c01 id="aspace_242c465da9888aa67b609a5dc1afb9ad" level="otherlevel">
         <did>
-          <container type="Video-Tape">193</container>
           <unittitle>SUNY A CAM - Tape #1 (Tapes)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2005-05-14">2005 May 14</unitdate>
+          <unitdate normal="2005-05-14/2005-05-14" type="inclusive">2005 May 14</unitdate>
+          <container id="aspace_966312e90c2ab8568af8bae020676e04" label="Mixed Materials" type="Video-Tape">193</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-91">
+      <c01 id="aspace_8d5d00d766f91aea791ebe82fddf3686" level="otherlevel">
         <did>
-          <container type="Video-Tape">194</container>
           <unittitle>SUNY A CAM - Tape #2 (Tapes)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2005-05-14">2005 May 14</unitdate>
+          <unitdate normal="2005-05-14/2005-05-14" type="inclusive">2005 May 14</unitdate>
+          <container id="aspace_644de3ebb2bdf0884e97ac2fe1a5f1f9" label="Mixed Materials" type="Video-Tape">194</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-92">
+      <c01 id="aspace_446211a2cdad426f0cae672adcb73b0f" level="otherlevel">
         <did>
-          <container type="Video-Tape">195</container>
           <unittitle>SUNY A CAM - Tape #3 (Tapes)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2005-05-14">2005 May 14</unitdate>
+          <unitdate normal="2005-05-14/2005-05-14" type="inclusive">2005 May 14</unitdate>
+          <container id="aspace_4fa2385f3cc7b9c31ba9ca31a3eedaea" label="Mixed Materials" type="Video-Tape">195</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-93">
+      <c01 id="aspace_72427780c49ad120bf0d1047578e2b5b" level="otherlevel">
         <did>
-          <container type="Video-Tape">196-199</container>
           <unittitle>Commencement - Graduate</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2005-05-14">2005 May 14</unitdate>
-          <physdesc>4 duplicate copies </physdesc>
+          <unitdate normal="2005-05-14/2005-05-14" type="inclusive">2005 May 14</unitdate>
+          <physdesc id="aspace_b85ece61b926bc85696a05fc4cef9a40">4 duplicate copies</physdesc>
+          <container id="aspace_60f210c7be916e77996fc5ffdffbe8d1" label="Mixed Materials" type="Video-Tape">196-199</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-94">
+      <c01 id="aspace_0e096306ff1817a845bd3644afb16b6d" level="otherlevel">
         <did>
-          <container type="Video-Tape">200</container>
           <unittitle>SUNY 1</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2005-05-14">2005 May 14</unitdate>
+          <unitdate normal="2005-05-14/2005-05-14" type="inclusive">2005 May 14</unitdate>
+          <container id="aspace_c077df86926482377602175a33357725" label="Mixed Materials" type="Video-Tape">200</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-95">
+      <c01 id="aspace_d2a5204297a995a1fbf8828e002b5538" level="otherlevel">
         <did>
-          <container type="Video-Tape">201</container>
           <unittitle>SUNY B CAM - Tape #1 (Tapes)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2005-05-15">2005 May 15</unitdate>
+          <unitdate normal="2005-05-15/2005-05-15" type="inclusive">2005 May 15</unitdate>
+          <container id="aspace_4e99b076f424f28608d5485cebc99a82" label="Mixed Materials" type="Video-Tape">201</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-96">
+      <c01 id="aspace_e8271c55bf94e716b5a1a9225d8326bd" level="otherlevel">
         <did>
-          <container type="Video-Tape">202</container>
           <unittitle>SUNY B CAM - Tape #2 (Tapes)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2005-05-15">2005 May 15</unitdate>
+          <unitdate normal="2005-05-15/2005-05-15" type="inclusive">2005 May 15</unitdate>
+          <container id="aspace_468ba40a43fd2d0258e7bf9a443dab33" label="Mixed Materials" type="Video-Tape">202</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-97">
+      <c01 id="aspace_aa7699c7377697f1f8b48ebdfdb9f48f" level="otherlevel">
         <did>
-          <container type="Video-Tape">203</container>
           <unittitle>SUNY B CAM - Tape #3 (Tapes)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2005-05-15">2005 May 15</unitdate>
+          <unitdate normal="2005-05-15/2005-05-15" type="inclusive">2005 May 15</unitdate>
+          <container id="aspace_06042a15207cfdadcafc4a050bf1f65c" label="Mixed Materials" type="Video-Tape">203</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-98">
+      <c01 id="aspace_0ce3bf8830a0562010b6978cde534e4e" level="otherlevel">
         <did>
-          <container type="Video-Tape">204</container>
           <unittitle>Commencement - Undergraduate</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2005-05-15">2005 May 15</unitdate>
+          <unitdate normal="2005-05-15/2005-05-15" type="inclusive">2005 May 15</unitdate>
+          <container id="aspace_f6a3299e7edfac9164ed816291d110b2" label="Mixed Materials" type="Video-Tape">204</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-99">
+      <c01 id="aspace_fa0030079ed63c08d39a946880f97d89" level="otherlevel">
         <did>
-          <container type="Video-Tape">205</container>
           <unittitle>SUNY 2</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2005-05-15">2005 May 15</unitdate>
+          <unitdate normal="2005-05-15/2005-05-15" type="inclusive">2005 May 15</unitdate>
+          <container id="aspace_40fa5e8a6e99a915db2c1c9b46f3ecb2" label="Mixed Materials" type="Video-Tape">205</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-100">
+      <c01 id="aspace_f5e3695be16841bb4017bd283159d464" level="otherlevel">
         <did>
-          <container type="Video-Tape">206</container>
           <unittitle>Loop Tape - Pre Ceremony</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/2005">Undated</unitdate>
+          <unitdate normal="1981/2005" type="inclusive">Undated</unitdate>
+          <container id="aspace_5a494816d0e31b4c74ad09221f3cc882" label="Mixed Materials" type="Video-Tape">206</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-101">
+      <c01 id="aspace_f889e321df40a2a294c010cf4f3cef0c" level="otherlevel">
         <did>
-          <container type="DVD">1</container>
           <unittitle>Graduate Ceremony – University at Albany – Master DV- Spring</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002">2002</unitdate>
+          <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_35461117f76b8edd8b5df3f198c1585d" label="Mixed Materials" type="DVD">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-102">
+      <c01 id="aspace_8220c89d6a9b3b551b397dc7f434cfa7" level="otherlevel">
         <did>
-          <container type="DVD">2</container>
           <unittitle>Undergraduate Stage Right - Wayne</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2005-05">2005 May</unitdate>
+          <unitdate normal="2005-05/2005-05" type="inclusive">2005 May</unitdate>
+          <container id="aspace_d8139ad74a8b1a59112ab7fda4049140" label="Mixed Materials" type="DVD">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-103">
+      <c01 id="aspace_6fb965850ed7fc87cca09bcd83964856" level="otherlevel">
         <did>
-          <container type="DVD">3</container>
           <unittitle>Graduation - Wayne Tape #2 - Extra Footage</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002-12">2002 December</unitdate>
+          <unitdate normal="2002-12/2002-12" type="inclusive">2002 December</unitdate>
+          <container id="aspace_fb301306ba5c5f72108fc694e557c377" label="Mixed Materials" type="DVD">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-104">
+      <c01 id="aspace_f858764ccc3eb901c753e7430bad31ca" level="otherlevel">
         <did>
-          <container type="DVD">4</container>
           <unittitle>Graduate Ceremony - Tape #1</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002-12">2002 December</unitdate>
+          <unitdate normal="2002-12/2002-12" type="inclusive">2002 December</unitdate>
+          <container id="aspace_31cfe5a464b143ba36b2d9c4517ba8aa" label="Mixed Materials" type="DVD">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-105">
+      <c01 id="aspace_4b748699487f60200d43815525a39e49" level="otherlevel">
         <did>
-          <container type="DVD">5</container>
           <unittitle>Graduate Ceremony - Tape #2</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002-12">2002 December</unitdate>
+          <unitdate normal="2002-12/2002-12" type="inclusive">2002 December</unitdate>
+          <container id="aspace_d06669b9140a39e98c8132f14fe34cbe" label="Mixed Materials" type="DVD">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-106">
+      <c01 id="aspace_fd171295ab1f40259b1c02de5846f1b7" level="otherlevel">
         <did>
-          <container type="DVD">6</container>
           <unittitle>Graduation - Stage left - Tape #2</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002-12">2002 December</unitdate>
+          <unitdate normal="2002-12/2002-12" type="inclusive">2002 December</unitdate>
+          <container id="aspace_78d486f5e6b0c538df6c0ca27744b7f8" label="Mixed Materials" type="DVD">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-107">
+      <c01 id="aspace_d779371a3adc67350e249ca35fe65f4f" level="otherlevel">
         <did>
-          <container type="DVD">7-10</container>
           <unittitle>Commencement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2003-12">2003 December</unitdate>
-          <physdesc>4 duplicate copies</physdesc>
+          <unitdate normal="2003-12/2003-12" type="inclusive">2003 December</unitdate>
+          <physdesc id="aspace_873525ac50162b90069bdcd6e715f700">4 duplicate copies</physdesc>
+          <container id="aspace_c032af290e09f76b652c998b02166686" label="Mixed Materials" type="DVD">7-10</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-108">
+      <c01 id="aspace_96e9071cc9796dfd38d822bb09dcd53b" level="otherlevel">
         <did>
-          <container type="DVD">11</container>
           <unittitle>Ceremonies</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2005-05">2005 May</unitdate>
+          <unitdate normal="2005-05/2005-05" type="inclusive">2005 May</unitdate>
+          <container id="aspace_4afd3a3b9a1d6e199f5f18a2bed61ccd" label="Mixed Materials" type="DVD">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-109">
+      <c01 id="aspace_d396ecc9cee704a830ced25c89cb4130" level="otherlevel">
         <did>
-          <container type="Mini-DV">1</container>
           <unittitle>Undergraduate SONY Version</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2001">2001</unitdate>
+          <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_f1e4c99b9c7a542622b956295b9bb0ea" label="Mixed Materials" type="Mini-DV">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-110">
+      <c01 id="aspace_c3f312336378447674bc85efa40e86eb" level="otherlevel">
         <did>
-          <container type="Mini-DV">2</container>
           <unittitle>Commencement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002">2002</unitdate>
+          <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_28dd5de5134c1e7654f09419fb650658" label="Mixed Materials" type="Mini-DV">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-111">
+      <c01 id="aspace_525038e3c9cb4d2b7900b9b2c7cba556" level="otherlevel">
         <did>
-          <container type="Mini-DV">3</container>
           <unittitle>Undergraduate Ceremony</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2003">2003</unitdate>
+          <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
+          <container id="aspace_29bf5d0c4aa06c50512d6d509dc776ba" label="Mixed Materials" type="Mini-DV">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-112">
+      <c01 id="aspace_fefa5ba0070e20f0dcd843083a7761e2" level="otherlevel">
         <did>
-          <container type="Mini-DV">4</container>
           <unittitle>Graduate Ceremony</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2003">2003</unitdate>
+          <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
+          <container id="aspace_4dde531889d52a4866c1ca7d070dc106" label="Mixed Materials" type="Mini-DV">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-113">
+      <c01 id="aspace_5fa10ed5aadd09a84d195c15af4ed56e" level="otherlevel">
         <did>
-          <container type="Mini-DV">5</container>
           <unittitle>University at Albany - Graduate Ceremony</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2004-05-15">2004 May 15</unitdate>
+          <unitdate normal="2004-05-15/2004-05-15" type="inclusive">2004 May 15</unitdate>
+          <container id="aspace_af3b6f8455a05740eac3cc10c1e20d3a" label="Mixed Materials" type="Mini-DV">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua390-114">
+      <c01 id="aspace_eab4e9840e1e89a6c7820dbdbbf46bab" level="otherlevel">
         <did>
-          <container type="Mini-DV">6</container>
           <unittitle>University at Albany - Undergraduate Ceremony</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2004-05-15">2004 May 15</unitdate>
+          <unitdate normal="2004-05-15/2004-05-15" type="inclusive">2004 May 15</unitdate>
+          <container id="aspace_00308bb07c4560944bbd0f5ed20ce792" label="Mixed Materials" type="Mini-DV">6</container>
         </did>
       </c01>
     </dsc>

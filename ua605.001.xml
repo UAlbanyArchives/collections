@@ -1,92 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua605.001">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua605.001.html">nam_ua605.001</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua605.001">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua605.001.xml">ua605.001</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>DEPARTMENT OF SLAVIC AND GERMANIC LANGUAGES AND LITERATURE RECORDS (UA605.001)<date normal="1984/1988" type="inclusive"/>
-				</titleproper>
+        <titleproper>Slavic and Germanic Languages and Literature, Department of; Records <num>ua605.001</num></titleproper>
         <author>Jason Lenkowitz</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2015" type="publication">Copyright 2015 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2015</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Gregory Wiedeman<date normal="2015">2015</date>
-			</creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:52:01 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="1997">1997</date>
+        <date>1997</date>
         <item>Reprocessed by department staff</item>
       </change>
       <change>
-        <date normal="2015-12">2015 December</date>
+        <date>2015 December</date>
         <item>Converted to EAD</item>
+      </change>
+      <change>
+        <date>2015</date>
+        <item>Encoded in EAD by Gregory Wiedeman</item>
       </change>
     </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>Department of Slavic and Germanic Languages and Literature Records<date normal="1970-1984" type="inclusive"/>
-			</titleproper>
-      <publisher>
-			</publisher>
-      <date type="publication">Copyright 2015 By the University at Albany, SUNY. All rights reserved.</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua605.001</unitid>
-      <unittitle>Department of Slavic and Germanic Languages and Literature Records<unitdate label="Date:" normal="1970-1984" type="inclusive"/>
-				<unitdate normal="1970/1984" type="bulk">1970/1984</unitdate>
-			</unittitle>
-      <abstract label="Abstract:">Contains departmental copies of German dissertations submitted in partial fulfillment of the requirements for the degree of Doctor of Philosophy.</abstract>
-      <langmaterial>
-        <language langcode="ger">German</language>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="local">Students of the Department of Slavic and Germanic Languages and Literature</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">3.0</extent>
-      </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Department of Slavic and Germanic Languages and Literature Records<unitdate normal="1970/1984" type="bulk">1970/1984</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">Students of the Department of Slavic and Germanic Languages and Literature</corpname>
+      </origination>
+      <unitid>ua605.001</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3.0 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_705f79a458080841153847f23e33442c">Contains departmental copies of German dissertations submitted in partial fulfillment of the requirements for the degree of Doctor of Philosophy.</abstract>
+      <physloc id="aspace_a7c6184f1877d271eb65973b38449e6c">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_81cb749ebee721156d123b4079cac0f3">
+      <head>Processing Information</head>
+      <p>Processed in 2015 by Jason Lenkowitz.</p>
+    </processinfo>
+    <accessrestrict id="aspace_b95163e7a19e988348ef7d99b51afb4a">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_6caaa856574ee5073036968bf54c10ad">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites. </p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
-      <p>The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future. </p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
+      <p> The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_bc0cd2daddcba3b0556af18ca8aee109">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_7406426e7162e2f1defb9e98c8e6e69a">
       <head>Biographical History</head>
       <p>The New York State Normal College first introduced a course in the "methods of teaching...Greek, French or German" to students in the Classical Course in 1890. [Circular of the New York State Normal College, Albany, N.Y., for 1890 and 1891, p. 10]. In 1890 the renamed College was given the mission of training high school teachers in New York. As foreign languages were not taught in the Common Schools, no instruction in German was offered by the State Normal School. Students taking the Classical Course were required to have two years of German before attending the Normal College, presumably eliminating the need to teach the subject. [Ibid., p. 8] By 1904 a course in the "Literature of the German Language" had been added to the methods course. [Circular and Announcement of the Courses of Instruction, 1904, p. 29]. The revised mission of the College adopted by the Regents on December 14, 1905, effective September 1906, which changed the school into a four year liberal arts college for teachers, schooldesignation the school adopted a four year liberal arts curriculum. German was taught in the Department of until 1964 when the Department of Germanic and Slavic Languages and Literatures was created.[1] Courses included German language and literature.[2] Two programs were offered: A Teacher Education Program and a General Program both leading to the degree of Bachelor of Arts (B.A.), totaling twenty-seven hours.[3] The Department of Germanic and Slavic Languages and Literatures also offered instruction in Russian, Polish, and Chinese. The department endeavored "to expand the student's intellectual horizon to embrace a culture other than his own. The foreign language is at once part of that culture and the only medium through which an intimate sense of the total culture may be gained. Extra-curricular opportunities to practice the foreign language in an informal setting are offered by language clubs and language tables."[4] In 1967 the department expanded its program by offering a year long study abroad program at the University of Wurzburg in Germany. A Masters program was established in 1968 to provide sufficient depth to prepare the student for a career in teaching at the secondary level of for further graduate study.[7]</p>
-      <p>In 1970, the Department of Germanic Languages and Literatures was established.[5] The Department offered three programs leading to the B.A. Degree: A Teachers Education Program, a General Program, and an Honors Program which began in 1969.[6] The departments offerings were expanded in 1972 to include a Ph.D. in German.**8 The department offered a year abroad of instruction in Chinese at Nayand University in Singapore until a department of Chinese Studies was established in 197?.</p>
-      <p>The Department of Germanic Languages and Literatures merged with the Department of Slavic Languages and Literatures in 1996. German language instruction was eliminated on campus in 1997 with German language instruction now offered through an agreement with Union College. The Department of Slavic and Eurasian Studies was created in 1998.</p>
+      <p> In 1970, the Department of Germanic Languages and Literatures was established.[5] The Department offered three programs leading to the B.A. Degree: A Teachers Education Program, a General Program, and an Honors Program which began in 1969.[6] The departments offerings were expanded in 1972 to include a Ph.D. in German.**8 The department offered a year abroad of instruction in Chinese at Nayand University in Singapore until a department of Chinese Studies was established in 197?.</p>
+      <p> The Department of Germanic Languages and Literatures merged with the Department of Slavic Languages and Literatures in 1996. German language instruction was eliminated on campus in 1997 with German language instruction now offered through an agreement with Union College. The Department of Slavic and Eurasian Studies was created in 1998.</p>
       <p>
         <chronlist>
           <head>Chairs of Department of Germanic and Slavic Languages and Literatures, 1964-1970</head>
@@ -154,244 +140,230 @@
           </chronitem>
         </chronlist>
       </p>
-      <p>
-        <list>
-          <item>[1] State University of New York at Albany Undergraduate Bulletin, 1964-66, 91.</item>
-          <item>[2]. State University of New York at Albany Undergraduate Bulletin Supplement, 1965-66, 45.</item>
-          <item>[3] State University of New York at Albany Undergraduate Bulletin, 1964-66, 94.</item>
-          <item>[4] State University of New York at Albany Undergraduate Bulletin, 1967-68, 102.</item>
-          <item>[5] State University of New York at Albany Undergraduate Bulletin, 1970-71, 88.</item>
-          <item>[6] State University of New York at Albany Undergraduate Bulletin, 1969-70, 93.</item>
-          <item>[7] State University of New York at Albany Department of Germanic and Slavic Languages and Literatures, 1968</item>
-          <item>[8] Graduate Council Report for the Period, April 1-30, 1970, 2.</item>
-        </list>
-      </p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_ccdcdaa835f029256f596c22c3159bd3">
+      <head>Scope and Contents</head>
       <p>Contains departmental copies of German dissertations submitted in partial fulfillment of the requirements for the degree of Doctor of Philosophy.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_f098b770f9ebb40d102f3beb6518eb89">
       <head>Arrangement of the Collection</head>
       <p>The collection has no series. Arranged chronologically and alphabetically thereunder.</p>
     </arrangement>
-    <prefercite>
+    <prefercite id="aspace_0cece262a036898d80d87b8bc508c746">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Department of Slavic and Germanic Languages and Literature Records, 1970-1984. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Department of Slavic and Germanic Languages and Literature Records).</p>
+      <p> Identification of specific item, series, box, folder, Department of Slavic and Germanic Languages and Literature Records, 1970-1984. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Department of Slavic and Germanic Languages and Literature Records).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <corpname encodinganalog="611" source="local">State University of New York at Albany. Department of Slavic and Germanic Languages and Literature</corpname>
+      <corpname source="local">State University of New York at Albany. Department of Slavic and Germanic Languages and Literature</corpname>
     </controlaccess>
     <dsc>
-      <head>Container List</head>
-      <c01 id="nam_ua605.001-1">
+      <c01 id="aspace_d8e99278fa68e8cb5dc837bb57a316d0" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>Vander Heide, Ralph Peter. Deutche Blatter fur ein europaisches Deutschland/Gegen ein deutsches Europa: A Cultural-Political Study</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1975">1975</unitdate>
+          <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+          <container id="aspace_947d6c076addb285b1b927e741d624e2" label="Mixed Materials" type="Box">1 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_33041334d0bd8cc434688833656e675e" parent="aspace_947d6c076addb285b1b927e741d624e2" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-2">
+      <c01 id="aspace_5519b9d23fe259addacc4ca00380c223" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Broerman, Bruce M. The German Exile Novel After 1933</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1976">1976</unitdate>
+          <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+          <container id="aspace_0b09b3d7b5187bcb293432c4c3382a5e" label="Mixed Materials" type="Box">1 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_6addd5ab0bdd9388fb66b51526ccfd1e" parent="aspace_0b09b3d7b5187bcb293432c4c3382a5e" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-3">
+      <c01 id="aspace_0c879c5f0f6e3554135486aab581c654" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>Hartzell, Richard E. Ulrichs Pathway to the "Other" State An Investigation of the central Problem in Musils Novel "Der Mann Ohne Eigenschaften"</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1976">1976</unitdate>
+          <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+          <container id="aspace_69f90ae0e62ac62cc713ba2352dfff60" label="Mixed Materials" type="Box">1 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_0c69c92a860bfd16d0879af729780431" parent="aspace_69f90ae0e62ac62cc713ba2352dfff60" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-4">
+      <c01 id="aspace_70516e90801d515e883e1a958aa581cc" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Steiner, Frank circa Manfred George: His Life and Works</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1977">1977</unitdate>
+          <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+          <container id="aspace_f2e9aff639e8cf5dbc0ad5d2c10c3bf7" label="Mixed Materials" type="Box">1 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_7e9f329a8388cd36223179b6a31a0b8a" parent="aspace_f2e9aff639e8cf5dbc0ad5d2c10c3bf7" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-5">
+      <c01 id="aspace_b6d7cbfde4f1cf0378513ec69093b929" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Lennig, Hannelore W. Gunter Eich und Sprache: Untersuchung zu Wandel und Entwichlung des Sprachverstandnisses in seinem Werk.</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1978">1978</unitdate>
+          <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+          <container id="aspace_b40d8fba2f22f6ab3f2bc49e33075404" label="Mixed Materials" type="Box">1 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_54ebf84fb0635c6ea7dbe0770606743c" parent="aspace_b40d8fba2f22f6ab3f2bc49e33075404" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-6">
+      <c01 id="aspace_4b9bcf389c906510fc0ec36ea08390f4" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Nagy, George L. Ferenc Molnars Stucke Auf Der Deutschsprachigen Buhne</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1978">1978</unitdate>
+          <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+          <container id="aspace_ff346fbf435a3db945d233b162eabd66" label="Mixed Materials" type="Box">1 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_1a6e2ae52c28e47414c18c71a6abdc3b" parent="aspace_ff346fbf435a3db945d233b162eabd66" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-7">
+      <c01 id="aspace_bc4d727696e3954ab36a4e860839196f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Kellenter, Sigrid. Das Sonell bei Rilke</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1978">1978</unitdate>
+          <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+          <container id="aspace_8d13aafb4e6494eb8ad5bdec0ed978dd" label="Mixed Materials" type="Box">1 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_568a9f88786ad4d09e52a6e6908c5fb3" parent="aspace_8d13aafb4e6494eb8ad5bdec0ed978dd" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-8">
+      <c01 id="aspace_ba4898b4a148375b9ed7c4b78d5ea0e0" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
           <unittitle>Guenter, Walter P. Theodore Fontanes "Schach von Wurthenow" Wirklichkeil un Verklarung</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1980">1980</unitdate>
+          <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+          <container id="aspace_7e5d534ff694009742e63a3deb56be4e" label="Mixed Materials" type="Box">1 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_ae8ca026b522d83b519ba0de5456aa6e" parent="aspace_7e5d534ff694009742e63a3deb56be4e" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-9">
+      <c01 id="aspace_a9b4446904bce97f2449ff3ac147430a" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Barber, Sigmund. The Amadis de Gaule of the compte de Tresan and W. circa S. Mylius: an analytical comparison of the sixteenth and eighteenth Amadis editions.</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1981">1981</unitdate>
+          <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+          <container id="aspace_aa08588115975e9d15281044a0ab9bb1" label="Mixed Materials" type="Box">1 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_b29167913c2cdf83e4f15c9e0a6dc272" parent="aspace_aa08588115975e9d15281044a0ab9bb1" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-10">
+      <c01 id="aspace_180b3e8fd045a8f7a01805ade0c478d4" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Krolick, circa Margaret. The Esoteric Tradition in the Novels of Gustav Meyrink</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1983">1983</unitdate>
+          <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+          <container id="aspace_89e86b00291d2ef23586fa4190986d2b" label="Mixed Materials" type="Box">1 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_82a831cc06a8bffb33ea3189b23bf335" parent="aspace_89e86b00291d2ef23586fa4190986d2b" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-11">
+      <c01 id="aspace_6806d7625173b06e0eb48e925c501400" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Wehage, Franz-Joseph. Karl Otto Patel: Leben and Werk eine Literaturkritikes</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1983">1983</unitdate>
+          <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+          <container id="aspace_f9366ddb42de2d05ff1ad20e09a04ce7" label="Mixed Materials" type="Box">1 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_499fcf6e85623ebf4b2d894f00c0c79c" parent="aspace_f9366ddb42de2d05ff1ad20e09a04ce7" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-12">
+      <c01 id="aspace_003ce4e234268565cff0d2871258e5f1" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">1</container>
           <unittitle>Geyer, Eberhard. Die Funktion der Elementargeister im Werk E. T. A. Hoffmans</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1985">1985</unitdate>
+          <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+          <container id="aspace_5fde968584fd4c9aff11d99eef9985d1" label="Mixed Materials" type="Box">2 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_b9dd2598b6059a0e8d36ae0df61c98f5" parent="aspace_5fde968584fd4c9aff11d99eef9985d1" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-13">
+      <c01 id="aspace_6be4f7323c792ec28306682eb403f9bc" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">2</container>
           <unittitle>Skwara, Erich Wolfgang. Hans Sahl: Leben und Werk</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1985">1985</unitdate>
+          <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+          <container id="aspace_570864004a15f42175644f63adb3a012" label="Mixed Materials" type="Box">2 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_5615314916618ae1232aca9c80308224" parent="aspace_570864004a15f42175644f63adb3a012" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-14">
+      <c01 id="aspace_de07303ddfa6d9fa97687c5763d6402e" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">3</container>
           <unittitle>Steppich, Christoph J. Die Vorstellung vom gottlich inspirierten Dichter in der humanischen Dichtungstheorie un Renaissance-Philosophie Italiens und in der Dichtungspraxis des Deutschen Humanismus</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1986">1986</unitdate>
+          <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+          <container id="aspace_b4a01be93d31876e5cb34ecf11f33a22" label="Mixed Materials" type="Box">2 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_47dad9e730e94bffce44b9a1f40c413a" parent="aspace_b4a01be93d31876e5cb34ecf11f33a22" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-15">
+      <c01 id="aspace_27a2332046ceadb0283ba5377bba7a4a" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">4</container>
           <unittitle>Van Ness, Silke. Pennsylvania German in West Virginia: Language Variations and Language Attrition</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1988">1988</unitdate>
+          <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+          <container id="aspace_19eaeaabb96ec97cc36886800463c614" label="Mixed Materials" type="Box">2 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_e64781c7c6019d05d7bd3dde2f750d83" parent="aspace_19eaeaabb96ec97cc36886800463c614" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-16">
+      <c01 id="aspace_9ccb130903b9bf3c5ec82c1a6d9ec160" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">5</container>
           <unittitle>Willard, Penelope. "Gerfuhl" und "Erkenntnis:" Ernst Tollers Revisions of His Dramas</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1988">1988</unitdate>
+          <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+          <container id="aspace_6412115afdd89db8aa688f4dfe04f59a" label="Mixed Materials" type="Box">2 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_366ee48cc576d9f05861b4fafd5f7bc3" parent="aspace_6412115afdd89db8aa688f4dfe04f59a" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-17">
+      <c01 id="aspace_952d39e3ab2be27522b0760ccd871303" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">6</container>
           <unittitle>Ebel, Christine K. Funktional-pragmatische und Struktural-syntagmatische Aspekte des heilsgeschtlichen Kontextes am Beispiel der Herzeloyden-Figur in Wolframs von Eschenbach Parzival</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1991">1991</unitdate>
+          <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+          <container id="aspace_213449d40fb9f36f189d59f1be649d60" label="Mixed Materials" type="Box">2 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_7add5c21fdce3e6ded1bbe2f52095bbe" parent="aspace_213449d40fb9f36f189d59f1be649d60" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-18">
+      <c01 id="aspace_2cd3c87b454331aabac4e20f4b363a3f" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">7</container>
           <unittitle>Macris, Ursula A. Otto Furth, das dramatische Werk der Wiener Jahre und Prosa im Exil</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1991">1991</unitdate>
+          <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+          <container id="aspace_48bada9e1fd4857afae0ee49163962a3" label="Mixed Materials" type="Box">2 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_8e7d9dff15639dc8019251fc71b0c7a9" parent="aspace_48bada9e1fd4857afae0ee49163962a3" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-19">
+      <c01 id="aspace_c5b73d0fcd3a7d882d5de580e5d8c8f8" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">1</container>
           <unittitle>Kufner, Stephanie E. Nur einem menschen bracht dies amt zum politichen helden in Schillers Don Karlos</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1992">1992</unitdate>
+          <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+          <container id="aspace_fe147caebe799538d5c46a8ce1ce11a6" label="Mixed Materials" type="Box">3 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_45022921f14d243453c865d3dbe7e4d4" parent="aspace_fe147caebe799538d5c46a8ce1ce11a6" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-20">
+      <c01 id="aspace_813e11882f0ecbd7d9315466fbbf8d9e" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">2</container>
           <unittitle>Straif-Taylor, Helga. Lothar Schreyers Das Expressionistiche Theater: Content, Background, and Translation</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1992">1992</unitdate>
+          <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+          <container id="aspace_8f76c62fdc9e2fd791421f8a5e9298e0" label="Mixed Materials" type="Box">3 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_54ec9c56abf16a5292297ab0ffa87afe" parent="aspace_8f76c62fdc9e2fd791421f8a5e9298e0" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-21">
+      <c01 id="aspace_54dbe43d738ba3659735ed21630981e0" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">3</container>
           <unittitle>Weigel, Robert G. Zur Geistigen einheit von Hermann Brochs Werk: Massenpsychologie, Politologie, Romane</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1992">1992</unitdate>
+          <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+          <container id="aspace_a922f1fb08c60cedd9c599dceb9bc87f" label="Mixed Materials" type="Box">3 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_a77291fc164a42faf9421e45c85247cb" parent="aspace_a922f1fb08c60cedd9c599dceb9bc87f" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-22">
+      <c01 id="aspace_4f35e5bfe936bd3fe44010f30dac641e" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">4</container>
           <unittitle>Posthofen, Renate S. George Saiko (1892-1962) Leben und Werk eines unbekannten grossen Autors</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1993">1993</unitdate>
+          <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+          <container id="aspace_fbed377ceb156293034bd69dc20c8afd" label="Mixed Materials" type="Box">3 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_9d60f3b438f66595edcd77f1e6276da0" parent="aspace_fbed377ceb156293034bd69dc20c8afd" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-23">
+      <c01 id="aspace_771a157ac18ca2bf0488264a1ecf26c4" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">5</container>
           <unittitle>Wilson, Kelly E. Force and Love in the Works of Rainer Maria Rilke (Heroic Life Attitudes and the Acceptance of Defeat and Suffering as Complementary Parts)</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1996">1996</unitdate>
+          <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+          <container id="aspace_222e1f9b3969f2645696e0a8f99cea9c" label="Mixed Materials" type="Box">3 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_694edbc4274306fd7b168f2a35bc61e8" parent="aspace_222e1f9b3969f2645696e0a8f99cea9c" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-24">
+      <c01 id="aspace_074b30a3b11316788c7822b68815748c" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">6</container>
           <unittitle>Giguere, Undine G. Frauen im Exil Untersuchung exilrelevanter Themenbereiche anhand der autobiographisch ausgewahlten Texte von funf Exilautorinnen (1933-45)</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1997">1997</unitdate>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <container id="aspace_08b531e01ce49f3ed0155a85b1a7a69b" label="Mixed Materials" type="Box">3 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_add91c6ca1af7a7e00d57014aaa5c6ba" parent="aspace_08b531e01ce49f3ed0155a85b1a7a69b" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-25">
+      <c01 id="aspace_537907a5c45163477adb3276d248f43a" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">7</container>
           <unittitle>Lorenz, Erich J. Ueberlegungen zu den unterschiedlichen kommunikationsbedingungen in ost- und westdeutchland</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1997">1997</unitdate>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <container id="aspace_1bffa0cadbcb5c85c330da714961ba1e" label="Mixed Materials" type="Box">3 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_36604b2b85b75a1ea6505009d9fe7e97" parent="aspace_1bffa0cadbcb5c85c330da714961ba1e" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua605.001-26">
+      <c01 id="aspace_83f3fb8a3ca08a1e011d216c4fd0aead" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">8</container>
           <unittitle>Loyola, Annette. The Role of the Woman in Wirnt Von Grafenbergs Wigalois</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1997">1997</unitdate>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <container id="aspace_add00f219f40e942c126ff6a54eb7faa" label="Mixed Materials" type="Box">3 (Department of Slavic and Germanic Languages and Li)</container>
+          <container id="aspace_bea9f67d85d56b57b6abef38dacd3e70" parent="aspace_add00f219f40e942c126ff6a54eb7faa" type="Folder">8</container>
         </did>
       </c01>
     </dsc>

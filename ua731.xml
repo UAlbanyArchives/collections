@@ -1,87 +1,91 @@
 <?xml version='1.0' encoding='utf-8'?>
-<?xml-stylesheet type='text/xsl' href='collection-level.xsl'?> 
-<!DOCTYPE ead SYSTEM 'ead.dtd'>
-<ead id="nam_ua731">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua731.html">nam_ua731</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua731">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua731.xml">ua731</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>OFFICE OF STUDENT INVOLVEMENT RECORDS (UA731)<date normal="1975/2001" type="inclusive">1975-2001</date></titleproper>
+        <titleproper>Student Life; Records <num>ua731</num></titleproper>
         <author>unprocessed</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2017" type="publication">Copyright 2017 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2017</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Benjamin Covell<date normal="2017-03-30">2017 March 30</date></creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 18:06:45 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2017 March 30</date>
+        <item>Encoded in EAD by Benjamin Covell</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>Office of Student Involvement Records<date normal="1975/2001" type="inclusive">1975-2001</date></titleproper>
-      <publisher/>
-      <date type="publication">Copyright 2017 By the University at Albany, SUNY. All rights reserved.</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua731</unitid>
-      <unittitle>Office of Student Involvement Records<unitdate label="Date:" normal="1975/2001" type="inclusive">1975-2001</unitdate></unittitle>
-      <abstract label="Abstract:">Contains records from the Office of Student Involvement, and its predecessor offices: the Office of Student Life and the Office of Campus Life.  Materials in the collection address the administration of student activities on campus, including student group policies and event planning.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="local">State University of New York at Albany. Office of Student Involvement</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">18</extent>
-      </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Office of Student Involvement Records<unitdate normal="1975/2001" type="inclusive">1975-2001</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">State University of New York at Albany. Office of Student Involvement</corpname>
+      </origination>
+      <unitid>ua731</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">18 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_ef7fa6d4b4530c4986b850b065229eb8">Contains records from the Office of Student Involvement, and its predecessor offices: the Office of Student Life and the Office of Campus Life. Materials in the collection address the administration of student activities on campus, including student group policies and event planning.</abstract>
+      <langmaterial id="aspace_d70528a5dbb61cb2fe3ab148b1d6a748">English</langmaterial>
+      <physloc id="aspace_d157ec78dcdf7a1e2b5d7cf1cb6dbf0c">The materials are located onsite in the department.</physloc>
+      <container id="aspace_b0dc8fd55ef094556dd2aa445051e095" label="Mixed Materials" type="Collection">X</container>
     </did>
-    <accessrestrict><head>Access</head><p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. Please contact an archivist for more information.</p></accessrestrict>
-    <userestrict><head>Copyright</head><p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p><p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p><p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p><p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p></userestrict>
-    <acqinfo>
+    <processinfo id="aspace_ecfabf079d971c14f63717edd6c33835">
+      <head>Processing Information</head>
+      <p>Processed in 2017 by unprocessed.</p>
+    </processinfo>
+    <accessrestrict id="aspace_72058011f7e447920512e8229ee36dc7">
+      <head>Access</head>
+      <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. Please contact an archivist for more information.</p>
+    </accessrestrict>
+    <userestrict id="aspace_562cd235daf5af58b06dda99245683af">
+      <head>Copyright</head>
+      <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p> The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+    </userestrict>
+    <acqinfo id="aspace_11905e4739de87a5c5eb1cf5ca7e568e">
       <head>Acquisition Information</head>
       <p>All items in this collection were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_62302a7b6743eb75fb8322a2badbd366">
       <head>Historical Note</head>
-      <p>The Office of Student Involvement, which is part of the Division of Student Affairs, provides support for student co-curricular activities on campus.  The Office establishes policies for event advertisement, helps coordinate on-campus reservations for events, oversees fraternities and sororities on campus, and provides support for student leadership.  The Office of Student Involvement was previously known as the Office of Student Life and, before that, the Office of Campus Life.</p>
+      <p>The Office of Student Involvement, which is part of the Division of Student Affairs, provides support for student co-curricular activities on campus. The Office establishes policies for event advertisement, helps coordinate on-campus reservations for events, oversees fraternities and sororities on campus, and provides support for student leadership. The Office of Student Involvement was previously known as the Office of Student Life and, before that, the Office of Campus Life.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>Materials in this collection were created by the earlier offices: the Office of Student Life and its predecessor, the Office of Campus Life.  The collection includes: fraternity and sorority files containg bylaws, rosters, clippings, and correspondence; files on specific student groups containing historical information, officer information forms, and correspondence; event planning materials, including: reservation forms, fliers, and invoices; photographs from events;  commencement materials; and President's Undergraduate Leadership Awards materials.</p>
+    <scopecontent id="aspace_64441a3e0de83a826aa29e6c3161028d">
+      <head>Scope and Contents</head>
+      <p>Materials in this collection were created by the earlier offices: the Office of Student Life and its predecessor, the Office of Campus Life. The collection includes: fraternity and sorority files containg bylaws, rosters, clippings, and correspondence; files on specific student groups containing historical information, officer information forms, and correspondence; event planning materials, including: reservation forms, fliers, and invoices; photographs from events; commencement materials; and President's Undergraduate Leadership Awards materials.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_d8bcbaf30b69e02aab4cfc660395e40b">
       <head>Arrangement of the Collection</head>
       <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <prefercite>
+    <prefercite id="aspace_3a16cf166f90ac28977086914d21ca0b">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Office of Student Involvement Records, 1975-2001. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Office of Student Involvement Records).</p>
+      <p> Identification of specific item, series, box, folder, Office of Student Involvement Records, 1975-2001. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Office of Student Involvement Records).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <corpname source="lcsh" encodinganalog="610">State University of New York at Albany</corpname>
-      <subject source="lcsh" encodinganalog="650">Student activities</subject>
-      <genreform source="aat" encodinganalog="655">administrative records</genreform>
-      <genreform source="aat" encodinganalog="655">forms (documents)</genreform>
-      <genreform source="aat" encodinganalog="655">correspondence</genreform>
+      <subject source="lcsh">Student activities</subject>
+      <genreform source="aat">Administrative records</genreform>
+      <genreform source="aat">Forms (documents)</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <corpname source="lcsh">State University of New York at Albany</corpname>
     </controlaccess>
+    <dsc/>
   </archdesc>
 </ead>

@@ -1,651 +1,627 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap106">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="nalsu" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" url="http://library.albany.edu/speccoll/findaids/apap106.xml" identifier="##">nam_apap106</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap106">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap106.xml">apap106</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>ACT UP ALBANY (N.Y.) CHAPTER RECORDS (APAP106)<date normal="1983/1992" type="inclusive">1983-1992</date></titleproper>
+        <titleproper>ACT UP, Albany (N.Y.) Chapter; Records <num>apap106</num></titleproper>
         <author>Gyuok Kim</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2012">Copyright 2012 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2012</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Ian Banker<date normal="2013">2013</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 14:19:52 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2013</date>
+        <item>Encoded in EAD by Ian Banker</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>ACT UP ALBANY (N.Y.) CHAPTER RECORDS (APAP106)<date normal="1983/1992" type="inclusive">1983-1992</date></titleproper>
-      <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2005</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap106</unitid>
-      <unittitle>Act Up Albany (N.Y.) Chapter Records<unitdate type="inclusive" normal="1983/1992" label="Date:">1983-1992</unitdate></unittitle>
-      <origination>
-        <corpname encodinganalog="110" source="local">Act Up Albany (N.Y.)</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">2.47</extent>
-      </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">This collection details records kept by the ACT UP organization committed to ending the AIDS crisis.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Act Up Albany (N.Y.) Chapter Records<unitdate normal="1983/1992" type="inclusive">1983-1992</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">Act Up Albany (N.Y.)</corpname>
+      </origination>
+      <unitid>apap106</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.47 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_954132631322fc64049e553c9e97cf04">This collection details records kept by the ACT UP organization committed to ending the AIDS crisis.</abstract>
+      <langmaterial id="aspace_e571fbbe003b44a46b5b910750b6fefe">English</langmaterial>
+      <physloc id="aspace_2c7a8d8591d63642c86eaa7e45c3bfbc">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_18119195ab711fc2773cdffe674e174a">
+      <head>Processing Information</head>
+      <p>Processed in 2012 by Gyuok Kim.</p>
+    </processinfo>
+    <accessrestrict id="aspace_f614b6102a0083bf52a3f8c5bd700223">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_512b532af8d262e4b5ab5b127d2a1433">
       <head>Copyright</head>
       <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_01873065ceaea1543f275eb4346723ae">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by the Social Justice Center in October 2000.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_1f81bc4c1dc1d513bc854063fa64ef2d">
       <head>Administrative History</head>
       <p>In March 1987, ACT UP, AIDS Coalition To Unleash Power, was formed in New York City by a group of people as a diverse, nonpartisan organization of individuals united in anger and committed to ending the AIDS crisis.</p>
-      <p>ACT UP is a national and international nonpartisan activist group whose mission is to fight for "an end to the AIDS crisis." The goals of ACT UP's direct action include: explicit prevention education (such as distribution of condoms and sex education in schools), information about and access to treatments for AIDS, an end to discrimination against people with HIV/AIDS, including the loss of jobs and benefits, and an "emergency" effort to find a cure for the disease.</p>
-      <p>Since its inception in March 1987 at the Lesbian and Gay Community Services Center in downtown Manhattan, the AIDS Coalition To Unleash Power grew to thousands of members in more than 70 chapters in the U.S. and worldwide. ACT UP's non-violent direct action, often using vocal demonstrations and dramatic acts of civil disobedience, focuses attention on the crucial issues of the AIDS crisis.</p>
-      <p>On June 17, 1989, the Albany Chapter of ACT UP called for the city to distribute clean needles to drug users and reintroduce and pass a homosexual rights ordinance. In addition, ACT UP, a group whose purpose is to educate American youth about AIDS prevention, opened its first college chapter at the University at Albany, SUNY in 1990. The Albany Chapter was affiliated with the New York City ACT UP Chapter. A main goal of the group was to educate students and young people about AIDS.</p>
+      <p> ACT UP is a national and international nonpartisan activist group whose mission is to fight for "an end to the AIDS crisis." The goals of ACT UP's direct action include: explicit prevention education (such as distribution of condoms and sex education in schools), information about and access to treatments for AIDS, an end to discrimination against people with HIV/AIDS, including the loss of jobs and benefits, and an "emergency" effort to find a cure for the disease.</p>
+      <p> Since its inception in March 1987 at the Lesbian and Gay Community Services Center in downtown Manhattan, the AIDS Coalition To Unleash Power grew to thousands of members in more than 70 chapters in the U.S. and worldwide. ACT UP's non-violent direct action, often using vocal demonstrations and dramatic acts of civil disobedience, focuses attention on the crucial issues of the AIDS crisis.</p>
+      <p> On June 17, 1989, the Albany Chapter of ACT UP called for the city to distribute clean needles to drug users and reintroduce and pass a homosexual rights ordinance. In addition, ACT UP, a group whose purpose is to educate American youth about AIDS prevention, opened its first college chapter at the University at Albany, SUNY in 1990. The Albany Chapter was affiliated with the New York City ACT UP Chapter. A main goal of the group was to educate students and young people about AIDS.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_3bf8d883bf029347775c7abc326e8365">
+      <head>Scope and Contents</head>
       <p>The collection documents the activities of ACT UP, Albany New York Chapter, and other chapters from its creation in 1987 to 1992. The collection consists of administrative files such as handbooks for activists, activism in various chapters, the AIDS Curriculum Lesson for the City of Albany, AIDS education and preventive guides and programs, correspondence, minutes, and papers of the Health Systems Agency of Northeastern New York, Inc., from 1990 to 1991. It also includes several legal documents related to human rights, penal law, and public health law, and meeting notes.</p>
-      <p>Also included in the collection is a videotape, programs and fliers from Albany and other chapters, workshop programs, a boycott fact package, activism related to prisons and AIDS, board of education policies of Massachusetts, New York, and San Francisco. In addition, the collection includes materials from HIV regional forum, numerous news clippings and news releases, draft plan for HIV/AIDS services, and public comments on AIDS. The collection also includes publications about budget funding for AIDS in New York State, reports and research papers, journals, and newsletters published by other organizations.</p>
-      <p>The strengths of this collection are the posters, fliers, and other activism material from ACT UP chapters. In addition, most of the materials in this collection are in good condition. The collection's lack of administrative records for the Albany chapter is a weakness.</p>
-      <p>The inactive records of ACT UP/NY were deposited in the New York Public Library in 1996 and the Lesbian Herstory Archives in Brooklyn also hold materials related to ACT UP activities in New York.</p>
+      <p> Also included in the collection is a videotape, programs and fliers from Albany and other chapters, workshop programs, a boycott fact package, activism related to prisons and AIDS, board of education policies of Massachusetts, New York, and San Francisco. In addition, the collection includes materials from HIV regional forum, numerous news clippings and news releases, draft plan for HIV/AIDS services, and public comments on AIDS. The collection also includes publications about budget funding for AIDS in New York State, reports and research papers, journals, and newsletters published by other organizations.</p>
+      <p> The strengths of this collection are the posters, fliers, and other activism material from ACT UP chapters. In addition, most of the materials in this collection are in good condition. The collection's lack of administrative records for the Albany chapter is a weakness.</p>
+      <p> The inactive records of ACT UP/NY were deposited in the New York Public Library in 1996 and the Lesbian Herstory Archives in Brooklyn also hold materials related to ACT UP activities in New York.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_7eab23ed4fec3d5038914de542c5397e">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series:</p>
-      <list type="simple">
-        <item>Series 1 - Administrative Files, 1989-1992</item>
-        <item>Series 2 - Subject Files, 1983-1984</item>
-        <item>Series 3 - Publications, 1988-1992</item>
-      </list>
       <p>All series are arranged alphabetically by subject</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-           Try to give as many access points as you can to increase the chances of 
-           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-           to comment them out! -->
-    <controlaccess>
-      <subject source="meg" encodinganalog="650">Albany, New York</subject>
-      <subject source="meg" encodinganalog="650">Social Activists and Public Advocates</subject>
-      <subject source="meg" encodinganalog="650">Medicine and Health Care</subject>
-      <subject source="meg" encodinganalog="650">Human Sexuality and Gender Identity</subject>
-      <subject source="meg" encodinganalog="650">Criminal Justice and Prisons</subject>
-      <head>Subject and Genre Headings</head>
-      <corpname encodinganalog="610" source="local">ACT UP, ALBANY (N.Y.) CHAPTER</corpname>
-      <subject encodinganalog="650" source="lcsh">HIV/AIDS awareness</subject>
-      <subject encodinganalog="650" source="lcsh">HIV (Viruses)</subject>
-      <geogname encodinganalog="651" source="lcsh">Albany (N.Y.)</geogname>
-      <genreform encodinganalog="655" source="aat">Videocassettes</genreform>
-      <genreform encodinganalog="655" source="aat">Newsletters</genreform>
-      <genreform encodinganalog="655" source="aat">Administrative Records</genreform>
-      <genreform encodinganalog="655" source="aat">Minutes</genreform>
-      <genreform encodinganalog="655" source="aat">Programs (documents)</genreform>
-    </controlaccess>
-    <prefercite>
+    <prefercite id="aspace_07c616ddf728a4bce261f405bda62fb6">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Act Up Albany (N.Y.) Chapter Records, 1983-1992. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, Act Up Albany (N.Y.) Chapter Records, 1983-1992. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <!-- Start series 1-->
-      <c01 level="series" id="nam_apap106-1">
+    <controlaccess>
+      <subject source="meg">Albany, New York</subject>
+      <subject source="meg">Social Activists and Public Advocates</subject>
+      <subject source="meg">Medicine and Health Care</subject>
+      <subject source="meg">Human Sexuality and Gender Identity</subject>
+      <subject source="meg">Criminal Justice and Prisons</subject>
+      <subject source="lcsh">HIV/AIDS awareness</subject>
+      <subject source="lcsh">HIV (Viruses)</subject>
+      <geogname source="lcsh">Albany (N.Y.)</geogname>
+      <genreform source="aat">Videocassettes</genreform>
+      <genreform source="aat">Newsletters</genreform>
+      <genreform source="aat">Administrative records</genreform>
+      <genreform source="aat">Minutes</genreform>
+      <genreform source="aat">Programs (documents)</genreform>
+      <corpname source="local">ACT UP, ALBANY (N.Y.) CHAPTER</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_ca37199989c630810eaf9d88b627568e" level="series">
         <did>
+          <unittitle>Administrative Files</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Administrative Files</unittitle>
-          <unitdate type="inclusive" normal="1989/1992">1989-1992</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.20</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.20 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1989/1992" type="inclusive">1989-1992</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_81e009fd0b905e4d8bb4f0029b236d3d">
+          <head>Arrangement</head>
           <p>Arranged alphabetically by subject.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_bc41e7159dc753d8729b4f3c90eac9fa">
+          <head>Scope and Contents</head>
           <p>This series contains records about the ACT UP Albany Chapter and other ACT UP chapters' materials dating from 1989 to 1992. It includes a handbook about ACT UP Chapter activism, AIDS education programs and lessons, correspondence and minutes, laws, and meeting notes.</p>
         </scopecontent>
-        <c02 id="nam_apap106-1_1">
+        <c02 id="aspace_33ce3cc7c7bcca8c9d06a537c57e3371" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>
               <emph render="italic">A Handbook for Activists, ACT UP</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_96e42a034f9e9b7222f448f99b2b2479" label="Mixed Materials" type="Box">1 (1-Administrative Files)</container>
+            <container id="aspace_119f5928dca274e08cc89f5eacf680f1" parent="aspace_96e42a034f9e9b7222f448f99b2b2479" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-1_2">
+        <c02 id="aspace_64c3e6fdb93d1346b55c6314dda6e8ad" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Activism, ACT UP Chapters, Maine, New Hampshire, New York, Philadelphia, and Shreveport</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991/1992">1991-1992</unitdate>
+            <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
+            <container id="aspace_bf02290a566d6b62092b5946271b817e" label="Mixed Materials" type="Box">1 (1-Administrative Files)</container>
+            <container id="aspace_cdf755b9bb12bc822e56325b7efd7cfb" parent="aspace_bf02290a566d6b62092b5946271b817e" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-1_3">
+        <c02 id="aspace_e060ec5c7ed1663201729177fee066f5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>AIDS Curriculum Lesson, City School District of Albany</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1992">Undated</unitdate>
+            <unitdate normal="1983/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_66cb693d94c053b7af078de5104eb7ba" label="Mixed Materials" type="Box">1 (1-Administrative Files)</container>
+            <container id="aspace_fa26cfaa19e080de81e99d51405971cd" parent="aspace_66cb693d94c053b7af078de5104eb7ba" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-1_4">
+        <c02 id="aspace_889dee2b315c9ad5cad1c2bb0ce08c43" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>AIDS Education and Preventive Guides and Programs</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1992">Undated</unitdate>
+            <unitdate normal="1983/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_bd671c7def438d0541d884ba7af3d439" label="Mixed Materials" type="Box">1 (1-Administrative Files)</container>
+            <container id="aspace_a8e2de9483ef62f907d242dc546cf097" parent="aspace_bd671c7def438d0541d884ba7af3d439" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-1_5">
+        <c02 id="aspace_b4d4d9269deb2143a44e87c6c3f63666" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Correspondence, Albany Chapter</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1991">1990-1991</unitdate>
+            <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+            <container id="aspace_33db4eed3dde378bfa44320537552b18" label="Mixed Materials" type="Box">1 (1-Administrative Files)</container>
+            <container id="aspace_0ec866a6bae6bfc1e4d73d5f5dc92555" parent="aspace_33db4eed3dde378bfa44320537552b18" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-1_6">
+        <c02 id="aspace_26492c397879166f88ac32ace28ee6a1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Correspondence, New York State</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1991">1989-1991</unitdate>
+            <unitdate normal="1989/1991" type="inclusive">1989-1991</unitdate>
+            <container id="aspace_7912e7179a6390fb5eae0457c8bdd892" label="Mixed Materials" type="Box">1 (1-Administrative Files)</container>
+            <container id="aspace_c338c7b71840886f0ab20e8a4e431935" parent="aspace_7912e7179a6390fb5eae0457c8bdd892" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-1_7">
+        <c02 id="aspace_f909f0212913833e93665eaf753d306d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Draft of Personnel Policies for Regular Employees, Social Justice Center</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_7969be201307881f5e7ed2275c9f14f9" label="Mixed Materials" type="Box">1 (1-Administrative Files)</container>
+            <container id="aspace_b742d3b9ab6e050579a261f2b55dc31d" parent="aspace_7969be201307881f5e7ed2275c9f14f9" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-1_8">
+        <c02 id="aspace_8f6538893d91c071f851785794848f05" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Health Systems Agency of Northeastern New York, Inc., Correspondence, Minutes, and Papers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1991">1990-1991</unitdate>
+            <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+            <container id="aspace_115fd5e7ccbe1189049239c1a0d9cb5b" label="Mixed Materials" type="Box">1 (1-Administrative Files)</container>
+            <container id="aspace_cc97042931e93dc4eab842fd1de3863f" parent="aspace_115fd5e7ccbe1189049239c1a0d9cb5b" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-1_9">
+        <c02 id="aspace_817e908fc00ba2b33e0493f359ed3dde" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Health Systems Agency of Northeastern New York, Inc., Correspondence, Minutes, and Papers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_0e1b78e3e613276535471764ccd8ae01" label="Mixed Materials" type="Box">1 (1-Administrative Files)</container>
+            <container id="aspace_8be730c42cbc401906d7370158874809" parent="aspace_0e1b78e3e613276535471764ccd8ae01" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-1_10">
+        <c02 id="aspace_b35b95cc24f18996cafaa5badf967df3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Laws, Human Rights, Penal, and Public Health</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1992">Undated</unitdate>
+            <unitdate normal="1983/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_4210e75c0b5d38a15d3d4bb467d74701" label="Mixed Materials" type="Box">1 (1-Administrative Files)</container>
+            <container id="aspace_1fcb460532800cd9b7ad82023d1226fd" parent="aspace_4210e75c0b5d38a15d3d4bb467d74701" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-1_11">
+        <c02 id="aspace_ef980e1d6bde9ae97372aa135ef62090" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Meeting Notes, Albany Chapter</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_1b74441da8498a832ebf44f433a074a8" label="Mixed Materials" type="Box">1 (1-Administrative Files)</container>
+            <container id="aspace_f91a7814cf2998485075000eb36e4e6e" parent="aspace_1b74441da8498a832ebf44f433a074a8" type="Folder">11</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap106-2">
+      <c01 id="aspace_e300b72f8abe3a2809e37f637e9fddeb" level="series">
         <did>
+          <unittitle>Subject Files</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Subject Files</unittitle>
-          <unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate>
-          <unitdate type="inclusive" normal="1987/1991">1987-1991</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.83</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.83 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate>
+          <unitdate normal="1987/1991" type="inclusive">1987-1991</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_a709c310895702bdc7a35365d6d505df">
+          <head>Arrangement</head>
           <p>Arranged alphabetically by subject.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_0ffb6f9ccc7e3e39b356033945127f88">
+          <head>Scope and Contents</head>
           <p>This series includes a VHS videotape titled <emph render="italic">A First Step: AIDS Prevention for Drug Abusers</emph>, material related to activism in Albany and other chapters, the annual report of the Albany County Department of Health including budget funding of AIDS programs, Board of Education policies, news clippings and news release from 1986 to 1991, and other materials from across the U.S.</p>
         </scopecontent>
-        <c02 id="nam_apap106-2_1">
+        <c02 id="aspace_ed4e554ddd80598cbadf80e115ce21a8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle><emph render="italic">A First Step: AIDS Prevention for Drug Abusers</emph>, VHS Tape</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1992">Undated</unitdate>
+            <unitdate normal="1983/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_b64b3dbc99613f9053365b1f2414571d" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_3e54fb2d2a7ac4474dfd65fd16ff5ed4" parent="aspace_b64b3dbc99613f9053365b1f2414571d" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-2_2">
+        <c02 id="aspace_04e446b4112f4bec4f971bdfd8663603" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Activism, ACT UP Chapters, Programs and Fliers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1992">1989-1992</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1992">Undated</unitdate>
+            <unitdate normal="1989/1992" type="inclusive">1989-1992</unitdate>
+            <unitdate normal="1983/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_97415e6a8a930e56e7238d27df80d6f9" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_2a94022c32c915fe0858f465deb4c15b" parent="aspace_97415e6a8a930e56e7238d27df80d6f9" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-2_3">
+        <c02 id="aspace_812995f9505cefc539ccebb2f1c7c133" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Activism, Albany Chapter, Programs, Fliers and Drafts</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1990">1989-1990</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1992">Undated</unitdate>
+            <unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate>
+            <unitdate normal="1983/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_fe78a999bffbc6b3c416a2c69a6937b1" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_80455d87d4e109c6d225496ccefe6a1a" parent="aspace_fe78a999bffbc6b3c416a2c69a6937b1" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-2_4">
+        <c02 id="aspace_d604b9a6a53846049aaa975e505dc8d9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Activism, Cornell Cooperative Extension Workshop</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_17b6e81c0909b17e4781c3d1931d4070" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_cd955a0167d93abfd239e9c6b8d7d025" parent="aspace_17b6e81c0909b17e4781c3d1931d4070" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-2_5">
+        <c02 id="aspace_baa20397eb2a2834d67068cd8eb2ef3d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Activism, Miller Brewing Company Boycott Fact Packet</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_42b8516e2400671240bc3110bba35480" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_7e9c5ca12b8319180109cbaee8dca963" parent="aspace_42b8516e2400671240bc3110bba35480" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-2_6">
+        <c02 id="aspace_ce5c83d40f95d17e1771c0291566349e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Activism, Prisons and AIDS</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_4659b6bcc6f2429facaf6637e6d31806" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_f49edd0d083c0271c2b9231cb8834ed0" parent="aspace_4659b6bcc6f2429facaf6637e6d31806" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-2_7">
+        <c02 id="aspace_8be5a8dc26920608808e81884778ceda" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Annual Report of Albany County Department of Health</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_44a7f3122c2314ff2eb7116888ca72d1" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_d5b33f97e4d8c1190b0b5b3901bb07f1" parent="aspace_44a7f3122c2314ff2eb7116888ca72d1" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-2_8">
+        <c02 id="aspace_12f9c9b2013d672544c2e6a72072a3c5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Board of Education Policies, Massachusetts, New York, and San Francisco</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990-1991">1990-1991</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+            <container id="aspace_0aa009d92d4ba24c8f6e150434734345" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_a6899538d4716c474915a32d03007ca0" parent="aspace_0aa009d92d4ba24c8f6e150434734345" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-2_9">
+        <c02 id="aspace_c9361bed01f1303ab243f1910637c3de" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Department of Social Services and the AIDS Institute, HIV Enhanced Fees for Physicians Program (HIV-EFD)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1992">Undated</unitdate>
+            <unitdate normal="1983/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_c1f4c9d2d751f814a59ea98c7942bc04" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_91255da05e14043d8b26c4a1fb23153d" parent="aspace_c1f4c9d2d751f814a59ea98c7942bc04" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-2_10">
+        <c02 id="aspace_a40745bac858f0c639ec482b98425af8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Exhibition of Brothers' Keepers Foundation, Russell Sage College Gallery</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_1360f1d1b3d5b1a517071d097b7c4250" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_77529a1632b8aa81b88bce8c3d8431fd" parent="aspace_1360f1d1b3d5b1a517071d097b7c4250" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-2_11">
+        <c02 id="aspace_c27f82cb917c623e6dbbc6bdbfb874ea" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>HIV Regional Forum, State of New York Department of Health</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_806b4c8bbfd36392aad57395b1d657e9" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_0ad5040f26f462af22027746d0276ac0" parent="aspace_806b4c8bbfd36392aad57395b1d657e9" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-2_12">
+        <c02 id="aspace_1e4197d9065ada524b245dc2983fd1df" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>News Clippings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1984">1983-1984</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1991">1987-1991</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1992">Undated</unitdate>
+            <unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate>
+            <unitdate normal="1987/1991" type="inclusive">1987-1991</unitdate>
+            <unitdate normal="1983/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_3008f673ac1c39876a732369a6231dc8" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_42303970836344d22d4cba0f773f7994" parent="aspace_3008f673ac1c39876a732369a6231dc8" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-2_13">
+        <c02 id="aspace_a27f299c5e981f6e9892fe45ab21fe8a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>News Release</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1990">1989-1990</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1992">Undated</unitdate>
+            <unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate>
+            <unitdate normal="1983/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_d2309af40e31add4a6af56b5667a3e2b" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_8fab2e3ad1c94c9f4bbac879c5d8d65b" parent="aspace_d2309af40e31add4a6af56b5667a3e2b" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-2_14">
+        <c02 id="aspace_a408f2868cbf9b4fd5e9c5454e7e3c9f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Plan for HIV/AIDS Services in Northeastern New York, Draft</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1991">1990-1991</unitdate>
+            <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+            <container id="aspace_ffe90fc8dc5c60aa999026961de18383" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_7262538c953c01eea0a0c42dc186be6f" parent="aspace_ffe90fc8dc5c60aa999026961de18383" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-2_15">
+        <c02 id="aspace_fc9f63042de4115bc5d386b6161a41d2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Public Comments on AIDS, Public Forum</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_6f6d19ab987d0d9be809964e67185dad" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_f50df54aa575d9fb7b51865c73959632" parent="aspace_6f6d19ab987d0d9be809964e67185dad" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-2_16">
+        <c02 id="aspace_312b813e1c9c29f7321f2919b75df136" level="file">
           <did>
-            <container type="Oversized">1</container>
-            <container type="Folder">1</container>
             <unittitle>Activism, Albany Chapter, Posters</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1992">Undated</unitdate>
+            <unitdate normal="1983/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_742bb6ce26e11df8c0467b1dcdd11e35" label="Mixed Materials" type="Oversized">1</container>
+            <container id="aspace_c93d8697339f5e4c0f45c6d84b952786" parent="aspace_742bb6ce26e11df8c0467b1dcdd11e35" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-2_17">
+        <c02 id="aspace_99a7eb51b6f53bc32080839b7746dbf0" level="file">
           <did>
-            <container type="Oversized">1</container>
-            <container type="Folder">2</container>
             <unittitle>Activism, Posters and Fliers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1992">Undated</unitdate>
+            <unitdate normal="1983/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_75a690015f4850663fff355997f9201a" label="Mixed Materials" type="Oversized">1</container>
+            <container id="aspace_c2fe2201538aeb0cd4c8b402179cec5d" parent="aspace_75a690015f4850663fff355997f9201a" type="Folder">2</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap106-3">
+      <c01 id="aspace_6e190a265fe453696664f7abe35157be" level="series">
         <did>
+          <unittitle>Publications</unittitle>
           <unitid>3</unitid>
-          <unittitle label="Series">Publications</unittitle>
-          <unitdate type="inclusive" normal="1988/1992">1988-1992</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">1.44</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.44 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1988/1992" type="inclusive">1988-1992</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_3aee3260de8b9ddfdf272b0ed5e88115">
+          <head>Arrangement</head>
           <p>Arranged alphabetically by subject.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_c8cc21f2ac746389678c9e8c8c31a495">
+          <head>Scope and Contents</head>
           <p>This series documents many reports and publications relating to AIDS published by various organizations. Some of these organizations include the New York State Department of Health, Office of the Attorney General, and the New York African American Institute. Various newsletters and magazine, journals, and handbooks are also included.</p>
         </scopecontent>
-        <c02 id="nam_apap106-3_1">
+        <c02 id="aspace_b8a9aaa8695346c8f30afe291f18962a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>
               <emph render="italic">A Guide to HIV Counseling and Testing, New York State</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_37e5abb2f89464f4bbccaa009eed982c" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_491b6d521b39cf9193a2d57c0d94c5b4" parent="aspace_37e5abb2f89464f4bbccaa009eed982c" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_2">
+        <c02 id="aspace_e2703f267a20eefc65814b496b4de30b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>
               <emph render="italic">Albany County Health Assessment</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_1719413c3619b18244442be497e9b268" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_fb2687953fe2f0fe8a9a258c85094e1e" parent="aspace_1719413c3619b18244442be497e9b268" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_3">
+        <c02 id="aspace_115ce442a7f71a9a2c66a54e29d186ef" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>AIDS Directories, New York State</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1991">1990-1991</unitdate>
+            <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+            <container id="aspace_e01f32742ac9f4ab73c510cf23e6f05c" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_0332d61225650b70913723c6a3b90112" parent="aspace_e01f32742ac9f4ab73c510cf23e6f05c" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_4">
+        <c02 id="aspace_90667e1cf397fd8620196268007649ef" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>AIDS in New York State, New York State Department of Health</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/1989">1987-1989</unitdate>
+            <unitdate normal="1987/1989" type="inclusive">1987-1989</unitdate>
+            <container id="aspace_10577e9406cafa73071f17f272ebc225" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_23749a8793d35a2d8ddb16da9531b142" parent="aspace_10577e9406cafa73071f17f272ebc225" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_5">
+        <c02 id="aspace_1ee28093976cf16a57344a0531a693a8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>
               <emph render="italic">AIDS New York's Response</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989">1989</unitdate>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_8f8493c6897b1a6db79f6f226172adf5" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_d2b7ee16e9657fef14b7aaf55b33190a" parent="aspace_8f8493c6897b1a6db79f6f226172adf5" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_6">
+        <c02 id="aspace_11109ac431ac0bcf4ee2ed8a5010227d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle><emph render="italic">AIDS Surveillance Monthly Update</emph>, New York State</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_987544288b02c40b486d41aed5405518" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_8880bd7bb4aa71a7bafd811d6d8bd068" parent="aspace_987544288b02c40b486d41aed5405518" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_7">
+        <c02 id="aspace_55a54cf64d09c4288bd233ca6d58bdde" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle><emph render="italic">AIDS Update</emph>, New York State Department of Social Services, Newsletters</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_99d8f38e5623efa5f6ebcd0b71cef99a" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_066dae0bb3437bc27b69edbef4da9c76" parent="aspace_99d8f38e5623efa5f6ebcd0b71cef99a" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_8">
+        <c02 id="aspace_2b2af130fed78ca0aff5fa40708296af" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>
               <emph render="italic">Budget of New York State</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1991">1990-1991</unitdate>
+            <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+            <container id="aspace_19abe5b000c249060d1275cf261321c6" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_3b7ee62f072d2e654fc124c62ec3fc43" parent="aspace_19abe5b000c249060d1275cf261321c6" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_9">
+        <c02 id="aspace_d44ad33f2e13dbdf169ae0c8bdfecfa0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle><emph render="italic">Focus on AIDS in New York State</emph>, Newsletters</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1991">1990-1991</unitdate>
+            <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+            <container id="aspace_c453aac245fa527e908f55ba67872f1b" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_5505d26b2bde949057889555080c62d6" parent="aspace_c453aac245fa527e908f55ba67872f1b" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_10">
+        <c02 id="aspace_551ffb096cac4cbacf6d85ff93e19b0f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Handbooks</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1991">1989-1991</unitdate>
+            <unitdate normal="1989/1991" type="inclusive">1989-1991</unitdate>
+            <container id="aspace_630c75bd1cbfb2bde31c9bae3863b3c7" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_0556223682e7104cf1c28cf5686e6c23" parent="aspace_630c75bd1cbfb2bde31c9bae3863b3c7" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_11">
+        <c02 id="aspace_76aff856bccb22cb9da75d3a71f5a578" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle><emph render="italic">HIV Regulations 1070 and 1072</emph>, New York State Division of Substance Abuse Services</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989">1989</unitdate>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_d3801d669ec75e036004198568c8b822" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_c29b8011353a25821334d839646d9a9f" parent="aspace_d3801d669ec75e036004198568c8b822" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_12">
+        <c02 id="aspace_a000ca526874d7c92bb26433c4c585ca" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle><emph render="italic">Icons and Actions; ACT UP and the Construction of a Nemesis</emph>, Research Paper</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_8599c8873099a18ec2299b31c3a18a08" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_bb2765eb5d9e090e726838ab27dc8366" parent="aspace_8599c8873099a18ec2299b31c3a18a08" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_13">
+        <c02 id="aspace_4860877081a169c5b6d9e79ddb9828fe" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Journals</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1992">1990-1992</unitdate>
+            <unitdate normal="1990/1992" type="inclusive">1990-1992</unitdate>
+            <container id="aspace_f4dfacb41483a6181dbb5937a60f8a7a" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_f81ca8e0491bb57a5abbc95658c6393c" parent="aspace_f4dfacb41483a6181dbb5937a60f8a7a" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_14">
+        <c02 id="aspace_a06f8ce5037cb8d790585620d2bc0ad1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>
               <emph render="italic">Living with AIDS: United Church of Christ Perspectives</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_8b829c9e5672aa58cb8f7f41bf98a335" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_5c6350c4cd16ebf10b3a051b12d25857" parent="aspace_8b829c9e5672aa58cb8f7f41bf98a335" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_15">
+        <c02 id="aspace_c36f315b575415248c18df6eacb8834d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Magazines</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_3b50f54fab592103925b27a3f0db75dd" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_937b4118772830c3d0b4310b7b1a4a29" parent="aspace_3b50f54fab592103925b27a3f0db75dd" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_16">
+        <c02 id="aspace_0821514959c4288850ccb2a45924a46d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle><emph render="italic">National Commission on AIDS</emph>, HIV Disease in Correctional Facilities, Reports</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_a48c802a0b7bb0af57c980dffad74bfc" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_d9ab54ab77e3216fc5ca21cf0969e363" parent="aspace_a48c802a0b7bb0af57c980dffad74bfc" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_17">
+        <c02 id="aspace_34fbf9b870ca3af90eb75e322edef5f6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>Newsletters</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1991">1990-1991</unitdate>
+            <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+            <container id="aspace_c7a014125f9bdb2c5bbec7f65b848cf6" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_d0e102342d81f32454c4130e282bac44" parent="aspace_c7a014125f9bdb2c5bbec7f65b848cf6" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_18">
+        <c02 id="aspace_1d13c175bf96dba8f57d4dd62be283e8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle><emph render="italic">PWA Support</emph>, Newsletters</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1990">1989-1990</unitdate>
+            <unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate>
+            <container id="aspace_8eab26a7f524b2e023eb233ece12ae9a" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_98f226ca15e022143aed3117ea70e6b9" parent="aspace_8eab26a7f524b2e023eb233ece12ae9a" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_19">
+        <c02 id="aspace_7ae5686ad7f84652f625a19c72c12e5e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>Reports</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1991">1989-1991</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1992">1983-1992</unitdate>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <unitdate normal="1989/1991" type="inclusive">1989-1991</unitdate>
+            <unitdate normal="1983/1992" type="inclusive">1983-1992</unitdate>
+            <container id="aspace_4839a200e785ec2bd8828a830b723804" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_5473d895b2f80fb3b35d0b0a5f7fb0cc" parent="aspace_4839a200e785ec2bd8828a830b723804" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_20">
+        <c02 id="aspace_c0c8f4036b14d38d99bc37d291d450be" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>Reports, ACT UP</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_3e43292d78ff3cbbe35b203bbbdc2ee3" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_516a003a9ac9a13f12553648b9085f60" parent="aspace_3e43292d78ff3cbbe35b203bbbdc2ee3" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_21">
+        <c02 id="aspace_2f1c6472397cf713340d2134ee889cc9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>Report, Commission on Racial, Ethnic, Religious, and Minority Violence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_c8c461a0b9010f3cba45c20b79038caf" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_e9fb6cd767b83a7fd186c8f0133ef835" parent="aspace_c8c461a0b9010f3cba45c20b79038caf" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_22">
+        <c02 id="aspace_75551c41d872e5273bd1794f9e1de1c5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>Report, Committee on Children, Youth, and Families</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1992">Undated</unitdate>
+            <unitdate normal="1983/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_07e917a6fcb844c2feda750af3bf136e" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_1ff9468d12510b340f39fadc5168029d" parent="aspace_07e917a6fcb844c2feda750af3bf136e" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_23">
+        <c02 id="aspace_0631d12e270895f1a9dfc6a91a42ac4e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23</container>
             <unittitle>Reports, The Coalition for Safe Health Care</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_a66f7b2ed9d144cf2eff3bafef8adc03" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_3426b9cd5fef1333563d6720b3894865" parent="aspace_a66f7b2ed9d144cf2eff3bafef8adc03" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_24">
+        <c02 id="aspace_6bfbb707fd13ebd43930a6c1ff8fd06b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">24</container>
             <unittitle>Report, The VII AIDS Conference Report</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1992">Undated</unitdate>
+            <unitdate normal="1983/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_f674b0f020f15d7064ad16e535105634" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_7191ffbe93d37456296299898f70ffd4" parent="aspace_f674b0f020f15d7064ad16e535105634" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_25">
+        <c02 id="aspace_027e7db734c0ca193615480d1b3cbd1a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">25</container>
             <unittitle>Research Papers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1992">Undated</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <unitdate normal="1983/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_c24754cbee2f703c21aa4e2d23e3cd66" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_9b4760b9a5b5490e10b04a24635f684c" parent="aspace_c24754cbee2f703c21aa4e2d23e3cd66" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_26">
+        <c02 id="aspace_9ce7227fc9b2565e0005682e636728d2" level="file">
           <did>
-            <container type="Oversized">1</container>
-            <container type="Folder">3</container>
             <unittitle><emph render="italic">Gay Community News</emph>, Newsletters</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1989">1988-1989</unitdate>
+            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container id="aspace_1f8d796efd3a6ecfe5971458523c71d7" label="Mixed Materials" type="Oversized">1</container>
+            <container id="aspace_4ca291085f76802d3ee0b7fb31b9d0d7" parent="aspace_1f8d796efd3a6ecfe5971458523c71d7" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_27">
+        <c02 id="aspace_a15d9d10225628c0cdc833d343082953" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle><emph render="italic">Gay Community News</emph>, Newsletters</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/1991">1990-1991</unitdate>
+            <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+            <container id="aspace_6fa6db151e83ee60ef3e247042f1ced8" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_4b2d0b5a8e93d1ba0c438f6e96af643c" parent="aspace_6fa6db151e83ee60ef3e247042f1ced8" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap106-3_28">
+        <c02 id="aspace_15fa259f6b3823f92a3860c6f291e82f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle><emph render="italic">Gay Community News</emph>, Newsletters</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_69d25cce5de3dcdefb290f690379cd30" label="Mixed Materials" type="Box">1 (3-Publications)</container>
+            <container id="aspace_68b54bf50d5fae53d001358a1c7c6065" parent="aspace_69d25cce5de3dcdefb290f690379cd30" type="Folder">5</container>
           </did>
         </c02>
       </c01>

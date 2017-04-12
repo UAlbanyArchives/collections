@@ -1,187 +1,119 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua802.010">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/ua802.010.xml" identifier="ua802.010">nam_ua802.010</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua802.010">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua802.010.xml">ua802.010</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>ROGER T. CONANT PAPERS (UA802.010)<date normal="1971" type="inclusive">1971</date></titleproper>
+        <titleproper>Conant, Roger T.; Papers <num>ua802.010</num></titleproper>
         <author>Jodi Boyle</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2014">Copyright 2014 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2014</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Jodi Boyle<date normal="2013">2014</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 17:03:17 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date/>
-        <item/>
+        <date>2013</date>
+        <item>Encoded in EAD by Jodi Boyle</item>
       </change>
     </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>ROGER T. CONANT PAPERS (UA802.010)<date normal="1971" type="inclusive">1971</date>
-      </titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2014</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua802.010</unitid>
-      <unittitle>Roger T. Conant Papers <unitdate type="inclusive" normal="1817/2012" label="Date:">
-          1971</unitdate>
-      </unittitle>
-      <physdesc label="Physical Characteristics:">
-        <extent unit="cubic ft.">0.2</extent>
-      </physdesc>
-      <origination>
-        <persname encodinganalog="100" source="local">Conant, Roger T. (Historian)</persname>
-      </origination>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">The Roger T. Conant Papers document his friendship with fellow
-        University at Albany graduate student Vicki Gekas.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Roger T. Conant Papers<unitdate normal="1817/2012" type="inclusive">1971</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="local">Conant, Roger T. (Historian)</persname>
+      </origination>
+      <unitid>ua802.010</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.2 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_819c933e50b1c6eed7b9b9d4000e7fc8">The Roger T. Conant Papers document his friendship with fellow University at Albany graduate student Vicki Gekas.</abstract>
+      <langmaterial id="aspace_1fbf4b2b522b285f67f2ef87ac986d17">English</langmaterial>
+      <physloc id="aspace_fcc86cdf392be44769bb7537a5f5d5dd">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_225c26301b942b2d615def6915ddc2b5">
+      <head>Processing Information</head>
+      <p>Processed in 2014 by Jodi Boyle.</p>
+    </processinfo>
+    <accessrestrict id="aspace_43b59774cfe0999064ca770fd6af6d96">
       <head>Access</head>
-      <p> Access to this collection is unrestricted. </p>
+      <p>Access to this collection is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_0d693b014b89dd51e48e1a823f91ed4d">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_39dc22e572a70b558fbe8786697c2c73">
       <head>Acquisition Information</head>
-      <p>Roger Conant donated the collection to the M.E. Grenander Department of Special Collections
-        &amp; Archives in 2013. After digitizing all images, the Department returned the campus
-        protest photograph to the donor per his request at the time of donation. </p>
+      <p>Roger Conant donated the collection to the M.E. Grenander Department of Special Collections &amp; Archives in 2013. After digitizing all images, the Department returned the campus protest photograph to the donor per his request at the time of donation.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_a360ddff4000d7388a4f5172b59abc33">
       <head>Biographical Sketch</head>
-      <p>Roger Conant, a graduate student in the Department of History, met Vasiliki "Vicki" Gekas
-        when he arrived at the University at Albany in the 1970 winter semester. Both lived in
-        Brubacher Hall, the graduate student dormitory on Alumni Quad. Born in Greece, Gekas
-        emigrated to Rochester, NY as a child. She received her bachelor of arts degree from the
-        University at Albany in 1969 and returned for graduate studies. Both she and Conant received
-        master of arts degrees from the University in 1972.</p>
-      <p>Gekas was the inspiration for the main character in <title><emph render="italic">Las Isla
-            de los Jacinto Cortados (The Island of the Cut Hyacinths)</emph></title> (1980) by
-        award-winning Spanish novelist Gonzalo Torrente Ballester. Torrente Ballester joined the
-        Department of Romance Languages and Literatures at the University at Albany in 1966 and
-        remained until 1972. During this period, he met Gekas and later wrote about her in the novel
-        which is partially set on and near the University at Albany campus, features some real
-        professors and other students (some named, some with pseudonyms) and focuses on a love
-        triangle.</p>
-      <p>Today Conant is a historian and filmmaker specializing in the cultural heritage of East
-        Central Europe. </p>
+      <p>Roger Conant, a graduate student in the Department of History, met Vasiliki "Vicki" Gekas when he arrived at the University at Albany in the 1970 winter semester. Both lived in Brubacher Hall, the graduate student dormitory on Alumni Quad. Born in Greece, Gekas emigrated to Rochester, NY as a child. She received her bachelor of arts degree from the University at Albany in 1969 and returned for graduate studies. Both she and Conant received master of arts degrees from the University in 1972.</p>
+      <p> Gekas was the inspiration for the main character in <title><emph render="italic">Las Isla de los Jacinto Cortados (The Island of the Cut Hyacinths)</emph></title> (1980) by award-winning Spanish novelist Gonzalo Torrente Ballester. Torrente Ballester joined the Department of Romance Languages and Literatures at the University at Albany in 1966 and remained until 1972. During this period, he met Gekas and later wrote about her in the novel which is partially set on and near the University at Albany campus, features some real professors and other students (some named, some with pseudonyms) and focuses on a love triangle.</p>
+      <p> Today Conant is a historian and filmmaker specializing in the cultural heritage of East Central Europe.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>This small collection contains photographs of Vicki Gekas retained by Roger Conant and
-        correspondence from Gekas to Conant while both were students at the University at Albany.
-        Five of the photographs of Gekas were taken in Brubacher Hall during an April 1971
-        celebration on International Students' Night. A sixth (digital image only) is from an April
-        1971 campus protest seeking an end to United States support of the Greek military junta.</p>
-      <p>For additional materials about Gonzalo Torrente Ballester, please see the Gonzalo Torrente
-        Ballester Papers (MSS-029). Additional photographs of student activities are found in
-        University Archives.</p>
+    <scopecontent id="aspace_7df12ede63d1f766dfc2662cc302df03">
+      <head>Scope and Contents</head>
+      <p>This small collection contains photographs of Vicki Gekas retained by Roger Conant and correspondence from Gekas to Conant while both were students at the University at Albany. Five of the photographs of Gekas were taken in Brubacher Hall during an April 1971 celebration on International Students' Night. A sixth (digital image only) is from an April 1971 campus protest seeking an end to United States support of the Greek military junta.</p>
+      <p> For additional materials about Gonzalo Torrente Ballester, please see the Gonzalo Torrente Ballester Papers (MSS-029). Additional photographs of student activities are found in University Archives.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_5ce19ccf997279b365bb0f5859bb8115">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized alphabetically. There are no series.</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-           Try to give as many access points as you can to increase the chances of 
-           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-           to comment them out! -->
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <persname encodinganalog="600" source="local">Conant, Roger T. (Historian)</persname>
-      <persname encodinganalog="600" source="lcsh">Torrente Ballester, Gonzalo</persname>
-      <corpname encodinganalog="610" source="lcsh">State University of New York at
-        Albany--Students</corpname>
-      <subject encodinganalog="650" source="lcsh">Student protesters--New York
-        (State)--Albany</subject>
-      <subject encodinganalog="650" source="lcsh">Student activities--New York
-        (State)--Albany</subject>
-      <genreform encodinganalog="655" source="lcsh">Photographs</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-    </controlaccess>
-    <prefercite encodinganalog="524">
+    <prefercite id="aspace_9004a02a0ae7b93f440d5c4caf31b3c2">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Roger T. Conant Papers, 1971. M.E.
-        Grenander Department of Special Collections and Archives, University Libraries, University
-        at Albany, State University of New York (hereafter referred to as the Conant Papers).</p>
+      <p> Identification of specific item, series, box, folder, Roger T. Conant Papers, 1971. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Conant Papers).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_ua802.010-1">
+    <controlaccess>
+      <subject source="lcsh">Student protesters--New York (State)--Albany</subject>
+      <subject source="lcsh">Student activities--New York (State)--Albany</subject>
+      <genreform source="lcsh">Photographs</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <persname source="local">Conant, Roger T. (Historian)</persname>
+      <persname source="lcsh">Torrente Ballester, Gonzalo</persname>
+      <corpname source="lcsh">State University of New York at Albany--Students</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_0f6168585e4a4cfff4a9077e54be1513" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
-          <unittitle>Pascal's<title><emph render="italic">Pensées</emph></title> with Inscription
-            by Gekas on Front and Back Inside Covers</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966/1976">ca.
-            1971</unitdate>
+          <unittitle>Pascal's<title><emph render="italic">PensĂŠes</emph></title> with Inscription by Gekas on Front and Back Inside Covers</unittitle>
+          <unitdate normal="1966/1976" type="inclusive">ca. 1971</unitdate>
+          <container id="aspace_0cddf71f2642dfd5bbabad86c6a30340" label="Mixed Materials" type="Box">1 (Roger T. Conant Papers )</container>
+          <container id="aspace_abfc3f0b970bb96c092ec293b6b5b02c" parent="aspace_0cddf71f2642dfd5bbabad86c6a30340" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua802.010-2">
+      <c01 id="aspace_9c8bce6370dc66726286257422490a51" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Photographs of International Student Night and Campus Protest</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+          <container id="aspace_559d0df602b98ffb125de8f8bc0061ff" label="Mixed Materials" type="Box">1 (Roger T. Conant Papers )</container>
+          <container id="aspace_2526b8122e3797bf9b1c6ac28f4454af" parent="aspace_559d0df602b98ffb125de8f8bc0061ff" type="Folder">2</container>
         </did>
-        <scopecontent>
-          <p> Please access the photographs from the International Students' Night celebration
-              <archref linktype="simple" href="http://luna.albany.edu/luna/servlet/view/search/what/1971+International+Students%27+Night" actuate="onrequest" show="new">in LUNA</archref>. The digital image of the campus
-            protest is found <archref linktype="simple" href="http://luna.albany.edu/luna/servlet/detail/UALBANYSCA~14~14~172503~124395:Roger-T--Conant-Papers?qvq=q:nam_ua_802.010_000006" actuate="onrequest" show="new">here</archref>. </p>
+        <scopecontent id="aspace_912eabf9907e0a526a461fa9a5977075">
+          <head>Scope and Contents</head>
+          <p>Please access the photographs from the International Students' Night celebration <archref linktype="simple" href="http://luna.albany.edu/luna/servlet/view/search/what/1971+International+Students%27+Night" actuate="onrequest" show="new">in LUNA</archref>. The digital image of the campus protest is found <archref linktype="simple" href="http://luna.albany.edu/luna/servlet/detail/UALBANYSCA~14~14~172503~124395:Roger-T--Conant-Papers?qvq=q:nam_ua_802.010_000006" actuate="onrequest" show="new">here</archref>.</p>
         </scopecontent>
       </c01>
-      <c01 id="nam_ua802.010-3">
+      <c01 id="aspace_30dcf730173a5583bc1910641d37af58" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>Postcard from Gekas to Conant</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+          <container id="aspace_b136db41efbba51418bb009fe09606a5" label="Mixed Materials" type="Box">1 (Roger T. Conant Papers )</container>
+          <container id="aspace_ede36cc7b410f53c13257e2fd76ca655" parent="aspace_b136db41efbba51418bb009fe09606a5" type="Folder">3</container>
         </did>
       </c01>
     </dsc>

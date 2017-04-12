@@ -1,187 +1,148 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap075">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap075.xml" identifier="##">nam_apap075</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap075">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap075.xml">apap075</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>ALBANY ALLIED PRINTING TRADES COUNCIL RECORDS (APAP075)<date normal="1908/1990" type="inclusive">1908-1990</date></titleproper>
+        <titleproper>Albany Allied Printing Trades Council; Records <num>apap075</num></titleproper>
         <author>Amy C. Schindler</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2002">Copyright 2002 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2002</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Elise Harms<date normal="2014">2014</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 14:14:43 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Encoded in EAD by Elise Harms</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>ALBANY ALLIED PRINTING TRADES COUNCIL RECORDS (APAP075)<date normal="1908/1990" type="inclusive">1908-1990</date></titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2002</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap075</unitid>
-      <unittitle>Albany Allied Printing Trades Council Records<unitdate type="inclusive" normal="1908/1990" label="Date:"> 1908-1990</unitdate></unittitle>
-      <origination>
-        <corpname encodinganalog="110" source="local">Allied Printing Trades Council (Albany, N.Y.) </corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">0.33</extent>
-      </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">The Albany Allied Printing Trades Council Collection contains meeting minutes
-	  of the Council dating from 1908-1990.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Albany Allied Printing Trades Council Records<unitdate normal="1908/1990" type="inclusive">1908-1990</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">Allied Printing Trades Council (Albany, N.Y.)</corpname>
+      </origination>
+      <unitid>apap075</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.33 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_81d6af1ab204a10eac89e9a2119676b6">The Albany Allied Printing Trades Council Collection contains meeting minutes of the Council dating from 1908-1990.</abstract>
+      <langmaterial id="aspace_afaf26c6ed1227bc86ae318c5c94ea26">English</langmaterial>
+      <physloc id="aspace_94f1192753e79da81878006523212bee">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_942b756d1f6dba03ef3a05864c45a4dd">
+      <head>Processing Information</head>
+      <p>Processed in 2002 by Amy C. Schindler.</p>
+    </processinfo>
+    <accessrestrict id="aspace_69ecf30a9c50f4f53b4ac5717d6b7883">
       <head>Access</head>
-      <p> Access to this record group is unrestricted. </p>
+      <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_6108026de060ce9d12fe6ebbd49a381a">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_c11d1af040f9735f260f2e192fe52c2d">
       <head>Acquisition Information</head>
-      <p>All items in this manuscript group were loaned to the University Libraries, M.E. Grenander 
-	  Department of Special Collections and Archives, for preservation photocopying by the Albany 
-	  Allied Printing Trades Council. </p>
+      <p>All items in this manuscript group were loaned to the University Libraries, M.E. Grenander Department of Special Collections and Archives, for preservation photocopying by the Albany Allied Printing Trades Council.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_c9f112437e34ffd549875adc1daa6ad4">
       <head>Organizational Sketch</head>
-      <p>The Albany Allied Printing Trades Council was an organization of local unions involved in 
-	  all aspects of the printing trade in Albany, New York. Council members came from the International 
-	  Typographical Union, the International Printing Pressmen and Assistants' Union, the International 
-	  Brotherhood of Bookbinders, the International Stereotypers and Electrotypers' Union, the International 
-	  Photoengravers' Union, and the International Mailers' Union. The composition of the council included 
-	  those local unions whose members were printers, bookbinders, stereotypers, electrotypers, photoengravers,
-	  and mailers. Each union was entitled to have three delegates as representatives on the Council. The 
-	  Council oversaw use of the union label and worked for the common interests of the unions it represented. 
-	  It did not work as a bargaining agent, but left those interests to affiliated unions.
-</p>
+      <p>The Albany Allied Printing Trades Council was an organization of local unions involved in all aspects of the printing trade in Albany, New York. Council members came from the International Typographical Union, the International Printing Pressmen and Assistants' Union, the International Brotherhood of Bookbinders, the International Stereotypers and Electrotypers' Union, the International Photoengravers' Union, and the International Mailers' Union. The composition of the council included those local unions whose members were printers, bookbinders, stereotypers, electrotypers, photoengravers, and mailers. Each union was entitled to have three delegates as representatives on the Council. The Council oversaw use of the union label and worked for the common interests of the unions it represented. It did not work as a bargaining agent, but left those interests to affiliated unions.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The Albany Allied Printing Trades Council collection contains meeting minutes from 1908-1915 
-	  and 1930-1988. Council by-laws are available from 1910, 1967, and 1990. The Council's correspondence 
-	  is sporadic from 1959 through 1985. The collection also includes the Council's union label slug.
-</p>
-      <p>For additional labor collections in the M.E. Grenander Department of Special Collections and 
-	  Archives, consult the subject guide for Labor.
-</p>
+    <scopecontent id="aspace_6d23a6274bd0ddf28f7312f072dbecc2">
+      <head>Scope and Contents</head>
+      <p>The Albany Allied Printing Trades Council collection contains meeting minutes from 1908-1915 and 1930-1988. Council by-laws are available from 1910, 1967, and 1990. The Council's correspondence is sporadic from 1959 through 1985. The collection also includes the Council's union label slug.</p>
+      <p> For additional labor collections in the M.E. Grenander Department of Special Collections and Archives, consult the subject guide for Labor.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_fb15eae70939011aa094c30b2bf6f148">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized alphabetically. There are no series.</p>
     </arrangement>
-    <controlaccess>
-      <subject source="meg" encodinganalog="650">Albany, New York</subject>
-      <subject source="meg" encodinganalog="650">Labor</subject>
-      <head>Subject and Genre Headings</head>
-      <corpname encodinganalog="610" source="local">The Albany Allied Printing Trades Council</corpname>
-      <subject encodinganalog="650" source="lcsh">Labor unions--History--19th century
-			</subject>
-      <subject encodinganalog="650" source="lcsh">Labor unions--History--20th century
-			</subject>
-      <subject encodinganalog="650" source="lcsh">Printing--United States--History</subject>
-      <geogname encodinganalog="651" source="lcsh">New York (State)</geogname>
-      <genreform encodinganalog="655" source="aat">Minutes</genreform>
-      <genreform encodinganalog="655" source="aat">Administrative records</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Bylaws</genreform>
-    </controlaccess>
-    <prefercite>
+    <prefercite id="aspace_14b7ee81d9f86b9b3ab89cdd808e95c8">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Albany Allied Printing Trades Council Records,  1908-1990. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, Albany Allied Printing Trades Council Records, 1908-1990. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_apap075-1">
+    <controlaccess>
+      <subject source="meg">Albany, New York</subject>
+      <subject source="meg">Labor</subject>
+      <subject source="lcsh">Labor unions--History--19th century</subject>
+      <subject source="lcsh">Labor unions--History--20th century</subject>
+      <subject source="lcsh">Printing--United States--History</subject>
+      <geogname source="lcsh">New York (State)</geogname>
+      <genreform source="aat">Minutes</genreform>
+      <genreform source="aat">Administrative records</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Bylaws</genreform>
+      <corpname source="local">The Albany Allied Printing Trades Council</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_5e48f9906e28ccc6dafa6c0e402b8b1b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>Constitution and By-laws</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1910">
-              1910</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">
-              1967</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">
-              1990</unitdate>
+          <unitdate normal="1910/1910" type="inclusive">1910</unitdate>
+          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+          <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+          <container id="aspace_9393eed687d28e07c9c049435f3871cf" label="Mixed Materials" type="Box">1 (Albany Allied Printing Trades Council Records)</container>
+          <container id="aspace_0cc0872a2f7d079c69694076c6e336ab" parent="aspace_9393eed687d28e07c9c049435f3871cf" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap075-2">
+      <c01 id="aspace_df7b2ecf538ba9378146d1c34edb50b3" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Correspondence</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959/1960">1959-1960</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/1968">
-              1963-1968</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970/1977">
-              1970-1977</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1980">
-              1979-1980</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">
-              1983</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">
-              1985</unitdate>
+          <unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate>
+          <unitdate normal="1963/1968" type="inclusive">1963-1968</unitdate>
+          <unitdate normal="1970/1977" type="inclusive">1970-1977</unitdate>
+          <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
+          <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+          <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+          <container id="aspace_a5183368dc4b7cf29ba06b9368287823" label="Mixed Materials" type="Box">1 (Albany Allied Printing Trades Council Records)</container>
+          <container id="aspace_04038f876928fc9f57140c47ae0450bc" parent="aspace_a5183368dc4b7cf29ba06b9368287823" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap075-3">
+      <c01 id="aspace_21a79ccb45d5015ebaf86e81e68ecd1e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1908/1915">1912-1913</unitdate>
+          <unitdate normal="1908/1915" type="inclusive">1912-1913</unitdate>
+          <container id="aspace_dc40d04e345dba78b07e1db4b9ef5d6f" label="Mixed Materials" type="Box">1 (Albany Allied Printing Trades Council Records)</container>
+          <container id="aspace_bbc2fb7eb974d855d46381f7987ca90b" parent="aspace_dc40d04e345dba78b07e1db4b9ef5d6f" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap075-4">
+      <c01 id="aspace_9300dad27ecfab6b45f6b2dc08ca8b4f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1930/1956">1930-1956</unitdate>
+          <unitdate normal="1930/1956" type="inclusive">1930-1956</unitdate>
+          <container id="aspace_c0e46846153c7ef3ac58fc76ffb8d5fd" label="Mixed Materials" type="Box">1 (Albany Allied Printing Trades Council Records)</container>
+          <container id="aspace_3276bd7e025e58d72b48a785e1537743" parent="aspace_c0e46846153c7ef3ac58fc76ffb8d5fd" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap075-5">
+      <c01 id="aspace_76a15fc256e198c4458f1593609def7d" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956/1988">1956-1988</unitdate>
+          <unitdate normal="1956/1988" type="inclusive">1956-1988</unitdate>
+          <container id="aspace_248ae02549f231d81c7f73283b1fc062" label="Mixed Materials" type="Box">1 (Albany Allied Printing Trades Council Records)</container>
+          <container id="aspace_d8130e55cc06652134956669de25acdb" parent="aspace_248ae02549f231d81c7f73283b1fc062" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap075-6">
+      <c01 id="aspace_740e2149bffaea73728a1f871d35fff5" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Union Label Slug</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1908/1990">Undated</unitdate>
+          <unitdate normal="1908/1990" type="inclusive">Undated</unitdate>
+          <container id="aspace_6a400fe563367575838ef8a8386fd464" label="Mixed Materials" type="Box">1 (Albany Allied Printing Trades Council Records)</container>
+          <container id="aspace_baba1c1c43d2105f77355ebe3311fdde" parent="aspace_6a400fe563367575838ef8a8386fd464" type="Folder">6</container>
         </did>
       </c01>
     </dsc>

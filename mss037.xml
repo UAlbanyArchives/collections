@@ -1,631 +1,559 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_mss037">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="" encodinganalog="Identifier">nam_mss037</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="mss037">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=mss037.xml">mss037</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper encodinganalog="Title">ALBANY, NEW YORK JEWISH COMMUNITY COLLECTION (MSS037)<date normal="1905-1990" type="inclusive">1905-1990</date></titleproper>
-        <author encodinganalog="Creator">Jason Thomas</author>
+        <titleproper>Albany Jewish Community; Collection <num>mss037</num></titleproper>
+        <author>Jason Thomas</author>
       </titlestmt>
       <publicationstmt>
-        <publisher encodinganalog="Publisher">M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2014">Copyright 2014 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2014</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation encodinganalog="500">Jason Thomas<date normal="2014">2014</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language" scriptcode="iso15924">English</language>
-      </langusage>
-      <descrules> Finding aid prepared using <emph render="italic"> Describing Archives: A Content
-          Standard [DACS] </emph>
-      </descrules>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 17:26:59 -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Finding aid prepared using <emph render="italic"> Describing Archives: A Content Standard [DACS] </emph></descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Encoded in EAD by Jason Thomas</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>ALBANY, NEW YORK JEWISH COMMUNITY COLLECTION (MSS037)<date normal="1905/1990" type="inclusive">1905-1990</date>
-      </titleproper>
-      <publisher> M. E. Grenadier Department of Special Collections and Archives</publisher>
-      <date type="publication">2014</date>
-    </titlepage>
-  </frontmatter>
-  <archdesc audience="external" level="collection" relatedencoding="MARC21">
+  <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unittitle>Albany, New York Jewish Community Collection<unitdate type="inclusive" encodinganalog="245$f" normal="1905/1990" label="Date:"> 1905-1990</unitdate>
-      </unittitle>
-      <origination>
-        <corpname encodinganalog="110" source="local">Greater Albany Jewish Federation</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">2.03</extent>
-      </physdesc>
-      <unitid repositorycode="nalsu" countrycode="us" type="call number" encodinganalog="099">nam_mss037</unitid>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">The Jewish Community of the Albany, New York area is featured in
-        the Collection which was brought together to show community involvement in the region by the
-        Greater Albany Jewish Federation and the University Libraries of the University at Albany,
-        SUNY. This collection contains photographs, meeting minutes, commemoration papers, local
-        area newspapers, academic articles, community reports, and a prayer book.</abstract>
-      <langmaterial>
-        <language langcode="eng" encodinganalog="041">English and Yiddish</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Albany, New York Jewish Community Collection<unitdate normal="1905/1990" type="inclusive">1905-1990</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">Greater Albany Jewish Federation</corpname>
+      </origination>
+      <unitid>mss037</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.03 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_eddd8bb6471dd15033ddc2095d93511f">The Jewish Community of the Albany, New York area is featured in the Collection which was brought together to show community involvement in the region by the Greater Albany Jewish Federation and the University Libraries of the University at Albany, SUNY. This collection contains photographs, meeting minutes, commemoration papers, local area newspapers, academic articles, community reports, and a prayer book.</abstract>
+      <physloc id="aspace_0c5edc16dfc40c9d703e9053264ab2b3">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_4f75b8cdf2446db0fe0d0cfb217d7761">
+      <head>Processing Information</head>
+      <p>Processed in 2014 by Jason Thomas.</p>
+    </processinfo>
+    <accessrestrict id="aspace_6f6fb7218b8a13b1778246e106e504d7">
       <head>Access</head>
-      <p>Access to these records is unrestricted with the exception of one folder marked on the
-        inventory.</p>
+      <p>Access to these records is unrestricted with the exception of one folder marked on the inventory.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_e4ad70c2ec57fd66b4ffd66a0580075d">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_f7b61519ab56e8f1ddaea5d5581878ba">
       <head>Acquisition Information</head>
-      <p>This is an organically assembled collection initially brought together by the Greater
-        Albany Jewish Federation and the University Libraries of the University at Albany, SUNY in
-        the late 1970s and early 1980s. </p>
+      <p>This is an organically assembled collection initially brought together by the Greater Albany Jewish Federation and the University Libraries of the University at Albany, SUNY in the late 1970s and early 1980s.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_b48aadad2ca108dd2f982389586e1c33">
       <head>Biographical Sketch</head>
-      <p>According to <title><emph render="italic">The Jews in Albany, New York</emph> by Louis
-          Silver</title>, the first Jewish settlers in the fast growing commercial center that
-        became Albany arrived in the mid-1650s. This small community declined as trade diminished
-        during the late 17th Century and there was no organized Jewish community in the area during
-        the 18th Century. As trade and immigration from Central Europe to Albany flourished during
-        the early 19th Century, the Jewish population increased and Albany's first synagogue was
-        dedicated in 1841. Eastern European Jews, predominantly Poles and Russians, began
-        immigrating to Albany in the mid- to late-19th Century. As a direct result of this influx of
-        newcomers, Silver cites the Jewish population in Albany in 1886 as being approximately
-        3,000. By the turn of the 20th Century, this number reached 4,000 and continued to grow.
-        According to Henry Brownstein, in <title><emph render="italic">Being Jewish in Albany, New
-            York: Origins and Manifestations of Diversity</emph></title>, the Jewish population in
-        Albany was around 13,500 by the late 1970s.</p>
-      <p>Throughout the 19th and 20th Centuries, Jews in Albany created additional synagogues along
-        with fraternal and philanthropic organizations. This included a local chapter of B'nai
-        B'rith, a home for the aged, a women's benevolent society, the Jewish Community Center, a
-        YMHA and YWHA and more. An organized Jewish labor movement also began in earnest in the
-        1890s.</p>
-      <p>The Greater Albany Jewish Federation was originally called the Albany Jewish Community
-        Council when it was established in 1952. It was renamed the Greater Albany Jewish Federation
-        in 1978. It was again renamed in 1986 to the United Jewish Federation of Northeastern New
-        York after it merged with other Jewish organizations in the region. It is a non-profit
-        organization whose mission is to serve the Jewish community in the region.</p>
+      <p>According to <title><emph render="italic">The Jews in Albany, New York</emph> by Louis Silver</title>, the first Jewish settlers in the fast growing commercial center that became Albany arrived in the mid-1650s. This small community declined as trade diminished during the late 17th Century and there was no organized Jewish community in the area during the 18th Century. As trade and immigration from Central Europe to Albany flourished during the early 19th Century, the Jewish population increased and Albany's first synagogue was dedicated in 1841. Eastern European Jews, predominantly Poles and Russians, began immigrating to Albany in the mid- to late-19th Century. As a direct result of this influx of newcomers, Silver cites the Jewish population in Albany in 1886 as being approximately 3,000. By the turn of the 20th Century, this number reached 4,000 and continued to grow. According to Henry Brownstein, in <title><emph render="italic">Being Jewish in Albany, New York: Origins and Manifestations of Diversity</emph></title>, the Jewish population in Albany was around 13,500 by the late 1970s.</p>
+      <p> Throughout the 19th and 20th Centuries, Jews in Albany created additional synagogues along with fraternal and philanthropic organizations. This included a local chapter of B'nai B'rith, a home for the aged, a women's benevolent society, the Jewish Community Center, a YMHA and YWHA and more. An organized Jewish labor movement also began in earnest in the 1890s.</p>
+      <p> The Greater Albany Jewish Federation was originally called the Albany Jewish Community Council when it was established in 1952. It was renamed the Greater Albany Jewish Federation in 1978. It was again renamed in 1986 to the United Jewish Federation of Northeastern New York after it merged with other Jewish organizations in the region. It is a non-profit organization whose mission is to serve the Jewish community in the region.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The collection documents Jewish life in the Greater Albany area of New York and consists of
-        two series: Series 1: Subject Files, Series 2: Photographs. Series 1 contains the meeting
-        minutes of the Congregation of Beth El Jacob from 1957-1961, local area Jewish newspapers,
-        newspaper clippings, mortgage files, various local area Jewish organizations’ anniversary
-        commemoration pamphlets, community reports, a master list of Soviet Jewish immigrants, and a
-        bound volume of a Jewish prayer book in Yiddish. Series 2 contains photographs and
-        portraits, many taken by Morris Gerber depicting special events, military personnel, and
-        everyday life in the Jewish community between 1926 and 1961. </p>
+    <scopecontent id="aspace_5e34d50e2427de5188ab3540bbdfe020">
+      <head>Scope and Contents</head>
+      <p>The collection documents Jewish life in the Greater Albany area of New York and consists of two series: Series 1: Subject Files, Series 2: Photographs. Series 1 contains the meeting minutes of the Congregation of Beth El Jacob from 1957-1961, local area Jewish newspapers, newspaper clippings, mortgage files, various local area Jewish organizations’ anniversary commemoration pamphlets, community reports, a master list of Soviet Jewish immigrants, and a bound volume of a Jewish prayer book in Yiddish. Series 2 contains photographs and portraits, many taken by Morris Gerber depicting special events, military personnel, and everyday life in the Jewish community between 1926 and 1961.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_2eb86b50eaf71940b42c50bee95d69bd">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series:</p>
-      <list type="simple">
-        <item>Series 1 - Subject Files, 1905-1990, Undated</item>
-        <item>Series 2 - Photographs, 1926-1961, Undated</item>
-      </list>
       <p>Both series are arranged alphabetically</p>
     </arrangement>
-    <controlaccess>
-      <subject source="meg" encodinganalog="650">Albany, New York</subject>
-      <subject source="meg" encodinganalog="650">Ethnic Groups</subject>
-      <head>Subject and Genre Headings</head>
-      <corpname encodinganalog="610" source="local">Greater Albany Jewish Federation</corpname>
-      <corpname encodinganalog="610" source="lcsh">B’nai B’rith</corpname>
-      <subject encodinganalog="650" source="lcsh">Judaism--New York (State)--Albany</subject>
-      <subject encodinganalog="650" source="lcsh">Religious gatherings--New York
-        (State)--Albany</subject>
-      <subject encodinganalog="650" source="lcsh">Religious communities--New York
-        (State)--Albany</subject>
-      <subject encodinganalog="650" source="lcsh">Fund raising--New York (State)--Albany</subject>
-      <subject encodinganalog="650" source="lcsh">Synagogues--New York (State)--Albany</subject>
-      <subject encodinganalog="650" source="lcsh">Religious institutions--New York
-        (State)--Albany</subject>
-      <subject encodinganalog="650" source="lcsh">Clubs--New York (State)--Albany</subject>
-      <subject encodinganalog="650" source="lcsh">Charities--New York (State)--Albany</subject>
-      <subject encodinganalog="650" source="lcsh">Community life--New York (State)--Albany</subject>
-      <genreform encodinganalog="655" source="aat">Newspapers</genreform>
-      <genreform encodinganalog="655" source="aat">Photographs</genreform>
-      <genreform encodinganalog="655" source="aat">Pamphlets</genreform>
-      <genreform encodinganalog="655" source="aat">Minutes</genreform>
-      <genreform encodinganalog="655" source="aat">Articles</genreform>
-    </controlaccess>
-    <prefercite encodinganalog="524">
+    <prefercite id="aspace_1839ddae5e0c64f2fad49f5b63d8bae1">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Albany, New York Jewish Community
-        Collection, 1905-1990. M.E. Grenander Department of Special Collections and Archives,
-        University Libraries, University at Albany, State University of New York (hereafter referred
-        to as the Albany Jewish Community Collection).</p>
+      <p> Identification of specific item, series, box, folder, Albany, New York Jewish Community Collection, 1905-1990. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Albany Jewish Community Collection).</p>
     </prefercite>
-    <dsc type="combined">
-      <head>Container List</head>
-      <!-- Start series 1-->
-      <c01 level="series" id="nam_mss037-1">
+    <controlaccess>
+      <subject source="meg">Albany, New York</subject>
+      <subject source="meg">Ethnic Groups</subject>
+      <subject source="lcsh">Judaism--New York (State)--Albany</subject>
+      <subject source="lcsh">Religious gatherings--New York (State)--Albany</subject>
+      <subject source="lcsh">Religious communities--New York (State)--Albany</subject>
+      <subject source="lcsh">Fund raising--New York (State)--Albany</subject>
+      <subject source="lcsh">Synagogues--New York (State)--Albany</subject>
+      <subject source="lcsh">Religious institutions--New York (State)--Albany</subject>
+      <subject source="lcsh">Clubs--New York (State)--Albany</subject>
+      <subject source="lcsh">Charities--New York (State)--Albany</subject>
+      <subject source="lcsh">Community life--New York (State)--Albany</subject>
+      <genreform source="aat">Newspapers</genreform>
+      <genreform source="aat">Photographs</genreform>
+      <genreform source="aat">Pamphlets</genreform>
+      <genreform source="aat">Minutes</genreform>
+      <genreform source="aat">Articles</genreform>
+      <corpname source="local">Greater Albany Jewish Federation</corpname>
+      <corpname source="lcsh">B’nai B’rith</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_f1981a3afafd3506f6c2ab3afc455cc2" level="series">
         <did>
+          <unittitle>Subject Files</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Subject Files</unittitle>
-          <unitdate type="inclusive" normal="1905/1990">1905-1990</unitdate>
-          <unitdate type="inclusive" normal="1905/1990">Undated</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">1.43</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.43 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1905/1990" type="inclusive">1905-1990</unitdate>
+          <unitdate normal="1905/1990" type="inclusive">Undated</unitdate>
         </did>
-        <scopecontent>
-          <p>Series 1 contains the meeting minutes of the Congregation of Beth El Jacob from
-            1957-1961, local area Jewish newspapers, newspaper clippings, mortgage files, various
-            local area Jewish organizations’ anniversary commemoration pamphlets, academic articles,
-            community reports, a master list of Soviet Jewish immigrants, and a bound volume of a
-            Jewish prayer book in Yiddish.</p>
+        <scopecontent id="aspace_dcb0031c070d59f9c19a0bbdc9a6a81b">
+          <head>Scope and Contents</head>
+          <p>Series 1 contains the meeting minutes of the Congregation of Beth El Jacob from 1957-1961, local area Jewish newspapers, newspaper clippings, mortgage files, various local area Jewish organizations’ anniversary commemoration pamphlets, academic articles, community reports, a master list of Soviet Jewish immigrants, and a bound volume of a Jewish prayer book in Yiddish.</p>
         </scopecontent>
-        <c02 level="file" id="nam_mss037-1_1">
+        <c02 id="aspace_12f4f6e6135d09a6514269ac8cd914ff" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
-            <unittitle><emph render="italic">Adjustment of Soviet Jewish Immigrants in the Albany
-                (N.Y.) Area</emph> by Walter P Zenner and Debra Hiller</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+            <unittitle><emph render="italic">Adjustment of Soviet Jewish Immigrants in the Albany (N.Y.) Area</emph> by Walter P Zenner and Debra Hiller</unittitle>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_99cb373548405bd83cb063de223a7f95" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_0a1812620f870f507525924daf7dcf3e" parent="aspace_99cb373548405bd83cb063de223a7f95" type="Folder">1</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-1_2">
+        <c02 id="aspace_017b60ae8219ad75c4d8e8cc5e56c5b6" level="file">
           <did>
-            <container type="Oversized">1</container>
-            <container type="Folder">1</container>
             <unittitle>
               <emph render="italic">The Albany Jewish World</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976">1976</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_9b9e6cbff9c72cb12e22b41f4c9be5ee" label="Mixed Materials" type="Oversized">1</container>
+            <container id="aspace_e145026285749fcac408a48ee601cb4e" parent="aspace_9b9e6cbff9c72cb12e22b41f4c9be5ee" type="Folder">1</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-1_3">
+        <c02 id="aspace_2526aa5764d78ea8c653273664187ee1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
-            <unittitle><emph render="italic">Being Jewish in Albany, New York: Origins and
-                Manifestations of Diversity</emph> by Henry H. Brownstein</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975">1975</unitdate>
+            <unittitle><emph render="italic">Being Jewish in Albany, New York: Origins and Manifestations of Diversity</emph> by Henry H. Brownstein</unittitle>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_d661ee2dfa754bc719fb254192ce5657" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_313035e90b15c767ae1e755d4de47128" parent="aspace_d661ee2dfa754bc719fb254192ce5657" type="Folder">2</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-1_4">
+        <c02 id="aspace_a66e2d959b2687335262fef1cb573fc3" level="file">
           <did>
-            <container type="Oversized">1</container>
-            <container type="Folder">2</container>
-            <unittitle>Certificate of Incorporation of the United Brethren Society of Albany,
-              NY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1905">1905</unitdate>
+            <unittitle>Certificate of Incorporation of the United Brethren Society of Albany, NY</unittitle>
+            <unitdate normal="1905/1905" type="inclusive">1905</unitdate>
+            <container id="aspace_1531ee9cd8c442b0857e026894431643" label="Mixed Materials" type="Oversized">1</container>
+            <container id="aspace_e6c7253c6e8a76ea1f6fba63ce1c6600" parent="aspace_1531ee9cd8c442b0857e026894431643" type="Folder">2</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-1_5">
+        <c02 id="aspace_909fe75483bbe7c9c22b58182b2564ab" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Commemorative Papers – Albany Area Jewish Organizations</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_134a59b86fd39cdfe6b64c350e5a10a4" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_43fa9eeac984cc394cbe13deb02a1d03" parent="aspace_134a59b86fd39cdfe6b64c350e5a10a4" type="Folder">3</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-1_6">
+        <c02 id="aspace_582b6688e012a10c1f2974a739579ca6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Jewish Communal Survey of Albany, NY</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1947">1947</unitdate>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_a145836e27784a30c00fcb36d7da719f" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_1a6c6dfe8c8c634071b8a2ab4d1b2c30" parent="aspace_a145836e27784a30c00fcb36d7da719f" type="Folder">4</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-1_7">
+        <c02 id="aspace_906385e2c31c6aed7d78a4468236dec4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Jewish Community Center – Schedule of Classes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_2d42966308b56ecec9cb051ecb84f6fe" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_c8e847087235583e739f183a61ca97d1" parent="aspace_2d42966308b56ecec9cb051ecb84f6fe" type="Folder">5</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-1_8">
+        <c02 id="aspace_078fc555ba8498afd41042aa1c57739b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
-            <unittitle><emph render="italic">The Jews in Albany, New York</emph> by Louis
-              Silver</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1954">1954</unitdate>
+            <unittitle><emph render="italic">The Jews in Albany, New York</emph> by Louis Silver</unittitle>
+            <unitdate normal="1954/1954" type="inclusive">1954</unitdate>
+            <container id="aspace_b15cf08d9863e267e447b2670283a0f8" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_ad4639c8236f1b578b120db97fff92ac" parent="aspace_b15cf08d9863e267e447b2670283a0f8" type="Folder">6</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-1_9">
+        <c02 id="aspace_5818c7e0995b15c0b61e0e6943903c6a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7-8</container>
             <unittitle>Meeting Minutes – Congregation Beth El Jacob’s United Brethren</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1960">1958-1960</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <unitdate normal="1958/1960" type="inclusive">1958-1960</unitdate>
+            <container id="aspace_dd3b8999a465c524292767e7be0be6f3" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_1360f1574858219aab9c8e65cfcd759d" parent="aspace_dd3b8999a465c524292767e7be0be6f3" type="Folder">7-8</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-1_10">
+        <c02 id="aspace_8d62fd417a92b7ed9a36f174b23aec0f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Meeting Minutes – Congregation Beth El Jacob’s United Brethren</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961">1961</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_580e3a9d36b76e2194d943eb98f5aea2" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_44ce794acbab6468d5b6e9f0bf68ef89" parent="aspace_580e3a9d36b76e2194d943eb98f5aea2" type="Folder">9</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-1_11">
+        <c02 id="aspace_1ea9cc6944f46ea5c80c217d9037fedd" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Mortgage Documents, United Brethren Society</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1939">1939</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1942">1942</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1952">1952</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960">1960</unitdate>
+            <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+            <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_e23f00a4a02b97cb3eec74b022df7d95" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_c102588f6623ab8a59bf914b561d4b22" parent="aspace_e23f00a4a02b97cb3eec74b022df7d95" type="Folder">10</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-1_12">
+        <c02 id="aspace_c78a31400413ebde262771ca01690122" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
-            <unittitle>Order of Consolidation – Congregation Beth El Jacob and Agudas Achim
-              Congregation (United Brethren Society Cognregation)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959">1959</unitdate>
+            <unittitle>Order of Consolidation – Congregation Beth El Jacob and Agudas Achim Congregation (United Brethren Society Cognregation)</unittitle>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_c175b687df3d82f27a93d62fdf5969da" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_fda83faf26617d6bfe64a1c7456d5ab6" parent="aspace_c175b687df3d82f27a93d62fdf5969da" type="Folder">11</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-1_13">
+        <c02 id="aspace_c688c449ecb75b38e6d2169421cfd974" level="file">
           <did>
-            <container type="Oversized">2</container>
             <unittitle>Plaque, Congregation Sons of Abraham</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1931">1931</unitdate>
+            <unitdate normal="1931/1931" type="inclusive">1931</unitdate>
+            <container id="aspace_ce16dc47fa462325fdcf732b7f3c3dcc" label="Mixed Materials" type="Oversized">2</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-1_14">
+        <c02 id="aspace_f63edc0dc95ca57322929dcd28899610" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
-            <unittitle>Program, Dedication of Newly Acquired Building for Congregation Sons of
-              Abraham</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959">1959</unitdate>
+            <unittitle>Program, Dedication of Newly Acquired Building for Congregation Sons of Abraham</unittitle>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_205b62e075f272304e7ebd7a200e1cbb" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_ff57f6abb4ad36ee57c4746e0e3a05bb" parent="aspace_205b62e075f272304e7ebd7a200e1cbb" type="Folder">12</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-1_15">
+        <c02 id="aspace_46941cdf450e9ca0f11fa0096ed556cd" level="file">
           <did>
-            <container type="Oversized">1</container>
-            <container type="Folder">3</container>
             <unittitle>Program, The Completed New Congregation Sons of Abraham</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
+            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+            <container id="aspace_be2486f8d825b1dbe5b14bc6c47140b6" label="Mixed Materials" type="Oversized">1</container>
+            <container id="aspace_7414dea4c8c89443b53eda8490a58312" parent="aspace_be2486f8d825b1dbe5b14bc6c47140b6" type="Folder">3</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-1_16">
+        <c02 id="aspace_ec80d350370d9556d7f269c92321241e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
-            <unittitle>Skull Cap and Prayer Book from the Wedding of Libby Jochnowitz and Behzad
-              Khajehzadeh</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
+            <unittitle>Skull Cap and Prayer Book from the Wedding of Libby Jochnowitz and Behzad Khajehzadeh</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_33cee2e0a95046953024c71ce52d456d" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_a0235f1a4a5c13f00f6e1a0d4e492c2a" parent="aspace_33cee2e0a95046953024c71ce52d456d" type="Folder">13</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-1_17">
+        <c02 id="aspace_8bcc2c307a04520545b0ec78a568b880" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Shas Tehine</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1905/1990">Undated</unitdate>
+            <unitdate normal="1905/1990" type="inclusive">Undated</unitdate>
+            <container id="aspace_657a0e4a1666ce34b390e966835b44d1" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_53e551cc83598f49b9a3c14c2222b9f5" parent="aspace_657a0e4a1666ce34b390e966835b44d1" type="Folder">14</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-1_18">
+        <c02 id="aspace_d9a69587620428d7cd585d82bf9d39b0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Soviet Jewish Immigrants Master List-[RESTRICTED]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974/1981">1974-1981</unitdate>
+            <unitdate normal="1974/1981" type="inclusive">1974-1981</unitdate>
+            <container id="aspace_88dd2880ba732161e88df3d97d38d414" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_e721318a0241c3b1c67100e3ef4c47e7" parent="aspace_88dd2880ba732161e88df3d97d38d414" type="Folder">15</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_4b70c4d73b0b0ea525b159460816ed1c">
+            <head>Conditions Governing Access</head>
             <p>Must consult archivist before viewing this material.</p>
           </accessrestrict>
         </c02>
-        <c02 level="file" id="nam_mss037-1_19">
+        <c02 id="aspace_adfe8a31c6ad60e01502ba721b864a92" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle><emph render="italic">Times Union</emph> Photo Clipping</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1947">1947</unitdate>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_ac858784d288b75282acc63d7fc2b80e" label="Mixed Materials" type="Box">1 (1-Subject Files)</container>
+            <container id="aspace_cd9aada5a3efcb5345d73e44ff63074f" parent="aspace_ac858784d288b75282acc63d7fc2b80e" type="Folder">16</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_mss037-2">
+      <c01 id="aspace_f5bf1fc8007b0afd49f407a375cbe8a6" level="series">
         <did>
+          <unittitle>Photographs</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Photographs</unittitle>
-          <unitdate type="inclusive" normal="1926/1961">1926-1961</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.6</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.6 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1926/1961" type="inclusive">1926-1961</unitdate>
         </did>
-        <scopecontent>
-          <p>Series 2 contains photographs, many taken by Morris Gerber, which document the Jewish
-            community of the greater Albany area in the early- to mid-Twentieth Century. These
-            include photographs of special events, portraits, military personnel, and everyday life.
-          </p>
+        <scopecontent id="aspace_160c0fa69d5500fbb7092c91342f5226">
+          <head>Scope and Contents</head>
+          <p>Series 2 contains photographs, many taken by Morris Gerber, which document the Jewish community of the greater Albany area in the early- to mid-Twentieth Century. These include photographs of special events, portraits, military personnel, and everyday life.</p>
         </scopecontent>
-        <c02 level="file" id="nam_mss037-2_1">
+        <c02 id="aspace_0c6b59319bac01481d8e0b9346b29ae3" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Events</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1935/1936">1935-1936</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1939">1939</unitdate>
+            <unitdate normal="1935/1936" type="inclusive">1935-1936</unitdate>
+            <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+            <container id="aspace_aa4c1c7b99dfb73309d142b1f49a6080" label="Mixed Materials" type="Box">2 (2-Photographs)</container>
+            <container id="aspace_7a40fd0b63d0126fc7609d9fdd530ce0" parent="aspace_aa4c1c7b99dfb73309d142b1f49a6080" type="Folder">1</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_2">
+        <c02 id="aspace_b0275b323c49b7cec4a3e7a05bc689f4" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>Events</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945">1945</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1947">1947</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1949">1949</unitdate>
+            <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+            <container id="aspace_dffc847b301c67a70c5a781f25491c9d" label="Mixed Materials" type="Box">2 (2-Photographs)</container>
+            <container id="aspace_65d896a32a589fa33237986c37b7d8e0" parent="aspace_dffc847b301c67a70c5a781f25491c9d" type="Folder">2</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_3">
+        <c02 id="aspace_97878bc3fdbf2b5ed8af1f1a3b58c264" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Events</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1953/1955">1953-1955</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1957/1960">1957-1960</unitdate>
+            <unitdate normal="1953/1955" type="inclusive">1953-1955</unitdate>
+            <unitdate normal="1957/1960" type="inclusive">1957-1960</unitdate>
+            <container id="aspace_1a6f61b9280d7908eca31f002c3c0a2e" label="Mixed Materials" type="Box">2 (2-Photographs)</container>
+            <container id="aspace_23f7f8ec552b56355c706b86edf3ad67" parent="aspace_1a6f61b9280d7908eca31f002c3c0a2e" type="Folder">3</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_4">
+        <c02 id="aspace_549e1bf510aea0e3e14bd632c031c647" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4-6</container>
             <unittitle>Events</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1905/1990">Undated</unitdate>
+            <unitdate normal="1905/1990" type="inclusive">Undated</unitdate>
+            <container id="aspace_2a0754f0bd9c2b55427e69166f06b077" label="Mixed Materials" type="Box">2 (2-Photographs)</container>
+            <container id="aspace_016b58e62c594d97d96199b4f332f678" parent="aspace_2a0754f0bd9c2b55427e69166f06b077" type="Folder">4-6</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_5">
+        <c02 id="aspace_15e25690d8fea0cbe9ff4109c629cf6f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
             <unittitle>Events – Award Ceremonies</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1957">1957</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959">1959</unitdate>
+            <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_b2c5e258d4b234bf98607c1409bb4b8e" label="Mixed Materials" type="Box">2 (2-Photographs)</container>
+            <container id="aspace_d3eb11c6b819ad4249bd515854ff77da" parent="aspace_b2c5e258d4b234bf98607c1409bb4b8e" type="Folder">7</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_6">
+        <c02 id="aspace_b2ec62f04f1d9e81db0f3fb5fad2132f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
             <unittitle>Events – B’nai B’rith</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959">1959</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_6dea73a5ad74e025ad470a410e5b5764" label="Mixed Materials" type="Box">2 (2-Photographs)</container>
+            <container id="aspace_56d9afb67f15c63c9ce8e186929b8d47" parent="aspace_6dea73a5ad74e025ad470a410e5b5764" type="Folder">8</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_7">
+        <c02 id="aspace_d7d8396906d68591ac47f6521f14b2e4" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
             <unittitle>Events – Business</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943">1943</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1953">1953</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958">1958</unitdate>
+            <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
+            <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+            <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_6b8bfc87f399679c9967a33a5eaaf98d" label="Mixed Materials" type="Box">2 (2-Photographs)</container>
+            <container id="aspace_756008cbd44e4925c692aa0da6afb4b9" parent="aspace_6b8bfc87f399679c9967a33a5eaaf98d" type="Folder">9</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_8">
+        <c02 id="aspace_ced6c0f60aaa28de659bf7d24c69c4d6" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10</container>
             <unittitle>Events – Business</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959/1960">1959-1960</unitdate>
+            <unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate>
+            <container id="aspace_72f6fe0ff3b46a4db434ff76da1c6af5" label="Mixed Materials" type="Box">2 (2-Photographs)</container>
+            <container id="aspace_a05d4b1d8a28c33e6b9badc8bde59df3" parent="aspace_72f6fe0ff3b46a4db434ff76da1c6af5" type="Folder">10</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_9">
+        <c02 id="aspace_dc1123d7b3d084ae9851826e5c709c8b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">11</container>
             <unittitle>Events – Business</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1905/1990">Undated</unitdate>
+            <unitdate normal="1905/1990" type="inclusive">Undated</unitdate>
+            <container id="aspace_0dc4368b096cf73310b908187834e019" label="Mixed Materials" type="Box">2 (2-Photographs)</container>
+            <container id="aspace_cd5b579b36074d6d2fdeead2318c3b38" parent="aspace_0dc4368b096cf73310b908187834e019" type="Folder">11</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_10">
+        <c02 id="aspace_e7c6707883f59fd11a3d130ae778498c" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">12</container>
             <unittitle>Events – Charity</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1952">1952</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959">1959</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1905/1990">Undated</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <unitdate normal="1905/1990" type="inclusive">Undated</unitdate>
+            <container id="aspace_bf35dd0635ccaa239e842c3b4f12b2af" label="Mixed Materials" type="Box">2 (2-Photographs)</container>
+            <container id="aspace_060c573ee62d40dfadf972e6705818e4" parent="aspace_bf35dd0635ccaa239e842c3b4f12b2af" type="Folder">12</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_11">
+        <c02 id="aspace_2ab9f5716fd243323bbf4efb52a480f5" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">13</container>
             <unittitle>Events – Congregation Sons of Abraham</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1905/1990">Undated</unitdate>
+            <unitdate normal="1905/1990" type="inclusive">Undated</unitdate>
+            <container id="aspace_bd0e7d17fa923d79a6e587bcbd98b938" label="Mixed Materials" type="Box">2 (2-Photographs)</container>
+            <container id="aspace_e40bc5866bd1ed61d7e8ac6af5d16d40" parent="aspace_bd0e7d17fa923d79a6e587bcbd98b938" type="Folder">13</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_12">
+        <c02 id="aspace_2438565999e77ecb2597618e8ef05fbf" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">14</container>
             <unittitle>Events – Old Philologians</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945">1945</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1947">1947</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1905/1990">Undated</unitdate>
+            <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <unitdate normal="1905/1990" type="inclusive">Undated</unitdate>
+            <container id="aspace_2aeadd7958d9e4a96b1dd3889879e1ab" label="Mixed Materials" type="Box">2 (2-Photographs)</container>
+            <container id="aspace_622842ea633c714aea47bf99d7b29a6e" parent="aspace_2aeadd7958d9e4a96b1dd3889879e1ab" type="Folder">14</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_13">
+        <c02 id="aspace_4ee9793d42fe3eeffbb2a7847773627f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">15</container>
             <unittitle>Events – Temple Beth Emeth</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1938">1938</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956">1956</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958">1958</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1905/1990">Undated</unitdate>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+            <unitdate normal="1905/1990" type="inclusive">Undated</unitdate>
+            <container id="aspace_8bbd74c1c3c2dcaee53cecd659daaebd" label="Mixed Materials" type="Box">2 (2-Photographs)</container>
+            <container id="aspace_ec3489003133e9c9a92d23d795ecead5" parent="aspace_8bbd74c1c3c2dcaee53cecd659daaebd" type="Folder">15</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_14">
+        <c02 id="aspace_ddbbf9667d12472abbddd90aac330d14" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">16</container>
             <unittitle>Events – Temple Israel</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1926">1926</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1905/1990">Undated</unitdate>
+            <unitdate normal="1926/1926" type="inclusive">1926</unitdate>
+            <unitdate normal="1905/1990" type="inclusive">Undated</unitdate>
+            <container id="aspace_de93bf66211e4e4b26a086296459f6f7" label="Mixed Materials" type="Box">2 (2-Photographs)</container>
+            <container id="aspace_cd51b4769ac348d9d2ca113fc375f180" parent="aspace_de93bf66211e4e4b26a086296459f6f7" type="Folder">16</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_15">
+        <c02 id="aspace_577aef4359778992bc95d8d88561d7bc" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">17</container>
             <unittitle>Events – Variety Club</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950">1950</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1953/1954">1953-1954</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956/1959">1956-1959</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <unitdate normal="1953/1954" type="inclusive">1953-1954</unitdate>
+            <unitdate normal="1956/1959" type="inclusive">1956-1959</unitdate>
+            <container id="aspace_456f758db1b53bce7581a189881b8d0f" label="Mixed Materials" type="Box">2 (2-Photographs)</container>
+            <container id="aspace_89a674af87efd84791bfd12a64003ae8" parent="aspace_456f758db1b53bce7581a189881b8d0f" type="Folder">17</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_16">
+        <c02 id="aspace_d9d988441791f487fa529fabda3f9b0f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">18</container>
             <unittitle>Events – Variety Club</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1905/1990">Undated</unitdate>
+            <unitdate normal="1905/1990" type="inclusive">Undated</unitdate>
+            <container id="aspace_70911821fdb2b8604730f628c62c4829" label="Mixed Materials" type="Box">2 (2-Photographs)</container>
+            <container id="aspace_a11212258d98a6f6dbee4e94d4fe0ba3" parent="aspace_70911821fdb2b8604730f628c62c4829" type="Folder">18</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_17">
+        <c02 id="aspace_075c758337c57c1b6c5c21ee811106a6" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">19</container>
             <unittitle>Events – Women’s Organizations</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937">1937</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951">1951</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960">1960</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1905/1990">Undated</unitdate>
+            <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+            <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <unitdate normal="1905/1990" type="inclusive">Undated</unitdate>
+            <container id="aspace_fd80a30806baafde290deb985636149f" label="Mixed Materials" type="Box">2 (2-Photographs)</container>
+            <container id="aspace_5f037ced5b31f57ae4432d46daabead0" parent="aspace_fd80a30806baafde290deb985636149f" type="Folder">19</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_18">
+        <c02 id="aspace_be423a645ef526947417035f3542fdf1" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">20</container>
             <unittitle>Everyday Life in Greater Albany</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1927">1927</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1931/1932">1931-1932</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934/1935">1934-1935</unitdate>
+            <unitdate normal="1927/1927" type="inclusive">1927</unitdate>
+            <unitdate normal="1931/1932" type="inclusive">1931-1932</unitdate>
+            <unitdate normal="1934/1935" type="inclusive">1934-1935</unitdate>
+            <container id="aspace_1181fa5cb3f957a6641bafdbc4daeaf4" label="Mixed Materials" type="Box">2 (2-Photographs)</container>
+            <container id="aspace_1cd7ab895eca1acd281b2bef2cfec89a" parent="aspace_1181fa5cb3f957a6641bafdbc4daeaf4" type="Folder">20</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_19">
+        <c02 id="aspace_84696708f3aa54b3a7db3e2f80ce2f12" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">21</container>
-            <unittitle> Everyday Life in Greater Albany</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937/1938">1937-1938</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940/1941">1940-1941</unitdate>
-          </did>
-        </c02>
-        <c02 level="file" id="nam_mss037-2_20">
-          <did>
-            <container type="Box">2</container>
-            <container type="Folder">22</container>
             <unittitle>Everyday Life in Greater Albany</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1945">1943-1945</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1947">1947</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950">1950</unitdate>
+            <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
+            <unitdate normal="1940/1941" type="inclusive">1940-1941</unitdate>
+            <container id="aspace_2005d1cf955c71e519049803d9c2e73a" label="Mixed Materials" type="Box">2 (2-Photographs)</container>
+            <container id="aspace_848b2bb3a60f689d81a4b3ba0de0bac6" parent="aspace_2005d1cf955c71e519049803d9c2e73a" type="Folder">21</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_21">
+        <c02 id="aspace_da17f29593a8b4102190078a7d91186f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">23</container>
             <unittitle>Everyday Life in Greater Albany</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1952/1960">1952-1960</unitdate>
+            <unitdate normal="1943/1945" type="inclusive">1943-1945</unitdate>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_dd3856ab0f583651140e9ddd88384c0d" label="Mixed Materials" type="Box">2 (2-Photographs)</container>
+            <container id="aspace_e23adf46faf339c4ac8cfe679a66402f" parent="aspace_dd3856ab0f583651140e9ddd88384c0d" type="Folder">22</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_22">
+        <c02 id="aspace_09cf2a8abda6969199f221a24b40a2f1" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">24-25</container>
             <unittitle>Everyday Life in Greater Albany</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1905/1990">Undated</unitdate>
+            <unitdate normal="1952/1960" type="inclusive">1952-1960</unitdate>
+            <container id="aspace_952ad74bd3a32113dadbce0b0345fc0f" label="Mixed Materials" type="Box">2 (2-Photographs)</container>
+            <container id="aspace_49a3fb09f1153720381ab679740508d1" parent="aspace_952ad74bd3a32113dadbce0b0345fc0f" type="Folder">23</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_23">
+        <c02 id="aspace_f8ae7ebfb418b64143eb71459a631788" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
+            <unittitle>Everyday Life in Greater Albany</unittitle>
+            <unitdate normal="1905/1990" type="inclusive">Undated</unitdate>
+            <container id="aspace_ff32bc1e5c02e2f2ba7cd7e08a818550" label="Mixed Materials" type="Box">2 (2-Photographs)</container>
+            <container id="aspace_8847a9365f8059477318759e7852d340" parent="aspace_ff32bc1e5c02e2f2ba7cd7e08a818550" type="Folder">24-25</container>
+          </did>
+        </c02>
+        <c02 id="aspace_acd3266741ca4700891356ae482633e0" level="file">
+          <did>
             <unittitle>Military</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1942/1946">1942-1946</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1949">1949</unitdate>
+            <unitdate normal="1942/1946" type="inclusive">1942-1946</unitdate>
+            <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+            <container id="aspace_0c55ac6732acc21fdcbcb50808269150" label="Mixed Materials" type="Box">3 (2-Photographs)</container>
+            <container id="aspace_67ff4d144fec5fa34c35d356af5d99fa" parent="aspace_0c55ac6732acc21fdcbcb50808269150" type="Folder">1</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_24">
+        <c02 id="aspace_a0aeee200dee038c565c816ebe01341b" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>Military</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1953/1954">1953-1954</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1957">1957</unitdate>
+            <unitdate normal="1953/1954" type="inclusive">1953-1954</unitdate>
+            <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
+            <container id="aspace_c74f10ca44281764aad34e5b663edbae" label="Mixed Materials" type="Box">3 (2-Photographs)</container>
+            <container id="aspace_fe861ead4b82d14d5a0eff64686a2972" parent="aspace_c74f10ca44281764aad34e5b663edbae" type="Folder">2</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_25">
+        <c02 id="aspace_374036746cb093c83bb9ed2c74d35dc7" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">3</container>
             <unittitle>Military</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1905/1990">Undated</unitdate>
+            <unitdate normal="1905/1990" type="inclusive">Undated</unitdate>
+            <container id="aspace_6dcecb3cbc91c19665fb388c265142db" label="Mixed Materials" type="Box">3 (2-Photographs)</container>
+            <container id="aspace_95b9cda9c221498fa8923e8114d7a3d1" parent="aspace_6dcecb3cbc91c19665fb388c265142db" type="Folder">3</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_26">
+        <c02 id="aspace_a94c5e28e2fff46235325f1a12c8dea2" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4</container>
             <unittitle>Portraits</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1935">1935</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1937">1937</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1939">1939</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1942/1943">1942-1943</unitdate>
+            <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+            <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+            <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+            <unitdate normal="1942/1943" type="inclusive">1942-1943</unitdate>
+            <container id="aspace_3b8d34d6869498ffed774590d0e67fa0" label="Mixed Materials" type="Box">3 (2-Photographs)</container>
+            <container id="aspace_3f02a6cebc33802921c398985cd85534" parent="aspace_3b8d34d6869498ffed774590d0e67fa0" type="Folder">4</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_27">
+        <c02 id="aspace_aa4236ca8f65464199e8816a2b522d5b" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">5</container>
             <unittitle>Portraits</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1953/1957">1953-1957</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959">1959</unitdate>
+            <unitdate normal="1953/1957" type="inclusive">1953-1957</unitdate>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_b784c87292b8fc537b425835c7164946" label="Mixed Materials" type="Box">3 (2-Photographs)</container>
+            <container id="aspace_017ed48e6888169add0b7fdc814cfb24" parent="aspace_b784c87292b8fc537b425835c7164946" type="Folder">5</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_28">
+        <c02 id="aspace_360683bc24888aac1d286e6bbafd3fb8" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">6</container>
             <unittitle>Portraits</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960/1961">1960-1961</unitdate>
+            <unitdate normal="1960/1961" type="inclusive">1960-1961</unitdate>
+            <container id="aspace_0c4b5f03b21947261b821ecab433ed15" label="Mixed Materials" type="Box">3 (2-Photographs)</container>
+            <container id="aspace_749def6defabb7c42596973d021ee4bf" parent="aspace_0c4b5f03b21947261b821ecab433ed15" type="Folder">6</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_mss037-2_29">
+        <c02 id="aspace_09b1fbd030b72dec1baf865bb8d334d0" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">7-8</container>
             <unittitle>Portraits</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1905/1990">Undated</unitdate>
+            <unitdate normal="1905/1990" type="inclusive">Undated</unitdate>
+            <container id="aspace_df35424046809269c4d089407a7a1a42" label="Mixed Materials" type="Box">3 (2-Photographs)</container>
+            <container id="aspace_4c9130a73f14af13e39ab2f25f39cdc2" parent="aspace_df35424046809269c4d089407a7a1a42" type="Folder">7-8</container>
           </did>
         </c02>
       </c01>

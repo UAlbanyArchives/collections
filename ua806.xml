@@ -1,1284 +1,1079 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua806">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="nalsu" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" url="http://library.albany.edu/speccoll/findaids/ua806.xml" identifier="##">nam_ua806</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua806">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua806.xml">ua806</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>CHI SIGMA THETA SORORITY RECORDS (UA806)<date normal="1914/2014" type="inclusive">1914-2014</date></titleproper>
+        <titleproper>Chi Sigma Theta Sorority; Records <num>ua806</num></titleproper>
         <author>Shawne Rosenberg and Sherry Schneiderman</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="1992">Copyright 1992 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>1992</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Kimberly Gianfrancesco<date normal="2013">2013</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 17:03:45 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2003">2003</date>
+        <date>2003</date>
         <item>Geoffrey P. Williams revised and updated finding aid</item>
       </change>
       <change>
-        <date normal="2013">2013</date>
+        <date>2013</date>
         <item>Kimberly Gianfrancesco processed new accessions and created EAD finding aid</item>
       </change>
       <change>
-        <date normal="2014">2014</date>
-        <item>After 100th anniversary weekend celebration in June 2014, Jodi Boyle arranged new
-          accessions and updated EAD finding aid.</item>
+        <date>2014</date>
+        <item>After 100th anniversary weekend celebration in June 2014, Jodi Boyle arranged new accessions and updated EAD finding aid.</item>
+      </change>
+      <change>
+        <date>2013</date>
+        <item>Encoded in EAD by Kimberly Gianfrancesco</item>
       </change>
     </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>CHI SIGMA THETA SORORITY RECORDS (UA806)<date normal="1914/2014" type="inclusive">1914-2014, Undated</date>
-      </titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2013</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua806</unitid>
-      <unittitle>Chi Sigma Theta Sorority Records<unitdate type="inclusive" normal="1914/2014" label="Date:">1914-2014, Undated</unitdate>
-      </unittitle>
-      <physdesc label="Physical Characteristics:">
-        <extent unit="cubic ft.">15.58</extent>
-      </physdesc>
-      <origination>
-        <corpname encodinganalog="110" source="local">Chi Sigma Theta Sorority</corpname>
-      </origination>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:"> The Chi Sigma Theta Sorority Records contain documents related to
-        the history, activities and alumnae of the Chi Sigma Theta Sorority at the University at
-        Albany.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Chi Sigma Theta Sorority Records<unitdate normal="1914/2014" type="inclusive">1914-2014, Undated</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">Chi Sigma Theta Sorority</corpname>
+      </origination>
+      <unitid>ua806</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">15.58 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_a3c1e0693568d2e584daae6b49b1250e">The Chi Sigma Theta Sorority Records contain documents related to the history, activities and alumnae of the Chi Sigma Theta Sorority at the University at Albany.</abstract>
+      <langmaterial id="aspace_692ab4e9dae954ace6ceec158e930c8b">English</langmaterial>
+      <physloc id="aspace_83973feed3448e6ebbee6dcaaee2bcf0">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_023ea037703750bb1d77e4cbd4a8edce">
+      <head>Processing Information</head>
+      <p>Processed in 1992 by Shawne Rosenberg and Sherry Schneiderman.</p>
+    </processinfo>
+    <accessrestrict id="aspace_cea3a8fa59fd3723fb7315151e3aa1b1">
       <head>Access</head>
-      <p> Access to this collection is unrestricted with the exception of select files noted below.
-        Researchers seeking access to these materials should contact the head of Special Collections
-        and Archives. </p>
+      <p>Access to this collection is unrestricted with the exception of select files noted below. Researchers seeking access to these materials should contact the head of Special Collections and Archives.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_29948858b76e68ab10c76be64095c4f0">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_76ca037b55e24e845a15f19c64484999">
       <head>Acquisition Information</head>
-      <p>A small portion of these records were transferred to the M.E. Grenander Department of
-        Special Collections and Archives by the Alumni Association in 1991. The bulk of the records
-        were deposited by Carol Siver, Class of 1965, in 2002. Since then the collection has been
-        augmented several times through donations from individual alumni, including at the 100th
-        anniversary celebration in June 2014.</p>
+      <p>A small portion of these records were transferred to the M.E. Grenander Department of Special Collections and Archives by the Alumni Association in 1991. The bulk of the records were deposited by Carol Siver, Class of 1965, in 2002. Since then the collection has been augmented several times through donations from individual alumni, including at the 100th anniversary celebration in June 2014.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_8a2e91b8d31824347ad2185e9edc1da3">
       <head>Biographical Sketch</head>
-      <p>Chi Sigma Theta, a local sorority founded at the New York State College for Teachers (now
-        the University at Albany), traced its origins to the Newman Club, a campus Catholic study
-        society founded in 1908. The Newman Club reorganized to form Kappa Nu Sorority on October 5,
-        1914. In 1920 the name of the sorority was changed to Chi Sigma Theta for reasons that are
-        unclear. The Sorority had one main objective: "Chi Sigma Theta established its ideals of
-        loyalty, companionship, and sincerity, which each girl takes a pledge to uphold" (<emph render="italic">State College News</emph>, November 13, 1964, 5).</p>
-      <p>Like many sororities, Chi Sigma Theta maintained several traditions over the course of its
-        history. Some of these included hosting holiday parties, faculty teas, formal dinners,
-        building Homecoming floats, a candlelight ceremony for members who became engaged, and of
-        course organizing the yearly rush and pledge period. These activities are extensively
-        documented in the scrapbooks kept by the official sorority historian each year.</p>
-      <p>In the mid-1960s Greek societies at the State University of New York at Albany were forced
-        to sell their houses and move to dormitories on the new Uptown Campus. Maintaining a Greek
-        society in the dormitories was contingent on retaining sufficient members to justify setting
-        aside the floor and rooms. In the 1970s Chi Sigma Theta, along with other local Greek
-        societies at the University, suffered a steady decline in membership. The active chapter of
-        Chi Sigma Theta dissolved in 1980.</p>
-      <p>The sorority did not accept this setback as permanent. With the help of a robust alumnae
-        association, Chi Sigma Theta was reactivated on campus as a local sorority in the Spring of
-        1986 with the initiation of seven new members.</p>
-      <p>The attempt to reestablish Chi Sigma Theta as a local sorority failed. In 1988, the
-        remaining members of the active chapter merged with the University at Albany chapter of Phi
-        Sigma Sigma, a national sorority. As of at least 2013 Phi Sigma Sigma is no longer an active
-        sorority on the Albany campus. However, Chi Sigma Theta still enjoys an active alumnae
-        association.</p>
+      <p>Chi Sigma Theta, a local sorority founded at the New York State College for Teachers (now the University at Albany), traced its origins to the Newman Club, a campus Catholic study society founded in 1908. The Newman Club reorganized to form Kappa Nu Sorority on October 5, 1914. In 1920 the name of the sorority was changed to Chi Sigma Theta for reasons that are unclear. The Sorority had one main objective: "Chi Sigma Theta established its ideals of loyalty, companionship, and sincerity, which each girl takes a pledge to uphold" (<emph render="italic">State College News</emph>, November 13, 1964, 5).</p>
+      <p> Like many sororities, Chi Sigma Theta maintained several traditions over the course of its history. Some of these included hosting holiday parties, faculty teas, formal dinners, building Homecoming floats, a candlelight ceremony for members who became engaged, and of course organizing the yearly rush and pledge period. These activities are extensively documented in the scrapbooks kept by the official sorority historian each year.</p>
+      <p> In the mid-1960s Greek societies at the State University of New York at Albany were forced to sell their houses and move to dormitories on the new Uptown Campus. Maintaining a Greek society in the dormitories was contingent on retaining sufficient members to justify setting aside the floor and rooms. In the 1970s Chi Sigma Theta, along with other local Greek societies at the University, suffered a steady decline in membership. The active chapter of Chi Sigma Theta dissolved in 1980.</p>
+      <p> The sorority did not accept this setback as permanent. With the help of a robust alumnae association, Chi Sigma Theta was reactivated on campus as a local sorority in the Spring of 1986 with the initiation of seven new members.</p>
+      <p> The attempt to reestablish Chi Sigma Theta as a local sorority failed. In 1988, the remaining members of the active chapter merged with the University at Albany chapter of Phi Sigma Sigma, a national sorority. As of at least 2013 Phi Sigma Sigma is no longer an active sorority on the Albany campus. However, Chi Sigma Theta still enjoys an active alumnae association.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The Chi Sigma Theta Sorority Records include administrative records such as constitutions,
-        member lists, and meeting minutes; subject files related to sorority activities and
-        traditions such as event publicity and songs; and several years' worth of composite
-        photographs of the sorority members. There are many scrapbooks kept by the sorority
-        historian, documenting Chi Sigma Theta's activities each year, as well as a box of
-        preservation photocopies of these scrapbooks. The memorabilia includes textiles such as
-        blazers, blankets and banners; jewelry such as rings, pins and necklaces; and various other
-        items bearing the Chi Sigma symbol.</p>
+    <scopecontent id="aspace_71831a8802bbb79927df4ac7dad0204c">
+      <head>Scope and Contents</head>
+      <p>The Chi Sigma Theta Sorority Records include administrative records such as constitutions, member lists, and meeting minutes; subject files related to sorority activities and traditions such as event publicity and songs; and several years' worth of composite photographs of the sorority members. There are many scrapbooks kept by the sorority historian, documenting Chi Sigma Theta's activities each year, as well as a box of preservation photocopies of these scrapbooks. The memorabilia includes textiles such as blazers, blankets and banners; jewelry such as rings, pins and necklaces; and various other items bearing the Chi Sigma symbol.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_7e7982e3a9e56eee169af8cc02cfafed">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series:</p>
-      <list type="simple">
-        <item>Series 1 - Administrative and Subject Files, 1914-2014, Undated</item>
-        <item>Series 2 - Scrapbooks, 1952-1987</item>
-        <item>Series 3 - Memorabilia, 1960-2014, Undated</item>
-      </list>
       <p>Series 1 and 3 are arranged alphabetically. Series 2 is arranged chronologically.</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-           Try to give as many access points as you can to increase the chances of 
-           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-           to comment them out! -->
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany </corpname>
-      <corpname encodinganalog="610" source="lcsh">Chi Sigma Theta Sorority </corpname>
-      <subject encodinganalog="650" source="lcsh">Greek letter societies--New York
-        (State)--Albany</subject>
-      <subject encodinganalog="650" source="lcsh">Sorority songs</subject>
-      <subject encodinganalog="650" source="lcsh">Initiations (into trades, societies,
-        etc.)</subject>
-      <subject encodinganalog="650" source="lcsh">Women--New York (State)--Albany--Societies and
-        clubs</subject>
-      <genreform encodinganalog="655" source="lcsh">Correspondence</genreform>
-      <genreform encodinganalog="655" source="lcsh">Minutes and proceedings</genreform>
-      <genreform encodinganalog="655" source="lcsh">Newsletters</genreform>
-      <genreform encodinganalog="655" source="lcsh">Photographs</genreform>
-      <genreform encodinganalog="655" source="lcsh">Scrapbooks</genreform>
-    </controlaccess>
-    <prefercite encodinganalog="524">
+    <prefercite id="aspace_866f1ed342157deb81d9a7b8bb15aee6">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Chi Sigma Theta Sorority Records,
-        1914-1989. M.E. Grenander Department of Special Collections and Archives, University
-        Libraries, University at Albany, State University of New York (hereafter referred to as the
-        Chi Sigma Sorority Records).</p>
+      <p> Identification of specific item, series, box, folder, Chi Sigma Theta Sorority Records, 1914-1989. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Chi Sigma Sorority Records).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <!-- Start series 1-->
-      <c01 level="series" id="nam_ua806-1">
+    <controlaccess>
+      <subject source="lcsh">Greek letter societies--New York (State)--Albany</subject>
+      <subject source="lcsh">Sorority songs</subject>
+      <subject source="lcsh">Initiations (into trades, societies, etc.)</subject>
+      <subject source="lcsh">Women--New York (State)--Albany--Societies and clubs</subject>
+      <genreform source="lcsh">Correspondence</genreform>
+      <genreform source="lcsh">Minutes and proceedings</genreform>
+      <genreform source="lcsh">Newsletters</genreform>
+      <genreform source="lcsh">Photographs</genreform>
+      <genreform source="lcsh">Scrapbooks</genreform>
+      <corpname source="lcsh">State University of New York at Albany</corpname>
+      <corpname source="lcsh">Chi Sigma Theta Sorority</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_f3e20a032ed29839c4c6888931e63e57" level="series">
         <did>
+          <unittitle>Administrative and Subject Files</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Administrative and Subject Files</unittitle>
           <unitdate normal="1914/1989" type="inclusive">1914-1989</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/1989">Undated</unitdate>
+          <unitdate normal="1914/1989" type="inclusive">Undated</unitdate>
         </did>
-        <arrangement>
-          <p> Arranged alphabetically. </p>
+        <arrangement id="aspace_abbc08b85033060b65b69972c234483e">
+          <head>Arrangement</head>
+          <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
-          <p>This series contains records relating to the administration and activities of the Chi
-            Sigma Theta Sorority. Meeting minutes, membership and initiation lists, constitutions,
-            pledge books and other materials document the sorority's actitivites. Although there are
-            some older materials, the bulk of this series documents the 1960s through the 1980s.
-            This series also includes sorority traditions, publicity materials, and some records
-            relating to alumnae. Please note that while the collection contains composite
-            photographs of all sorority members across several decades, the dates are not
-            inclusive.</p>
+        <scopecontent id="aspace_02f94843004882977044a1d23f11402b">
+          <head>Scope and Contents</head>
+          <p>This series contains records relating to the administration and activities of the Chi Sigma Theta Sorority. Meeting minutes, membership and initiation lists, constitutions, pledge books and other materials document the sorority's actitivites. Although there are some older materials, the bulk of this series documents the 1960s through the 1980s. This series also includes sorority traditions, publicity materials, and some records relating to alumnae. Please note that while the collection contains composite photographs of all sorority members across several decades, the dates are not inclusive.</p>
         </scopecontent>
-        <c02 id="nam_ua806-1_1">
+        <c02 id="aspace_c21954b1fb3fad878ed7ad70dfdaaabb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Alumnae Association minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946/1950">1946-1950</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1955/1956">1955-1956</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1964">1958-1964</unitdate>
+            <unitdate normal="1946/1950" type="inclusive">1946-1950</unitdate>
+            <unitdate normal="1955/1956" type="inclusive">1955-1956</unitdate>
+            <unitdate normal="1958/1964" type="inclusive">1958-1964</unitdate>
+            <container id="aspace_81c523a6320139a982ad4c0dfe4fa55f" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_3961ef185a9aa716cea4fbc1a757886a" parent="aspace_81c523a6320139a982ad4c0dfe4fa55f" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_2">
+        <c02 id="aspace_b0565bdd582a47581ed803106cba0e78" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
-            <unittitle><emph render="italic">Alumnae News</emph>, <emph render="italic">The Chi
-                Sigma Theta Press</emph> and <emph render="italic">News from Chi Sigma Theta
-              </emph></unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975">1975</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982/1987">1982-1987</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2014">2014</unitdate>
-            <note>
-              <p><emph render="italic">The Chi Sigma Theta Press</emph> is gift of Allison Berg Khan
-                '77</p>
-            </note>
+            <unittitle><emph render="italic">Alumnae News</emph>, <emph render="italic">The Chi Sigma Theta Press</emph> and <emph render="italic">News from Chi Sigma Theta </emph></unittitle>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <unitdate normal="1982/1987" type="inclusive">1982-1987</unitdate>
+            <unitdate normal="2014/2014" type="inclusive">2014</unitdate>
+            <container id="aspace_4cff6a5e178d4892aa98c03279db8f38" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_9de9f81506479547f40da41c2deb9905" parent="aspace_4cff6a5e178d4892aa98c03279db8f38" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_3">
+        <c02 id="aspace_5230adc5d3d2f8238b8948a98a4abb95" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Alumni Association board members list</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_888d4af78c7eea67a2ef3ab0b271c09e" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_cf8f0e5092ce8d0a5ff592d885fea8db" parent="aspace_888d4af78c7eea67a2ef3ab0b271c09e" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_4">
+        <c02 id="aspace_685bce9c01a6446a49429a29d6913cc1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Alumni Reunion reception</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_46933f64ee0167a6514ceb9024ea3683" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_13806cd68e1d62ec77b1a2eefd1cdf8d" parent="aspace_46933f64ee0167a6514ceb9024ea3683" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_5">
+        <c02 id="aspace_9a0e974c2a5355850a98cf4d925f0c33" level="file">
           <did>
-            <container type="Oversized">1</container>
-            <container type="Folder">1-2</container>
             <unittitle>Composite photographs</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956/1988">1956-1988</unitdate>
-            <note>
-              <p>1961-1963 composite photographs are a gift of Marietta Raneri '64. 1968-1970
-                photographs are a gift of Catherine Bertini '71. 1976 composite photograph is gift
-                of Allison Berg Khan '77</p>
-            </note>
+            <unitdate normal="1956/1988" type="inclusive">1956-1988</unitdate>
+            <container id="aspace_c0071119808fd11c697e732bea394ca6" label="Mixed Materials" type="Oversized">1</container>
+            <container id="aspace_edd285632a0e611231d26ee910b51c43" parent="aspace_c0071119808fd11c697e732bea394ca6" type="Folder">1-2</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_6">
+        <c02 id="aspace_f1bb0f5726671c82c38edfaf97a5da5a" level="file">
           <did>
-            <container type="Flat-File">1</container>
             <unittitle>Composite photographs</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966">1966</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972/1973">1972-1973</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1978">1977-1978</unitdate>
+            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+            <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
+            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container id="aspace_0daf87b40abb61f0b2d095675e56147f" label="Mixed Materials" type="Flat-File">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_7">
+        <c02 id="aspace_a099ef79a561aaaa23f669df46e1f2e8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Conflict Party bid</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">1967</unitdate>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_f7acceaca65f4dc094402c708e493a1e" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_e78fe9ee56b5d3e873c5c445bcb5f95a" parent="aspace_f7acceaca65f4dc094402c708e493a1e" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_8">
+        <c02 id="aspace_a2d1a0be780849d315b1f07f47f90f36" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Constitution</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1949">1949</unitdate>
+            <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+            <container id="aspace_1e081adb5dda9bb4806981b31804f07c" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_9cf433218dd4507feb68125f2ce1ab29" parent="aspace_1e081adb5dda9bb4806981b31804f07c" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_9">
+        <c02 id="aspace_c895f669fa2e81b516ce9f7b0fa1d848" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Constitution</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_801f2a79ad9d1ab9069019a54d5bad69" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_f1627874dd9c7b079bd0e51399aeb140" parent="aspace_801f2a79ad9d1ab9069019a54d5bad69" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_10">
+        <c02 id="aspace_7eca3623dc8f2f5900f78c7696c10dc7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Constitution</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977">1977</unitdate>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_59a3b63431c612189ed503b66cfec6c2" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_5fe0c879bc0d8b824ec53422a3a8a42a" parent="aspace_59a3b63431c612189ed503b66cfec6c2" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_11">
+        <c02 id="aspace_9133e65398f36497a9e3df5714fade2a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Constitution</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_6480e1d18445fa2494bf03ee0aba8cb7" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_0f9d9582a4737260dad31fe11e10d907" parent="aspace_6480e1d18445fa2494bf03ee0aba8cb7" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_12">
+        <c02 id="aspace_55ecae83fb0ec425c35f880f70eb24c8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Constitution</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_87487cf8803a39ca2c77898103701aab" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_c307986f49764266cbfd6e2dd94124f2" parent="aspace_87487cf8803a39ca2c77898103701aab" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_13">
+        <c02 id="aspace_17180cf973697cb0b96e21d2337e0d2a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Contents of 1986 pledge binder - Laura</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985/1987">1985-1987</unitdate>
+            <unitdate normal="1985/1987" type="inclusive">1985-1987</unitdate>
+            <container id="aspace_599106b34d9318ec7d58d12c47a672ec" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_de59b38ef0c05f48baee88e407737090" parent="aspace_599106b34d9318ec7d58d12c47a672ec" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_14">
+        <c02 id="aspace_7bcc0c6f3e9542367fbead4a66d26849" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Contents of 1986 pledge binder - Robin</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_2fd3d1020266caf323a43ee2f0ecd25d" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_e6248759b7a94d86a7fdfda7e57c8b95" parent="aspace_2fd3d1020266caf323a43ee2f0ecd25d" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_15">
+        <c02 id="aspace_1fe30d8523383a36cbadf8b89b36f375" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968">1968</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_82b75220a4a8552c4c92133449cc5ba8" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_a269fe56f7f5dca745def9cfb5319f0b" parent="aspace_82b75220a4a8552c4c92133449cc5ba8" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_16">
+        <c02 id="aspace_99038237d459f77540a6b7d81f4ccd94" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Dissolution and merger correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1989">1988-1989</unitdate>
+            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container id="aspace_5cd3c271a9e986efa3ea6bdf9fb23bf3" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_255fe4ccb2d72aaa7f1a2235eff3615f" parent="aspace_5cd3c271a9e986efa3ea6bdf9fb23bf3" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_17">
+        <c02 id="aspace_293fa47c9b047203351f2124111b6f4b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Event publicity</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_9bdd1c0768991e90780585740c4a769a" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_47c69ef4d1b0fd0870adf79bba068c18" parent="aspace_9bdd1c0768991e90780585740c4a769a" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_18">
+        <c02 id="aspace_49ed1d2d592905ad81a4fd40896f1ab1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Event publicity</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972">1972</unitdate>
+            <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_90281ca127f961367bcd595ef8cd9bb2" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_cd660fa30f28500df367c124b6a228ce" parent="aspace_90281ca127f961367bcd595ef8cd9bb2" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_19">
+        <c02 id="aspace_eb08e9ea9e6bae192fef40e82dcf9706" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>Event publicity</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973">1973</unitdate>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_5da8c3bb79aa18ed96f72e82d2a9bad9" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_118da6cd99f8bc924acd46dd3b255bb6" parent="aspace_5da8c3bb79aa18ed96f72e82d2a9bad9" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_20">
+        <c02 id="aspace_2f39b3f254515c7444bfbd2a4c54d7a6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>Event publicity</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_164e1dae39b57934b25713e781c30d80" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_64ce056eb9c5bdbe82206c16d286344f" parent="aspace_164e1dae39b57934b25713e781c30d80" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_21">
+        <c02 id="aspace_c5f1adf050e02ad74b207c4932fece4a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>Event publicity</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977">1977</unitdate>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_34948762d192c45a8add1f05b9c66b91" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_307f03318180d08b428e71800c589229" parent="aspace_34948762d192c45a8add1f05b9c66b91" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_22">
+        <c02 id="aspace_29e2c6eee6e98be4376c3cd019e8bb6c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>
               <emph render="italic">Expression</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_993f855feea64f8d5bdbd7a158917e19" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_d06211f3b76c79a564745396bd088e7e" parent="aspace_993f855feea64f8d5bdbd7a158917e19" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_23">
+        <c02 id="aspace_2d7084d1c53a669e5a65f1a97eb103e0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>Family tree of Joan Bostwick '52</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
-            <note>
-              <p>Gift of Sally Smith Cook '65</p>
-            </note>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_6f0a5a35cad74a0ce7a11594c8662616" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_8f2670f008dd86b155f8515756faaa95" parent="aspace_6f0a5a35cad74a0ce7a11594c8662616" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_24">
+        <c02 id="aspace_df7aae5c5518c26e7fd38d2f679d4ac6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>Formation of Kappa Nu<emph render="italic">The Echo</emph></unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914">1914</unitdate>
+            <unitdate normal="1914/1914" type="inclusive">1914</unitdate>
+            <container id="aspace_026914aa752e53a46384a3a4932c8e8e" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_c6c76ccaa5bc7b9cbf3e32768da3adb3" parent="aspace_026914aa752e53a46384a3a4932c8e8e" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_25">
+        <c02 id="aspace_c6e29198a2202a432a92747436dcf70b" level="file">
           <did>
-            <container type="Oversized">2</container>
             <unittitle>Guest book</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966/1969">1966-1969</unitdate>
+            <unitdate normal="1966/1969" type="inclusive">1966-1969</unitdate>
+            <container id="aspace_a791d2d5052d8a3279838f57959717d8" label="Mixed Materials" type="Oversized">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_26">
+        <c02 id="aspace_6da8d95e76ce0ed76097e4f9021140ca" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23</container>
             <unittitle>Guest book - [RESTRICTED]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974/1977">1974-1977</unitdate>
+            <unitdate normal="1974/1977" type="inclusive">1974-1977</unitdate>
+            <container id="aspace_79ac2dec7e688d9337b18e277a9b8e44" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_8e197ac6caa35dafead8b26f71765051" parent="aspace_79ac2dec7e688d9337b18e277a9b8e44" type="Folder">23</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_c3e92b178e99c0cd09053a7254192e43">
+            <head>Conditions Governing Access</head>
             <p>Must consult archivist before viewing this material.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua806-1_27">
+        <c02 id="aspace_2537acf8bd1ce86ea8332bf5cd726c07" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">24</container>
             <unittitle>Guest book - [RESTRICTED]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974/1978">1974-1978</unitdate>
+            <unitdate normal="1974/1978" type="inclusive">1974-1978</unitdate>
+            <container id="aspace_ce2e4b178f34b3516faca7f2636b79fe" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_7672d52b781000613a4fb4be9598f285" parent="aspace_ce2e4b178f34b3516faca7f2636b79fe" type="Folder">24</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_361d0e81469d3db03e4660c110940c45">
+            <head>Conditions Governing Access</head>
             <p>Must consult archivist before viewing this material.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua806-1_28">
+        <c02 id="aspace_cb8abe3285aa7b16e1374279227f671a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">25</container>
             <unittitle>Initiation pledge lists photocopies</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1911/1985">ca.
- 1916-1980</unitdate>
+            <unitdate normal="1911/1985" type="inclusive">ca. 1916-1980</unitdate>
+            <container id="aspace_f460f9d4172e7d3e948db0b75a2351a7" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_8f4e9f17d313a850e7995aa397da725e" parent="aspace_f460f9d4172e7d3e948db0b75a2351a7" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_29">
+        <c02 id="aspace_b74d4511777c6c8e29559df3fed38c4f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">26</container>
             <unittitle>Invitatin to join Chi Sigma Theta</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960">1960</unitdate>
-            <note>
-              <p>Gift of Marietta Raneri '64</p>
-            </note>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_8ab384c81dfa5bccc744846c6bd4f2c1" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_0f88d636ff75d70611aa02efdc535c73" parent="aspace_8ab384c81dfa5bccc744846c6bd4f2c1" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_30">
+        <c02 id="aspace_e8eb9d5557fd045c21fae0599f9e61cf" level="file">
           <did>
-            <container type="Oversized">2</container>
             <unittitle>List of officers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1921/1945">1921-1945</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951/1962">1951-1962</unitdate>
-            <note>
-              <p>Gift of Carol Castorina Reid '66</p>
-            </note>
+            <unitdate normal="1921/1945" type="inclusive">1921-1945</unitdate>
+            <unitdate normal="1951/1962" type="inclusive">1951-1962</unitdate>
+            <container id="aspace_53228050664f2c4bf9365104e01f00f1" label="Mixed Materials" type="Oversized">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_31">
+        <c02 id="aspace_d64d72491f816a9ef2cb1928ace8987f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">27</container>
             <unittitle>Meeting rules</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977">1977</unitdate>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_7601356f3ab89b9e69379d615d573bf9" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_97f7094b435101707954a90fe911b6a8" parent="aspace_7601356f3ab89b9e69379d615d573bf9" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_32">
+        <c02 id="aspace_3ffabf2c0d12b600639fde5ce99e0f62" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">28</container>
             <unittitle>Membership lists</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1957/1967">ca.
- 1962</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
+            <unitdate normal="1957/1967" type="inclusive">ca. 1962</unitdate>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_88ef52ac2d9a88bad5947e7ddec001f9" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_163538f4ca6292c7f72a1314158134f0" parent="aspace_88ef52ac2d9a88bad5947e7ddec001f9" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_33">
+        <c02 id="aspace_424f09e283583850ec098dedf691d990" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">29</container>
             <unittitle>Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971/1976">1971-1976</unitdate>
+            <unitdate normal="1971/1976" type="inclusive">1971-1976</unitdate>
+            <container id="aspace_ad59dc21640a78065b08f68b3182426e" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_70805d3cd9736bde314b9d6d061ae966" parent="aspace_ad59dc21640a78065b08f68b3182426e" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_34">
+        <c02 id="aspace_a5ad96eb2f0d388fe025699e22575fe7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">30</container>
             <unittitle>Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/1976">1975-1976</unitdate>
+            <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
+            <container id="aspace_e7bad19f790929255376a4bb7d824e1f" label="Mixed Materials" type="Box">1 (1-Administrative and Subject Files)</container>
+            <container id="aspace_6d9ab87fe4b92b7605e36ee875a0839d" parent="aspace_e7bad19f790929255376a4bb7d824e1f" type="Folder">30</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_35">
+        <c02 id="aspace_db6bb09301f00055b7aac82ffbc22cd1" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976/1977">1976-1977</unitdate>
+            <unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate>
+            <container id="aspace_be8c3babb696f59a54ddb00a8d561a2e" label="Mixed Materials" type="Box">2 (1-Administrative and Subject Files)</container>
+            <container id="aspace_689ef355c6940248d5423435043dfe0e" parent="aspace_be8c3babb696f59a54ddb00a8d561a2e" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_36">
+        <c02 id="aspace_b7869fd2d65fdd8fb648dcf364491e28" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976/1978">1976-1978</unitdate>
+            <unitdate normal="1976/1978" type="inclusive">1976-1978</unitdate>
+            <container id="aspace_d48b8f8e39ddc39bfd50b02b810e1bfd" label="Mixed Materials" type="Box">2 (1-Administrative and Subject Files)</container>
+            <container id="aspace_2b5d33d8bb2972be15f0aaabc6360bb2" parent="aspace_d48b8f8e39ddc39bfd50b02b810e1bfd" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_37">
+        <c02 id="aspace_8db65f785332871689cd571049549d10" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Meeting minutes and membership list</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1993">ca.
- 1988</unitdate>
+            <unitdate normal="1983/1993" type="inclusive">ca. 1988</unitdate>
+            <container id="aspace_6868f0b883f5c3ed18ab388201c6e418" label="Mixed Materials" type="Box">2 (1-Administrative and Subject Files)</container>
+            <container id="aspace_0e7feb7c1b731f2e778dbab29063c6f5" parent="aspace_6868f0b883f5c3ed18ab388201c6e418" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_38">
+        <c02 id="aspace_4f724c4ee22a383501c1a2a4f272aa00" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>100th Anniversary Reunion</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2014">2014</unitdate>
+            <unitdate normal="2014/2014" type="inclusive">2014</unitdate>
+            <container id="aspace_b08089ce8c903c6befe85c2afecac8e9" label="Mixed Materials" type="Box">2 (1-Administrative and Subject Files)</container>
+            <container id="aspace_67c82ed23ced786c20f1bb2aa718e6a9" parent="aspace_b08089ce8c903c6befe85c2afecac8e9" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_39">
+        <c02 id="aspace_27a2591390af204c78c25073560bb757" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>Panhellenic Rush</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_8b8fc3de0ff7cda2a4a8ccfcae837355" label="Mixed Materials" type="Box">2 (1-Administrative and Subject Files)</container>
+            <container id="aspace_023fed5ced7ff7476c76c312de194483" parent="aspace_8b8fc3de0ff7cda2a4a8ccfcae837355" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_40">
+        <c02 id="aspace_a05367e16b93da88eea9b8dd104878c6" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>Photographs (preservation photocopies)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_cf36ca01db0edb0dc07262b95e7f4de2" label="Mixed Materials" type="Box">2 (1-Administrative and Subject Files)</container>
+            <container id="aspace_20b4fd1788931a8e48021b1858ce247e" parent="aspace_cf36ca01db0edb0dc07262b95e7f4de2" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_41">
+        <c02 id="aspace_97c6493028b1b9381fa8268412d9fa7e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
             <unittitle>Pledge book</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950/1960">ca.
- 1955</unitdate>
-            <note>
-              <p>Gift of Irma Tognola Haller '59</p>
-            </note>
+            <unitdate normal="1950/1960" type="inclusive">ca. 1955</unitdate>
+            <container id="aspace_cd7cbb6655540cbece6a018388f56d29" label="Mixed Materials" type="Box">2 (1-Administrative and Subject Files)</container>
+            <container id="aspace_01331bf878cf0e81a70b36a0ca560d12" parent="aspace_cd7cbb6655540cbece6a018388f56d29" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_42">
+        <c02 id="aspace_f3bff857f74a23dbad135c0c7dcd2865" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
             <unittitle>Pledge books</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951/1961">ca.
- 1956</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956/1966">ca.
- 1960</unitdate>
-            <note>
-              <p>Gifts of Joan Hagon LaFalce '60 and Marietta Raneri '64</p>
-            </note>
+            <unitdate normal="1951/1961" type="inclusive">ca. 1956</unitdate>
+            <unitdate normal="1956/1966" type="inclusive">ca. 1960</unitdate>
+            <container id="aspace_879aa8b0e5a79dcd882452965db540ca" label="Mixed Materials" type="Box">2 (1-Administrative and Subject Files)</container>
+            <container id="aspace_3d36f4d80fc00c7c18b30e34221536aa" parent="aspace_879aa8b0e5a79dcd882452965db540ca" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_43">
+        <c02 id="aspace_267b185f68e1e2003028ab9736b77586" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
             <unittitle>Pledge books</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
-            <note>
-              <p>The 1974 pledge book is a gift of Susan Eckstein '76; donor of 1986 one is
-                unknown</p>
-            </note>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_0078549b566c9233b52cf55cad443afb" label="Mixed Materials" type="Box">2 (1-Administrative and Subject Files)</container>
+            <container id="aspace_30147865ef68a0b2069f43b7b6db2c60" parent="aspace_0078549b566c9233b52cf55cad443afb" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_44">
+        <c02 id="aspace_1a68e008b79db15360249ce372a382ef" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10</container>
             <unittitle>Pledge list</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963">1963</unitdate>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_ded62678b4bb749188f2710bfd318257" label="Mixed Materials" type="Box">2 (1-Administrative and Subject Files)</container>
+            <container id="aspace_57e27016e34ec2038bd099898d9ac940" parent="aspace_ded62678b4bb749188f2710bfd318257" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_45">
+        <c02 id="aspace_a07550d087b7dd7f8a9a7b1779680329" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">11</container>
             <unittitle>Pledge songs</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_4fc9517e15a1a99842538dbbdea2acf1" label="Mixed Materials" type="Box">2 (1-Administrative and Subject Files)</container>
+            <container id="aspace_95146de6f2aa198cc6fd09c1a0790fc3" parent="aspace_4fc9517e15a1a99842538dbbdea2acf1" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_46">
+        <c02 id="aspace_e4b753d9b926fa82e693298192bc50d9" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">12</container>
             <unittitle>Reformation correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985/1986">1985-1986</unitdate>
+            <unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate>
+            <container id="aspace_54f34cd09506804b8fdb6bc415b136ca" label="Mixed Materials" type="Box">2 (1-Administrative and Subject Files)</container>
+            <container id="aspace_fce2f69dabfe968db4af71f9e7c55863" parent="aspace_54f34cd09506804b8fdb6bc415b136ca" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_47">
+        <c02 id="aspace_ee6517129857e6f665291a630fef5095" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">13</container>
             <unittitle>Rush poster</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_8baf17cc093bdc5895c80aa3122b893f" label="Mixed Materials" type="Box">2 (1-Administrative and Subject Files)</container>
+            <container id="aspace_144a4bb9f24561a5f9dc050d20f9651e" parent="aspace_8baf17cc093bdc5895c80aa3122b893f" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_48">
+        <c02 id="aspace_25725ffdf297d707aab6e857967dcd45" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">14</container>
             <unittitle>75th Anniversary Luncheon</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989">1989</unitdate>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_cb2ac99c748529dad14ca4a77a0d4199" label="Mixed Materials" type="Box">2 (1-Administrative and Subject Files)</container>
+            <container id="aspace_c2461ef2679ba286b33b5964e90175f2" parent="aspace_cb2ac99c748529dad14ca4a77a0d4199" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_49">
+        <c02 id="aspace_e40405253fc17903bed1815c294b969d" level="file">
           <did>
-            <container type="Oversized">2</container>
             <unittitle>Signatures of pledge class members</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920/1986">1920-1986</unitdate>
-            <note>
-              <p>Gift of Carol Castorina Reid '66</p>
-            </note>
+            <unitdate normal="1920/1986" type="inclusive">1920-1986</unitdate>
+            <container id="aspace_33571b64440acb08ca2b17812910f787" label="Mixed Materials" type="Oversized">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_50">
+        <c02 id="aspace_8549f510f3cc5154dbc02a7d8492978b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">15</container>
             <unittitle>Songs</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965/1985">ca.
- 1970s</unitdate>
+            <unitdate normal="1965/1985" type="inclusive">ca. 1970s</unitdate>
+            <container id="aspace_9b0df1080c9736f0b214d1ed950626b0" label="Mixed Materials" type="Box">2 (1-Administrative and Subject Files)</container>
+            <container id="aspace_122a871645cd60b643eb5dd51237e949" parent="aspace_9b0df1080c9736f0b214d1ed950626b0" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_51">
+        <c02 id="aspace_d021986ec4771f34378e90d9a3956c0e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">16</container>
             <unittitle>Sorority faculty list</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963">1963</unitdate>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_999d61d00308d416963a8861904348b1" label="Mixed Materials" type="Box">2 (1-Administrative and Subject Files)</container>
+            <container id="aspace_34b1e4fc258e3cba775afd88337569dc" parent="aspace_999d61d00308d416963a8861904348b1" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_52">
+        <c02 id="aspace_317d4f2007cb5bd86a6cfc6db438704c" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">17</container>
             <unittitle>Special Group Housing correspondence and agreements</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1979">1977-1979</unitdate>
+            <unitdate normal="1977/1979" type="inclusive">1977-1979</unitdate>
+            <container id="aspace_69ca8277cdcf840e6b98182a9abbc3b2" label="Mixed Materials" type="Box">2 (1-Administrative and Subject Files)</container>
+            <container id="aspace_ac80d265d10f51a444f608180666aa45" parent="aspace_69ca8277cdcf840e6b98182a9abbc3b2" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_53">
+        <c02 id="aspace_bbd327bd90177bae99f7e63c24fe740a" level="file">
           <did>
-            <container type="Oversized">2</container>
             <unittitle><emph render="italic">State College News</emph> (bound volume)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1957-02/1957-12">1957 February-1957 December</unitdate>
+            <unitdate normal="1957-02/1957-12" type="inclusive">1957 February-1957 December</unitdate>
+            <container id="aspace_f44956d97f7cfcd9ff9f165a998e640d" label="Mixed Materials" type="Oversized">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-1_54">
+        <c02 id="aspace_3234b073443c7c7871e011cf806cb653" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">18</container>
             <unittitle>Treasurer's report</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
+            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+            <container id="aspace_16f647bb44af383d787bd0bf680dd49d" label="Mixed Materials" type="Box">2 (1-Administrative and Subject Files)</container>
+            <container id="aspace_7d88664d5a46f909ddd130fdd704aade" parent="aspace_16f647bb44af383d787bd0bf680dd49d" type="Folder">18</container>
           </did>
         </c02>
       </c01>
-      <!-- Start series 2-->
-      <c01 level="series" id="nam_ua806-2">
+      <c01 id="aspace_76a0bfb54305628fc08cf9ace8dcbd63" level="series">
         <did>
+          <unittitle>Scrapbooks</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Scrapbooks</unittitle>
           <unitdate normal="1952/1987" type="inclusive">1952-1987</unitdate>
         </did>
-        <arrangement>
-          <p> Arranged chronologically. </p>
+        <arrangement id="aspace_3186d37d10f5b1618c97e2ff23f866cd">
+          <head>Arrangement</head>
+          <p>Arranged chronologically.</p>
         </arrangement>
-        <scopecontent>
-          <p>This series consists mostly of scrapbooks kept by Chi Sigma Theta's official sorority
-            historian, documenting the activities of the sorority for that year. There are also two
-            scrapbooks kept by individual sorority members.</p>
+        <scopecontent id="aspace_3ca3d3dffe3925ba0361dc99152b90a1">
+          <head>Scope and Contents</head>
+          <p>This series consists mostly of scrapbooks kept by Chi Sigma Theta's official sorority historian, documenting the activities of the sorority for that year. There are also two scrapbooks kept by individual sorority members.</p>
         </scopecontent>
-        <c02 id="nam_ua806-2_1">
+        <c02 id="aspace_89f9acfde21b0f51c04e4a2a6f423454" level="file">
           <did>
-            <container type="Oversized">3</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1952/1956">1952-1956</unitdate>
+            <unitdate normal="1952/1956" type="inclusive">1952-1956</unitdate>
+            <container id="aspace_03cffe59729460f0fefc9874d6c426a0" label="Mixed Materials" type="Oversized">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-2_2">
+        <c02 id="aspace_9cfe2d437b72b45944158929d6151266" level="file">
           <did>
-            <container type="Oversized">4</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1955/1959">1955-1959</unitdate>
-            <note>
-              <p>Gift of Irma Tognola Haller '59</p>
-            </note>
+            <unitdate normal="1955/1959" type="inclusive">1955-1959</unitdate>
+            <container id="aspace_6bdf37881130890dfb54605726358cb2" label="Mixed Materials" type="Oversized">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-2_3">
+        <c02 id="aspace_369300a6b00a0b75a972187bf2b8af01" level="file">
           <did>
-            <container type="Oversized">5</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956/1957">1956-1957</unitdate>
+            <unitdate normal="1956/1957" type="inclusive">1956-1957</unitdate>
+            <container id="aspace_b6ceb8baba20aee58e7fef9fffd83bb2" label="Mixed Materials" type="Oversized">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-2_4">
+        <c02 id="aspace_ccd3046ee342a4b768db9ac9e2c8fed4" level="file">
           <did>
-            <container type="Oversized">6</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1959">1958-1959</unitdate>
+            <unitdate normal="1958/1959" type="inclusive">1958-1959</unitdate>
+            <container id="aspace_f3114aef0768dea8d1792ae0a62f4240" label="Mixed Materials" type="Oversized">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-2_5">
+        <c02 id="aspace_ae09fcb9da80379f5808cf441b738dee" level="file">
           <did>
-            <container type="Oversized">7</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959/1960">1959-1960</unitdate>
+            <unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate>
+            <container id="aspace_94f0af06414d2766e6ea022368fd7e26" label="Mixed Materials" type="Oversized">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-2_6">
+        <c02 id="aspace_8424f89e64401e04a6b9e5fc0c7e4439" level="file">
           <did>
-            <container type="Oversized">8</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1963">1962-1963</unitdate>
+            <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
+            <container id="aspace_0ae53c614a853d6cc020a0c13bafc612" label="Mixed Materials" type="Oversized">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-2_7">
+        <c02 id="aspace_3d0d27caf6f2c043c0e8370782b208d9" level="file">
           <did>
-            <container type="Oversized">9</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964/1965">1964-1965</unitdate>
+            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container id="aspace_49b9c1d40925880f9bfc06be46469222" label="Mixed Materials" type="Oversized">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-2_8">
+        <c02 id="aspace_aaa70eff52e0c9443b94d247481c10ac" level="file">
           <did>
-            <container type="Oversized">10</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965/1966">1965-1966</unitdate>
+            <unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate>
+            <container id="aspace_c1ed7b485a6654a76d92dd64f6695f68" label="Mixed Materials" type="Oversized">10</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-2_9">
+        <c02 id="aspace_c2f2bc49e1101fea78e46ed90a138b41" level="file">
           <did>
-            <container type="Oversized">11</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966/1967">1966-1967</unitdate>
+            <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
+            <container id="aspace_8de633da692f217556ef14d0b6a63669" label="Mixed Materials" type="Oversized">11</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-2_10">
+        <c02 id="aspace_9048e44b40998a474ca781f2c2633162" level="file">
           <did>
-            <container type="Oversized">12</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/1968">1967-1968</unitdate>
+            <unitdate normal="1967/1968" type="inclusive">1967-1968</unitdate>
+            <container id="aspace_7bc3367470b8221e7802b44286e72935" label="Mixed Materials" type="Oversized">12</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-2_11">
+        <c02 id="aspace_5170e097da819e9737375bc962f190ea" level="file">
           <did>
-            <container type="Oversized">13</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1969">1968-1969</unitdate>
+            <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
+            <container id="aspace_ffbd4c1574237a48cf30646159a13814" label="Mixed Materials" type="Oversized">13</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-2_12">
+        <c02 id="aspace_0167444f8c72f021f560b5e1bb2cc317" level="file">
           <did>
-            <container type="Oversized">14</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1970">1969-1970</unitdate>
+            <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
+            <container id="aspace_f087587e040ede89e3e5aa4e70c6d3cf" label="Mixed Materials" type="Oversized">14</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-2_13">
+        <c02 id="aspace_c955488a78715fa3065dee3ff2d3b0af" level="file">
           <did>
-            <container type="Oversized">15</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970/1971">1970-1971</unitdate>
+            <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
+            <container id="aspace_fc90a30ff72f2723e73ae3d44bc608fd" label="Mixed Materials" type="Oversized">15</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-2_14">
+        <c02 id="aspace_2a339c4ece0b3213037e4148b899af51" level="file">
           <did>
-            <container type="Oversized">16</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971-09">1971 Fall</unitdate>
+            <unitdate normal="1971-09/1971-09" type="inclusive">1971 Fall</unitdate>
+            <container id="aspace_e10600b3ecbd250883e199dff5d4c4f9" label="Mixed Materials" type="Oversized">16</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-2_15">
+        <c02 id="aspace_c4eca5fe6ad4411e113e34eb64b8550e" level="file">
           <did>
-            <container type="Oversized">17</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972-03">1972 Spring</unitdate>
+            <unitdate normal="1972-03/1972-03" type="inclusive">1972 Spring</unitdate>
+            <container id="aspace_f2cba46de913a2a64be43f88e65fbd01" label="Mixed Materials" type="Oversized">17</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-2_16">
+        <c02 id="aspace_39b7a7cedace51aaa0643d8c3883c3d6" level="file">
           <did>
-            <container type="Oversized">18</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973/1974">1973-1974</unitdate>
+            <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+            <container id="aspace_052e57d2b31ca922b16c993aa8ee5443" label="Mixed Materials" type="Oversized">18</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-2_17">
+        <c02 id="aspace_4c7e1bb4983a35a67afd9c0862c58064" level="file">
           <did>
-            <container type="Oversized">19</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973-03">1973 Spring</unitdate>
+            <unitdate normal="1973-03/1973-03" type="inclusive">1973 Spring</unitdate>
+            <container id="aspace_207705edcd1ab30f0e83018519a8a6bf" label="Mixed Materials" type="Oversized">19</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-2_18">
+        <c02 id="aspace_e707898c939f67098ca0bb270dbfbaeb" level="file">
           <did>
-            <container type="Oversized">20-21</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973-09">1973 Fall</unitdate>
+            <unitdate normal="1973-09/1973-09" type="inclusive">1973 Fall</unitdate>
+            <container id="aspace_bbd5aaeb667145a58a71eebab1f28895" label="Mixed Materials" type="Oversized">20-21</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-2_19">
+        <c02 id="aspace_045f73b7f35282ddb4f08b9fc07c96c7" level="file">
           <did>
-            <container type="Oversized">27</container>
             <unittitle>Pledge Scrapbook, with 1974 composite photograph included</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974-09">1974 Fall</unitdate>
-            <note>
-              <p>Gift of Allison Berg Khan '77</p>
-            </note>
+            <unitdate normal="1974-09/1974-09" type="inclusive">1974 Fall</unitdate>
+            <container id="aspace_ce1634e33f50a0d2c30909c4e5ffcc16" label="Mixed Materials" type="Oversized">27</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-2_20">
+        <c02 id="aspace_b1d14156f48f681ea6d678b9121b5c13" level="file">
           <did>
-            <container type="Oversized">22-23</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974 Spring</unitdate>
+            <unitdate normal="1974/1974" type="inclusive">1974 Spring</unitdate>
+            <container id="aspace_bf2385cfb98c19b45f87b05433738640" label="Mixed Materials" type="Oversized">22-23</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-2_21">
+        <c02 id="aspace_23a8945d629e99422e665d057ae3bb16" level="file">
           <did>
-            <container type="Oversized">24</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976-03">1976 Spring</unitdate>
+            <unitdate normal="1976-03/1976-03" type="inclusive">1976 Spring</unitdate>
+            <container id="aspace_d27882d6c0fb8c231db6a0583ac910e5" label="Mixed Materials" type="Oversized">24</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-2_22">
+        <c02 id="aspace_41d9d08af31341c489a139af374ab89b" level="file">
           <did>
-            <container type="Oversized">25</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986/1987">1986-1987</unitdate>
+            <unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate>
+            <container id="aspace_e3708141eda3ff078dfe24685406fdc0" label="Mixed Materials" type="Oversized">25</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-2_23">
+        <c02 id="aspace_f7e17c2a0ea6023078803eb8242ff3ec" level="file">
           <did>
-            <container type="Oversized">26</container>
             <unittitle>Scrapbook</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_8e0d214926e5bb24f825fb82614c2628" label="Mixed Materials" type="Oversized">26</container>
           </did>
         </c02>
       </c01>
-      <!-- Start series 3-->
-      <c01 level="series" id="nam_ua806-3">
+      <c01 id="aspace_9c0479cb2f6b20e6c255eb904a519198" level="series">
         <did>
+          <unittitle>Memorabilia</unittitle>
           <unitid>3</unitid>
-          <unittitle label="Series">Memorabilia</unittitle>
           <unitdate normal="1960/2014" type="inclusive">1960-2014</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
+          <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
         </did>
-        <arrangement>
-          <p> Arranged alphabetically. </p>
+        <arrangement id="aspace_b3b898c826a9e9baf204ce5fb8cc5f18">
+          <head>Arrangement</head>
+          <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
-          <p>This series contains objects related to the Chi Sigma Theta Sorority. It includes
-            jewelry, textiles such as blazers and banners, household items like plates and
-            silverware, Spring Weekend keepsakes, and various other objects related to Chi Sigma. </p>
-          <p>Some of the pins in this collection were passed on to active sorority members from
-            alumnae. Further information on the custodial history of those items may be found in the
-            Chi Sigma Theta collection file.</p>
+        <scopecontent id="aspace_52a0a5cd876039586e191f0d2536ed93">
+          <head>Scope and Contents</head>
+          <p>This series contains objects related to the Chi Sigma Theta Sorority. It includes jewelry, textiles such as blazers and banners, household items like plates and silverware, Spring Weekend keepsakes, and various other objects related to Chi Sigma. </p>
+          <p> Some of the pins in this collection were passed on to active sorority members from alumnae. Further information on the custodial history of those items may be found in the Chi Sigma Theta collection file.</p>
         </scopecontent>
-        <c02 id="nam_ua806-3_1">
+        <c02 id="aspace_68e4dcb5e036116793c8672474c798c0" level="file">
           <did>
-            <container type="Artifact-box">1</container>
             <unittitle>Ashtray</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_b918e5811d6e5c84e338938a71e1c95e" label="Mixed Materials" type="Artifact-box">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_2">
+        <c02 id="aspace_19ade65048ba69f4c74d6ce68963aad6" level="file">
           <did>
-            <container type="Artifact-box">2</container>
             <unittitle>Banner, red and white, 3' x 4'</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_fbadaaa9be1cdc24853f95cb154503b7" label="Mixed Materials" type="Artifact-box">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_3">
+        <c02 id="aspace_956dea6b000350f4486662815845a3ca" level="file">
           <did>
-            <container type="Artifact-box">2</container>
             <unittitle>Banner, red and white, 4' x 6'</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1991">ca.
- 1986</unitdate>
+            <unitdate normal="1981/1991" type="inclusive">ca. 1986</unitdate>
+            <container id="aspace_8cbdab86be4617831469fae04becc470" label="Mixed Materials" type="Artifact-box">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_4">
+        <c02 id="aspace_0e69efc7441120cb734921d06ddb883a" level="file">
           <did>
-            <container type="Artifact-box">3</container>
             <unittitle>Beer mug</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966">1966</unitdate>
-            <note>
-              <p>Gift of Maria Tucci Testa '66</p>
-            </note>
+            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_fa3ef538b4328289cb9cbf471b99c0b0" label="Mixed Materials" type="Artifact-box">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_5">
+        <c02 id="aspace_b3368fc894ad355523f6e14e25c9a9a5" level="file">
           <did>
-            <container type="Artifact-box">2</container>
             <unittitle>Blanket, red and white, 4.5' x 3.5'</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_89a926be22229bfae0e9d1807d1243d2" label="Mixed Materials" type="Artifact-box">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_6">
+        <c02 id="aspace_ddf6a1e1e1f940a3a8d443ae351d163f" level="file">
           <did>
-            <container type="Artifact-box">2</container>
             <unittitle>Blanket, purple, 2' x 28"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_d71795ec53901761adddd566dd19d83a" label="Mixed Materials" type="Artifact-box">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_7">
+        <c02 id="aspace_a35d90fc58436db5ec23eea2a72b0318" level="file">
           <did>
-            <container type="Artifact-box">10</container>
             <unittitle>Blankets, red and white, 4.5' x 3.5'</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
-            <note>
-              <p>Gift of Carol Bertini '71</p>
-            </note>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_db0e4f5377fe39f391aef39bdf6a6499" label="Mixed Materials" type="Artifact-box">10</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_8">
+        <c02 id="aspace_68605982c39c55c81d58257e01c4a092" level="file">
           <did>
-            <container type="Artifact-box">4</container>
             <unittitle>Blazer, red</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
-            <note>
-              <p>Gift of Heidi Norton Klinowski '68</p>
-            </note>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_eb10d5a71416bc9e3488c7eee55d2ca4" label="Mixed Materials" type="Artifact-box">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_9">
+        <c02 id="aspace_957c9ae106a6284997692bdfb8a96c90" level="file">
           <did>
-            <container type="Artifact-box">4</container>
             <unittitle>Blazer, cream</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
-            <note>
-              <p>Gift of Shirley Edsall '54</p>
-            </note>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_eef37f8f21daabdd32c29e5c7227e112" label="Mixed Materials" type="Artifact-box">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_10">
+        <c02 id="aspace_4ac19e0aee3e0a7f0fe34e934d5db6c0" level="file">
           <did>
-            <container type="Artifact-box">4</container>
             <unittitle>Blazer, cream</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
-            <note>
-              <p>Gift of Kitty Kloser Irons '52</p>
-            </note>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_d334987675da7e2fa279bf9027e5a0ff" label="Mixed Materials" type="Artifact-box">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_11">
+        <c02 id="aspace_92d6422d3d480815101a73f70d2ebde1" level="file">
           <did>
-            <container type="Artifact-box">4</container>
             <unittitle>Burlap wall hanging</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_5c219fdc09b3329bc200482560204f63" label="Mixed Materials" type="Artifact-box">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_12">
+        <c02 id="aspace_906d5abf1e3030bb1c62e15f274511c8" level="file">
           <did>
-            <container type="Artifact-box">4</container>
             <unittitle>Chi Sigma Theta golf shirt, red</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
-            <note>
-              <p>Gift of Ruth Bald '67</p>
-            </note>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_8b54220bac00c96c9f418c3957bff082" label="Mixed Materials" type="Artifact-box">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_13">
+        <c02 id="aspace_f226afcfad8b7a01a61865750ca3e88b" level="file">
           <did>
-            <container type="Artifact-box">8</container>
             <unittitle>Chi Sigma Theta mug with "Allison" brand</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977">1977</unitdate>
-            <note>
-              <p>Gift of Allison Berg Khan '77</p>
-            </note>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_01f4468d788d8020e9b9585f29827c55" label="Mixed Materials" type="Artifact-box">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_14">
+        <c02 id="aspace_01577e7fa4acc5e44297ba8a3e8b0698" level="file">
           <did>
-            <container type="Artifact-box">8</container>
             <unittitle>Chi Sigma Theta mug with "Marietta" brand</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
-            <note>
-              <p>Gift of Marietta Raneri '64</p>
-            </note>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_d0bdb81923724b8b20220ccd0d5c0523" label="Mixed Materials" type="Artifact-box">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_15">
+        <c02 id="aspace_9659201b8b74ea973e893bfdbcd803da" level="file">
           <did>
-            <container type="Artifact-box">12</container>
             <unittitle>Glassware</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
-            <note>
-              <p>Gift of Catherine Bertini '71</p>
-            </note>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_ed5ab6549c37856197e488aa24c407c1" label="Mixed Materials" type="Artifact-box">12</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_16">
+        <c02 id="aspace_c3998051b44d31a8af5af529ce9f6416" level="file">
           <did>
-            <container type="Artifact-box">5</container>
             <unittitle>Leather Chi Sigma Theta shield, framed</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_b00b6078c7f42f7a77f630bb4f7de4de" label="Mixed Materials" type="Artifact-box">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_17">
+        <c02 id="aspace_fc970b3e7ae5b65a745d01ec411f95bf" level="file">
           <did>
-            <container type="Artifact-box">5</container>
             <unittitle>Leather Chi Sigma Theta shield, unframed</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_554b02f321a5fbb7ffc88d7e6c7b283c" label="Mixed Materials" type="Artifact-box">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_18">
+        <c02 id="aspace_3f0b478e26ca975070f468e57a478e70" level="file">
           <did>
-            <container type="Artifact-box">5</container>
             <unittitle>Leather pillow cases (2)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_eb8f87b0c858154717469ed90d9d56f3" label="Mixed Materials" type="Artifact-box">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_19">
+        <c02 id="aspace_605ca1ced0158bb79b530e25586bd6ad" level="file">
           <did>
-            <container type="Artifact-box">5</container>
             <unittitle>Leather sign</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_54466137a83600ddcfe36e43d4d1ec6b" label="Mixed Materials" type="Artifact-box">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_20">
+        <c02 id="aspace_24e83411b179ea6e14918e985f73e128" level="file">
           <did>
-            <container type="Artifact-box">6</container>
             <unittitle>Necklaces, gold tone</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_67ef8ad5a71dc14b325c04a3165bc7f5" label="Mixed Materials" type="Artifact-box">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_21">
+        <c02 id="aspace_a7cd9a11e738320c5c0fa72e5c01f77c" level="file">
           <did>
-            <container type="Artifact-box">6</container>
             <unittitle>Necklaces, silver tone</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_278f7b33964f482a12397f6b8e82c9ef" label="Mixed Materials" type="Artifact-box">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_22">
+        <c02 id="aspace_9b4e310f0f1783f49e95017cf1385e94" level="file">
           <did>
-            <container type="Artifact-box">9</container>
             <unittitle>100th anniversary beads</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2014">2014</unitdate>
+            <unitdate normal="2014/2014" type="inclusive">2014</unitdate>
+            <container id="aspace_f9f21c41ea8bb9f958b3d28328303a97" label="Mixed Materials" type="Artifact-box">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_23">
+        <c02 id="aspace_8075596ad0aa359757b943e6e70b2e62" level="file">
           <did>
-            <container type="Flat-File">2</container>
             <unittitle>100th anniversary poster</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2014">2014</unitdate>
+            <unitdate normal="2014/2014" type="inclusive">2014</unitdate>
+            <container id="aspace_bbd9176c5eecfcd94ccb37e28c1b7505" label="Mixed Materials" type="Flat-File">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_24">
+        <c02 id="aspace_d2e62f6c418118efb6092750cf3217c9" level="file">
           <did>
-            <container type="Artifact-box">7</container>
             <unittitle>Outstanding Juniors plaque</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966/1973">1966-1973</unitdate>
+            <unitdate normal="1966/1973" type="inclusive">1966-1973</unitdate>
+            <container id="aspace_9dbe84f8f35eef82048377871dcbd2f4" label="Mixed Materials" type="Artifact-box">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_25">
+        <c02 id="aspace_48e17987ba0c02a7f4a6fbd47cebc4cc" level="file">
           <did>
-            <container type="Artifact-box">9</container>
             <unittitle>Paper and ribbon crowns, red and white</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_0c98f347978835d979692fade7cbf867" label="Mixed Materials" type="Artifact-box">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_26">
+        <c02 id="aspace_5727627557e9bbaa529bb5d3d5b26e5f" level="file">
           <did>
-            <container type="Artifact-box">5</container>
             <unittitle>Pillow labeled Chi Sigma Theta and "Allison"</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
-            <note>
-              <p>Gift of Allison Berg Khan '77</p>
-            </note>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_9b9b915a6ac83e38a282bf05086c66ef" label="Mixed Materials" type="Artifact-box">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_27">
+        <c02 id="aspace_d014dfc11a18283b5c08c75faf9cf325" level="file">
           <did>
-            <container type="Artifact-box">6</container>
             <unittitle>Pins</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
-            <note>
-              <p>Gifts of Maria Maniaci Rawe '66, Deborah Fox '77</p>
-            </note>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_90db8b777091c213463c8cb2cd7987d2" label="Mixed Materials" type="Artifact-box">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_28">
+        <c02 id="aspace_989c414015b0ea920b64bdcc0e5a8e7f" level="file">
           <did>
-            <container type="Artifact-box">6</container>
             <unittitle>Pin belonging to Ruth Lockard Hanford '27</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
-            <note>
-              <p>Gift of Marie Austin '65</p>
-            </note>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_143fa8c3190cb50099b9cbfa030d4e22" label="Mixed Materials" type="Artifact-box">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_29">
+        <c02 id="aspace_04cd22b004af0ecf62d84d1fdb9b4308" level="file">
           <did>
-            <container type="Artifact-box">6</container>
             <unittitle>Pin possibly belonging to Catherine M. Hagel '17</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
-            <note>
-              <p>Gift of Irma Tognola Haller '59</p>
-            </note>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_d619cc33402c537c78ef1a0d2477ee4e" label="Mixed Materials" type="Artifact-box">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_30">
+        <c02 id="aspace_a7da3cbbf38b6b485bf5f04dccd84dad" level="file">
           <did>
-            <container type="Artifact-box">6</container>
             <unittitle>Pin with torch</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
-            <note>
-              <p>Gift of Maria Testa Tucci '66</p>
-            </note>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_f32f950b4eadbff7896463b44501f067" label="Mixed Materials" type="Artifact-box">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_31">
+        <c02 id="aspace_a7409b0f7bcf1e6733b8e4c705ae8bdb" level="file">
           <did>
-            <container type="Artifact-box">1</container>
             <unittitle>Plate</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
-            <note>
-              <p>Gift of Maria Maniaci Rawe '66</p>
-            </note>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_c7f97555f6871c30020b809f46313a30" label="Mixed Materials" type="Artifact-box">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_32">
+        <c02 id="aspace_f09f042901cff32ebf25235344a0b86a" level="file">
           <did>
-            <container type="Artifact-box">6</container>
             <unittitle>Ring</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
-            <note>
-              <p>Gift of Heidi Norton Klinowski '68</p>
-            </note>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_b894eddde093bc66619ab4d66a8f9734" label="Mixed Materials" type="Artifact-box">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_33">
+        <c02 id="aspace_ddf5909abd9930cdfef0e91958574978" level="file">
           <did>
-            <container type="Artifact-box">6</container>
             <unittitle>Ring, pin and pendant</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
-            <note>
-              <p>Gift of Marilyn Sanderspree Patton '67</p>
-            </note>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_f5cc57d06f58bb3092a4141dfe2c78bd" label="Mixed Materials" type="Artifact-box">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_34">
+        <c02 id="aspace_376d1a92256c2f064ec665f8b8e5a459" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>Rush Party Invitation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1955/1965">ca.
- 1960</unitdate>
-            <note>
-              <p>Gift of Marietta Raneri '64</p>
-            </note>
+            <unitdate normal="1955/1965" type="inclusive">ca. 1960</unitdate>
+            <container id="aspace_b7fe777b9e6a083ef277ea1d54f11db7" label="Mixed Materials" type="Box">3 (3-Memorabilia)</container>
+            <container id="aspace_8f9c3ac14f4c527d3326d568fd1a4b70" parent="aspace_b7fe777b9e6a083ef277ea1d54f11db7" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_35">
+        <c02 id="aspace_6ba8b41cf1194019567fdc90156a0df4" level="file">
           <did>
-            <container type="Artifact-box">6</container>
             <unittitle>Silverware</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
-            <note>
-              <p>Gift of Maria Maniaci Rawe '66</p>
-            </note>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_3de93a770596549ee197015888d23584" label="Mixed Materials" type="Artifact-box">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_36">
+        <c02 id="aspace_701f4c6d8a088553a139d276988f8aa0" level="file">
           <did>
-            <container type="Artifact-box">6</container>
             <unittitle>Spring Rush '88 button</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_decac6d13ed2fa81dc70d2a8f3a12be2" label="Mixed Materials" type="Artifact-box">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_37">
+        <c02 id="aspace_0a3a85e045ef3e7a5e952134b7f27c08" level="file">
           <did>
-            <container type="Artifact-box">3</container>
             <unittitle>Spring Weekend jug</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
-            <note>
-              <p>Gift of Michelle Miller Bloom '67</p>
-            </note>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_013a42d939f2ab547a01f7baa27256a9" label="Mixed Materials" type="Artifact-box">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_38">
+        <c02 id="aspace_b8131b98aa62bb17a6f7621656287a46" level="file">
           <did>
-            <container type="Artifact-box">11</container>
             <unittitle>Spring Weekend jugs</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
-            <physdesc>
-              <extent>3 jugs.</extent>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">3 jugs.</extent>
             </physdesc>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_2af58b01ad2a08fcd1cabf31fd0d4385" label="Mixed Materials" type="Artifact-box">11</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_39">
+        <c02 id="aspace_84dad1924ffbd7e47111c5698aa73195" level="file">
           <did>
-            <container type="Artifact-box">6</container>
             <unittitle>Spring Weekend beer stein</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966">1966</unitdate>
-            <note>
-              <p>Gift of Michelle Miller Bloom '67</p>
-            </note>
+            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_90dfbf725dbe5c2df9901a32a172b523" label="Mixed Materials" type="Artifact-box">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_40">
+        <c02 id="aspace_52699faf1f8899a1447a042f2ab3776b" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>Spring Weekend program</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960">1960</unitdate>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_146da52073362577b6b03becda84fa38" label="Mixed Materials" type="Box">3 (3-Memorabilia)</container>
+            <container id="aspace_b67e8b0a548a5e91670efd5ffdb2108c" parent="aspace_146da52073362577b6b03becda84fa38" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_41">
+        <c02 id="aspace_c680637c71fa6064ba42a0793300a724" level="file">
           <did>
-            <container type="Artifact-box">2</container>
             <unittitle>Spring Weekend towel</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">1967</unitdate>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_94f4a51348552c8bf550cb521d523ebd" label="Mixed Materials" type="Artifact-box">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_42">
+        <c02 id="aspace_52703c5e4f9585e801d1109526332eea" level="file">
           <did>
-            <container type="Artifact-box">6</container>
             <unittitle>Stamp, etched copper plate</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_591ef4c66453feb021bce20918f31e1c" label="Mixed Materials" type="Artifact-box">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_43">
+        <c02 id="aspace_97d9632f032cc49a7bf6408e07342b88" level="file">
           <did>
-            <container type="Artifact-box">8</container>
             <unittitle>State University of New York at Albany mug</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
-            <note>
-              <p>Gift of Allison Berg Khan '77</p>
-            </note>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_cd14a08ae4ecd87c0f46140192668a7a" label="Mixed Materials" type="Artifact-box">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua806-3_44">
+        <c02 id="aspace_5b74b30cdc1438de06047c2075209d28" level="file">
           <did>
-            <container type="Artifact-box">4</container>
             <unittitle>Sweatshirt</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1914/2014">Undated</unitdate>
-            <note>
-              <p>Gift of Joan Ferrari Newman '61</p>
-            </note>
+            <unitdate normal="1914/2014" type="inclusive">Undated</unitdate>
+            <container id="aspace_be3ec218fde7c894f361607c89d0d720" label="Mixed Materials" type="Artifact-box">4</container>
           </did>
         </c02>
       </c01>

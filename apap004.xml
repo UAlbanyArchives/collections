@@ -1,345 +1,239 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap004">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap004.xml" identifier="##">nam_apap004</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap004">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap004.xml">apap004</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>ALBANY COUNTY CIVIC CENTER COLLECTION (APAP004)<date normal="1984/1988" type="inclusive">1984-1988</date></titleproper>
+        <titleproper>Albany County Civic Center; Collection <num>apap004</num></titleproper>
         <author>Geoffrey A. Huth</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="1990-08-03">Copyright 1990 August 3 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>1990 August 3</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>
-				Eric R. Buist
-				<date normal="2014">2014</date>
-			</creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 13:33:11 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date/>
-        <item/>
+        <date>2014</date>
+        <item>Encoded in EAD by Eric R. Buist</item>
       </change>
     </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>ALBANY COUNTY CIVIC CENTER COLLECTION (APAP004)<date normal="1984/1988" type="inclusive">1984-1988</date></titleproper>
-      <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2014</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap004</unitid>
-      <unittitle>Albany County Civic Center Collection<unitdate type="inclusive" normal="1984/1988" label="Date:">1984-1988</unitdate></unittitle>
-      <origination>
-        <corpname encodinganalog="110" source="local">Albany County Civic Center</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">0.75</extent>
-      </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">
-				The Albany County Civic Center Collection documents the policy decisions that went into
-				planning an arena in downtown Albany.  Originally named the Knickerbocker Arena, it was
-				later known as the Pepsi Arena and the Times Union Center.
-			</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located on site in the department.</physloc>
+      <unittitle>Albany County Civic Center Collection<unitdate normal="1984/1988" type="inclusive">1984-1988</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">Albany County Civic Center</corpname>
+      </origination>
+      <unitid>apap004</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.75 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_b81199f95478059939ae46f0c092c247">The Albany County Civic Center Collection documents the policy decisions that went into planning an arena in downtown Albany. Originally named the Knickerbocker Arena, it was later known as the Pepsi Arena and the Times Union Center.</abstract>
+      <langmaterial id="aspace_817dc632f3369f54395dd8de087a721b">English</langmaterial>
+      <physloc id="aspace_9446654d56abd5c2c63042c53d8f39be">The materials are located on site in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_9ccd7a00beb99ed96303bcaf528cbe52">
+      <head>Processing Information</head>
+      <p>Processed in 1990 August 3 by Geoffrey A. Huth.</p>
+    </processinfo>
+    <accessrestrict id="aspace_c997e357ea595b641dd88e7a4f44c25a">
       <head>Access</head>
       <p>Access to these records is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_262456de8285f87c32c25b059aab81d1">
       <head>Copyright</head>
-      <p>
-				The researcher assumes full responsibility for conforming with the laws of copyright.
-				Whenever possible, the M.E. Grenander Department of Special Collections and Archives
-				will provide information about copyright owners and other restrictions, but the legal
-				determination ultimately rests with the researcher. Requests for permission to publish
-				material from this collection should be discussed with the Head of Special Collections
-				and Archives.
-			</p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_a628732b944b918b393b27617e5990b9">
       <head>Acquisition Information</head>
-      <p>
-				All items in this manuscript group were donated to the University Libraries, M.E.
-				Grenander Department of Special Collections and Archives, by the Albany County Planning
-				Department on 24 February 1989. The items that were transferred were duplicates from the
-				planning department; otherwise, photocopies were made by the archives. 
-			</p>
+      <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by the Albany County Planning Department on 24 February 1989. The items that were transferred were duplicates from the planning department; otherwise, photocopies were made by the archives.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_bc295d3129ed09bbae65fe386e0c4879">
       <head>Organizational Sketch</head>
       <p>Planning for a downtown Albany arena began in the mid-1980. Construction began in 1987 and the Knickerbocker Arena opened in 1990 with a performance by Frank Sinatra. The building hosted concerts, and minor league and collegiate sports, as well as other events. It was known at the Pepsi Arena from 1997 to 2006 when the naming rights were sold again and the venue became known as the Times Union Center.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>
-				The Albany County Civic Center Collection is an artificial collection assembled by the
-				Department of Special Collections and Archives to document the policy decisions that went
-				into planning what became the Knickerbocker Arena (later known as the Pepsi Arena and the Times Union Center). Most
-				of the material in this collection was acquired from the Albany County Planning Department.
-				A few items were acquired from other sources: The "Draft Environmental Impact Statement"
-				of January 1985 was already in the possession of the archives; and the "Report from the
-				County Improvements Committee," "Athletic Facilities Improvement Plan" and "Albany Civic
-				Center" were duplicates retrieved from the records of the Office of University Advancement,
-				the University at Albany, SUNY. The items in this collection are organized chronologically
-				to facilitate a reading of the development of the civic center project. 
-			</p>
-      <p>
-				The earliest item in this collection is a "financial and economic analysis for a multiuse
-				civic center in Albany County, New York" prepared by Albany County's Improvements Committee.
-				This report is followed by early proposals for a civic center, including those from the
-				University at Albany, which wanted to cooperate with the county government to plan a civic
-				center that could be used by the university and the community as a whole. 
-			</p>
-      <p>
-				Included in this collection is a report from 1984 commissioned by the New York State Urban
-				Development Corporation and entitled "Capital District Civic Center--Sports Arena
-				Study--Final Report." This report was finished the year after Albany County Executive
-				James J. Coyne appointed the Albany County Civic Center Commission to study proposals for
-				a civic center.  The report examined the feasibility of having a civic center in the
-				Capital Region and evaluated a number of possible sites. 
-			</p>
-      <p>
-				The collection also includes a number of environmental reports (interim, draft and
-				final, 1984-1985) submitted to Albany County. These reports studied the previously
-				recommended site, east of the Empire State Plaza, and reported on the environmental
-				impact the civic center would have on the region. Different site layouts were examined
-				as well as related problems, such as increased traffic and noise. 
-			</p>
-      <p>
-				At the end of the collection are a few smaller items, including a 1985 market analysis
-				for a proposed 400-room hotel to be located in the southwest quadrant of the civic center
-				site. This proposed hotel would accommodate government and commercial clientele, as well
-				as people attending conventions and other events at the civic center. There are individual
-				Historic American Buildings Surveys, from 1985, for each building that would be demolished
-				to clear way for the construction of the civic center. These surveys, which included
-				photocopied photographs and descriptions of the buildings, were carried out to ensure that
-				none of the buildings were of sufficient historical or architectural value to warrant their
-				rescue. The final item in the collection is a 1988 flyer put out by Albany County announcing
-				the ongoing construction of the civic center, its attributes and its planned developments
-				(including a convention hotel, an additional exhibition hall, and retail and commercial
-				office space). The Knickerbocker Arena was completed in late 1989. 
-			</p>
-      <p>
-				There are no problems of conservation in this collection besides the acidity of the
-				paper.  The material in the folders entitled "The Capital District Civic Center--Sports
-				Arena Study--Final Report" and "Interim Environmental Report" have already been
-				photocopied onto acid-free paper. 
-			</p>
-      <p>
-				Parts of this collection are officially stored by three agencies. The Albany County
-				Hall of Records holds the environmental impact statements, the New York State Archives
-				holds the Historical American Buildings Surveys, and the University at Albany holds
-				copies of its own proposals for the civic center. 
-			</p>
+    <scopecontent id="aspace_ae4f8d87f80d9e3284faf10c8dbccb16">
+      <head>Scope and Contents</head>
+      <p>The Albany County Civic Center Collection is an artificial collection assembled by the Department of Special Collections and Archives to document the policy decisions that went into planning what became the Knickerbocker Arena (later known as the Pepsi Arena and the Times Union Center). Most of the material in this collection was acquired from the Albany County Planning Department. A few items were acquired from other sources: The "Draft Environmental Impact Statement" of January 1985 was already in the possession of the archives; and the "Report from the County Improvements Committee," "Athletic Facilities Improvement Plan" and "Albany Civic Center" were duplicates retrieved from the records of the Office of University Advancement, the University at Albany, SUNY. The items in this collection are organized chronologically to facilitate a reading of the development of the civic center project. </p>
+      <p>  The earliest item in this collection is a "financial and economic analysis for a multiuse civic center in Albany County, New York" prepared by Albany County's Improvements Committee. This report is followed by early proposals for a civic center, including those from the University at Albany, which wanted to cooperate with the county government to plan a civic center that could be used by the university and the community as a whole. </p>
+      <p>  Included in this collection is a report from 1984 commissioned by the New York State Urban Development Corporation and entitled "Capital District Civic Center--Sports Arena Study--Final Report." This report was finished the year after Albany County Executive James J. Coyne appointed the Albany County Civic Center Commission to study proposals for a civic center. The report examined the feasibility of having a civic center in the Capital Region and evaluated a number of possible sites. </p>
+      <p>  The collection also includes a number of environmental reports (interim, draft and final, 1984-1985) submitted to Albany County. These reports studied the previously recommended site, east of the Empire State Plaza, and reported on the environmental impact the civic center would have on the region. Different site layouts were examined as well as related problems, such as increased traffic and noise. </p>
+      <p>  At the end of the collection are a few smaller items, including a 1985 market analysis for a proposed 400-room hotel to be located in the southwest quadrant of the civic center site. This proposed hotel would accommodate government and commercial clientele, as well as people attending conventions and other events at the civic center. There are individual Historic American Buildings Surveys, from 1985, for each building that would be demolished to clear way for the construction of the civic center. These surveys, which included photocopied photographs and descriptions of the buildings, were carried out to ensure that none of the buildings were of sufficient historical or architectural value to warrant their rescue. The final item in the collection is a 1988 flyer put out by Albany County announcing the ongoing construction of the civic center, its attributes and its planned developments (including a convention hotel, an additional exhibition hall, and retail and commercial office space). The Knickerbocker Arena was completed in late 1989. </p>
+      <p>  There are no problems of conservation in this collection besides the acidity of the paper. The material in the folders entitled "The Capital District Civic Center--Sports Arena Study--Final Report" and "Interim Environmental Report" have already been photocopied onto acid-free paper. </p>
+      <p>  Parts of this collection are officially stored by three agencies. The Albany County Hall of Records holds the environmental impact statements, the New York State Archives holds the Historical American Buildings Surveys, and the University at Albany holds copies of its own proposals for the civic center.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_08ca0b3ebba917dbb14358020d1528d3">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following boxes:</p>
-      <list type="simple">
-        <item>Box 1</item>
-        <item>Box 2</item>
-      </list>
       <p>Folders within each box are arranged chronologically.</p>
     </arrangement>
-    <!--
-			The controlaccess section contains the various subject headings (access points) for the
-			collection.  Copy and paste to create more of them, as needed.  Use the Library of Congress
-			Name Authority Files (lcnaf) and subject headings (lcsh), the Art and Architecture
-			Thesaurus (aat), or other standards as applicable.  For each one, include the source
-			attribute (for example, source="lcnaf").  If you need to use terms that aren't in any of
-			the sources, that's fine, just set source="local".  Try to give as many access points as
-			you can to increase the chances of researchers finding your data.  Any that you do not use,
-			or that are not applicable, be sure to comment them out!
-		-->
-    <controlaccess>
-      <subject source="meg" encodinganalog="650">Albany, New York</subject>
-      <subject source="meg" encodinganalog="650">Social Activists and Public Advocates</subject>
-      <subject source="meg" encodinganalog="650">Conservation and the Environment</subject>
-      <subject source="meg" encodinganalog="650">Athletics and Sports</subject>
-      <subject source="meg" encodinganalog="650">Architecture</subject>
-      <head>Subject and Genre Headings</head>
-      <corpname encodinganalog="610" source="local">ALBANY COUNTY CIVIC CENTER</corpname>
-      <subject encodinganalog="650" source="lcsh">Civic Centers</subject>
-      <geogname encodinganalog="651" source="lcsh">New York (State)</geogname>
-      <genreform encodinganalog="655" source="aat">Reports</genreform>
-      <genreform encodinganalog="655" source="aat">Proposals</genreform>
-      <genreform encodinganalog="655" source="aat">Summaries</genreform>
-      <genreform encodinganalog="655" source="aat">Environmental Impact Statements</genreform>
-      <genreform encodinganalog="655" source="aat">Analysis</genreform>
-      <genreform encodinganalog="655" source="aat">Surveys</genreform>
-      <genreform encodinganalog="655" source="aat">Fliers</genreform>
-    </controlaccess>
-    <prefercite>
+    <prefercite id="aspace_9337d131d85a96984eb59c0e879a3e04">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Albany County Civic Center Collection, 1984-1988. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, Albany County Civic Center Collection, 1984-1988. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
-    <!--appraisal encodinganalog="583">
-			<head>Appraisal Information</head>
-			<p>## OPT Give the value of the collection and the date appraised.</p>
-		</appraisal-->
-    <!--accruals encodinganalog="584">
-			<head>Accruals</head>
-			<p>## OPT If additions to the collection are anticipated, state when, how, how much, etc.</p>
-		</accruals-->
+    <controlaccess>
+      <subject source="meg">Albany, New York</subject>
+      <subject source="meg">Social Activists and Public Advocates</subject>
+      <subject source="meg">Conservation and the Environment</subject>
+      <subject source="meg">Athletics and Sports</subject>
+      <subject source="meg">Architecture</subject>
+      <subject source="lcsh">Civic Centers</subject>
+      <geogname source="lcsh">New York (State)</geogname>
+      <genreform source="aat">Reports</genreform>
+      <genreform source="aat">Proposals</genreform>
+      <genreform source="aat">Summaries</genreform>
+      <genreform source="aat">Environmental Impact Statements</genreform>
+      <genreform source="aat">Analysis</genreform>
+      <genreform source="aat">Surveys</genreform>
+      <genreform source="aat">Fliers</genreform>
+      <corpname source="local">ALBANY COUNTY CIVIC CENTER</corpname>
+    </controlaccess>
     <dsc>
-      <head>Container List</head>
-      <c01 id="nam_apap004-1">
+      <c01 id="aspace_534de9a01e9e40c5454b6bccb4a94bf5" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>Report from the County Improvements Committee</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976">September 1976</unitdate>
+          <unitdate normal="1976/1976" type="inclusive">September 1976</unitdate>
+          <container id="aspace_60047bc75a6d532d3e718722a66317ad" label="Mixed Materials" type="Box">1 (Albany County Civic Center Collection)</container>
+          <container id="aspace_e122a804607bf8cb8c5336ea3a11d6a9" parent="aspace_60047bc75a6d532d3e718722a66317ad" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap004-2">
+      <c01 id="aspace_2040e7de5d4b9fdb27fbd3f40b35c958" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Athletic Facilities Improvement Plan--The University at Albany and the Capital Region</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1989">ca. 1984</unitdate>
+          <unitdate normal="1979/1989" type="inclusive">ca. 1984</unitdate>
+          <container id="aspace_702ffcec58f329c745e6451094b1584a" label="Mixed Materials" type="Box">1 (Albany County Civic Center Collection)</container>
+          <container id="aspace_9a64b8b7700510aacebb2774b4917614" parent="aspace_702ffcec58f329c745e6451094b1584a" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap004-3">
+      <c01 id="aspace_4031b6dccb2938aaafb2af07e3117ead" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>Albany Civic Center--State University of New York at Albany Proposal</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">January 1984</unitdate>
+          <unitdate normal="1984/1984" type="inclusive">January 1984</unitdate>
+          <container id="aspace_5f3f51f1ba975bb3b946c49564d219ef" label="Mixed Materials" type="Box">1 (Albany County Civic Center Collection)</container>
+          <container id="aspace_da5c8729810c6a1bd595e059ca605566" parent="aspace_5f3f51f1ba975bb3b946c49564d219ef" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap004-4">
+      <c01 id="aspace_3bfdb3b8fecba580617404ce64343de4" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Capital District Civic Center--Sports Arena Study--Final Report</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">August 1984</unitdate>
+          <unitdate normal="1984/1984" type="inclusive">August 1984</unitdate>
+          <container id="aspace_bfbc8d9ddb5a80f9b48d0d1915b96973" label="Mixed Materials" type="Box">1 (Albany County Civic Center Collection)</container>
+          <container id="aspace_d23ab7fdfd6cc3108a6f3152dd6a24d8" parent="aspace_bfbc8d9ddb5a80f9b48d0d1915b96973" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap004-5">
+      <c01 id="aspace_ff0b2920d82ea000780dfd6613e313c8" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Albany County Civic Center Project: Summary</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">October 1984</unitdate>
+          <unitdate normal="1984/1984" type="inclusive">October 1984</unitdate>
+          <container id="aspace_c52269f682cf415a3a72d564df78e5c3" label="Mixed Materials" type="Box">1 (Albany County Civic Center Collection)</container>
+          <container id="aspace_66879683c3ded4902c20c54bf0021637" parent="aspace_c52269f682cf415a3a72d564df78e5c3" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap004-6">
+      <c01 id="aspace_032ae447ca7665eafa0e06028a03d0e9" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Interim Environmental Report</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">October 1984</unitdate>
+          <unitdate normal="1984/1984" type="inclusive">October 1984</unitdate>
+          <container id="aspace_d1cb26e70485fc6b625aea48c398500c" label="Mixed Materials" type="Box">1 (Albany County Civic Center Collection)</container>
+          <container id="aspace_9ab2525ed1262ebdaf7cce47624aeae8" parent="aspace_d1cb26e70485fc6b625aea48c398500c" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap004-7">
+      <c01 id="aspace_c9028957f8b3ba1826dbe8db7bfbc099" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Interim Environmental Report</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">October 1984</unitdate>
+          <unitdate normal="1984/1984" type="inclusive">October 1984</unitdate>
+          <container id="aspace_749592a0f21731a37df77d6360206d03" label="Mixed Materials" type="Box">1 (Albany County Civic Center Collection)</container>
+          <container id="aspace_132e9a6141677cfcab35112b0f85da86" parent="aspace_749592a0f21731a37df77d6360206d03" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_apap004-8">
+      <c01 id="aspace_c58ded5e85254413fd0865b57a09d5c3" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">1</container>
           <unittitle>Draft Environmental Impact Statement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">January 1985</unitdate>
+          <unitdate normal="1985/1985" type="inclusive">January 1985</unitdate>
+          <container id="aspace_321823cb4387f9743f81a330ac70b478" label="Mixed Materials" type="Box">2 (Albany County Civic Center Collection)</container>
+          <container id="aspace_ca830a7379174bc2d2787b2ca8658f6d" parent="aspace_321823cb4387f9743f81a330ac70b478" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap004-9">
+      <c01 id="aspace_b5b82f2f5d1a7c7a8fb58581ed4c95bb" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">2</container>
           <unittitle>Draft Environmental Impact Statement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">January 1985</unitdate>
+          <unitdate normal="1985/1985" type="inclusive">January 1985</unitdate>
+          <container id="aspace_87b5089141d6736b1250c4dae44f8025" label="Mixed Materials" type="Box">2 (Albany County Civic Center Collection)</container>
+          <container id="aspace_e00d0fc5757113938f0cadc0c9b33c1c" parent="aspace_87b5089141d6736b1250c4dae44f8025" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap004-10">
+      <c01 id="aspace_9231852e27366b78daffa747c8ce2d31" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">3</container>
           <unittitle>Draft Environmental Impact Statement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">January 1985</unitdate>
+          <unitdate normal="1985/1985" type="inclusive">January 1985</unitdate>
+          <container id="aspace_76a06095d8affbd070e93d2dbe3cc2b2" label="Mixed Materials" type="Box">2 (Albany County Civic Center Collection)</container>
+          <container id="aspace_c73fe5f2615e7ddfd6b8bb15efec4cc3" parent="aspace_76a06095d8affbd070e93d2dbe3cc2b2" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap004-11">
+      <c01 id="aspace_388799e9ce7bc115b831d9e9ccde0b84" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">4</container>
           <unittitle>Draft Environmental Impact Statement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">January 1985</unitdate>
+          <unitdate normal="1985/1985" type="inclusive">January 1985</unitdate>
+          <container id="aspace_0316a2f9d56595c5276ac6593ddb4ccd" label="Mixed Materials" type="Box">2 (Albany County Civic Center Collection)</container>
+          <container id="aspace_918a3c04f8882549df6b206fda2adf93" parent="aspace_0316a2f9d56595c5276ac6593ddb4ccd" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap004-12">
+      <c01 id="aspace_b3c232215f59d49000efff57e050b8a4" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">5</container>
           <unittitle>Draft Environmental Impact Statement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">January 1985</unitdate>
+          <unitdate normal="1985/1985" type="inclusive">January 1985</unitdate>
+          <container id="aspace_1650e77764361f9d497b91f8915b07aa" label="Mixed Materials" type="Box">2 (Albany County Civic Center Collection)</container>
+          <container id="aspace_84462e9f5af93909147ab00f676d2f21" parent="aspace_1650e77764361f9d497b91f8915b07aa" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap004-13">
+      <c01 id="aspace_b04f2e8605e4753d85fc11a323cd241d" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">6</container>
           <unittitle>Draft Environmental Impact Statement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">January 1985</unitdate>
+          <unitdate normal="1985/1985" type="inclusive">January 1985</unitdate>
+          <container id="aspace_daef7007310ad257071649606d5b3b1f" label="Mixed Materials" type="Box">2 (Albany County Civic Center Collection)</container>
+          <container id="aspace_092a46d8efeee8ed8b6e1d61c63d06c7" parent="aspace_daef7007310ad257071649606d5b3b1f" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap004-14">
+      <c01 id="aspace_c3d76b243169853a4b4059846b2911bf" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">7</container>
           <unittitle>Final Environmental Impact Statement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">May 1985</unitdate>
+          <unitdate normal="1985/1985" type="inclusive">May 1985</unitdate>
+          <container id="aspace_d43dcebf0833003d9d6e3313a79f2f2a" label="Mixed Materials" type="Box">2 (Albany County Civic Center Collection)</container>
+          <container id="aspace_320bd11961e33da33b9150b90c9a0fbb" parent="aspace_d43dcebf0833003d9d6e3313a79f2f2a" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_apap004-15">
+      <c01 id="aspace_3078b2616376d596affddc0bf4abaddf" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">8</container>
           <unittitle>Market Analysis and Financial Projections for a Proposed 400-Room Hotel, Albany, New York</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">May 1985</unitdate>
+          <unitdate normal="1985/1985" type="inclusive">May 1985</unitdate>
+          <container id="aspace_09b771df3d0c156b40a1cde7b9a89220" label="Mixed Materials" type="Box">2 (Albany County Civic Center Collection)</container>
+          <container id="aspace_2fc993a479d0ef5f6f63133d5b619983" parent="aspace_09b771df3d0c156b40a1cde7b9a89220" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_apap004-16">
+      <c01 id="aspace_846bf64e004dc07070f587890fa02713" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">9</container>
           <unittitle>Historic American Buildings Surveys</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+          <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+          <container id="aspace_ac75f03f4902268525e4d6c7a0db35ed" label="Mixed Materials" type="Box">2 (Albany County Civic Center Collection)</container>
+          <container id="aspace_f3ffc8ddd83b4b6b431194a807b1a846" parent="aspace_ac75f03f4902268525e4d6c7a0db35ed" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_apap004-17">
+      <c01 id="aspace_a8f6434ad8ecd4a2124ce16e37c18074" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">10</container>
           <unittitle>Albany County Civic Center, Flyer</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">March 1988</unitdate>
+          <unitdate normal="1988/1988" type="inclusive">March 1988</unitdate>
+          <container id="aspace_3a5d3afe2b99a9d0d5a0fdd72260b907" label="Mixed Materials" type="Box">2 (Albany County Civic Center Collection)</container>
+          <container id="aspace_392eddb2a2203c361f5089a9350082df" parent="aspace_3a5d3afe2b99a9d0d5a0fdd72260b907" type="Folder">10</container>
         </did>
       </c01>
     </dsc>

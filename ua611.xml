@@ -1,819 +1,765 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua611">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="nalsu" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" url="http://library.albany.edu/speccoll/findaids/ua611.xml" identifier="##">nam_ua611</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua611">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua611.xml">ua611</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>DEPARTMENT OF AFRICAN AMERICAN STUDIES RECORDS (UA611)<date normal="1968/1976" type="inclusive"> 1968-1976</date></titleproper>
-        <author>Kerri T. Payne </author>
+        <titleproper>Africana Studies, Department of; Records <num>ua611</num></titleproper>
+        <author>Kerri T. Payne</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2012">Copyright 2012 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2012</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Jenny Collins<date normal="2013">2013</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:52:47 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2013</date>
+        <item>Encoded in EAD by Jenny Collins</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>DEPARTMENT OF AFRICAN AMERICAN STUDIES RECORDS (UA611)<date normal="1968/1976" type="inclusive">1968-1976</date></titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2007</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua611</unitid>
-      <unittitle>Department of African American Studies Records<unitdate type="inclusive" normal="1968/1976" label="Date:"> 1968-1976</unitdate></unittitle>
-      <origination>
-        <corpname encodinganalog="110" source="local">State University of New York at Albany. Department of African American Studies</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
+      </repository>
+      <unittitle>Department of African American Studies Records<unitdate normal="1968/1976" type="inclusive">1968-1976</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">State University of New York at Albany. Department of African American Studies</corpname>
       </origination>
-      <physdesc>
-        <extent unit="cubic ft.">2.33</extent>
+      <unitid>ua611</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.33 cubic ft.</extent>
         <physfacet>processed to date</physfacet>
       </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
-      </repository>
-      <abstract label="Abstract:">The Department of African American studies documents the papers and administrative processes of the development and implementation of
-      an African American Studies department at the University at Albany in the late 1960s to the late 1970s.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <abstract id="aspace_2c7aab3e1355e9a79e77d653c2e6501c">The Department of African American studies documents the papers and administrative processes of the development and implementation of an African American Studies department at the University at Albany in the late 1960s to the late 1970s.</abstract>
+      <langmaterial id="aspace_c642e2deee0028bbce379d3c1377864e">English</langmaterial>
+      <physloc id="aspace_a09e914bdb58dee4d159034f6a89d232">The materials are located onsite in the department.</physloc>
     </did>
-    <phystech>
+    <processinfo id="aspace_76cab05b2e9dd37e5eaa8675952d9fa9">
+      <head>Processing Information</head>
+      <p>Processed in 2012 by Kerri T. Payne .</p>
+    </processinfo>
+    <phystech id="aspace_e5c2a9c5ee26662c0ceea144fb2215ac">
+      <head>Physical Characteristics and Technical Requirements</head>
       <p>Web Archives</p>
     </phystech>
-    <accessrestrict>
+    <accessrestrict id="aspace_cff7c1cd20d899710105a4a329f30313">
       <head>Access</head>
-      <p> Access to these records is unrestricted except where otherwise noted in the finding aid</p>
+      <p>Access to these records is unrestricted except where otherwise noted in the finding aid</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_e172445cdc3eca58280a2fbf650ed48a">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_d9a74e4bfe6ea72f9a4469d246de7b65">
       <head>Acquisition Information</head>
-      <p>These records were transferred to the University at Albany, M.E. Grenander Department of Special Collections, by the chairs of the Department 
-      of African and Afro-American Studies. </p>
+      <p>These records were transferred to the University at Albany, M.E. Grenander Department of Special Collections, by the chairs of the Department of African and Afro-American Studies.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_09b83f96ce999d2f4995d7f8156f68ed">
       <head>Administrative History</head>
-      <p>The current department of Africana Studies is the successor to the Department 
-  of Afro-American Studies created in January 1969. The department was part 
-  of the Division of Social and Behavioral Sciences of the College of Arts and 
-  Science, which became the College of Social and Behavioral Sciences in 1977.
-  The Afro-American Studies department was created by President Collins in response 
-  to demands by an increasing African American student population, lead by the 
-  Black Student Alliance, for entry level courses in Afro-American studies.
-  On January 31, 1969, President Collins by-passed normal University channels 
-  and formed an Afro-American Studies Department scheduled to offer courses in 
-  the fall of 1969.[1] Previous to the formation of the Africana Studies Department 
-  courses had been offered during the 1960's in the departments of English (Afro 
-  American Literature Eng 583 was introduced in the Fall of 1966), History (History 
-  of the Negro in the United States, HY 254 was introduced in the fall of 1966), 
-  Sociology (Minority Groups, Soc 150, introduced in Fall of 1964). These courses 
-  would eventually form the basis for the interdisciplinary Afro-American Studies 
-  Department. </p>
-      <p>According to the 1969-1970 bulletin of the new department, "The Department 
-  of Afro-American Studies was designed...[to] supplement...the intellectual perspectives 
-  which have been characteristic of our nations historically pro-white orientation.
-  This would be accomplished through an investigation of vital disciplines such 
-  as political, historical, economic, socio-psychological and derived issues as 
-  they relate to the Black experience."[2] According to the University Final Budget 
-  request for 1970-71 the new department would concentrate specifically on "Urban 
-  Affairs and human development."[3] Though the primary focus of the department 
-  was studying the black experience in the United States, from the start the department 
-  also included courses relating to African history and culture. </p>
-      <p>The new department developed rapidly. The 1970 University Bulletin lists 
-  thirty-four courses available to an undergraduate major in Afro-American Studies 
-  in the areas of Historical Issues, Economic-Political, Socio-Psychological, 
-  or Cultural.[4] Since the Fall of 1972 the department has offered a Masters 
-  of Arts degree.[5] </p>
-      <p>In addition to its strictly academic course offerings, the African and Afro-American 
-  Studies Department served as a social support arena. It was and is the 
-  only department in which there is a substantial number of black professors, 
-  providing students with needed role models in a predominately white environment. 
-  The department serves as a home for mentors and those to be mentored. </p>
-      <p>In 1973 the Department Afro-American Studies enlarged their mission to give 
-  equal emphasis to the interdisciplinary study of Africa. In recognition of this 
-  new emphasis the Afro-American Department changed its name to the Department 
-  of African and Afro-American Studies. In 1990 the department once again changed 
-  its name to Africana Studies in recognition of a new widening of its intellectual 
-  focus--namely the inclusion of courses documenting the whole African diaspora. 
-  New areas of concentration included Caribbean and Latin American Studies. </p>
-      <p>Notes</p>
-      <p>[1] Draft letter of President Evan R. Collins to Faculties ,Senate,
-Ca. January 20,1969; Official Listing of Black Students Alliance
-Demands, January 13, 1969.</p>
-      <p>[2] The State University At Albany, Undergraduate Bulletin, 1970-71, p. 152.</p>
-      <p>[3] State University of New York at Albany, Final Budget Request, 1970-71, p. 51.</p>
-      <p>[4] State University of New York at Albany, Undergraduate Bulletin, 1970-71, p. 152-55.</p>
-      <p>[5] State University of New York at Albany, Graduate Bulletin 1972-73, p. 61</p>
+      <p>The current department of Africana Studies is the successor to the Department of Afro-American Studies created in January 1969. The department was part of the Division of Social and Behavioral Sciences of the College of Arts and Science, which became the College of Social and Behavioral Sciences in 1977. The Afro-American Studies department was created by President Collins in response to demands by an increasing African American student population, lead by the Black Student Alliance, for entry level courses in Afro-American studies. On January 31, 1969, President Collins by-passed normal University channels and formed an Afro-American Studies Department scheduled to offer courses in the fall of 1969.[1] Previous to the formation of the Africana Studies Department courses had been offered during the 1960's in the departments of English (Afro American Literature Eng 583 was introduced in the Fall of 1966), History (History of the Negro in the United States, HY 254 was introduced in the fall of 1966), Sociology (Minority Groups, Soc 150, introduced in Fall of 1964). These courses would eventually form the basis for the interdisciplinary Afro-American Studies Department. </p>
+      <p> According to the 1969-1970 bulletin of the new department, "The Department of Afro-American Studies was designed...[to] supplement...the intellectual perspectives which have been characteristic of our nations historically pro-white orientation. This would be accomplished through an investigation of vital disciplines such as political, historical, economic, socio-psychological and derived issues as they relate to the Black experience."[2] According to the University Final Budget request for 1970-71 the new department would concentrate specifically on "Urban Affairs and human development."[3] Though the primary focus of the department was studying the black experience in the United States, from the start the department also included courses relating to African history and culture. </p>
+      <p> The new department developed rapidly. The 1970 University Bulletin lists thirty-four courses available to an undergraduate major in Afro-American Studies in the areas of Historical Issues, Economic-Political, Socio-Psychological, or Cultural.[4] Since the Fall of 1972 the department has offered a Masters of Arts degree.[5] </p>
+      <p> In addition to its strictly academic course offerings, the African and Afro-American Studies Department served as a social support arena. It was and is the only department in which there is a substantial number of black professors, providing students with needed role models in a predominately white environment. The department serves as a home for mentors and those to be mentored. </p>
+      <p> In 1973 the Department Afro-American Studies enlarged their mission to give equal emphasis to the interdisciplinary study of Africa. In recognition of this new emphasis the Afro-American Department changed its name to the Department of African and Afro-American Studies. In 1990 the department once again changed its name to Africana Studies in recognition of a new widening of its intellectual focus--namely the inclusion of courses documenting the whole African diaspora. New areas of concentration included Caribbean and Latin American Studies. </p>
+      <p> Notes</p>
+      <p> [1] Draft letter of President Evan R. Collins to Faculties ,Senate,Ca. January 20,1969; Official Listing of Black Students AllianceDemands, January 13, 1969.</p>
+      <p> [2] The State University At Albany, Undergraduate Bulletin, 1970-71, p. 152.</p>
+      <p> [3] State University of New York at Albany, Final Budget Request, 1970-71, p. 51.</p>
+      <p> [4] State University of New York at Albany, Undergraduate Bulletin, 1970-71, p. 152-55.</p>
+      <p> [5] State University of New York at Albany, Graduate Bulletin 1972-73, p. 61</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>Contains the chair's correspondence of the Department
-of Afro-American (1969-1973) and subsequently African and Afro-American Studies
-(1973-1976) regarding the formation of the department in 1969 and it's subsequent
-development, as well as correspondence with colleagues in the profession
-interested in the process by which the department was founded, and relating
-to the formation of the Council on Afro-American Studies in 1969-1970.
-Also contained in the records are department faculty minutes (1969-1973),
-proposals Afro-American Studies Department, a "The Minority Summer Institute"
-(1971); requests for assistance in the development of a Puerto Rican Studies
-department; and a few faculty publications.</p>
+    <scopecontent id="aspace_0d9f213b55d9aca8bd6796e0b5fb9efe">
+      <head>Scope and Contents</head>
+      <p>Contains the chair's correspondence of the Departmentof Afro-American (1969-1973) and subsequently African and Afro-American Studies(1973-1976) regarding the formation of the department in 1969 and it's subsequentdevelopment, as well as correspondence with colleagues in the professioninterested in the process by which the department was founded, and relatingto the formation of the Council on Afro-American Studies in 1969-1970.Also contained in the records are department faculty minutes (1969-1973),proposals Afro-American Studies Department, a "The Minority Summer Institute"(1971); requests for assistance in the development of a Puerto Rican Studiesdepartment; and a few faculty publications.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_333e455c34fa0f347b76bfe576865c3d">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series:</p>
-      <list type="simple">
-        <item>Series 1: Chair's Subject Files, 1969-1976 </item>
-      </list>
     </arrangement>
-    <controlaccess>
-      <subject source="meg" encodinganalog="650">African Americans and Civil Rights Organizations</subject>
-      <subject source="meg" encodinganalog="650">Ethnic Groups</subject>
-      <subject source="meg" encodinganalog="650">Africana Studies</subject>
-      <head>Subject and Genre Headings</head>
-      <corpname encodinganalog="610" source="local">The Department of African American Studies</corpname>
-      <subject encodinganalog="650" source="lcsh">African-American studies</subject>
-      <subject encodinganalog="650" source="lcsh"> Higher education and society</subject>
-      <subject encodinganalog="650" source="lcsh"> Afro-American Studies</subject>
-      <subject encodinganalog="650" source="lcsh"> Higher education and state--United States.</subject>
-      <geogname encodinganalog="651" source="lcsh">Albany (N.Y.)</geogname>
-      <genreform encodinganalog="655" source="aat">Newsletters</genreform>
-      <genreform encodinganalog="655" source="aat">Administrative Records</genreform>
-      <genreform encodinganalog="655" source="aat">Membership</genreform>
-      <genreform encodinganalog="655" source="aat">Minutes</genreform>
-      <genreform encodinganalog="655" source="aat">Programs (documents)</genreform>
-      <genreform encodinganalog="655" source="aat">Financial Records</genreform>
-      <genreform source="meg" encodinganalog="655">Web Archives</genreform>
-    </controlaccess>
-    <prefercite>
+    <prefercite id="aspace_dd05c82fe36204f6c170a00611a6a2e9">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Department of African American Studies Records,  1968-1976. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, Department of African American Studies Records, 1968-1976. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
-    <dsc type="combined">
-      <head>Container List</head>
-      <!-- Start series 1-->
-      <c01 level="series" id="nam_ua611-1">
+    <controlaccess>
+      <subject source="meg">African Americans and Civil Rights Organizations</subject>
+      <subject source="meg">Ethnic Groups</subject>
+      <subject source="meg">Africana Studies</subject>
+      <subject source="lcsh">African-American studies</subject>
+      <subject source="lcsh">Higher education and society</subject>
+      <subject source="lcsh">Afro-American Studies</subject>
+      <subject source="lcsh">Higher education and state--United States.</subject>
+      <geogname source="lcsh">Albany (N.Y.)</geogname>
+      <genreform source="aat">Newsletters</genreform>
+      <genreform source="aat">Administrative records</genreform>
+      <genreform source="aat">Membership</genreform>
+      <genreform source="aat">Minutes</genreform>
+      <genreform source="aat">Programs (documents)</genreform>
+      <genreform source="aat">Financial Records</genreform>
+      <genreform source="meg">Web Archives</genreform>
+      <corpname source="local">The Department of African American Studies</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_8149a5f1c4b6af0ac25221fb283d219d" level="series">
         <did>
+          <unittitle>Chair's Subject Files, 1969-1976</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Chair's Subject Files, 1969-1976</unittitle>
-          <unitdate type="inclusive" normal="1910/2010">1969-1976</unitdate>
-          <unitdate type="inclusive" normal="1968/1976">Undated</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">1.33</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.33 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1910/2010" type="inclusive">1969-1976</unitdate>
+          <unitdate normal="1968/1976" type="inclusive">Undated</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_cf0adc66a90d39a5d200379dab61ca48">
+          <head>Arrangement</head>
           <p>Arranged chronologically.</p>
         </arrangement>
-        <c02 id="nam_ua611-1_1">
+        <c02 id="aspace_7573eb65e2f957607a75f4224f167ba0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Afro-American Studies Department and Program</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970/1971">1970-1971</unitdate>
+            <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
+            <container id="aspace_25e6a20fe7d1cf413730eef04254a243" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_82a0a889737364e52caad987c3d0e3cb" parent="aspace_25e6a20fe7d1cf413730eef04254a243" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_2">
+        <c02 id="aspace_821f6ad2d1b81a58f1ede2b8093f2df4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Annual Reports, 1973</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973">1973</unitdate>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_95a2068b147449d1391d6242cf348f88" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_403d24d538a4260a585337c6adb494cf" parent="aspace_95a2068b147449d1391d6242cf348f88" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_3">
+        <c02 id="aspace_9a2448137e89fb94af7140031d3e64c1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Annual Report</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/1976">1975-1976</unitdate>
+            <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
+            <container id="aspace_c7233e974f71bb0697159a6dbc5e645a" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_16348e56c5931abc2412b7fb3b4a1b86" parent="aspace_c7233e974f71bb0697159a6dbc5e645a" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_4">
+        <c02 id="aspace_92a2cf9f449123b602e53d324cddac83" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Assignments and Syllabi</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973">1973</unitdate>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_e5f4d1fa84ef9f28463feb017d7d4234" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_5e3667223cbca95d98e57ecf0a249323" parent="aspace_e5f4d1fa84ef9f28463feb017d7d4234" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_5">
+        <c02 id="aspace_5bbb47284d33c847461c2c7f75d92cdf" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Black Educators Conference Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_48b6703386e8ec86a677d2426dfa291c" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_1faf3a00dfe40f640207683c9a40b44b" parent="aspace_48b6703386e8ec86a677d2426dfa291c" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_6">
+        <c02 id="aspace_57d5a4d49a24817afc61e3ff98b19604" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Black Faculty and Staff Organization</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1970">1969-1970</unitdate>
+            <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
+            <container id="aspace_6fcb1c78f4b8f5e7afe2a0a10d22fec7" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_cc45b00ec9190589d11f5ecfebeb8a39" parent="aspace_6fcb1c78f4b8f5e7afe2a0a10d22fec7" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_7">
+        <c02 id="aspace_554dd306232a0237de8f2216e39f4c61" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Bibliography of Faculty</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973">1973</unitdate>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_bb34a353fcd962cfc2a503c397934064" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_bfb2bcf16cbcb5bbd1593d6a74f917a1" parent="aspace_bb34a353fcd962cfc2a503c397934064" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_8">
+        <c02 id="aspace_b55d75f16ff3cedc75da88d456117ab3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Budget Documents and Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970-04/1972-03">1970 April-1972 March</unitdate>
+            <unitdate normal="1970-04/1972-03" type="inclusive">1970 April-1972 March</unitdate>
+            <container id="aspace_3d609b45ec29528ac7ed48b8bf61d99d" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_d93f735c500e30f809dfceb1e4c30127" parent="aspace_3d609b45ec29528ac7ed48b8bf61d99d" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_9">
+        <c02 id="aspace_dbaa82e9458c16342152ee8e62de2382" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Budget Documents and Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972-04/1973-03">1972 April-1973 March</unitdate>
+            <unitdate normal="1972-04/1973-03" type="inclusive">1972 April-1973 March</unitdate>
+            <container id="aspace_a182720fa91b8b142b25a47f6616d930" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_98682bd2d0b58e8351f32109f591f735" parent="aspace_a182720fa91b8b142b25a47f6616d930" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_10">
+        <c02 id="aspace_e60e0ef9adb45d80b6817192f6f65b58" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Buffkins, Dr. Archie</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_0673af21b707122b156af915dff7c091" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_c44468ce8b124dd689c0e4b9814d77dc" parent="aspace_0673af21b707122b156af915dff7c091" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_11">
+        <c02 id="aspace_4c3797425210a61d0b183af1ce5ab578" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Bulletin</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1970">1969-1970</unitdate>
+            <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
+            <container id="aspace_a68ae8cc4b0a3a107c8e6d92a091a1b6" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_fedb7c9fa3ad91e7cea1132b910812e5" parent="aspace_a68ae8cc4b0a3a107c8e6d92a091a1b6" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_12">
+        <c02 id="aspace_887ee8c2128277b534e081576239312b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971/1972">1971-1972</unitdate>
+            <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+            <container id="aspace_06c25e59b476e20e0d98698747ba25f9" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_f84a39fb5ca9787afc63528ff902bd62" parent="aspace_06c25e59b476e20e0d98698747ba25f9" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_13">
+        <c02 id="aspace_7c40b8baf8d8a645b17361f8f873c928" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973/1974">1973-1974</unitdate>
+            <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+            <container id="aspace_94ad6dc2be582a5d318ca25a82d9f2f4" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_506c767a1dcd01ecdfd047aa46d99d41" parent="aspace_94ad6dc2be582a5d318ca25a82d9f2f4" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_14">
+        <c02 id="aspace_9634dc4018d5d8dc96df441166bb8890" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Correspondence, Misc.</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1979">1968-1979</unitdate>
+            <unitdate normal="1968/1979" type="inclusive">1968-1979</unitdate>
+            <container id="aspace_c310d72cfa18f99f90ab6722da9d383b" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_6339aa8fae24f0563a953f95d390b2b2" parent="aspace_c310d72cfa18f99f90ab6722da9d383b" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_15">
+        <c02 id="aspace_3ffe4ca91743d8226582875f6f80c18a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Correspondence on Workshops</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_65ece74e0fc07447cbdc5b74aee34368" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_c955188167991a4dbcbf053349f6cb38" parent="aspace_65ece74e0fc07447cbdc5b74aee34368" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_16">
+        <c02 id="aspace_703fff34a8ca43ecc0d440300188442b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Correspondence Received</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971/1972">1971-1972</unitdate>
+            <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+            <container id="aspace_2347cf2088efe260fdb04aa3394871ff" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_06cb8ddbc42d38440d8b8010d8393155" parent="aspace_2347cf2088efe260fdb04aa3394871ff" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_17">
+        <c02 id="aspace_0be9c8cf1a396d8d8544a36cb6164a70" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>Correspondence Received</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_a95fc089b22b5ac6e08e215476685846" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_eaa40ab29fea79e41f8411d6d09b89bc" parent="aspace_a95fc089b22b5ac6e08e215476685846" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_18">
+        <c02 id="aspace_e258b29930c02a3119a57e2301172ac7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>Correspondence on Research</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_15847afcc2b83c8a6b5d24081ca362a2" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_51215b306ea86db70c6c0a4fd43b5854" parent="aspace_15847afcc2b83c8a6b5d24081ca362a2" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_19">
+        <c02 id="aspace_9872a848a2b7105e44bb0e12577ee663" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>Correspondence Sent</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969">1969</unitdate>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_0e1bd4a3ce6cbaa6f8856e9096098b24" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_fc50421b351718c8089b52360e0ca814" parent="aspace_0e1bd4a3ce6cbaa6f8856e9096098b24" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_20">
+        <c02 id="aspace_ea1e424cedfd496d4e609295153137b2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>Departmental Beginnings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1970">1968-1970</unitdate>
+            <unitdate normal="1968/1970" type="inclusive">1968-1970</unitdate>
+            <container id="aspace_add7b64aab38e407a9b9c6a7543c5817" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_a0dade32ef92a1b2db2759435741f31e" parent="aspace_add7b64aab38e407a9b9c6a7543c5817" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_21">
+        <c02 id="aspace_2460eced73134d265c40d5c3d23e08a1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>Departmental Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1970">1969-1970</unitdate>
+            <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
+            <container id="aspace_7f5989213d23d32b4bc8f240a2beb11b" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_12f15d1c1a3a20aebe6837d1aaba962c" parent="aspace_7f5989213d23d32b4bc8f240a2beb11b" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_22">
+        <c02 id="aspace_cd212e2e58d31ff05485cc4c7613e7b8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>Departmental Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970/1971">1970-1971</unitdate>
+            <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
+            <container id="aspace_f0c697d9111b81d1e7cfca4b0e8a7cde" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_139255e5ba4da3900aaccf2dec7ff62b" parent="aspace_f0c697d9111b81d1e7cfca4b0e8a7cde" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_23">
+        <c02 id="aspace_bbb5b6eb68fe90fd4d0372fd4d7abe05" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23</container>
             <unittitle>Departmental Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_0fb301c770c0de62382d312e6d770bac" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_12ccd741b796e6d751a5055aabd44db6" parent="aspace_0fb301c770c0de62382d312e6d770bac" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_24">
+        <c02 id="aspace_a608daaf449101bf26df810ad29771af" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">24</container>
             <unittitle>Enrollment Data</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973/1974">1973-1974</unitdate>
+            <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+            <container id="aspace_7adf77fab2070714cb3a2ae5eeb54ee4" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_a836dfbea57fa64ee24a0b2f50fdaac9" parent="aspace_7adf77fab2070714cb3a2ae5eeb54ee4" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_25">
+        <c02 id="aspace_7f7f5c737564162f299d5ab236706b58" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">25</container>
             <unittitle>Faculty Committee Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970/1971">1970-1971</unitdate>
+            <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
+            <container id="aspace_d328507c2da6d319a1a7ea0a456349a5" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_d05e16ec8e6bb3301ef6be667a04b3f6" parent="aspace_d328507c2da6d319a1a7ea0a456349a5" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_26">
+        <c02 id="aspace_ffa1169c9dee91798355b3e087eb1786" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">26</container>
             <unittitle>Faculty Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_541575c282602610acfc556fb77113e5" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_4f07b916e87ed21c8bb2fc8c821bf393" parent="aspace_541575c282602610acfc556fb77113e5" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_27">
+        <c02 id="aspace_0b15d3d002101e1463d00f0894d527cd" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">27</container>
             <unittitle>Faculty Meeting</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1970">1969-1970</unitdate>
+            <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
+            <container id="aspace_47c099cd3f99fecc0dc283be1fa23d10" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_689ea81a94c12b6e38b8bb82c28e158a" parent="aspace_47c099cd3f99fecc0dc283be1fa23d10" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_28">
+        <c02 id="aspace_969f9133fa4b4712f2a5bbec46702955" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">28</container>
             <unittitle>Faculty Meeting</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970/1971">1970-1971</unitdate>
+            <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
+            <container id="aspace_b89e478067c63f7d594fa79a25932827" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_01b73eee18d44eb3e3c1bb90b3acec2b" parent="aspace_b89e478067c63f7d594fa79a25932827" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_29">
+        <c02 id="aspace_1857b8abf755ffe7a29984120de22374" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">29</container>
             <unittitle>Faculty Meeting Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972">1972</unitdate>
+            <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_e62cd6751fe6a325e0856240bc6e35be" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_8fdeb505ce7dbfd157d9a1264d860005" parent="aspace_e62cd6751fe6a325e0856240bc6e35be" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_30">
+        <c02 id="aspace_a0cc159caa1fa25109c8e5912a5693f3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">30</container>
             <unittitle>Faculty Meeting Minutes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973/1974">1973-1974</unitdate>
+            <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+            <container id="aspace_2cb4336a325f6781480001f4ecbd4de0" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_e340f2bbaad54fe52b2e29308da21e00" parent="aspace_2cb4336a325f6781480001f4ecbd4de0" type="Folder">30</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_31">
+        <c02 id="aspace_d58f82bea47ab61b8696e55ecaff01fb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">31</container>
             <unittitle>Faculty Staffing</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_a0cbb5b151969d639a30ce45a0447f27" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_84485664e5bfd099c8191f503fe5e604" parent="aspace_a0cbb5b151969d639a30ce45a0447f27" type="Folder">31</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_32">
+        <c02 id="aspace_fa31d208902714a3c0d9413a90e5760b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">32</container>
             <unittitle>Faculty Staffing</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972/1973">1972-1973</unitdate>
+            <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
+            <container id="aspace_ce1ce96808391e97b6d05e0c335d1c79" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_34ea129914eec3e61e396b7645748637" parent="aspace_ce1ce96808391e97b6d05e0c335d1c79" type="Folder">32</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_33">
+        <c02 id="aspace_8fb8b1691a7ba42ba170c6131fbbaf2b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">33</container>
             <unittitle>Graduate Committee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971/1973">1971-1973</unitdate>
+            <unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate>
+            <container id="aspace_216861be973afd93937e6a19bb8e11c7" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_9f4fd808d28afa97388ab5c13b81cb0f" parent="aspace_216861be973afd93937e6a19bb8e11c7" type="Folder">33</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_34">
+        <c02 id="aspace_13035693a5efecad187ee6ae8b11a535" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">34</container>
             <unittitle>Graduate Assistants Correspondence &amp; Memorandums</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973/1974">1973-1974</unitdate>
+            <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+            <container id="aspace_54b04c44dee1c75d1db5bb6dd7163d94" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_2f920183ecc5bbdef86a8835f8514ff1" parent="aspace_54b04c44dee1c75d1db5bb6dd7163d94" type="Folder">34</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_35">
+        <c02 id="aspace_54a02741bc3e043a23e369c43154d8b2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">35</container>
             <unittitle>Graduate Information</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972/1973">1972-1973</unitdate>
+            <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
+            <container id="aspace_fc11b92a6e7bb0657c91bfce47afddf1" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_eea25ba6cac33c52dc0539bc5de26913" parent="aspace_fc11b92a6e7bb0657c91bfce47afddf1" type="Folder">35</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_36">
+        <c02 id="aspace_14dc2f6601719a9a6acb345efea76d5e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">36</container>
             <unittitle>Graduate Students Handbook, undated</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1976">Undated</unitdate>
+            <unitdate normal="1968/1976" type="inclusive">Undated</unitdate>
+            <container id="aspace_f54eaa830e8bd12c775366a9ebef95dd" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_94c1bae98dd73182df16cba9a358d7c3" parent="aspace_f54eaa830e8bd12c775366a9ebef95dd" type="Folder">36</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_37">
+        <c02 id="aspace_aacaaab1c212d6376fd0022de3715a5b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">37</container>
             <unittitle>Guest Lecturer Annoucements</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973/1974">1973-1974</unitdate>
+            <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+            <container id="aspace_54e5158416006b1a6882c1b20d183378" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_85a589f908529ac386cd1b9c2892dbac" parent="aspace_54e5158416006b1a6882c1b20d183378" type="Folder">37</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_38">
+        <c02 id="aspace_6cc8cae6a5eca5df220ff8d09e2aa694" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">38</container>
             <unittitle>Hampton Associates</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_fa0dafb7e0f7cb08fb95cb3fcdf91f8d" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_02c0d10b18964f7a20fc5da9cfd61d5d" parent="aspace_fa0dafb7e0f7cb08fb95cb3fcdf91f8d" type="Folder">38</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_39">
+        <c02 id="aspace_f3c7690991e98297a22f8c90a3def641" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">39</container>
             <unittitle>Harris,Fred</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_6d9bc79987423e1d00a7563f2119359d" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_205f5aa8d2198a2ce70d95360f00857f" parent="aspace_6d9bc79987423e1d00a7563f2119359d" type="Folder">39</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_40">
+        <c02 id="aspace_f6757d4087db3bfce5ea6ebab7c0afba" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">40</container>
             <unittitle>The Holt Collection</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969">1969</unitdate>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_c9d984ba3e7e0b1e8006a9c90b7bbf78" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_b17b892277b0690197796485276eeb33" parent="aspace_c9d984ba3e7e0b1e8006a9c90b7bbf78" type="Folder">40</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_41">
+        <c02 id="aspace_a86087b91bf879d422fd978368001f1e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">41</container>
             <unittitle>Honorarium Request Forms</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973/1974">1973-1974</unitdate>
+            <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+            <container id="aspace_d19a51bbdaec44f57330403975aae8c7" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_5bb8affd1a067c9831243e61ed47c563" parent="aspace_d19a51bbdaec44f57330403975aae8c7" type="Folder">41</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_42">
+        <c02 id="aspace_9d9cb8198f531bb2add531a2009979fe" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">42</container>
             <unittitle>Ibadan University - Nigeria, applications for</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972/1973">1972-1973</unitdate>
+            <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
+            <container id="aspace_b115428c49162847668babf717c93c57" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_9c3714069c906390754c2f8ba365100b" parent="aspace_b115428c49162847668babf717c93c57" type="Folder">42</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_43">
+        <c02 id="aspace_3b29ea4c268369c259b9afff8a717ed7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">43</container>
             <unittitle>Independent Undergrad Study Proposals</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972/1973">1972-1973</unitdate>
+            <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
+            <container id="aspace_73514820b4d476c5dcbeb22bb99d432b" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_632d4a009266880694cf7da472cd8359" parent="aspace_73514820b4d476c5dcbeb22bb99d432b" type="Folder">43</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_44">
+        <c02 id="aspace_9e952c20c531797d68ecec1e12e0a1cd" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">44</container>
             <unittitle>Interfuture Program</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973/1974">1973-1974</unitdate>
+            <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+            <container id="aspace_bd8458156eb54c39995cd3146e2c488c" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_51a5967f2a17d507ea3f687311d8d0b5" parent="aspace_bd8458156eb54c39995cd3146e2c488c" type="Folder">44</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_45">
+        <c02 id="aspace_c615d47d6b51191a9994320b492ba7d7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">45</container>
             <unittitle>Jackson, Dr. Jacquelyne</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_fa76f502396f3096da76b2a1dd984946" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_001c8e8807d5d3aaeb340cec72912317" parent="aspace_fa76f502396f3096da76b2a1dd984946" type="Folder">45</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_46">
+        <c02 id="aspace_f3258dc8c4517ca5ee5395133ce3b0b2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">46</container>
             <unittitle>Master of Art Degree Program Purpose</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_a074ab7e70e80cf06d42e3b5d4dade26" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_0958ccad9a3ff75bcb4c16e27a89d046" parent="aspace_a074ab7e70e80cf06d42e3b5d4dade26" type="Folder">46</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_47">
+        <c02 id="aspace_e73030f5be58db3d6c4a570b7a5fa4bc" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">47</container>
             <unittitle>Masters Program Proposal/Related Correspondence, Folder 1</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1971">1969-1971</unitdate>
+            <unitdate normal="1969/1971" type="inclusive">1969-1971</unitdate>
+            <container id="aspace_94196f6033741b0cf80270f07a0cbdbb" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_af42dbc589cebe3bbcfbbf074dd080c0" parent="aspace_94196f6033741b0cf80270f07a0cbdbb" type="Folder">47</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_48">
+        <c02 id="aspace_4e0b06c1d2bb46b4c761fb58e65c79d5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">48</container>
             <unittitle>Masters Program Proposal/Related Correspondence, Folder 2</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_2121fff945cd8d021f4f71d061fad5a4" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_cfd72d359ef45e00c0fc0fd9f958a28c" parent="aspace_2121fff945cd8d021f4f71d061fad5a4" type="Folder">48</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_49">
+        <c02 id="aspace_5915ee51cace301717abe9117f7cec6a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">49</container>
             <unittitle>Memorandums</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972">1972</unitdate>
+            <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_e3567f47c86410e5c11c20b091885fa2" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_46dfc69c877c7b4f08b67406865f52d5" parent="aspace_e3567f47c86410e5c11c20b091885fa2" type="Folder">49</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_50">
+        <c02 id="aspace_29dfba2774823302c6971f3cc5878c7e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">50</container>
             <unittitle>Memorandums</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973/1974">1973-1974</unitdate>
+            <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+            <container id="aspace_2728fcf5fc104253b87ede1c9347182e" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_0bd491454fd45548d6248ade84bfddaf" parent="aspace_2728fcf5fc104253b87ede1c9347182e" type="Folder">50</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_51">
+        <c02 id="aspace_5e1dcbfd2f2eb1d34fbfa97d8da5e454" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">51</container>
             <unittitle>Minority Graduate Recruitment</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971/1973">1971-1973</unitdate>
+            <unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate>
+            <container id="aspace_d9def28c3ef62d4d406cb88ed4c5fc2e" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_aeb88d6b1a219371c83c5c8477a1c8c4" parent="aspace_d9def28c3ef62d4d406cb88ed4c5fc2e" type="Folder">51</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_52">
+        <c02 id="aspace_f840b7a13b2eeb083cea3c459e9b695c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">52</container>
             <unittitle>Minutes, Faculty Meeting</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972">1972</unitdate>
+            <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_7f54a15ce92bb23e6319bdc1c6b1f8f7" label="Mixed Materials" type="Box">1 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_64f285b02b7ecd8ffc9c41ba11e4d1cb" parent="aspace_7f54a15ce92bb23e6319bdc1c6b1f8f7" type="Folder">52</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_53">
+        <c02 id="aspace_36e5797c24fb803e96513cbc1464021d" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Miscellaneous</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_a7f0d79ea648940d113633888517320b" label="Mixed Materials" type="Box">2 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_0ed436bae451354dd2baa1c5b8c4dc9c" parent="aspace_a7f0d79ea648940d113633888517320b" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_54">
+        <c02 id="aspace_ec474c9e8a0b8054ee5dbea2fb54229a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>Miscellaneous</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972/1974">1972-1974</unitdate>
+            <unitdate normal="1972/1974" type="inclusive">1972-1974</unitdate>
+            <container id="aspace_ba45a6f30d11de08ccdeb8b31ae6c3da" label="Mixed Materials" type="Box">2 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_8c1a1a3253ed7fc56d2abadddb0eb50d" parent="aspace_ba45a6f30d11de08ccdeb8b31ae6c3da" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_55">
+        <c02 id="aspace_d8606e23116d0670f15b88907acf5718" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>New York State Conference</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976">1976</unitdate>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_85e26ded1f8a095d6f6c03576f4e8731" label="Mixed Materials" type="Box">2 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_2c4e2215069b946949e09f9e6c6ecc69" parent="aspace_85e26ded1f8a095d6f6c03576f4e8731" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_56">
+        <c02 id="aspace_ac402793ef7993d41367bf5c864e50ef" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Obradovic, Dr.</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970/1971">1970-1971</unitdate>
+            <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
+            <container id="aspace_f37c1800e1b4dabb25d40091ee53c44e" label="Mixed Materials" type="Box">2 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_8655258d42d23bbeb47306cb0e9e05c0" parent="aspace_f37c1800e1b4dabb25d40091ee53c44e" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_57">
+        <c02 id="aspace_6940ab1ef73de0d1fe580b3ae9779c27" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>Okonko Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_605082b6903b309ed64732d2cb2c8fd3" label="Mixed Materials" type="Box">2 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_ba47c452a77f5cd49a9a23db3ba1ded4" parent="aspace_605082b6903b309ed64732d2cb2c8fd3" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_58">
+        <c02 id="aspace_c17cfe48e76ce7628e0c1115b109ba76" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>Programs/Announcements</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976/1985">1976-1985</unitdate>
+            <unitdate normal="1976/1985" type="inclusive">1976-1985</unitdate>
+            <container id="aspace_cda252d1403b2001b02e41e8c8a0f349" label="Mixed Materials" type="Box">2 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_c9bec276718fd0126ed1f82ca1912dea" parent="aspace_cda252d1403b2001b02e41e8c8a0f349" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_59">
+        <c02 id="aspace_a2728354551b83238071287dbe8faabe" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
             <unittitle>Proposal to Nigerian Trip</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973">1973</unitdate>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_22c4c9771c073f308ccdfe342cf6be93" label="Mixed Materials" type="Box">2 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_9fdf10ec325c4ea2d899d8e88395918b" parent="aspace_22c4c9771c073f308ccdfe342cf6be93" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_60">
+        <c02 id="aspace_51a668385de88be391b66c98fad97f75" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
             <unittitle>Prospects for World Peace</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973">1973</unitdate>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_761e6950086e6cea9cbe13c19499d41c" label="Mixed Materials" type="Box">2 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_3d7fb63c7323d7be4e591e13d2db45d5" parent="aspace_761e6950086e6cea9cbe13c19499d41c" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_61">
+        <c02 id="aspace_97ebff2e824d1c3fdda27068b64b2a35" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
             <unittitle>Puerto Rican Studies Course Proposal</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_29bae67d6c313ccfc8eeadf22679af94" label="Mixed Materials" type="Box">2 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_e044976cb7028dba296c3c73f9c59c36" parent="aspace_29bae67d6c313ccfc8eeadf22679af94" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_62">
+        <c02 id="aspace_e88dc301b9f8da7e5186ac6a4cf02178" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10</container>
             <unittitle>Research Project</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_88440d0a1bc4013fa4894e25c98428e7" label="Mixed Materials" type="Box">2 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_9ce4a7835e71035f765daa4542e5b95e" parent="aspace_88440d0a1bc4013fa4894e25c98428e7" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_63">
+        <c02 id="aspace_88d38860c37b7b88bcf3eb225cfd7d3e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">11</container>
             <unittitle>Registration Information</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973">1973</unitdate>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_60396ba3245178d6298959e2fe36cb66" label="Mixed Materials" type="Box">2 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_5deb233a2aa72abe35b9c701536d4cd7" parent="aspace_60396ba3245178d6298959e2fe36cb66" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_64">
+        <c02 id="aspace_7f01a55aecdae08d54c3ed679cc45edc" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">12</container>
             <unittitle>Schedule of Classes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972">1972</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+            <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_b421ba383e750a7cd42e3fc8c82a3c8a" label="Mixed Materials" type="Box">2 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_48d9463909b645430e098123010741a1" parent="aspace_b421ba383e750a7cd42e3fc8c82a3c8a" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_65">
+        <c02 id="aspace_41827e12949ad7f3e9614dd24b0d0972" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">13</container>
             <unittitle>Staff Publications</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_82182b9e524b9c64767cde434db36087" label="Mixed Materials" type="Box">2 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_da41fe325b473595c107a6c62b19eff3" parent="aspace_82182b9e524b9c64767cde434db36087" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_66">
+        <c02 id="aspace_483159d9c2999f920e427c26fa87dce2" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">14</container>
             <unittitle>Stokes, Dr. Olivia Pearl</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1970">1969-1970</unitdate>
+            <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
+            <container id="aspace_5273c0491d6c6f8c1c265f13a713b744" label="Mixed Materials" type="Box">2 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_a3cd06a44383362bdd521663704172a5" parent="aspace_5273c0491d6c6f8c1c265f13a713b744" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_67">
+        <c02 id="aspace_c4fab8085eba44dcb9ccf34e6a517d9e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">15</container>
             <unittitle>Student Papers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_cd9b24ca4b0b29cb17be9b6cbd4d7c70" label="Mixed Materials" type="Box">2 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_099d0f301f9b6b888a13aafc3985483e" parent="aspace_cd9b24ca4b0b29cb17be9b6cbd4d7c70" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_68">
+        <c02 id="aspace_693afaeb3a17bd5853164796c4701240" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">16</container>
             <unittitle>Suggested Fall Courses</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973/1974">1973-1974</unitdate>
+            <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+            <container id="aspace_799acf99a2a4ca8ee882a88d4d7e2a81" label="Mixed Materials" type="Box">2 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_badd5917ff08630b06365f27f47f762b" parent="aspace_799acf99a2a4ca8ee882a88d4d7e2a81" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_69">
+        <c02 id="aspace_7aaf8a83bf987bfa196fa9349dab560a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">17</container>
             <unittitle>Thornton, Virginius B.</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1971">1969-1971</unitdate>
+            <unitdate normal="1969/1971" type="inclusive">1969-1971</unitdate>
+            <container id="aspace_8d3686b89d6de4f792320772281a475a" label="Mixed Materials" type="Box">2 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_e2c2032dd85e9b6435cdfe658f4dc23f" parent="aspace_8d3686b89d6de4f792320772281a475a" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_70">
+        <c02 id="aspace_0cb91a17f727fc93868f05e47566a35b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">18</container>
             <unittitle>Three Year Plan</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976">1976</unitdate>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_76e81c876621c9463e8dbe893d184565" label="Mixed Materials" type="Box">2 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_7e69f8827da401c202e9871182835956" parent="aspace_76e81c876621c9463e8dbe893d184565" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_71">
+        <c02 id="aspace_aaea6bc18c3c1ec5027dab21c3bf2201" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">19</container>
             <unittitle>Wesley, Dr. Charles H.</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969">1969</unitdate>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_e635c6cf67e08b5c28a7c48b67387951" label="Mixed Materials" type="Box">2 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_ccb7abeace421f14008c68ef9c123b31" parent="aspace_e635c6cf67e08b5c28a7c48b67387951" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_72">
+        <c02 id="aspace_67e7b2c93a08fe5224e4330a7cd13877" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">20</container>
             <unittitle>Wheeler, Paul</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970/1971">1970-1971</unitdate>
+            <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
+            <container id="aspace_bb77c0589a4f52d1baa10553a4d83f30" label="Mixed Materials" type="Box">2 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_4260403a5a3fab2e9ae72331d69865d7" parent="aspace_bb77c0589a4f52d1baa10553a4d83f30" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_ua611-1_73">
+        <c02 id="aspace_f9715c8c3c90e71f0f652fe4f6688da5" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">21</container>
             <unittitle>YWCA of Albany Black History Month Essay Contest</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_9286d6d5f772a58448103e498f6e05a3" label="Mixed Materials" type="Box">2 (1-Chair's Subject Files, 1969-1976)</container>
+            <container id="aspace_6053f0d9b5c0c6868c2a811176bc83ce" parent="aspace_9286d6d5f772a58448103e498f6e05a3" type="Folder">21</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_ua611-2" level="series">
+      <c01 id="aspace_dfd6d9cd65a92787d84c388a17bfecba" level="series">
         <did>
-          <unitid>2</unitid>
           <unittitle>Web Archives</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1999-01-27/2016-09-18">1999 January 27-2016 September 18</unitdate>
-          <physdesc>
-            <extent unit="captures">812</extent>
+          <unitid>2</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">812 captures</extent>
           </physdesc>
+          <unitdate normal="1999-01-27/2016-09-18" type="inclusive">1999 January 27-2016 September 18</unitdate>
         </did>
-        <acqinfo>
+        <acqinfo id="aspace_d27f4754fb0ff1bd953c90e4f7a85286">
+          <head>Immediate Source of Acquisition</head>
           <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both the university's collection and the Internet Archive's public collection.</p>
-          <p>Surface-level crawling of www.albany.edu is performed daily which should includes most top-level webpages. Separate targeted crawls of every albany.edu subdomain are performed monthly to attempt to gather all content. This includes: www.albany.edu, www.rna.albany.edu, www.ctg.albany.edu, www.ualbanysports.com, www.albany.edu/rockefeller, www.albany.edu/cela, www.albany.edu/asrc, m.albany.edu,	library.albany.edu,	events.albany.edu,	cstar.cestm.albany.edu, csda.albany.edu, and alumni.albany.edu</p>
+          <p> Surface-level crawling of www.albany.edu is performed daily which should includes most top-level webpages. Separate targeted crawls of every albany.edu subdomain are performed monthly to attempt to gather all content. This includes: www.albany.edu, www.rna.albany.edu, www.ctg.albany.edu, www.ualbanysports.com, www.albany.edu/rockefeller, www.albany.edu/cela, www.albany.edu/asrc, m.albany.edu,	library.albany.edu,	events.albany.edu,	cstar.cestm.albany.edu, csda.albany.edu, and alumni.albany.edu</p>
         </acqinfo>
-        <phystech>
+        <phystech id="aspace_4ebe504f09809900a82d10a2a631e71c">
+          <head>Physical Characteristics and Technical Requirements</head>
           <p>Web Archives</p>
         </phystech>
-        <c02 id="nam_ua611-2_1">
+        <c02 id="aspace_5037c3366865315063a1265e3793aaf9" level="file">
           <did>
-            <container type="Web-Archive">1</container>
             <unittitle>http://www.albany.edu/africana/ - University Archives collection</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2013-05-08/2016-09-18">2013 May 8-2016 September 18</unitdate>
-            <dao actuate="onrequest" linktype="simple" show="new" href="http://wayback.archive-it.org/3308/*/http://www.albany.edu/africana/"/>
+            <unitdate normal="2013-05-08/2016-09-18" type="inclusive">2013 May 8-2016 September 18</unitdate>
+            <container id="aspace_1a1e20cf6bcdf396154c4f75e6362270" label="Mixed Materials" type="Web-Archive">1</container>
+            <dao xlink:actuate="onrequest" xlink:href="http://wayback.archive-it.org/3308/*/http://www.albany.edu/africana/" xlink:show="new" xlink:title="http://www.albany.edu/africana/ - University Archives collection">
+              <daodesc>
+                <p>http://www.albany.edu/africana/ - University Archives collection</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
-        <c02 id="nam_ua611-2_2">
+        <c02 id="aspace_45af20ca1ec8a1fac6c4ee371eec8207" level="file">
           <did>
-            <container type="WARC">1</container>
             <unittitle>WARC file for http://www.albany.edu/africana/, (please see https://en.wikipedia.org/wiki/Web_ARChive for more details)</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2013-05-08/2016-09-18">2013 May 8-2016 September 18</unitdate>
+            <unitdate normal="2013-05-08/2016-09-18" type="inclusive">2013 May 8-2016 September 18</unitdate>
+            <container id="aspace_38487f0da27767453dc2184ce46b10ac" label="Mixed Materials" type="WARC">1</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_76f46179db4b190f2a811cafb85ae048">
+            <head>Conditions Governing Access</head>
             <p>WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in researching with web archives.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua611-2_3">
+        <c02 id="aspace_146f5ac98c5994e9ce385c125f1c1cbb" level="file">
           <did>
-            <container type="Web-Archive">2</container>
             <unittitle>http://www.albany.edu/africana/ - Internet Archive collection</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1999-01-27/2016-09-18">1999 January 27-2016 September 18</unitdate>
-            <dao actuate="onrequest" linktype="simple" show="new" href="https://web.archive.org/web/*/http://www.albany.edu/africana/"/>
+            <unitdate normal="1999-01-27/2016-09-18" type="inclusive">1999 January 27-2016 September 18</unitdate>
+            <container id="aspace_23b512a6e58ae166f9b401c4758f9deb" label="Mixed Materials" type="Web-Archive">2</container>
+            <dao xlink:actuate="onrequest" xlink:href="https://web.archive.org/web/*/http://www.albany.edu/africana/" xlink:show="new" xlink:title="http://www.albany.edu/africana/ - Internet Archive collection">
+              <daodesc>
+                <p>http://www.albany.edu/africana/ - Internet Archive collection</p>
+              </daodesc>
+            </dao>
           </did>
         </c02>
       </c01>

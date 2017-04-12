@@ -1,192 +1,163 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap167">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap167.xml" identifier="##">nam_apap167</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap167">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap167.xml">apap167</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>GRANT VAN PATTEN PAPERS (APAP167)<date normal="1962" type="inclusive">1962</date></titleproper>
+        <titleproper>Van Patten, Grant; Records <num>apap167</num></titleproper>
         <author>Amy C. Schindler</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2003-12">Copyright 2003 December by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2003 December</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>T.J. Treharne<date normal="2014">2014</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 14:52:08 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>Encoded in EAD by T.J. Treharne</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>GRANT VAN PATTEN PAPERS (APAP167)<date normal="1962" type="inclusive">1962</date></titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2014</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap167</unitid>
-      <unittitle>Grant Van Patten Papers<unitdate type="inclusive" normal="1962" label="Date:">1962</unitdate></unittitle>
-      <origination>
-        <persname encodinganalog="100" source="lcsh">Van Patten, Grant</persname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
+      </repository>
+      <unittitle>Grant Van Patten Papers<unitdate normal="1962/1962" type="inclusive">1962</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="lcsh">Van Patten, Grant</persname>
       </origination>
-      <physdesc>
-        <extent unit="cubic ft.">0.17</extent>
+      <unitid>apap167</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.17 cubic ft.</extent>
         <physfacet>1 film, and 1 video</physfacet>
       </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
-      </repository>
-      <abstract label="Abstract:"> The Grant Van Patten Papers contain a news conference, news clippings, and a script relating to Van Patten's documentary <emph render="italic">The South Mall in Albany: Hoax or Hope?</emph> </abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <abstract id="aspace_ab834dbf6b0c99c77cf6a74f67a6e560">The Grant Van Patten Papers contain a news conference, news clippings, and a script relating to Van Patten's documentary <emph render="italic">The South Mall in Albany: Hoax or Hope?</emph></abstract>
+      <langmaterial id="aspace_01a6ccbab823caf575e2f6e25f3f92ba">English</langmaterial>
+      <physloc id="aspace_2cb0b9579e95c43501db5550e9bdac4f">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_995bc8dff9410b6b410f513f52c28473">
+      <head>Processing Information</head>
+      <p>Processed in 2003 December by Amy C. Schindler.</p>
+    </processinfo>
+    <accessrestrict id="aspace_6e31211a0205526a5643b20fc5ac5847">
       <head>Access</head>
-      <p> Access to this record group is unrestricted. </p>
+      <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_9802e5f9dfb379f09f632769cdb6a928">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_6d55a5ec13766375e80e7207af9264d8">
       <head>Acquisition Information</head>
-      <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives by Grant Van Patten through Prof. Ray Bromley in 2002. </p>
+      <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives by Grant Van Patten through Prof. Ray Bromley in 2002.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_d4ef6f32ff9903c74021e83fc5dcd8ea">
       <head>Biographical Sketch</head>
-      <p> Grant Van Patten worked in television production beginning in the mid-twentieth century in New York's Capital Region, including affiliate WRGB in Schenectady. Van Patten produced the documentary The South Mall in Albany: Hoax or Hope? for WRGB in 1962. </p>
+      <p>Grant Van Patten worked in television production beginning in the mid-twentieth century in New York's Capital Region, including affiliate WRGB in Schenectady. Van Patten produced the documentary The South Mall in Albany: Hoax or Hope? for WRGB in 1962.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_613224ed0df6f25c1068a8a4cab965b6">
+      <head>Scope and Contents</head>
       <p>The collection includes Van Patten's documentary<emph render="italic">The South Mall in Albany: Hoax or Hope?</emph> and material related to its production. The film is a "production original" composed of sound film, silent footage, and blank short pieces. During the blank sections there were shots taken by live studio cameras most often of the news reporter on the studio set. There are also a few shots of early construction of the University at Albany, SUNY Uptown Campus and the Albany Country Club before it was moved to make room for the construction of the Uptown Campus. An access copy of the production is available for viewing in the M.E. Grenander Department of Special Collections and Archives Marcia Brown Research Room. It is best to have a copy of the script in hand when viewing the documentary.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_8f3287cee6e636e8bbbceec8aee6bb93">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized alphabetically. There are no series.</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-           Try to give as many access points as you can to increase the chances of 
-           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-           to comment them out! -->
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Public Servants </subject>
-      <subject source="meg" encodinganalog="650">Neighborhood and Community Associations</subject>
-      <subject source="meg" encodinganalog="650">Conservation and the Environment</subject>
-      <subject source="meg" encodinganalog="650">Architecture</subject>
-      <subject source="meg" encodinganalog="650">Albany, New York</subject>
-      <persname encodinganalog="600" source="local">Van Patten, Grant</persname>
-      <corpname encodinganalog="610" source="local">State University of New York</corpname>
-      <subject encodinganalog="650" source="lcsh">Television--Production and direction</subject>
-      <subject encodinganalog="650" source="lcsh">Documentary films</subject>
-      <subject encodinganalog="650" source="lcsh">Shopping malls</subject>
-      <subject encodinganalog="650" source="lcsh">College campuses</subject>
-      <geogname encodinganalog="651" source="lcsh">Schenectady (N.Y.) </geogname>
-      <geogname encodinganalog="651" source="lcsh">Albany (N.Y.) </geogname>
-      <geogname encodinganalog="651" source="lcsh">Empire State Plaza (Albany, N.Y.) </geogname>
-      <genreform encodinganalog="655" source="aat">Film (material by form)</genreform>
-      <genreform encodinganalog="655" source="aat">Film clips</genreform>
-      <genreform encodinganalog="655" source="aat">Silent films</genreform>
-      <genreform encodinganalog="655" source="aat">Press conferences</genreform>
-      <genreform encodinganalog="655" source="aat">Clippings (information artifacts)</genreform>
-      <genreform encodinganalog="655" source="aat">Screenplays</genreform>
-      <genreform encodinganalog="655" source="aat">Documentaries (document genre)</genreform>
-    </controlaccess>
-    <prefercite>
+    <prefercite id="aspace_50ccdc78064968cb5e829c6e840d47d4">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Grant Van Patten Papers, 1962. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, Grant Van Patten Papers, 1962. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_apap167-1">
+    <controlaccess>
+      <subject source="meg">Public Servants</subject>
+      <subject source="meg">Neighborhood and Community Associations</subject>
+      <subject source="meg">Conservation and the Environment</subject>
+      <subject source="meg">Architecture</subject>
+      <subject source="meg">Albany, New York</subject>
+      <subject source="lcsh">Television--Production and direction</subject>
+      <subject source="lcsh">Documentary films</subject>
+      <subject source="lcsh">Shopping malls</subject>
+      <subject source="lcsh">College campuses</subject>
+      <geogname source="lcsh">Schenectady (N.Y.)</geogname>
+      <geogname source="lcsh">Albany (N.Y.)</geogname>
+      <geogname source="lcsh">Empire State Plaza (Albany, N.Y.)</geogname>
+      <genreform source="aat">Film (material by form)</genreform>
+      <genreform source="aat">Film clips</genreform>
+      <genreform source="aat">Silent films</genreform>
+      <genreform source="aat">Press conferences</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <genreform source="aat">Screenplays</genreform>
+      <genreform source="aat">Documentaries (document genre)</genreform>
+      <persname source="local">Van Patten, Grant</persname>
+      <corpname source="local">State University of New York</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_50d1ebb7e54a00c87a84ef2bd177cead" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>Corning, Erastus, News Conference</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">undated</unitdate>
+          <unitdate normal="1962/1962" type="inclusive">undated</unitdate>
+          <container id="aspace_b4c3fee6fde9ce80dd4aa1a522861849" label="Mixed Materials" type="Box">1 (Grant Van Patten Papers)</container>
+          <container id="aspace_0a2bb765620cb1b38efc7a28182fb539" parent="aspace_b4c3fee6fde9ce80dd4aa1a522861849" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap167-2">
+      <c01 id="aspace_e2f8c3c77fe29cabc24b3bd82287d303" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Miscellaneous Construction</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">undated</unitdate>
+          <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+          <unitdate normal="1962/1962" type="inclusive">undated</unitdate>
+          <container id="aspace_dbac680f1eea2f0277e5915e8ce2ec98" label="Mixed Materials" type="Box">1 (Grant Van Patten Papers)</container>
+          <container id="aspace_8c2a1b4df675bc19fd06acbb5f6f1779" parent="aspace_dbac680f1eea2f0277e5915e8ce2ec98" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap167-3">
+      <c01 id="aspace_f4f05348161f15a5987f87fbad3e3ea7" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>News Clippings</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">undated</unitdate>
+          <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+          <unitdate normal="1962/1962" type="inclusive">undated</unitdate>
+          <container id="aspace_bd39a9c2544ce748330aa9220fde025a" label="Mixed Materials" type="Box">1 (Grant Van Patten Papers)</container>
+          <container id="aspace_734567a7fa1e1578037dd9e0a1541a15" parent="aspace_bd39a9c2544ce748330aa9220fde025a" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap167-4">
+      <c01 id="aspace_cbaadd3bd568ff79b3e596dfac8aab79" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Residents</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">undated</unitdate>
+          <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+          <unitdate normal="1962/1962" type="inclusive">undated</unitdate>
+          <container id="aspace_5252d8b336191e0359884738ea81eb8a" label="Mixed Materials" type="Box">1 (Grant Van Patten Papers)</container>
+          <container id="aspace_15bbff5a7ccf8bba674daeba6cbb907b" parent="aspace_5252d8b336191e0359884738ea81eb8a" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap167-5">
+      <c01 id="aspace_f921a5347faf5a68ca551e95e8d4afd2" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Script</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
+          <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+          <container id="aspace_799d461e7f039ad844930cd5bd0d550e" label="Mixed Materials" type="Box">1 (Grant Van Patten Papers)</container>
+          <container id="aspace_c85969d466920330693f2641c27dde85" parent="aspace_799d461e7f039ad844930cd5bd0d550e" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap167-6">
+      <c01 id="aspace_c1fad61055526ecb6e6a7fa515ad245b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Script, Notes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
+          <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+          <container id="aspace_7a287a3b27a87b72c1569b8cd49737ad" label="Mixed Materials" type="Box">1 (Grant Van Patten Papers)</container>
+          <container id="aspace_bf6255470fda251559b0d9e1632a45c8" parent="aspace_7a287a3b27a87b72c1569b8cd49737ad" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap167-7">
+      <c01 id="aspace_aae423446867f51ede5987d30b50f779" level="otherlevel">
         <did>
-          <container type="Film">1</container>
           <unittitle>
             <emph render="italic">The South Mall in Albany: Hoax or Hope?</emph>
           </unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
+          <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+          <container id="aspace_8f7baf21502227e6170faf8d5bf0eccb" label="Mixed Materials" type="Film">1</container>
         </did>
       </c01>
     </dsc>

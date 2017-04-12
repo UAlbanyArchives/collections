@@ -1,489 +1,492 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap202">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/apap202.html">nam_apap202</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap202">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap202.xml">apap202</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>DONALD B. ROSENTHAL PAPERS (APAP202)<date normal="1982/2004" type="inclusive">1982-2004</date></titleproper>
+        <titleproper>Rosenthal, Donald; Papers <num>apap202</num></titleproper>
         <author>Devon Hedges</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2009" type="publication">Copyright 2009 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Nicholas Webb <date normal="2009-08">2009 August</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 15:01:04 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2016-12">2016 December</date>
+        <date>2016 December</date>
         <item>Converted to EAD with EADMachine 0.5</item>
+      </change>
+      <change>
+        <date>2009 August</date>
+        <item>Encoded in EAD by Nicholas Webb</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap202</unitid>
-      <unittitle>Donald B. Rosenthal Papers<unitdate normal="1982/2004" type="inclusive">1982-2004</unitdate></unittitle>
-      <abstract label="Abstract:">Documents twenty years of Dr. Rosenthal's research into the history of gay and lesbian activism and the AIDS crisis.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <persname encodinganalog="100" source="lcsh">Rosenthal, Donald B.,1937-</persname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">1.8</extent>
-      </physdesc>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Donald B. Rosenthal Papers<unitdate normal="1982/2004" type="inclusive">1982-2004</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="lcsh">Rosenthal, Donald B.,1937-</persname>
+      </origination>
+      <unitid>apap202</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.8 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_46674e7fa15fdf144226f73c3ff57bd1">Documents twenty years of Dr. Rosenthal's research into the history of gay and lesbian activism and the AIDS crisis.</abstract>
+      <langmaterial id="aspace_fecb7bbb440dbf488539110ba83cc1e7">English</langmaterial>
+      <physloc id="aspace_5f100421f7ae7b855fee582e01c6b6dd">The materials are located onsite in the department.</physloc>
     </did>
-    <bioghist>
+    <processinfo id="aspace_f2a908e2dbef2f36657b0cba51f621c7">
+      <head>Processing Information</head>
+      <p>Processed in 2009 by Devon Hedges.</p>
+    </processinfo>
+    <bioghist id="aspace_00890423618b7334a4e04e14a7124305">
       <head>Biographical History</head>
-      <p>Donald B. Rosenthal (b. 1937) was Professor Emeritus of Political Science at the University of Buffalo, State University of New York, where he studied and taught from 1964 to 1999. He served as Department Chairman for five of his 27 years as a full professor. His research interests included lesbian and gay community activism and the responses of New York State cities to the HIV/AIDS epidemic. In 2000, he retired to Charlotte, North Carolina. </p>
+      <p>Donald B. Rosenthal (b. 1937) was Professor Emeritus of Political Science at the University of Buffalo, State University of New York, where he studied and taught from 1964 to 1999. He served as Department Chairman for five of his 27 years as a full professor. His research interests included lesbian and gay community activism and the responses of New York State cities to the HIV/AIDS epidemic. In 2000, he retired to Charlotte, North Carolina.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The Donald B. Rosenthal Papers include an extensive collection of interviews with Capital District activists, an assortment of print publications regarding AIDS, and a series of material documenting the activities of the Capital District Gay and Lesbian Community Council (CDGLCC). The results of Rosenthal's research are represented by a collection of his own papers and lectures on gay activists' role in municipal politics and their responses to the spread of AIDS. </p>
+    <scopecontent id="aspace_ecae9bd5ca340e9f09546926f4265a9c">
+      <head>Scope and Contents</head>
+      <p>The Donald B. Rosenthal Papers include an extensive collection of interviews with Capital District activists, an assortment of print publications regarding AIDS, and a series of material documenting the activities of the Capital District Gay and Lesbian Community Council (CDGLCC). The results of Rosenthal's research are represented by a collection of his own papers and lectures on gay activists' role in municipal politics and their responses to the spread of AIDS.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_f72ac1b53441442916fc3e1b18299e75">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into 4 file series.</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_6157b90742bc7976010cb8a9a032d534">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives.<date normal="2006">2006</date></p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_2559703f91016c049fba591f9747e9cb">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_de5761fcb3d21e67d4e367322a5a3005">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
-      <p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p> The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_0bb340f7234bd10e0130860336b9984e">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Donald B. Rosenthal Papers, 1982-2004. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Rosenthal Papers).</p>
+      <p> Identification of specific item, series, box, folder, Donald B. Rosenthal Papers, 1982-2004. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Rosenthal Papers).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <persname encodinganalog="600" source="lcsh">Rosenthal, Donald B., 1937-,</persname>
-      <persname encodinganalog="600" source="lcsh">St. John, Keith.</persname>
-      <persname encodinganalog="600" source="lcsh">Post, Libby.</persname>
-      <corpname encodinganalog="610" source="lcsh">Capital District Gay and Lesbian Community Council (Albany, N.Y.)</corpname>
-      <corpname encodinganalog="610" source="lcsh">New York (State). AIDS Institute</corpname>
-      <title encodinganalog="630" source="lcsh">Community (Albany, N.Y.)</title>
-      <subject encodinganalog="650" source="lcsh">Gay activists -- New York (State).</subject>
-      <subject encodinganalog="650" source="lcsh">Lesbian activists -- New York (State).</subject>
-      <subject encodinganalog="650" source="lcsh">AIDS (Disease) -- United States -- Prevention -- Citizen participation.</subject>
-      <subject encodinganalog="650" source="lcsh">Political scientists -- United States.</subject>
-      <genreform encodinganalog="655" source="aat">Interviews.</genreform>
-      <genreform encodinganalog="655" source="aat">Newsletters.</genreform>
-      <genreform encodinganalog="655" source="aat">Periodicals.</genreform>
-      <genreform encodinganalog="655" source="aat">Programs.</genreform>
-      <genreform encodinganalog="655" source="aat">Manuscripts (document genre)</genreform>
-      <genreform encodinganalog="655" source="aat">Clippings (information artifacts)</genreform>
-      <genreform encodinganalog="655" source="aat">Articles.</genreform>
-      <subject encodinganalog="650" source="meg">Human Sexuality and Gender Identity</subject>
-      <subject encodinganalog="650" source="meg">Medicine and Health Care</subject>
-      <subject encodinganalog="650" source="meg">Social Activists and Public Advocates</subject>
+      <subject source="lcsh">Gay activists -- New York (State).</subject>
+      <subject source="lcsh">Lesbian activists -- New York (State).</subject>
+      <subject source="lcsh">AIDS (Disease) -- United States -- Prevention -- Citizen participation.</subject>
+      <subject source="lcsh">Political scientists -- United States.</subject>
+      <genreform source="aat">Interviews.</genreform>
+      <genreform source="aat">Newsletters.</genreform>
+      <genreform source="aat">Periodicals.</genreform>
+      <genreform source="aat">Programs.</genreform>
+      <genreform source="aat">Manuscripts (document genre)</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <genreform source="aat">Articles.</genreform>
+      <subject source="meg">Human Sexuality and Gender Identity</subject>
+      <subject source="meg">Medicine and Health Care</subject>
+      <subject source="meg">Social Activists and Public Advocates</subject>
+      <persname source="lcsh">Rosenthal, Donald B., 1937-,</persname>
+      <persname source="lcsh">St. John, Keith.</persname>
+      <persname source="lcsh">Post, Libby.</persname>
+      <corpname source="lcsh">Capital District Gay and Lesbian Community Council (Albany, N.Y.)</corpname>
+      <corpname source="lcsh">New York (State). AIDS Institute</corpname>
     </controlaccess>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_apap202-1" level="series">
+    <dsc>
+      <c01 id="aspace_1a4b253a4f83256fdd65aa9c2d05eeb4" level="series">
         <did>
+          <unittitle>Research Material</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Research Material</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1986/1999" type="inclusive">1986-1999</unitdate>
+          <unitdate normal="1986/1999" type="inclusive">1986-1999</unitdate>
         </did>
-        <scopecontent>
-          <p>This series contains material collected by Professor Rosenthal during the course of his research. It contains an extensive collection of transcriptions of Rosenthal's interviews with various Capital District gay and lesbian activists. Interview subjects include Albany Common Council member Keith St. John (the first openly gay African-American to be elected to public office in the United States), Father Ron Gerber of the Albany Damien Center, activist Libby Post, and numerous other individuals involved in the movement for gay and lesbian rights. They discuss matters such as the history of the GLBT community in the Capital District, its role in Albany municipal politics and New York State politics, and the impact of AIDS on the community. These transcriptions are arranged chronologically; an alphabetical index which cross-references names with dates is available in Box 1, Folder 1. The series also includes a file of publications on the AIDS crisis, including reports by the New York State Department of Health AIDS Institute (NYSDOHAI), other New York State agencies, and a number of federal agencies and private nonprofits. </p>
+        <scopecontent id="aspace_ba678bbd6e5ee85f894b7fff4cde624e">
+          <head>Scope and Contents</head>
+          <p>This series contains material collected by Professor Rosenthal during the course of his research. It contains an extensive collection of transcriptions of Rosenthal's interviews with various Capital District gay and lesbian activists. Interview subjects include Albany Common Council member Keith St. John (the first openly gay African-American to be elected to public office in the United States), Father Ron Gerber of the Albany Damien Center, activist Libby Post, and numerous other individuals involved in the movement for gay and lesbian rights. They discuss matters such as the history of the GLBT community in the Capital District, its role in Albany municipal politics and New York State politics, and the impact of AIDS on the community. These transcriptions are arranged chronologically; an alphabetical index which cross-references names with dates is available in Box 1, Folder 1. The series also includes a file of publications on the AIDS crisis, including reports by the New York State Department of Health AIDS Institute (NYSDOHAI), other New York State agencies, and a number of federal agencies and private nonprofits.</p>
         </scopecontent>
-        <c02 id="nam_apap202-1_1">
+        <c02 id="aspace_c99d2f6fd954bcb33e736c34e0251414" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Interview Transcripts (includes index to all transcripts)</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1988/1989 ">1988-1989 </unitdate>
+            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container id="aspace_9a2b84594c5f3e08a7378795dccacd40" label="Mixed Materials" type="Box">1 (1-Research Material)</container>
+            <container id="aspace_5f9a810259f964eef1ca16e69a43efc7" parent="aspace_9a2b84594c5f3e08a7378795dccacd40" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-1_2">
+        <c02 id="aspace_cce4b01c0df541d6e5e5472ace115936" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Interview Transcripts</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1990">1990</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_7c4adbb8bfa36270810000d5126ece6b" label="Mixed Materials" type="Box">1 (1-Research Material)</container>
+            <container id="aspace_f151e1fdfba0999f8487ec90af764a1f" parent="aspace_7c4adbb8bfa36270810000d5126ece6b" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-1_3">
+        <c02 id="aspace_e19945e8eecd9cafce2463c6539c497a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Interview Transcripts</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1992">1992</unitdate>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_ebfb425f85cf6b14a8fc08391c0f960f" label="Mixed Materials" type="Box">1 (1-Research Material)</container>
+            <container id="aspace_329059948f4ca783288857c11c24ecee" parent="aspace_ebfb425f85cf6b14a8fc08391c0f960f" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-1_4">
+        <c02 id="aspace_7d5cdc04e5deb368c2a2eee4e0a8476e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Interview Transcripts</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1994/1999">1994-1999</unitdate>
+            <unitdate normal="1994/1999" type="inclusive">1994-1999</unitdate>
+            <container id="aspace_fed648daece5a833fe696c4bbb107c37" label="Mixed Materials" type="Box">1 (1-Research Material)</container>
+            <container id="aspace_0420337b93dafcf95c76b160ce4c3e87" parent="aspace_fed648daece5a833fe696c4bbb107c37" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-1_5">
+        <c02 id="aspace_1f19ab55589dcf99b0d207125e5fd671" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Publications - New York State Task Force on Bias-Related Violence</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1988">1988</unitdate>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_42e900f37fd3c9b04745dfd823003a2f" label="Mixed Materials" type="Box">1 (1-Research Material)</container>
+            <container id="aspace_06db616b2346b1df4059e6d98d14671e" parent="aspace_42e900f37fd3c9b04745dfd823003a2f" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-1_6">
+        <c02 id="aspace_7b9f8d64ada01279d4f9eab98cd050a5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Publications - Needle Exchange Programs</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1995/1996">1995-1996</unitdate>
+            <unitdate normal="1995/1996" type="inclusive">1995-1996</unitdate>
+            <container id="aspace_40ab637da2f7d504505664592267feff" label="Mixed Materials" type="Box">1 (1-Research Material)</container>
+            <container id="aspace_737368f1189cd86e933b41ef5524823b" parent="aspace_40ab637da2f7d504505664592267feff" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-1_7">
+        <c02 id="aspace_cc0105bb41f32e73e78c236d973cbf2a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Publications - New York State Reports on AIDS, general</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1986/1991">1986-1991</unitdate>
+            <unitdate normal="1986/1991" type="inclusive">1986-1991</unitdate>
+            <container id="aspace_93f6670f5200e8dd03c53479a2bb6cbb" label="Mixed Materials" type="Box">2 (1-Research Material)</container>
+            <container id="aspace_928c6bffcedb122c55edd6b6957ae7ca" parent="aspace_93f6670f5200e8dd03c53479a2bb6cbb" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-1_8">
+        <c02 id="aspace_35e7598392a3e3fdb5eafc6b39486491" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>Publications - New York State Department of Social Services - <emph render="italic">AIDS Update</emph>(Newsletter)</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1987/1992">1987-1992</unitdate>
+            <unitdate normal="1987/1992" type="inclusive">1987-1992</unitdate>
+            <container id="aspace_5c8ab89a159a163271e9e67335262242" label="Mixed Materials" type="Box">2 (1-Research Material)</container>
+            <container id="aspace_17ceb410ab3ef748a0d2127879dbe793" parent="aspace_5c8ab89a159a163271e9e67335262242" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-1_9">
+        <c02 id="aspace_580fe4d29f010998a9247a535ab87738" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Publications - New York State Department of Health AIDS Institute (NYSDOHAI) - <emph render="italic">Focus on AIDS in New York State</emph>(Newsletter)</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1991/1992">1991-1992</unitdate>
+            <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
+            <container id="aspace_8de42a1af0d725aa46d0b9026a7d48a7" label="Mixed Materials" type="Box">2 (1-Research Material)</container>
+            <container id="aspace_11dfdb5f071610c34c0e115cb7ad8462" parent="aspace_8de42a1af0d725aa46d0b9026a7d48a7" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-1_10">
+        <c02 id="aspace_4244d8ba9b4923f4811a59803e1397fd" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Publications - New York State Department of Health AIDS Institute (NYSDOHAI) - Reports</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1991/1994">1991-1994</unitdate>
+            <unitdate normal="1991/1994" type="inclusive">1991-1994</unitdate>
+            <container id="aspace_ea8e29d84ea7998f8f1fa4bc623b395a" label="Mixed Materials" type="Box">2 (1-Research Material)</container>
+            <container id="aspace_e5a9e21238a01cc13ced4b894d7c52ee" parent="aspace_ea8e29d84ea7998f8f1fa4bc623b395a" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-1_11">
+        <c02 id="aspace_4262d65e0e1b65428acb57a4a93b1098" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>Publications - New York State Department of Health AIDS Institute (NYSDOHAI) - Reports</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1994/1996">1994-1996</unitdate>
+            <unitdate normal="1994/1996" type="inclusive">1994-1996</unitdate>
+            <container id="aspace_890a8e256c5b838fe8b5f84f48ad7ed6" label="Mixed Materials" type="Box">2 (1-Research Material)</container>
+            <container id="aspace_477c0f2f0323f3201309de5c00a6530d" parent="aspace_890a8e256c5b838fe8b5f84f48ad7ed6" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-1_12">
+        <c02 id="aspace_e5eb3af2a2102c5cfe9c07167ead69c0" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>Publications - White House National AIDS Strategy</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1997">1997</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_859000d768368e4f0497a666746bf99b" label="Mixed Materials" type="Box">3 (1-Research Material)</container>
+            <container id="aspace_0c708b884b3ff05196750c4154098e4e" parent="aspace_859000d768368e4f0497a666746bf99b" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-1_13">
+        <c02 id="aspace_1c9b040f3a223cf41b6271ea0aa70fdf" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>Publications - Federal, Private and Nonprofit Publications on AIDS Crisis</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1987/1992">1987-1992</unitdate>
+            <unitdate normal="1987/1992" type="inclusive">1987-1992</unitdate>
+            <container id="aspace_47350bb654c03b143e224262c8ef9068" label="Mixed Materials" type="Box">3 (1-Research Material)</container>
+            <container id="aspace_c91f44383a98f3d8e7127035fd061deb" parent="aspace_47350bb654c03b143e224262c8ef9068" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-1_14">
+        <c02 id="aspace_fcf963ded8fa2939541379c5d2172b3f" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">3</container>
             <unittitle>Publications - Federal, Private and Nonprofit Publications on AIDS Crisis</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1990/1997">1990-1997</unitdate>
+            <unitdate normal="1990/1997" type="inclusive">1990-1997</unitdate>
+            <container id="aspace_20dcf2a109a60e052b4cb1b0591d3280" label="Mixed Materials" type="Box">3 (1-Research Material)</container>
+            <container id="aspace_ffce11d5473dfbd6b5f94f0393b3e5d4" parent="aspace_20dcf2a109a60e052b4cb1b0591d3280" type="Folder">3</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_apap202-2" level="series">
+      <c01 id="aspace_895c6cc69da97ab41ec0b0b2284472d4" level="series">
         <did>
+          <unittitle>Manuscripts &amp; Publications</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Manuscripts &amp; Publications</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1992/1996" type="inclusive">1992-1996</unitdate>
+          <unitdate normal="1992/1996" type="inclusive">1992-1996</unitdate>
         </did>
-        <scopecontent>
+        <scopecontent id="aspace_fdc69e6c40c9ef75520125b4b7f74e71">
+          <head>Scope and Contents</head>
           <p>This series contains drafts and published copies of Dr. Rosenthal's academic work on the subjects of gay community activism and the AIDS crisis, including articles in <emph render="italic">Urban Affairs Review and Polity</emph>and an address to the American Political Science Association. Items are organized alphabetically by title.</p>
         </scopecontent>
-        <c02 id="nam_apap202-2_1">
+        <c02 id="aspace_4389e88e5655c39610698963a1c8d138" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4</container>
             <unittitle>"Albany Notes" (typescript)</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1994">1994</unitdate>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_f2fba0d6407d7b91832f268302223f7c" label="Mixed Materials" type="Box">3 (2-Manuscripts &amp; Publications)</container>
+            <container id="aspace_fa2a86ad822c6c610245687aff2724d7" parent="aspace_f2fba0d6407d7b91832f268302223f7c" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-2_2">
+        <c02 id="aspace_67c8f77d02bd3de38f11089d28493cc0" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4</container>
             <unittitle>Dilemmas in the Development of AIDS Service Organizations in Upstate New York." Address to American Political Science Association (typescript)</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1990">1990</unitdate>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_a049352fb86f4d6561258adc16832c3d" label="Mixed Materials" type="Box">3 (2-Manuscripts &amp; Publications)</container>
+            <container id="aspace_a5a7dd675ca8f071be70d38f034f5c18" parent="aspace_a049352fb86f4d6561258adc16832c3d" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-2_3">
+        <c02 id="aspace_1c88aeea4e93228138a2c7e05d9102b2" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4</container>
             <unittitle>"Gay and Lesbian Political Mobilization and Regime Responsiveness in Four New York Cities." <emph render="italic">Urban Affairs Review</emph>Vol. 32, No. 1 (article photocopy and 3 drafts)</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1996-09">1996 September</unitdate>
+            <unitdate normal="1996-09/1996-09" type="inclusive">1996 September</unitdate>
+            <container id="aspace_c33654a75a754dcc9e1e706d212e4abc" label="Mixed Materials" type="Box">3 (2-Manuscripts &amp; Publications)</container>
+            <container id="aspace_cc47b3e7bee4c98ce742deed35f596f7" parent="aspace_c33654a75a754dcc9e1e706d212e4abc" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-2_4">
+        <c02 id="aspace_2f26c4664d209179f3779851044302da" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4</container>
             <unittitle>"Who 'Owns' AIDS Service Organizations? Governance Accountability in Non-Profit Organizations." <emph render="italic">Polity</emph>Vol. 29, No. 1 (offprint and 2 drafts)</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1996-09">1996 Fall</unitdate>
+            <unitdate normal="1996-09/1996-09" type="inclusive">1996 Fall</unitdate>
+            <container id="aspace_2a3c9b9847efad2280ec7716b83b9690" label="Mixed Materials" type="Box">3 (2-Manuscripts &amp; Publications)</container>
+            <container id="aspace_221d8282cabab35b6b01cce0bd7d42a5" parent="aspace_2a3c9b9847efad2280ec7716b83b9690" type="Folder">4</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_apap202-3" level="series">
+      <c01 id="aspace_e4c26a4e8b518f18a8733642da1bbaed" level="series">
         <did>
+          <unittitle>Subject File</unittitle>
           <unitid>3</unitid>
-          <unittitle label="Series">Subject File</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1985/2001" type="inclusive">1985-2001</unitdate>
+          <unitdate normal="1985/2001" type="inclusive">1985-2001</unitdate>
         </did>
-        <scopecontent>
-          <p>This series contains several subject files related to various gay rights and AIDS prevention initiatives. Items within each file include leaflets, correspondence and news clippings. </p>
+        <scopecontent id="aspace_4d7996426aec7f13e910234f8c325fb0">
+          <head>Scope and Contents</head>
+          <p>This series contains several subject files related to various gay rights and AIDS prevention initiatives. Items within each file include leaflets, correspondence and news clippings.</p>
         </scopecontent>
-        <c02 id="nam_apap202-3_1">
+        <c02 id="aspace_f09c90817c9fe7ef5401de3fc3006381" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">5</container>
             <unittitle>AIDS Council of Northeastern New York</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1989/1995">1989-1995</unitdate>
+            <unitdate normal="1989/1995" type="inclusive">1989-1995</unitdate>
+            <container id="aspace_b61a2ee9bdf211eee90ca50c747b56ad" label="Mixed Materials" type="Box">3 (3-Subject File)</container>
+            <container id="aspace_8cffb4ac0876e51cef69c9a4a1e58410" parent="aspace_b61a2ee9bdf211eee90ca50c747b56ad" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-3_2">
+        <c02 id="aspace_69c834044ae77f0bf5b1997302f7935c" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">6</container>
             <unittitle>Albany Human Rights Ordinance</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1992/1995">1992-1995</unitdate>
+            <unitdate normal="1992/1995" type="inclusive">1992-1995</unitdate>
+            <container id="aspace_bb0c79751a9f187059a3a310d4fe964c" label="Mixed Materials" type="Box">3 (3-Subject File)</container>
+            <container id="aspace_6f52e3650314327868c47ed6c5076696" parent="aspace_bb0c79751a9f187059a3a310d4fe964c" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-3_3">
+        <c02 id="aspace_575cfc12d1ffd3259a03f47e1aca3ab4" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">7</container>
             <unittitle>Empire State Pride Agenda</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1990/2001">1990-2001</unitdate>
+            <unitdate normal="1990/2001" type="inclusive">1990-2001</unitdate>
+            <container id="aspace_5bf31b8918557e348426c3905d234e21" label="Mixed Materials" type="Box">3 (3-Subject File)</container>
+            <container id="aspace_ed88f76e7432675f67fce53f86e45352" parent="aspace_5bf31b8918557e348426c3905d234e21" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-3_4">
+        <c02 id="aspace_05fb1668012b0a6ba5b90461c24e4583" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">8</container>
             <unittitle>Housing Works</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1993/1998">1993-1998</unitdate>
+            <unitdate normal="1993/1998" type="inclusive">1993-1998</unitdate>
+            <container id="aspace_86b320d0995fbde6909260745fdd6967" label="Mixed Materials" type="Box">3 (3-Subject File)</container>
+            <container id="aspace_9017905b65858c12c4c59b23c97cef21" parent="aspace_86b320d0995fbde6909260745fdd6967" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-3_5">
+        <c02 id="aspace_a7ee61cf53b0ff97608c176fe3c6619b" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">9</container>
             <unittitle>Organizations, Miscellaneous</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1988/1999">1988-1999</unitdate>
+            <unitdate normal="1988/1999" type="inclusive">1988-1999</unitdate>
+            <container id="aspace_150b0c21506135926a6a010840066944" label="Mixed Materials" type="Box">3 (3-Subject File)</container>
+            <container id="aspace_63f8a43f693278abd1fe0067cd33e4f0" parent="aspace_150b0c21506135926a6a010840066944" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-3_6">
+        <c02 id="aspace_2031a6798e0e6a55944713df6823337b" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">10</container>
             <unittitle>Rochester, NY</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1985/1997">1985-1997</unitdate>
+            <unitdate normal="1985/1997" type="inclusive">1985-1997</unitdate>
+            <container id="aspace_752a9a0a171663f064feddbfa175c97f" label="Mixed Materials" type="Box">3 (3-Subject File)</container>
+            <container id="aspace_6eeabbb5a657e0794505cd38bdcf982f" parent="aspace_752a9a0a171663f064feddbfa175c97f" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-3_7">
+        <c02 id="aspace_e3fb61bef10a3d2e631ee1eec5edac28" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">11</container>
             <unittitle>Support Ministries, Inc./ Ahana House</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1992">1992</unitdate>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_7a50d0bad466ae55c5399da74dc23b9c" label="Mixed Materials" type="Box">3 (3-Subject File)</container>
+            <container id="aspace_a6882d7e6bed40e1cdaa5e05ebe2ca6a" parent="aspace_7a50d0bad466ae55c5399da74dc23b9c" type="Folder">11</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_apap202-4" level="series">
+      <c01 id="aspace_53b901f6c7e727f4894c06baf7c1ee02" level="series">
         <did>
+          <unittitle>Capital District Gay and Lesbian Community Council (CDGLCC)</unittitle>
           <unitid>4</unitid>
-          <unittitle label="Series">Capital District Gay and Lesbian Community Council (CDGLCC)</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1982/2004" type="inclusive">1982-2004</unitdate>
+          <unitdate normal="1982/2004" type="inclusive">1982-2004</unitdate>
         </did>
-        <scopecontent>
+        <scopecontent id="aspace_26bf688519cf3ca0cb85b7b9576789c2">
+          <head>Scope and Contents</head>
           <p>This series consists of material related to the Capital District Gay and Lesbian Community Council (CDGLCC). It consists primarily of an extensive run of the Council's monthly periodical, <emph render="italic">Community</emph>, which is partial from 1982-1991 and 2001-2003 and complete from 1992-2000. (Note that several issues from the years 1999-2000 are housed in an oversized box at the end of the series.) The series also includes fliers and programs for events held by the Council, news clippings related to the Council and its members, a small assortment of administrative files, and issues of the Council's quarterly member newsletter, <emph render="italic">MemberNews</emph>.</p>
         </scopecontent>
-        <c02 id="nam_apap202-4_1">
+        <c02 id="aspace_98e9f277fe0fc15aa861b134de17ac12" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">1</container>
             <unittitle>
               <emph render="italic">Community</emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1982-1991">1982-1991</unitdate>
+            <unitdate normal="1982/1991" type="inclusive">1982-1991</unitdate>
+            <container id="aspace_bc2213ccb87b05f2ef3b5dcb1de44314" label="Mixed Materials" type="Box">4 (4-Capital District Gay and Lesbian Community Council)</container>
+            <container id="aspace_abf13e26c3384ac7a87ea46d517f0430" parent="aspace_bc2213ccb87b05f2ef3b5dcb1de44314" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-4_2">
+        <c02 id="aspace_3ad779b8c3ae2a03c0c947d9cfd15883" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">2</container>
             <unittitle>
               <emph render="italic">Community</emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1992">1992</unitdate>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_00c8bde23f51709354585e8a5ef06c8e" label="Mixed Materials" type="Box">4 (4-Capital District Gay and Lesbian Community Council)</container>
+            <container id="aspace_595248613b000e434cb172539752a1f3" parent="aspace_00c8bde23f51709354585e8a5ef06c8e" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-4_3">
+        <c02 id="aspace_15c0a19753bf51e4ea07bd967abc918d" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">3</container>
             <unittitle>
               <emph render="italic">Community</emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1993">1993</unitdate>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_f94ed5ba13a46866042cba19dbf0a3b0" label="Mixed Materials" type="Box">4 (4-Capital District Gay and Lesbian Community Council)</container>
+            <container id="aspace_2ae1919fb33c0cde3d8731ee97125ea3" parent="aspace_f94ed5ba13a46866042cba19dbf0a3b0" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-4_4">
+        <c02 id="aspace_d12df6d1cafe29eaca3c448f2be20d02" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">4</container>
             <unittitle>
               <emph render="italic">Community</emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1994">1994</unitdate>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_4f5168aa596e2a7de05b862aa82f3e70" label="Mixed Materials" type="Box">4 (4-Capital District Gay and Lesbian Community Council)</container>
+            <container id="aspace_0a5dca4ca0282ffe35cb213f76bef077" parent="aspace_4f5168aa596e2a7de05b862aa82f3e70" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-4_5">
+        <c02 id="aspace_d8dec6fa20308bc67a84175be1afb92c" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">5</container>
             <unittitle>
               <emph render="italic">Community</emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1995">1995</unitdate>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_b4968705694f7abf9c5013d8f463f591" label="Mixed Materials" type="Box">4 (4-Capital District Gay and Lesbian Community Council)</container>
+            <container id="aspace_17027a6368db03ee798ba8edacaf8bf7" parent="aspace_b4968705694f7abf9c5013d8f463f591" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-4_6">
+        <c02 id="aspace_d9ff78a78b05ca1f91863239d7dbf43d" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">1</container>
             <unittitle>
               <emph render="italic">Community</emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1996">1996</unitdate>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_2d78e7c482c8b8b465b364382f29ca6e" label="Mixed Materials" type="Box">5 (4-Capital District Gay and Lesbian Community Council)</container>
+            <container id="aspace_ec118b955d27e59575f7c23a01138c54" parent="aspace_2d78e7c482c8b8b465b364382f29ca6e" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-4_7">
+        <c02 id="aspace_51001fbeb8ac604871a9565ab54435b1" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">2</container>
             <unittitle>
               <emph render="italic">Community</emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1997">1997</unitdate>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_9deb7e0e729bb13dc1bc1bcea2cc068b" label="Mixed Materials" type="Box">5 (4-Capital District Gay and Lesbian Community Council)</container>
+            <container id="aspace_5bddbf9ebc06a3dea2275b8f28e8546b" parent="aspace_9deb7e0e729bb13dc1bc1bcea2cc068b" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-4_8">
+        <c02 id="aspace_08c4a65319f4dd4da7d59d635118788e" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">3</container>
             <unittitle>
               <emph render="italic">Community</emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1998">1998</unitdate>
+            <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+            <container id="aspace_45d123ab5cd20fe5d3938f51f93a80ad" label="Mixed Materials" type="Box">5 (4-Capital District Gay and Lesbian Community Council)</container>
+            <container id="aspace_b41c2033387fbc5cc939721c0bf78238" parent="aspace_45d123ab5cd20fe5d3938f51f93a80ad" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-4_9">
+        <c02 id="aspace_622ddfe1a8357c1fbb12a0c9ff9c30ca" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">4</container>
             <unittitle>
               <emph render="italic">Community</emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1999">1999</unitdate>
+            <unitdate normal="1999/1999" type="inclusive">1999</unitdate>
+            <container id="aspace_209db8fb371b39d27b8dd22ff2d836ec" label="Mixed Materials" type="Box">5 (4-Capital District Gay and Lesbian Community Council)</container>
+            <container id="aspace_0c18cacead549285e1075ea197db2652" parent="aspace_209db8fb371b39d27b8dd22ff2d836ec" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-4_10">
+        <c02 id="aspace_fb30e5e35b76e9d1544f5581edc7df60" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">1</container>
             <unittitle>
               <emph render="italic">Community</emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="2000-2003">2000-2003</unitdate>
+            <unitdate normal="2000/2003" type="inclusive">2000-2003</unitdate>
+            <container id="aspace_dd7346e898542ccbbc115f10e72ae5d9" label="Mixed Materials" type="Box">6 (4-Capital District Gay and Lesbian Community Council)</container>
+            <container id="aspace_88feba1954fbe71a207bb4c5ad114a2e" parent="aspace_dd7346e898542ccbbc115f10e72ae5d9" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-4_11">
+        <c02 id="aspace_21f4d29185b0d7500bed8c20795b59d7" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">2</container>
             <unittitle>Administrative Files</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1988-1998">1988-1998</unitdate>
+            <unitdate normal="1988/1998" type="inclusive">1988-1998</unitdate>
+            <container id="aspace_5609e2ed2d42a25ad17b1336fdb1f362" label="Mixed Materials" type="Box">6 (4-Capital District Gay and Lesbian Community Council)</container>
+            <container id="aspace_bb8f35fdd92ab489b71aefdcb3f3a394" parent="aspace_5609e2ed2d42a25ad17b1336fdb1f362" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-4_12">
+        <c02 id="aspace_d3e7209c55625f46b4f26b4a3e8df77d" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">3</container>
             <unittitle>Event Publications</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1989-2004">1989-2004</unitdate>
+            <unitdate normal="1989/2004" type="inclusive">1989-2004</unitdate>
+            <container id="aspace_7b734dcfe5427116051fb1cad62c7720" label="Mixed Materials" type="Box">6 (4-Capital District Gay and Lesbian Community Council)</container>
+            <container id="aspace_fcbce59e0e57e9cccb1197a4e07a0e19" parent="aspace_7b734dcfe5427116051fb1cad62c7720" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-4_13">
+        <c02 id="aspace_3d6a24e829344d985d83942f1e086908" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">4</container>
             <unittitle>News Clippings</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1988-1997">1988-1997</unitdate>
+            <unitdate normal="1988/1997" type="inclusive">1988-1997</unitdate>
+            <container id="aspace_198ee6076bd0c6ed7d1cd04b56ea1465" label="Mixed Materials" type="Box">6 (4-Capital District Gay and Lesbian Community Council)</container>
+            <container id="aspace_72455370547e71397984cf4f07297fd3" parent="aspace_198ee6076bd0c6ed7d1cd04b56ea1465" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-4_14">
+        <c02 id="aspace_3c9c43275aecdcec615c11e8f6121aa4" level="file">
           <did>
-            <container type="Box">6</container>
-            <container type="Folder">5</container>
             <unittitle>Research notes; <emph render="italic">MemberNews</emph></unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1994-1997">1994-1997</unitdate>
+            <unitdate normal="1994/1997" type="inclusive">1994-1997</unitdate>
+            <container id="aspace_229ccbb99ddc954ed6c9886148dd4ad4" label="Mixed Materials" type="Box">6 (4-Capital District Gay and Lesbian Community Council)</container>
+            <container id="aspace_b493c7d41181685dd6f044e67f18ec17" parent="aspace_229ccbb99ddc954ed6c9886148dd4ad4" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap202-4_15">
+        <c02 id="aspace_3000f3660b488291e5adc91b8e363d8e" level="file">
           <did>
-            <container type="Oversized">7</container>
-            <container type="Folder">1</container>
             <unittitle>
               <emph render="italic">Community</emph>
             </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1999-2000">1999-2000</unitdate>
+            <unitdate normal="1999/2000" type="inclusive">1999-2000</unitdate>
+            <container id="aspace_c2453feb8ae0922c25dd2f362583649a" label="Mixed Materials" type="Oversized">7</container>
+            <container id="aspace_4c51c22ea4947f80b45a4ec82e09677c" parent="aspace_c2453feb8ae0922c25dd2f362583649a" type="Folder">1</container>
           </did>
         </c02>
       </c01>

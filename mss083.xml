@@ -1,86 +1,89 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_mss083">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/mss083.html">nam_mss083</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="mss083">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=mss083.xml">mss083</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>F.D. JACKSON PAPERS (MSS083)<date normal="1881/1883" type="inclusive">1881-1882</date></titleproper>
+        <titleproper>Jackson, F.D.; Day book <num>mss083</num></titleproper>
         <author>unprocessed</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2015" type="publication">Copyright 2015 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2015</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Conversion and encoding by ArchProteus, <date normal="2014">2014</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 17:14:03 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2014">2014</date>
+        <date>2014</date>
         <item>EAD file created</item>
+      </change>
+      <change>
+        <date>2014</date>
+        <item>Encoded in EAD by Conversion and encoding by ArchProteus</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_mss083</unitid>
-      <unittitle>F.D. Jackson Papers<unitdate normal="1881/1883" type="inclusive">1881-1882</unitdate></unittitle>
-      <abstract label="Abstract:">The collection consists of a daybook, 1881-1882, kept by the proprietor of a general store in Derby, Connecticut.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <persname encodinganalog="100" source="local">Jackson, F.D.</persname>
-      </origination>
-      <physdesc>
-        <physfacet>1 Daybook</physfacet>
-      </physdesc>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>F.D. Jackson Papers<unitdate normal="1881/1883" type="inclusive">1881-1882</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="local">Jackson, F.D.</persname>
+      </origination>
+      <unitid>mss083</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Daybook</extent>
+      </physdesc>
+      <abstract id="aspace_211a0f6c69d866015d1bf0a710a02c5c">The collection consists of a daybook, 1881-1882, kept by the proprietor of a general store in Derby, Connecticut.</abstract>
+      <langmaterial id="aspace_68ed308b0194659ae29cccb209dd427b">English</langmaterial>
+      <physloc id="aspace_23c60ad32504aeb697b6df65b102298e">The materials are located onsite in the department.</physloc>
+      <container id="aspace_98aaa4d71548b75745742c114033fe12" label="Mixed Materials" type="Collection">X</container>
     </did>
-    <bioghist>
+    <processinfo id="aspace_5a1ec34e819841dfa8cd891473ca39c5">
+      <head>Processing Information</head>
+      <p>Processed in 2015 by unprocessed.</p>
+    </processinfo>
+    <bioghist id="aspace_ade4fd7c7ce0badab31470d4a033b08e">
       <head>Biographical History</head>
       <p>F.D. Jackson was a the proprietor of a general store in Derby, Connecticut, 1881-1882.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>This daybook, 1881-1882, was kept by the proprietor of a general store in Derby, Connecticut and bears the stationer's label "A. E. Gould, Traveling Stationery Dealer, New Haven, Connecticut." </p>
+    <scopecontent id="aspace_5e8c0021f1c97d7c86295a00b34afd0d">
+      <head>Scope and Contents</head>
+      <p>This daybook, 1881-1882, was kept by the proprietor of a general store in Derby, Connecticut and bears the stationer's label "A. E. Gould, Traveling Stationery Dealer, New Haven, Connecticut."</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_22be08b4c6e166e5fe335530ea7e10b5">
       <head>Arrangement of the Collection</head>
       <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_a734352dcde89bf236418c34343b1912">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_57b01769db775edef77f48797ebbe252">
       <head>Access</head>
       <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. While it is likely that portions of the collection may be viewed, access must be managed by an archivist.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_5ffb743859f65d2839872831b50e3089">
       <head>Copyright</head>
       <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_f4f3fc102caedb26e48f5f3f60418d72">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder,F.D. Jackson Papers, 1881-1882. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Jackson Papers).</p>
+      <p> Identification of specific item, series, box, folder,F.D. Jackson Papers, 1881-1882. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Jackson Papers).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Business and Industry</subject>
-      <subject encodinganalog="650" source="lcsh">General stores-Connecticut</subject>
+      <subject source="meg">Business and Industry</subject>
+      <subject source="lcsh">General stores-Connecticut</subject>
     </controlaccess>
+    <dsc/>
   </archdesc>
 </ead>

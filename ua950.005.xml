@@ -1,531 +1,535 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua950.005">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua950.005.html">nam_ua950.005</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua950.005">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua950.005.xml">ua950.005</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>CAMPUS CONSTRUCTION COLLECTION (UA950.005)<date normal="1951/1987" type="inclusive">1951-1987</date></titleproper>
+        <titleproper>Campus Construction; Collection <num>ua950.005</num></titleproper>
         <author>M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2015" type="publication">Copyright 2015 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2015</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Jodi Boyle<date normal="2015">2015</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 17:08:21 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2015-12">2015 December</date>
+        <date>2015 December</date>
         <item>Converted to EAD</item>
+      </change>
+      <change>
+        <date>2015</date>
+        <item>Encoded in EAD by Jodi Boyle</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua950.005</unitid>
-      <unittitle>Campus Construction Collection<unitdate normal="1951/1987" type="inclusive">1951-1987</unitdate></unittitle>
-      <abstract label="Abstract:">This collection contains planning documents used in the development and construction of the University at Albany, SUNY's Uptown campus.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="lcsh"> State University of New York at Albany</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">1.37</extent>
-      </physdesc>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Campus Construction Collection<unitdate normal="1951/1987" type="inclusive">1951-1987</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="lcsh">State University of New York at Albany</corpname>
+      </origination>
+      <unitid>ua950.005</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.37 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_1b8eb636c0034e2990b69a28171bb31f">This collection contains planning documents used in the development and construction of the University at Albany, SUNY's Uptown campus.</abstract>
+      <langmaterial id="aspace_b152e2ae142c31f6c21a54526a87cf67">English</langmaterial>
+      <physloc id="aspace_6961e76fc04c8485b9e47f7d6c370825">The materials are located onsite in the department.</physloc>
     </did>
-    <bioghist>
+    <processinfo id="aspace_6a737310bd948cbbdbbece79b53ef93c">
+      <head>Processing Information</head>
+      <p>Processed in 2015 by M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY.</p>
+    </processinfo>
+    <bioghist id="aspace_370ee09977012df4fc80a31845051351">
       <head>Administrative History</head>
-      <p>The University's main campus, the Uptown Campus, has been described as a distinctive work of modern art. Designed in 1961-1962 by renowned American architect Edward Durell Stone (1902-1978), the campus bears Stone's signature style of bold unified design, evident in buildings from the U.S. Embassy in New Delhi to the Kennedy Center for the Performing Arts in Washington, D.C.  Construction on the initial set of buildings began in 1962 and finished in 1971.  The next building to be built on campus, Freedom Quad, opened in 1988.</p>
-      <p>The Uptown Campus is defined by a central Academic Podium complex, main fountain complex with carillon tower, and four quadrangle residence halls that dominate much of the campus.</p>
+      <p>The University's main campus, the Uptown Campus, has been described as a distinctive work of modern art. Designed in 1961-1962 by renowned American architect Edward Durell Stone (1902-1978), the campus bears Stone's signature style of bold unified design, evident in buildings from the U.S. Embassy in New Delhi to the Kennedy Center for the Performing Arts in Washington, D.C. Construction on the initial set of buildings began in 1962 and finished in 1971. The next building to be built on campus, Freedom Quad, opened in 1988.</p>
+      <p> The Uptown Campus is defined by a central Academic Podium complex, main fountain complex with carillon tower, and four quadrangle residence halls that dominate much of the campus.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>This collection contains planning documents used in the development and construction of the University at Albany, SUNY's Uptown campus.  Of particular interest are the regular progress memos providing indepth information about challenges and development with construction.</p>
-      <p>The majority of plans included in this collection (such as the 1974 plans, 30,000-40,000 student scenario) were never realized and the buildings were not constructed in the 1970s as anticipated in the previous decade.</p>
+    <scopecontent id="aspace_c34a9887ee35a14d162899ad7ae83579">
+      <head>Scope and Contents</head>
+      <p>This collection contains planning documents used in the development and construction of the University at Albany, SUNY's Uptown campus. Of particular interest are the regular progress memos providing indepth information about challenges and development with construction.</p>
+      <p> The majority of plans included in this collection (such as the 1974 plans, 30,000-40,000 student scenario) were never realized and the buildings were not constructed in the 1970s as anticipated in the previous decade.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_59e402b36502cec4757fad8e27babfdf">
       <head>Arrangement of the Collection</head>
-      <p>The collection has two series: Planning Documents and Subject Files.  Both are arranged alphabetically.</p>
+      <p>The collection has two series: Planning Documents and Subject Files. Both are arranged alphabetically.</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_65f208aca9ea7694b806e09cb9b357a0">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_022c9d13c6573ef339c93feeaa68f7d6">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_319fd8959ed0be553e72b7de4d7dba7d">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites. </p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
-      <p>The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future. </p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
+      <p> The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_5e9ec00a48b987af34d1cdc821649451">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Campus Construction Collection, 1951-1987. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Campus Construction Collection).</p>
+      <p> Identification of specific item, series, box, folder, Campus Construction Collection, 1951-1987. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Campus Construction Collection).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Architecture</subject>
-      <corpname encodinganalog="610" source="lcsh"> State University of New York at Albany</corpname>
-      <corpname encodinganalog="610" source="lcsh">New York State University Construction Fund</corpname>
-      <subject encodinganalog="650" source="lcsh">Campus planning -- New York (State)</subject>
-      <subject encodinganalog="650" source="lcsh">College facilities -- New York (State) -- Planning</subject>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Clippings</genreform>
+      <subject source="meg">Architecture</subject>
+      <subject source="lcsh">Campus planning -- New York (State)</subject>
+      <subject source="lcsh">College facilities -- New York (State) -- Planning</subject>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Clippings</genreform>
+      <corpname source="lcsh">State University of New York at Albany</corpname>
+      <corpname source="lcsh">New York State University Construction Fund</corpname>
     </controlaccess>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_ua950.005-1" level="series">
+    <dsc>
+      <c01 id="aspace_4357073c9820d56773a96d9811004f1f" level="series">
         <did>
+          <unittitle>Planning Document</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Planning Document</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1956/1978" type="inclusive">1956-1978</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.75</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.75 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1956/1978" type="inclusive">1956-1978</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_526c3624ebe928256a8720074e89bdb4">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_4268a55f49d59a8e51214123a6c2b7a6">
+          <head>Scope and Contents</head>
           <p>This series contains planning reports and related correspondence.</p>
         </scopecontent>
-        <c02 id="nam_ua950.005-1_1">
+        <c02 id="aspace_8710fe9c78fdfd8a827186731f161a82" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>1974 Comprehensive Campus Plan Updating SUNYA</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1967-08-02">1967 August 2</unitdate>
+            <unitdate normal="1967-08-02/1967-08-02" type="inclusive">1967 August 2</unitdate>
+            <container id="aspace_097aa9ba1aa845aeec671473439b7c29" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_253e5d573184b4b60520667da464688c" parent="aspace_097aa9ba1aa845aeec671473439b7c29" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_2">
+        <c02 id="aspace_63be2597452a28da3e76b27ab8340e5b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>1974 Comprehensive Campus Plan Updating SUNYA</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1967-06-07">1967 June 7</unitdate>
+            <unitdate normal="1967-06-07/1967-06-07" type="inclusive">1967 June 7</unitdate>
+            <container id="aspace_2b6f8ae6ecc8cc6faafbae45ccd1bac1" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_2433d62aaca5b2461c2d4af5f8a6a51d" parent="aspace_2b6f8ae6ecc8cc6faafbae45ccd1bac1" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_3">
+        <c02 id="aspace_18fde068a23bd87d250aea438c586707" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>1974 Comprehensive Campus Plan Updating SUNYA (1 of 2)</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1968-07">1968 July</unitdate>
+            <unitdate normal="1968-07/1968-07" type="inclusive">1968 July</unitdate>
+            <container id="aspace_2620cfa032ddd10c80ea078cb7683126" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_006e2ed15e61cd20b4411a26e063f6a5" parent="aspace_2620cfa032ddd10c80ea078cb7683126" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_4">
+        <c02 id="aspace_f43c2b6283d99c5bb2dbeb1e385a746e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>1974 Comprehensive Campus Plan Updating SUNYA (2 of 2)</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1968-07">1968 July</unitdate>
+            <unitdate normal="1968-07/1968-07" type="inclusive">1968 July</unitdate>
+            <container id="aspace_c5c070fcd400419a6d463bd4863d4d1a" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_f1401b63fb3117c9bd46998fc1cb49b3" parent="aspace_c5c070fcd400419a6d463bd4863d4d1a" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_5">
+        <c02 id="aspace_d65f2e472ecb6a9b831995780ddfaef3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>1974 Comprehensive Site Plan Updating SUNYA, Summary Report</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1968-07">1968 July</unitdate>
+            <unitdate normal="1968-07/1968-07" type="inclusive">1968 July</unitdate>
+            <container id="aspace_98f01d2c224ee447ce1e061fe55dd990" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_1f1ee0c54925c64a54b56bf2961bf702" parent="aspace_98f01d2c224ee447ce1e061fe55dd990" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_6">
+        <c02 id="aspace_50e2e644982305474f66d72563b84139" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Arena Theater</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1962/1964">1962-1964</unitdate>
+            <unitdate normal="1962/1964" type="inclusive">1962-1964</unitdate>
+            <container id="aspace_8f065eab3e45bebcefce5f49146c4315" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_b9c74ead6bcad431a67943c61ba6b5b6" parent="aspace_8f065eab3e45bebcefce5f49146c4315" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_7">
+        <c02 id="aspace_b378318e54a0e51c9d6bdc9fea0f8cc1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Building Progress Report</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1967/1971">1967-1971</unitdate>
+            <unitdate normal="1967/1971" type="inclusive">1967-1971</unitdate>
+            <container id="aspace_7a4f11732d4d18d8ff73dd75e6cb4f6b" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_1d54b8d562eac8358af697a728806ed2" parent="aspace_7a4f11732d4d18d8ff73dd75e6cb4f6b" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_8">
+        <c02 id="aspace_b3a52059e4c45da4aaba1fed2e92ca0d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1961/1969">1961-1969</unitdate>
+            <unitdate normal="1961/1969" type="inclusive">1961-1969</unitdate>
+            <container id="aspace_345ebfe77683201c2d4ae0e96df92331" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_134d1d56f3d44d0926ac899fd91ffd7d" parent="aspace_345ebfe77683201c2d4ae0e96df92331" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_9">
+        <c02 id="aspace_3d4884fbebbc11b2f711190225a2dcad" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1968">1968</unitdate>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_f8806fd959e4f276337250de43fd8d57" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_0ae3a874a3b4f394cf54b4deb8a0e2e2" parent="aspace_f8806fd959e4f276337250de43fd8d57" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_10">
+        <c02 id="aspace_3ebc12454cca56b065180776dec00f3f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Correspondence, Meeting Minutes, Material Bound for Walter Tisdale</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1961/1966">1961-1966</unitdate>
+            <unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate>
+            <container id="aspace_a5a9d1a508ad4ed66eb56230395d776e" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_8f7e91080129c12ba675b3ea99044278" parent="aspace_a5a9d1a508ad4ed66eb56230395d776e" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_11">
+        <c02 id="aspace_7569c5e1c3d7fe480b0c1751264e10ac" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Documents</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1961/1966">1961-1966</unitdate>
+            <unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate>
+            <container id="aspace_7a676371bad31c2db0a81af9418a30f3" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_3c5157ecf2b05fa1ad2e81d2de8f2c29" parent="aspace_7a676371bad31c2db0a81af9418a30f3" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_12">
+        <c02 id="aspace_3eb4e916b506955fd38ada59a780e1d9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Documents and News Clippings</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1967/1974">1967-1974</unitdate>
+            <unitdate normal="1967/1974" type="inclusive">1967-1974</unitdate>
+            <container id="aspace_1b8b8ada1071a01cc0e2cae4ae2711f1" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_77ba1c1996823192d6779f7d8d788a13" parent="aspace_1b8b8ada1071a01cc0e2cae4ae2711f1" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_13">
+        <c02 id="aspace_8d9c51122154ee09618d9820317ffbc6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>"Futures: State University of New York and your Children," Pamphlet</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1951/1987">Undated</unitdate>
+            <unitdate normal="1951/1987" type="inclusive">Undated</unitdate>
+            <container id="aspace_74f81e330cbd09d7ec58493fc14ffd9b" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_e602fb79c3ab63fced5472cd56da9126" parent="aspace_74f81e330cbd09d7ec58493fc14ffd9b" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_14">
+        <c02 id="aspace_be66e4f18d079c24681b142cea36bd37" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Land Requirements and Building Needs of the State of New York in the Albany Area and Acquisition by the State of the Site of the Albany Country Club</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1960">1960</unitdate>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_ac29fc3234d6c9e9119a418bd9e56e2c" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_54af20d2be8dc2312e78b1da49bda0c2" parent="aspace_ac29fc3234d6c9e9119a418bd9e56e2c" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_15">
+        <c02 id="aspace_94ae35f37239b812dbe95c0f04ccd483" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Lounge Space</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1971">1971</unitdate>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_89fd434c35db93641b6034143124caa1" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_6da6d84afc09c34f8e0e05a1e584c1e9" parent="aspace_89fd434c35db93641b6034143124caa1" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_16">
+        <c02 id="aspace_fd0275a38f1985084388778f8b9fac2f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>New Campus</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1962/1967">1962-1967</unitdate>
+            <unitdate normal="1962/1967" type="inclusive">1962-1967</unitdate>
+            <container id="aspace_c8f6149f7e7b0f514d810f0f321e37f0" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_fb5543b2422cdddcfe649eaf0b5c831a" parent="aspace_c8f6149f7e7b0f514d810f0f321e37f0" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_17">
+        <c02 id="aspace_43429988dd1503d198a33c3abf9aebfa" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>New Campus, Miscellaneous, Memos</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/1969">1966-1969</unitdate>
+            <unitdate normal="1966/1969" type="inclusive">1966-1969</unitdate>
+            <container id="aspace_90dbc0a32c2dc1d5b6e12a7cd4446d0f" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_5b65afbcb8fc8f16f3ac259387a9e64e" parent="aspace_90dbc0a32c2dc1d5b6e12a7cd4446d0f" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_18">
+        <c02 id="aspace_fc481c24f017a3aef2e0b4aa7d8e42e6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>New Campus Rooms and Offices, Binder</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1951/1987">Undated</unitdate>
+            <unitdate normal="1951/1987" type="inclusive">Undated</unitdate>
+            <container id="aspace_7f5a77db265e7a6e0233fe54aeab0663" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_425eee85f11679ed1dcb45c1a57b5a02" parent="aspace_7f5a77db265e7a6e0233fe54aeab0663" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_19">
+        <c02 id="aspace_85ddb9d66019bd9ab047b682c5ec13f2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>Planning, Buildings</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1958/1964">1958-1964</unitdate>
+            <unitdate normal="1958/1964" type="inclusive">1958-1964</unitdate>
+            <container id="aspace_b8ac9e8a24f5183e66ab08ab2b7f35cd" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_c1762ef4111c1214a1c10508016904c2" parent="aspace_b8ac9e8a24f5183e66ab08ab2b7f35cd" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_20">
+        <c02 id="aspace_ba5a96aed7e2d9b6fa08fb6d5c68cea6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>Planning, General</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1962/1964">1962-1964</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
+            <unitdate normal="1962/1964" type="inclusive">1962-1964</unitdate>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_21297392e82ede4cda1831a1ab6d3945" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_c638dafc40036272c756b0692a33c48f" parent="aspace_21297392e82ede4cda1831a1ab6d3945" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_21">
+        <c02 id="aspace_552af37b84fc2b0282e15e76bd7e9593" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>Progress Report on SUNY 1964 Master Plan, Correspondence</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1962/1975">1962-1975</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">1962-1975</unitdate>
+            <container id="aspace_08be5697be99706063004361bb01ad06" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_cc37bc778c1bdc2a546fcd18d14edfc4" parent="aspace_08be5697be99706063004361bb01ad06" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_22">
+        <c02 id="aspace_a7160cb8edb368c3216ae7010d359f7c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>SUNY College at Albany Site Planning Program</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1960-12-28">1960 December 28</unitdate>
+            <unitdate normal="1960-12-28/1960-12-28" type="inclusive">1960 December 28</unitdate>
+            <container id="aspace_4281118253a3dca72f2b241b3b823e8d" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_f6e696c221460f16194aaaab4acd1f27" parent="aspace_4281118253a3dca72f2b241b3b823e8d" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_23">
+        <c02 id="aspace_0fb9253b58aaa89fc8ee9bcd6e71ba52" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23</container>
             <unittitle>SUNYA: Comprehensive Campus Plan Report Action Program</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1965-05-01">1965 May 1</unitdate>
+            <unitdate normal="1965-05-01/1965-05-01" type="inclusive">1965 May 1</unitdate>
+            <container id="aspace_33ba86dbbcac31d86d572ba7d6bfce11" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_f6471f35e3b9d3f0cffe023152d0680b" parent="aspace_33ba86dbbcac31d86d572ba7d6bfce11" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_24">
+        <c02 id="aspace_32e9371655f2846d0af52a3518ce26d2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">24</container>
             <unittitle>State University of New York at Albany, Data Booklet</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1963-12-04">1963 December 4</unitdate>
+            <unitdate normal="1963-12-04/1963-12-04" type="inclusive">1963 December 4</unitdate>
+            <container id="aspace_05342708dc5ae806f8e0b41787148b22" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_c423cc90ee505636fa0dbb52a603e7d5" parent="aspace_05342708dc5ae806f8e0b41787148b22" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_25">
+        <c02 id="aspace_a62122a63a7aabc698d4f62f9e7a42e7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">25</container>
             <unittitle>State University of New York at Albany, Justification for Humanities Building II</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1951/1987">Undated</unitdate>
+            <unitdate normal="1951/1987" type="inclusive">Undated</unitdate>
+            <container id="aspace_301fd3412e46a6b8c12c884505d58432" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_793b396a68d110c9f5ee452a32669a88" parent="aspace_301fd3412e46a6b8c12c884505d58432" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_26">
+        <c02 id="aspace_c3a15c0782f92d4b212a0ac91ba7079f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">26</container>
             <unittitle>State University of New York at Albany, Justification for Social Science Building II</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1967-08">1967 August </unitdate>
+            <unitdate normal="1967-08/1967-08" type="inclusive">1967 August</unitdate>
+            <container id="aspace_52f01927db850668afa02d79bcc240a2" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_378249936e13a92ea1971250f9b029df" parent="aspace_52f01927db850668afa02d79bcc240a2" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_27">
+        <c02 id="aspace_abe9937eaff875c9399a91b18546bccb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">27</container>
             <unittitle>State University of New York at Albany, Justification for Business Building II</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1967-08">1967 August </unitdate>
+            <unitdate normal="1967-08/1967-08" type="inclusive">1967 August</unitdate>
+            <container id="aspace_75b846c8a18130277f756f9380005ee8" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_6173bda6c15aaa3cc1a90dde930015e7" parent="aspace_75b846c8a18130277f756f9380005ee8" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_28">
+        <c02 id="aspace_06ab8ae95cb04506f6b95dfd8b360731" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">28</container>
-            <unittitle>SUNY Planning Guidelines for Facilities at University Centers prepared by William T. Conway, Program Coordinators for University Centers, </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1965-02">1965 February </unitdate>
+            <unittitle>SUNY Planning Guidelines for Facilities at University Centers prepared by William T. Conway, Program Coordinators for University Centers,</unittitle>
+            <unitdate normal="1965-02/1965-02" type="inclusive">1965 February</unitdate>
+            <container id="aspace_1b6fff737953ceb109df01e35c878619" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_a8ea0b4dde0fe70d687809488f4f98db" parent="aspace_1b6fff737953ceb109df01e35c878619" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_29">
+        <c02 id="aspace_2d35c9f447a8c74fb68817a3e95b1ac2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">29</container>
             <unittitle>State University of New York at Albany, Program for New Academic Building, (Annex A)</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1972/1978">1972-1978</unitdate>
+            <unitdate normal="1972/1978" type="inclusive">1972-1978</unitdate>
+            <container id="aspace_b1fbb439a17cc125b2f3d4fd449e8061" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_851ad0358ae0a8982eef5017fa923c14" parent="aspace_b1fbb439a17cc125b2f3d4fd449e8061" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_30">
+        <c02 id="aspace_0a6167ae0f8a8fe137189f3a4ed9a9a6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">30</container>
             <unittitle>University Building Planning, Correspondence (1 of 2)</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1960/1969">1960-1969</unitdate>
+            <unitdate normal="1960/1969" type="inclusive">1960-1969</unitdate>
+            <container id="aspace_ef70bb3c0f5c06ea4a7addab345d6847" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_3de3301199dc1910aca713ae2c18e8d1" parent="aspace_ef70bb3c0f5c06ea4a7addab345d6847" type="Folder">30</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-1_31">
+        <c02 id="aspace_a069639c3ceca3b155c71ced3825861d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">31</container>
             <unittitle>University Building Planning, Correspondence (2 of 2)</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1960/1969">1960-1969</unitdate>
+            <unitdate normal="1960/1969" type="inclusive">1960-1969</unitdate>
+            <container id="aspace_15ebe0280aa457a2ca0865276a9d6a0a" label="Mixed Materials" type="Box">1 (1-Planning Document)</container>
+            <container id="aspace_809c017ce83cec08707994554d1458e0" parent="aspace_15ebe0280aa457a2ca0865276a9d6a0a" type="Folder">31</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_ua950.005-2" level="series">
+      <c01 id="aspace_a99e3e261a5d6895b6958a7bcc82d5a9" level="series">
         <did>
+          <unittitle>Subject Files</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Subject Files</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1951/1987" type="inclusive">1951-1987</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.62</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.62 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1951/1987" type="inclusive">1951-1987</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_df23dbbdda478aff0a70c44c1e055978">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_cb94c2b5c31f6de9f077305081a37bb2">
+          <head>Scope and Contents</head>
           <p>This series contains subject files including many news clippings, brochures and materials from an exhibit on campus construction.</p>
         </scopecontent>
-        <c02 id="nam_ua950.005-2_1">
+        <c02 id="aspace_bc1164f49f253c5921de4a51503c80f3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">32</container>
             <unittitle>Atlas Cement Promotional Brochures; SUNY Master Plan; SUNY Summary Bulletin</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1964/1965">1964-1965</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
+            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_bb7303841375dbed973cdb5792f0b885" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_d45358305a48a29e7d2960deeab5e378" parent="aspace_bb7303841375dbed973cdb5792f0b885" type="Folder">32</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-2_2">
+        <c02 id="aspace_a185e63efea672fe167433699c589580" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">33</container>
             <unittitle>Campus Environmental Improvement Program, SUNY College of Environmental Science and Forestry</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1987">1987</unitdate>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_1200dad88b60203b0e31583ef0a67765" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_4e55c8b06872656848a3998d781a1e39" parent="aspace_1200dad88b60203b0e31583ef0a67765" type="Folder">33</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-2_3">
+        <c02 id="aspace_751655bd206a365b5f93c9c360fbe6a9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">34</container>
             <unittitle>Campus Environmental Improvement Program, SUNY College of Environmental Science and Forestry, Copy</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1987">1987</unitdate>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_5e864a0882861cdc671460605d703fe2" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_7fcf450540fc696eb40122e9fc0b07c0" parent="aspace_5e864a0882861cdc671460605d703fe2" type="Folder">34</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-2_4">
+        <c02 id="aspace_dae7dcd7056357d58ce1289a55322fa2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">35</container>
             <unittitle>Committee of the University</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1970/1971">1970-1971</unitdate>
+            <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
+            <container id="aspace_6145a7c12dcde5bf23fb34a5d6837507" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_ed30bad1a8fc2d2249a3ee758036508c" parent="aspace_6145a7c12dcde5bf23fb34a5d6837507" type="Folder">35</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-2_5">
+        <c02 id="aspace_4592a968b7c5ee7dc02123f4ba00b6e1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">36</container>
             <unittitle>Construction News Clippings</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1963/1967">1963-1967</unitdate>
+            <unitdate normal="1963/1967" type="inclusive">1963-1967</unitdate>
+            <container id="aspace_99d165e8ed3a2e72ed3d7c8605a1240b" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_bcdebaf9bbf9fc0e5867cbb39ffcaa96" parent="aspace_99d165e8ed3a2e72ed3d7c8605a1240b" type="Folder">36</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-2_6">
+        <c02 id="aspace_79e59450737ad5068f02f11d0dce4c49" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">37</container>
             <unittitle>Dormitory Authority of the State of New York Annual Report</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1965/1966"> 1965-1966</unitdate>
+            <unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate>
+            <container id="aspace_69100745af8a37c28cf3f6121a22b10d" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_8f8b961fe3907040b0394936a245a19d" parent="aspace_69100745af8a37c28cf3f6121a22b10d" type="Folder">37</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-2_7">
+        <c02 id="aspace_fc170a9cf8731e42f915b99a0d35f8c5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">38</container>
-            <unittitle>Edward Durell Stone, SUNYA Scrapbook (Photocopy of the original courtesy of the office of Dennis Sebeveal) </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1962/1970">1962-1970</unitdate>
+            <unittitle>Edward Durell Stone, SUNYA Scrapbook (Photocopy of the original courtesy of the office of Dennis Sebeveal)</unittitle>
+            <unitdate normal="1962/1970" type="inclusive">1962-1970</unitdate>
+            <container id="aspace_74a3308a6fef244fd3cf36fc8660aabe" label="Mixed Materials" type="Box">1 (2-Subject Files)</container>
+            <container id="aspace_8050df414b9b795314b1feefff73745f" parent="aspace_74a3308a6fef244fd3cf36fc8660aabe" type="Folder">38</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-2_8">
+        <c02 id="aspace_3ebbcc17e11589abd34a6e432e7951b9" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>The Environment of a College: A Study of the Campus and Construction of SUNYA, by Dennis Esposiet</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1975-10-20">1975 October 20</unitdate>
+            <unitdate normal="1975-10-20/1975-10-20" type="inclusive">1975 October 20</unitdate>
+            <container id="aspace_920ff141bf0c17ada7b78af8e3b71cc0" label="Mixed Materials" type="Box">2 (2-Subject Files)</container>
+            <container id="aspace_d816a943c8bbe2a0c195ec90e509d775" parent="aspace_920ff141bf0c17ada7b78af8e3b71cc0" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-2_9">
+        <c02 id="aspace_ee7c18305e4fdc82675d4eb572023c83" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>Equipment, Memos, Forms, Inventory, Proposals and Procedures</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1951">1951</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1958/1972">1958-1972</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <unitdate normal="1958/1972" type="inclusive">1958-1972</unitdate>
+            <container id="aspace_22dbd314818cac19c1af25415e2588a2" label="Mixed Materials" type="Box">2 (2-Subject Files)</container>
+            <container id="aspace_9d8c575ca062677798fae8b7f674ad3e" parent="aspace_22dbd314818cac19c1af25415e2588a2" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-2_10">
+        <c02 id="aspace_dbe2541cdc56260ce452036ebfd7434e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Food Services</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1962/1968">1962-1968</unitdate>
+            <unitdate normal="1962/1968" type="inclusive">1962-1968</unitdate>
+            <container id="aspace_637d2ed21d96392895f1eaf34630cb57" label="Mixed Materials" type="Box">2 (2-Subject Files)</container>
+            <container id="aspace_6e00bc7835e1ced5a1aa3f5a06723b65" parent="aspace_637d2ed21d96392895f1eaf34630cb57" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-2_11">
+        <c02 id="aspace_e7020f1a37c04d03f7ec657ec4e07c59" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>The Politics of Architecture: A Perspective on Nelson A. Rockefeller, Chapter 4: "The State University of New York," By Samuel E. Bleecker</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1981">1981</unitdate>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_4e0e627ce28b5a3dc8b1fcdd39d9e01e" label="Mixed Materials" type="Box">2 (2-Subject Files)</container>
+            <container id="aspace_86975a8b52c384a43807c8c52ba8e307" parent="aspace_4e0e627ce28b5a3dc8b1fcdd39d9e01e" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-2_12">
+        <c02 id="aspace_fe086d80b0d63939515f83ebd2ff8a1e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>Stone and SUNYA Campus Exhibit Cards</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1987">1987</unitdate>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_3768c23b393a59acd5cda388c31664d0" label="Mixed Materials" type="Box">2 (2-Subject Files)</container>
+            <container id="aspace_190ef4876acd096ef6e125a1206cd531" parent="aspace_3768c23b393a59acd5cda388c31664d0" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-2_13">
+        <c02 id="aspace_96eee056a5ed426a2444899d4d2f946e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>Uptown Campus, 30-40,000 Student Scenario</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1951/1987">Undated</unitdate>
+            <unitdate normal="1951/1987" type="inclusive">Undated</unitdate>
+            <container id="aspace_d872e5f15ad1f10ae3d04faafa121dea" label="Mixed Materials" type="Box">2 (2-Subject Files)</container>
+            <container id="aspace_c0a841e6fd2d3599ebed39294447a68f" parent="aspace_d872e5f15ad1f10ae3d04faafa121dea" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-2_14">
+        <c02 id="aspace_d1cbf937fd47fef03db7074d7dde17c6" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>Edward Durrell Stone</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1951/1987">Undated</unitdate>
+            <unitdate normal="1951/1987" type="inclusive">Undated</unitdate>
+            <container id="aspace_5a26bf3ebbf0100e77c49a61b0bc7af2" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_c255a3ccfdb443269829aadc7620236f" parent="aspace_5a26bf3ebbf0100e77c49a61b0bc7af2" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-2_15">
+        <c02 id="aspace_610664eca42ec1a376bd2dd97bcdb53a" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>Construction, News Clippings, Photocopies</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1956/1962">1956-1962</unitdate>
+            <unitdate normal="1956/1962" type="inclusive">1956-1962</unitdate>
+            <container id="aspace_ef583a3a34ff8e4bd2c746ebe379e916" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_64cf9347e8d3f5d4adf22c5c9166e8ea" parent="aspace_ef583a3a34ff8e4bd2c746ebe379e916" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-2_16">
+        <c02 id="aspace_de4a620c5b459ccf9193c7ab42417087" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">3</container>
             <unittitle>Construction, News Clippings, Originals</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1956/1962">1956-1962</unitdate>
+            <unitdate normal="1956/1962" type="inclusive">1956-1962</unitdate>
+            <container id="aspace_fed29e977b3137b28e3143edf1bc697e" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_524fa3c3d431fd911912357a9116155b" parent="aspace_fed29e977b3137b28e3143edf1bc697e" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-2_17">
+        <c02 id="aspace_b067ca45b9547627757e8a617892a1ba" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4</container>
             <unittitle>Construction, Highlights, News Clippings</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1951/1987">Undated</unitdate>
+            <unitdate normal="1951/1987" type="inclusive">Undated</unitdate>
+            <container id="aspace_8d85245534c6575e29b14edd075d8529" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_a1317578ec9d21dec2ca995f39ba1577" parent="aspace_8d85245534c6575e29b14edd075d8529" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-2_18">
+        <c02 id="aspace_4163ac2f2abc7c2232b62f7c005b3a52" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">5</container>
             <unittitle>Construction, News Clippings</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1963/1965">1963-1965</unitdate>
+            <unitdate normal="1963/1965" type="inclusive">1963-1965</unitdate>
+            <container id="aspace_f022f116a3b60a9b6f813ea7511febd5" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_80eac6c36d162ee5487a97290706dc6b" parent="aspace_f022f116a3b60a9b6f813ea7511febd5" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua950.005-2_19">
+        <c02 id="aspace_d1070ffebb81d40347f5829b93201876" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">6</container>
             <unittitle>Construction, News Clippings</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1966/1985">1966-1985</unitdate>
+            <unitdate normal="1966/1985" type="inclusive">1966-1985</unitdate>
+            <container id="aspace_28f41a44403299760a5fa0de202c33cb" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_fb34773658ab423e6b2431d3b28fc699" parent="aspace_28f41a44403299760a5fa0de202c33cb" type="Folder">6</container>
           </did>
         </c02>
       </c01>

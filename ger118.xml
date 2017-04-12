@@ -1,98 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ger118">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ger118.html">nam_ger118</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ger118">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ger118.xml">ger118</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>ARNOLD HUTSCHNECKER PAPERS (GER118)<date normal="1925/1994" type="inclusive">1925-1994</date></titleproper>
+        <titleproper>Hutschnecker, Arnold; Papers <num>ger118</num></titleproper>
         <author>unprocessed</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2015" type="publication">Copyright 2015 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2015</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Gregory Wiedeman<date normal="2015">2015</date>
-			</creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:36:31 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date/>
-        <item/>
+        <date>2015</date>
+        <item>Encoded in EAD by Gregory Wiedeman</item>
       </change>
     </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>Arnold Hutschnecker Papers<date normal="1925/1994" type="inclusive">1925-1994</date></titleproper>
-      <publisher>
-			</publisher>
-      <date type="publication">Copyright 2015 By the University at Albany, SUNY. All rights reserved.</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ger118</unitid>
-      <unittitle>Arnold Hutschnecker Papers<unitdate label="Date:" normal="1925/1994" type="inclusive">1925-1994</unitdate></unittitle>
-      <abstract label="Abstract:">Papers of longtime friend and therapist of Richard M. Nixon, author of <emph render="italic">The Will to Live</emph>.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <persname encodinganalog="100" source="lcsh">Hutschnecker, Arnold A., 1898-</persname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">5</extent>
-      </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Arnold Hutschnecker Papers<unitdate normal="1925/1994" type="inclusive">1925-1994</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="lcsh">Hutschnecker, Arnold A., 1898-</persname>
+      </origination>
+      <unitid>ger118</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_c743f068b511cdb8f454b86bc55b6c37">Papers of longtime friend and therapist of Richard M. Nixon, author of <emph render="italic">The Will to Live</emph>.</abstract>
+      <langmaterial id="aspace_6f9f1def5b61811347962aa55ab4ddb3">English</langmaterial>
+      <physloc id="aspace_f0f57190332afdfe6699d474d9594d63">The materials are located onsite in the department.</physloc>
+      <container id="aspace_75317ad4088e7c47e8d72ac5449f8ae3" label="Mixed Materials" type="Collection">X</container>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_d19b556a27b306b31ec6302d7c6723eb">
+      <head>Processing Information</head>
+      <p>Processed in 2015 by unprocessed.</p>
+    </processinfo>
+    <accessrestrict id="aspace_81e9d2ab040f4e732f1c7b4409f8c7e5">
       <head>Access</head>
       <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. While it is likely that portions of the collection may be viewed, access must be managed by an archivist.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_3690c54d5eba0b7d1e683b25f73f922e">
       <head>Copyright</head>
       <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_1cebd546e97e343dd29a8ba27b62d3ee">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_45fa7b6897beb994ff43b59a8e393a5f">
       <head>Biographical History</head>
       <p>Arnold Hutschnecker, was born in Austria in 1898 and served during World War I before studying psychiatry at Humboldt University of Berlin. Practicing first in Berlin, his opposition to the Nazi governement let him to emigrate to to New York in 1938.</p>
-      <p>Hutschnecker gained notoriety for his 1951 book <emph render="italic">The Will to Live</emph> which became a bestseller and attracted Senator Richard M. Nixon as a client in 1952. Hutschnecker remained Nixon's personal therapist, friend, and consultant through his years as President. Hutschnecker later became known for his public stances on the psychology of political leaders and criminals as children.</p>
+      <p> Hutschnecker gained notoriety for his 1951 book <emph render="italic">The Will to Live</emph> which became a bestseller and attracted Senator Richard M. Nixon as a client in 1952. Hutschnecker remained Nixon's personal therapist, friend, and consultant through his years as President. Hutschnecker later became known for his public stances on the psychology of political leaders and criminals as children.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The collection includes correspondence, including copies of letter to and from Richard M. Nixon; publications by Hutschnecker; newspaper clippings; diaries; photographs; Richard Nixon materials, including a copy of Hutschnecker's unpublished typescript, "Richard Nixon: His Rise to Power  His Self Defeat."</p>
+    <scopecontent id="aspace_82643cfb228ff9af29f26f1e2d139db9">
+      <head>Scope and Contents</head>
+      <p>The collection includes correspondence, including copies of letter to and from Richard M. Nixon; publications by Hutschnecker; newspaper clippings; diaries; photographs; Richard Nixon materials, including a copy of Hutschnecker's unpublished typescript, "Richard Nixon: His Rise to Power His Self Defeat."</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_ef9f482f5bb5d525a399b8ea27fe50bb">
       <head>Arrangement of the Collection</head>
       <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <prefercite>
+    <prefercite id="aspace_4916c46e5e387bfff2717abaa7c86bcf">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Arnold Hutschnecker Papers, 1925-1994. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Hutschnecker Papers).</p>
+      <p> Identification of specific item, series, box, folder, Arnold Hutschnecker Papers, 1925-1994. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Hutschnecker Papers).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Public Servants </subject>
-      <subject source="meg" encodinganalog="650">Medicine and Health Care</subject>
-      <persname encodinganalog="600" source="lcsh">Hutschnecker, Arnold A., 1898-</persname>
+      <subject source="meg">Public Servants</subject>
+      <subject source="meg">Medicine and Health Care</subject>
+      <persname source="lcsh">Hutschnecker, Arnold A., 1898-</persname>
     </controlaccess>
+    <dsc/>
   </archdesc>
 </ead>

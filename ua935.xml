@@ -1,1431 +1,1310 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua935">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua935.html">nam_ua935</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua935">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua935.xml">ua935</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>COMMENCEMENT PROGRAMS COLLECTION (UA935)<date normal="1857/2014" type="inclusive">1857-2014</date></titleproper>
+        <titleproper>Commencement Programs; Collection <num>ua935</num></titleproper>
         <author>Erik Stolarski</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2016" type="publication">Copyright 2016 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2016</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Erik Stolarski<date normal="2016-10-25">2016 October 25</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 17:34:18 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2014">2014</date>
+        <date>2014</date>
         <item>EAD file created</item>
+      </change>
+      <change>
+        <date>2016 October 25</date>
+        <item>Encoded in EAD by Erik Stolarski</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua935</unitid>
-      <unittitle>Commencement Programs Collection<unitdate normal="1857/2014" type="inclusive">1857-2014</unitdate></unittitle>
-      <abstract label="Abstract:">This collection is made up of programs for commencement ceremonies at the University at Albany.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="lcsh">State University of New York at Albany</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">1.67</extent>
-      </physdesc>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Commencement Programs Collection<unitdate normal="1857/2014" type="inclusive">1857-2014</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="lcsh">State University of New York at Albany</corpname>
+      </origination>
+      <unitid>ua935</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.67 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_07408945fc57c70b5e3e389c8d17f37b">This collection is made up of programs for commencement ceremonies at the University at Albany.</abstract>
+      <langmaterial id="aspace_f632ad8ff637c75c29fbdc56b9cb617d">English</langmaterial>
+      <physloc id="aspace_b0507525c8b1ef7b50ca0cd2248840d9">The materials are located onsite in the department.</physloc>
     </did>
-    <bioghist>
+    <processinfo id="aspace_c2b425457860d3a41c360a1699bb2cff">
+      <head>Processing Information</head>
+      <p>Processed in 2016 by Erik Stolarski.</p>
+    </processinfo>
+    <bioghist id="aspace_128f58c1acd8e479e124c9937766f670">
       <head>Administrative History</head>
       <p>Commencement programs have been issued by the University at Albany and the previous institutions it existed as for many years. Early version from the State Normal School were fairly simple, listing attending staff, some of the musical selections, and the short list of graduates that might take up a single page. They have expanded greatly since then, not only because of the growth in students and faculty at the institution, as well as the expanded nature of the event.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_c9971493a0296a00a530bbafd1be4aec">
+      <head>Scope and Contents</head>
       <p>This collection consists of the programs for commencement ceremonies from the years 1857 to 2014. The years 1957-1908 are not complete, with various copies missing. From 1910 on every version is in the collection, with the inclusion of the winter commencement programs beginning in 2001. Within these programs can be found complete lists of graduates of each various program, faculty attendees, and the speakers who delivered speeches during the ceremony.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_242d1e8b47f227a8f58289ee5831b1d7">
       <head>Arrangement of the Collection</head>
       <p>Collection is arranged chronologically.</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_548ba1c925218d80cb4c6d7db532248b">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <relatedmaterial>
-      <p>Related collections in the M.E. Grenander Department of Special Collections and Archives
-        can be found in the subject guide for Criminal Justice and Prisons.</p>
+    <relatedmaterial id="aspace_581d56496fc76b8d335f0c2d5d1dd733">
+      <head>Related Materials</head>
+      <p>Related collections in the M.E. Grenander Department of Special Collections and Archives can be found in the subject guide for Criminal Justice and Prisons.</p>
     </relatedmaterial>
-    <accessrestrict>
+    <accessrestrict id="aspace_2a1250788db78eb570b1dc3d6e69c867">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_0fc19a1fbc11a839b6782300db9c6cd7">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
-      <p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p> The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_1b4dce5a3210d813a1eaa147d7e3a99c">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Commencement Program Collection, 1857-2014. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Commencement Program Collection).</p>
+      <p> Identification of specific item, series, box, folder, Commencement Program Collection, 1857-2014. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Commencement Program Collection).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject encodinganalog="650" source="lcsh">Commencement ceremonies</subject>
-      <subject encodinganalog="650" source="lcsh">Baccalaureate addresses</subject>
-      <geogname encodinganalog="651" source="meg">Albany, New York</geogname>
+      <subject source="lcsh">Commencement ceremonies</subject>
+      <subject source="lcsh">Baccalaureate addresses</subject>
     </controlaccess>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_ua935-1">
+    <dsc>
+      <c01 id="aspace_69b5c2ba4f601246af1c59bb5c381ef8" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1857">1857</unitdate>
+          <unitdate normal="1857/1857" type="inclusive">1857</unitdate>
+          <container id="aspace_ef75d228c9acdaabef390b63f87afc48" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_0b05c1dd04a046d37b624798529c5215" parent="aspace_ef75d228c9acdaabef390b63f87afc48" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-2">
+      <c01 id="aspace_80a9cb7ad80a82ab72ba52ca69a2e43e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1860">1860</unitdate>
+          <unitdate normal="1860/1860" type="inclusive">1860</unitdate>
+          <container id="aspace_2790b1f286d140522a540fa6b572b071" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_85439cfef96470589e61c639289b1e09" parent="aspace_2790b1f286d140522a540fa6b572b071" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-3">
+      <c01 id="aspace_ace9479c8481b173b7a78e700fa31aed" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1861">1861</unitdate>
+          <unitdate normal="1861/1861" type="inclusive">1861</unitdate>
+          <container id="aspace_167c1e2a6b1ef42133127c8687c7cd36" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_2d963ffe5c687acde99a8b15fbb127e7" parent="aspace_167c1e2a6b1ef42133127c8687c7cd36" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-4">
+      <c01 id="aspace_2f4db6bd1648d7adb76209616b761e12" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1863">1863</unitdate>
+          <unitdate normal="1863/1863" type="inclusive">1863</unitdate>
+          <container id="aspace_7ba51877a99840d3a096db51c11f750e" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_4a254f6d61c25f2694fee480ea75c758" parent="aspace_7ba51877a99840d3a096db51c11f750e" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-5">
+      <c01 id="aspace_01b25bc953252c85be754b664a986874" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1865">1865</unitdate>
+          <unitdate normal="1865/1865" type="inclusive">1865</unitdate>
+          <container id="aspace_338775b1c6708affe3da2f548701d8cf" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_fb7c733a6ebcc070d2b681e4846f7856" parent="aspace_338775b1c6708affe3da2f548701d8cf" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-6">
+      <c01 id="aspace_3f2485600293c63346321d1bc6a5a3bd" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1872">1872</unitdate>
+          <unitdate normal="1872/1872" type="inclusive">1872</unitdate>
+          <container id="aspace_4c5ed46bceec6740eb6242497513393c" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_9411eb02a748f7bc8439a78f3062f45c" parent="aspace_4c5ed46bceec6740eb6242497513393c" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-7">
+      <c01 id="aspace_fcec8747c483eecd3d26108be6f492e7" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1873">1873</unitdate>
+          <unitdate normal="1873/1873" type="inclusive">1873</unitdate>
+          <container id="aspace_544296b1aa2678642e6ad383fa10187b" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_e3056b8e6c88436d9a43f0fc2e32550c" parent="aspace_544296b1aa2678642e6ad383fa10187b" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-8">
+      <c01 id="aspace_f77ecaa378660c8ee9abb007e4d155d9" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1875">1875</unitdate>
+          <unitdate normal="1875/1875" type="inclusive">1875</unitdate>
+          <container id="aspace_0d628e907da1ebbe05f4c7a663539c64" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_ab02336e68e80a9e08cbda4676549ec2" parent="aspace_0d628e907da1ebbe05f4c7a663539c64" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-9">
+      <c01 id="aspace_ebffd274355acd5d1b87dca24a22016d" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1876">1876</unitdate>
+          <unitdate normal="1876/1876" type="inclusive">1876</unitdate>
+          <container id="aspace_e27b8b2861841e5c464db9e10220065c" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_a1405a77bdfc7f1af56101d465a31eb6" parent="aspace_e27b8b2861841e5c464db9e10220065c" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-10">
+      <c01 id="aspace_405ef415d13e2da134e80975f6c03144" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1877">1877</unitdate>
+          <unitdate normal="1877/1877" type="inclusive">1877</unitdate>
+          <container id="aspace_6360df0aa96998cb4a7d518d0ce7a2c5" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_ed65136090405d35c988fe0b07e94e8f" parent="aspace_6360df0aa96998cb4a7d518d0ce7a2c5" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-11">
+      <c01 id="aspace_5c46c1c079412514791474b4d50f4ceb" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1882">1882</unitdate>
+          <unitdate normal="1882/1882" type="inclusive">1882</unitdate>
+          <container id="aspace_61904955fe064f53702a692981fbffda" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_05fed83ceca5e2b88f8fb95504b985df" parent="aspace_61904955fe064f53702a692981fbffda" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-12">
+      <c01 id="aspace_3f7ed5bf06b53d7746f598890788625d" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1885">1885</unitdate>
+          <unitdate normal="1885/1885" type="inclusive">1885</unitdate>
+          <container id="aspace_5162d81e11c0cc05d3acc818543a7b1e" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_84127f6bc3aa3af068e920f0efa99724" parent="aspace_5162d81e11c0cc05d3acc818543a7b1e" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-13">
+      <c01 id="aspace_453f774842665d8e8d8f18bec2e628ba" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1886">1886</unitdate>
+          <unitdate normal="1886/1886" type="inclusive">1886</unitdate>
+          <container id="aspace_7e7c259e75d2b1488fbac6256b6f7d6b" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_3edce16fc71578ae499371599b9816f6" parent="aspace_7e7c259e75d2b1488fbac6256b6f7d6b" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-14">
+      <c01 id="aspace_91f7b6e840948cfeb5db21b5f74db711" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1887">1887</unitdate>
+          <unitdate normal="1887/1887" type="inclusive">1887</unitdate>
+          <container id="aspace_a4d50d565813be27932abe5c1e36a4a1" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_a20a1d46fc19ba86b3a6e090a52406ab" parent="aspace_a4d50d565813be27932abe5c1e36a4a1" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-15">
+      <c01 id="aspace_a205c5c0d3a03dad2b51b7ae05e1f625" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1890">1890</unitdate>
+          <unitdate normal="1890/1890" type="inclusive">1890</unitdate>
+          <container id="aspace_d44a384569d5445fe49600b990bf780d" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_70028ee70f6b2f364659e5cf20215b5f" parent="aspace_d44a384569d5445fe49600b990bf780d" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-16">
+      <c01 id="aspace_a6f108340cfae57f04b231fe21fec3a1" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1891">1891</unitdate>
+          <unitdate normal="1891/1891" type="inclusive">1891</unitdate>
+          <container id="aspace_80cb3b5ae0a172a2f874231ff1931d51" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_ccc8014cb0772f9bf02e1eede9394425" parent="aspace_80cb3b5ae0a172a2f874231ff1931d51" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-17">
+      <c01 id="aspace_1a823a59b237fc428a7af844b28a510a" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1892">1892</unitdate>
+          <unitdate normal="1892/1892" type="inclusive">1892</unitdate>
+          <container id="aspace_687ca8e894f22f8acd001577a953341d" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_804234a5139f68e28399a5a38f7491ac" parent="aspace_687ca8e894f22f8acd001577a953341d" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-18">
+      <c01 id="aspace_183431b8f8a0b6629b11bd34bad6d67f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1893">1893</unitdate>
+          <unitdate normal="1893/1893" type="inclusive">1893</unitdate>
+          <container id="aspace_9092f62663f2170e010ac113b5b5f322" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_7b4c108832ead019296ee1e4d3554dc0" parent="aspace_9092f62663f2170e010ac113b5b5f322" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-19">
+      <c01 id="aspace_bff29cba8d52055eb1fc2423af613d75" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1894">1894</unitdate>
+          <unitdate normal="1894/1894" type="inclusive">1894</unitdate>
+          <container id="aspace_59e3f3cddffb19a3ecf59d7002bae4d4" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_b69a9c24d2adac25f2fb62d363c86c9e" parent="aspace_59e3f3cddffb19a3ecf59d7002bae4d4" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-20">
+      <c01 id="aspace_56bd7be71ccdf6d4f01894f2215cc21a" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1895">1895</unitdate>
+          <unitdate normal="1895/1895" type="inclusive">1895</unitdate>
+          <container id="aspace_c46901f763d5f9a3d826735be5a45799" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_258558f3a90ffe0965763b62bdef7d96" parent="aspace_c46901f763d5f9a3d826735be5a45799" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-21">
+      <c01 id="aspace_2d5bdf23f4b92b061d361a1efd1584c6" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1896">1896</unitdate>
+          <unitdate normal="1896/1896" type="inclusive">1896</unitdate>
+          <container id="aspace_392c85f31ea3f242d7eb9fc5ff14500b" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_e56b5b7b8c514177d9d3232045c9d5e2" parent="aspace_392c85f31ea3f242d7eb9fc5ff14500b" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-22">
+      <c01 id="aspace_93a8cf4e000cf18eeddac80a3dc795c5" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1897">1897</unitdate>
+          <unitdate normal="1897/1897" type="inclusive">1897</unitdate>
+          <container id="aspace_e9c774d15227699ad9a9ba3a4d114bd6" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_b9c3ff35f003f8c203252be4ab28ad1f" parent="aspace_e9c774d15227699ad9a9ba3a4d114bd6" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-23">
+      <c01 id="aspace_87b9d15e3c6f265e36bb60f560e06eb8" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1898">1898</unitdate>
+          <unitdate normal="1898/1898" type="inclusive">1898</unitdate>
+          <container id="aspace_d731819659f38bbb98303614c1e3e4b4" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_5c278242ecdb1e5bca8786cb20e431de" parent="aspace_d731819659f38bbb98303614c1e3e4b4" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-24">
+      <c01 id="aspace_8deb315ec1ef59b54f5b43aaed9f3a5e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1899">1899</unitdate>
+          <unitdate normal="1899/1899" type="inclusive">1899</unitdate>
+          <container id="aspace_b8e29671be773c1f3a077c6113a89395" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_a11726c4f13aa136b2ad9dd70ca63c68" parent="aspace_b8e29671be773c1f3a077c6113a89395" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-25">
+      <c01 id="aspace_e5e936d3cd5395240c8e95344a17f954" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1900">1900</unitdate>
+          <unitdate normal="1900/1900" type="inclusive">1900</unitdate>
+          <container id="aspace_e396e124f5d7b9b2fe22eb75e9972e67" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_d69b75ce079299c99b46db607403300f" parent="aspace_e396e124f5d7b9b2fe22eb75e9972e67" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-26">
+      <c01 id="aspace_f5dd177ed1fde8702085420ec03e741e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1901">1901</unitdate>
+          <unitdate normal="1901/1901" type="inclusive">1901</unitdate>
+          <container id="aspace_5bc527ee274d205b4f52c652d63fbf18" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_bc840d9af24d1d1125a4f0a8dede5256" parent="aspace_5bc527ee274d205b4f52c652d63fbf18" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-27">
+      <c01 id="aspace_b11e84cfc550505b341c6a10a195d19d" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1902">1902</unitdate>
+          <unitdate normal="1902/1902" type="inclusive">1902</unitdate>
+          <container id="aspace_0ec639886d23754af8ff416bb0202ce5" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_83da5e48462d317a50aa864e4b668428" parent="aspace_0ec639886d23754af8ff416bb0202ce5" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-28">
+      <c01 id="aspace_80c8c218b4bc9bf4a3a25b56aa224712" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1903">1903</unitdate>
+          <unitdate normal="1903/1903" type="inclusive">1903</unitdate>
+          <container id="aspace_1d457bc840fb30861ffa3eb120b8c81a" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_d32b75dfaf7df101551a344cdc63caec" parent="aspace_1d457bc840fb30861ffa3eb120b8c81a" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-29">
+      <c01 id="aspace_4af1946f9292d25d777f51362130a082" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1904">1904</unitdate>
+          <unitdate normal="1904/1904" type="inclusive">1904</unitdate>
+          <container id="aspace_bb415bc6f0d29094603f75570b232809" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_3c3b8e7826a7a918fff9d3926d9ea59c" parent="aspace_bb415bc6f0d29094603f75570b232809" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-30">
+      <c01 id="aspace_deafee903880e58d88993f53429cd58c" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1905">1905</unitdate>
+          <unitdate normal="1905/1905" type="inclusive">1905</unitdate>
+          <container id="aspace_8604ffae23584eab73f80c8caab11037" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_9f0609dfaebe3a31ee55a8753abab265" parent="aspace_8604ffae23584eab73f80c8caab11037" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-31">
+      <c01 id="aspace_5bcb77ce0406deb0ddf34ad83744ca4d" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1906">1906</unitdate>
+          <unitdate normal="1906/1906" type="inclusive">1906</unitdate>
+          <container id="aspace_ee435570d90916e099e8b77192db5309" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_3ce825484b8f01695f538668fb4a6710" parent="aspace_ee435570d90916e099e8b77192db5309" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-32">
+      <c01 id="aspace_c4fd0aa922ef16ed338afdefbadc50ee" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1907">1907</unitdate>
+          <unitdate normal="1907/1907" type="inclusive">1907</unitdate>
+          <container id="aspace_6aa3304de5eeea473719f22559bb8777" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_e3ab0af2a3955cbe6c0a1d6d7740577d" parent="aspace_6aa3304de5eeea473719f22559bb8777" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-33">
+      <c01 id="aspace_3e532aa5b446532031f9c8dbcd253a74" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1908">1908</unitdate>
+          <unitdate normal="1908/1908" type="inclusive">1908</unitdate>
+          <container id="aspace_4626338d0c8786cf627b3849efecc9f3" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_5fc08d62480f705f6defbe6bc1573cc1" parent="aspace_4626338d0c8786cf627b3849efecc9f3" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-34">
+      <c01 id="aspace_1f7db0ef71dac5788ba2710875ffa9ef" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1910">1910</unitdate>
+          <unitdate normal="1910/1910" type="inclusive">1910</unitdate>
+          <container id="aspace_71d124e2e45eadf8a8a5d6fc3fd8fce7" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_2044a95c6bee37915c50d74e3b949b71" parent="aspace_71d124e2e45eadf8a8a5d6fc3fd8fce7" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-35">
+      <c01 id="aspace_7748e8b931d1945c7b5f1582f7127d92" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1911">1911</unitdate>
+          <unitdate normal="1911/1911" type="inclusive">1911</unitdate>
+          <container id="aspace_6f1ca3b8df12696466abd97bc2d63bee" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_0e8a40fc96f67b604816ac4eca7ff6f0" parent="aspace_6f1ca3b8df12696466abd97bc2d63bee" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-36">
+      <c01 id="aspace_f2dfd86dc42c48652949a99876255aa6" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1912">1912</unitdate>
+          <unitdate normal="1912/1912" type="inclusive">1912</unitdate>
+          <container id="aspace_4eccf2ecfe3cc2c05162426d4438a21a" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_2d33f213038a9de37e2c02a266ed4972" parent="aspace_4eccf2ecfe3cc2c05162426d4438a21a" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-37">
+      <c01 id="aspace_6a455509d82a29dfc0e3bf6f3bd433ac" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1913">1913</unitdate>
+          <unitdate normal="1913/1913" type="inclusive">1913</unitdate>
+          <container id="aspace_739c1e36de53c7a28daf586cfceef1a0" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_79e98b9960aefb4921456a4a01367f1e" parent="aspace_739c1e36de53c7a28daf586cfceef1a0" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-38">
+      <c01 id="aspace_72cb06f4542e02c1afda1cc365179230" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1914">1914</unitdate>
+          <unitdate normal="1914/1914" type="inclusive">1914</unitdate>
+          <container id="aspace_118349648386f52af24e5e3c3dc15160" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_047d5e37b1a931d8de7d4731279e0252" parent="aspace_118349648386f52af24e5e3c3dc15160" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-39">
+      <c01 id="aspace_36bfbce51e9f9579690f3088171f74c0" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1915">1915</unitdate>
+          <unitdate normal="1915/1915" type="inclusive">1915</unitdate>
+          <container id="aspace_49c1733e82d3e367eb718ffb5d672443" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_cb6bcafedec24a58f779f2032415e099" parent="aspace_49c1733e82d3e367eb718ffb5d672443" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-40">
+      <c01 id="aspace_b1b362babb3ba92c2b7164a82aa3dd40" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1916">1916</unitdate>
+          <unitdate normal="1916/1916" type="inclusive">1916</unitdate>
+          <container id="aspace_7666b651cd2c6e48a6d7e8feace42de1" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_7c4c91992d0e4a1c52917f02abf0858e" parent="aspace_7666b651cd2c6e48a6d7e8feace42de1" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-41">
+      <c01 id="aspace_3e65dc5f51de0061c865fa3b90ea7277" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1917">1917</unitdate>
+          <unitdate normal="1917/1917" type="inclusive">1917</unitdate>
+          <container id="aspace_2de870c8cc96121a3d7038e51820a3fd" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_0f7bb783bf5fe147c80c398955266796" parent="aspace_2de870c8cc96121a3d7038e51820a3fd" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-42">
+      <c01 id="aspace_af05026cb96b7a856a76743d3ebee7eb" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1918">1918</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1918/1918" type="inclusive">1918</unitdate>
+          <container id="aspace_7e4af35ccf743cf0eb8f7f02fa7b540a" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_6c71a208fa3dddd6b19959e874697f0a" parent="aspace_7e4af35ccf743cf0eb8f7f02fa7b540a" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-43">
+      <c01 id="aspace_e3181a9446d6cb8514be607fe9c94f40" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1919">1919</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1919/1919" type="inclusive">1919</unitdate>
+          <container id="aspace_64f17b4123394cac45f8224aaf67592e" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_e6da161b8be0f38c2ffa1a54148ea094" parent="aspace_64f17b4123394cac45f8224aaf67592e" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-44">
+      <c01 id="aspace_f77f513fdfa61dc8bb713975b830b467" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1920">1920</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1920/1920" type="inclusive">1920</unitdate>
+          <container id="aspace_5af30f5a2dcf662101998169e92a214c" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_51277d17790f8b55413d17ff6ab04fa6" parent="aspace_5af30f5a2dcf662101998169e92a214c" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-45">
+      <c01 id="aspace_fb52817d896ab51c0b0202e21702b905" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1921">1921</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1921/1921" type="inclusive">1921</unitdate>
+          <container id="aspace_447d4d5a3f9fd4b46e5691862ed89f62" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_2226ad39096e245a764419a34adf1d26" parent="aspace_447d4d5a3f9fd4b46e5691862ed89f62" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-46">
+      <c01 id="aspace_18d3635b3fbd392f9e4db75e65567884" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1922">1922</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
+          <container id="aspace_afcfc0267502347a03a2769c77b28351" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_3b6f8f4325da0cb2010daae37ba6120f" parent="aspace_afcfc0267502347a03a2769c77b28351" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-47">
+      <c01 id="aspace_3e16f9742fc3472aae2bde226626e8c6" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1923">1923</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1923/1923" type="inclusive">1923</unitdate>
+          <container id="aspace_be4df04cc49e10559ea9ad0c16e376d3" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_37f58c6a8dfafe85f87705d983fdeaf5" parent="aspace_be4df04cc49e10559ea9ad0c16e376d3" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-48">
+      <c01 id="aspace_83b67a9d05ec1ea5fee60f2f02f519e1" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1924">1924</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1924/1924" type="inclusive">1924</unitdate>
+          <container id="aspace_c0b94020301c6b12402a983f9670e241" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_19f41d96831b1dc908d873a3e8334a04" parent="aspace_c0b94020301c6b12402a983f9670e241" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-49">
+      <c01 id="aspace_56a322305559c3b25e5d86afec0ccaeb" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1925">1925</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
+          <container id="aspace_b6f1a5aee1b124ff598961211d469b34" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_8d8fa7bfa31d2b6c3727c8d1c67c8287" parent="aspace_b6f1a5aee1b124ff598961211d469b34" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-50">
+      <c01 id="aspace_b0f4caafe33eb90a5f43d1e46820dde5" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1926">1926</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1926/1926" type="inclusive">1926</unitdate>
+          <container id="aspace_39ea3fd33484311ac57314dde653e11c" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_41541520219395a5abb65547171a19e8" parent="aspace_39ea3fd33484311ac57314dde653e11c" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-51">
+      <c01 id="aspace_253a50676ab32d3b5932cc8883751ec0" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1927">1927</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1927/1927" type="inclusive">1927</unitdate>
+          <container id="aspace_b2d6fd8683a251b3d7658a3818386269" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_1c7bb6031b727dcf007f94395ee203dc" parent="aspace_b2d6fd8683a251b3d7658a3818386269" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-52">
+      <c01 id="aspace_87d409c84daf059698e2f51944fb9491" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1928">1928</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1928/1928" type="inclusive">1928</unitdate>
+          <container id="aspace_9a642f13a88da25c3b8e921af0dd5006" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_4ad3e63322eb92df4e83942f8799ba3c" parent="aspace_9a642f13a88da25c3b8e921af0dd5006" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-53">
+      <c01 id="aspace_7ba3b2b54e22a6917ca43bdf1d4937a8" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1929">1929</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1929/1929" type="inclusive">1929</unitdate>
+          <container id="aspace_57c88bd5f8359a5058f3bd925f58d3a4" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_4dbd7d9560b847d708ae8506624aeea2" parent="aspace_57c88bd5f8359a5058f3bd925f58d3a4" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-54">
+      <c01 id="aspace_689772c61ba977d32074372773022984" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1930">1930</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1930/1930" type="inclusive">1930</unitdate>
+          <container id="aspace_4321fbae88fa69f67f4f3a16cf080794" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_1157f27618e444a656766a7d57bb74ba" parent="aspace_4321fbae88fa69f67f4f3a16cf080794" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-55">
+      <c01 id="aspace_826cf414cebf739fb412b13a746b8d23" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1931">1931</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1931/1931" type="inclusive">1931</unitdate>
+          <container id="aspace_aef34815fd8a2cf3afc120297062e3e7" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_a6b7dfd7df706d5662304a85265c1767" parent="aspace_aef34815fd8a2cf3afc120297062e3e7" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-56">
+      <c01 id="aspace_ebdc74717d89702dca4a146929189683" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1932">1932</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
+          <container id="aspace_b7c18ef0a83d9114c0c71fc235de5f3b" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_52fb93ee10697b85c8e882695bcd235a" parent="aspace_b7c18ef0a83d9114c0c71fc235de5f3b" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-57">
+      <c01 id="aspace_f1be4ca5030c7b2526537a9c7eff1437" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1933">1933</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
+          <container id="aspace_bbcdf180174e9e0c0aa0b38d08224b9f" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_efa2a940bd85138d26e8fc1e78d18c46" parent="aspace_bbcdf180174e9e0c0aa0b38d08224b9f" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-58">
+      <c01 id="aspace_c660d4cd26dff682e20d9ebe26f1bfb5" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1934">1934</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1934/1934" type="inclusive">1934</unitdate>
+          <container id="aspace_c2e3bc531b5287f54b796ae1d987101e" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_9fff909d1e5cd1fef38b9cc489e11aec" parent="aspace_c2e3bc531b5287f54b796ae1d987101e" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-59">
+      <c01 id="aspace_7d24d6f71a921bf4cc348a51c449b42a" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1935">1935</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
+          <container id="aspace_cf9689782747dd14ec1a16161c1808aa" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_7529882701028f0607ba3360387a00c4" parent="aspace_cf9689782747dd14ec1a16161c1808aa" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-60">
+      <c01 id="aspace_f3388a8fdeee758d1f7c3d302abac89c" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1936">1936</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1936/1936" type="inclusive">1936</unitdate>
+          <container id="aspace_54e60ce9009e69b9cc324207126ca071" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_5314f933776998f039c313861eadd40c" parent="aspace_54e60ce9009e69b9cc324207126ca071" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-61">
+      <c01 id="aspace_1242a5997c6980e030bc3a4b2db1d5d6" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1937">1937</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
+          <container id="aspace_f7d1b79266af6eb5dd5c7b88a1924896" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_6ddcc154486088852de2c251dbffceb9" parent="aspace_f7d1b79266af6eb5dd5c7b88a1924896" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-62">
+      <c01 id="aspace_c98fd485ee7262b557fb8fd35dbb2af8" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1938">1938</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+          <container id="aspace_b8357e47644f369696fdfecbf618b789" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_1e62330790a1aeddcc396447a694aae1" parent="aspace_b8357e47644f369696fdfecbf618b789" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-63">
+      <c01 id="aspace_e7b2322ed6d284016cdb539829160aa3" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1939">1939</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+          <container id="aspace_86f968bdb701d680ad2660a4a1c113bf" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_25c8eea9cc7cd57a28c419e1c130f737" parent="aspace_86f968bdb701d680ad2660a4a1c113bf" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-64">
+      <c01 id="aspace_72b7be9f7e9e55d11e2e6ba17993546a" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1940">1940</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
+          <container id="aspace_79cfdf400243c97a287e7c67ef5b559f" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_24debc9f1cb695704f14001f1ff42322" parent="aspace_79cfdf400243c97a287e7c67ef5b559f" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-65">
+      <c01 id="aspace_b1eef58884b6f4290d1836fecc994541" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1941">1941</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1941/1941" type="inclusive">1941</unitdate>
+          <container id="aspace_7409aaf91eed9f87d62d092483c25d44" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_cd008d6de5cf9ea722dfce4d8827d9b7" parent="aspace_7409aaf91eed9f87d62d092483c25d44" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-66">
+      <c01 id="aspace_9a8e7b325ae899d07c25a0028b664295" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1942">1942</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
+          <container id="aspace_593123ef13ab4fde6e8e7194efb43819" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_c45ece1b615b83f088bf4ff2526e0c2d" parent="aspace_593123ef13ab4fde6e8e7194efb43819" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-67">
+      <c01 id="aspace_5a4fcfa9f8c825b20df831faa092b425" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1943">1943</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
+          <container id="aspace_03bd921ea3431d7aa56f31eb414a6722" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_252449187438a04bad767b65d824a2ec" parent="aspace_03bd921ea3431d7aa56f31eb414a6722" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-68">
+      <c01 id="aspace_78c0da99fb73e38b2b02ada0a2ecc29f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1944">1944</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+          <container id="aspace_f80d47c3461386cb370dad09e0eb42a0" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_a962c5d490725ec80be271c88438ec0e" parent="aspace_f80d47c3461386cb370dad09e0eb42a0" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-69">
+      <c01 id="aspace_c7d4cb6de686f18f8306e81fa1743019" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1945">1945</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+          <container id="aspace_d1e433ea8d89e05bd443f4b96e2499a1" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_eb23e26a117cd82370f2bad57087316f" parent="aspace_d1e433ea8d89e05bd443f4b96e2499a1" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-70">
+      <c01 id="aspace_17fc1b29c178af18636e86af31c57624" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1946">1946</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+          <container id="aspace_5acd2c31b221477662dfeb4ab2655335" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_d1407241ff3df9923ff7133467d1dcb0" parent="aspace_5acd2c31b221477662dfeb4ab2655335" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-71">
+      <c01 id="aspace_f984f77167e484e4f67ef1c03ccd7293" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1947">1947</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+          <container id="aspace_adecf66e3a3a0c480d1c988d91532923" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_cd34a6c0a78bc3cdfd6045f709d6efad" parent="aspace_adecf66e3a3a0c480d1c988d91532923" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-72">
+      <c01 id="aspace_eb395a27ac7bb361d316088032a2fcb7" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1948">1948</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+          <container id="aspace_44659b3aaee96a23929aab3ea0c760ce" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_a7946213112c2018888f36b3dafb5f68" parent="aspace_44659b3aaee96a23929aab3ea0c760ce" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-73">
+      <c01 id="aspace_70e7db75c5e4a60e0d670a2677cbac61" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1949">1949</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+          <container id="aspace_243aa0887080bf157064ab8383881b34" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_19ea74728c4d9d2806f990eb94244fa2" parent="aspace_243aa0887080bf157064ab8383881b34" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-74">
+      <c01 id="aspace_a93ebf01e3f66c698e20b1a21ea1633f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1950">1950</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+          <container id="aspace_510827cd584e336798bb09e937169149" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_ab4a52c203e3bc3108c6ea872ea03620" parent="aspace_510827cd584e336798bb09e937169149" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-75">
+      <c01 id="aspace_b281b0efbf68e2ecbfe72afb982064d4" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1951">1951</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+          <container id="aspace_e3f24633cdd2d34ee402b40bc09b0476" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_f4525edbe809e12a7b2a4fd7f433f053" parent="aspace_e3f24633cdd2d34ee402b40bc09b0476" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-76">
+      <c01 id="aspace_0efaa54b6e96b95a7679bed54dc4232f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1952">1952</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+          <container id="aspace_55277458bcffcf50c13e0c2b6927962a" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_a14abc2b051178f9b5b09afee70c09e5" parent="aspace_55277458bcffcf50c13e0c2b6927962a" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-77">
+      <c01 id="aspace_c1a31d38a148080b050149a69ebb8cb2" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1953">1953</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+          <container id="aspace_dcedda921549c128033af827df1c97cb" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_185f9962d2d6274ec0c4fecdff5606dc" parent="aspace_dcedda921549c128033af827df1c97cb" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-78">
+      <c01 id="aspace_c47a1fddeffd0f7873368a881ff7d785" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1954">1954</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1954/1954" type="inclusive">1954</unitdate>
+          <container id="aspace_85f1c4f7058da4ca6a14b09654c31b0b" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_31ced243871c92d1022936b298046b2e" parent="aspace_85f1c4f7058da4ca6a14b09654c31b0b" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-79">
+      <c01 id="aspace_4eee69fd5399bdf61f5685536364da92" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1955">1955</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
+          <container id="aspace_0f2e6b4725589e16a819a7abe37ee7b3" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_0070a6a6bce74968961b5b1c439fbb6e" parent="aspace_0f2e6b4725589e16a819a7abe37ee7b3" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-80">
+      <c01 id="aspace_7e9db147901e957bc5f4df0546ad3b71" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1956">1956</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+          <container id="aspace_bc5d014c2e8599c16e5e7f4b0376e2e3" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_52cb642568a133e551d89d382c5c442b" parent="aspace_bc5d014c2e8599c16e5e7f4b0376e2e3" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-81">
+      <c01 id="aspace_3844ebee0efd2557ab369ff21691920f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1957">1957</unitdate>
-          <note>
-            <p>Duplicate copy in bound volume.</p>
-          </note>
+          <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
+          <container id="aspace_fabbcc3e1f2b887547b99f37249e02da" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_6d467c8b7604c4852577ed43a3d21322" parent="aspace_fabbcc3e1f2b887547b99f37249e02da" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-82">
+      <c01 id="aspace_5394965d547f8ce915374da44d71b927" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1958">1958</unitdate>
+          <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+          <container id="aspace_96813ae240b9337a3a02b4f4db9fb9d0" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_623f50015250e452b5999c147c52c13a" parent="aspace_96813ae240b9337a3a02b4f4db9fb9d0" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-83">
+      <c01 id="aspace_d9d50a528b8f49d0c9d734fce1e26a2e" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1959">1959</unitdate>
+          <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+          <container id="aspace_8774473ebb1eca3cc226ebe4c2231857" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_30fc83f3775335567044200cf5b78b66" parent="aspace_8774473ebb1eca3cc226ebe4c2231857" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-84">
+      <c01 id="aspace_24e97f5fb52412b54d05e929ec079686" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1960">1960</unitdate>
+          <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+          <container id="aspace_969a2101323edb8354eb6ee717c08428" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_f27d998a37ee3ba6ff525913b74ce4fb" parent="aspace_969a2101323edb8354eb6ee717c08428" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-85">
+      <c01 id="aspace_378b16165910f9299c342ddc137bd37a" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1961">1961</unitdate>
+          <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+          <container id="aspace_3707c933d3ee500d4b3711c907b47ef6" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_0ffd69cbbaf13a04d64c3917783ae3b3" parent="aspace_3707c933d3ee500d4b3711c907b47ef6" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-86">
+      <c01 id="aspace_1de8741336213b6b7991f07feb592deb" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1962">1962</unitdate>
+          <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+          <container id="aspace_c33aa78d5e1a360ae34e3969124f6790" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_82c1d3bc9b839e0f9d774511e02b3649" parent="aspace_c33aa78d5e1a360ae34e3969124f6790" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-87">
+      <c01 id="aspace_fb6bc44f5feff3ebbe86114623659166" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1963">1963</unitdate>
+          <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+          <container id="aspace_055f49645a143d81a6c46ee233f44510" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_b9a4d0b9c92609dc8f7d7e2d5d48f6cc" parent="aspace_055f49645a143d81a6c46ee233f44510" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-88">
+      <c01 id="aspace_06062c080d7502cc5daece4078fbb394" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1964">1964</unitdate>
+          <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+          <container id="aspace_0c6c6c747c6947e20df583b6e157c635" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_6132de3d924238dd2a8fb7d0869a2259" parent="aspace_0c6c6c747c6947e20df583b6e157c635" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-89">
+      <c01 id="aspace_64af3fb425c66a570a03737bb01c1a88" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1965">1965</unitdate>
+          <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+          <container id="aspace_9b7c5d60b67c36700835d45bd41fe970" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_c9de9c248f7ab4ff8eda8e873f167651" parent="aspace_9b7c5d60b67c36700835d45bd41fe970" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-90">
+      <c01 id="aspace_2c0a2b1b2508ce6634d530b128cddf7a" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1966">1966</unitdate>
+          <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+          <container id="aspace_425eb951ee41eaab9c524110416d54ec" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_6207b31df56d0d972a8d9abb8dd9d932" parent="aspace_425eb951ee41eaab9c524110416d54ec" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-91">
+      <c01 id="aspace_a387c1adb2c719843a15673a86f29c39" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1967">1967</unitdate>
+          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+          <container id="aspace_8da212f205ad1de3aef653970f39e9fa" label="Mixed Materials" type="Box">1 (Commencement Programs Collection)</container>
+          <container id="aspace_4efb7786d37b6b6895f27f855013b51c" parent="aspace_8da212f205ad1de3aef653970f39e9fa" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-92">
+      <c01 id="aspace_a28d78d5cedae6605b00d2477d853cc1" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">1</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1968">1968</unitdate>
+          <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+          <container id="aspace_384e6411d49720881232c4b9a6f04ad9" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_cd1d13178fd50d9f1d1cc9ef91296d6b" parent="aspace_384e6411d49720881232c4b9a6f04ad9" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-93">
+      <c01 id="aspace_280d6370cc2a267942766a1bfc5982f4" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">1</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1969">1969</unitdate>
+          <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+          <container id="aspace_a2ef06d207398c20b9e2a237dbf21d96" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_2f0263539030cbc0dc15ccaac128bfd8" parent="aspace_a2ef06d207398c20b9e2a237dbf21d96" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-94">
+      <c01 id="aspace_e09174c18ff61ef1f7e5eddfd5e50783" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">1</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1970">1970</unitdate>
+          <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+          <container id="aspace_53c961ebcba03f8b59469efcd8cf24b9" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_69020c85b8e92e119364afd57f80f730" parent="aspace_53c961ebcba03f8b59469efcd8cf24b9" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-95">
+      <c01 id="aspace_62177b8ee2b76a32cd8394268cc6a33a" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">1</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1971">1971</unitdate>
+          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+          <container id="aspace_cd835ff02772403c6984f36cb964ce66" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_6f9b7c0573c6f55b9ff69636ece87212" parent="aspace_cd835ff02772403c6984f36cb964ce66" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-96">
+      <c01 id="aspace_2d1ebc48299abcb8d2ae4d10002ab14b" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">1</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1972">1972</unitdate>
+          <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+          <container id="aspace_836ddacfef8a696f1e5c90c95c91212c" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_1645b24043487d9d7d434a266975ea89" parent="aspace_836ddacfef8a696f1e5c90c95c91212c" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-97">
+      <c01 id="aspace_c9e1b1cdcf514c3417ec1d0bccf59459" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">1</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1973">1973</unitdate>
+          <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+          <container id="aspace_d85e12e1f0a41abebf47ea30fc2465ad" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_c9d4c4d16a2eacbfa301346a9041ccba" parent="aspace_d85e12e1f0a41abebf47ea30fc2465ad" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-98">
+      <c01 id="aspace_58e094479361ee86ec784c1f1e9c7cb0" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">2</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1974">1974</unitdate>
+          <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+          <container id="aspace_560539917a94b980db9ca2da938ac5a2" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_082ee167d347c2aa7a1063bfcfcc9335" parent="aspace_560539917a94b980db9ca2da938ac5a2" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-99">
+      <c01 id="aspace_195b5e62030bb3b2246b6aded9cadcf8" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">2</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1975">1975</unitdate>
+          <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+          <container id="aspace_73089cf982b44733f2f497b6e654be45" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_00581cbb9648e479bb44c0f8f5aaabd8" parent="aspace_73089cf982b44733f2f497b6e654be45" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-100">
+      <c01 id="aspace_e4a551b4098102b4fbc2b521138262b2" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">2</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1976">1976</unitdate>
+          <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+          <container id="aspace_a02169931a6b451a5fda21c03748c1cb" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_71024473f6e457dd2325d911843626e1" parent="aspace_a02169931a6b451a5fda21c03748c1cb" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-101">
+      <c01 id="aspace_064862cc8657d8285e1900ffeb66d1e6" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">2</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1977">1977</unitdate>
+          <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+          <container id="aspace_a13e2685843c8475419bf511a03c1a53" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_bd28ec98a81b2958a44a2fb447ce0b77" parent="aspace_a13e2685843c8475419bf511a03c1a53" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-102">
+      <c01 id="aspace_8225880a3d7e4c72f7a9edc752b00055" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">2</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1978">1978</unitdate>
+          <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+          <container id="aspace_deb7c6b157c1b07d5d9bd2cbfbb13574" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_c41e0109875c350e621a75cfb694232c" parent="aspace_deb7c6b157c1b07d5d9bd2cbfbb13574" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-103">
+      <c01 id="aspace_db8f8cc632012df0db4c6eb0dd27a3f1" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">3</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1979">1979</unitdate>
+          <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+          <container id="aspace_63fe59ab94b3bccf24b3b07e27f676c6" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_0cf4b103082ed81b4b558c1f29bc2b33" parent="aspace_63fe59ab94b3bccf24b3b07e27f676c6" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-104">
+      <c01 id="aspace_93936ab247e6b3226865fcfd77ea2376" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">3</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1980">1980</unitdate>
+          <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+          <container id="aspace_bc71a04c3664fb63cf778b897f928fba" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_8df9f7f06ca80176c58e21b3c7a515d7" parent="aspace_bc71a04c3664fb63cf778b897f928fba" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-105">
+      <c01 id="aspace_32be043f53dbb39fc4113c7efd8e63d5" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">3</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1981">1981</unitdate>
+          <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+          <container id="aspace_520008c1472fe03a85b8f3adcd3e697c" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_4881d02f5de188bb0e31fccc6108eb0a" parent="aspace_520008c1472fe03a85b8f3adcd3e697c" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-106">
+      <c01 id="aspace_6158de9fd0f3f9cb6da28fdf1cf03830" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">3</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1982">1982</unitdate>
+          <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+          <container id="aspace_a791bc65e9344c1c9b6ab3e55f82fd99" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_80c60d82e717708c65a603ee5c6dc7ab" parent="aspace_a791bc65e9344c1c9b6ab3e55f82fd99" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-107">
+      <c01 id="aspace_7b3257fad9f91dd999e9d4296e0c8339" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">3</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1983">1983</unitdate>
+          <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+          <container id="aspace_755c4d48e6db2568a86e32977a0597ba" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_5fdec60ceddf333787d2787d67abf6b6" parent="aspace_755c4d48e6db2568a86e32977a0597ba" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-108">
+      <c01 id="aspace_1d09dc0d7e7b3890ffcbce8c2dbd2532" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">4</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1984">1984</unitdate>
+          <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+          <container id="aspace_7afe8fdde2a92fedb5ba697c57240bcc" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_713e14e3962367be12f72740b7a4c482" parent="aspace_7afe8fdde2a92fedb5ba697c57240bcc" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-109">
+      <c01 id="aspace_efc5d1073fbef355325f413c0cded1f3" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">5</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1985">1985</unitdate>
+          <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+          <container id="aspace_2bd353bb3da2621921f3ab59423b6823" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_c8e6f18f99ad48823eb0c76b06f12846" parent="aspace_2bd353bb3da2621921f3ab59423b6823" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-110">
+      <c01 id="aspace_2ca24ddbccdbac25cb85a64130028c93" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">6</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1986">1986</unitdate>
+          <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+          <container id="aspace_1e398e2fb9bf5bf573597f67ade4a60c" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_6e0a54e04f5c6414933a7f893044ead8" parent="aspace_1e398e2fb9bf5bf573597f67ade4a60c" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-111">
+      <c01 id="aspace_bf1e0dae4b5cabc7eddc0753574350f4" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">7</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1987">1987</unitdate>
+          <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+          <container id="aspace_346c86317c0989340b5f44821fe4d379" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_efa1d336bc9d58890f41416a35026214" parent="aspace_346c86317c0989340b5f44821fe4d379" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-112">
+      <c01 id="aspace_9665ca60a869f85d5b43ca0bbec78c94" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">8</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1988">1988</unitdate>
+          <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+          <container id="aspace_3cd21b8b132842b5ab8e3624c0e2edce" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_70ddfea37a25a982da49a6b65cf67b81" parent="aspace_3cd21b8b132842b5ab8e3624c0e2edce" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-113">
+      <c01 id="aspace_34de77d5d3e559bf8fbf4639455a39eb" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">9</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1989">1989</unitdate>
+          <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+          <container id="aspace_31f29c787bf81a377de5652d95b23bd2" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_84763819762d3a50f2901aa9162add11" parent="aspace_31f29c787bf81a377de5652d95b23bd2" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-114">
+      <c01 id="aspace_35d0d8a6e479093ccad0d0717c3c1081" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">10</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1990">1990</unitdate>
+          <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+          <container id="aspace_360a0f22435f4bd0c78e790c5c8f22ef" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_f94542436a0902625a3890ccb2a18014" parent="aspace_360a0f22435f4bd0c78e790c5c8f22ef" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-115">
+      <c01 id="aspace_473d52fb2c2223ae0ef09d012ecee6a8" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">11</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1991">1991</unitdate>
+          <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+          <container id="aspace_e0f12ce74f25b8dad305e53100eff1cf" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_cc60f2927a5e350125b7ed7ee69626fd" parent="aspace_e0f12ce74f25b8dad305e53100eff1cf" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-116">
+      <c01 id="aspace_10581dfcfe94f94c8a5d324972b53ee4" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">12</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1992">1992</unitdate>
+          <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+          <container id="aspace_fc5bbac76dacd84d3385922317aa7899" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_ba72b5a8280920d4be8e07cc972d1971" parent="aspace_fc5bbac76dacd84d3385922317aa7899" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-117">
+      <c01 id="aspace_80fc2e93a765dfedef3c9ac1a8403844" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">13</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1993">1993</unitdate>
+          <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+          <container id="aspace_506af151feb0556181c97eef48d9020a" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_c09e35231b60c1ccbd63e6b940cca40b" parent="aspace_506af151feb0556181c97eef48d9020a" type="Folder">13</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-118">
+      <c01 id="aspace_1cb93219c6552d2919f007c245f352c3" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">14</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1994">1994</unitdate>
+          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+          <container id="aspace_f7381af2dba43c6de3cce7acadcfef6d" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_755d5eb1ae6fc23b6c022464f84535d1" parent="aspace_f7381af2dba43c6de3cce7acadcfef6d" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-119">
+      <c01 id="aspace_4e9984603c2b05fe0904136a3ac0cb21" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">15</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1995">1995</unitdate>
+          <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+          <container id="aspace_5b4b8a2fae72008ac1f5e88099a81284" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_a8bc7188a2e3b391006d3c068cd66610" parent="aspace_5b4b8a2fae72008ac1f5e88099a81284" type="Folder">15</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-120">
+      <c01 id="aspace_855f9eeb1fae87aa3b6ef8c8a6e0a28d" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">16</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1996">1996</unitdate>
+          <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+          <container id="aspace_10a3c659a0c3a7372edc36e674554055" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_33c35e71066163f82d6c5b496096e8ad" parent="aspace_10a3c659a0c3a7372edc36e674554055" type="Folder">16</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-121">
+      <c01 id="aspace_8c1dbfe2183d92ce6aa7016b86d1a673" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">17</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1997">1997</unitdate>
+          <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+          <container id="aspace_c7336d76d121a3c23b82f428f9020c68" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_50d185a4b3e961c5ee9dbfb632044801" parent="aspace_c7336d76d121a3c23b82f428f9020c68" type="Folder">17</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-122">
+      <c01 id="aspace_edbd9322dcc5c9b10fc0cbc1f4640f24" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">18</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1998">1998</unitdate>
+          <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+          <container id="aspace_ff7f2f046d89707dc0fa34ca646779a9" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_1066ee0b2e0928642e8ffc55a73ae4c3" parent="aspace_ff7f2f046d89707dc0fa34ca646779a9" type="Folder">18</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-123">
+      <c01 id="aspace_a77a9688266dd2c00b0a206f77383f6e" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">19</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1999">1999</unitdate>
+          <unitdate normal="1999/1999" type="inclusive">1999</unitdate>
+          <container id="aspace_9488905c7d496795a2273c8542cbeebc" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_ff0315c462e470eaf7715f667b325cba" parent="aspace_9488905c7d496795a2273c8542cbeebc" type="Folder">19</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-124">
+      <c01 id="aspace_7a615d30cf5981d0f6ac633a22e51c5a" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">20</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2000">2000</unitdate>
+          <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+          <container id="aspace_805479bd5dcd638ebf3839ff895a14bc" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_4aa076ed27431c86af345b6027100894" parent="aspace_805479bd5dcd638ebf3839ff895a14bc" type="Folder">20</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-125">
+      <c01 id="aspace_1161f3e6d301b34a4fa3f41d728218c6" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">21</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2001">2001</unitdate>
+          <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_9b957a04776516d6abf3eaa8887a6dea" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_e6b99de0965300476e9da5319e9b2fbf" parent="aspace_9b957a04776516d6abf3eaa8887a6dea" type="Folder">21</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-126">
+      <c01 id="aspace_46de32aa4ec284c704bbc8c17b507f9b" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">22</container>
           <unittitle>December Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2001">2001</unitdate>
+          <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_67fd1eb58a4a7cd2eb098f0d7ef616bb" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_db66ac6c09a922b3fc34642387b7b793" parent="aspace_67fd1eb58a4a7cd2eb098f0d7ef616bb" type="Folder">22</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-127">
+      <c01 id="aspace_2d631828256f78ecec2bc4ed0a038a24" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">23</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2002">2002</unitdate>
+          <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_566389cb9a379eb0a8d26fa3a2e11f11" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_53ae36bc3301d5979f7c7eae8213d8ae" parent="aspace_566389cb9a379eb0a8d26fa3a2e11f11" type="Folder">23</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-128">
+      <c01 id="aspace_2e1460366be381a286ab14169986c27c" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">24</container>
           <unittitle>December Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2002">2002</unitdate>
+          <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_c70548a4a722a45071706d07f2bb3389" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_be1a8c4528748cacf733f8a897647da7" parent="aspace_c70548a4a722a45071706d07f2bb3389" type="Folder">24</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-129">
+      <c01 id="aspace_08a4586fd6c26a80ef69e6b2b6ca951b" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">25</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2003">2003</unitdate>
+          <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
+          <container id="aspace_aced5b4d7e559167c76b8822242d32a6" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_e77f67a0a726091937d70ab94797ea57" parent="aspace_aced5b4d7e559167c76b8822242d32a6" type="Folder">25</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-130">
+      <c01 id="aspace_f2d4f3e3e36e02a034e5a81625e67c4e" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">26</container>
           <unittitle>December Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2003">2003</unitdate>
+          <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
+          <container id="aspace_16dbe7a88ff91beb9bf3e47f88c0eeb8" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_a1f622b90283e569f2e153e3e960c539" parent="aspace_16dbe7a88ff91beb9bf3e47f88c0eeb8" type="Folder">26</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-131">
+      <c01 id="aspace_687f68f013caa1a49de8d964ec8a2401" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">27</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2004">2004</unitdate>
+          <unitdate normal="2004/2004" type="inclusive">2004</unitdate>
+          <container id="aspace_6d12b94f169be9c62adf8cc3735fa3c9" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_6c21682a8120dced352ee45c570169d5" parent="aspace_6d12b94f169be9c62adf8cc3735fa3c9" type="Folder">27</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-132">
+      <c01 id="aspace_7ca9e25409c334fcc25ba186f4545146" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">28</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2005">2005</unitdate>
+          <unitdate normal="2005/2005" type="inclusive">2005</unitdate>
+          <container id="aspace_3184abcb6687feb0e8eb0924233f1ba8" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_f21fc2f980ad29adffd2ca84f18f0437" parent="aspace_3184abcb6687feb0e8eb0924233f1ba8" type="Folder">28</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-133">
+      <c01 id="aspace_9dcee0f0ff6b95b59a4ae71c75068a85" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">29</container>
           <unittitle>December Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2005">2005</unitdate>
+          <unitdate normal="2005/2005" type="inclusive">2005</unitdate>
+          <container id="aspace_0b4b98609b751f06db923e8d1af8d8a9" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_9d81fccf8271b89a94bb30040578b0be" parent="aspace_0b4b98609b751f06db923e8d1af8d8a9" type="Folder">29</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-134">
+      <c01 id="aspace_8941a44f6e139277115e5e1dfbb5fcb9" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">30</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2006">2006</unitdate>
+          <unitdate normal="2006/2006" type="inclusive">2006</unitdate>
+          <container id="aspace_5dd20ee719940601414da85d0b1d40d1" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_04dea7824464536762265f165054aecc" parent="aspace_5dd20ee719940601414da85d0b1d40d1" type="Folder">30</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-135">
+      <c01 id="aspace_ed3ba3ad87edba9b8de24f9528a38d55" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">31</container>
           <unittitle>December Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2006">2006</unitdate>
+          <unitdate normal="2006/2006" type="inclusive">2006</unitdate>
+          <container id="aspace_c651c1a9aa8c32d98c8ab202a5b4c44b" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_c3f954a2ea98b9a75dbabb7cdbf5e913" parent="aspace_c651c1a9aa8c32d98c8ab202a5b4c44b" type="Folder">31</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-136">
+      <c01 id="aspace_8e60b13f5dddcc2839f5fb1c888dfec0" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">32</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2007">2007</unitdate>
+          <unitdate normal="2007/2007" type="inclusive">2007</unitdate>
+          <container id="aspace_79e76a3b9ce7e45d79313cfc44e03caa" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_6ea1980e483d69703e3aa4511c9271ae" parent="aspace_79e76a3b9ce7e45d79313cfc44e03caa" type="Folder">32</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-137">
+      <c01 id="aspace_3baddfa2f359f83bfc6e2bb4ed7dde2b" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">33</container>
           <unittitle>December Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2007">2007</unitdate>
+          <unitdate normal="2007/2007" type="inclusive">2007</unitdate>
+          <container id="aspace_9a756a05458905633fda47a97ca81c78" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_6bf11aea1bc659fc243bad474a9417dd" parent="aspace_9a756a05458905633fda47a97ca81c78" type="Folder">33</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-138">
+      <c01 id="aspace_a08a4ba3b9d165aa4af2316b31bff90d" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">34</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2008">2008</unitdate>
+          <unitdate normal="2008/2008" type="inclusive">2008</unitdate>
+          <container id="aspace_2c46806abc1d6e86ac5fb6d260523f5b" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_10d01e5414dfe68fe4a0b58ffd1f2dfe" parent="aspace_2c46806abc1d6e86ac5fb6d260523f5b" type="Folder">34</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-139">
+      <c01 id="aspace_3725c67a07a13634d885b4a6adbb8944" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">35</container>
           <unittitle>Commencement Platform Party Script</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2008">2008</unitdate>
+          <unitdate normal="2008/2008" type="inclusive">2008</unitdate>
+          <container id="aspace_c49e53a28182f34947d044e9b65a49e0" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_4d03a8f8ccd292ce222a2138563c1adb" parent="aspace_c49e53a28182f34947d044e9b65a49e0" type="Folder">35</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-140">
+      <c01 id="aspace_b9ba51ffabf60b98b2bcec048e0baaa6" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">36</container>
           <unittitle>December Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2008">2008</unitdate>
+          <unitdate normal="2008/2008" type="inclusive">2008</unitdate>
+          <container id="aspace_859b79ddc5e0e257891def20b3070dfc" label="Mixed Materials" type="Box">2 (Commencement Programs Collection)</container>
+          <container id="aspace_87a4de90bb812c9ffeee80fa01697bd5" parent="aspace_859b79ddc5e0e257891def20b3070dfc" type="Folder">36</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-141">
+      <c01 id="aspace_99a9086ffc575c729bb077c1506d3a1e" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">1</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2009">2009</unitdate>
+          <unitdate normal="2009/2009" type="inclusive">2009</unitdate>
+          <container id="aspace_c9824bcf785f4751532cf3b5f97e03b7" label="Mixed Materials" type="Box">3 (Commencement Programs Collection)</container>
+          <container id="aspace_b097d4358cae834fd5c9d4bf1f1f9ffa" parent="aspace_c9824bcf785f4751532cf3b5f97e03b7" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-142">
+      <c01 id="aspace_6b5edce9832cec57bb3dc8689d5820b1" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">2</container>
           <unittitle>December Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2009">2009</unitdate>
+          <unitdate normal="2009/2009" type="inclusive">2009</unitdate>
+          <container id="aspace_5036c809be316e33f29a28ac3b9c4df1" label="Mixed Materials" type="Box">3 (Commencement Programs Collection)</container>
+          <container id="aspace_cef02122cffe91833d3535824f03cbb2" parent="aspace_5036c809be316e33f29a28ac3b9c4df1" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-143">
+      <c01 id="aspace_b5210c124774f175c51628a316258fa8" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">3</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2010">2010</unitdate>
+          <unitdate normal="2010/2010" type="inclusive">2010</unitdate>
+          <container id="aspace_111d312c743878d683de2f6ad58678b2" label="Mixed Materials" type="Box">3 (Commencement Programs Collection)</container>
+          <container id="aspace_6f08d01a44e3aa86b66f6ba911560d20" parent="aspace_111d312c743878d683de2f6ad58678b2" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-144">
+      <c01 id="aspace_6eb66bc80e04397ab774692fd3f74ec2" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">4</container>
           <unittitle>December Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2010">2010</unitdate>
+          <unitdate normal="2010/2010" type="inclusive">2010</unitdate>
+          <container id="aspace_778d7e3af7cf7dbc40151e6f8a0e22f3" label="Mixed Materials" type="Box">3 (Commencement Programs Collection)</container>
+          <container id="aspace_dbd46745cc2b67e2a959b34bae660ea5" parent="aspace_778d7e3af7cf7dbc40151e6f8a0e22f3" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-145">
+      <c01 id="aspace_ddd234223d483c82aca4b70e2cf6ef47" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">5</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2011">2011</unitdate>
+          <unitdate normal="2011/2011" type="inclusive">2011</unitdate>
+          <container id="aspace_8357982df4435990bcf0fa4100b64178" label="Mixed Materials" type="Box">3 (Commencement Programs Collection)</container>
+          <container id="aspace_d273df59836c86ebae998e6fd969f89c" parent="aspace_8357982df4435990bcf0fa4100b64178" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-146">
+      <c01 id="aspace_399a123a40628702b7ffb2377b3c08fa" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">6</container>
           <unittitle>December Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2011">2011</unitdate>
+          <unitdate normal="2011/2011" type="inclusive">2011</unitdate>
+          <container id="aspace_759ab5c039115ea5b607d7041e8e866a" label="Mixed Materials" type="Box">3 (Commencement Programs Collection)</container>
+          <container id="aspace_00543e46707f76edf73c55fc5eb99242" parent="aspace_759ab5c039115ea5b607d7041e8e866a" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-147">
+      <c01 id="aspace_81ca9195d7d7eac419be6530aec6756b" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">7</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2012">2012</unitdate>
+          <unitdate normal="2012/2012" type="inclusive">2012</unitdate>
+          <container id="aspace_2edfe536eb8d11db72bcec2364a4acf7" label="Mixed Materials" type="Box">3 (Commencement Programs Collection)</container>
+          <container id="aspace_5b6801ba5281706609ae22fe21f78a75" parent="aspace_2edfe536eb8d11db72bcec2364a4acf7" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-148">
+      <c01 id="aspace_cc946938257d938e96e8c0ee2dbf5f22" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">8</container>
           <unittitle>December Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2012">2012</unitdate>
+          <unitdate normal="2012/2012" type="inclusive">2012</unitdate>
+          <container id="aspace_0f8ab64d1ef2bb0aa54919ee24b909bb" label="Mixed Materials" type="Box">3 (Commencement Programs Collection)</container>
+          <container id="aspace_863f031426d0524c5a61e105badafe12" parent="aspace_0f8ab64d1ef2bb0aa54919ee24b909bb" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-149">
+      <c01 id="aspace_b1b6a8df41ca7d7787a8b05f1f418b95" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">9</container>
           <unittitle>Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2013">2013</unitdate>
+          <unitdate normal="2013/2013" type="inclusive">2013</unitdate>
+          <container id="aspace_27d25514f2f1b6c414a07504ccbe0800" label="Mixed Materials" type="Box">3 (Commencement Programs Collection)</container>
+          <container id="aspace_d1451884e9d71ad85f6d0ee21ddd0d9e" parent="aspace_27d25514f2f1b6c414a07504ccbe0800" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-150">
+      <c01 id="aspace_a5769236c8f6236e19882d8d3142a1f1" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">10</container>
           <unittitle>December Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2013">2013</unitdate>
+          <unitdate normal="2013/2013" type="inclusive">2013</unitdate>
+          <container id="aspace_7fdb7ea8ab62152abd8b9c7ca0f61e57" label="Mixed Materials" type="Box">3 (Commencement Programs Collection)</container>
+          <container id="aspace_acc68acbd2051c0103a1627d1013ad44" parent="aspace_7fdb7ea8ab62152abd8b9c7ca0f61e57" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-151">
+      <c01 id="aspace_d634453393dfb854cb322c8bfd0f7093" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">11</container>
           <unittitle>December Commencement Programs</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2014">2014</unitdate>
+          <unitdate normal="2014/2014" type="inclusive">2014</unitdate>
+          <container id="aspace_c83454ba4fd9a62d52cc1dc8583d3be1" label="Mixed Materials" type="Box">3 (Commencement Programs Collection)</container>
+          <container id="aspace_28272e839c332dbbc08454818f55ed7a" parent="aspace_c83454ba4fd9a62d52cc1dc8583d3be1" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_ua935-152">
+      <c01 id="aspace_5bef6bd8a5e72961b0ee21568fa3958b" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">12</container>
           <unittitle>Decmeber Commencement Program</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="2016">2016</unitdate>
+          <unitdate normal="2016/2016" type="inclusive">2016</unitdate>
+          <container id="aspace_2b7ece03d772bf07a592917c44139dad" label="Mixed Materials" type="Box">3 (Commencement Programs Collection)</container>
+          <container id="aspace_5fe86c4fd80a15668d894c78c282d173" parent="aspace_2b7ece03d772bf07a592917c44139dad" type="Folder">12</container>
         </did>
       </c01>
     </dsc>

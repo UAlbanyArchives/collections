@@ -1,119 +1,94 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ger128">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ger128.html">nam_ger128</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ger128">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ger128.xml">ger128</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>HORST MENDERSHAUSEN PAPERS (GER128)<date normal="1930/1999" type="inclusive">1930-1999</date></titleproper>
+        <titleproper>Mendershausen, Horst; Papers <num>ger128</num></titleproper>
         <author>unprocessed</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2016" type="publication">Copyright 2016 By the University at Albany, SUNY. All
-          rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2016</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Conversion and encoding by ArchProteus, <date normal="2014">2014</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:36:28 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2016">2016</date>
+        <date>2016</date>
         <item>EAD file created</item>
+      </change>
+      <change>
+        <date>2014</date>
+        <item>Encoded in EAD by Conversion and encoding by ArchProteus</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ger128</unitid>
-      <unittitle>Horst Mendershausen Papers <unitdate normal="1930/1999" type="inclusive">1930-1999</unitdate></unittitle>
-      <abstract label="Abstract:">The Horst Mendershausen Papers consist of select materials from
-        six decades of Mendershausens personal and professional life as an economist and political
-        scientist. </abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <persname encodinganalog="100" source="lcsh">Mendershausen, Horst</persname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">1.0</extent>
-      </physdesc>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Horst Mendershausen Papers<unitdate normal="1930/1999" type="inclusive">1930-1999</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="lcsh">Mendershausen, Horst</persname>
+      </origination>
+      <unitid>ger128</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.0 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_4e5b47c6bd6d3fe533497715e85b93ef">The Horst Mendershausen Papers consist of select materials from six decades of Mendershausens personal and professional life as an economist and political scientist.</abstract>
+      <langmaterial id="aspace_1ed05bc78cca847796bb7da821b3afce">English</langmaterial>
+      <physloc id="aspace_853bb5e926070d29d1dffcd69ab04bdb">The materials are located onsite in the department.</physloc>
     </did>
-    <bioghist>
+    <processinfo id="aspace_3793d61756d9a733a0ed9333e9d83433">
+      <head>Processing Information</head>
+      <p>Processed in 2016 by unprocessed.</p>
+    </processinfo>
+    <bioghist id="aspace_709e7ccec12e8aad0789d718cf1fc3be">
       <head>Biographical History</head>
-      <p>Born in Koethen, Germany in 1911, Horst Mendershausen obtained his Ph.D. from the
-        University of Geneva in 1937 and received a Rockefeller Fellowship for post-graduate study
-        in Norway and the United States the following year. During Dr. Mendershausens long career in
-        economics and politics, he served as a professor at Bennington College; an economist at the
-        Federal Reserve Bank; an economist and assistant chief of price control for the U.S.
-        Military Government for Germany in Berlin in the immediate post-World War II years; a
-        consultant for the United Nations Division of Economic Stability and Development; a lecturer
-        at the University of California, Los Angles; and as a senior social scientist and later a
-        consultant for The RAND Corporation. He authored numerous books, articles, and reports, some
-        published by The RAND Corporation.</p>
-      <p>Dr. Mendershausen died in 2003 and was survived by his wife Elfriede and sons Philip and
-        Ralph.</p>
+      <p>Born in Koethen, Germany in 1911, Horst Mendershausen obtained his Ph.D. from the University of Geneva in 1937 and received a Rockefeller Fellowship for post-graduate study in Norway and the United States the following year. During Dr. Mendershausens long career in economics and politics, he served as a professor at Bennington College; an economist at the Federal Reserve Bank; an economist and assistant chief of price control for the U.S. Military Government for Germany in Berlin in the immediate post-World War II years; a consultant for the United Nations Division of Economic Stability and Development; a lecturer at the University of California, Los Angles; and as a senior social scientist and later a consultant for The RAND Corporation. He authored numerous books, articles, and reports, some published by The RAND Corporation.</p>
+      <p> Dr. Mendershausen died in 2003 and was survived by his wife Elfriede and sons Philip and Ralph.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The Horst Mendershausen Papers contain biographical materials, correspondence, reports,
-        subject files related to his publications, article reprints, and clippings. </p>
+    <scopecontent id="aspace_a83f3b34f2a71dda35d1467dd77b04f5">
+      <head>Scope and Contents</head>
+      <p>The Horst Mendershausen Papers contain biographical materials, correspondence, reports, subject files related to his publications, article reprints, and clippings.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_a0114fb0f638591fc193b2b79221a3d7">
       <head>Arrangement of the Collection</head>
-      <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult
-        to find.</p>
+      <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_bd7c8f3e395ab0061c797cdbf636ebd8">
       <head>Acquisition Information</head>
-      <p>Horst Mendershausen's son Ralph Mendershausen donated all the materials in this collection
-        to the M.E. Grenander Department of Special Collections &amp; Archives.<date normal="2016">2016</date></p>
+      <p>Horst Mendershausen's son Ralph Mendershausen donated all the materials in this collection to the M.E. Grenander Department of Special Collections &amp; Archives.<date normal="2016">2016</date></p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_52cc3824fef7646df47db6ad17770ebb">
       <head>Access</head>
-      <p>Access to this collection is restricted because it is unprocessed. Portions of the
-        collection may contain recent administrative records and/or personally identifiable
-        information. While it is likely that portions of the collection may be viewed, access must
-        be managed by an archivist.</p>
+      <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. While it is likely that portions of the collection may be viewed, access must be managed by an archivist.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_f7d848371b21248870ba5413b080ae5c">
       <head>Copyright</head>
-      <p>The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives.</p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_e2a43ee40fa5fb11d1bcc2a26e265829">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Horst Mendershausen Papers,
-        1930-1999. M.E. Grenander Department of Special Collections and Archives, University
-        Libraries, University at Albany, State University of New York (hereafter referred to as the
-        Mendershausen Papers).</p>
+      <p> Identification of specific item, series, box, folder, Horst Mendershausen Papers, 1930-1999. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Mendershausen Papers).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Political Science</subject>
-      <subject source="meg" encodinganalog="650">Economics</subject>
-      <persname encodinganalog="600" source="lcsh">Mendershausen, Horst</persname>
-      <subject encodinganalog="650" source="lcsh">Economists--United States</subject>
-      <subject encodinganalog="650" source="lcsh">Political scientists--United States</subject>
-      <genreform encodinganalog="655" source="aat">Files by subject</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
+      <subject source="meg">Political Science</subject>
+      <subject source="meg">Economics</subject>
+      <subject source="lcsh">Economists--United States</subject>
+      <subject source="lcsh">Political scientists--United States</subject>
+      <genreform source="aat">Files by subject</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <persname source="lcsh">Mendershausen, Horst</persname>
     </controlaccess>
+    <dsc/>
   </archdesc>
 </ead>

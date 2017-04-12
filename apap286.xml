@@ -1,92 +1,89 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap286">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/apap286.html">nam_apap286</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap286">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap286.xml">apap286</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>LEE (LELAND) N. VEDDER PAPERS (APAP286)<date normal="1865/1960" type="inclusive">1865-1960</date></titleproper>
+        <titleproper>Vedder, Lee N. (Leland); ead <num>apap286</num></titleproper>
         <author>unprocessed</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2016" type="publication">Copyright 2016 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2016</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Jodi Boyle<date normal="2016-10-13">2016 October 13</date></creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 15:21:48 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2016 October 13</date>
+        <item>Encoded in EAD by Jodi Boyle</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>Lee (Leland) N. Vedder Papers<date normal="1865/1960" type="inclusive">1865-1960</date></titleproper>
-      <publisher/>
-      <date type="publication">Copyright 2016 by the University at Albany, SUNY. All rights reserved.</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap286</unitid>
-      <unittitle>Lee (Leland) N. Vedder Papers<unitdate label="Date:" normal="1865/1960" type="inclusive">1865-1960</unitdate></unittitle>
-      <abstract label="Abstract:">The Lee N. Vedder Papers contain 79 scrapbooks documenting the local histories of Montgomery and Schenectady Counties in the early to mid 20th century; the history of the Vedder Family; local, national, and international news; and Mr. Vedder's domestic and international travels.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <persname encodinganalog="100" source="local">Lee (Leland) N. Vedder--1887-1963</persname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">14</extent>
-      </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Lee (Leland) N. Vedder Papers<unitdate normal="1865/1960" type="inclusive">1865-1960</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="local">Lee (Leland) N. Vedder--1887-1963</persname>
+      </origination>
+      <unitid>apap286</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">14 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_b49758c5edbf44fd729f3d32130e9781">The Lee N. Vedder Papers contain 79 scrapbooks documenting the local histories of Montgomery and Schenectady Counties in the early to mid 20th century; the history of the Vedder Family; local, national, and international news; and Mr. Vedder's domestic and international travels.</abstract>
+      <langmaterial id="aspace_9409e6054f62e6cc00ac62ecd30617ac">English</langmaterial>
+      <physloc id="aspace_9c5bd4461eafeeeadd4a97089dd9acf3">The materials are located onsite in the department.</physloc>
+      <container id="aspace_5adbaccb79a2b6756a2110a5a1576f7a" label="Mixed Materials" type="Collection">X</container>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_b0a25ea2d99eb80739b0ce79734be2be">
+      <head>Processing Information</head>
+      <p>Processed in 2016 by unprocessed.</p>
+    </processinfo>
+    <accessrestrict id="aspace_2aef15018cac4d0ae583ae63f82f660f">
       <head>Access</head>
       <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. Please contact an archivist for more information.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_944b8e53fc017ef5d780fa01fb06fc5e">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
-      <p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p> The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_11a78f0c48539b86b4565432cc67be7b">
       <head>Acquisition Information</head>
-      <p>Lee Vedder originally donated his papers to Syracuse University in <date normal="1969">1969</date>.  In <date normal="2006">2006</date>, Syracuse University transferred the papers to the M.E. Grenander Department of Special Collections &amp;amp; Archives.</p>
+      <p>Lee Vedder originally donated his papers to Syracuse University in <date normal="1969">1969</date>. In <date normal="2006">2006</date>, Syracuse University transferred the papers to the M.E. Grenander Department of Special Collections &amp;amp; Archives.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_3ea3c719efab9c574d9e915ed20b0db7">
       <head>Historical Note</head>
-      <p>A Democrat, Lee N. Vedder (1887-1963) was a candidate for the New York State Assembly from Montgomery County, New York in 1933. At the time of his death, Mr. Vedder was chairman of the White Mop Wringer Company, Division of Electrolux Corporation, director of the Montgomery County Trust Company, and was a trustee of the Amsterdam Memorial Hospital, Johnstown Hospital, the Arkell Foundation, and a recently appointed member of the Hartwick College Board of Trustees. </p>
+      <p>A Democrat, Lee N. Vedder (1887-1963) was a candidate for the New York State Assembly from Montgomery County, New York in 1933. At the time of his death, Mr. Vedder was chairman of the White Mop Wringer Company, Division of Electrolux Corporation, director of the Montgomery County Trust Company, and was a trustee of the Amsterdam Memorial Hospital, Johnstown Hospital, the Arkell Foundation, and a recently appointed member of the Hartwick College Board of Trustees.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>This collection consists of 79 scrapbooks containing flyers, programs, maps, newspaper clippings, photographs, and tickets.  These document personal events in Lee N. Vedder's life, local events and history in Schenectady and Montgomery Counties, Vedder's domestic and international travels, and national and international news.</p>
+    <scopecontent id="aspace_a6caa02bd2d05694c7755211f1418cf5">
+      <head>Scope and Contents</head>
+      <p>This collection consists of 79 scrapbooks containing flyers, programs, maps, newspaper clippings, photographs, and tickets. These document personal events in Lee N. Vedder's life, local events and history in Schenectady and Montgomery Counties, Vedder's domestic and international travels, and national and international news.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_c05209dd7362c2e098da5f62f4c182d2">
       <head>Arrangement of the Collection</head>
       <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <prefercite>
+    <prefercite id="aspace_257d84027dfa1fb3ca56ac11084c82a4">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Lee (Leland) N. Vedder Papers, 1865-1960. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Vedder Papers).</p>
+      <p> Identification of specific item, series, box, folder, Lee (Leland) N. Vedder Papers, 1865-1960. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Vedder Papers).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <persname source="local" encodinganalog="600">Lee (Leland) N. Vedder--1887-1963</persname>
-      <subject source="lcsh" encodinganalog="650">Politicians--New York (State)</subject>
-      <genreform source="local" encodinganalog="655">Scrapbooks</genreform>
+      <subject source="lcsh">Politicians--New York (State)</subject>
+      <genreform source="local">Scrapbooks</genreform>
+      <persname source="local">Lee (Leland) N. Vedder--1887-1963</persname>
     </controlaccess>
+    <dsc/>
   </archdesc>
 </ead>

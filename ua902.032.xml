@@ -1,678 +1,688 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua902.032">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua902.032.html">nam_ua902.032</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua902.032">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua902.032.xml">ua902.032</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>THOEDORE FOSSIECK PAPERS (UA902.032)<date normal="1947/1996" type="inclusive">1947-1996</date>
-				</titleproper>
+        <titleproper>Fossieck, Theodore; Papers <num>ua902.032</num></titleproper>
         <author>Erik Stolarski</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2016" type="publication">Copyright 2016 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2016</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Erik Stolarski<date normal="2016-10-04">2016 October 04</date>
-			</creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 17:28:56 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2014">2014</date>
+        <date>2014</date>
         <item>EAD file created</item>
+      </change>
+      <change>
+        <date>2016 October 4</date>
+        <item>Encoded in EAD by Erik Stolarski</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua902.032</unitid>
-      <unittitle>Thoedore Fossieck Papers<unitdate normal="1947/1996" type="inclusive">1947-1996</unitdate>
-			</unittitle>
-      <abstract label="Abstract:">This collection contains some administrative materials related to the running of the school, as well as information on class reunions, and copies of the yearbook Bricks and Ivy.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <persname encodinganalog="100" source="local">Fossieck, Theodore</persname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">3.66</extent>
-      </physdesc>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Thoedore Fossieck Papers<unitdate normal="1947/1996" type="inclusive">1947-1996</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="local">Fossieck, Theodore</persname>
+      </origination>
+      <unitid>ua902.032</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3.66 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_8733f7971b13d1807ec0ec88afc97d23">This collection contains some administrative materials related to the running of the school, as well as information on class reunions, and copies of the yearbook Bricks and Ivy.</abstract>
+      <langmaterial id="aspace_6e2558befce8307e30defa085dc7abae">English</langmaterial>
+      <physloc id="aspace_b0b8a00a8fa346757c8f5bfc75e499b6">The materials are located onsite in the department.</physloc>
     </did>
-    <acqinfo>
+    <processinfo id="aspace_ad8539c6fa174111e37864c70084a7c6">
+      <head>Processing Information</head>
+      <p>Processed in 2016 by Erik Stolarski.</p>
+    </processinfo>
+    <acqinfo id="aspace_6e69a3e761208286b4dc11b89e8fbddb">
       <head>Acquisition Information</head>
       <p>All items in this record group were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by Theodore Fossieck.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_eb220003dd737eff1c4c4d4aa6fc0923">
       <head>Biographical History</head>
       <p>Theodore Fossieck was the principal of Milne from 1948-1972, and therefore, spanned many years as the chief administrator. He was very active in school functions and was liked by the students, based on his presence at many school reunions after the closing of Milne. He retired in 1972, amidst the pressure on the school to accept more diverse applicants, as well as severe budget cuts in the SUNY system that would lead to the closing of the Milne school in 1977.</p>
-      <p>Even after his departure as principal, Fossieck remained active among the Milne School Alumni. He atteneded many reunions, along with other faculty members, and kept in tocuh with many students.  He retained many student records such as class rankings and yearbooks. Fossieck remained in Albany helping to preserve local history as a member of the Board of Trustees for the Albany County Historical Society. </p>
+      <p> Even after his departure as principal, Fossieck remained active among the Milne School Alumni. He atteneded many reunions, along with other faculty members, and kept in tocuh with many students. He retained many student records such as class rankings and yearbooks. Fossieck remained in Albany helping to preserve local history as a member of the Board of Trustees for the Albany County Historical Society.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_8dfbc4c6ed08c8c5d276cc7ad9b5cb11">
+      <head>Scope and Contents</head>
       <p>This collection contains materials donated by Dr. Theodroe Fossieck, former principal of The Milne School from 1948-1972. In it are materials not directly related to the administration of the school, but dealing more with events after his resignation from the position of principal. Donated were select copies of the yearbook, "Bricks and Ivy," dating between 1947 and 1977, as well as student file cards containing names of past students and their former home addreses. Many of them are undated, but those that are date to Fossieck's years as principal from 1948-1972. </p>
-      <p>The last piece donated are the files Fossieck kept related to the various reunions of Milne Alumni that he attended. Each file contains materials such as invitations, newsletters reporting the status of former class members, as well as the class ranking of each group along with their GPA.  </p>
+      <p> The last piece donated are the files Fossieck kept related to the various reunions of Milne Alumni that he attended. Each file contains materials such as invitations, newsletters reporting the status of former class members, as well as the class ranking of each group along with their GPA.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_dd18b33cb975a34dd3ef6cf0def0d2c6">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into three series, each arranged topically.</p>
     </arrangement>
-    <accessrestrict>
+    <accessrestrict id="aspace_b8d7a79f36e26ab0a3e2de0fba3fd76b">
       <head>Access</head>
       <p>Access to the Student File Cards (Series 1) and much of the Milne Alumni Material (Series2) is restricted due to the presence of student grades and personal information. Please contact the University Archivist about accessing this material.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_3733d7c7bcb4f3b74e3baf988122654c">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
-      <p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p> The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_76e7d2c1f63df2c6e89090bc518045e5">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, The Theodore Fossieck Papers,  1947-1996. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the  Theodore Fossieck Papers).</p>
+      <p> Identification of specific item, series, box, folder, The Theodore Fossieck Papers, 1947-1996. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Theodore Fossieck Papers).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Albany, New York</subject>
-      <subject encodinganalog="650" source="meg">Education</subject>
-      <subject encodinganalog="650" source="lcsh">Education, Secondary</subject>
-      <subject encodinganalog="650" source="lcsh">School Principals</subject>
-      <geogname encodinganalog="651" source="meg">Albany, New York</geogname>
+      <subject source="meg">Albany, New York</subject>
+      <subject source="meg">Education</subject>
+      <subject source="lcsh">Education, Secondary</subject>
+      <subject source="lcsh">School Principals</subject>
     </controlaccess>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_ua902.032-1" level="series">
+    <dsc>
+      <c01 id="aspace_ad7b2e7ad6579942db065b9efe931cfe" level="series">
         <did>
+          <unittitle>Student File Cards</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Student File Cards</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1948/1971" type="inclusive">1948-1971, Undated</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">2.0</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2.0 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1948/1971" type="inclusive">1948-1971, Undated</unitdate>
         </did>
-        <accessrestrict>
+        <accessrestrict id="aspace_d9d0b3e941b690fa5aabc821f55ee2b6">
+          <head>Conditions Governing Access</head>
           <p>Restricted due to the presence of student grades. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
         </accessrestrict>
-        <arrangement>
+        <arrangement id="aspace_aa94274d1d8033690ec51f3e6d5ea88b">
+          <head>Arrangement</head>
           <p>This collection is arragned chronologically, and within that arrangement, alphabetically by the last name of the student.</p>
         </arrangement>
-        <scopecontent>
-          <p>This series is made up of index cards with former students names and addresses on them. </p>
+        <scopecontent id="aspace_82381da24fea16ad3a9492063fc4cbf4">
+          <head>Scope and Contents</head>
+          <p>This series is made up of index cards with former students names and addresses on them.</p>
         </scopecontent>
-        <c02 id="nam_ua902.032-1_1">
+        <c02 id="aspace_995d5f9ed0a00705c4e5531625f7dc84" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Student File Cards A-Q</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1950/1971">1950-1971</unitdate>
+            <unitdate normal="1950/1971" type="inclusive">1950-1971</unitdate>
+            <container id="aspace_5c1fbf34c79ebad5399088dd35f7b127" label="Mixed Materials" type="Box">1 (1-Student File Cards)</container>
+            <container id="aspace_087f009179e1e604c391fcc5927826dd" parent="aspace_5c1fbf34c79ebad5399088dd35f7b127" type="Folder">1</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_f5d428aeb32e4dcbd9ff0336a049f7c3">
+            <head>Conditions Governing Access</head>
             <p>Restricted due to the presence of student grades. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua902.032-1_2">
+        <c02 id="aspace_647d47d5ba045b622f8cf9aa34cf9312" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Student File Cards R-Z</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1950/1971">1950-1971</unitdate>
+            <unitdate normal="1950/1971" type="inclusive">1950-1971</unitdate>
+            <container id="aspace_f21a4d9d2ab19852ebee0e344a4f3d4b" label="Mixed Materials" type="Box">1 (1-Student File Cards)</container>
+            <container id="aspace_5578e434e5f16e9cdbd05f2c55f3e420" parent="aspace_f21a4d9d2ab19852ebee0e344a4f3d4b" type="Folder">2</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_b702cea8b1b3c4611ef20780fab468f3">
+            <head>Conditions Governing Access</head>
             <p>Restricted due to the presence of student grades. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua902.032-1_3">
+        <c02 id="aspace_c2875754a859e465f55ae99466f54495" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Student File Cards</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1948/1962">1948-1962</unitdate>
+            <unitdate normal="1948/1962" type="inclusive">1948-1962</unitdate>
+            <container id="aspace_587b670de050bc4c92e1c936d4b38f07" label="Mixed Materials" type="Box">1 (1-Student File Cards)</container>
+            <container id="aspace_83cf5e251c84ffe75df92c6d32f7cdc9" parent="aspace_587b670de050bc4c92e1c936d4b38f07" type="Folder">3</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_ab5ae83d49b2c7c9fb72e37e35aa7f87">
+            <head>Conditions Governing Access</head>
             <p>Restricted due to the presence of student grades. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua902.032-1_4">
+        <c02 id="aspace_408f99c665e1c99f9a1ccaa462861a19" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Student File Cards A-D</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1948/1971">Undated</unitdate>
+            <unitdate normal="1948/1971" type="inclusive">Undated</unitdate>
+            <container id="aspace_2441b25ba4128eb14b578efa1564fba2" label="Mixed Materials" type="Box">2 (1-Student File Cards)</container>
+            <container id="aspace_76da62ee9f237fefdbf4d3563a190b73" parent="aspace_2441b25ba4128eb14b578efa1564fba2" type="Folder">1</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_2925aacc1a86e80dab6fae2df726d03a">
+            <head>Conditions Governing Access</head>
             <p>Restricted due to the presence of student grades. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua902.032-1_5">
+        <c02 id="aspace_e4ed9bd3f9a7d3b76058265fc6cfe172" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>Student File Cards E-J</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1948/1971">Undated</unitdate>
+            <unitdate normal="1948/1971" type="inclusive">Undated</unitdate>
+            <container id="aspace_c375dd2bdd512857e326b1053e29d4d7" label="Mixed Materials" type="Box">2 (1-Student File Cards)</container>
+            <container id="aspace_abe2a0eba98b42f4c8611f27ede1cd86" parent="aspace_c375dd2bdd512857e326b1053e29d4d7" type="Folder">2</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_f40fd58b90df4742bb272b4f009deed4">
+            <head>Conditions Governing Access</head>
             <p>Restricted due to the presence of student grades. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua902.032-1_6">
+        <c02 id="aspace_638aeae0a57ffbcfa7aff2ae110c57e2" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Student File Cards K-O</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1948/1971">Undated</unitdate>
+            <unitdate normal="1948/1971" type="inclusive">Undated</unitdate>
+            <container id="aspace_f9194f64f812b38aeac7eb28f81af87f" label="Mixed Materials" type="Box">2 (1-Student File Cards)</container>
+            <container id="aspace_2c471ac14c6675fcf25fa96d015dd81f" parent="aspace_f9194f64f812b38aeac7eb28f81af87f" type="Folder">3</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_4f138f74d07b6e410f21f162cddafd02">
+            <head>Conditions Governing Access</head>
             <p>Restricted due to the presence of student grades. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua902.032-1_7">
+        <c02 id="aspace_0bf03f8654c64f11fb8cdeb3c04574af" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Student File Cards P-S</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1948/1971">Undated</unitdate>
+            <unitdate normal="1948/1971" type="inclusive">Undated</unitdate>
+            <container id="aspace_a214f94d76aad5a878085b08e313622e" label="Mixed Materials" type="Box">2 (1-Student File Cards)</container>
+            <container id="aspace_bb95f9f45f47ce03a9cf968f8d9b3114" parent="aspace_a214f94d76aad5a878085b08e313622e" type="Folder">4</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_5f523e5d46b1de84c3e7310823751d1a">
+            <head>Conditions Governing Access</head>
             <p>Restricted due to the presence of student grades. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua902.032-1_8">
+        <c02 id="aspace_be92388f4e3e3a04b83cdaaee5ec44b4" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>Student File Cards T-Z</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1948/1971">Undated</unitdate>
+            <unitdate normal="1948/1971" type="inclusive">Undated</unitdate>
+            <container id="aspace_e47117160c5fd1cf669f9245eb471456" label="Mixed Materials" type="Box">2 (1-Student File Cards)</container>
+            <container id="aspace_2c12cf7eaeaabd1f87546bd4e7106658" parent="aspace_e47117160c5fd1cf669f9245eb471456" type="Folder">5</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_439b1104fb843a40290ce5961fbce5bb">
+            <head>Conditions Governing Access</head>
             <p>Restricted due to the presence of student grades. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
           </accessrestrict>
         </c02>
       </c01>
-      <c01 id="nam_ua902.032-2" level="series">
+      <c01 id="aspace_d817779f1d9acb143529ba79496614e5" level="series">
         <did>
+          <unittitle>Milne Alumni Material</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Milne Alumni Material</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1951/1996" type="inclusive">1951-1996</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.66</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.66 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1951/1996" type="inclusive">1951-1996</unitdate>
         </did>
-        <accessrestrict>
+        <accessrestrict id="aspace_8c559cd31f0d3dc4c594a7cbb28b0437">
+          <head>Conditions Governing Access</head>
           <p>Some material in this series is restricted due to the presence of student grades and other personal information. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
         </accessrestrict>
-        <arrangement>
+        <arrangement id="aspace_472037919d64c608fb4bd022b32818de">
+          <head>Arrangement</head>
           <p>Materials are arranged in the original order they were found in.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_a8812e25cfcc17842f828fe85b6e9531">
+          <head>Scope and Contents</head>
           <p>Series is made up of material collected by Dr. Fossieck related to class reunions, as well as obituaries for former students and faculty.</p>
         </scopecontent>
-        <c02 id="nam_ua902.032-2_1">
+        <c02 id="aspace_4baae03375953a7b679fc719c092a9ac" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>Photographs of Milne Murals</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1947/1996">Undated</unitdate>
+            <unitdate normal="1947/1996" type="inclusive">Undated</unitdate>
+            <container id="aspace_2343cf9b827be2d58b1a10e6c867d53b" label="Mixed Materials" type="Box">3 (2-Milne Alumni Material)</container>
+            <container id="aspace_d6614c107eaa5d505bfc0fdfc2863bb5" parent="aspace_2343cf9b827be2d58b1a10e6c867d53b" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-2_2">
+        <c02 id="aspace_2a0297f827a9d8db5943bae128c08a39" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>Program for 1994 Reunion of Classes 1953, 1954, and 1955</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1994">1994</unitdate>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_f02ed2fd47bf83b118e81a952aa70b1e" label="Mixed Materials" type="Box">3 (2-Milne Alumni Material)</container>
+            <container id="aspace_f2fd9f6846297a56794eacafd450feab" parent="aspace_f02ed2fd47bf83b118e81a952aa70b1e" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-2_3">
+        <c02 id="aspace_94ab081df4dc3032688c9b7455e26d11" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">3</container>
             <unittitle>Milne Alumni List</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1994">1994</unitdate>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_06e8e2c9703180c5c9071539b3eaf247" label="Mixed Materials" type="Box">3 (2-Milne Alumni Material)</container>
+            <container id="aspace_b06852bc88ceea2c621bf9c5757a3b86" parent="aspace_06e8e2c9703180c5c9071539b3eaf247" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-2_4">
+        <c02 id="aspace_415507df9bb767fe551a5f78f4c56ba4" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4</container>
             <unittitle>1991 Reunion Bricks and Ivy</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_001b69678b5e29b9d17f27b14166411d" label="Mixed Materials" type="Box">3 (2-Milne Alumni Material)</container>
+            <container id="aspace_f459a5bdbe095f002b64014db35c92da" parent="aspace_001b69678b5e29b9d17f27b14166411d" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-2_5">
+        <c02 id="aspace_71e483aaced09d54bf937e6123531b53" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">5</container>
             <unittitle>Proposal to Renovate Milne Room</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1994">1994</unitdate>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_fe9285cd506b6c18dbacb94ec8acafdb" label="Mixed Materials" type="Box">3 (2-Milne Alumni Material)</container>
+            <container id="aspace_272e6fb8092c2ba2e712fb7a4b43c7e3" parent="aspace_fe9285cd506b6c18dbacb94ec8acafdb" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-2_6">
+        <c02 id="aspace_bd0a61bbbaefd4c06708ac581d928533" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">6</container>
             <unittitle>Milne Alumni Campaign</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1993">1993</unitdate>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_2c6ff53c058ed261865702a9968d4b86" label="Mixed Materials" type="Box">3 (2-Milne Alumni Material)</container>
+            <container id="aspace_8a3ca835071e002f39952e6f7ed6f7d1" parent="aspace_2c6ff53c058ed261865702a9968d4b86" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-2_7">
+        <c02 id="aspace_65746c20af958f76d1f65960e80795c4" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">7</container>
             <unittitle>Milne Alumni Campaign</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1993">1993</unitdate>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_7957e4b2035bcce4a9b10b8e17970e4a" label="Mixed Materials" type="Box">3 (2-Milne Alumni Material)</container>
+            <container id="aspace_ea8005d82e3d183b48d6971292d85207" parent="aspace_7957e4b2035bcce4a9b10b8e17970e4a" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-2_8">
+        <c02 id="aspace_9e758b6e9809dbad967bee64f8d31321" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">8</container>
             <unittitle>Milne Alumni Campaign</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1993">1993</unitdate>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_c714894ca7807f91143fd7aa838a4392" label="Mixed Materials" type="Box">3 (2-Milne Alumni Material)</container>
+            <container id="aspace_098e006c7d40331dea27749159bbf653" parent="aspace_c714894ca7807f91143fd7aa838a4392" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-2_9">
+        <c02 id="aspace_310d7a85ea4c47b3c919fc8e1e219bd9" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">9</container>
             <unittitle>Milne Alumni Campaign</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1993">1993</unitdate>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_89727cdc37c23954cdcab044e414cbbe" label="Mixed Materials" type="Box">3 (2-Milne Alumni Material)</container>
+            <container id="aspace_945e858db68f132c368e3578fa05b079" parent="aspace_89727cdc37c23954cdcab044e414cbbe" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-2_10">
+        <c02 id="aspace_d6885148d98f7640b7e220f13cadfbca" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">1</container>
             <unittitle>Class of 1946 Reunion Planning</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1981">1981</unitdate>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_c7d3a48d0cd544ea4ded101fee120945" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_626749eb990c4bc00f0ac7986f3b28b6" parent="aspace_c7d3a48d0cd544ea4ded101fee120945" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-2_11">
+        <c02 id="aspace_502e3a1abf97ca048466ad93b2d042b3" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">2</container>
             <unittitle>Class of 1947 and 1948 Class Rankings</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1983">1983</unitdate>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_7ebdd3a17f84a2a40408e16388829da0" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_2d4f771f78b8fc2eeb1428aadf899e87" parent="aspace_7ebdd3a17f84a2a40408e16388829da0" type="Folder">2</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_8e562ef74d2b7f5bd4ec66063397adab">
+            <head>Conditions Governing Access</head>
             <p>Restricted due to the presence of student grades. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua902.032-2_12">
+        <c02 id="aspace_bf798404529d264b5af0d709b97aa0ef" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">3</container>
-            <unittitle>Class of 1949 Reunion </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1964">1964</unitdate>
+            <unittitle>Class of 1949 Reunion</unittitle>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_1f39583c010640cfcd0000b8504a6c4e" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_b846a5c8bab531afcf9aa4d5cad6110e" parent="aspace_1f39583c010640cfcd0000b8504a6c4e" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-2_13">
+        <c02 id="aspace_7b223ca50ef1ec0f9f0ffc1debbe48f6" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">4</container>
             <unittitle>Class of 1950 Reunion Planning</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1976">1976</unitdate>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_ceea2e85aa4228ca5d6c353b78cfcd87" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_630a9f0b556bb0bb0df6c4bdb9fc274e" parent="aspace_ceea2e85aa4228ca5d6c353b78cfcd87" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-2_14">
+        <c02 id="aspace_d1503be5c0ad423028bae7e6fbb316e8" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">5</container>
             <unittitle>Class of 1951 Reunion</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1981">1981</unitdate>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_1c051a57df3bb10d6af1ba912d3ec63b" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_65cbfd172cee5637942a94f74da2b064" parent="aspace_1c051a57df3bb10d6af1ba912d3ec63b" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-2_15">
+        <c02 id="aspace_59802616e68635a106476542de28248c" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">6</container>
             <unittitle>Class of 1952 25th Reunion</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1977">1977</unitdate>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_dd5ed328b9ff69126467b487a57cadab" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_4e3a8e84f01faa8c0f4f18515233246b" parent="aspace_dd5ed328b9ff69126467b487a57cadab" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-2_16">
+        <c02 id="aspace_4d4d6e087508c6a916ffdfa5e6ab2435" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">7</container>
             <unittitle>Class of 1953 Ranking and Home Addresses</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1983-1993">1983-1993</unitdate>
+            <unitdate normal="1983/1993" type="inclusive">1983-1993</unitdate>
+            <container id="aspace_d8906cebb8e7f067fd18167f07f9fb2a" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_f03a69ceb956db75292329b8d06a3e0e" parent="aspace_d8906cebb8e7f067fd18167f07f9fb2a" type="Folder">7</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_f6667b77557ffd61c46f2681941bc132">
+            <head>Conditions Governing Access</head>
             <p>Restricted due to the presence of student grades. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua902.032-2_17">
+        <c02 id="aspace_95bcd20e3d8b2174bea5d12ecf00e27c" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">8</container>
             <unittitle>Class of 1954 Ranking and Class List</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1947/1996">Undated</unitdate>
+            <unitdate normal="1947/1996" type="inclusive">Undated</unitdate>
+            <container id="aspace_ee4df6adee1c8fbe5bd60f3618fe0397" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_81d294b744ca52ce69ef0bb5b25d2833" parent="aspace_ee4df6adee1c8fbe5bd60f3618fe0397" type="Folder">8</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_3e9ebb7215e94b8e8f20e5d88183375c">
+            <head>Conditions Governing Access</head>
             <p>Restricted due to the presence of student grades. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua902.032-2_18">
+        <c02 id="aspace_be48d1d12e7be6253494a25d59d7811e" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">9</container>
             <unittitle>Class of 1955 Ranking and Newsletter</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1975">1975</unitdate>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_b9897e70cb1c1d386a53376cff138db0" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_0212e0ba9b00cf3bcf1d89892f8b9448" parent="aspace_b9897e70cb1c1d386a53376cff138db0" type="Folder">9</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_5b4562cae11301320a3a8ea4da6f2dfd">
+            <head>Conditions Governing Access</head>
             <p>Restricted due to the presence of student grades. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua902.032-2_19">
+        <c02 id="aspace_bb655196b720d648e031347923df2d4d" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">10</container>
             <unittitle>Class of 1956 Reunion and Newsletter</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1976/1988">1976-1988</unitdate>
+            <unitdate normal="1976/1988" type="inclusive">1976-1988</unitdate>
+            <container id="aspace_d6cfaa8e45aa9c64702008d1b45572b8" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_61dee9813ffc508caf447e3884b12483" parent="aspace_d6cfaa8e45aa9c64702008d1b45572b8" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-2_20">
+        <c02 id="aspace_2154a18bfdce7c3fc08a33e46f4c6cb0" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">11</container>
             <unittitle>Class of 1957-1958 Ranking</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1957/1958">1957-1958</unitdate>
+            <unitdate normal="1957/1958" type="inclusive">1957-1958</unitdate>
+            <container id="aspace_66b86c86d4978cfdd5fd81fba3f67e24" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_447c783f3c9c2a519eca693f76de5deb" parent="aspace_66b86c86d4978cfdd5fd81fba3f67e24" type="Folder">11</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_fd7738007585bb276bebda4b3939f962">
+            <head>Conditions Governing Access</head>
             <p>Restricted due to the presence of student grades. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua902.032-2_21">
+        <c02 id="aspace_7e707ee09742b418852724152bc9f654" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">12</container>
             <unittitle>Class of 1959 Reunion and Newsletter</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1984">1984</unitdate>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_52ed5a1c6058f38e3af24ed37a32bb2c" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_5637cce0fdc5d9118a8c145cae10fabf" parent="aspace_52ed5a1c6058f38e3af24ed37a32bb2c" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-2_22">
+        <c02 id="aspace_47fbb7a55ce95eb7edb8f41587be7a6d" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">13</container>
             <unittitle>Class of 1960 Ranking and Locator</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1985">1985</unitdate>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_766f532857ee7eadc07734c6932354cf" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_80ca821ff970a66c0a2e071199db68e0" parent="aspace_766f532857ee7eadc07734c6932354cf" type="Folder">13</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_42f4039b75e69021b4c136dff27ff13a">
+            <head>Conditions Governing Access</head>
             <p>Restricted due to the presence of student grades. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua902.032-2_23">
+        <c02 id="aspace_64af9a316d68879ee50047ee4a58c771" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">14</container>
             <unittitle>Class of 1961 Reunion Planning</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1981">1981</unitdate>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_7bbce1c5b04f7b908f9495468ce33c91" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_1b28dc56cb3df2eeeec3c941b06374d9" parent="aspace_7bbce1c5b04f7b908f9495468ce33c91" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-2_24">
+        <c02 id="aspace_f25a665177e2cea6a1a48f458d9b9703" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">15</container>
             <unittitle>Class of 1962 and 1964 Ranking</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1962">1962</unitdate>
-            <unitdate calendar="gregorian" era="ce" normal="1964">1964</unitdate>
+            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_5913601cd59e6633b024de64267625c3" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_5c3df9228f5fe703e48d7580ae5ed791" parent="aspace_5913601cd59e6633b024de64267625c3" type="Folder">15</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_1d5e92b5b6cba7bd3a5a88473971f07f">
+            <head>Conditions Governing Access</head>
             <p>Restricted due to the presence of student grades. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua902.032-2_25">
+        <c02 id="aspace_fd45acd8d66d3a53c119273ac421e53d" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">16</container>
-            <unittitle>Class of 1965 and 1966 Reunion  and Ranking</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1990">1990</unitdate>
+            <unittitle>Class of 1965 and 1966 Reunion and Ranking</unittitle>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_c9f4e716e0dc556296417adf0c1ce7c6" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_e865d2aed16477e88fd785b18336c1b5" parent="aspace_c9f4e716e0dc556296417adf0c1ce7c6" type="Folder">16</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_a24d43e7536c55fd6b7bbfd124728565">
+            <head>Conditions Governing Access</head>
             <p>Restricted due to the presence of student grades. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua902.032-2_26">
+        <c02 id="aspace_b49fcd690aaa4341bf88a017e7ca9460" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">17</container>
-            <unittitle>Class of 1967 Reunion </unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1977/1987">1977-1987</unitdate>
+            <unittitle>Class of 1967 Reunion</unittitle>
+            <unitdate normal="1977/1987" type="inclusive">1977-1987</unitdate>
+            <container id="aspace_c94681b0ecfcf48ff873d7785b3df78a" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_9aada74c62b2b19c946abc97f7a734e0" parent="aspace_c94681b0ecfcf48ff873d7785b3df78a" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-2_27">
+        <c02 id="aspace_00e39b213898c554062feea6130ae83c" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">18</container>
             <unittitle>Class of 1968 Class List</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1968">1968</unitdate>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_600eb63f595fe1c426920df55e8b80f5" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_3af0ee1c22e174627795ac9910678f45" parent="aspace_600eb63f595fe1c426920df55e8b80f5" type="Folder">18</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_dff93b4fd43acccea61a324d199fcbce">
+            <head>Conditions Governing Access</head>
             <p>Restricted due to the presence of student grades. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua902.032-2_28">
+        <c02 id="aspace_cc684d4773fbdf9244129c24de2e74b8" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">19</container>
             <unittitle>Class of 1969 and 1970 Ranking</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1969/1970">1969-1970</unitdate>
+            <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
+            <container id="aspace_0e7ade61db5b0ee9e4804c332966395a" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_0febf59089ab3c11f15632ca625eeee4" parent="aspace_0e7ade61db5b0ee9e4804c332966395a" type="Folder">19</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_86ced50a42466d06d1890b4a0012e422">
+            <head>Conditions Governing Access</head>
             <p>Restricted due to the presence of student grades. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua902.032-2_29">
+        <c02 id="aspace_a2b82d0530e89be86aa2b5bf81d6f5ba" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">20</container>
             <unittitle>Class of 1971 and 1972 Reunion and Ranking</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1971/1976">1971-1976</unitdate>
+            <unitdate normal="1971/1976" type="inclusive">1971-1976</unitdate>
+            <container id="aspace_953ee2769bce5b11de60e965974f107e" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_ffd9d02af492630830365bb483b04be4" parent="aspace_953ee2769bce5b11de60e965974f107e" type="Folder">20</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_7340d321bf45d2f723b03ac5f82ffac5">
+            <head>Conditions Governing Access</head>
             <p>Restricted due to the presence of student grades. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua902.032-2_30">
+        <c02 id="aspace_679b4f027e83d99effe3dc8d8d22a7ac" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">21</container>
             <unittitle>Class of 1973 Reunion</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1983">1983</unitdate>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_3e5db189d3561e64c10c8929cfe171fc" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_06bd071156d17cdb692232cf82d7ca90" parent="aspace_3e5db189d3561e64c10c8929cfe171fc" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-2_31">
+        <c02 id="aspace_42b4006152dc6c58b3d02fb477a5729c" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">22</container>
             <unittitle>Class of 1975 Ranking</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1975">1975</unitdate>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_3b3e259c1d5115c45336fcd0e3d0ac9d" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_f9bfd840462720e42cb2c14f1ec75002" parent="aspace_3b3e259c1d5115c45336fcd0e3d0ac9d" type="Folder">22</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_72b35ffcada6713451582eac34572c3c">
+            <head>Conditions Governing Access</head>
             <p>Restricted due to the presence of student grades. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua902.032-2_32">
+        <c02 id="aspace_b0f0208a9ad69f9e4b2312a8d099eb24" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">23</container>
             <unittitle>Classes of 1976 and 1977 Ranking and Commencement</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1976/1977">1976-1977</unitdate>
+            <unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate>
+            <container id="aspace_ad081d8deeb70cc710a0aa856355767e" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_cd7569213b8b20558aa006e42967a654" parent="aspace_ad081d8deeb70cc710a0aa856355767e" type="Folder">23</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_4818af2da96f11c6b2d9e30f3571e173">
+            <head>Conditions Governing Access</head>
             <p>Restricted due to the presence of student grades. These records cannot be made available due to the Family Educational Rights and Privacy Act (FERPA). Please consult an archivist for more details.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua902.032-2_33">
+        <c02 id="aspace_e1f2e9556c3e47729bce3cc1569adfda" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">24</container>
             <unittitle>Schoolwide Reunion</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1991">1991</unitdate>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_f0db4ba72f25ae171307cc8ab9087675" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_51ef88a0d6382b85374a80b371bbae53" parent="aspace_f0db4ba72f25ae171307cc8ab9087675" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-2_34">
+        <c02 id="aspace_881f812db24ccf2f35a88abed5d2129f" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">25</container>
             <unittitle>Alumni Ball Register</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1951/1977">1951-1977</unitdate>
+            <unitdate normal="1951/1977" type="inclusive">1951-1977</unitdate>
+            <container id="aspace_e495a067882fde2d0b2386ef29a445af" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_4f9b2baf35a8b8dc73cf96b0295784ea" parent="aspace_e495a067882fde2d0b2386ef29a445af" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-2_35">
+        <c02 id="aspace_72d65dddf2cab37c961a0e7b597ddc37" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">26</container>
             <unittitle>Faculty and Alumni Obituaries</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1993">1993</unitdate>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_5ba56728775a8431583ee13c32f4b634" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_13b0bcff07fe479bd738f390df91b0e3" parent="aspace_5ba56728775a8431583ee13c32f4b634" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-2_36">
+        <c02 id="aspace_a80ea9c9e0ecdddf385f2961a0792bad" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">27</container>
             <unittitle>Faculty and Alumni Obituaries</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1993/1996">1993-1996</unitdate>
+            <unitdate normal="1993/1996" type="inclusive">1993-1996</unitdate>
+            <container id="aspace_c6b25a8b251416d39dcb15dec3558a79" label="Mixed Materials" type="Box">4 (2-Milne Alumni Material)</container>
+            <container id="aspace_b3cba7cb0e46643214c7492b52c8ac1a" parent="aspace_c6b25a8b251416d39dcb15dec3558a79" type="Folder">27</container>
           </did>
         </c02>
       </c01>
-      <c01 id="nam_ua902.032-3" level="series">
+      <c01 id="aspace_32eea7db796e3a29afb201cb4bca2e35" level="series">
         <did>
+          <unittitle>Bricks and Ivy</unittitle>
           <unitid>3</unitid>
-          <unittitle label="Series">Bricks and Ivy</unittitle>
-          <unitdate calendar="gregorian" era="ce" normal="1947/1977" type="inclusive">1947-1977</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">1.0</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.0 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1947/1977" type="inclusive">1947-1977</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_9e24c4a2e34985073019dc0dd12ec293">
+          <head>Arrangement</head>
           <p>Materials are arranged in chronological order.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_bdbc5b74ca528caefb02c7454b163c72">
+          <head>Scope and Contents</head>
           <p>This series is made up of Bricks and Ivy Yearbooks donated by Dr. Fossieck.</p>
         </scopecontent>
-        <c02 id="nam_ua902.032-3_1">
+        <c02 id="aspace_7d463f0e6d0d0764e34a26ec8ab6421b" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">1</container>
             <unittitle>Bricks and Ivy</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1947">1947</unitdate>
+            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_4f7464e3a8e06930307c388b19477084" label="Mixed Materials" type="Box">5 (3-Bricks and Ivy)</container>
+            <container id="aspace_184d1cf06c6675262e51ffb263716d5c" parent="aspace_4f7464e3a8e06930307c388b19477084" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-3_2">
+        <c02 id="aspace_4db8987999c96028a3561e65a45ce553" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">2</container>
             <unittitle>Bricks and Ivy</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1948">1948</unitdate>
-            <note>
-              <p>Donated by Thoedore Fossieck, former principal of the Milne School. On duplicate in the collection.</p>
-            </note>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <container id="aspace_9a8c254718181d010b8eb04cf02caa53" label="Mixed Materials" type="Box">5 (3-Bricks and Ivy)</container>
+            <container id="aspace_55ced77ebfaa446f506e8959a854b5c0" parent="aspace_9a8c254718181d010b8eb04cf02caa53" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-3_3">
+        <c02 id="aspace_a115538316013953baa1ee5666bc5d80" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">3</container>
             <unittitle>Bricks and Ivy</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1949">1949</unitdate>
+            <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
+            <container id="aspace_e028c6592338962bb167f298764b472b" label="Mixed Materials" type="Box">5 (3-Bricks and Ivy)</container>
+            <container id="aspace_c6c05ad6766a3e61dadf028d7e129d5c" parent="aspace_e028c6592338962bb167f298764b472b" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-3_4">
+        <c02 id="aspace_8cc064f8070ec82bd61de6fd8a2a12ef" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">4</container>
             <unittitle>Bricks and Ivy</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1951">1951</unitdate>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_af5bbb525ef1b8bfc51b6ea71ec81f18" label="Mixed Materials" type="Box">5 (3-Bricks and Ivy)</container>
+            <container id="aspace_3f01f792bee2405ef4edb655850fe6ee" parent="aspace_af5bbb525ef1b8bfc51b6ea71ec81f18" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-3_5">
+        <c02 id="aspace_9e5d1777219f2c839b12914fd8f4db0a" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">5</container>
             <unittitle>Bricks and Ivy</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1952">1952</unitdate>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_3a34eff4b6a94fa78d4d511c73e0e37a" label="Mixed Materials" type="Box">5 (3-Bricks and Ivy)</container>
+            <container id="aspace_c7b2a2f58e40877200f55fcdb984d89e" parent="aspace_3a34eff4b6a94fa78d4d511c73e0e37a" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-3_6">
+        <c02 id="aspace_9a563595d809d2d94289671a305c8b46" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">6</container>
             <unittitle>Bricks and Ivy</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1953">1953</unitdate>
-            <note>
-              <p>Donated by Thoedore Fossieck, former principal of the Milne School. One duplicate in the collection.</p>
-            </note>
+            <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+            <container id="aspace_52d5cdac6a3595ff832e98344cee3ba1" label="Mixed Materials" type="Box">5 (3-Bricks and Ivy)</container>
+            <container id="aspace_0516416e147570e1837ddbeb63f4e0d4" parent="aspace_52d5cdac6a3595ff832e98344cee3ba1" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-3_7">
+        <c02 id="aspace_aad82ba412799a9f2c6446d5ae9fea64" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">7</container>
             <unittitle>Bricks and Ivy</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1957">1957</unitdate>
+            <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
+            <container id="aspace_dec92e3b6fedde1711f782a0da8992dc" label="Mixed Materials" type="Box">5 (3-Bricks and Ivy)</container>
+            <container id="aspace_16de44876fc0d5a15601b6f93df08f47" parent="aspace_dec92e3b6fedde1711f782a0da8992dc" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-3_8">
+        <c02 id="aspace_fc0158652d796fcd60d6b7eb4bf13ffd" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">8</container>
             <unittitle>Bricks and Ivy</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1958">1958</unitdate>
-            <note>
-              <p>Donated by Thoedore Fossieck, former principal of the Milne School. One duplicate in the collection.</p>
-            </note>
+            <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_1b16a156c45e8bc19275274f9082391f" label="Mixed Materials" type="Box">5 (3-Bricks and Ivy)</container>
+            <container id="aspace_eb1bcfe4ed0e3a64c211affb3e28636f" parent="aspace_1b16a156c45e8bc19275274f9082391f" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-3_9">
+        <c02 id="aspace_7b49b8504bb410cca1bcf90f1680608c" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">9</container>
             <unittitle>Bricks and Ivy</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1963">1963</unitdate>
-            <note>
-              <p>Donated by Thoedore Fossieck, former principal of the Milne School. On duplicate in the collection.</p>
-            </note>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_7eb2fbadc47574c2098c0a1d65029a14" label="Mixed Materials" type="Box">5 (3-Bricks and Ivy)</container>
+            <container id="aspace_f98adbf7bce9842b32c20d92b0ec81c4" parent="aspace_7eb2fbadc47574c2098c0a1d65029a14" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-3_10">
+        <c02 id="aspace_f2cfd62a558a3a90e561d09351586784" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">10</container>
             <unittitle>Bricks and Ivy</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1967">1967</unitdate>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_2a5f6bcc3687f8087aa5c72ac2cfaefb" label="Mixed Materials" type="Box">5 (3-Bricks and Ivy)</container>
+            <container id="aspace_358ef50498f873997a78d96e7c0512db" parent="aspace_2a5f6bcc3687f8087aa5c72ac2cfaefb" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-3_11">
+        <c02 id="aspace_422c4023e93c84b0b7ed004384dcc7f7" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">11</container>
             <unittitle>Bricks and Ivy</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1971">1971</unitdate>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_4ae01dc04ef9ae3adc608fd51569d0c7" label="Mixed Materials" type="Box">5 (3-Bricks and Ivy)</container>
+            <container id="aspace_9aa535995c48949f73e8fa2e888367d1" parent="aspace_4ae01dc04ef9ae3adc608fd51569d0c7" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_ua902.032-3_12">
+        <c02 id="aspace_837f2436264bd095a0d8e3e91b8d6da5" level="file">
           <did>
-            <container type="Box">5</container>
-            <container type="Folder">12</container>
             <unittitle>Bricks and Ivy</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1977">1977</unitdate>
-            <note>
-              <p>Donated by Thoedore Fossieck, former principal of the Milne School. One duplicate in the collection.</p>
-            </note>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_0014c7330e4bd9996dc07aa584972901" label="Mixed Materials" type="Box">5 (3-Bricks and Ivy)</container>
+            <container id="aspace_e1ad9a6b1fdec716feb106cb94023061" parent="aspace_0014c7330e4bd9996dc07aa584972901" type="Folder">12</container>
           </did>
         </c02>
       </c01>

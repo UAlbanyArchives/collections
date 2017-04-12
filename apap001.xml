@@ -1,380 +1,283 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap001">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap001.xml" identifier="##">nam_apap001</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap001">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap001.xml">apap001</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>AMERICAN ASSOCIATION OF UNIVERSITY PROFESSORS, ALBANY CHAPTER RECORDS (APAP001)<date normal="1944/1974" type="inclusive">1944-1974</date></titleproper>
+        <titleproper>American Association of University Professors, Albany Chapter; Records <num>apap001</num></titleproper>
         <author>Geoffrey A. Huth</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="1990-08-03">Copyright 1990 August 3 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>1990 August 3</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>
-				Eric R. Buist
-				<date normal="2014">2014</date>
-			</creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 13:32:09 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date/>
-        <item/>
+        <date>2014</date>
+        <item>Encoded in EAD by Eric R. Buist</item>
       </change>
     </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>AMERICAN ASSOCIATION OF UNIVERSITY PROFESSORS, ALBANY CHAPTER RECORDS (APAP001)<date normal="1944/1974" type="inclusive">1944-1974</date></titleproper>
-      <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2014</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap001</unitid>
-      <unittitle>American Association of University Professors, Albany Chapter Records<unitdate type="inclusive" normal="1944/1974" label="Date:">1944-1974</unitdate></unittitle>
-      <origination>
-        <corpname encodinganalog="110" source="local">American Association of University Professors. Albany Chapter</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">0.75</extent>
-      </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">
-				The American Association of University Professors Records document the activities of the
-				Albany Chapter from 1944 to 1974.
-			</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located on site in the department.</physloc>
+      <unittitle>American Association of University Professors, Albany Chapter Records<unitdate normal="1944/1974" type="inclusive">1944-1974</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">American Association of University Professors. Albany Chapter</corpname>
+      </origination>
+      <unitid>apap001</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.75 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_ca6b31643158451823890035d6eef46d">The American Association of University Professors Records document the activities of the Albany Chapter from 1944 to 1974.</abstract>
+      <langmaterial id="aspace_6a3aad53a39a1f3d6ef712a8cb179be0">English</langmaterial>
+      <physloc id="aspace_d03015b682307e22ff159a5d9c0628c6">The materials are located on site in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_e11aff0c2284f27829ed32a7c9ab9e57">
+      <head>Processing Information</head>
+      <p>Processed in 1990 August 3 by Geoffrey A. Huth.</p>
+    </processinfo>
+    <accessrestrict id="aspace_236a92666438f3739952aee769b996ac">
       <head>Access</head>
       <p>Access to these records is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_c81b11a392a404a863421dc1cfb0b66e">
       <head>Copyright</head>
-      <p>
-				The researcher assumes full responsibility for conforming with the laws of copyright.
-				Whenever possible, the M.E. Grenander Department of Special Collections and Archives
-				will provide information about copyright owners and other restrictions, but the legal
-				determination ultimately rests with the researcher. Requests for permission to publish
-				material from this collection should be discussed with the Head of Special Collections
-				and Archives.
-			</p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_858aee8d325b3591ce8402a36ad3af70">
       <head>Acquisition Information</head>
-      <p>
-				Most items in this manuscript group were donated to the University Libraries, M. E.
-				Grenander Department of Special Collections and Archives, by the Albany Chapter of the
-				American Association of University Professors.  Some leaflets appear to have been
-				collected independently from this chapter and added to the records.
-			</p>
+      <p>Most items in this manuscript group were donated to the University Libraries, M. E. Grenander Department of Special Collections and Archives, by the Albany Chapter of the American Association of University Professors. Some leaflets appear to have been collected independently from this chapter and added to the records.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_834229fcbc5e37831555b92975b186dd">
       <head>Organizational Sketch</head>
-      <p>
-				The Albany Chapter of the American Association of University Professors (AAUP) was
-				founded in 1932 as a chapter organized to represent professors at the New York State
-				College for Teachers in Albany, N.Y., and to promote AAUP's goals of protecting
-				academic freedom, promoting faculty governance, and pressing for salaries equal to
-				their professional status.  Regional meetings of the AAUP chapters in the capital
-				district began in the 1935-36 school year and continued until World War II.
-				[AAUP--Albany Chapter, Minutes, October 31, 1945]
-			</p>
-      <p>
-				In 1944 the chapter, which always maintained an interest in faculty governance and ways
-				to implement such, argued for the establishment of a Faculty-Administration Council at
-				the New York State College for Teachers.  This body became a significant policy
-				making body on campus, its membership composed of administrative staff, including the
-				President of the College and the Dean, and twelve elected faculty members.  An important
-				predecessor to the University Senate, the Faculty-Administration Council held its last
-				recorded meeting in 1955.
-			</p>
-      <p>
-				During the 1960s, many changes affected the Albany Chapter.  The former New York State
-				College for Teachers became a university in 1962, and by the mid-1960s an entirely new
-				and much larger campus had been built to house this institution.  Concurrently, AAUP
-				was revitalizing regional cooperation in New York through the formation of the New York
-				State Conference of Chapters of AAUP and the Council of SUNY Chapters of AAUP, both of
-				which the Albany chapter was affiliated with.  The most significant change, however,
-				was the 1967 implementation of the Public Employees Relations Act (commonly, the Taylor
-				Law), which authorized collective bargaining for all state employees, including
-				university professors.  The Public Employees Relations Board (PERB) decided that all
-				professionals employed at the State University of New York would constitute a single
-				bargaining unit.  The Albany chapter at this time was opposed to being the
-				representative for this unit, because it recognized the university's professors as a
-				group of employees with needs and desires substantially different from those of other
-				professional staff.
-			</p>
-      <p>
-				The question of who would be the bargaining agent for professionals at the State
-				University of New York at Albany became an important one for the Albany chapter of AAUP
-				and the campus as a whole.  In November 1968, the entire SUNY-AAUP Council voted to ask
-				PERB to add AAUP to the ballot to elect a bargaining agent for all SUNY campuses.  A
-				questionnaire that the Albany chapter distributed on campus in 1968 showed widespread
-				support for collective bargaining and for AAUP to be the bargaining agent for the
-				professionals on campus.  By this time, PERB had not yet decided whether all of the
-				State University of New York or its individual campuses would constitute the bargaining
-				unit with the state.
-			</p>
+      <p>The Albany Chapter of the American Association of University Professors (AAUP) was founded in 1932 as a chapter organized to represent professors at the New York State College for Teachers in Albany, N.Y., and to promote AAUP's goals of protecting academic freedom, promoting faculty governance, and pressing for salaries equal to their professional status. Regional meetings of the AAUP chapters in the capital district began in the 1935-36 school year and continued until World War II. [AAUP--Albany Chapter, Minutes, October 31, 1945] </p>
+      <p>  In 1944 the chapter, which always maintained an interest in faculty governance and ways to implement such, argued for the establishment of a Faculty-Administration Council at the New York State College for Teachers. This body became a significant policy making body on campus, its membership composed of administrative staff, including the President of the College and the Dean, and twelve elected faculty members. An important predecessor to the University Senate, the Faculty-Administration Council held its last recorded meeting in 1955. </p>
+      <p>  During the 1960s, many changes affected the Albany Chapter. The former New York State College for Teachers became a university in 1962, and by the mid-1960s an entirely new and much larger campus had been built to house this institution. Concurrently, AAUP was revitalizing regional cooperation in New York through the formation of the New York State Conference of Chapters of AAUP and the Council of SUNY Chapters of AAUP, both of which the Albany chapter was affiliated with. The most significant change, however, was the 1967 implementation of the Public Employees Relations Act (commonly, the Taylor Law), which authorized collective bargaining for all state employees, including university professors. The Public Employees Relations Board (PERB) decided that all professionals employed at the State University of New York would constitute a single bargaining unit. The Albany chapter at this time was opposed to being the representative for this unit, because it recognized the university's professors as a group of employees with needs and desires substantially different from those of other professional staff. </p>
+      <p>  The question of who would be the bargaining agent for professionals at the State University of New York at Albany became an important one for the Albany chapter of AAUP and the campus as a whole. In November 1968, the entire SUNY-AAUP Council voted to ask PERB to add AAUP to the ballot to elect a bargaining agent for all SUNY campuses. A questionnaire that the Albany chapter distributed on campus in 1968 showed widespread support for collective bargaining and for AAUP to be the bargaining agent for the professionals on campus. By this time, PERB had not yet decided whether all of the State University of New York or its individual campuses would constitute the bargaining unit with the state.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>
-				The overreaching goal of AAUP as a whole and the Albany Chapter as one of its
-				affiliates was the establishment and protection of academic freedom.  This topic was a
-				frequent subject in the minutes and correspondence of the chapter.  Different aspects
-				of this freedom were in play at different times during the chapter's history.  In the
-				early 1950's freedom of debate was an important topic as was the concept of loyalty
-				oaths (which AAUP argued were a means to undermine academic freedom).  During the
-				mid-1960s the faculty workload was of great concern to the chapter, and by the late
-				1960's, when labor organizations were beginning their organizing campaigns on SUNY
-				campuses, collective bargaining for professors became a pressing concern.
-			</p>
-      <p>
-				The records of the Albany Chapter of AAUP contain minutes (1944-59), correspondence and
-				memoranda (1950-65), leaflets (1946, 1951-58, 1965-74), Albany chapter newsletters
-				(1963-71), and presidents' files (1944-60).  These records document the activities of
-				the local chapter of AAUP.  Of special interest is the opportunity these provide to
-				show how AAUP reacted to the introduction of unionization to a professional workforce.
-				The presidents' files contain correspondence, reports, memoranda, and other material
-				held by the presidents of the Albany chapter.  Records from the national association
-				include chapter letters (1944-64), which were distributed to all members of AAUP.
-			</p>
-      <p>
-				For related records see the American Association of University Women Albany Chapter
-				Records and the United University Professions Albany Chapter Records.
-			</p>
+    <scopecontent id="aspace_e7b3b4f4d2e892d174a51ebf97a82320">
+      <head>Scope and Contents</head>
+      <p>The overreaching goal of AAUP as a whole and the Albany Chapter as one of its affiliates was the establishment and protection of academic freedom. This topic was a frequent subject in the minutes and correspondence of the chapter. Different aspects of this freedom were in play at different times during the chapter's history. In the early 1950's freedom of debate was an important topic as was the concept of loyalty oaths (which AAUP argued were a means to undermine academic freedom). During the mid-1960s the faculty workload was of great concern to the chapter, and by the late 1960's, when labor organizations were beginning their organizing campaigns on SUNY campuses, collective bargaining for professors became a pressing concern. </p>
+      <p>  The records of the Albany Chapter of AAUP contain minutes (1944-59), correspondence and memoranda (1950-65), leaflets (1946, 1951-58, 1965-74), Albany chapter newsletters (1963-71), and presidents' files (1944-60). These records document the activities of the local chapter of AAUP. Of special interest is the opportunity these provide to show how AAUP reacted to the introduction of unionization to a professional workforce. The presidents' files contain correspondence, reports, memoranda, and other material held by the presidents of the Albany chapter. Records from the national association include chapter letters (1944-64), which were distributed to all members of AAUP. </p>
+      <p>  For related records see the American Association of University Women Albany Chapter Records and the United University Professions Albany Chapter Records.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_1dfefde1f02d9f8999dd70da7618c10c">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following boxes:</p>
-      <list type="simple">
-        <item>Box 1</item>
-        <item>Box 2</item>
-      </list>
     </arrangement>
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Education</subject>
-      <subject source="meg" encodinganalog="650">Albany, New York</subject>
-      <corpname encodinganalog="610" source="local">American Association of University Professors, Albany Chapter</corpname>
-      <corpname encodinganalog="610" source="lcsh">American Association of University Professors</corpname>
-      <subject encodinganalog="650" source="lcsh">State University of New York at Albany--History</subject>
-      <geogname encodinganalog="651" source="lcsh">New York (State)</geogname>
-      <genreform encodinganalog="655" source="aat">Constitutions</genreform>
-      <genreform encodinganalog="655" source="aat">Bylaws</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Memorandums</genreform>
-      <genreform encodinganalog="655" source="aat">Leaflets</genreform>
-      <genreform encodinganalog="655" source="aat">Minutes</genreform>
-      <genreform encodinganalog="655" source="aat">Newsletters</genreform>
-    </controlaccess>
-    <prefercite>
+    <prefercite id="aspace_a513fdffd758f00d0862d7ced73d92da">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, American Association of University Professors, Albany Chapter Records, 1944-1974. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, American Association of University Professors, Albany Chapter Records, 1944-1974. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
+    <controlaccess>
+      <subject source="meg">Education</subject>
+      <subject source="meg">Albany, New York</subject>
+      <subject source="lcsh">State University of New York at Albany--History</subject>
+      <geogname source="lcsh">New York (State)</geogname>
+      <genreform source="aat">Constitutions</genreform>
+      <genreform source="aat">Bylaws</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Memorandums</genreform>
+      <genreform source="aat">Leaflets</genreform>
+      <genreform source="aat">Minutes</genreform>
+      <genreform source="aat">Newsletters</genreform>
+      <corpname source="local">American Association of University Professors, Albany Chapter</corpname>
+      <corpname source="lcsh">American Association of University Professors</corpname>
+    </controlaccess>
     <dsc>
-      <head>Container List</head>
-      <c01 id="nam_apap001-1">
+      <c01 id="aspace_d00a955f02c1d971db6ed8248cb0c785" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>Academic Freedom for Students</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965/1966">1965-1966</unitdate>
+          <unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate>
+          <container id="aspace_32ee4ffb89bab4019515b78bce3c1ec2" label="Mixed Materials" type="Box">1 (American Association of University Professors, Alb)</container>
+          <container id="aspace_b1ea4e8268a1147bd6e3d02343518258" parent="aspace_32ee4ffb89bab4019515b78bce3c1ec2" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap001-2">
+      <c01 id="aspace_f48224dc0f798feda1c9f50fa8551ab7" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Chapter Letters from American Association of University Professors</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1944/1956">1944-1956</unitdate>
+          <unitdate normal="1944/1956" type="inclusive">1944-1956</unitdate>
+          <container id="aspace_5cc31fbfd4a679261f77b5b4178e3c59" label="Mixed Materials" type="Box">1 (American Association of University Professors, Alb)</container>
+          <container id="aspace_71336abc07d1fe0aadfbb3ad7bff6f9a" parent="aspace_5cc31fbfd4a679261f77b5b4178e3c59" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap001-3">
+      <c01 id="aspace_4dbfe21d1453c3f7e88eddd459f806be" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>Chapter Letters from American Association of University Professors</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1957/1959">1957-1959</unitdate>
+          <unitdate normal="1957/1959" type="inclusive">1957-1959</unitdate>
+          <container id="aspace_79d2e72006d406285cb560bfb702079a" label="Mixed Materials" type="Box">1 (American Association of University Professors, Alb)</container>
+          <container id="aspace_e5a0ede8cf86e1c305dbd221be96daf8" parent="aspace_79d2e72006d406285cb560bfb702079a" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap001-4">
+      <c01 id="aspace_9c2f9e67e5116b5bb54ef6ef422491bb" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Chapter Letters from American Association of University Professors</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960/1964">1960-1964</unitdate>
+          <unitdate normal="1960/1964" type="inclusive">1960-1964</unitdate>
+          <container id="aspace_abbe1b5b47c1b91d018ce2e8cc0a044a" label="Mixed Materials" type="Box">1 (American Association of University Professors, Alb)</container>
+          <container id="aspace_0253bff8aa66f936ed1182b79986cdb0" parent="aspace_abbe1b5b47c1b91d018ce2e8cc0a044a" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap001-5">
+      <c01 id="aspace_0ff2631ab9263b7bf99a7705e1268743" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Constitution and Bylaws of Albany Chapter of AAUP</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1948/1949">1948-1949</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965/1966">1965-1966</unitdate>
+          <unitdate normal="1948/1949" type="inclusive">1948-1949</unitdate>
+          <unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate>
+          <container id="aspace_09be24c89e55c5cff56f6217e700cdf8" label="Mixed Materials" type="Box">1 (American Association of University Professors, Alb)</container>
+          <container id="aspace_4e07061631c4d11d9adde722a753b142" parent="aspace_09be24c89e55c5cff56f6217e700cdf8" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap001-6">
+      <c01 id="aspace_b40ab98b5f1e14907bb54656330beeb4" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Correspondence and Memoranda</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950/1954">1950-1954</unitdate>
+          <unitdate normal="1950/1954" type="inclusive">1950-1954</unitdate>
+          <container id="aspace_fdce8089c619b93600d4fb434a88e5a9" label="Mixed Materials" type="Box">1 (American Association of University Professors, Alb)</container>
+          <container id="aspace_50116413c317db7db06d108f6c07776e" parent="aspace_fdce8089c619b93600d4fb434a88e5a9" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap001-7">
+      <c01 id="aspace_ecdc79a1404040034ebf75756d0547d0" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Correspondence and Memoranda</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1955/1959">1955-1959</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961">1961</unitdate>
+          <unitdate normal="1955/1959" type="inclusive">1955-1959</unitdate>
+          <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+          <container id="aspace_a5cbe927729783f012a06930ba36c277" label="Mixed Materials" type="Box">1 (American Association of University Professors, Alb)</container>
+          <container id="aspace_3c3528995c30c61fe81c594dd9ca3f57" parent="aspace_a5cbe927729783f012a06930ba36c277" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_apap001-8">
+      <c01 id="aspace_f4c8ed5aa5ac496a0c673fe2d7bf2d2c" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
           <unittitle>Correspondence and Memoranda</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/1965">1963-1965</unitdate>
+          <unitdate normal="1963/1965" type="inclusive">1963-1965</unitdate>
+          <container id="aspace_d50774bf86307fd491710841550c4f3f" label="Mixed Materials" type="Box">1 (American Association of University Professors, Alb)</container>
+          <container id="aspace_f7ac03e78fa380a1f2639c95b0fbc59b" parent="aspace_d50774bf86307fd491710841550c4f3f" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_apap001-9">
+      <c01 id="aspace_96119c43b128a8a0c1dc4b73fb6e7320" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Faculty Leadership Committee</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959/1960">1959-1960</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
+          <unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate>
+          <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+          <container id="aspace_b0c296078eacbc88acbdbace88485f35" label="Mixed Materials" type="Box">1 (American Association of University Professors, Alb)</container>
+          <container id="aspace_b133e214ae0e0120be54d37cff4bdc67" parent="aspace_b0c296078eacbc88acbdbace88485f35" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_apap001-10">
+      <c01 id="aspace_67f7b780ec886b25a9101a67d3ee665b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Information for Chapter Officers</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950/1960">ca. 1955</unitdate>
+          <unitdate normal="1950/1960" type="inclusive">ca. 1955</unitdate>
+          <container id="aspace_d82d70392092ac58da037c82ee4f79b0" label="Mixed Materials" type="Box">1 (American Association of University Professors, Alb)</container>
+          <container id="aspace_76ab7d8023e2b058cb631fdedfeb3b85" parent="aspace_d82d70392092ac58da037c82ee4f79b0" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_apap001-11">
+      <c01 id="aspace_9446adee5917490f9c52b7ad0ac49d69" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Leaflets--Albany Chapter of AAUP</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1946">1946</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951/1958">1951-1958</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965/1974">1965-1974</unitdate>
+          <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+          <unitdate normal="1951/1958" type="inclusive">1951-1958</unitdate>
+          <unitdate normal="1965/1974" type="inclusive">1965-1974</unitdate>
+          <container id="aspace_5144349d2d82f0e23fafb3f5fe2bd35b" label="Mixed Materials" type="Box">1 (American Association of University Professors, Alb)</container>
+          <container id="aspace_266daaf06411924d4e26066abd443071" parent="aspace_5144349d2d82f0e23fafb3f5fe2bd35b" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_apap001-12">
+      <c01 id="aspace_fef854f8f1c37b958ee52fe12aea441a" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">12</container>
           <unittitle>Loyalty Oath at University of Oklahoma</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1952/1953">1952-1953</unitdate>
+          <unitdate normal="1952/1953" type="inclusive">1952-1953</unitdate>
+          <container id="aspace_3fc5dee40037a7fe1a85a9f3c7da5741" label="Mixed Materials" type="Box">1 (American Association of University Professors, Alb)</container>
+          <container id="aspace_dcc0f2ca58c1cf39dcd19fe55ed961eb" parent="aspace_3fc5dee40037a7fe1a85a9f3c7da5741" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_apap001-13">
+      <c01 id="aspace_10c0b4d754b3127bdd1abbab0b035873" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">1</container>
           <unittitle>Membership in AAUP on Campus and Nationally</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956/1959">1956-1959</unitdate>
+          <unitdate normal="1956/1959" type="inclusive">1956-1959</unitdate>
+          <container id="aspace_769804269df0b17f2c0ad38f5f7bdaef" label="Mixed Materials" type="Box">2 (American Association of University Professors, Alb)</container>
+          <container id="aspace_bfdb7876e1d17f0a2801f84147e1c64b" parent="aspace_769804269df0b17f2c0ad38f5f7bdaef" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap001-14">
+      <c01 id="aspace_e3dc8897b7d0752ce51984e7d0164279" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">2</container>
           <unittitle>Minutes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1944/1959">1944-1959</unitdate>
+          <unitdate normal="1944/1959" type="inclusive">1944-1959</unitdate>
+          <container id="aspace_7e2c7c3ee7b307f3daa0011fd4b2dcc8" label="Mixed Materials" type="Box">2 (American Association of University Professors, Alb)</container>
+          <container id="aspace_c16752f6bc1c43517125573e6ad126f2" parent="aspace_7e2c7c3ee7b307f3daa0011fd4b2dcc8" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap001-15">
+      <c01 id="aspace_6b497a4faaa964749c0d8feca3158e22" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">3</container>
           <unittitle>Newsletter of Albany Chapter</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/1966">1963-1966</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1971">1969-1971</unitdate>
+          <unitdate normal="1963/1966" type="inclusive">1963-1966</unitdate>
+          <unitdate normal="1969/1971" type="inclusive">1969-1971</unitdate>
+          <container id="aspace_21a45823f37b228d33144a3db9ad2d48" label="Mixed Materials" type="Box">2 (American Association of University Professors, Alb)</container>
+          <container id="aspace_a216080b75cb77bb415b59289eafc5a7" parent="aspace_21a45823f37b228d33144a3db9ad2d48" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap001-16">
+      <c01 id="aspace_617b528e846b978f6832ea37bf902aad" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">4</container>
           <unittitle>New York State Conference of Chapters of AAUP</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1953">1953</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956/1959">1956-1959</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1969">1968-1969</unitdate>
+          <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+          <unitdate normal="1956/1959" type="inclusive">1956-1959</unitdate>
+          <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
+          <container id="aspace_f523af0dcd690be70d9e708e30523669" label="Mixed Materials" type="Box">2 (American Association of University Professors, Alb)</container>
+          <container id="aspace_40f0781629f4dbeea601b1cdb75e44fd" parent="aspace_f523af0dcd690be70d9e708e30523669" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap001-17">
+      <c01 id="aspace_6af80b00f63abfce95ce3a7aaea927fb" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">5</container>
           <unittitle>Non-Communist Oath at University of California</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950/1951">1950-1951</unitdate>
+          <unitdate normal="1950/1951" type="inclusive">1950-1951</unitdate>
+          <container id="aspace_34f24f51331e77d769cbae737dad86f4" label="Mixed Materials" type="Box">2 (American Association of University Professors, Alb)</container>
+          <container id="aspace_9d4cdfc19158863a5faf9d02d0181e63" parent="aspace_34f24f51331e77d769cbae737dad86f4" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap001-18">
+      <c01 id="aspace_c05f67ca900fec18cf7cbc0d9f7c9cf2" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">6</container>
           <unittitle>President's Files</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1944/1950">1944-1950</unitdate>
+          <unitdate normal="1944/1950" type="inclusive">1944-1950</unitdate>
+          <container id="aspace_c5c54807b94a3aac25e896a40d34b3ee" label="Mixed Materials" type="Box">2 (American Association of University Professors, Alb)</container>
+          <container id="aspace_339814c958a7aa268e371df775cf4597" parent="aspace_c5c54807b94a3aac25e896a40d34b3ee" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap001-19">
+      <c01 id="aspace_7de6741b138ae604d6160dfc1157bb13" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">7</container>
           <unittitle>President's Files</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1950/1953">1950-1953</unitdate>
+          <unitdate normal="1950/1953" type="inclusive">1950-1953</unitdate>
+          <container id="aspace_80163556aeaff41d7b1127b6f26b57d6" label="Mixed Materials" type="Box">2 (American Association of University Professors, Alb)</container>
+          <container id="aspace_dcdb3168bb66ed5d651b450c3d87913f" parent="aspace_80163556aeaff41d7b1127b6f26b57d6" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_apap001-20">
+      <c01 id="aspace_0662345536fd2301097206584a41ac8d" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">8</container>
           <unittitle>President's Files</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1953/1957">1953-1957</unitdate>
+          <unitdate normal="1953/1957" type="inclusive">1953-1957</unitdate>
+          <container id="aspace_975e8d530dbb67bfb0195c91551dfbc0" label="Mixed Materials" type="Box">2 (American Association of University Professors, Alb)</container>
+          <container id="aspace_dfa1c6c1f79228e728737972ec3495cd" parent="aspace_975e8d530dbb67bfb0195c91551dfbc0" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_apap001-21">
+      <c01 id="aspace_15f4dd384376f576d3c0752308c8d2cc" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">9</container>
           <unittitle>President's Files</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1957/1960">1957-1960</unitdate>
+          <unitdate normal="1957/1960" type="inclusive">1957-1960</unitdate>
+          <container id="aspace_5bd8962ca9b1629f1fd00b1ec4e46efc" label="Mixed Materials" type="Box">2 (American Association of University Professors, Alb)</container>
+          <container id="aspace_4fbc44e01861e41887359ad4533543ac" parent="aspace_5bd8962ca9b1629f1fd00b1ec4e46efc" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_apap001-22">
+      <c01 id="aspace_8d19ba69a111e35bca147afcfc8c134c" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">10</container>
           <unittitle>Self-Grading Compensation Survey</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate>
+          <unitdate normal="1961/1962" type="inclusive">1961-1962</unitdate>
+          <container id="aspace_259941a71c324c47a74bb429defe0897" label="Mixed Materials" type="Box">2 (American Association of University Professors, Alb)</container>
+          <container id="aspace_55c835857d79a0a8fe1e1780fe56b3fe" parent="aspace_259941a71c324c47a74bb429defe0897" type="Folder">10</container>
         </did>
       </c01>
     </dsc>

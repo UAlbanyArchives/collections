@@ -1,714 +1,587 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap178">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="nalsu" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" url="http://library.albany.edu/speccoll/findaids/apap178.xml" identifier="##">nam_apap178</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap178">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap178.xml">apap178</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>HENRY S. MANLEY PAPERS (APAP178)<date normal="1782/1960" type="inclusive">1782-1960</date></titleproper>
+        <titleproper>Manley, Henry S.; Papers <num>apap178</num></titleproper>
         <author>Prepared by Evan Rallis with the assistance of Kayla Misner</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2012">Copyright 2012 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2012</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Kabel Stanwicks<date normal="2012">2012</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 14:50:40 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2012</date>
+        <item>Encoded in EAD by Kabel Stanwicks</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>HENRY S. MANLEY PAPERS (APAP178)<date normal="1849/1960" type="inclusive">1849-1960</date></titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2012</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap178</unitid>
-      <unittitle>Henry S. Manley Papers<unitdate type="inclusive" normal="1849/1960" label="Date:"> 1849-1960</unitdate></unittitle>
-      <origination>
-        <persname encodinganalog="100" source="lcsh">Manley, Henry S. (Henry Sackett), 1892-1967</persname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">2.26</extent>
-      </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">The Henry S. Manley Papers contain materials related to Manley's legal 
-      career, research materials related to Native American issues (including material used for Manley's 
-      book <emph render="italic">The Treaty of Fort Stanwix, 1784</emph>), and some of his personal papers.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Henry S. Manley Papers<unitdate normal="1849/1960" type="inclusive">1849-1960</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="lcsh">Manley, Henry S. (Henry Sackett), 1892-1967</persname>
+      </origination>
+      <unitid>apap178</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.26 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_ebc7b5aca9379d62ce966e88bc8a279f">The Henry S. Manley Papers contain materials related to Manley's legal career, research materials related to Native American issues (including material used for Manley's book <emph render="italic">The Treaty of Fort Stanwix, 1784</emph>), and some of his personal papers.</abstract>
+      <langmaterial id="aspace_1d9ba57d6a8184d850b35aabb4206332">English</langmaterial>
+      <physloc id="aspace_b48743c0a6f4cc7d5e773fa315dee704">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_8efaa6080e8b3771b0a958a903f2280e">
+      <head>Processing Information</head>
+      <p>Processed in 2012 by Prepared by Evan Rallis with the assistance of Kayla Misner.</p>
+    </processinfo>
+    <accessrestrict id="aspace_066194283abadc08c5fbf6f229492db1">
       <head>Access</head>
-      <p> Access to this record group is unrestricted. </p>
+      <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_64509ed0e85145bfde021bbb1bfdde29">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_cff258aa14febb4d22e908b06dec0b93">
       <head>Acquisition Information</head>
-      <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander 
-      Department Special Collections and Archives, by the family of Henry S. Manley in July 2004. </p>
+      <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department Special Collections and Archives, by the family of Henry S. Manley in July 2004.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_31d793030bdf052c8d3e8305038bcac2">
       <head>Biographical Sketch</head>
-      <p>Henry Sackett Manley was born in Smith Mills in western New York on January 29, 1892. He died 
-      September 14, 1967, in Lakeland, Florida.[2] Manley graduated from Northwestern University College of 
-      Law in 1916. In 1917-1918, he was a pilot in the U.S. Army Air Corps, becoming an instructor for pilots 
-      going into bomber assignments. From 1920 to 1924, Manley practiced law in Jamestown, NY, where he became 
-      a partner in the firm Jackson, Manley and Herrick.[3] </p>
-      <p>From 1925 to 1928, Manley served as an attorney in the Office of the Attorney General, New York State. 
-      He argued cases in the appellate courts, including the New York Court of Appeals. The family has a letter 
-      from the famous judge Benjamin Cardozo, of the Court of Appeals, complimenting Manley on his advocacy 
-      (Cardozo later served on the U.S. Supreme Court, but was best known for his opinions written as a Court of 
-      Appeals judge). </p>
-      <p>From 1931 to 1936, Manley was Counsel to the New York State Department of Agriculture and Markets. 
-      He was a key figure in developing the New York State Milk Control Board. This involved a system 
-      which was intended to assure concerned parties that farmers, as well as grocers would receive a 
-      fair price and that milk would reach consumers, including mothers who needed it for their 
-      babies. Previously there was a crisis when farmers were distraught over low prices for their 
-      milk during which milk trucks had been overturned and the State Police were involved. The 
-      Milk Control Board and the related milk control system were designed to end this crisis and 
-      apparently did so satisfactorily. Manley defended the former milk control system in the U.S. Supreme 
-      Court in Nebbia v. New York, decided in 1934 (reported in 291 U.S. 502). The case, which is considered 
-      a landmark Supreme Court decision, is utilized in constitutional law casebooks in law schools. </p>
-      <p>From 1936 to 1942,  Manley was a partner in the law practice of Staley, Tobin and Manley, 100 State 
-      Street, Albany, NY. Also during this period he had his own practice, with offices at Green Valley Farm, 
-      RFD Strykersville, NY, as well as Syracuse and Albany. He and his wife Dorothy owned a 300 acre farm 
-      which they named Green Valley Farm. The farm, on what is now called Manley Road, Town of Bennington, 
-      Wyoming County was located about 30 miles East of Buffalo. It was cited as a "Century Farm" by the New 
-      York State Agricultural Society, having been in Dorothy Manley's family since about 1830. Dorothy French 
-      Manley's forbearer, Pomeroy Warren, received title to this land from the Holland Land Company in about 
-      1830.</p>
-      <p>From 1943 until his retirement in 1955, Manley worked in the New York State Department of Law in 
-      Albany. As an Assistant Attorney General in the Appeals and Opinions Bureau, he argued many cases in the 
-      U.S. Supreme Court, and even more in the New York State Court of Appeals. In 1955, he became Solicitor 
-      General under Jacob Javits, who had been elected Attorney General in November 1954 in a contest with 
-      Franklin D. Roosevelt, Jr. The Solicitor General, who serves directly under the Attorney General, is 
-      responsible for overseeing appeals and opinions in the Department of Law. </p>
-      <p>Manley's book, <emph render="italic">The Treaty of Fort Stanwix, 1784</emph> was published in 1932 by the Rome Sentinel 
-      Publishing Company, Rome, NY. Previously, little had been written about this important treaty. It 
-      involved commissioners on behalf of the United States meeting in October 1784 with six Indian nations 
-      on the site of the ruined fort where Rome, NY is now situated. Manley conducted research over a 5-6 year 
-      period, utilizing sources in Canada, the Harvard College Library, the Library of Congress, the New York 
-      City Public Library, the New York Historical Society, and elsewhere. He also published numerous articles 
-      in the journal of the New York State Historical Association regarding Indians and Indian law, including 
-      "Red Jacket's Last Campaign." He published "Buying Buffalo from the Indians" in the journal of the 
-      Buffalo Historical Society. </p>
-      <p>His articles in the <emph render="italic">Cornell Law Quarterly</emph> (now known as <emph render="italic">Cornell Law Review</emph>) included 
-      "Mr. Justice Per Curiam." Widely read and admired, the Lawyers Cooperative Publishing Company, Rochester, 
-      NY, re-published the article in its nationally distributed journal, <emph render="italic">Case and Comment</emph>. The article 
-      dealt with an imaginary judge who Henry Manley placed humorously, and also in a serious vein, as the 
-      author of hundreds of court decisions that were signed "Per Curiam" (meaning "for the court"). By studying 
-      such decisions (a laborious research task), he was able to conclude that they were often the product of 
-      courts which did not want to come up with a decision ascribed to a particular judge or judges (as for 
-      instance in politically charged cases involving the interpretation of election laws). Another article, 
-      published in the <emph render="italic">Albany Law Review</emph> under the title "Nebbia Plus Fifteen," revisited the famous 
-      Nebbia U.S. Supreme Court case. His study, the "Manley Family: New England and New York 1650-1950," a 
-      forty-two page work based upon considerable research over a period of years, was completed in October 
-      1965, two years before his death. Numerous letters of his were also published in the <emph render="italic">New York Times</emph>. </p>
-      <p>As an Assistant Attorney General in the New York State Department of Law, Manley represented the 
-      Shinnecock Indians (Suffolk County, Long Island) in successfully fighting off developers who coveted land 
-      the tribe claimed. In 1939, he represented Hattie Charles, who asserted she was an Indian, in a legal 
-      matter (U.S. v. Hattie Charles). There were conflicting positions on whether New York State or federal 
-      law applied. In question was ownership of a piece of land, probably including a house, and probably 
-      located on an Indian reservation. Henry Manley was in private practice at this time. It appears he took 
-      on the case <emph render="italic">pro bono</emph> since Hattie Charles was apparently without funds. </p>
-      <p>Based upon his reputation as a specialist in New York State Indian law in about 1956, Manley was 
-      retained by the New York State Power Authority to research and advise regarding litigation that went to 
-      the U.S. Supreme Court. The litigation involved the question of whether or not the Power Authority could 
-      obtain title (by condemnation-for which compensation would be paid) to land owned by the Tuscarora Tribe. 
-      The Power Authority asserted the need to utilize this land to build a reservoir as part of a major power-
-      generating project near Niagara Falls, NY. The Authority was successful in obtaining title to the land. </p>
-      <p>Henry Manley was a long-standing member of the Constitutional Law Committee of the New York State Bar 
-      Association. He was appointed by the Governor of New York as a member of the Letchworth State Park 
-      Commission in 1959 and continued serving probably until his death in 1967. Letchworth is a very large 
-      State park in western New York. Part of it was in Wyoming County, the county where Green Valley Farm was 
-      located, where Manley lived after retiring from the New York State Department of Law in 1955. Manley was 
-      a member of the Wyoming County Republican Committee from about 1957 to 1962. He was an Adjunct Professor 
-      at the University of Buffalo Law School (now part of the State University of New York at Buffalo) during 
-      the spring semester in 1948.</p>
-      <p>
-Footnotes:</p>
-      <p>
-[1] Information regarding Henry S. Manley as presented by his son Robert Manley and daughter-in-law Phylis 
-Manley in conversation with Amy C. Schindler, Curator of Manuscripts, M.E. Grenander Department of Special 
-Collections and Archives, University at Albany, State University of New York, July 6, 2004. Additional 
-research between then and August 4, 2004,  augmented this. Written and word-processed by Robert Manley, 
-July 22 and 28, and August 4, 2004. Edited by Department of Special Collections and Archives staff for use 
-in finding aid, August 2006.</p>
-      <p>
-[2] An obituary can be found in the <emph render="italic">New York Times</emph>. There is also material on Henry S. Manley on page 
-798 of <emph render="italic">Who's Who in New York</emph>, 1960 (thirteenth edition), Lewis Historical Publishing Company, Inc., 
-New York City.</p>
-      <p>
-[3] Robert Jackson, the lead partner in this firm, later became Attorney General of the United States 
-(during the presidency of Franklin D. Roosevelt), an Associate Justice of the U.S. Supreme Court, and Chief 
-U.S. Prosecutor in the Nuremberg war crimes trials. For more on Jackson, see Eugene C. Gerhart's biography 
-of him, <emph render="italic">America's Advocate</emph>, published in 1958 by the Bobbs-Merrill Co., Inc, Indianapolis, Indiana.
-</p>
+      <p>Henry Sackett Manley was born in Smith Mills in western New York on January 29, 1892. He died September 14, 1967, in Lakeland, Florida.[2] Manley graduated from Northwestern University College of Law in 1916. In 1917-1918, he was a pilot in the U.S. Army Air Corps, becoming an instructor for pilots going into bomber assignments. From 1920 to 1924, Manley practiced law in Jamestown, NY, where he became a partner in the firm Jackson, Manley and Herrick.[3] </p>
+      <p> From 1925 to 1928, Manley served as an attorney in the Office of the Attorney General, New York State. He argued cases in the appellate courts, including the New York Court of Appeals. The family has a letter from the famous judge Benjamin Cardozo, of the Court of Appeals, complimenting Manley on his advocacy (Cardozo later served on the U.S. Supreme Court, but was best known for his opinions written as a Court of Appeals judge). </p>
+      <p> From 1931 to 1936, Manley was Counsel to the New York State Department of Agriculture and Markets. He was a key figure in developing the New York State Milk Control Board. This involved a system which was intended to assure concerned parties that farmers, as well as grocers would receive a fair price and that milk would reach consumers, including mothers who needed it for their babies. Previously there was a crisis when farmers were distraught over low prices for their milk during which milk trucks had been overturned and the State Police were involved. The Milk Control Board and the related milk control system were designed to end this crisis and apparently did so satisfactorily. Manley defended the former milk control system in the U.S. Supreme Court in Nebbia v. New York, decided in 1934 (reported in 291 U.S. 502). The case, which is considered a landmark Supreme Court decision, is utilized in constitutional law casebooks in law schools. </p>
+      <p> From 1936 to 1942, Manley was a partner in the law practice of Staley, Tobin and Manley, 100 State Street, Albany, NY. Also during this period he had his own practice, with offices at Green Valley Farm, RFD Strykersville, NY, as well as Syracuse and Albany. He and his wife Dorothy owned a 300 acre farm which they named Green Valley Farm. The farm, on what is now called Manley Road, Town of Bennington, Wyoming County was located about 30 miles East of Buffalo. It was cited as a "Century Farm" by the New York State Agricultural Society, having been in Dorothy Manley's family since about 1830. Dorothy French Manley's forbearer, Pomeroy Warren, received title to this land from the Holland Land Company in about 1830.</p>
+      <p> From 1943 until his retirement in 1955, Manley worked in the New York State Department of Law in Albany. As an Assistant Attorney General in the Appeals and Opinions Bureau, he argued many cases in the U.S. Supreme Court, and even more in the New York State Court of Appeals. In 1955, he became Solicitor General under Jacob Javits, who had been elected Attorney General in November 1954 in a contest with Franklin D. Roosevelt, Jr. The Solicitor General, who serves directly under the Attorney General, is responsible for overseeing appeals and opinions in the Department of Law. </p>
+      <p> Manley's book, <emph render="italic">The Treaty of Fort Stanwix, 1784</emph> was published in 1932 by the Rome Sentinel Publishing Company, Rome, NY. Previously, little had been written about this important treaty. It involved commissioners on behalf of the United States meeting in October 1784 with six Indian nations on the site of the ruined fort where Rome, NY is now situated. Manley conducted research over a 5-6 year period, utilizing sources in Canada, the Harvard College Library, the Library of Congress, the New York City Public Library, the New York Historical Society, and elsewhere. He also published numerous articles in the journal of the New York State Historical Association regarding Indians and Indian law, including "Red Jacket's Last Campaign." He published "Buying Buffalo from the Indians" in the journal of the Buffalo Historical Society. </p>
+      <p> His articles in the <emph render="italic">Cornell Law Quarterly</emph> (now known as <emph render="italic">Cornell Law Review</emph>) included "Mr. Justice Per Curiam." Widely read and admired, the Lawyers Cooperative Publishing Company, Rochester, NY, re-published the article in its nationally distributed journal, <emph render="italic">Case and Comment</emph>. The article dealt with an imaginary judge who Henry Manley placed humorously, and also in a serious vein, as the author of hundreds of court decisions that were signed "Per Curiam" (meaning "for the court"). By studying such decisions (a laborious research task), he was able to conclude that they were often the product of courts which did not want to come up with a decision ascribed to a particular judge or judges (as for instance in politically charged cases involving the interpretation of election laws). Another article, published in the <emph render="italic">Albany Law Review</emph> under the title "Nebbia Plus Fifteen," revisited the famous Nebbia U.S. Supreme Court case. His study, the "Manley Family: New England and New York 1650-1950," a forty-two page work based upon considerable research over a period of years, was completed in October 1965, two years before his death. Numerous letters of his were also published in the <emph render="italic">New York Times</emph>. </p>
+      <p> As an Assistant Attorney General in the New York State Department of Law, Manley represented the Shinnecock Indians (Suffolk County, Long Island) in successfully fighting off developers who coveted land the tribe claimed. In 1939, he represented Hattie Charles, who asserted she was an Indian, in a legal matter (U.S. v. Hattie Charles). There were conflicting positions on whether New York State or federal law applied. In question was ownership of a piece of land, probably including a house, and probably located on an Indian reservation. Henry Manley was in private practice at this time. It appears he took on the case <emph render="italic">pro bono</emph> since Hattie Charles was apparently without funds. </p>
+      <p> Based upon his reputation as a specialist in New York State Indian law in about 1956, Manley was retained by the New York State Power Authority to research and advise regarding litigation that went to the U.S. Supreme Court. The litigation involved the question of whether or not the Power Authority could obtain title (by condemnation-for which compensation would be paid) to land owned by the Tuscarora Tribe. The Power Authority asserted the need to utilize this land to build a reservoir as part of a major power- generating project near Niagara Falls, NY. The Authority was successful in obtaining title to the land. </p>
+      <p> Henry Manley was a long-standing member of the Constitutional Law Committee of the New York State Bar Association. He was appointed by the Governor of New York as a member of the Letchworth State Park Commission in 1959 and continued serving probably until his death in 1967. Letchworth is a very large State park in western New York. Part of it was in Wyoming County, the county where Green Valley Farm was located, where Manley lived after retiring from the New York State Department of Law in 1955. Manley was a member of the Wyoming County Republican Committee from about 1957 to 1962. He was an Adjunct Professor at the University of Buffalo Law School (now part of the State University of New York at Buffalo) during the spring semester in 1948.</p>
+      <p> Footnotes:</p>
+      <p> [1] Information regarding Henry S. Manley as presented by his son Robert Manley and daughter-in-law Phylis Manley in conversation with Amy C. Schindler, Curator of Manuscripts, M.E. Grenander Department of Special Collections and Archives, University at Albany, State University of New York, July 6, 2004. Additional research between then and August 4, 2004, augmented this. Written and word-processed by Robert Manley, July 22 and 28, and August 4, 2004. Edited by Department of Special Collections and Archives staff for use in finding aid, August 2006.</p>
+      <p> [2] An obituary can be found in the <emph render="italic">New York Times</emph>. There is also material on Henry S. Manley on page 798 of <emph render="italic">Who's Who in New York</emph>, 1960 (thirteenth edition), Lewis Historical Publishing Company, Inc., New York City.</p>
+      <p> [3] Robert Jackson, the lead partner in this firm, later became Attorney General of the United States (during the presidency of Franklin D. Roosevelt), an Associate Justice of the U.S. Supreme Court, and Chief U.S. Prosecutor in the Nuremberg war crimes trials. For more on Jackson, see Eugene C. Gerhart's biography of him, <emph render="italic">America's Advocate</emph>, published in 1958 by the Bobbs-Merrill Co., Inc, Indianapolis, Indiana.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>This collection contains materials related to Manley's legal career, including transcripts, briefs, 
-       testimony, and evidence from legal cases. It also includes photocopies of manuscripts, reports, 
-       publications, notes, correspondence, news clippings, photographs, blueprints, and maps. One of the 
-       strengths of this collection is the amount of material pertaining to Native Americans. Another strength 
-       is a fair amount of research material that relates to Manley's book, <emph render="italic">The Treaty 
-       of Fort Stanwix, 1784</emph>. The Legal Papers Series is not close to comprehensive concerning Manley's 
-       legal career. The volume of material from approximately 1930 to1950, in particular, is rather small. 
-       Nevertheless, the collection does include a good sampling of the cases with which he was involved. The 
-       Personal Papers Series is quite small, as this is not the focus of the collection. </p>
-      <p>About one half of the material originally transferred to the Department consisted of published 
-       material, most of which Manley presumably used for research. Much of it has been separated from the 
-       collection and is being added to the book collection of the M.E. Grenander Department of Special 
-       Collections and Archives or the University at Albany Libraries. A complete list of publications is 
-       available from the Department of Special Collections and Archives. The items already cataloged can be 
-       searched in Minerva, the University at Albany Libraries' online catalog. </p>
-      <p>Related collections in the M.E. Grenander Department of Special Collections and Archives concerning 
-       attorneys include the Daniel Hawks papers, the Severyn Bruyn notebook, and the Leonard Gansevoort 
-       register which can be found at the Business, Literary, and Miscellany Collection page.</p>
+    <scopecontent id="aspace_141720c63a5e0a0eae20f40632a5c959">
+      <head>Scope and Contents</head>
+      <p>This collection contains materials related to Manley's legal career, including transcripts, briefs, testimony, and evidence from legal cases. It also includes photocopies of manuscripts, reports, publications, notes, correspondence, news clippings, photographs, blueprints, and maps. One of the strengths of this collection is the amount of material pertaining to Native Americans. Another strength is a fair amount of research material that relates to Manley's book, <emph render="italic">The Treaty of Fort Stanwix, 1784</emph>. The Legal Papers Series is not close to comprehensive concerning Manley's legal career. The volume of material from approximately 1930 to1950, in particular, is rather small. Nevertheless, the collection does include a good sampling of the cases with which he was involved. The Personal Papers Series is quite small, as this is not the focus of the collection. </p>
+      <p> About one half of the material originally transferred to the Department consisted of published material, most of which Manley presumably used for research. Much of it has been separated from the collection and is being added to the book collection of the M.E. Grenander Department of Special Collections and Archives or the University at Albany Libraries. A complete list of publications is available from the Department of Special Collections and Archives. The items already cataloged can be searched in Minerva, the University at Albany Libraries' online catalog. </p>
+      <p> Related collections in the M.E. Grenander Department of Special Collections and Archives concerning attorneys include the Daniel Hawks papers, the Severyn Bruyn notebook, and the Leonard Gansevoort register which can be found at the Business, Literary, and Miscellany Collection page.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_612c9db132319a72ae5f22aae7ccaae9">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series:</p>
-      <list type="simple">
-        <item>Series 1 - Legal Papers, 1925-1960</item>
-        <item>Series 2 - Research Material, 1849-1955</item>
-        <item>Series 3 - Personal Papers, 1928-1934</item>
-      </list>
       <p>All series are arranged alphabetically.</p>
     </arrangement>
-    <controlaccess>
-      <subject source="meg" encodinganalog="650">Agriculture</subject>
-      <subject source="meg" encodinganalog="650">Public Servants </subject>
-      <subject source="meg" encodinganalog="650">Native Americans</subject>
-      <subject source="meg" encodinganalog="650">Military and Armed Conflict</subject>
-      <subject source="meg" encodinganalog="650">Ethnic Groups</subject>
-      <subject source="meg" encodinganalog="650">Education</subject>
-      <subject source="meg" encodinganalog="650">Criminal Justice and Prisons</subject>
-      <head>Subject and Genre Headings</head>
-      <persname encodinganalog="600" source="lcsh">Manley, Henry</persname>
-      <persname encodinganalog="600" source="lcsh">Manley, Henry S. (Henry Sackett), 1892-1967</persname>
-      <subject encodinganalog="650" source="lcsh">Manley family</subject>
-      <subject encodinganalog="650" source="lcsh">Stanwix, Fort, Treaty of, 1784</subject>
-      <subject encodinganalog="650" source="lcsh">Indians of North America--New York (State)</subject>
-      <geogname encodinganalog="651" source="lcsh">New York (State)</geogname>
-      <genreform encodinganalog="655" source="aat">Briefs (legal documents)</genreform>
-      <genreform encodinganalog="655" source="aat">Letters (correspondence)</genreform>
-      <genreform encodinganalog="655" source="aat">Transcripts</genreform>
-      <genreform encodinganalog="655" source="aat">Testimonies</genreform>
-      <genreform encodinganalog="655" source="aat">Clippings (information artifacts)</genreform>
-      <genreform encodinganalog="655" source="aat">Photographs</genreform>
-      <genreform encodinganalog="655" source="aat">Blueprints (reprographic copies)</genreform>
-      <genreform encodinganalog="655" source="aat">Maps</genreform>
-      <genreform encodinganalog="655" source="aat">Pamphlets</genreform>
-      <genreform encodinganalog="655" source="aat">Notes</genreform>
-      <genreform encodinganalog="655" source="aat">Photocopies</genreform>
-    </controlaccess>
-    <prefercite>
+    <prefercite id="aspace_9800738e8646b120d3ae9e15bdd2dbb8">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Henry S. Manley Papers,  1849-1960. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, Henry S. Manley Papers, 1849-1960. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
-    <dsc type="combined">
-      <head>Container List</head>
-      <!-- Start series 1-->
-      <c01 level="series" id="nam_apap178-1">
+    <controlaccess>
+      <subject source="meg">Agriculture</subject>
+      <subject source="meg">Public Servants</subject>
+      <subject source="meg">Native Americans</subject>
+      <subject source="meg">Military and Armed Conflict</subject>
+      <subject source="meg">Ethnic Groups</subject>
+      <subject source="meg">Education</subject>
+      <subject source="meg">Criminal Justice and Prisons</subject>
+      <subject source="lcsh">Manley family</subject>
+      <subject source="lcsh">Stanwix, Fort, Treaty of, 1784</subject>
+      <subject source="lcsh">Indians of North America--New York (State)</subject>
+      <geogname source="lcsh">New York (State)</geogname>
+      <genreform source="aat">Briefs (legal documents)</genreform>
+      <genreform source="aat">Letters (correspondence)</genreform>
+      <genreform source="aat">Transcripts</genreform>
+      <genreform source="aat">Testimonies</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <genreform source="aat">Photographs</genreform>
+      <genreform source="aat">Blueprints (reprographic copies)</genreform>
+      <genreform source="aat">Maps</genreform>
+      <genreform source="aat">Pamphlets</genreform>
+      <genreform source="aat">Notes</genreform>
+      <genreform source="aat">Photocopies</genreform>
+      <persname source="lcsh">Manley, Henry</persname>
+      <persname source="lcsh">Manley, Henry S. (Henry Sackett), 1892-1967</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_c6d0fc8a69d71dc78a27184fdf6a061c" level="series">
         <did>
+          <unittitle>Legal Papers</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Legal Papers</unittitle>
-          <unitdate type="inclusive" normal="1925/1960">1925-1960</unitdate>
-          <unitdate type="inclusive" normal="1849/1960">Undated</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">1.0</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.0 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1925/1960" type="inclusive">1925-1960</unitdate>
+          <unitdate normal="1849/1960" type="inclusive">Undated</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_358feaae717de0311c9558a0eb88c6cb">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
-          <p>This series contains briefs, court transcripts, evidence, testimony, and other materials from 
-            legal cases. Manley was involved in most, if not all, of these cases. The cases concern a number 
-            of topics, several of which were related to Native American issues. Other cases include <emph render="italic">Calmes, 
-            Becker, Zehler v. Lehnis, and Trzecieski v. The State of New York</emph>, in which a dairy farmer made 
-            a claim for financial compensation after losing part of his herd to bovine tuberculosis.</p>
+        <scopecontent id="aspace_5e1b90768d16cb4ad5bbddd5fc58da35">
+          <head>Scope and Contents</head>
+          <p>This series contains briefs, court transcripts, evidence, testimony, and other materials from legal cases. Manley was involved in most, if not all, of these cases. The cases concern a number of topics, several of which were related to Native American issues. Other cases include <emph render="italic">Calmes, Becker, Zehler v. Lehnis, and Trzecieski v. The State of New York</emph>, in which a dairy farmer made a claim for financial compensation after losing part of his herd to bovine tuberculosis.</p>
         </scopecontent>
-        <c02 id="nam_apap178-1_1">
+        <c02 id="aspace_fa1c4f3ad1045879b2ab842f6604c1a1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Attica Central School</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945/1957">1945-1957</unitdate>
+            <unitdate normal="1945/1957" type="inclusive">1945-1957</unitdate>
+            <container id="aspace_fbf0c1a8aee14c31ca41c39e23481655" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_c38ab1527524324e00a0deb052a6f61b" parent="aspace_fbf0c1a8aee14c31ca41c39e23481655" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-1_2">
+        <c02 id="aspace_af8974d7b4de41a0dba0638d915ef68e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Attica Central School</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945/1957">1945-1957</unitdate>
+            <unitdate normal="1945/1957" type="inclusive">1945-1957</unitdate>
+            <container id="aspace_143eeaa99b8ab35bb17f831ae068abc6" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_9e0b12ce042e5621d2692d6442cb87ea" parent="aspace_143eeaa99b8ab35bb17f831ae068abc6" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-1_3">
+        <c02 id="aspace_3ed666bc6ffca42e00f5c8ff08679ae1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Attica Central School</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945/1957">1945-1957</unitdate>
+            <unitdate normal="1945/1957" type="inclusive">1945-1957</unitdate>
+            <container id="aspace_f46bc1c35d74d52da35a8001acd636b8" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_e3d74f67afe09fa49aa590c633990ca2" parent="aspace_f46bc1c35d74d52da35a8001acd636b8" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-1_4">
+        <c02 id="aspace_4fe60ae654643f773d42ce2c433045b9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Attica Central School</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945/1957">1945-1957</unitdate>
+            <unitdate normal="1945/1957" type="inclusive">1945-1957</unitdate>
+            <container id="aspace_ed1a6a35fd2ba5e5b3e56c220f464562" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_1a21f1a273d27d8526b683994be805ac" parent="aspace_ed1a6a35fd2ba5e5b3e56c220f464562" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-1_5">
+        <c02 id="aspace_7a67e8eaaf5262b18f78ebfced9cca26" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Attica Central School</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1945/1957">1945-1957</unitdate>
+            <unitdate normal="1945/1957" type="inclusive">1945-1957</unitdate>
+            <container id="aspace_5996cf5f9c11f58efb45012a7f674184" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_56e45c84923e3eb9cfe51a87a6c97b66" parent="aspace_5996cf5f9c11f58efb45012a7f674184" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-1_6">
+        <c02 id="aspace_bb43ae310d0ed55c5f84f043547ab9e3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Calmes, Becker, Zehler v. Lehnis</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959/1960">1959-1960</unitdate>
+            <unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate>
+            <container id="aspace_cbc5500269ec379bea14f4cab457330f" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_d2b0ffca3972b1b8cebc77cbc205a081" parent="aspace_cbc5500269ec379bea14f4cab457330f" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-1_7">
+        <c02 id="aspace_4ded7ef46e1c131cacbe6c771c2cbe0b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Calmes, Becker, Zehler v. Lehnis</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959/1960">1959-1960</unitdate>
+            <unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate>
+            <container id="aspace_140801423b5eaad46728f591ec1beee0" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_edbe0bfc56cb32c39d440727cc8b65ca" parent="aspace_140801423b5eaad46728f591ec1beee0" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-1_8">
+        <c02 id="aspace_a35f10fa7fb685520ec6d3dd513a74ca" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Calmes, Becker, Zehler v. Lehnis, Fact</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959/1960">1959-1960</unitdate>
+            <unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate>
+            <container id="aspace_2368c25ff602c87f6b9fcff16deff8ce" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_2030ecb34def4d3002f1284075175ef5" parent="aspace_2368c25ff602c87f6b9fcff16deff8ce" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-1_9">
+        <c02 id="aspace_8c0ca4000f3a224616bad05d6c68e553" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Calmes, Becker, Zehler v. Lehnis, Law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959/1960">1959-1960</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1849/1960">Undated</unitdate>
+            <unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate>
+            <unitdate normal="1849/1960" type="inclusive">Undated</unitdate>
+            <container id="aspace_51d229402aa195484ce1e5e8a6c29f80" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_2a6b6f92934016fd51866b18b0474b78" parent="aspace_51d229402aa195484ce1e5e8a6c29f80" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-1_10">
+        <c02 id="aspace_e0283fd22d137465c36bddd7730dc652" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Calmes, Becker, Zehler v. Lehnis, Photographs and Negatives</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1849/1960">Undated</unitdate>
+            <unitdate normal="1849/1960" type="inclusive">Undated</unitdate>
+            <container id="aspace_d910a14a7ea250354aeb3f16fc6dcd7c" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_db161283562667247658ca38357a851e" parent="aspace_d910a14a7ea250354aeb3f16fc6dcd7c" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-1_11">
+        <c02 id="aspace_45cf1f501104a01986858e846596b083" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Calmes, Becker, Zehler v. Lehnis, Pleadings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1955/1960">1955-1960</unitdate>
+            <unitdate normal="1955/1960" type="inclusive">1955-1960</unitdate>
+            <container id="aspace_9a814fa0fb25aa9cdf273637c8cb32b4" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_cca4a4f2bb2299ddf4176f1f8a3d1a5d" parent="aspace_9a814fa0fb25aa9cdf273637c8cb32b4" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-1_12">
+        <c02 id="aspace_965f343b240b970bcb2a86adbac76a44" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Calmes, Becker, Zehler v. Lehnis, Testimony and Exhibits</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959/1960">1959-1960</unitdate>
+            <unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate>
+            <container id="aspace_5174c178c78cf9a8450586c9126fa880" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_ab683d4389e8913b770583102635055d" parent="aspace_5174c178c78cf9a8450586c9126fa880" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-1_13">
+        <c02 id="aspace_ae5effaa982a0433eca9e067f85bdbf4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>James Deere v. The State of New York, St. Lawrence River Power Company</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1920/1930">ca. 1925</unitdate>
+            <unitdate normal="1920/1930" type="inclusive">ca. 1925</unitdate>
+            <container id="aspace_3dcda6e02ccfb0915f77f3b0040592a6" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_022bdbfb225eda3735d8b20b7fc64bad" parent="aspace_3dcda6e02ccfb0915f77f3b0040592a6" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-1_14">
+        <c02 id="aspace_8be1acc30c5c465fca7a0af98c39a603" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Onondaga Nation of Indians v. Minnie Schenandoah, Brief for Defendants and Court Opinion</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1928/1929">1928-1929</unitdate>
+            <unitdate normal="1928/1929" type="inclusive">1928-1929</unitdate>
+            <container id="aspace_bc7355bb739089d41a6313648540572b" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_9b3d906e217025b8fefecd527b4b663a" parent="aspace_bc7355bb739089d41a6313648540572b" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-1_15">
+        <c02 id="aspace_2c9263d37f8554539b3ad12084f2e116" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Onondaga Nation of Indians v. Minnie Schenandoah et al, Court Transcript</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1928">1928</unitdate>
+            <unitdate normal="1928/1928" type="inclusive">1928</unitdate>
+            <container id="aspace_3e661496770e8761e013d114f046d42c" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_6aef45a4d008f745795ebd9332080036" parent="aspace_3e661496770e8761e013d114f046d42c" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-1_16">
+        <c02 id="aspace_d80e2da2e64d60cdbbca142eb480c706" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Onondaga Nation of Indians v. Minnie Schenandoah et al, Court Transcript</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1928">1928</unitdate>
+            <unitdate normal="1928/1928" type="inclusive">1928</unitdate>
+            <container id="aspace_6fd98f6473b1a15ba17a40d78722c041" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_1efa87a480bbef5371e431c4231d20f0" parent="aspace_6fd98f6473b1a15ba17a40d78722c041" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-1_17">
+        <c02 id="aspace_cfe4d5cd33c31760a8a55c3b303e782d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>Onondaga Nation of Indians v. Minnie Schenandoah et al, Court Transcript</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1928">1928</unitdate>
+            <unitdate normal="1928/1928" type="inclusive">1928</unitdate>
+            <container id="aspace_dd59d86555dae663bfced38d4edbd9bd" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_840c96edbdf952681f3bb8b570ba2bd1" parent="aspace_dd59d86555dae663bfced38d4edbd9bd" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-1_18">
+        <c02 id="aspace_5728a7327fa7c405cde6f5f94ff72269" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>State of New York, Supreme Court, Appellate Division, Application of Jennie Peters Parker</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1923/1933">ca. 1928</unitdate>
+            <unitdate normal="1923/1933" type="inclusive">ca. 1928</unitdate>
+            <container id="aspace_750bd2684cfa0c893f900423ac68e9ab" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_be9bd70ba3cabddf9c5229ae6dcb2712" parent="aspace_750bd2684cfa0c893f900423ac68e9ab" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-1_19">
+        <c02 id="aspace_35a0d0db52bc68cb170551bffd917846" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>Trzecieski (Alexander) v. The State of New York</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951/1957">1951-1957</unitdate>
+            <unitdate normal="1951/1957" type="inclusive">1951-1957</unitdate>
+            <container id="aspace_bce1bea79cf0f0a0e8c9bf22bf9b3a2d" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_331a068eecc036c748ea00846935e05c" parent="aspace_bce1bea79cf0f0a0e8c9bf22bf9b3a2d" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-1_20">
+        <c02 id="aspace_53432f31f3b06f853af7237e9d54779e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>Trzecieski (Alexander) v. The State of New York</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951/1957">1951-1957</unitdate>
+            <unitdate normal="1951/1957" type="inclusive">1951-1957</unitdate>
+            <container id="aspace_382a1fc0239cb1599e376a776022bc5c" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_cfc955a438ad8414baa7f47efa691435" parent="aspace_382a1fc0239cb1599e376a776022bc5c" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-1_21">
+        <c02 id="aspace_21db09f36fb7effabb5375be316b6ba6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>United States v. Hattie Charles</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929">1929</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1939/1941">1939-1941</unitdate>
+            <unitdate normal="1929/1929" type="inclusive">1929</unitdate>
+            <unitdate normal="1939/1941" type="inclusive">1939-1941</unitdate>
+            <container id="aspace_df48c092ded2668fab396d3a08e2b31b" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_d5c405927d1d93571d9eb809e621777e" parent="aspace_df48c092ded2668fab396d3a08e2b31b" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-1_22">
+        <c02 id="aspace_a91506d47c39d3fd3e113d1f55f6d0e9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>United States of America v. Hattie Charles</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1936/1939">1936-1939</unitdate>
+            <unitdate normal="1936/1939" type="inclusive">1936-1939</unitdate>
+            <container id="aspace_7d2cecdac2b654f43bb3afc4047d6e88" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_41cab5bbaefa7d37602e9133b920b849" parent="aspace_7d2cecdac2b654f43bb3afc4047d6e88" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-1_23">
+        <c02 id="aspace_880f7b18a2492d9fbe51c397831067a2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23</container>
             <unittitle>United States of America v. Hattie Charles</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1936/1939">1936-1939</unitdate>
+            <unitdate normal="1936/1939" type="inclusive">1936-1939</unitdate>
+            <container id="aspace_52122e7877407665bd33e9152b15dab9" label="Mixed Materials" type="Box">1 (1-Legal Papers)</container>
+            <container id="aspace_9a6f38ee027c1e64660d8f5efb9960d1" parent="aspace_52122e7877407665bd33e9152b15dab9" type="Folder">23</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap178-2">
+      <c01 id="aspace_3a64f0cd9b99a1c35ac2e4a984d580e1" level="series">
         <did>
+          <unittitle>Research Material</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Research Material</unittitle>
-          <unitdate type="inclusive" normal="1782/1955">1782-1955</unitdate>
-          <unitdate type="inclusive" normal="1849/1960">Undated</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">1.06</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.06 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1782/1955" type="inclusive">1782-1955</unitdate>
+          <unitdate normal="1849/1960" type="inclusive">Undated</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_27c38fab044dfa18d94ca61942281f89">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
-          <p>This series contains various materials that Manley used for his research. It includes 
-            court transcripts and briefs, photocopies of manuscripts, reports, notes, news clippings, 
-            correspondence, publications, and photographs. Some of this material was used in the writing 
-            of Manley's book, <emph render="italic">The Treaty of Fort Stanwix, 1784</emph>. The majority of the material relates to 
-            Native American issues, which was an important focus in Manley's legal career. A good portion 
-            of this series does have some relationship to legal issues, but it was not included in the Legal 
-            Papers Series either because it was not directly related to legal cases or Manley was not 
-            directly involved in the relevant cases.</p>
+        <scopecontent id="aspace_3962038d031b3d55c0e24b13c8c83346">
+          <head>Scope and Contents</head>
+          <p>This series contains various materials that Manley used for his research. It includes court transcripts and briefs, photocopies of manuscripts, reports, notes, news clippings, correspondence, publications, and photographs. Some of this material was used in the writing of Manley's book, <emph render="italic">The Treaty of Fort Stanwix, 1784</emph>. The majority of the material relates to Native American issues, which was an important focus in Manley's legal career. A good portion of this series does have some relationship to legal issues, but it was not included in the Legal Papers Series either because it was not directly related to legal cases or Manley was not directly involved in the relevant cases.</p>
         </scopecontent>
-        <c02 id="nam_apap178-2_1">
+        <c02 id="aspace_458e0b54fb290e483503cd4e74e48f19" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Native Americans, Clippings and Notes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1927/1932">1927-1932</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1849/1960">Undated</unitdate>
+            <unitdate normal="1927/1932" type="inclusive">1927-1932</unitdate>
+            <unitdate normal="1849/1960" type="inclusive">Undated</unitdate>
+            <container id="aspace_21cc633b8be2d1a42d65d24103416c18" label="Mixed Materials" type="Box">1 (2-Research Material)</container>
+            <container id="aspace_a4f5be24910ccf12c70193d1e1baa2fe" parent="aspace_21cc633b8be2d1a42d65d24103416c18" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_2">
+        <c02 id="aspace_c331c0e67a18a57575a4b99a65154caa" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Native Americans, Clippings and Notes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1927/1932">1927-1932</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1849/1960">Undated</unitdate>
+            <unitdate normal="1927/1932" type="inclusive">1927-1932</unitdate>
+            <unitdate normal="1849/1960" type="inclusive">Undated</unitdate>
+            <container id="aspace_6d1e1f245c3f9ab577e9edfe7ebf65bf" label="Mixed Materials" type="Box">1 (2-Research Material)</container>
+            <container id="aspace_281dba300a1beebd10a03ddded38b773" parent="aspace_6d1e1f245c3f9ab577e9edfe7ebf65bf" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_3">
+        <c02 id="aspace_03ccb138fad5b3ec0c98189e11128e33" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Seneca Nation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1927/1931">1927-1931</unitdate>
+            <unitdate normal="1927/1931" type="inclusive">1927-1931</unitdate>
+            <container id="aspace_d866f5ebe470264ef94e8ce4df4777ac" label="Mixed Materials" type="Box">1 (2-Research Material)</container>
+            <container id="aspace_bea1f7b642d021ae3ecc6940de11bd9b" parent="aspace_d866f5ebe470264ef94e8ce4df4777ac" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_4">
+        <c02 id="aspace_702020117f66744976149578811188de" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>State of New York, Court of Appeals, Patterson (Respondent), Seneca Nation/Hoag (Appellant)</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1926">1926</unitdate>
+            <unitdate normal="1926/1926" type="inclusive">1926</unitdate>
+            <container id="aspace_cfa794583f268214ecfa8d13b3515daa" label="Mixed Materials" type="Box">1 (2-Research Material)</container>
+            <container id="aspace_ed1e417f3d430950292f0d956b114f91" parent="aspace_cfa794583f268214ecfa8d13b3515daa" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_5">
+        <c02 id="aspace_9fdb681487fe511f89349432b85eff81" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>State of New York, Report of the Joint Legislative Committee to Investigate the Milk Industry</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1933">1933</unitdate>
+            <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
+            <container id="aspace_9ff87e16f83561fef58810dc179ef59f" label="Mixed Materials" type="Box">1 (2-Research Material)</container>
+            <container id="aspace_43a144239baa45e6384e1162a213efa1" parent="aspace_9ff87e16f83561fef58810dc179ef59f" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_6">
+        <c02 id="aspace_2d790a2e85d9c6d3ad4eee4c43cdd700" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>State of New York, Report on Indian Affairs</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1930">1930</unitdate>
+            <unitdate normal="1930/1930" type="inclusive">1930</unitdate>
+            <container id="aspace_70e3bffc0d54653e892b760d307b5675" label="Mixed Materials" type="Box">1 (2-Research Material)</container>
+            <container id="aspace_aa38f3ca5e5969eefb073221dfc92306" parent="aspace_70e3bffc0d54653e892b760d307b5675" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_7">
+        <c02 id="aspace_2a366879019cc3c36da72c83d2a55a88" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Thomas Indian School, Photographs</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929">1929</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1849/1960">Undated</unitdate>
+            <unitdate normal="1929/1929" type="inclusive">1929</unitdate>
+            <unitdate normal="1849/1960" type="inclusive">Undated</unitdate>
+            <container id="aspace_f5589e1960d2e6db0127a7d76a6db774" label="Mixed Materials" type="Box">1 (2-Research Material)</container>
+            <container id="aspace_539edc812a39ba67b44b9a34588654b2" parent="aspace_f5589e1960d2e6db0127a7d76a6db774" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_8">
+        <c02 id="aspace_35182141591df0e1a06cfbd50e71b670" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle><emph render="italic">The Treaty of Fort Stanwix, 1784</emph>, Unbound Chapters</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1927/1937">ca. 1932</unitdate>
+            <unitdate normal="1927/1937" type="inclusive">ca. 1932</unitdate>
+            <container id="aspace_d4e143f9fb220ad5c44529dab38ab747" label="Mixed Materials" type="Box">1 (2-Research Material)</container>
+            <container id="aspace_f6464fb776dc0ce972724b8f98eecbcf" parent="aspace_d4e143f9fb220ad5c44529dab38ab747" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_9">
+        <c02 id="aspace_de578bebd897f11f755dc7951a34881f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Correspondence to Manley as Assistant Attorney General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1930">1930</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1954">1954</unitdate>
+            <unitdate normal="1930/1930" type="inclusive">1930</unitdate>
+            <unitdate normal="1954/1954" type="inclusive">1954</unitdate>
+            <container id="aspace_32a5a17c88a3fc892900905d145fb91d" label="Mixed Materials" type="Box">2 (2-Research Material)</container>
+            <container id="aspace_c899d015f2650d9d1027b39d8758613e" parent="aspace_32a5a17c88a3fc892900905d145fb91d" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_10">
+        <c02 id="aspace_4c3ee0b71ff54c928343bbb21c81dca8" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>In Re: Cayuga Indians, Vol. 3, Clark Opinion, Typescript</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1925">1925</unitdate>
+            <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
+            <container id="aspace_9e4ce68c8156c9a17198ede15ff36c34" label="Mixed Materials" type="Box">2 (2-Research Material)</container>
+            <container id="aspace_c7a1a75c509089df153779d126994cfc" parent="aspace_9e4ce68c8156c9a17198ede15ff36c34" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_11">
+        <c02 id="aspace_e4a7cefc082adc1d427515ce20360d95" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>In the Supreme Court of the United States</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1921/1924">1921-1924</unitdate>
+            <unitdate normal="1921/1924" type="inclusive">1921-1924</unitdate>
+            <container id="aspace_40d098aed209d5948442f5c95d6e2d02" label="Mixed Materials" type="Box">2 (2-Research Material)</container>
+            <container id="aspace_bc946cf50bce308f1ad9916041045e8d" parent="aspace_40d098aed209d5948442f5c95d6e2d02" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_12">
+        <c02 id="aspace_5adac9f7459166840de804d895b111da" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Loose Pages from Publications, and Handwritten Lists of Publications</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1849/1921">1849-1921</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1849/1960">Undated</unitdate>
+            <unitdate normal="1849/1921" type="inclusive">1849-1921</unitdate>
+            <unitdate normal="1849/1960" type="inclusive">Undated</unitdate>
+            <container id="aspace_270cc2db03a391622820cd65869ecc3e" label="Mixed Materials" type="Box">2 (2-Research Material)</container>
+            <container id="aspace_4150edc788a4fa375cd23584c58e47c7" parent="aspace_270cc2db03a391622820cd65869ecc3e" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_13">
+        <c02 id="aspace_63846ae84521425a3ce0ea8d60807d92" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>Municipal Tort Liability</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951/1955">1951-1955</unitdate>
+            <unitdate normal="1951/1955" type="inclusive">1951-1955</unitdate>
+            <container id="aspace_89792f025e1dd29687172a06d838d5a3" label="Mixed Materials" type="Box">2 (2-Research Material)</container>
+            <container id="aspace_84bef3ec4c9007f847dc36ce5e3dc9a5" parent="aspace_89792f025e1dd29687172a06d838d5a3" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_14">
+        <c02 id="aspace_75277349aa3f0d79d6631a9f4fa3e3fd" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>Municipal Tort Liability</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951/1955">1951-1955</unitdate>
+            <unitdate normal="1951/1955" type="inclusive">1951-1955</unitdate>
+            <container id="aspace_b72191960e7de24cdd3714e0861fe348" label="Mixed Materials" type="Box">2 (2-Research Material)</container>
+            <container id="aspace_89546d4a655991ed1724b815a129c3d2" parent="aspace_b72191960e7de24cdd3714e0861fe348" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_15">
+        <c02 id="aspace_6eb9f30155fe1fc6ae0cdf2b01d1f5cf" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>Correspondence, much of it to or by Benson J. Lossing</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1859/1867">1859-1867</unitdate>
+            <unitdate normal="1859/1867" type="inclusive">1859-1867</unitdate>
+            <container id="aspace_bc98ab6cd18576a5250bd392d9199b73" label="Mixed Materials" type="Box">3 (2-Research Material)</container>
+            <container id="aspace_cae2ceeea9b14bc8b86cd64d656052ba" parent="aspace_bc98ab6cd18576a5250bd392d9199b73" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_16">
+        <c02 id="aspace_2ed8a5875b70771591f0ad86dcc2fc6a" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>Deere v. St. Lawrence, Research Material, Photostats</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1824/1825">1824-1825</unitdate>
+            <unitdate normal="1824/1825" type="inclusive">1824-1825</unitdate>
+            <container id="aspace_fe706ea2489fa5c372fb0e9f9d03abca" label="Mixed Materials" type="Box">3 (2-Research Material)</container>
+            <container id="aspace_33455a9eed0cbfc500f7ae725390ed3b" parent="aspace_fe706ea2489fa5c372fb0e9f9d03abca" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_17">
+        <c02 id="aspace_44fcd4c56f4efe7bae62cbfd32c02a98" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">3</container>
             <unittitle>Fort Stanwix 1784, Research Materials</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1849/1960">Undated</unitdate>
+            <unitdate normal="1849/1960" type="inclusive">Undated</unitdate>
+            <container id="aspace_fa68a1c466c3cc78ed4b013c483c6b32" label="Mixed Materials" type="Box">3 (2-Research Material)</container>
+            <container id="aspace_8d4c9ddde5d289a1f3d9d7f0723b0e1f" parent="aspace_fa68a1c466c3cc78ed4b013c483c6b32" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_18">
+        <c02 id="aspace_485db2987dc322da8536a302513dbb8c" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4</container>
             <unittitle>Fort Stanwix 1784, Typed Transcripts and Photocopies</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1782/1784">1782-1784</unitdate>
+            <unitdate normal="1782/1784" type="inclusive">1782-1784</unitdate>
+            <container id="aspace_0b9832dca73af05ad2975017450c1816" label="Mixed Materials" type="Box">3 (2-Research Material)</container>
+            <container id="aspace_b48bb6941e74804d62d1beda7e7bd990" parent="aspace_0b9832dca73af05ad2975017450c1816" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_19">
+        <c02 id="aspace_0892a4f451f33e715c3a68b8f37c9596" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">5</container>
             <unittitle>Kellogg, Six Nations, "Treaty of Fort Stanwix 1784", and other Native American Matters</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1913/1935">1913-1935</unitdate>
+            <unitdate normal="1913/1935" type="inclusive">1913-1935</unitdate>
+            <container id="aspace_5967b4757aad2de6e090f2a9b21698dd" label="Mixed Materials" type="Box">3 (2-Research Material)</container>
+            <container id="aspace_5d075da7fdaa6dcc40acb2188f0bd63f" parent="aspace_5967b4757aad2de6e090f2a9b21698dd" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_20">
+        <c02 id="aspace_ae165443e72477bca84a0ab93a0bfd32" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">6</container>
             <unittitle>Native Americans, Journal Opinions, etc.</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1927/1930">1927-1930</unitdate>
+            <unitdate normal="1927/1930" type="inclusive">1927-1930</unitdate>
+            <container id="aspace_56e04ca6f5b846bb0443c205f3c47f74" label="Mixed Materials" type="Box">3 (2-Research Material)</container>
+            <container id="aspace_a7c0bef8189862c4335072912869139c" parent="aspace_56e04ca6f5b846bb0443c205f3c47f74" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_21">
+        <c02 id="aspace_ae8cfd2ff07db71da4c486a45864188a" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">7</container>
             <unittitle>New York Indians/Fort Stanwix Treaty 1784, Research Material</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1899">1899</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1928/1931">1928-1931</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1849/1960">Undated</unitdate>
+            <unitdate normal="1899/1899" type="inclusive">1899</unitdate>
+            <unitdate normal="1928/1931" type="inclusive">1928-1931</unitdate>
+            <unitdate normal="1849/1960" type="inclusive">Undated</unitdate>
+            <container id="aspace_992cbe30951817881f5be36252d08071" label="Mixed Materials" type="Box">3 (2-Research Material)</container>
+            <container id="aspace_3885f8d8f8c727f4dbf37599d557ed56" parent="aspace_992cbe30951817881f5be36252d08071" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_22">
+        <c02 id="aspace_8feb75d7e1300846e9a7eb70c1d290ad" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">8</container>
             <unittitle>Shinnecock, Montauk, Tuscarora, and Oneida Indians</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1928/1934">1928-1934</unitdate>
+            <unitdate normal="1928/1934" type="inclusive">1928-1934</unitdate>
+            <container id="aspace_26e65978567211628dfb1e8790940b32" label="Mixed Materials" type="Box">3 (2-Research Material)</container>
+            <container id="aspace_2f5a104e801769336cc55ea29a6d158e" parent="aspace_26e65978567211628dfb1e8790940b32" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_23">
+        <c02 id="aspace_9bb90537f6794d1c538806d503337da4" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">9</container>
             <unittitle>Thomas Indian School</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1855">1855</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1929/1931">1929-1931</unitdate>
+            <unitdate normal="1855/1855" type="inclusive">1855</unitdate>
+            <unitdate normal="1929/1931" type="inclusive">1929-1931</unitdate>
+            <container id="aspace_f42aa2a38b8c401b77ee493c1238f30d" label="Mixed Materials" type="Box">3 (2-Research Material)</container>
+            <container id="aspace_48f1e466cb0111e8e8ace53611813e39" parent="aspace_f42aa2a38b8c401b77ee493c1238f30d" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-2_24">
+        <c02 id="aspace_471ea7250759424b969a10456461b3d3" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">10</container>
             <unittitle>Tonawanda Nation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1890">1890</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1932">1932</unitdate>
+            <unitdate normal="1890/1890" type="inclusive">1890</unitdate>
+            <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
+            <container id="aspace_cdc2ab4e70f0477f4258e174100d816c" label="Mixed Materials" type="Box">3 (2-Research Material)</container>
+            <container id="aspace_a3dd479697e6a33a89f3cb2d5d60509a" parent="aspace_cdc2ab4e70f0477f4258e174100d816c" type="Folder">10</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap178-3">
+      <c01 id="aspace_bb5da4c88d89b7698627b0f021e9d1b4" level="series">
         <did>
+          <unittitle>Personal Papers</unittitle>
           <unitid>3</unitid>
-          <unittitle label="Series">Personal Papers</unittitle>
-          <unitdate type="inclusive" normal="1928/1934">1928-1934</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.2</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.2 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1928/1934" type="inclusive">1928-1934</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_87dfb43afd5fc6470f744fe5a197030b">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
-          <p>This series consists of material relating to Manley's proposal to build a dam on his 
-            property (Warren Farm Dam), Manley's <emph render="italic">Manley Family, New England and New 
-            York, 1650-1950</emph>, along with several copies of a brief speech he gave about the importance of agriculture. 
-            The speech touched on history, religion, and mythology. The series also includes correspondence, 
-            blueprints, pamphlets, maps, and a publication. The blueprints and a map pertaining to the 
-            Warren Farm Dam have been placed in an oversize folder.</p>
+        <scopecontent id="aspace_8400cf16aa35e2e54ae7c25c289dcda3">
+          <head>Scope and Contents</head>
+          <p>This series consists of material relating to Manley's proposal to build a dam on his property (Warren Farm Dam), Manley's <emph render="italic">Manley Family, New England and New York, 1650-1950</emph>, along with several copies of a brief speech he gave about the importance of agriculture. The speech touched on history, religion, and mythology. The series also includes correspondence, blueprints, pamphlets, maps, and a publication. The blueprints and a map pertaining to the Warren Farm Dam have been placed in an oversize folder.</p>
         </scopecontent>
-        <c02 id="nam_apap178-3_1">
+        <c02 id="aspace_06ca9615a019ab4bfaa82fbc3e860bba" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
-            <unittitle><emph render="italic">Manley Family, New England and New York, 1650-1950</emph>, by Henry S. Manley </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unittitle><emph render="italic">Manley Family, New England and New York, 1650-1950</emph>, by Henry S. Manley</unittitle>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_9efa0880ba498498fd23fef3e2d386a0" label="Mixed Materials" type="Box">1 (3-Personal Papers)</container>
+            <container id="aspace_c8a7a9155023b86bedec127b5a4cdf36" parent="aspace_9efa0880ba498498fd23fef3e2d386a0" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-3_2">
+        <c02 id="aspace_9b406e622670a1bca67a4430b3c43d77" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Two Blades of Grass, Speech by Henry S. Manley on Radio Station WGY, June 7, 1934</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1934">1934</unitdate>
+            <unitdate normal="1934/1934" type="inclusive">1934</unitdate>
+            <container id="aspace_a722f694ec389b494c72859a5f1c93bc" label="Mixed Materials" type="Box">1 (3-Personal Papers)</container>
+            <container id="aspace_f8e7b9fb6c4bb5e7cdab52e0bf00f651" parent="aspace_a722f694ec389b494c72859a5f1c93bc" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap178-3_3">
+        <c02 id="aspace_a9d087953f03437f93ea1b25b44c4ad2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Warren Farm Dam</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1928/1931">1928-1931</unitdate>
+            <unitdate normal="1928/1931" type="inclusive">1928-1931</unitdate>
+            <container id="aspace_1bb7913e5d25eda450ca629d7c8c712e" label="Mixed Materials" type="Box">1 (3-Personal Papers)</container>
+            <container id="aspace_fda2bf2bf7507cc7905bcd417b29ac90" parent="aspace_1bb7913e5d25eda450ca629d7c8c712e" type="Folder">3</container>
           </did>
         </c02>
       </c01>

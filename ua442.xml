@@ -1,87 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua442">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua442.html">nam_ua442</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua442">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua442.xml">ua442</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>ALLEN COLLEGIATE CENTER (UA442)<date normal="1972/1976" type="inclusive">1972-1976</date></titleproper>
+        <titleproper>Allen Collegiate Center; Records <num>ua442</num></titleproper>
         <author>unprocessed</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2015" type="publication">Copyright 2015 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2015</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Conversion and encoding by ArchProteus, <date normal="2014">2014</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:46:54 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2014">2014</date>
+        <date>2014</date>
         <item>EAD file created</item>
+      </change>
+      <change>
+        <date>2014</date>
+        <item>Encoded in EAD by Conversion and encoding by ArchProteus</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua442</unitid>
-      <unittitle>Allen Collegiate Center<unitdate normal="1972/1976" type="inclusive">1972-1976</unitdate></unittitle>
-      <abstract label="Abstract:">The collection consists of records from the University at Albany's Allen Collegiate Center, 1972-1976.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="local">Allen Collegiate Center</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">4</extent>
-      </physdesc>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Allen Collegiate Center<unitdate normal="1972/1976" type="inclusive">1972-1976</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">Allen Collegiate Center</corpname>
+      </origination>
+      <unitid>ua442</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_abd0e8856a9ec611b286b15d79c5c856">The collection consists of records from the University at Albany's Allen Collegiate Center, 1972-1976.</abstract>
+      <langmaterial id="aspace_b1fb6ef3ed117377c4109fc8fc891600">English</langmaterial>
+      <physloc id="aspace_45524da0290db08b2cc805464a051b4e">The materials are located onsite in the department.</physloc>
+      <container id="aspace_21e9a13ae8f0ab60aeb5d148a85a5209" label="Mixed Materials" type="Collection">X</container>
     </did>
-    <bioghist>
+    <processinfo id="aspace_1dd17f9cef9eb0e9a72c42fa06ece40b">
+      <head>Processing Information</head>
+      <p>Processed in 2015 by unprocessed.</p>
+    </processinfo>
+    <bioghist id="aspace_51af0b5276d1446bada81cda098cf97b">
       <head>Biographical History</head>
       <p>Created in 1972, the University at Albany's Allen Collegiate Center was an experimental senior year of high school and freshman year of college combined, providing a Bachelor of Arts degree in three years. The center closed in 1976.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_764fcc782176ab02f744cc698a6b47e8">
+      <head>Scope and Contents</head>
       <p>The collections consists of University at Albany's Allen Collegiate Center records, 1972-1976.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_0f1f87a1f5dafb077b54d08d3629526c">
       <head>Arrangement of the Collection</head>
       <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_0d1f925cfde43bb7f6eba2c44a2ecde8">
       <head>Acquisition Information</head>
       <p>All items in this manuscript group were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_5526dfedf845714fc255da4b7e1136b3">
       <head>Access</head>
       <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. While it is likely that portions of the collection may be viewed, access must be managed by an archivist.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_954925c560d10eeeab33bae601f7eb3e">
       <head>Copyright</head>
       <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <prefercite>
+    <prefercite id="aspace_4a30a4ac59e42c8b696c665408c45b78">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Allen Collegiate Center Records. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York.</p>
+      <p> Identification of specific item, series, box, folder, Allen Collegiate Center Records. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York.</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject encodinganalog="650" source="lcsh">Education-Experimental methods</subject>
-      <subject encodinganalog="650" source="lcsh">School management and organization-New York (State) </subject>
-      <corpname encodinganalog="610" source="local">State University of New York at Albany. Allen Collegiate Center-Administration </corpname>
+      <subject source="lcsh">Education-Experimental methods</subject>
+      <subject source="lcsh">School management and organization-New York (State)</subject>
+      <corpname source="local">State University of New York at Albany. Allen Collegiate Center-Administration</corpname>
     </controlaccess>
+    <dsc/>
   </archdesc>
 </ead>

@@ -1,1095 +1,1032 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap285">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="nalsu" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" url="http://library.albany.edu/speccoll/findaids/apap285.xml" identifier="##">nam_apap285</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap285">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap285.xml">apap285</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>JULIUS VOLKER PAPERS (APAP285)<date normal="1958/1966" type="inclusive">1958-1966, Undated</date></titleproper>
+        <titleproper>Volker, Julius; Papers <num>apap285</num></titleproper>
         <author>Douglas Moore</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2010">Copyright 2010 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2010</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Mary Vandermeulen<date normal="2013">2013</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 15:21:41 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2013</date>
+        <item>Encoded in EAD by Mary Vandermeulen</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>JULIUS VOLKER PAPERS (APAP285)<date normal="1958/1966" type="inclusive">1958-1966, Undated</date></titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2010</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap285</unitid>
-      <unittitle>Julius Volker Papers<unitdate type="inclusive" normal="1958/1966" label="Date:">1958-1966, Undated</unitdate></unittitle>
-      <origination>
-        <persname encodinganalog="100" source="local">Volker, Julius</persname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">3.25</extent>
-      </physdesc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">The Julius Volker Papers document Assemblyman Volker's work
-	    related to New York State Assembly sessions and legislation from 1958-1966, including undated
-		material.  Also included are papers relating to Mr. Volker's professional development as 
-        a lawyer.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Julius Volker Papers<unitdate normal="1958/1966" type="inclusive">1958-1966, Undated</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="local">Volker, Julius</persname>
+      </origination>
+      <unitid>apap285</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3.25 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_79974983a2926a31c5544ea985df0645">The Julius Volker Papers document Assemblyman Volker's work related to New York State Assembly sessions and legislation from 1958-1966, including undated material. Also included are papers relating to Mr. Volker's professional development as a lawyer.</abstract>
+      <langmaterial id="aspace_552732b5964509f3a58c31df02432283">English</langmaterial>
+      <physloc id="aspace_e74ba45a0a4586196b2b1d1a27399bba">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_9a1d25a2b71a52fe1689f1bd47414839">
+      <head>Processing Information</head>
+      <p>Processed in 2010 by Douglas Moore.</p>
+    </processinfo>
+    <accessrestrict id="aspace_a0f98f89ab25498b191f404ce181177b">
       <head>Access</head>
-      <p> Access to this record group is unrestricted.</p>
+      <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_ef8e1a1ba04fd17a96fdde402aceba17">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives.</p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_6652fb35b62eeadf4dfc3d8b94eaa637">
       <head>Acquisition Information</head>
-      <p>The papers of Julius Volker, lawyer and member of the New York State Assembly, were donate to
-        Syracuse University	in 1966 in a series of deliveries. In 2006, the papers were transferred to the
-        State University of New York at Albany M. E. Grenander Department of Special Collections and Archives.</p>
+      <p>The papers of Julius Volker, lawyer and member of the New York State Assembly, were donate to Syracuse University	in 1966 in a series of deliveries. In 2006, the papers were transferred to the State University of New York at Albany M. E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_4d255ee559b58387eec057f879ac5368">
       <head>Biographical Sketch</head>
-      <p>Julius Volker was born in 1903 in Lancaster, New York. He received a bachelor of arts degree from
-     	Canisius College in 1924 and a bachelor of laws degree from Buffalo Law School in 1927. Volker was 
-		commissioned to the New York State Bar later that year. In 1931 he married Loretta O'Neill and
-		together they raised two sons.</p>
-      <p>From 1934-1935 Volker served as a councilman for the town of Lancaster and was is justice of the
-        peace from 1936-1939. Volker then served as town attorney from 1940-1941 and again in 1946. With
-        other local leders and supporters, Volker helped to create the Lancaster Town Police Ambulance
-        Service in 1953, the first volunteer ambulance service in Western New York and the first in the
-		state to be operated by and within a police department.</p>
-      <p>In 1945, voters elected Volker to the New York State Assembly as the Republican representative
-        from Erie County 7th district and he remained in that position until 1965. In 1966 Volker served an
-        additional year in the New York Assembly as the Republician representative from Erie County 162nd
-        district. During his tenure in the New York State Assembly Volker was chairman of the Committee on
-        Codes and chairman of the Committee on Aviation and Insurance.</p>
-      <p>Following his retirement from the Assembly, Julius Volker maintained a law practice in Buffalo. He
-        passed away approximately ten years later. One of Volker's sons, Dale Volker, was elected to the
-        New York State Assembly in 1972 and became a New York State Senator three years later. He announced
-        his intended retirement from the Senate in May 2010.</p>
+      <p>Julius Volker was born in 1903 in Lancaster, New York. He received a bachelor of arts degree from Canisius College in 1924 and a bachelor of laws degree from Buffalo Law School in 1927. Volker was commissioned to the New York State Bar later that year. In 1931 he married Loretta O'Neill and together they raised two sons.</p>
+      <p> From 1934-1935 Volker served as a councilman for the town of Lancaster and was is justice of the peace from 1936-1939. Volker then served as town attorney from 1940-1941 and again in 1946. With other local leders and supporters, Volker helped to create the Lancaster Town Police Ambulance Service in 1953, the first volunteer ambulance service in Western New York and the first in the state to be operated by and within a police department.</p>
+      <p> In 1945, voters elected Volker to the New York State Assembly as the Republican representative from Erie County 7th district and he remained in that position until 1965. In 1966 Volker served an additional year in the New York Assembly as the Republician representative from Erie County 162nd district. During his tenure in the New York State Assembly Volker was chairman of the Committee on Codes and chairman of the Committee on Aviation and Insurance.</p>
+      <p> Following his retirement from the Assembly, Julius Volker maintained a law practice in Buffalo. He passed away approximately ten years later. One of Volker's sons, Dale Volker, was elected to the New York State Assembly in 1972 and became a New York State Senator three years later. He announced his intended retirement from the Senate in May 2010.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The papers of Julius Volker, politician and lawyer, span the years 1958-1966 and contain
-	    legislative files, special committee files, correspondence, and subject specific files relating to work
-		in the New York State Assembly. The papers also contain printed bills, vouchers, newsletters, printed
-		materials, and newspaper clippings related to New York State Assembly sessions. Julius Volker served in
-		the New York State Assembly as a representative Erie County 7th district from 1945-1965 and 162nd
-		district in 1966.</p>
+    <scopecontent id="aspace_2a4c491eae81392e4e9e50e2666a8a1f">
+      <head>Scope and Contents</head>
+      <p>The papers of Julius Volker, politician and lawyer, span the years 1958-1966 and contain legislative files, special committee files, correspondence, and subject specific files relating to work in the New York State Assembly. The papers also contain printed bills, vouchers, newsletters, printed materials, and newspaper clippings related to New York State Assembly sessions. Julius Volker served in the New York State Assembly as a representative Erie County 7th district from 1945-1965 and 162nd district in 1966.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_2128ffaf3789f7cd6949a3c31c733ea4">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series:</p>
-      <list type="simple">
-        <item>Series 1 - Legislation, 1958,1964-1966</item>
-        <item>Series 2 - Special Committees, 1959-1966</item>
-        <item>Series 3 - Correspondence, 1958, 1960-1961,1963-1966</item>
-        <item>Series 4 - Subject Files, 1961-1965, Undated</item>
-      </list>
-      <p>Series 1 is arranged chronologically, and then by legislation introduction number. Series 3 is 
-	    arranged chronologically. Series 2 and Series 4 are arranged alphabeticlly.</p>
+      <p>Series 1 is arranged chronologically, and then by legislation introduction number. Series 3 is arranged chronologically. Series 2 and Series 4 are arranged alphabeticlly.</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-           Try to give as many access points as you can to increase the chances of 
-           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-           to comment them out! -->
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Politics and Politicians</subject>
-      <persname encodinganalog="600" source="local">Volker, Julius</persname>
-      <corpname encodinganalog="610" source="lcsh">New York (State). Legislature. Assembly</corpname>
-      <subject encodinganalog="650" source="lcsh">New York (State). Law Revision Commission</subject>
-      <subject encodinganalog="650" source="lcsh">New York (State). Legislature. Assembly. Standing Committee on Codes</subject>
-      <subject encodinganalog="650" source="lcsh">New York (State). Penal Law</subject>
-      <geogname encodinganalog="651" source="lcsh">Erie County (N.Y.)</geogname>
-      <genreform encodinganalog="655" source="aat">Legislative Records</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Clippings (information artifacts)</genreform>
-    </controlaccess>
-    <prefercite>
+    <prefercite id="aspace_a788a4a6a0185ec75721e8b435254e47">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Julius Volker Papers,  1958-1966, Undated. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
+      <p> Identification of specific item, series, box, folder, Julius Volker Papers, 1958-1966, Undated. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as [shortened name]).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 level="series" id="nam_apap285-1">
+    <controlaccess>
+      <subject source="meg">Politics and Politicians</subject>
+      <subject source="lcsh">New York (State). Law Revision Commission</subject>
+      <subject source="lcsh">New York (State). Legislature. Assembly. Standing Committee on Codes</subject>
+      <subject source="lcsh">New York (State). Penal Law</subject>
+      <geogname source="lcsh">Erie County (N.Y.)</geogname>
+      <genreform source="aat">Legislative Records</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <persname source="local">Volker, Julius</persname>
+      <corpname source="lcsh">New York (State). Legislature. Assembly</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_09dea384068c8c5f6f73188a07aa4ec1" level="series">
         <did>
+          <unittitle>Legislation</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Legislation</unittitle>
-          <unitdate type="inclusive" normal="1958">1958</unitdate>
-          <unitdate type="inclusive" normal="1960/1961">1964-1966</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.75</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.75 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+          <unitdate normal="1960/1961" type="inclusive">1964-1966</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_f39600e66018e172e099ae1b6712450f">
+          <head>Arrangement</head>
           <p>Arranged chronologically and then by legislation introduction number</p>
         </arrangement>
-        <scopecontent>
-          <p>Legislation introduced by Assemblyman Volker with related correspondence, notes, reports,
-		     clippings and printed matter. The dates on the finding aid correspond to the date of the
-			 respective bill's introduction, although related materials in each folder may encompass 
-			 different dates.</p>
+        <scopecontent id="aspace_6f46f175d59db28ef5747e2f1e3675a7">
+          <head>Scope and Contents</head>
+          <p>Legislation introduced by Assemblyman Volker with related correspondence, notes, reports, clippings and printed matter. The dates on the finding aid correspond to the date of the respective bill's introduction, although related materials in each folder may encompass different dates.</p>
         </scopecontent>
-        <c02 id="nam_apap285-1_1">
+        <c02 id="aspace_2dfb962725e9963927a346d84f220d85" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>To amend the social welfare law, in relation to residence requirements for public assistance and care</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958-03-13">1958 March 13</unitdate>
+            <unitdate normal="1958-03-13/1958-03-13" type="inclusive">1958 March 13</unitdate>
+            <container id="aspace_da960c4da26a221a77425d4455782058" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_c3632c66e93a49983d92886134fdd186" parent="aspace_da960c4da26a221a77425d4455782058" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_2">
+        <c02 id="aspace_469b89c99745f3c735026ecdb27258e0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>To amend the public authorities law, in relation to enacting a labor relations law for employees of public authorities</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-01-08">1964 January 08</unitdate>
+            <unitdate normal="1964-01-08/1964-01-08" type="inclusive">1964 January 08</unitdate>
+            <container id="aspace_69e7ceee5462e0a2a4af966b4a12f463" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_7a410763f2ed49b567bb725e06cc2679" parent="aspace_69e7ceee5462e0a2a4af966b4a12f463" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_3">
+        <c02 id="aspace_ae92913d37beba803feeb6af956148ce" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>To increase state aid to cities having a population of one hundred thousand or more inhabitants...</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-01-08">1964 January 08</unitdate>
+            <unitdate normal="1964-01-08/1964-01-08" type="inclusive">1964 January 08</unitdate>
+            <container id="aspace_cd769001624286147f24eb0fe2ff16a5" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_f5ab02fa93d595a659d83df8885cc668" parent="aspace_cd769001624286147f24eb0fe2ff16a5" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_4">
+        <c02 id="aspace_29e41d575f59fea227a624dce16a121d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>To amend the vehicle and traffic law, in relation to a person operating a motor vehicle or motorcycle while in an intoxicated condition...</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-01-08">1964 January 08</unitdate>
+            <unitdate normal="1964-01-08/1964-01-08" type="inclusive">1964 January 08</unitdate>
+            <container id="aspace_bfc7fe57d4c96371f88f1b83fa9c5e74" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_68a5c531b8f2d671f31f091b4519e27b" parent="aspace_bfc7fe57d4c96371f88f1b83fa9c5e74" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_5">
+        <c02 id="aspace_ac53853e9bb48e9e736e2003c9333be7" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>To amend the vehicle and traffic law, in relation to adults shoulder harness type safety belt</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-01-08">1964 January 08</unitdate>
+            <unitdate normal="1964-01-08/1964-01-08" type="inclusive">1964 January 08</unitdate>
+            <container id="aspace_2d5c4919bca46c1e270d9e7956f726f6" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_3fa97ab01713f4cb1f2acabf1d848e0a" parent="aspace_2d5c4919bca46c1e270d9e7956f726f6" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_6">
+        <c02 id="aspace_73ccb741e78d761b7eb07fa93cc6ed25" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>To amend the vehicle and traffic law, in relation to providing for notice to correct defective or improper lighting equipment</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-01-08">1964 January 08</unitdate>
+            <unitdate normal="1964-01-08/1964-01-08" type="inclusive">1964 January 08</unitdate>
+            <container id="aspace_16451b205ad28267729c45da35740e4f" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_ddac443012e4b721f69e17fc49a55c81" parent="aspace_16451b205ad28267729c45da35740e4f" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_7">
+        <c02 id="aspace_ac46db569150b123095afbf271c6893c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>To amend the vehicle and traffic law, in relation to attachment points for the rear seat of the motor vehicle</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-01-08">1964 January 08</unitdate>
+            <unitdate normal="1964-01-08/1964-01-08" type="inclusive">1964 January 08</unitdate>
+            <container id="aspace_4f7de91d25aa78f0b9358ac1cc64ac50" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_d48252b0f393793271d2bc3597f1729a" parent="aspace_4f7de91d25aa78f0b9358ac1cc64ac50" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_8">
+        <c02 id="aspace_64b3c7fca9e2fabc4212340b243c7520" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
-            <unittitle> To amend the code of criminal procedure, in relation to execution of search warrants</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-01-09">1964 January 09</unitdate>
+            <unittitle>To amend the code of criminal procedure, in relation to execution of search warrants</unittitle>
+            <unitdate normal="1964-01-09/1964-01-09" type="inclusive">1964 January 09</unitdate>
+            <container id="aspace_97f03fc2f4a4fb95dcb7cf801f9acb45" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_4973dc1a8baaf80280fd9a1f89342df9" parent="aspace_97f03fc2f4a4fb95dcb7cf801f9acb45" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_9">
+        <c02 id="aspace_4ad8e7fe48e9b97e9ac352818e336a78" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>To amend the code of criminal procedure, in relation to temporary questioning and search for weapons</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-01-09">1964 January 09</unitdate>
+            <unitdate normal="1964-01-09/1964-01-09" type="inclusive">1964 January 09</unitdate>
+            <container id="aspace_5ac215e7abb3338a159bec58200e3c4d" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_b97d0aa725c44b9d9f040db869497409" parent="aspace_5ac215e7abb3338a159bec58200e3c4d" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_10">
+        <c02 id="aspace_7679119694a1155e29c73071e9719f22" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>To amend the civil practice law and rules, in relation to dismissal of complaint for neglect to prosecute</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-01-16">1964 January 16</unitdate>
+            <unitdate normal="1964-01-16/1964-01-16" type="inclusive">1964 January 16</unitdate>
+            <container id="aspace_31b04cad44a8b1129ba8022572a530b5" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_01991eab700cfefc636c3d97fcfbc026" parent="aspace_31b04cad44a8b1129ba8022572a530b5" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_11">
+        <c02 id="aspace_2eaec661fdf5e7f1bd79081e2f26eb5d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>To amend the penal law, in relation to prohibiting lenders of money from making a charge for substitution or other changes in insurance policies</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-01-21">1964 January 21</unitdate>
+            <unitdate normal="1964-01-21/1964-01-21" type="inclusive">1964 January 21</unitdate>
+            <container id="aspace_6437bd0cbff9132ccd31ed52b6810b37" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_ec7942c8509b2c5621c2903364a6d2fc" parent="aspace_6437bd0cbff9132ccd31ed52b6810b37" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_12">
+        <c02 id="aspace_b167ef97e0306a4226ce752dd1f955fb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>To amend the vehicle and traffic law, in relation to requiring certain motor vehicles to be equipped with seat safety belts</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-01-22">1964 January 22</unitdate>
+            <unitdate normal="1964-01-22/1964-01-22" type="inclusive">1964 January 22</unitdate>
+            <container id="aspace_e143776ef00e4c47d8c5a8f0e1128c5d" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_8281882880b200c1062fa7e281ac59c0" parent="aspace_e143776ef00e4c47d8c5a8f0e1128c5d" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_13">
+        <c02 id="aspace_74f3453c2ba9c0fcfafc12cd7f8626d1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>To amend the vehicle and traffic law, in relation to certification by dealers on sales of used motor vehicles</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-01-22">1964 January 22</unitdate>
+            <unitdate normal="1964-01-22/1964-01-22" type="inclusive">1964 January 22</unitdate>
+            <container id="aspace_4193a95ab5b69c6f410fab489e3012bb" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_b71d591bb21aa33f9c954e8d0cce373a" parent="aspace_4193a95ab5b69c6f410fab489e3012bb" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_14">
+        <c02 id="aspace_decdd459313538b1035f302b00149987" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>To amend the vehicle and traffic law, in relation to shopping centers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-01-22">1964 January 22</unitdate>
+            <unitdate normal="1964-01-22/1964-01-22" type="inclusive">1964 January 22</unitdate>
+            <container id="aspace_939e02d563732117a21c98ff070e6afd" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_5b96596f0f648306e98af8ff1addc752" parent="aspace_939e02d563732117a21c98ff070e6afd" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_15">
+        <c02 id="aspace_c0430f663bfc9c943870514daec39844" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>To amend the vehicle and traffic law, in relation to dimensions of certain vehicles</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-01-22">1964 January 22</unitdate>
+            <unitdate normal="1964-01-22/1964-01-22" type="inclusive">1964 January 22</unitdate>
+            <container id="aspace_5f7ac2b45397202b1260122aae66b040" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_6312cd435026ea9ac1ae1bb5b57b73e1" parent="aspace_5f7ac2b45397202b1260122aae66b040" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_16">
+        <c02 id="aspace_d20b3767ef0c4a692ad8e48e8a9b3e9a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Authorizing the City of Buffalo to grant and convey permanent easement in a sixty-six foot wide piece of land in LaSalle Park...</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-01-22">1964 January 22</unitdate>
+            <unitdate normal="1964-01-22/1964-01-22" type="inclusive">1964 January 22</unitdate>
+            <container id="aspace_7251854936f33b11fefc45c74c3a8854" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_08c99abaab5bea3122e3061dbf47a4b1" parent="aspace_7251854936f33b11fefc45c74c3a8854" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_17">
+        <c02 id="aspace_3d8d18c5f20136988d6068557bd15e1f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>To amend the code of criminal procedure, in relation to certain peace officers designated as police officers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-01-23">1964 January 23</unitdate>
+            <unitdate normal="1964-01-23/1964-01-23" type="inclusive">1964 January 23</unitdate>
+            <container id="aspace_82c02cf62bf07402bf6ac8228a85ab1e" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_b8927622f919ad04b631ce92598c7eb7" parent="aspace_82c02cf62bf07402bf6ac8228a85ab1e" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_18">
+        <c02 id="aspace_84ac98b08d7d167721ca93f10f227d20" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>To amend the civil practice law and rules, in relation to income executions and repealing section fifty-two hundred thirty-one of such law related thereto</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-01-23">1964 January 23</unitdate>
+            <unitdate normal="1964-01-23/1964-01-23" type="inclusive">1964 January 23</unitdate>
+            <container id="aspace_fc161e5af36fbf6fee236e92fa314ff7" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_21067885697c7320098cf30c9a770d93" parent="aspace_fc161e5af36fbf6fee236e92fa314ff7" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_19">
+        <c02 id="aspace_5a42501875a92eeb462589deab994f68" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>To amend the vehicle and traffic law, in relation to issuance of driver’s licenses and learners permits</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-01-23">1964 January 23</unitdate>
+            <unitdate normal="1964-01-23/1964-01-23" type="inclusive">1964 January 23</unitdate>
+            <container id="aspace_72f60a8ad7da241e3ee94d1ca855d222" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_c563f0d19edf00e9974b78bce9501f2d" parent="aspace_72f60a8ad7da241e3ee94d1ca855d222" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_20">
+        <c02 id="aspace_2246dc7568111b94e41f7062889ee06c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>To amend chapter nine hundred eighty of the laws of nineteen hundred and sixty two, entitled “An act in relation to the merger of the University of Buffalo into State University of New York...”</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-02-06">1964 February 06</unitdate>
+            <unitdate normal="1964-02-06/1964-02-06" type="inclusive">1964 February 06</unitdate>
+            <container id="aspace_8be02066fc3b8d8fcd14230c67eb5527" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_8bd90f9531d945d1596d92e205b96a89" parent="aspace_8be02066fc3b8d8fcd14230c67eb5527" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_21">
+        <c02 id="aspace_4fd8312fa2cb60e7359313759b458589" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>To amend the civil practice law and rules, in relation to the service of a summons upon filing notice of pendency</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-02-10">1964 February 10</unitdate>
+            <unitdate normal="1964-02-10/1964-02-10" type="inclusive">1964 February 10</unitdate>
+            <container id="aspace_2c7fcde9ae3b351be645a5e4d9967600" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_3cba8fd9df2d82fc1e13e587a92e5652" parent="aspace_2c7fcde9ae3b351be645a5e4d9967600" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_22">
+        <c02 id="aspace_b02edccbf5bf8bfdb1b556748e066a9c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>To amend the vehicle and traffic law, in relation to motor vehicles equipped with flashing lights</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-02-11">1964 February 11</unitdate>
+            <unitdate normal="1964-02-11/1964-02-11" type="inclusive">1964 February 11</unitdate>
+            <container id="aspace_bfdcac46bf91d5d181832b5fc418c7cb" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_35a9337c3f2be33ca3b603061bdc3be9" parent="aspace_bfdcac46bf91d5d181832b5fc418c7cb" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_23">
+        <c02 id="aspace_f0ac7628d42cbe437d8f38cf8e808ce0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23</container>
             <unittitle>To amend the insurance law, in relation to joint underwriting of group health insurance for persons aged sixty-five and over</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-02-12">1964 February 12</unitdate>
+            <unitdate normal="1964-02-12/1964-02-12" type="inclusive">1964 February 12</unitdate>
+            <container id="aspace_634b0e2e2cf8fc85c2513dee875b1ed4" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_a888cf8ebf018f8e5d8a21ae80e090b4" parent="aspace_634b0e2e2cf8fc85c2513dee875b1ed4" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_24">
+        <c02 id="aspace_29dcfcd3998acee67eb49925781b1181" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">24</container>
             <unittitle>To amend the vehicle and traffic law, in relation to speed limits established within areas</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-02-17">1964 February 17</unitdate>
+            <unitdate normal="1964-02-17/1964-02-17" type="inclusive">1964 February 17</unitdate>
+            <container id="aspace_1e00767763e9fa965354082cbe0e5d31" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_90963422a54d9c33eaa75e2ad34c1635" parent="aspace_1e00767763e9fa965354082cbe0e5d31" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_25">
+        <c02 id="aspace_6d7fec629505d3a817cad585ffbc1db2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">25</container>
             <unittitle>To amend the civil practice law and rules, in relation to proper garnishee ...</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-02-18">1964 February 18</unitdate>
+            <unitdate normal="1964-02-18/1964-02-18" type="inclusive">1964 February 18</unitdate>
+            <container id="aspace_8eb7e46080cf9637f1e71fa26e391868" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_cf0f5944e318c046fc10bc13110bea83" parent="aspace_8eb7e46080cf9637f1e71fa26e391868" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_26">
+        <c02 id="aspace_26f5bf8b4a69af9f7359197bb098d9bf" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">26</container>
             <unittitle>To amend the civil practice law and rules, in relation to fees of county clerks</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-02-18">1964 February 18</unitdate>
+            <unitdate normal="1964-02-18/1964-02-18" type="inclusive">1964 February 18</unitdate>
+            <container id="aspace_3bc4dd82769e5c985d3ed8060645a989" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_5a376de6b0815fe827bfc0c7cb0a9b81" parent="aspace_3bc4dd82769e5c985d3ed8060645a989" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_27">
+        <c02 id="aspace_1fb70d848dd923438f3dbed91acf5529" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">27</container>
             <unittitle>To amend the civil practice law and rules, in relation to making certain mechanical corrections therein</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-02-18">1964 February 18</unitdate>
+            <unitdate normal="1964-02-18/1964-02-18" type="inclusive">1964 February 18</unitdate>
+            <container id="aspace_7e44f33917c0b5132cd287367b75ac83" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_2d3eaceb17d1958b002a4484617840e7" parent="aspace_7e44f33917c0b5132cd287367b75ac83" type="Folder">27</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_28">
+        <c02 id="aspace_114a8c86170af1fb6b7721b9211f473d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">28</container>
-            <unittitle> To amend the insurance law, in relation to group accident, group health and group accident and health insurance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-02-18">1964 February 18</unitdate>
+            <unittitle>To amend the insurance law, in relation to group accident, group health and group accident and health insurance</unittitle>
+            <unitdate normal="1964-02-18/1964-02-18" type="inclusive">1964 February 18</unitdate>
+            <container id="aspace_93123c517f972c810f881fe112ffdcc0" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_3e7b2ca7917ef321ec25136597d2c257" parent="aspace_93123c517f972c810f881fe112ffdcc0" type="Folder">28</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_29">
+        <c02 id="aspace_98e03cbda4de0a0c3bba827d7be24ccd" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">29</container>
             <unittitle>To amend the code of criminal procedure, in relation to the powers of certain peace officers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-02-18">1964 February 18</unitdate>
+            <unitdate normal="1964-02-18/1964-02-18" type="inclusive">1964 February 18</unitdate>
+            <container id="aspace_819c6b9e2c2e3b17f3e6afacd68f8417" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_5f2953455b571692014b5c9abe7e878a" parent="aspace_819c6b9e2c2e3b17f3e6afacd68f8417" type="Folder">29</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_30">
+        <c02 id="aspace_d265b306e58a9a042f6f03bcb5269c98" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">30</container>
             <unittitle>To amend the penal law, in relation to the possession of firearms and weapons which simulate a machine-gun...</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-03-02">1964 March 02</unitdate>
+            <unitdate normal="1964-03-02/1964-03-02" type="inclusive">1964 March 02</unitdate>
+            <container id="aspace_de7a893f52cef2b9db84aae180bda7d3" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_8cf36922871f5a68c6077d0df8db6f5c" parent="aspace_de7a893f52cef2b9db84aae180bda7d3" type="Folder">30</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_31">
+        <c02 id="aspace_b3662473ea463ba9efc8b73be2b9c5d8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">31</container>
             <unittitle>To amend the code of criminal procedure, in relation to jurisdiction of courts and special sessions</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-03-02">1964 March 02</unitdate>
+            <unitdate normal="1964-03-02/1964-03-02" type="inclusive">1964 March 02</unitdate>
+            <container id="aspace_cc001faf797aa980d771ff6fd23218ad" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_e5af47419e115c36a545ba98a5f0683a" parent="aspace_cc001faf797aa980d771ff6fd23218ad" type="Folder">31</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_32">
+        <c02 id="aspace_9636c36111b8d47fd8551e89f61a7bb8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">32</container>
             <unittitle>To amend the vehicle and traffic law, in relation to inspection of tires</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-03-12">1964 March 12</unitdate>
-            <!--not in sequence, might 12 be a typo in fiding aid-->
+            <unitdate normal="1964-03-12/1964-03-12" type="inclusive">1964 March 12</unitdate>
+            <container id="aspace_22c8054ee9400c209b500ee01ecf62a6" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_aa649893a8caa941eb570dc681e22ab9" parent="aspace_22c8054ee9400c209b500ee01ecf62a6" type="Folder">32</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_33">
+        <c02 id="aspace_6081ccebd907ae741b51892d194a60f8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">33</container>
             <unittitle>To amend the education law, in relation to the position of assistant to a district superintendent or superintendents</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-03-02">1964 March 02</unitdate>
+            <unitdate normal="1964-03-02/1964-03-02" type="inclusive">1964 March 02</unitdate>
+            <container id="aspace_4d0dd51252edf4fcec5a6dc7a5b013ae" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_037661a1dfeae24ae736ad2b88c0abe1" parent="aspace_4d0dd51252edf4fcec5a6dc7a5b013ae" type="Folder">33</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_34">
+        <c02 id="aspace_d5c635f0fff98ab142ca9baeefd0a15d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">34</container>
             <unittitle>Making an appropriation to the department of education for the purpose of making an additional apportionment of moneys to...the towns of Cheektowaga and Lancaster...</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-03-23">1964 March 23</unitdate>
+            <unitdate normal="1964-03-23/1964-03-23" type="inclusive">1964 March 23</unitdate>
+            <container id="aspace_0c5a3aa8bb0ef7e471d66ea9b1f11480" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_c7ed278bbfebc5e9e14efb8c1c44de53" parent="aspace_0c5a3aa8bb0ef7e471d66ea9b1f11480" type="Folder">34</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_35">
+        <c02 id="aspace_167e6d0afb2c2a12b8fc2d60e8a815d3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">35</container>
             <unittitle>To amend the vehicle and traffic law, in relation to minimum specifications for retreaded tires</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965-01-06">1965 January 06</unitdate>
+            <unitdate normal="1965-01-06/1965-01-06" type="inclusive">1965 January 06</unitdate>
+            <container id="aspace_2089c1890847a02ac40028aea8c553c4" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_fc36ee96bddba0cf321f78a68a5d80f1" parent="aspace_2089c1890847a02ac40028aea8c553c4" type="Folder">35</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_36">
+        <c02 id="aspace_9804c4de4f228b9bff3337f424236fb2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">36</container>
             <unittitle>To amend the vehicle and traffic law, in relation to requiring certain motor vehicles to be equipped with seat safety belts</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965-01-06">1965 January 06</unitdate>
+            <unitdate normal="1965-01-06/1965-01-06" type="inclusive">1965 January 06</unitdate>
+            <container id="aspace_82078f38c7e54e3fd619bc1fab7d1906" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_d1737fcc1fdf676d78149a09fd896de8" parent="aspace_82078f38c7e54e3fd619bc1fab7d1906" type="Folder">36</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_37">
+        <c02 id="aspace_18d3f381f23bb4a1710e12c4fc25ed2f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">37</container>
             <unittitle>To amend the vehicle and traffic law, in relation to required equipment of school buses</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965-02-10">1965 February 10</unitdate>
+            <unitdate normal="1965-02-10/1965-02-10" type="inclusive">1965 February 10</unitdate>
+            <container id="aspace_15badb078a66d4a0e8d577e17d195526" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_1637fcb6951559671c0d6fa5f2d250ee" parent="aspace_15badb078a66d4a0e8d577e17d195526" type="Folder">37</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_38">
+        <c02 id="aspace_7ff2a2a605b15f9b6d3943e1c304a69a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">38</container>
             <unittitle>To amend the code of criminal procedure, in relation to arrest by a police officer without actual possession of a warrant</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965-03-02">1965 March 02</unitdate>
+            <unitdate normal="1965-03-02/1965-03-02" type="inclusive">1965 March 02</unitdate>
+            <container id="aspace_7db6ee60b4a8ec45d2c4edcf788bbc5f" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_b15733f42f378ab17f5cf30237c4288a" parent="aspace_7db6ee60b4a8ec45d2c4edcf788bbc5f" type="Folder">38</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_39">
+        <c02 id="aspace_6ba396de40c67c599089236776ec6f06" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">39</container>
             <unittitle>To amend the code of criminal procedure, in relation to payment of costs for preparation of the return in appeals from courts of special sessions...</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965-03-17">1965 March 17</unitdate>
+            <unitdate normal="1965-03-17/1965-03-17" type="inclusive">1965 March 17</unitdate>
+            <container id="aspace_ea075926f808dbc3be693532eaea964f" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_4d2036ea915f2e8b87ab7db1d8301149" parent="aspace_ea075926f808dbc3be693532eaea964f" type="Folder">39</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_40">
+        <c02 id="aspace_24304875eaec6cadd4badf0fe496b161" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">40</container>
             <unittitle>To amend the education law, in relation to exemption from liability of nurses rendering first aid or emergency treatment</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965-03-17">1965 March 17</unitdate>
+            <unitdate normal="1965-03-17/1965-03-17" type="inclusive">1965 March 17</unitdate>
+            <container id="aspace_7024f6fc833d893d00b5d00d946962a1" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_f20f59b48b6c21d043454a4d08ffd66f" parent="aspace_7024f6fc833d893d00b5d00d946962a1" type="Folder">40</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_41">
+        <c02 id="aspace_27a8fd25b12655a662b7b0af2df7d265" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">41</container>
             <unittitle>To amend the retirement and social security law, in relation to establishing a policemen’s and fireman’s retirement system...[1 of 2]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966-01-05">1966 January 05</unitdate>
+            <unitdate normal="1966-01-05/1966-01-05" type="inclusive">1966 January 05</unitdate>
+            <container id="aspace_a6f072a349672e2a49d1ef9fa47f325b" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_6f9112be48f9512feaa9ac88f653c028" parent="aspace_a6f072a349672e2a49d1ef9fa47f325b" type="Folder">41</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_42">
+        <c02 id="aspace_7cbcb6b689de9f2ae1856d35712d4caa" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">42</container>
             <unittitle>To amend the retirement and social security law, in relation to establishing a policemen’s and fireman’s retirement system...[2 of 2]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966-01-05">1966 January 05</unitdate>
+            <unitdate normal="1966-01-05/1966-01-05" type="inclusive">1966 January 05</unitdate>
+            <container id="aspace_d843867ebc06734901b197721bc357d1" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_44801d7f7fa806c77e925554596a7206" parent="aspace_d843867ebc06734901b197721bc357d1" type="Folder">42</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_43">
+        <c02 id="aspace_58bd7e688c8c2d4f95380f603b87268c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">43</container>
             <unittitle>To amend the local finance law, in relation to issuance of bonds by school districts...</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966-01-05">1966 January 05</unitdate>
+            <unitdate normal="1966-01-05/1966-01-05" type="inclusive">1966 January 05</unitdate>
+            <container id="aspace_a7b872a1d79ee3831c6e448fdc5025cd" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_14da98e586938aa236648c5942fcc39e" parent="aspace_a7b872a1d79ee3831c6e448fdc5025cd" type="Folder">43</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_44">
+        <c02 id="aspace_338aecbe47500a1d3a715c6ceb793adf" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">44</container>
             <unittitle>To authorize the commissioner of motor vehicles to receive...certain moneys for the purpose of having the State of New York design, construct and test a prototype safety car...</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966-01-12">1966 January 12</unitdate>
+            <unitdate normal="1966-01-12/1966-01-12" type="inclusive">1966 January 12</unitdate>
+            <container id="aspace_bf7a696f989751c1086765a6584d4c36" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_565857f22a13cdfd2dcd38513f85a808" parent="aspace_bf7a696f989751c1086765a6584d4c36" type="Folder">44</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_45">
+        <c02 id="aspace_6f9b17bc6aae212f30f70625fb39f3b9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">45</container>
             <unittitle>To amend town law, in relation to exclusions from central fire alarm systems in the Town of Cheektowaga, Erie County</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966-01-19">1966 January 19</unitdate>
+            <unitdate normal="1966-01-19/1966-01-19" type="inclusive">1966 January 19</unitdate>
+            <container id="aspace_097a842a7810977b06e6d97e7615ac23" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_65577907e0a65330e47771d20f6ff9c3" parent="aspace_097a842a7810977b06e6d97e7615ac23" type="Folder">45</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_46">
+        <c02 id="aspace_d7bf35ebb5d190f9afc0ecb44bfb3735" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">46</container>
             <unittitle>To amend the civil practice law and rules, in relation to service of legal papers upon a county</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966-01-19">1966 January 19</unitdate>
+            <unitdate normal="1966-01-19/1966-01-19" type="inclusive">1966 January 19</unitdate>
+            <container id="aspace_1aa497e6f5a6cb2fe19a0c7c09dbd8b0" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_4dbe05cac4b11fc6bd65848ba8c7f5ce" parent="aspace_1aa497e6f5a6cb2fe19a0c7c09dbd8b0" type="Folder">46</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_47">
+        <c02 id="aspace_55bb05ae16bbe52885218839730f8acd" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">47</container>
             <unittitle>To amend the county law, in relation to composition, duties and powers of the legislative body of a country</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966-01-19">1966 January 19</unitdate>
+            <unitdate normal="1966-01-19/1966-01-19" type="inclusive">1966 January 19</unitdate>
+            <container id="aspace_2a25b270e6772c9c7855319d35204555" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_ad91735068971e7b9b2bc5eaaee69c87" parent="aspace_2a25b270e6772c9c7855319d35204555" type="Folder">47</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_48">
+        <c02 id="aspace_a0faaa52b4f6bf2733af6fb4795b30d3" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">48</container>
             <unittitle>To amend the code of criminal procedure, in relation to certain peace officers designated as police officers and the use of force resisting arrest</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966-02-01">1966 February 01</unitdate>
+            <unitdate normal="1966-02-01/1966-02-01" type="inclusive">1966 February 01</unitdate>
+            <container id="aspace_0203c3430f50d2498c5ba368a951387a" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_0d374a4ad689f547898ab8849d6f7d5b" parent="aspace_0203c3430f50d2498c5ba368a951387a" type="Folder">48</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_49">
+        <c02 id="aspace_687d9c393810741a9c8de80434784fcd" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">49</container>
             <unittitle>To amend the public health law, in relation to stopping of motor vehicles by police officers to search for illegal narcotics</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966-02-08">1966 February 08</unitdate>
+            <unitdate normal="1966-02-08/1966-02-08" type="inclusive">1966 February 08</unitdate>
+            <container id="aspace_6e51e8762ae2dddcdee8b02c2d9fd639" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_f81f7dfc7ae125ad9cabba6f0e598ae0" parent="aspace_6e51e8762ae2dddcdee8b02c2d9fd639" type="Folder">49</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_50">
+        <c02 id="aspace_b7f68b7545894b05c8e9e60be62ad2ce" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">50</container>
             <unittitle>To amend the vehicle and traffic law, in relation to shopping centers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966-02-08">1966 February 08</unitdate>
+            <unitdate normal="1966-02-08/1966-02-08" type="inclusive">1966 February 08</unitdate>
+            <container id="aspace_6017f0cffae63df52865e53776951800" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_c987793cebd3412e7e5505a559853207" parent="aspace_6017f0cffae63df52865e53776951800" type="Folder">50</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_51">
+        <c02 id="aspace_3893b42e09f1b182a76e225cbdda8d83" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">51</container>
             <unittitle>To incorporate the Millgrove Volunteer Exempt Fireman’s Benevolent Association, and providing for it’s powers and duties</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966-02-08">1966 February 08</unitdate>
+            <unitdate normal="1966-02-08/1966-02-08" type="inclusive">1966 February 08</unitdate>
+            <container id="aspace_504ab5e396cba30a4fab659fae3c852f" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_b79e279f4f1313c4a39a157b18110139" parent="aspace_504ab5e396cba30a4fab659fae3c852f" type="Folder">51</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_52">
+        <c02 id="aspace_43618f4bf8feb925e270689ec7653cbe" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">52</container>
             <unittitle>To amend the vehicle and traffic law, in relation to following fire apparatus</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966-02-14">1966 February 14</unitdate>
+            <unitdate normal="1966-02-14/1966-02-14" type="inclusive">1966 February 14</unitdate>
+            <container id="aspace_9909a31721ed8ed49f7cea53a3a3933c" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_98f205b524f46d9b96168c41448eb293" parent="aspace_9909a31721ed8ed49f7cea53a3a3933c" type="Folder">52</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_53">
+        <c02 id="aspace_f4975c3b3b28c2378742dd617fe8ca8b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">53</container>
             <unittitle>To amend the code of criminal procedure, in relation to arrest by an officer without a warrant</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966-02">1966 February</unitdate>
-            <!--no day listed in finding aid-->
+            <unitdate normal="1966-02/1966-02" type="inclusive">1966 February</unitdate>
+            <container id="aspace_2eda9fb9863e93b3abbca9fc1b31f8d9" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_44143a91f03a35be10f18113db60d46f" parent="aspace_2eda9fb9863e93b3abbca9fc1b31f8d9" type="Folder">53</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-1_54">
+        <c02 id="aspace_23d8a1a0ce3e453b4656cdf683d400cd" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">54</container>
             <unittitle>To amend chapter five hundred sixty of the laws of nineteen hundred sixty-two, entitled “An act to incorporate the Sloan Exempt Volunteer Fireman’s Benevolent Association..."</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966-03-31">1966 March 31</unitdate>
+            <unitdate normal="1966-03-31/1966-03-31" type="inclusive">1966 March 31</unitdate>
+            <container id="aspace_d9010e7ccb397138a59d1d02b77294af" label="Mixed Materials" type="Box">1 (1-Legislation)</container>
+            <container id="aspace_ef118d130884396f344a8aca29c38211" parent="aspace_d9010e7ccb397138a59d1d02b77294af" type="Folder">54</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap285-2">
+      <c01 id="aspace_22478f68252e61b0f92f926c1b2f3922" level="series">
         <did>
+          <unittitle>Special Committees</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Special Committees</unittitle>
-          <unitdate type="inclusive" normal="1959/1966">1959-1966</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">1.0</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.0 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1959/1966" type="inclusive">1959-1966</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_4ce459fbb39d66fb0bf882a267d8a439">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
-          <p>The series contains drafts of special committee reports with related correspondence,
-		    notes, reports, clippings, and printed matter. Material includes work on the New York
-			State Law Revision Commission, Traffic Safety Committee, Temporary Commission to Revise
-			the Penal Law, and Insurance Committee.</p>
+        <scopecontent id="aspace_e94631b32cdca4430cec4fedd493cc39">
+          <head>Scope and Contents</head>
+          <p>The series contains drafts of special committee reports with related correspondence, notes, reports, clippings, and printed matter. Material includes work on the New York State Law Revision Commission, Traffic Safety Committee, Temporary Commission to Revise the Penal Law, and Insurance Committee.</p>
         </scopecontent>
-        <c02 id="nam_apap285-2_1">
+        <c02 id="aspace_409ada5687c85de9d9c4cc6b2b24aaeb" level="file">
           <did>
-            <container type="Box">1 Continued</container>
-            <container type="Folder">55</container>
             <unittitle>Administrative Law [1 of 2]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_9c5da046adcd8f13104f2ccf18007246" label="Mixed Materials" type="Box">1 Continued (2-Special Committees)</container>
+            <container id="aspace_a876bf2df8620d66967b4a5b7b571d1a" parent="aspace_9c5da046adcd8f13104f2ccf18007246" type="Folder">55</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-2_2">
+        <c02 id="aspace_ac3c255adea060832c503269ba4f94cd" level="file">
           <did>
-            <container type="Box">1 Continued</container>
-            <container type="Folder">56</container>
             <unittitle>Administrative Law [2 of 2]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_2f8b253608db4e7bb331b82f7ce662b7" label="Mixed Materials" type="Box">1 Continued (2-Special Committees)</container>
+            <container id="aspace_769578764829796542c44cf3b88e952e" parent="aspace_2f8b253608db4e7bb331b82f7ce662b7" type="Folder">56</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-2_3">
+        <c02 id="aspace_537410b29460766b75ebc6794c14dc1c" level="file">
           <did>
-            <container type="Box">1 Continued</container>
-            <container type="Folder">57</container>
             <unittitle>Committee on Codes</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960/1962">1960-1962</unitdate>
+            <unitdate normal="1960/1962" type="inclusive">1960-1962</unitdate>
+            <container id="aspace_e4169f0d52689d79d901834fd856edd1" label="Mixed Materials" type="Box">1 Continued (2-Special Committees)</container>
+            <container id="aspace_5bf96f7c642c6d9d17210aa8054a1140" parent="aspace_e4169f0d52689d79d901834fd856edd1" type="Folder">57</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-2_4">
+        <c02 id="aspace_45f004b6eb020fa801f31c8086ab8902" level="file">
           <did>
-            <container type="Box">1 Continued</container>
-            <container type="Folder">58</container>
             <unittitle>Ethics and Guidance Committee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965/1966">1965-1966</unitdate>
+            <unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate>
+            <container id="aspace_bbef5676d81de705d503243fe08fad8b" label="Mixed Materials" type="Box">1 Continued (2-Special Committees)</container>
+            <container id="aspace_b67cfeabdc523c0214f17888d397ee5b" parent="aspace_bbef5676d81de705d503243fe08fad8b" type="Folder">58</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-2_5">
+        <c02 id="aspace_4561442eba12231e65f04d6ae3469eb3" level="file">
           <did>
-            <container type="Box">1 Continued</container>
-            <container type="Folder">59</container>
             <unittitle>Insurance Committee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961">1961</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_71a3f8fccbcc1900ba6f763a3abfba54" label="Mixed Materials" type="Box">1 Continued (2-Special Committees)</container>
+            <container id="aspace_9c0051a26d06800e6b070f2a0c79e4bf" parent="aspace_71a3f8fccbcc1900ba6f763a3abfba54" type="Folder">59</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-2_6">
+        <c02 id="aspace_59d91a0138676cb6c6651ed4bda94f97" level="file">
           <did>
-            <container type="Box">1 Continued</container>
-            <container type="Folder">60</container>
             <unittitle>Joint Legislative Committee on Motor Vehicles and Traffic Safety</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963-10-11">1963 October 11</unitdate>
+            <unitdate normal="1963-10-11/1963-10-11" type="inclusive">1963 October 11</unitdate>
+            <container id="aspace_3d101f37777416c3596fb072d048bf96" label="Mixed Materials" type="Box">1 Continued (2-Special Committees)</container>
+            <container id="aspace_281b28d79252ecb97eea39cc7c109e65" parent="aspace_3d101f37777416c3596fb072d048bf96" type="Folder">60</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-2_7">
+        <c02 id="aspace_976f5d9354507382a4976ab77991f4be" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Law Revision Commission [1 of 2]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963">1963</unitdate>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_64dc55bea0ddb1cdbec3f7099992e89a" label="Mixed Materials" type="Box">2 (2-Special Committees)</container>
+            <container id="aspace_a79076bb45372e9478f52fc186987ffe" parent="aspace_64dc55bea0ddb1cdbec3f7099992e89a" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-2_8">
+        <c02 id="aspace_e8439d9c7897d69546e52d2c930ba7b9" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>Law Revision Commission [2 of 2]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963">1963</unitdate>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_c31b83d72fe0201ba7e8b34cf55597e0" label="Mixed Materials" type="Box">2 (2-Special Committees)</container>
+            <container id="aspace_51707cabb36b09e16a8bdaf83de1fd74" parent="aspace_c31b83d72fe0201ba7e8b34cf55597e0" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-2_9">
+        <c02 id="aspace_ded060aee7cc34c5da70a27161d1508b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Law Revision Commission</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/1964">1963-1964</unitdate>
+            <unitdate normal="1963/1964" type="inclusive">1963-1964</unitdate>
+            <container id="aspace_eb77daac6653fbf05d063ad64e13e3ef" label="Mixed Materials" type="Box">2 (2-Special Committees)</container>
+            <container id="aspace_b87b7f923cf55eafb41e5b107092eb2f" parent="aspace_eb77daac6653fbf05d063ad64e13e3ef" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-2_10">
+        <c02 id="aspace_4c8ff4c36f7b96b3f8844f145fb0cb41" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Law Revision Commission: Comments on the Draft Administrative Procedure Act</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_07fd1ce1672179390dfbb7d342b0b8bc" label="Mixed Materials" type="Box">2 (2-Special Committees)</container>
+            <container id="aspace_aa4d5e26ad807efef76300664d0e6f54" parent="aspace_07fd1ce1672179390dfbb7d342b0b8bc" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-2_11">
+        <c02 id="aspace_8468df0b4ac6cbaaac75b195826dcaa4" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5</container>
             <unittitle>Law Revision Commission, Second Projects Report</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_e677d7f6f97f4bd79b93f5ed91bb5b48" label="Mixed Materials" type="Box">2 (2-Special Committees)</container>
+            <container id="aspace_dbaad54d26b970915afb41d75ee48c0a" parent="aspace_e677d7f6f97f4bd79b93f5ed91bb5b48" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-2_12">
+        <c02 id="aspace_09c205d1bc3036a2ee099d1b5bdb2da6" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">6</container>
             <unittitle>Law Revision Committee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959/1963">1959-1963</unitdate>
+            <unitdate normal="1959/1963" type="inclusive">1959-1963</unitdate>
+            <container id="aspace_2a2d865052c651f243364135502207ee" label="Mixed Materials" type="Box">2 (2-Special Committees)</container>
+            <container id="aspace_6b6cb9adf9a10be6b025c1df2a937c36" parent="aspace_2a2d865052c651f243364135502207ee" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-2_13">
+        <c02 id="aspace_4d1858814e29812d5e89a0054a70bba4" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
             <unittitle>Law Revision Committee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_4a46d6d6cf6d566aa1a524baf87c5525" label="Mixed Materials" type="Box">2 (2-Special Committees)</container>
+            <container id="aspace_d3c4969b2ede0cb8d49991b3f408ddbf" parent="aspace_4a46d6d6cf6d566aa1a524baf87c5525" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-2_14">
+        <c02 id="aspace_92f5aaa0849f34b069ec3528aa16a2f3" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8</container>
             <unittitle>Law Revision Committee: Administrative Procedure Act</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_5a50c94a9ba4baf11d1f0fda3eedec3a" label="Mixed Materials" type="Box">2 (2-Special Committees)</container>
+            <container id="aspace_e9821cf583436125bbc7e32ea5330804" parent="aspace_5a50c94a9ba4baf11d1f0fda3eedec3a" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-2_15">
+        <c02 id="aspace_b4a00f008369ae08aaab4ec253aefc21" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">9</container>
             <unittitle>Law Revision Committee: Business Brokers’ Oral Contracts for Finder’s Commissions</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963">1963</unitdate>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_deb6b403f02c7d9e97e25d5141f3f155" label="Mixed Materials" type="Box">2 (2-Special Committees)</container>
+            <container id="aspace_8e8bdff2c938dc736bfbfb8577832d5c" parent="aspace_deb6b403f02c7d9e97e25d5141f3f155" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-2_16">
+        <c02 id="aspace_93e7715d27082ee77e4280acd19404bd" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10</container>
             <unittitle>Temporary Commission on Revision of the Penal Law and Criminal Code [1 of 3]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-03">1964 March</unitdate>
+            <unitdate normal="1964-03/1964-03" type="inclusive">1964 March</unitdate>
+            <container id="aspace_3f2573d2733fea1de843c25f62d3574e" label="Mixed Materials" type="Box">2 (2-Special Committees)</container>
+            <container id="aspace_65588fb9be197591f137085da0eda514" parent="aspace_3f2573d2733fea1de843c25f62d3574e" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-2_17">
+        <c02 id="aspace_a04808af7d92ff80c79d505a9bf1e548" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">11</container>
             <unittitle>Temporary Commission on Revision of the Penal Law and Criminal Code [2 of 3]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-03">1964 March</unitdate>
+            <unitdate normal="1964-03/1964-03" type="inclusive">1964 March</unitdate>
+            <container id="aspace_fe7108a761dc21431e0764ce3d353d28" label="Mixed Materials" type="Box">2 (2-Special Committees)</container>
+            <container id="aspace_876ee3fe408720326563602ecf54ebcc" parent="aspace_fe7108a761dc21431e0764ce3d353d28" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-2_18">
+        <c02 id="aspace_e35765d4b1bfe2ef43580ff9a3428a14" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">12</container>
             <unittitle>Temporary Commission on Revision of the Penal Law and Criminal Code [3 of 3]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-03">1964 March</unitdate>
+            <unitdate normal="1964-03/1964-03" type="inclusive">1964 March</unitdate>
+            <container id="aspace_c13135298bf5c7a1c6a4b9dc0e66f07e" label="Mixed Materials" type="Box">2 (2-Special Committees)</container>
+            <container id="aspace_29a7cb58a2f0c4aa5c1f645f9f23a6d0" parent="aspace_c13135298bf5c7a1c6a4b9dc0e66f07e" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-2_19">
+        <c02 id="aspace_567e3d16c3a02bb1ca928ea21288cce9" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">13</container>
             <unittitle>Traffic Safety Commission</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960/1962">1960-1962</unitdate>
+            <unitdate normal="1960/1962" type="inclusive">1960-1962</unitdate>
+            <container id="aspace_2759538a429bba686e762be42dd3522e" label="Mixed Materials" type="Box">2 (2-Special Committees)</container>
+            <container id="aspace_ad668e99a9bf96276ccff6c376d9c24d" parent="aspace_2759538a429bba686e762be42dd3522e" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-2_20">
+        <c02 id="aspace_395de3084debc945e3c202912aa1e946" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">14</container>
             <unittitle>Traffic Safety Commission</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963">1963</unitdate>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_1975651717e7a211d6581f21251badfd" label="Mixed Materials" type="Box">2 (2-Special Committees)</container>
+            <container id="aspace_0734f76887b8c33a2785f7523b0965fe" parent="aspace_1975651717e7a211d6581f21251badfd" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-2_21">
+        <c02 id="aspace_5780d3cc63a2596da48abb2d988ea093" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">15</container>
             <unittitle>Traffic Safety Commission</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966">1966</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_710b5a5553866ae64c3f7a592322092f" label="Mixed Materials" type="Box">2 (2-Special Committees)</container>
+            <container id="aspace_16b9192bc8a19b1e2559c62e171915c6" parent="aspace_710b5a5553866ae64c3f7a592322092f" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-2_22">
+        <c02 id="aspace_8e98479581f2b78339ad33e1eb90e665" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">16</container>
             <unittitle>Traffic Safety Committee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964/1966">1964-1966</unitdate>
+            <unitdate normal="1964/1966" type="inclusive">1964-1966</unitdate>
+            <container id="aspace_6de360e2d92a1ee72d83be69a62dd40e" label="Mixed Materials" type="Box">2 (2-Special Committees)</container>
+            <container id="aspace_9f3d2d7afb48f287c6c1bb293b0f868f" parent="aspace_6de360e2d92a1ee72d83be69a62dd40e" type="Folder">16</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap285-3">
+      <c01 id="aspace_402ebe07f2a0da43ba4f6e7818a56d71" level="series">
         <did>
+          <unittitle>Correspondence</unittitle>
           <unitid>3</unitid>
-          <unittitle label="Series">Correspondence</unittitle>
-          <unitdate type="inclusive" normal="1958">1958</unitdate>
-          <unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate>
-          <unitdate type="inclusive" normal="1963/1966">1963-1966</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">0.5</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.5 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+          <unitdate normal="1960/1961" type="inclusive">1960-1961</unitdate>
+          <unitdate normal="1963/1966" type="inclusive">1963-1966</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_1ceb210407cf68706c35cb50e5cc0b5f">
+          <head>Arrangement</head>
           <p>Arranged chronologically.</p>
         </arrangement>
-        <scopecontent>
-          <p>This series includes letters, newspaper clippings, reports, memos, vouchers and printed
-            materials.</p>
+        <scopecontent id="aspace_126c4347b38ee747bee91ec3b2dba5a4">
+          <head>Scope and Contents</head>
+          <p>This series includes letters, newspaper clippings, reports, memos, vouchers and printed materials.</p>
         </scopecontent>
-        <c02 id="nam_apap285-3_1">
+        <c02 id="aspace_a2915dacca6d4d0ce4531bf20da19034" level="file">
           <did>
-            <container type="Box">2 Continued</container>
-            <container type="Folder">17</container>
             <unittitle>Assembly Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958">1958</unitdate>
+            <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_60c623613f44f6c668064350046f1fb8" label="Mixed Materials" type="Box">2 Continued (3-Correspondence)</container>
+            <container id="aspace_012c7a03482df1d1836452b21e065d76" parent="aspace_60c623613f44f6c668064350046f1fb8" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-3_2">
+        <c02 id="aspace_88eded371022c3d6a19e2ae62bc2648e" level="file">
           <did>
-            <container type="Box">2 Continued</container>
-            <container type="Folder">18</container>
             <unittitle>Assembly Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1960">1960</unitdate>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_2ceef17c485f35b97597fbe51c46a50e" label="Mixed Materials" type="Box">2 Continued (3-Correspondence)</container>
+            <container id="aspace_eeba5167321ee5c40a4fcae0e1179451" parent="aspace_2ceef17c485f35b97597fbe51c46a50e" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-3_3">
+        <c02 id="aspace_b210f1a9e1e3aeb416be6c62a8e62f27" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>Assembly Correspondence [1 of 2]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961">1961</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_d49e9373e99ffcac11f712c17357eeb4" label="Mixed Materials" type="Box">3 (3-Correspondence)</container>
+            <container id="aspace_ac57b962a3e04f915439dad39c352f6c" parent="aspace_d49e9373e99ffcac11f712c17357eeb4" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-3_4">
+        <c02 id="aspace_c2d857a00f1c5a2772f4fc6d93e036fa" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>Assembly Correspondence [2 of 2]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961">1961</unitdate>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_5d65633d19dd16cde01ad71e8f5b0e60" label="Mixed Materials" type="Box">3 (3-Correspondence)</container>
+            <container id="aspace_0a2f9e98c0abb88ffba81fab89826db0" parent="aspace_5d65633d19dd16cde01ad71e8f5b0e60" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-3_5">
+        <c02 id="aspace_3216d36ff9403e51996d58ac06fe9cf7" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">3</container>
             <unittitle>Assembly Correspondence [1 of 2]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963">1963</unitdate>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_59a315dc612dc8a0121e02ea08047474" label="Mixed Materials" type="Box">3 (3-Correspondence)</container>
+            <container id="aspace_f3e4dc193c25a269d6df31dd0d54c21e" parent="aspace_59a315dc612dc8a0121e02ea08047474" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-3_6">
+        <c02 id="aspace_bc0caec6475422ca67c6ed9d667ac405" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4</container>
             <unittitle>Assembly Correspondence [2 of 2]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963">1963</unitdate>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_d6210ccb080f9a19e927c190fb6f6655" label="Mixed Materials" type="Box">3 (3-Correspondence)</container>
+            <container id="aspace_03f8878d031e4743a1c14711bc26757d" parent="aspace_d6210ccb080f9a19e927c190fb6f6655" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-3_7">
+        <c02 id="aspace_a91d28abcd3c38c158dfb2fbae5da246" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">5</container>
             <unittitle>Assembly Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_79235da35aa2fcc786eec41838cb3488" label="Mixed Materials" type="Box">3 (3-Correspondence)</container>
+            <container id="aspace_87441e234443d1cc19cc22b5fb653dfb" parent="aspace_79235da35aa2fcc786eec41838cb3488" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-3_8">
+        <c02 id="aspace_4574c7bf98d64cfeb0aab7226f2cd113" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">6</container>
             <unittitle>Assembly Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_8c5453ee239b8e24ebc9af3b290b41ee" label="Mixed Materials" type="Box">3 (3-Correspondence)</container>
+            <container id="aspace_181930026a5fba8cfcbdbc0e2e6b7b75" parent="aspace_8c5453ee239b8e24ebc9af3b290b41ee" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-3_9">
+        <c02 id="aspace_14b22f103d558a85473b6041a764d337" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">7</container>
             <unittitle>Assembly Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966">1966</unitdate>
+            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_f5ff8467ae5698cc4078dcf6e1e004e3" label="Mixed Materials" type="Box">3 (3-Correspondence)</container>
+            <container id="aspace_d51be021cf278fe1efa2c1cf8f81c149" parent="aspace_f5ff8467ae5698cc4078dcf6e1e004e3" type="Folder">7</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap285-4">
+      <c01 id="aspace_0e31dd9890e5cf6ef8c90df2ecb102c8" level="series">
         <did>
+          <unittitle>Subject Files</unittitle>
           <unitid>4</unitid>
-          <unittitle label="Series">Subject Files</unittitle>
-          <unitdate type="inclusive" normal="1961/1965">1961-1965</unitdate>
-          <unitdate type="inclusive" normal="1958/1966">Undated</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">1.0</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.0 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1961/1965" type="inclusive">1961-1965</unitdate>
+          <unitdate normal="1958/1966" type="inclusive">Undated</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_47b1c6cbd1707b728bec47b3d8856447">
+          <head>Arrangement</head>
           <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
-          <p>The subject files relate to research in various fields of interest and include 
-           papers on Mr. Volker’s professional development as a lawyer. There is material
-		   on alcohol and drug addiction with reference to the legal statutes of New York State.</p>
+        <scopecontent id="aspace_4dc2d99e574f01b206c0b6c0ac706d84">
+          <head>Scope and Contents</head>
+          <p>The subject files relate to research in various fields of interest and include papers on Mr. Volker’s professional development as a lawyer. There is material on alcohol and drug addiction with reference to the legal statutes of New York State.</p>
         </scopecontent>
-        <c02 id="nam_apap285-4_1">
+        <c02 id="aspace_aed81bf974226d3a6b9c73cce54c23ce" level="file">
           <did>
-            <container type="Box">3 Continued</container>
-            <container type="Folder">8</container>
             <unittitle>Alcoholic Beverage Control Law, New York State Moreland Commission</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963">1963</unitdate>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_40aafe8221e6a0f28745df44809e3d62" label="Mixed Materials" type="Box">3 Continued (4-Subject Files)</container>
+            <container id="aspace_4428149f15fc1178718fdf15ec0f4a55" parent="aspace_40aafe8221e6a0f28745df44809e3d62" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-4_2">
+        <c02 id="aspace_34a1b0eb1b0b4413edbaa63a5b27bf9e" level="file">
           <did>
-            <container type="Box">3 Continued</container>
-            <container type="Folder">9</container>
             <unittitle>Assembly District, Erie County</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1966">Undated</unitdate>
+            <unitdate normal="1958/1966" type="inclusive">Undated</unitdate>
+            <container id="aspace_a6c07a7f278f5af380af0ada79449451" label="Mixed Materials" type="Box">3 Continued (4-Subject Files)</container>
+            <container id="aspace_b445ff53b096728897aebb914726006c" parent="aspace_a6c07a7f278f5af380af0ada79449451" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-4_3">
+        <c02 id="aspace_4d7b64c81f0b15262419e7498713651f" level="file">
           <did>
-            <container type="Box">3 Continued</container>
-            <container type="Folder">10</container>
             <unittitle>Assembly, General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1966">Undated</unitdate>
+            <unitdate normal="1958/1966" type="inclusive">Undated</unitdate>
+            <container id="aspace_6478b9875d578d09fb25018bca145239" label="Mixed Materials" type="Box">3 Continued (4-Subject Files)</container>
+            <container id="aspace_b18f3e6220bbe388652054aa1763a56a" parent="aspace_6478b9875d578d09fb25018bca145239" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-4_4">
+        <c02 id="aspace_2758d85df71031a9dc0b129cecccbeca" level="file">
           <did>
-            <container type="Box">3 Continued</container>
-            <container type="Folder">11</container>
             <unittitle>The Association of the Bar of the City of New York, Committee on State Legislation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1966">Undated</unitdate>
+            <unitdate normal="1958/1966" type="inclusive">Undated</unitdate>
+            <container id="aspace_b6a351550099ac2b0b6626e5878d05e9" label="Mixed Materials" type="Box">3 Continued (4-Subject Files)</container>
+            <container id="aspace_4ef1de8be563ebfe1e753b485c407647" parent="aspace_b6a351550099ac2b0b6626e5878d05e9" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-4_5">
+        <c02 id="aspace_744c972dce7cf2a5c7bddc6725b3ada0" level="file">
           <did>
-            <container type="Box">3 Continued</container>
-            <container type="Folder">12</container>
             <unittitle>Civil Practice Act</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1963">1962-1963</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1966">Undated</unitdate>
+            <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
+            <unitdate normal="1958/1966" type="inclusive">Undated</unitdate>
+            <container id="aspace_a9f81699829a789a9c82506237f6980e" label="Mixed Materials" type="Box">3 Continued (4-Subject Files)</container>
+            <container id="aspace_85c3658e9d24f2256adb955b302feae6" parent="aspace_a9f81699829a789a9c82506237f6980e" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-4_6">
+        <c02 id="aspace_aec5b65b71ab7d6f298792b80a58f077" level="file">
           <did>
-            <container type="Box">3 Continued</container>
-            <container type="Folder">13</container>
-            <unittitle> Conflicts of Interest in Automobile Liability Insurance Cases [1 of 2]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1966">Undated</unitdate>
+            <unittitle>Conflicts of Interest in Automobile Liability Insurance Cases [1 of 2]</unittitle>
+            <unitdate normal="1958/1966" type="inclusive">Undated</unitdate>
+            <container id="aspace_2ef39205f1ad939eddd69ab37c327402" label="Mixed Materials" type="Box">3 Continued (4-Subject Files)</container>
+            <container id="aspace_e441bb354a8c06152f1f65e5220cef5c" parent="aspace_2ef39205f1ad939eddd69ab37c327402" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-4_7">
+        <c02 id="aspace_221f4cb7eca9287cb50d414c6537e3f1" level="file">
           <did>
-            <container type="Box">3 Continued</container>
-            <container type="Folder">14</container>
             <unittitle>Conflicts of Interest in Automobile Liability Insurance Cases [2 of 2]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1966">Undated</unitdate>
+            <unitdate normal="1958/1966" type="inclusive">Undated</unitdate>
+            <container id="aspace_18c734c1e2d7a16b2dac54b7c74448c2" label="Mixed Materials" type="Box">3 Continued (4-Subject Files)</container>
+            <container id="aspace_f18c64ce66fad18ab57662d281a7f9e6" parent="aspace_18c734c1e2d7a16b2dac54b7c74448c2" type="Folder">14</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-4_8">
+        <c02 id="aspace_c8a7756b679e6fa98fe13375091ca5fd" level="file">
           <did>
-            <container type="Box">3 Continued</container>
-            <container type="Folder">15</container>
             <unittitle>Dictation of Defamatory Matter by Lawyer to his Secretary as Publication of a Libel</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1966">Undated</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <unitdate normal="1958/1966" type="inclusive">Undated</unitdate>
+            <container id="aspace_6e3d19137e2cb37e5f7ed8e126510f01" label="Mixed Materials" type="Box">3 Continued (4-Subject Files)</container>
+            <container id="aspace_4ce32c553a14057f63e20112eec45c57" parent="aspace_6e3d19137e2cb37e5f7ed8e126510f01" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-4_9">
+        <c02 id="aspace_0d5a6e5d46f8f9f76b2632f1afd34d17" level="file">
           <did>
-            <container type="Box">3 Continued</container>
-            <container type="Folder">16</container>
             <unittitle>First Projects Report</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_282e69f77bddb1370c0a14d80ae4d3e5" label="Mixed Materials" type="Box">3 Continued (4-Subject Files)</container>
+            <container id="aspace_bcaac4325eb2885677c09df908516ff0" parent="aspace_282e69f77bddb1370c0a14d80ae4d3e5" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-4_10">
+        <c02 id="aspace_6c3ed3ed9ddaeed288149b93a6f59a5a" level="file">
           <did>
-            <container type="Box">3 Continued</container>
-            <container type="Folder">17</container>
             <unittitle>The Judicial Conference of the State of New York</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965-02">1965 February</unitdate>
+            <unitdate normal="1965-02/1965-02" type="inclusive">1965 February</unitdate>
+            <container id="aspace_24aff3c2f4b9f4c74d4bbe182604a1a6" label="Mixed Materials" type="Box">3 Continued (4-Subject Files)</container>
+            <container id="aspace_496eab8f31524df3da42ab840d7b9808" parent="aspace_24aff3c2f4b9f4c74d4bbe182604a1a6" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-4_11">
+        <c02 id="aspace_a6eae58f697559404b37586bd1930863" level="file">
           <did>
-            <container type="Box">3 Continued</container>
-            <container type="Folder">18</container>
             <unittitle>Liability for Damages from Explosions...</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1966">Undated</unitdate>
+            <unitdate normal="1958/1966" type="inclusive">Undated</unitdate>
+            <container id="aspace_74ff2080dbda54a756ae35e751205507" label="Mixed Materials" type="Box">3 Continued (4-Subject Files)</container>
+            <container id="aspace_b488ba4a383f4e84cf4b0d8654bd2692" parent="aspace_74ff2080dbda54a756ae35e751205507" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-4_12">
+        <c02 id="aspace_58aa466a5fb6d393db427f819940d022" level="file">
           <did>
-            <container type="Box">3 Continued</container>
-            <container type="Folder">19</container>
             <unittitle>Limitation of Term of Infants Contracts for Certain Professional Employments</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1966">Undated</unitdate>
+            <unitdate normal="1958/1966" type="inclusive">Undated</unitdate>
+            <container id="aspace_14221d1dcb55ce93d2362ece1bc0c3da" label="Mixed Materials" type="Box">3 Continued (4-Subject Files)</container>
+            <container id="aspace_e2f4e8f6c07fb387392c10370dcce253" parent="aspace_14221d1dcb55ce93d2362ece1bc0c3da" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-4_13">
+        <c02 id="aspace_06df24217681d0981ef50e49d107429a" level="file">
           <did>
-            <container type="Box">3 Continued</container>
-            <container type="Folder">20</container>
             <unittitle>Lost or Destroyed Instruments Essential to the Existence of a Right</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1966">Undated</unitdate>
+            <unitdate normal="1958/1966" type="inclusive">Undated</unitdate>
+            <container id="aspace_3601d3541fdb99a3f0d3f6237e07a51c" label="Mixed Materials" type="Box">3 Continued (4-Subject Files)</container>
+            <container id="aspace_90b49cdc2751b40a18d9af5a39f37255" parent="aspace_3601d3541fdb99a3f0d3f6237e07a51c" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-4_14">
+        <c02 id="aspace_3eb321b5de88f4b4d1ab0da9f5167e67" level="file">
           <did>
-            <container type="Box">3 Continued</container>
-            <container type="Folder">21</container>
             <unittitle>Narcotics</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1966">Undated</unitdate>
+            <unitdate normal="1961/1962" type="inclusive">1961-1962</unitdate>
+            <unitdate normal="1958/1966" type="inclusive">Undated</unitdate>
+            <container id="aspace_9c371f635f1552cd877e6ec330338a91" label="Mixed Materials" type="Box">3 Continued (4-Subject Files)</container>
+            <container id="aspace_0faae0f4c4c2c27e8d6e78403789b9d8" parent="aspace_9c371f635f1552cd877e6ec330338a91" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-4_15">
+        <c02 id="aspace_dfe9dd78b50ef99dcd6bbf827e6f1100" level="file">
           <did>
-            <container type="Box">3 Continued</container>
-            <container type="Folder">22</container>
-            <unittitle> Nature of Interest in Property Condemned by a Railroad...</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1966">Undated</unitdate>
+            <unittitle>Nature of Interest in Property Condemned by a Railroad...</unittitle>
+            <unitdate normal="1958/1966" type="inclusive">Undated</unitdate>
+            <container id="aspace_41e92f7d1447035c9dcdf8c59aa90640" label="Mixed Materials" type="Box">3 Continued (4-Subject Files)</container>
+            <container id="aspace_72b59178b67f0f7ac9782684f9f1da77" parent="aspace_41e92f7d1447035c9dcdf8c59aa90640" type="Folder">22</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-4_16">
+        <c02 id="aspace_c90ff379851eae7078c4a4f352ada2a8" level="file">
           <did>
-            <container type="Box">3 Continued</container>
-            <container type="Folder">23</container>
             <unittitle>Pure Waters</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1966">Undated</unitdate>
+            <unitdate normal="1958/1966" type="inclusive">Undated</unitdate>
+            <container id="aspace_05cd7266132bd74353357ca5aaf0fa3d" label="Mixed Materials" type="Box">3 Continued (4-Subject Files)</container>
+            <container id="aspace_aa755da8f7e7b6daf84f62381f26689a" parent="aspace_05cd7266132bd74353357ca5aaf0fa3d" type="Folder">23</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-4_17">
+        <c02 id="aspace_187e61eb58e6d7566f84787993882c30" level="file">
           <did>
-            <container type="Box">3 Continued</container>
-            <container type="Folder">24</container>
             <unittitle>Real Property Actions and Proceedings Law</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1966">Undated</unitdate>
+            <unitdate normal="1958/1966" type="inclusive">Undated</unitdate>
+            <container id="aspace_2614d3520193cb1cc65defa8db8dc12f" label="Mixed Materials" type="Box">3 Continued (4-Subject Files)</container>
+            <container id="aspace_7e605436a2d4c17cc3002e0e3a014f59" parent="aspace_2614d3520193cb1cc65defa8db8dc12f" type="Folder">24</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-4_18">
+        <c02 id="aspace_aa6cbe19c74a896fb8272d30008aba69" level="file">
           <did>
-            <container type="Box">3 Continued</container>
-            <container type="Folder">25</container>
             <unittitle>Requirement of Hospitalization...</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1966">Undated</unitdate>
+            <unitdate normal="1958/1966" type="inclusive">Undated</unitdate>
+            <container id="aspace_985c649fe75bb542afc87fa0ff48b96d" label="Mixed Materials" type="Box">3 Continued (4-Subject Files)</container>
+            <container id="aspace_bea670ef1dbbe039e265add3edcdd677" parent="aspace_985c649fe75bb542afc87fa0ff48b96d" type="Folder">25</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-4_19">
+        <c02 id="aspace_b2374fc354ef7ea0dd0fc581577e1cab" level="file">
           <did>
-            <container type="Box">3 Continued</container>
-            <container type="Folder">26</container>
-            <unittitle> Report by the New York State Commission of Investigation Concerning Pistol Licensing Laws...</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-11">1964 November</unitdate>
+            <unittitle>Report by the New York State Commission of Investigation Concerning Pistol Licensing Laws...</unittitle>
+            <unitdate normal="1964-11/1964-11" type="inclusive">1964 November</unitdate>
+            <container id="aspace_d27e5a09e2c453c2bbba5e06ad72973a" label="Mixed Materials" type="Box">3 Continued (4-Subject Files)</container>
+            <container id="aspace_d235e7b26d507e30d6d0ece73a9d269c" parent="aspace_d27e5a09e2c453c2bbba5e06ad72973a" type="Folder">26</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-4_20">
+        <c02 id="aspace_8620498e976693d890d1507b2618c7b1" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">1</container>
             <unittitle>Summary of Legislation [1 of 2]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1966">Undated</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <unitdate normal="1958/1966" type="inclusive">Undated</unitdate>
+            <container id="aspace_8beb5dcdbb10cf4d90dad1b1dbaf92a9" label="Mixed Materials" type="Box">4 (4-Subject Files)</container>
+            <container id="aspace_883bcb0826bcc99074b94e585ecee310" parent="aspace_8beb5dcdbb10cf4d90dad1b1dbaf92a9" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-4_21">
+        <c02 id="aspace_134f29d9ddd3f2595a9a954816232839" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">2</container>
             <unittitle>Summary of Legislation [2 of 2]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1958/1966">Undated</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <unitdate normal="1958/1966" type="inclusive">Undated</unitdate>
+            <container id="aspace_5f9ad5d5d6738f7ffbe9a6bd542592bb" label="Mixed Materials" type="Box">4 (4-Subject Files)</container>
+            <container id="aspace_7f7a34089ab8f32ee9b8ff76845b0368" parent="aspace_5f9ad5d5d6738f7ffbe9a6bd542592bb" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_apap285-4_22">
+        <c02 id="aspace_b3fbef0a178372ff2d409729cdb4d342" level="file">
           <did>
-            <container type="Box">4</container>
-            <container type="Folder">3</container>
             <unittitle>Temporary Commission of Investigation Sixth Annual Report</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964-03">1964 March</unitdate>
+            <unitdate normal="1964-03/1964-03" type="inclusive">1964 March</unitdate>
+            <container id="aspace_213de9507b5df22af835c31183618c9e" label="Mixed Materials" type="Box">4 (4-Subject Files)</container>
+            <container id="aspace_51717ad409300461279b8bb48698e21f" parent="aspace_213de9507b5df22af835c31183618c9e" type="Folder">3</container>
           </did>
         </c02>
       </c01>

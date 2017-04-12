@@ -1,1155 +1,1084 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap229">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap229.xml" identifier="##">nam_apap229</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap229">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap229.xml">apap229</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper encodinganalog="Title">FREDERIC S. BERMAN PAPERS (APAP229)<date normal="1962/1975">1962-1975</date>
-        </titleproper>
-        <author encodinganalog="Creator">Laura Welch</author>
+        <titleproper>Berman, Frederic S.; Papers <num>apap229</num></titleproper>
+        <author>Laura Welch</author>
       </titlestmt>
       <publicationstmt>
-        <publisher encodinganalog="Publisher">M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date encodinganalog="Date" normal="2012">Copyright 2012 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2012</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Laura Welch<date normal="2012">2012</date></creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
-      <descrules>Finding aid prepared using Describing Archives: A Content Standard
-        (DACS)</descrules>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 15:07:57 -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2012</date>
+        <item>Encoded in EAD by Laura Welch</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap229</unitid>
-      <unittitle>Frederic S. Berman Papers <unitdate type="inclusive" normal="1962/1975" label="Date:"> 1962-1975</unitdate>
-      </unittitle>
-      <physdesc label="Physical Characteristics:">
-        <extent unit="cubic ft.">2.0</extent>
-      </physdesc>
-      <origination>
-        <persname encodinganalog="100" source="lcsh">Berman, Frederic S.</persname>
-      </origination>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:"> The Frederic S. Berman Papers predominantly document his service
-        in the New York State Senate through correspondence, newsclippings, bills, research material
-        and campaign literature. In addition, there are files pertaining to his post-Senatorial
-        career as the Commissioner of the New York City Rent and Housing Department and as a New
-        York City Criminal Court Judge.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Frederic S. Berman Papers<unitdate normal="1962/1975" type="inclusive">1962-1975</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="lcsh">Berman, Frederic S.</persname>
+      </origination>
+      <unitid>apap229</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.0 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_6ee73383286a83336fa4bf165e65f143">The Frederic S. Berman Papers predominantly document his service in the New York State Senate through correspondence, newsclippings, bills, research material and campaign literature. In addition, there are files pertaining to his post-Senatorial career as the Commissioner of the New York City Rent and Housing Department and as a New York City Criminal Court Judge.</abstract>
+      <langmaterial id="aspace_113c6cfdcbc1e5a536f154d1289dc124">English</langmaterial>
+      <physloc id="aspace_a64924a5d158ee3a5a4de388b1bf090c">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_a52b5bddf8fb2f82ca7dcb87c7820687">
+      <head>Processing Information</head>
+      <p>Processed in 2012 by Laura Welch.</p>
+    </processinfo>
+    <accessrestrict id="aspace_aec0356414397f8deb6dff47329043d9">
       <head>Access</head>
-      <p> Access to this record group is unrestricted. </p>
+      <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_4a196f8397b15915b023baf862971a49">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_8aedfcdf0505be7677a5246347f77f99">
       <head>Acquisition Information</head>
-      <p>Frederic Berman initially donated his papers to Syracuse University in a series of
-        accessions beginning in 1966. In 2006, the papers were transferred to the M.E. Grenander
-        Department of Special Collections and Archives. </p>
+      <p>Frederic Berman initially donated his papers to Syracuse University in a series of accessions beginning in 1966. In 2006, the papers were transferred to the M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_9f3a073f777bcf7d86191bfe00365849">
       <head>Biographical Sketch</head>
-      <p>Frederic S. Berman was born on March 7, 1927 in New York. He graduated from Columbia
-        College in 1949 and received his law degree from New York Law School in 1951. Berman
-        practiced as an attorney at the firm Berman &amp; Berman from 1952-1964 and again from
-        1969-1972, specializing in business law. He also was an adjunct member of the faculty at New
-        York Law School from 1958-2003, teaching such courses as criminal law, personal property,
-        municipal law and post-conviction remedies and procedures.</p>
-      <p>Berman entered public service in the 1960s. Voters from the 20th District elected him to
-        the New York State Senate in 1964. A Democrat, he served from 1964-1966 and focused on
-        issues of air pollution, tenants' rights, and legislative ethics. He was a member of the
-        Corporations, Education, Finance, Motor Vehicles and Transportation and Taxation Committees.
-        As the Commissioner of the New York City Rent and Housing Department from 1966-1969 he
-        spearheaded efforts to slow rising rent through rent control and reform measures. He also
-        served as a New York City Criminal Court Judge from 1973-1976 and sat on the New York State
-        Supreme Court from 1976-1997.</p>
-      <p>Since 2006, he has served as Adjunct Professor Emeritus at New York Law School and is known
-        as an authority on law and social change.</p>
+      <p>Frederic S. Berman was born on March 7, 1927 in New York. He graduated from Columbia College in 1949 and received his law degree from New York Law School in 1951. Berman practiced as an attorney at the firm Berman &amp; Berman from 1952-1964 and again from 1969-1972, specializing in business law. He also was an adjunct member of the faculty at New York Law School from 1958-2003, teaching such courses as criminal law, personal property, municipal law and post-conviction remedies and procedures.</p>
+      <p> Berman entered public service in the 1960s. Voters from the 20th District elected him to the New York State Senate in 1964. A Democrat, he served from 1964-1966 and focused on issues of air pollution, tenants' rights, and legislative ethics. He was a member of the Corporations, Education, Finance, Motor Vehicles and Transportation and Taxation Committees. As the Commissioner of the New York City Rent and Housing Department from 1966-1969 he spearheaded efforts to slow rising rent through rent control and reform measures. He also served as a New York City Criminal Court Judge from 1973-1976 and sat on the New York State Supreme Court from 1976-1997.</p>
+      <p> Since 2006, he has served as Adjunct Professor Emeritus at New York Law School and is known as an authority on law and social change.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The collection predominantly contains materials acquired by Frederic Berman during his time
-        as a New York State Senator. Series 1, Senatorial Papers, contains campaign information as
-        well as results from public opinion surveys. Campaign literature from Bruno Cappellini,
-        Eleanor Clark French, John G. Heimann, Eric M. Javits, Robert Kennedy, and John V. Lindsay,
-        and other contemporary New York politicians is found throughout the files. The Berman Papers
-        also feature a substantial variety of newsclippings from local New York City news sources
-        pertaining to Berman's political platforms, such as air pollution, political ethics, and
-        rent and housing issues. Bills introduced by New York State Senator MacNeil Mitchell and
-        background materials about Mitchell, whom Berman defeated in the 1964 State Senate election,
-        are abundant in Berman's research files.</p>
-      <p>Series 2, Post-Senatorial Papers, contains materials from Berman's time as the Commissioner
-        of the New York City Rent and Housing Department and includes pamphlets, bound reports,
-        photographs, correspondence, and drafts and final publications of articles written by
-        Berman. There are a few items from Berman's career as a New York City Criminal Court Judge,
-        but no materials pertaining to Berman's service on the New York State Supreme Court.</p>
+    <scopecontent id="aspace_345acc02fcd1b32eed5e2472a803f93e">
+      <head>Scope and Contents</head>
+      <p>The collection predominantly contains materials acquired by Frederic Berman during his time as a New York State Senator. Series 1, Senatorial Papers, contains campaign information as well as results from public opinion surveys. Campaign literature from Bruno Cappellini, Eleanor Clark French, John G. Heimann, Eric M. Javits, Robert Kennedy, and John V. Lindsay, and other contemporary New York politicians is found throughout the files. The Berman Papers also feature a substantial variety of newsclippings from local New York City news sources pertaining to Berman's political platforms, such as air pollution, political ethics, and rent and housing issues. Bills introduced by New York State Senator MacNeil Mitchell and background materials about Mitchell, whom Berman defeated in the 1964 State Senate election, are abundant in Berman's research files.</p>
+      <p> Series 2, Post-Senatorial Papers, contains materials from Berman's time as the Commissioner of the New York City Rent and Housing Department and includes pamphlets, bound reports, photographs, correspondence, and drafts and final publications of articles written by Berman. There are a few items from Berman's career as a New York City Criminal Court Judge, but no materials pertaining to Berman's service on the New York State Supreme Court.</p>
     </scopecontent>
-    <separatedmaterial encodinganalog="544 0">
-      <p>Archivists transfered <title><emph render="italic">Joint Legislative Committee to Study Revision of Corporation Laws, Seventh Interim Report to 1963 Session of New York State Legislature</emph></title> to the book division of Special Collections. The catalogue record for the monograph 
-        will be included in Minerva, the University Library Catalog.</p>
+    <separatedmaterial id="aspace_9627649cec54bfd669d0d46a921211aa">
+      <head>Separated Materials</head>
+      <p>Archivists transfered <title><emph render="italic">Joint Legislative Committee to Study Revision of Corporation Laws, Seventh Interim Report to 1963 Session of New York State Legislature</emph></title> to the book division of Special Collections. The catalogue record for the monograph will be included in Minerva, the University Library Catalog.</p>
     </separatedmaterial>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_38add9d9440dec0f25bfa88114dc17a5">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series:</p>
-      <list type="simple">
-        <item>Series 1 - Senatorial Papers, 1962-1965, Undated</item>
-        <item>Series 2 - Post-Senatorial Papers, 1963-1975, Undated</item>
-      </list>
       <p>Both Series 1 and 2 are arranged alphabetically.</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-      Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-      Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-      standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-      If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-      Try to give as many access points as you can to increase the chances of 
-      researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-      to comment them out! -->
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Politics and Politicians</subject>
-      <persname encodinganalog="600" source="local">Berman, Frederic S.</persname>
-      <persname encodinganalog="600" source="local">Mitchell, MacNeil</persname>
-      <corpname encodinganalog="610" source="lcsh">New York (State). Legislature. Senate</corpname>
-      <corpname encodinganalog="610" source="lcsh">New York (State). Criminal Court (Kings County,
-        N.Y.)</corpname>
-      <corpname encodinganalog="610" source="lcsh">New York (City). Housing and Development
-        Administration.</corpname>
-      <subject encodinganalog="650" source="lcsh">Air--Pollution</subject>
-      <subject encodinganalog="650" source="lcsh">Politicians--New York (State)</subject>
-      <subject encodinganalog="650" source="lcsh">Rent control--New York (State)</subject>
-      <subject encodinganalog="650" source="lcsh">Political campaigns--New York (State)--New
-        York.</subject>
-      <subject encodinganalog="650" source="lcsh">Criminal courts--New York (State)--New York.</subject>
-      <subject encodinganalog="650" source="lcsh">Political ethics--United States.</subject>
-      <geogname encodinganalog="651" source="lcsh">New York (State)--Politics and
-        government.</geogname>
-      <geogname encodinganalog="651" source="lcsh">New York (N.Y.)</geogname>
-      <genreform encodinganalog="655" source="aat">Bills (legislative records)</genreform>
-      <genreform encodinganalog="655" source="aat">Clippings</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Files by subject</genreform>
-      <genreform encodinganalog="655" source="aat">Legislative records</genreform>
-      <genreform encodinganalog="655" source="aat">Photographs</genreform>
-      <genreform encodinganalog="655" source="aat">Drafts (versions of documents)</genreform>
-      <genreform encodinganalog="655" source="aat">Official reports</genreform>
-      <genreform encodinganalog="655" source="aat">Fliers (printed matters)</genreform>
-      <genreform encodinganalog="655" source="aat">Press releases</genreform>
-      <genreform encodinganalog="655" source="aat">Political posters</genreform>
-    </controlaccess>
-    <prefercite encodinganalog="524">
+    <prefercite id="aspace_f58104aaf9cc898d1f2abe8a0406b6f0">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Frederic S. Berman Papers, 1962-1975.
-        M.E. Grenander Department of Special Collections and Archives, University Libraries,
-        University at Albany, State University of New York (hereafter referred to as the Berman
-        Papers).</p>
+      <p> Identification of specific item, series, box, folder, Frederic S. Berman Papers, 1962-1975. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Berman Papers).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-      <head>Appraisal Information</head>
-      <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-      <head>Accruals</head>
-      <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-      etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 level="series" id="nam_apap229-1">
+    <controlaccess>
+      <subject source="meg">Politics and Politicians</subject>
+      <subject source="lcsh">Air--Pollution</subject>
+      <subject source="lcsh">Politicians--New York (State)</subject>
+      <subject source="lcsh">Rent control--New York (State)</subject>
+      <subject source="lcsh">Political campaigns--New York (State)--New York.</subject>
+      <subject source="lcsh">Criminal courts--New York (State)--New York.</subject>
+      <subject source="lcsh">Political ethics--United States.</subject>
+      <geogname source="lcsh">New York (State)--Politics and government.</geogname>
+      <geogname source="lcsh">New York (N.Y.)</geogname>
+      <genreform source="aat">Bills (legislative records)</genreform>
+      <genreform source="aat">Clippings</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Files by subject</genreform>
+      <genreform source="aat">Legislative Records</genreform>
+      <genreform source="aat">Photographs</genreform>
+      <genreform source="aat">Drafts (versions of documents)</genreform>
+      <genreform source="aat">Official reports</genreform>
+      <genreform source="aat">Fliers (printed matters)</genreform>
+      <genreform source="aat">Press Releases</genreform>
+      <genreform source="aat">Political posters</genreform>
+      <persname source="local">Berman, Frederic S.</persname>
+      <persname source="local">Mitchell, MacNeil</persname>
+      <corpname source="lcsh">New York (State). Legislature. Senate</corpname>
+      <corpname source="lcsh">New York (State). Criminal Court (Kings County, N.Y.)</corpname>
+      <corpname source="lcsh">New York (City). Housing and Development Administration.</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_f4fac2eb557492ca981a68e91ba82a0d" level="series">
         <did>
+          <unittitle>Senatorial Papers</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Senatorial Papers</unittitle>
-          <physdesc>
-            <physfacet> 1.75 cu. ft. </physfacet>
-          </physdesc>
           <unitdate normal="1962/1965" type="inclusive">1962-1965</unitdate>
           <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+          <physdesc>
+            <physfacet id="aspace_d5f320640c21afbded189c7a7a8f8974">1.75 cu. ft.</physfacet>
+          </physdesc>
         </did>
-        <arrangement>
-          <p> Arranged alphabetically. </p>
+        <arrangement id="aspace_8d83f3417208072e3b1ef97c40a44ef6">
+          <head>Arrangement</head>
+          <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
-          <p> Series 1, Senatorial Papers, consists of subject files collected by Frederic Berman
-            during his campaign for and term as a New York State Senator. The folders in this series
-            are arranged alphabetically, according to the subjects assigned by Berman.</p>
+        <scopecontent id="aspace_cfd8b9000b2a71b77cabfd30a3dcae8e">
+          <head>Scope and Contents</head>
+          <p>Series 1, Senatorial Papers, consists of subject files collected by Frederic Berman during his campaign for and term as a New York State Senator. The folders in this series are arranged alphabetically, according to the subjects assigned by Berman.</p>
         </scopecontent>
-        <c02 level="file" id="nam_apap229-1_1">
+        <c02 id="aspace_12a4d40352dcbda8a6337698a40c6ec4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>1st, 8th and 9th Assembly Districts</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963">1963</unitdate>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_ae77876c75b1e812e6467ba768a2c6a3" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_9491512c29ad3ef442d14e2e57655e6e" parent="aspace_ae77876c75b1e812e6467ba768a2c6a3" type="Folder">1</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_2">
+        <c02 id="aspace_b106019fe1bc7d86d951b479ad69f08c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>1964 Session-General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_f9824470e20e9d6dd48da7f3af957e66" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_3942b9c857996540f043f42e2069b83f" parent="aspace_f9824470e20e9d6dd48da7f3af957e66" type="Folder">2</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_3">
+        <c02 id="aspace_eb14cffff48018a0203e85782e8b20c9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>1965 State Legislature</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_13740398278b491ec32962b54c841158" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_8205fd45ca0f892a55a8192201127b5c" parent="aspace_13740398278b491ec32962b54c841158" type="Folder">3</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_4">
+        <c02 id="aspace_870e57f08ea822d63b98c130c62c7c2d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4</container>
             <unittitle>Advertising-Media</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/1964">1963-1964</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1963/1964" type="inclusive">1963-1964</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_aa15058e631c2a255593d27eba1ffe08" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_20aeb51ccd881b4f94942a0c7e82723b" parent="aspace_aa15058e631c2a255593d27eba1ffe08" type="Folder">4</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_5">
+        <c02 id="aspace_779b7e5eeda7b573c3b2139f93d074cf" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">5</container>
             <unittitle>Air Pollution</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963/1964">1963-1964</unitdate>
+            <unitdate normal="1963/1964" type="inclusive">1963-1964</unitdate>
+            <container id="aspace_2f9d9d36f70959b99b5808d572f91fce" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_9084fbb11b1b859bca8bd705dbedd5f3" parent="aspace_2f9d9d36f70959b99b5808d572f91fce" type="Folder">5</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_6">
+        <c02 id="aspace_19b8f170de55cbd69003fed09069f424" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">6</container>
             <unittitle>Air Pollution-Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_ed8e179a91b97a9b292d48f8c801cbfa" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_356a84e1df5ecff40e2c7f92db90ae3d" parent="aspace_ed8e179a91b97a9b292d48f8c801cbfa" type="Folder">6</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_7">
+        <c02 id="aspace_c73a4dc761699b98c5c31fa213b34cc0" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Air Pollution-Reports</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964/1965">1964-1965</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_d1fbd35610e9cacce6f24d9cf1bb91af" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_96ea349cb0c9bd12420707848bd894e6" parent="aspace_d1fbd35610e9cacce6f24d9cf1bb91af" type="Folder">7</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_8">
+        <c02 id="aspace_1eb90c26e892ac27c7edcef43860b64b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8</container>
             <unittitle>Air Pollution-Research</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_34cc0dfbd5d76567b8d3635c1bb473f7" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_b9e25b758faa7821ee803b5db196e0c8" parent="aspace_34cc0dfbd5d76567b8d3635c1bb473f7" type="Folder">8</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_9">
+        <c02 id="aspace_e18061653d9f6e6043ec7c2fbff58832" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">9</container>
             <unittitle>Article Notes and Press Releases</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_8ff45cdd0dbaf2f929ed72bf13fe76a1" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_ed1f91e6727ee219fe95ccc69ed98102" parent="aspace_8ff45cdd0dbaf2f929ed72bf13fe76a1" type="Folder">9</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_10">
+        <c02 id="aspace_4a2813daff72778c9ecc170cfb3c53b2" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">10</container>
             <unittitle>Berman Campaign Literature</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_67d86ae43f1a1ed3b4a714b1d10090c1" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_79bba8a83f10f9542df023ac01f2b40b" parent="aspace_67d86ae43f1a1ed3b4a714b1d10090c1" type="Folder">10</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_11">
+        <c02 id="aspace_dbee64209ec58eacb5468519e36e3d5b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">11</container>
             <unittitle>Berman, F.S.</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_ebae7ae2b44a27b885bb453f9b262c39" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_0c96c974180ae5bb5ff4f3c13a26b7a8" parent="aspace_ebae7ae2b44a27b885bb453f9b262c39" type="Folder">11</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_12">
+        <c02 id="aspace_dde577340492597c49bcfcc5678f7c33" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">12</container>
             <unittitle>Cabinet</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_63c7fa7662169b780003f927f6bc667c" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_8b5464eade394109dafacac6dfe8ca27" parent="aspace_63c7fa7662169b780003f927f6bc667c" type="Folder">12</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_13">
+        <c02 id="aspace_16d65c479018af161677fb6c8890f153" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">13</container>
             <unittitle>Cabinet Memos</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_3c963f272239524e4a07b7a7b7c0c030" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_14e4fddd63d3f4c915cdcc7cbaf63037" parent="aspace_3c963f272239524e4a07b7a7b7c0c030" type="Folder">13</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_14">
+        <c02 id="aspace_018f03e9b1f160cc62a0b746db49cda5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">14</container>
             <unittitle>Campaign Fliers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_658a101aade62734402b307fd648d3e1" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_6d52f4198e893a1e0724abda1021d9ea" parent="aspace_658a101aade62734402b307fd648d3e1" type="Folder">14</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_15">
+        <c02 id="aspace_eb581600adc54e25abd797b54c7b9265" level="file">
           <did>
-            <container type="Flat-File">1</container>
             <unittitle>Campaign Posters</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_988c2a49c3d5bffc7f532275f75b43e7" label="Mixed Materials" type="Flat-File">1</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_16">
+        <c02 id="aspace_294ae8b18403ed2158e4bd95a4e90cdb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">15</container>
             <unittitle>Cappellini Campaign</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_7a9a817fbaeb755e39c6c599d9bd6e7b" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_4b97ea353187fe50c7d47b334eed2425" parent="aspace_7a9a817fbaeb755e39c6c599d9bd6e7b" type="Folder">15</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_17">
+        <c02 id="aspace_e922ee3fe22a9f19e9142365b809e297" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">16</container>
             <unittitle>Captain's Party</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_443d9bc4a472a0d3af032faf704a3b0a" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_5571d59173594c01bd63cf5f6edb987a" parent="aspace_443d9bc4a472a0d3af032faf704a3b0a" type="Folder">16</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_18">
+        <c02 id="aspace_af7b85a173567e5f627988169cf0b4dc" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">17</container>
             <unittitle>Cards</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_aef813a7b15371d88187a4bcba9bab13" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_6e75dc9e4ab963c0c05531bf097dddb2" parent="aspace_aef813a7b15371d88187a4bcba9bab13" type="Folder">17</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_19">
+        <c02 id="aspace_bc25c76cdb16df34df5a7224e893952a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">18</container>
             <unittitle>Cards-Control</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_609a4bdf6077faea08dd926a7092ee71" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_4ff48ad6851e5946eb88c01fdbc83af1" parent="aspace_609a4bdf6077faea08dd926a7092ee71" type="Folder">18</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_20">
+        <c02 id="aspace_ce605a3112b6f7cda381d2b2ebafccb6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">19</container>
             <unittitle>Citizen's Union</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_2be570b9d0aad5ed3c7189c5caf3c8ac" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_cd1799c23e554655540d24c6ba476bd8" parent="aspace_2be570b9d0aad5ed3c7189c5caf3c8ac" type="Folder">19</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_21">
+        <c02 id="aspace_d7b2ee20c3858d8fbe954c23f0bafc30" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">20</container>
             <unittitle>Citizen's Union</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_0eb689e50bbf06ea4dba3e2c7c8dd3db" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_f2ea1fa037bad6af6ced320f966df37c" parent="aspace_0eb689e50bbf06ea4dba3e2c7c8dd3db" type="Folder">20</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_22">
+        <c02 id="aspace_cc0760745c78011cdc624fdd2b0e3f14" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">21</container>
             <unittitle>Clubs</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_1cb274870528826a4ede33e41ae0e1d2" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_a942123474e3716c7ff2821a775d4ef6" parent="aspace_1cb274870528826a4ede33e41ae0e1d2" type="Folder">21</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_23">
+        <c02 id="aspace_c7047e85d87d15f87d4469b4f49ea3e6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">22</container>
             <unittitle>Columbia College Citizenship Council</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_b38f63d87aea0061507c3c758ab203f4" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_2b8c9d7e465071f65238f37170dffb89" parent="aspace_b38f63d87aea0061507c3c758ab203f4" type="Folder">22</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_24">
+        <c02 id="aspace_08b966a0595ec66b120c9fd902af1b9a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">23</container>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_4de3cdb929d4f2e84616c99b76ddf086" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_de63ce98b3ff8cd2cbaf6cf04e877fc3" parent="aspace_4de3cdb929d4f2e84616c99b76ddf086" type="Folder">23</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_25">
+        <c02 id="aspace_f178fbfc9c84549327dd70254f4ed128" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">24</container>
             <unittitle>Correspondence-Citizen's Union</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_a166155df7f52d47462378ba71956a77" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_45441f076f3d4c1b2f6577fde5bdbeff" parent="aspace_a166155df7f52d47462378ba71956a77" type="Folder">24</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_26">
+        <c02 id="aspace_1948186d3ccba1b64922ef80b47178fa" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">25</container>
             <unittitle>Correspondence-Democratic National Committee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_d11ce6868ae2062f12fad019d27c6a2d" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_ec55cc2a7478c104b2b2a9a25337fa46" parent="aspace_d11ce6868ae2062f12fad019d27c6a2d" type="Folder">25</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_27">
+        <c02 id="aspace_a7464dae6a358e216416bc6d5041d48c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">26</container>
             <unittitle>Correspondence-General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_5cb95d5dc8f6d24b9c5f7ed2bcc80821" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_bd2bd03545c95401abd0ec8b27c37d2a" parent="aspace_5cb95d5dc8f6d24b9c5f7ed2bcc80821" type="Folder">26</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_28">
+        <c02 id="aspace_87fdc3f9c7488ddc4cb645c2507fd6bb" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">27</container>
             <unittitle>Crime</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_18950e7711f4fa60e9a9c4bb73ed500d" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_a1317e52410bbd0d955075768fff73a3" parent="aspace_18950e7711f4fa60e9a9c4bb73ed500d" type="Folder">27</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_29">
+        <c02 id="aspace_30c6fa403d52a7e88fd6c738b1af7c36" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">28</container>
             <unittitle>Democratic Campaign Literature</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_5d6b0ca86b678bf0403d57d30d34b7db" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_3e784fd72e3e1f5fc06d540c179d44e9" parent="aspace_5d6b0ca86b678bf0403d57d30d34b7db" type="Folder">28</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_30">
+        <c02 id="aspace_6ed92a6b9f9354fbcf4d9fd59b804b36" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">29</container>
             <unittitle>Democratic Clubs</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_e6aedc02c489195d44d54cb28cce138d" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_853f56e410b5b5bbba2aaff7645ae07c" parent="aspace_e6aedc02c489195d44d54cb28cce138d" type="Folder">29</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_31">
+        <c02 id="aspace_f0e4e4418baf7a37bd52e7a0c7b9bb32" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">30</container>
             <unittitle>Democratic Program</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_4317fa26eeee99397b136c24621256ac" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_aa9e1ba002c43d68656787d03adcb1f1" parent="aspace_4317fa26eeee99397b136c24621256ac" type="Folder">30</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_32">
+        <c02 id="aspace_5f924d6f30354322f60df89b6b61b3ba" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">31</container>
             <unittitle>Entertainment Committee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_a729ea1eceeedfaf42c4ec37fa317825" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_4727e1ea42c7fce6f938f09ebdf775ed" parent="aspace_a729ea1eceeedfaf42c4ec37fa317825" type="Folder">31</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_33">
+        <c02 id="aspace_f32c691e33ab3d90df0684d869bab75d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">32</container>
             <unittitle>Envelopes-Control</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_9caae2bc70d4a2bd854aada42877f581" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_45e8f74de9a2cc36895bba069470a676" parent="aspace_9caae2bc70d4a2bd854aada42877f581" type="Folder">32</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_34">
+        <c02 id="aspace_64d7fa142b543c2f35da964730163ebd" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">33</container>
             <unittitle>Ethics Issue-General</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_6b19d467e64e3a7dafb1768df58ddc9f" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_6206ac167ecfe0ffe30189486eb1786b" parent="aspace_6b19d467e64e3a7dafb1768df58ddc9f" type="Folder">33</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_35">
+        <c02 id="aspace_255df3e14f96acb201d7a53b394053be" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">34</container>
             <unittitle>Ethics-Senator Mitchell</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_bce78060c333e6b9b6507d165a398d31" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_47ccd8a3f5c35e4a619519f77d3b78dd" parent="aspace_bce78060c333e6b9b6507d165a398d31" type="Folder">34</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_36">
+        <c02 id="aspace_e2ea23e145ee02f2e31d3d68d407ef68" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">35</container>
             <unittitle>Finance</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_cd3db57b2858e7cda360ca9c8cb73ac3" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_e919d0b5625a0b8108fb939ade1c1864" parent="aspace_cd3db57b2858e7cda360ca9c8cb73ac3" type="Folder">35</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_37">
+        <c02 id="aspace_8ab94b2de1bde704250474cfc6eef63a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">36</container>
             <unittitle>Finance Committee Memos</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_6b3299f8f66aea2e32ce04741624d599" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_811e7823f4bd6c9c42243b362d5462f6" parent="aspace_6b3299f8f66aea2e32ce04741624d599" type="Folder">36</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_38">
+        <c02 id="aspace_09b3dbfe1093f79d9e5150d82e8f0a41" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">37</container>
             <unittitle>Fire Island Punch Party</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_84c7f3e5924f927e9128f35ac41dded0" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_6e020891cfa3a5e5466cd4ada86be3e5" parent="aspace_84c7f3e5924f927e9128f35ac41dded0" type="Folder">37</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_39">
+        <c02 id="aspace_200732aa707597b1a94df61097718dd8" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">38</container>
             <unittitle>Frederic S. Berman-Bills</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_7502ade08db163519c6396e9845a6e00" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_ce429cdd3ca4e8baadc7523623e50b61" parent="aspace_7502ade08db163519c6396e9845a6e00" type="Folder">38</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_40">
+        <c02 id="aspace_984d9e3bd9dde27f9d16c50b4b79a92c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">39</container>
             <unittitle>French Campaign</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_e5c13e317b86c92bdda2a20f6edd8ed4" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_806d8a98d2e1fd645aacadacea937a4e" parent="aspace_e5c13e317b86c92bdda2a20f6edd8ed4" type="Folder">39</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_41">
+        <c02 id="aspace_4a6264011220f45c80b7ddf12dd17c1e" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">40</container>
             <unittitle>Goldwater</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_afdb31b81c687d02fb5910565cb9b7ab" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_c64890a01cae0c068ccbd37ed36c9faa" parent="aspace_afdb31b81c687d02fb5910565cb9b7ab" type="Folder">40</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_42">
+        <c02 id="aspace_6c1e0ef2aaa8b98730e75aac2472af43" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">41</container>
             <unittitle>Graphics</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_057a11f66e0b8a1981d7b31b271f0916" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_3bca94f8aec3e95f4753fca4f1e75c23" parent="aspace_057a11f66e0b8a1981d7b31b271f0916" type="Folder">41</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_43">
+        <c02 id="aspace_32094322d3e0a5565b816a24ff95f95c" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">42</container>
             <unittitle>Green Petition Signatures</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_9f87019cedab468c27dfcdd871e843f8" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_7bf9ee522252598b4805599de586f4dc" parent="aspace_9f87019cedab468c27dfcdd871e843f8" type="Folder">42</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_44">
+        <c02 id="aspace_6bf1c7c83e1a7dd4f7e94b731876d2da" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">43</container>
             <unittitle>Harriman Art Tour</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_636b23849961247d4629c48ff92b215f" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_3e28be7a0d2d72c64be94baa93c001f9" parent="aspace_636b23849961247d4629c48ff92b215f" type="Folder">43</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_45">
+        <c02 id="aspace_c4012b2bf1ccea9f2f4f3d0637a60199" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">44</container>
             <unittitle>Headquarters</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_6702ff8335fde2292032a680d0674af5" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_a9ab0ed7b3dacd7d08e22f852388a6a8" parent="aspace_6702ff8335fde2292032a680d0674af5" type="Folder">44</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_46">
+        <c02 id="aspace_39ffd68c71ba3ab002a843af6c226a98" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">45</container>
             <unittitle>Heimann Campaign</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_b4e1264f72a4776a4bd4dd27e08fa911" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_a571fa204d9c47ae071a8fad4d6b2a3b" parent="aspace_b4e1264f72a4776a4bd4dd27e08fa911" type="Folder">45</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_47">
+        <c02 id="aspace_00736414477b5aa5e6b1ae673430d1a9" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">46</container>
             <unittitle>Highways</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_581f548b1723117effd285c0368e12e8" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_c38f10fe457b642600a9e3d3407dc23c" parent="aspace_581f548b1723117effd285c0368e12e8" type="Folder">46</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_48">
+        <c02 id="aspace_d2e60e43f16a099041a01baf39e272b1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">47</container>
             <unittitle>Housing</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_bf7dd34f53826fba64951821d1103897" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_bd463c4845a5c7dc603f9accbfe9e2c1" parent="aspace_bf7dd34f53826fba64951821d1103897" type="Folder">47</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_49">
+        <c02 id="aspace_fc6dca7475e091cb472f462253475f48" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">48</container>
             <unittitle>Javits-Clippings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_b2dd47ee8e8c8b2b8467955b18047905" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_c620b5fd0678d184e6f9baceb068392e" parent="aspace_b2dd47ee8e8c8b2b8467955b18047905" type="Folder">48</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_50">
+        <c02 id="aspace_881555964640fb860099802b4531d344" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">49</container>
             <unittitle>Javits-Literature</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_1f0590efe0443d43a7ee7e2d603f1639" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_7071964f5454fecab9fceb236008ce23" parent="aspace_1f0590efe0443d43a7ee7e2d603f1639" type="Folder">49</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_51">
+        <c02 id="aspace_cc2e362ba173f71e54759b469725f462" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">50</container>
             <unittitle>Javits-Petitions</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_4b661bde33c9083d5945d3ecb5312eb9" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_3f8b36e5b74b2850846a49a7a6ea56fa" parent="aspace_4b661bde33c9083d5945d3ecb5312eb9" type="Folder">50</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_52">
+        <c02 id="aspace_799adbd56cf7411bee9074a411f539ab" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">51</container>
             <unittitle>Letters 1</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_c6a980c611d315ec5ff7dfaea8a9ed7e" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_0a512a4888905ab58ac4652a9ee9225e" parent="aspace_c6a980c611d315ec5ff7dfaea8a9ed7e" type="Folder">51</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_53">
+        <c02 id="aspace_1bffdd6566ebaa92eb14dfe1e5476b9d" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">52</container>
             <unittitle>Letters 2</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_397843b9f475c0b1d15c93c0a6b05ca8" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_e8ba1c223b12cf893ba4230dcf6d9e8c" parent="aspace_397843b9f475c0b1d15c93c0a6b05ca8" type="Folder">52</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_54">
+        <c02 id="aspace_91325c3eeca60f0b3254b36b9d4300ad" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">53</container>
             <unittitle>Letters-Drafts</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_89723a811d5de656a5ce4c8d36e5d3db" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_053c4ce94b9e62e3997cd53bed17b161" parent="aspace_89723a811d5de656a5ce4c8d36e5d3db" type="Folder">53</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_55">
+        <c02 id="aspace_1fba924a4c7ef21044775d705650718b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">54</container>
             <unittitle>Letters to the Editor</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_863de3cf4c93be7b520a022fdc31e17b" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_3aaf952dfe035a828f47b4735553baf2" parent="aspace_863de3cf4c93be7b520a022fdc31e17b" type="Folder">54</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_56">
+        <c02 id="aspace_301e8ef39808790a44757c95aa68f78a" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">55</container>
             <unittitle>Letters-Misc</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_446e1cf92b1f03506b3be686875babc4" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_c7abec52dd7c9e50522df651301c2197" parent="aspace_446e1cf92b1f03506b3be686875babc4" type="Folder">55</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_57">
+        <c02 id="aspace_de459de0be372304fdd7e0f9c4a135c4" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">56</container>
             <unittitle>Lexington Democratic Clubs</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_7a7983078a9c7f3b3934f304ee964527" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_1e17701f232f727403814f1f109367a3" parent="aspace_7a7983078a9c7f3b3934f304ee964527" type="Folder">56</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_58">
+        <c02 id="aspace_6145816dfa07cf952a0a4baab25d3683" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">57</container>
             <unittitle>Liberal Party</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_ac679f35a8bb4d3dcbb305c63ebc849b" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_bd7ab0ecfba1f2eea1e779dc111180e9" parent="aspace_ac679f35a8bb4d3dcbb305c63ebc849b" type="Folder">57</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_59">
+        <c02 id="aspace_d3c9ae898abbc9aace79d355163b40ed" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">58</container>
             <unittitle>Literature-Costs</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_8fd2683d69c8f9501ba53edee86638a5" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_d8bfd5dc994212ab062d30a4ea27a65e" parent="aspace_8fd2683d69c8f9501ba53edee86638a5" type="Folder">58</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_60">
+        <c02 id="aspace_9e5b5885bacf92d966e4121e4a60664f" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">59</container>
             <unittitle>Literature-Ideas</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_1fbcf379062c1927b7542de4112ff5dc" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_0f17ae44b3eda76337c22c386432ca6d" parent="aspace_1fbcf379062c1927b7542de4112ff5dc" type="Folder">59</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_61">
+        <c02 id="aspace_d1d93508ce5e6f2df467d69fa39e85ef" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">60</container>
             <unittitle>Literature-Other, Demo</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_c1634b15dc3701cf364e13507446186a" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_29bd549190bca370669df035d37b2ac1" parent="aspace_c1634b15dc3701cf364e13507446186a" type="Folder">60</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_62">
+        <c02 id="aspace_f3a415560a8da56662f8cedf4761e3db" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">61</container>
             <unittitle>Literature-Republican</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_dbf4b5144bf8793ae3939bb45891f8b2" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_86791da3c4b7fa2f64fdb3a86dae1d04" parent="aspace_dbf4b5144bf8793ae3939bb45891f8b2" type="Folder">61</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_63">
+        <c02 id="aspace_7a3d663caf31c7bcd85154d037ee39e1" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">62</container>
             <unittitle>Liquor Issue</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_d7858e84575025d5654eade80a4701c2" label="Mixed Materials" type="Box">1 (1-Senatorial Papers)</container>
+            <container id="aspace_3c3c7a0f9f46d9e05503fdf269249555" parent="aspace_d7858e84575025d5654eade80a4701c2" type="Folder">62</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_64">
+        <c02 id="aspace_027c6a65789104ee9ed1a75aaa62b1a1" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Local Newspapers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964/1965">1964-1965</unitdate>
+            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container id="aspace_5df91b659c1f22349e904a177dc8718d" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_bcaaeaa252194ece3235d69663516365" parent="aspace_5df91b659c1f22349e904a177dc8718d" type="Folder">1</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_65">
+        <c02 id="aspace_630dbc7de7ebf3d007b1ca6446c5b320" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>MacNeil Mitchell</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
+            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+            <container id="aspace_a5dd14267b1817cc4f5d7780778faa4a" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_3aa159bc303aeb4ef102d42bf2d234f5" parent="aspace_a5dd14267b1817cc4f5d7780778faa4a" type="Folder">2</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_66">
+        <c02 id="aspace_1d697f208f1abcce32818b8f55775964" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>MacNeil Mitchell Research Committee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_df2649c4ca1382760042b275de1368f4" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_9367bac86ab7d998412fb0c1bc2d3091" parent="aspace_df2649c4ca1382760042b275de1368f4" type="Folder">3</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_67">
+        <c02 id="aspace_b92157c5edeff9496d5847a1ea7dd42e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Memos</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_ccb57dc2f1575f089ff478fa3ef66b62" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_2713d2b47552259defcce8357115670f" parent="aspace_ccb57dc2f1575f089ff478fa3ef66b62" type="Folder">4</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_68">
+        <c02 id="aspace_0ecabe8e457b85fa46afc3be2d9c8b16" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5-7</container>
             <unittitle>Mitchell Senate Bills</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962">1962</unitdate>
+            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+            <container id="aspace_8a7bd237b58e3a03a8c550e389e90745" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_845bc681ecbd9469bf41ada4a1c68660" parent="aspace_8a7bd237b58e3a03a8c550e389e90745" type="Folder">5-7</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_69">
+        <c02 id="aspace_a7dfb90aca075e0f1a1542c7fb86fd0b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8-9</container>
             <unittitle>Mitchell Senate Bills</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_f8d5f78e1a2b47344b7c705c4fc89b78" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_9a9428c6d7251f171d97d8c27d95e73c" parent="aspace_f8d5f78e1a2b47344b7c705c4fc89b78" type="Folder">8-9</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_70">
+        <c02 id="aspace_58b7220244eb218132edfdf17d9ce061" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10</container>
             <unittitle>Newsclippings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_b2c553f7882f7bee1467abeac8441d94" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_b7ac8bed6ee9cc970817eec4fd79abf7" parent="aspace_b2c553f7882f7bee1467abeac8441d94" type="Folder">10</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_71">
+        <c02 id="aspace_b26429388aeb8b5fe4805b024ab65744" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">11</container>
             <unittitle>
               <emph render="italic">New York Law Journal</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963">1963</unitdate>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_86619afba9acf6f0ba1a98c67fbe08ac" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_daad3d5f07301162c13feb6af60f9ed3" parent="aspace_86619afba9acf6f0ba1a98c67fbe08ac" type="Folder">11</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_72">
+        <c02 id="aspace_f35253c5fb636ea2e923f9592e36991f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">12</container>
             <unittitle>Official Opening</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_4f88c6a7255b5068dbc314d7a8c7a43a" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_073af171b33c954847754afc0266a8d1" parent="aspace_4f88c6a7255b5068dbc314d7a8c7a43a" type="Folder">12</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_73">
+        <c02 id="aspace_26e64f49c1b08d3b420ef8af529a8cb7" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">13</container>
             <unittitle>Opinion-Public</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_fe5fff05e80e157408eb1a42d9b958a7" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_cef5e9f2894c342a149ca0d27673b95a" parent="aspace_fe5fff05e80e157408eb1a42d9b958a7" type="Folder">13</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_74">
+        <c02 id="aspace_46c5423fef51d1c5e2eb476a3754ae6d" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">14</container>
             <unittitle>Parties</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_324d07300f367bb891a35c6d83d8b735" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_cc6558cf6db2d785a92637fc511e233c" parent="aspace_324d07300f367bb891a35c6d83d8b735" type="Folder">14</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_75">
+        <c02 id="aspace_13925d51b4fe97ce388217017244b701" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">15</container>
             <unittitle>Parties Ideas</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_3b0f43188125a846a5cad6b9814cb8b2" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_49a99dc5d87a4dab4051c3c888184607" parent="aspace_3b0f43188125a846a5cad6b9814cb8b2" type="Folder">15</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_76">
+        <c02 id="aspace_a996734f72ea291494bf7427c4574534" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">16</container>
             <unittitle>Photos</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964/1965">1964-1965</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_810ed0808ee9dfcf4b46dec7ea7810de" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_301703c34a4913d7d71f4e744d7a770c" parent="aspace_810ed0808ee9dfcf4b46dec7ea7810de" type="Folder">16</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_77">
+        <c02 id="aspace_1076a946df9736895721ff1432ef8410" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">17</container>
             <unittitle>Polling Places</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_f8dfecbd6f0e9e32c9893c7819e83463" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_3d09b2d5cb77e0cdd0a32cd000a33546" parent="aspace_f8dfecbd6f0e9e32c9893c7819e83463" type="Folder">17</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_78">
+        <c02 id="aspace_b8c0f7bdf06c265a995774f59942ca48" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">18</container>
             <unittitle>Post Office</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_64836df7000817599b31bd80eab8767d" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_ea1e48121179a712a4957a4440622736" parent="aspace_64836df7000817599b31bd80eab8767d" type="Folder">18</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_79">
+        <c02 id="aspace_e1f3dfed0074d20788b9c48d2e2ee26e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">19</container>
             <unittitle>Press Materials</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_871f29dd060aba29e4841439355d54f8" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_ecf57664523f9863ac8bad6ae56ee77e" parent="aspace_871f29dd060aba29e4841439355d54f8" type="Folder">19</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_80">
+        <c02 id="aspace_dfe47791db7b75517bc9af3b982f8b2e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">20</container>
             <unittitle>Press Releases</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_9c4451df6d08d68dcba0c84e4ba5a3ed" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_7cd03285f9a920e9af97865bc3fc1a2a" parent="aspace_9c4451df6d08d68dcba0c84e4ba5a3ed" type="Folder">20</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_81">
+        <c02 id="aspace_cc35af2c7f54f7c8eef0edaf4c7a1619" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">21</container>
             <unittitle>Press Releases and Letters to the Editor</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_b130e4184ffa32537396646705a885f4" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_3a6f441a651283207e893b5616364465" parent="aspace_b130e4184ffa32537396646705a885f4" type="Folder">21</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_82">
+        <c02 id="aspace_a0f32d32a642c48d057f0f63900249ec" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">22</container>
             <unittitle>Publicity</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_0183fd0eabc7baca7cfc7399037a5a2e" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_97d6343c2f2607c1e8c2e89614c82a96" parent="aspace_0183fd0eabc7baca7cfc7399037a5a2e" type="Folder">22</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_83">
+        <c02 id="aspace_629cf01977bc57a45a877ee97047e32e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">23</container>
             <unittitle>Radio</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_570f587bd1d9f00e40d7c12b2227d7b0" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_54212e2cfea06b069deca1cc6468d9b9" parent="aspace_570f587bd1d9f00e40d7c12b2227d7b0" type="Folder">23</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_84">
+        <c02 id="aspace_2a0dbf02b2c879e17e5282e00ec31925" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">24</container>
             <unittitle>Radio and Television</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_e75c9cdd737940b0a24c5ed92733365f" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_b85eca3cf0e891780e481d1a0a78a3da" parent="aspace_e75c9cdd737940b0a24c5ed92733365f" type="Folder">24</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_85">
+        <c02 id="aspace_f5b282d7669436ac7a033fe7a9407d7e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">25</container>
             <unittitle>Receiving Tickets</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_1ca4254dfb74a2853356c0fdc163197b" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_01c4bc53093f7404cdb41e3b9f685a98" parent="aspace_1ca4254dfb74a2853356c0fdc163197b" type="Folder">25</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_86">
+        <c02 id="aspace_3c19cb68352e29d064889564b9418d73" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">26</container>
             <unittitle>Redistricting</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_b22f646873db8a0fef4e995beadfc8f4" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_e7d974c494992080066f3e02e47e46a6" parent="aspace_b22f646873db8a0fef4e995beadfc8f4" type="Folder">26</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_87">
+        <c02 id="aspace_f13d117e287d2eee92377b192f7393cf" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">27</container>
             <unittitle>Research Commission</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_b3c29e71ec55f9dd3412672f69ad7e23" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_bd4c529af4c3206f488c865d4dfb7ca8" parent="aspace_b3c29e71ec55f9dd3412672f69ad7e23" type="Folder">27</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_88">
+        <c02 id="aspace_7330a95bcede22b3bc0cc49fd0839659" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">28</container>
             <unittitle>Robert Kennedy Campaign</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_343f9c78fd5e2c0b9eb59fe29653758a" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_2c44e0b38679764851d252242cd7547f" parent="aspace_343f9c78fd5e2c0b9eb59fe29653758a" type="Folder">28</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_89">
+        <c02 id="aspace_c2323da221cc671b0336e2cad8f45ff3" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">29</container>
             <unittitle>Roll Calls-Senate</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_03eab95f13b04146291f97821dbdfe18" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_9c80a40d9254701660312170c5bd2f94" parent="aspace_03eab95f13b04146291f97821dbdfe18" type="Folder">29</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_90">
+        <c02 id="aspace_fb32249a3027602d4f4eead6b40f99ac" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">30</container>
             <unittitle>Sample letters</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_9f94305edce3fde347c6b09cc5cb82c9" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_929e11899d968e9ff0d6f2dba339cb45" parent="aspace_9f94305edce3fde347c6b09cc5cb82c9" type="Folder">30</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_91">
+        <c02 id="aspace_94fc1ee057193002842dcf680d98013c" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">31</container>
             <unittitle>Schools</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_537c4515d27dbb94830b643b1d9a7188" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_b475e6eaefdcd504e707bda28cbefec1" parent="aspace_537c4515d27dbb94830b643b1d9a7188" type="Folder">31</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_92">
+        <c02 id="aspace_f1834156c692fcad0756befdf7932111" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">32</container>
             <unittitle>Senate Campaign</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_44a555c1a1e5a87106f00f76af8d1715" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_b829b2016d5d979c4ee73f1adf9049f3" parent="aspace_44a555c1a1e5a87106f00f76af8d1715" type="Folder">32</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_93">
+        <c02 id="aspace_952cad516ed102561aa93eecdb02f420" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">33</container>
             <unittitle>Speech dates</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_3c22f8ba0828626d61051d252ae50271" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_29f8c5f15c8b6073989ed30cc5e3ef75" parent="aspace_3c22f8ba0828626d61051d252ae50271" type="Folder">33</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_94">
+        <c02 id="aspace_f18a4ea00001c48ca00ae3e085af4003" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">34</container>
             <unittitle>Spirit Masters</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_7d859234a307b8449a7e877c9e818f3b" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_41ca7b5a51da0389f7aa78a27f9e73f1" parent="aspace_7d859234a307b8449a7e877c9e818f3b" type="Folder">34</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_95">
+        <c02 id="aspace_5d0c0c08250805d2ea32d42661d461a9" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">35</container>
             <unittitle>Student's Committee</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_0245c229c27e373515e0ce901b3af33e" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_6fc1c5131aedcc65615a04c87f9e4672" parent="aspace_0245c229c27e373515e0ce901b3af33e" type="Folder">35</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_96">
+        <c02 id="aspace_ae7fe2bd6cd5d0e0548b8aa5ec4ecb53" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">36</container>
             <unittitle>Supplies</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_13788b912cf35bfabf3108dd18967d5b" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_55a597a97115d7ca5e0e0a33fa0df1bf" parent="aspace_13788b912cf35bfabf3108dd18967d5b" type="Folder">36</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_97">
+        <c02 id="aspace_0e5de7240301236db0a7aae4abc1a0d1" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">37</container>
             <unittitle>Talks</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_857c1867b3ed4a490f4d49ecaae683e8" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_ba2b70ae0bfffdf372ec46117d7657a3" parent="aspace_857c1867b3ed4a490f4d49ecaae683e8" type="Folder">37</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_98">
+        <c02 id="aspace_4f1cead74b86b563a3583c8e40c94f6c" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">38</container>
             <unittitle>Telegrams</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_27d06a7fcfeeb8ef024b92cf7f3e2b55" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_5260de70b49569dd2dfe3ccab17b2032" parent="aspace_27d06a7fcfeeb8ef024b92cf7f3e2b55" type="Folder">38</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_99">
+        <c02 id="aspace_4f1c84d068fad3bd389238ae76a205a7" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">39</container>
             <unittitle>Telemarketing</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_67735a6de5bb88d28a78eab5c50390df" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_0b7b91eb437df585a88c1dcb749d8c0c" parent="aspace_67735a6de5bb88d28a78eab5c50390df" type="Folder">39</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_100">
+        <c02 id="aspace_e8d1cad9a6262b3e65cd3b7358ee9b1c" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">40</container>
             <unittitle>Theaters</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_493083bc6deb1533b27e0f7868e56525" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_370d0a0852abbae01562f6be39df2971" parent="aspace_493083bc6deb1533b27e0f7868e56525" type="Folder">40</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_101">
+        <c02 id="aspace_3f080e39fad28c3789403289e360169d" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">41</container>
             <unittitle>Unknown Petition Signatures</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_2b6d5bc267a09bcbabbad24bec50c2c2" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_9f2aa199cba047decfa53439382af756" parent="aspace_2b6d5bc267a09bcbabbad24bec50c2c2" type="Folder">41</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-1_102">
+        <c02 id="aspace_279841ad86ebd401817cf4e8297c7413" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">42</container>
             <unittitle>Volunteers</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_f99d5171ca4f9baac14942624e3fcde8" label="Mixed Materials" type="Box">2 (1-Senatorial Papers)</container>
+            <container id="aspace_0ad8496f7b7b5f834f760abdc3f5fc7a" parent="aspace_f99d5171ca4f9baac14942624e3fcde8" type="Folder">42</container>
           </did>
         </c02>
       </c01>
-      <c01 level="series" id="nam_apap229-2">
+      <c01 id="aspace_149c881d59a6f7c8ddb3ba1de46b9160" level="series">
         <did>
+          <unittitle>Post-Senatorial Papers</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Post-Senatorial Papers</unittitle>
-          <physdesc>
-            <physfacet> .25 cu. ft. </physfacet>
-          </physdesc>
           <unitdate normal="1963/1975" type="inclusive">1963-1975</unitdate>
           <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+          <physdesc>
+            <physfacet id="aspace_9b58e4c7b4c6c268ab862ef1f4dcdf68">.25 cu. ft.</physfacet>
+          </physdesc>
         </did>
-        <arrangement>
-          <p> Arranged alphabetically. </p>
+        <arrangement id="aspace_7d7a1b14b0ffd52321bdf51bb716d294">
+          <head>Arrangement</head>
+          <p>Arranged alphabetically.</p>
         </arrangement>
-        <scopecontent>
-          <p>Series 2, Post-Senatorial Papers, consists of subject files that pertain to Berman's
-            career as the Commissioner of the New York City Rent and Housing Department. The folders
-            in this series are also arranged alphabetically according to subjects assigned to the
-            folders by Berman. This series also features photographs and bound reports.</p>
+        <scopecontent id="aspace_00c8dad905787028eebe48bbfa141fd1">
+          <head>Scope and Contents</head>
+          <p>Series 2, Post-Senatorial Papers, consists of subject files that pertain to Berman's career as the Commissioner of the New York City Rent and Housing Department. The folders in this series are also arranged alphabetically according to subjects assigned to the folders by Berman. This series also features photographs and bound reports.</p>
         </scopecontent>
-        <c02 level="file" id="nam_apap229-2_1">
+        <c02 id="aspace_134982869bc8c55687bdd39cc5f06a04" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">43</container>
             <unittitle>NYC Criminal Court Decisions and Newsclippings</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973/1975">1973-1975</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1973/1975" type="inclusive">1973-1975</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_4256d4d58c3706a8e323b0b342e07e59" label="Mixed Materials" type="Box">2 (2-Post-Senatorial Papers)</container>
+            <container id="aspace_78a6e33356a61520460346e9c4b090fb" parent="aspace_4256d4d58c3706a8e323b0b342e07e59" type="Folder">43</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-2_2">
+        <c02 id="aspace_68419800fce32885c257043e32f3185d" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">44</container>
             <unittitle>NYC Criminal Court Photos</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973">1973</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975">1975</unitdate>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_cfa97adba12942e9bb29556337f82ca0" label="Mixed Materials" type="Box">2 (2-Post-Senatorial Papers)</container>
+            <container id="aspace_acf90a2c104e2e601715760ef99311d0" parent="aspace_cfa97adba12942e9bb29556337f82ca0" type="Folder">44</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-2_3">
+        <c02 id="aspace_f68d6e3463dec30507a58f21e19d4d3e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">45</container>
             <unittitle>Rent and Housing Commissioner Correspondence</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/1969">1967-1969</unitdate>
+            <unitdate normal="1967/1969" type="inclusive">1967-1969</unitdate>
+            <container id="aspace_49e7b2fc0cdabb652cf0f3729c7ef6dc" label="Mixed Materials" type="Box">2 (2-Post-Senatorial Papers)</container>
+            <container id="aspace_d78d995dfd754415724f7cfb3ce17755" parent="aspace_49e7b2fc0cdabb652cf0f3729c7ef6dc" type="Folder">45</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-2_4">
+        <c02 id="aspace_f51e8c45f016b66f55f9afd143bdeae1" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">46</container>
             <unittitle>Rent and Housing Commissioner Photos</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966/1968">1966-1968</unitdate>
+            <unitdate normal="1966/1968" type="inclusive">1966-1968</unitdate>
+            <container id="aspace_553a5be4814c02ce910c063d95d2c6b9" label="Mixed Materials" type="Box">2 (2-Post-Senatorial Papers)</container>
+            <container id="aspace_ba62fe3b7c9b21de19d6f4d2a5549e21" parent="aspace_553a5be4814c02ce910c063d95d2c6b9" type="Folder">46</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-2_5">
+        <c02 id="aspace_1b8f252a8fe2b8732e25bffa5246b15b" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">47</container>
             <unittitle>Rent Control</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/1968">1967-1968</unitdate>
+            <unitdate normal="1967/1968" type="inclusive">1967-1968</unitdate>
+            <container id="aspace_0496bf42277a5a377b774fe2ed0f2fbb" label="Mixed Materials" type="Box">2 (2-Post-Senatorial Papers)</container>
+            <container id="aspace_4301266f0b273119355b8f9d2a96c38b" parent="aspace_0496bf42277a5a377b774fe2ed0f2fbb" type="Folder">47</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-2_6">
+        <c02 id="aspace_25163a8fb939ad54d335670aaeb9d76a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">48</container>
             <unittitle>Rent Control Publications</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963">1963</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1962/1975">Undated</unitdate>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <unitdate normal="1962/1975" type="inclusive">Undated</unitdate>
+            <container id="aspace_d804e4ab1e7f6ae6290938cd9f2630b7" label="Mixed Materials" type="Box">2 (2-Post-Senatorial Papers)</container>
+            <container id="aspace_32e869515fa9ef1a31b041e68a9de782" parent="aspace_d804e4ab1e7f6ae6290938cd9f2630b7" type="Folder">48</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-2_7">
+        <c02 id="aspace_7126ade23a221f2198e8d2b736ce2174" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">49</container>
             <unittitle>Rent Control Reports</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/1968">1967-1968</unitdate>
+            <unitdate normal="1967/1968" type="inclusive">1967-1968</unitdate>
+            <container id="aspace_5b50cb6c2371d7151bdd99d527151c68" label="Mixed Materials" type="Box">2 (2-Post-Senatorial Papers)</container>
+            <container id="aspace_edec75659affae7228742dd9c94ccf41" parent="aspace_5b50cb6c2371d7151bdd99d527151c68" type="Folder">49</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-2_8">
+        <c02 id="aspace_a9106f539fa27534e52a8bcd37912834" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">50</container>
             <unittitle>
-              <emph render="italic">Report to the Mayor on an Investigation into Rental
-                Increases in the Non-Controlled Housing Market</emph>
+              <emph render="italic">Report to the Mayor on an Investigation into Rental Increases in the Non-Controlled Housing Market</emph>
             </unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969">1969</unitdate>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_7fd06c0260c0d4df83a0c77f2752357e" label="Mixed Materials" type="Box">2 (2-Post-Senatorial Papers)</container>
+            <container id="aspace_c36c1b7565a97386d5faf17c5f46291a" parent="aspace_7fd06c0260c0d4df83a0c77f2752357e" type="Folder">50</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-2_9">
+        <c02 id="aspace_c64c6067dd7dbf09ddb08fb4e11acb90" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">51</container>
-            <unittitle>Report:<emph render="italic">People, Housing and Rent Control in New York
-                City</emph></unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+            <unittitle>Report:<emph render="italic">People, Housing and Rent Control in New York City</emph></unittitle>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_2765ce1cd23b94d8b58543eac40528e2" label="Mixed Materials" type="Box">2 (2-Post-Senatorial Papers)</container>
+            <container id="aspace_21ad0bf4695d82617a24a79e30f485d2" parent="aspace_2765ce1cd23b94d8b58543eac40528e2" type="Folder">51</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-2_10">
+        <c02 id="aspace_eafe02897a08c41fcde32ad55b1d6fff" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">52</container>
-            <unittitle>Report:<emph render="italic">The Private Rental Housing Market in New York
-                City 1965</emph></unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966">1966</unitdate>
+            <unittitle>Report:<emph render="italic">The Private Rental Housing Market in New York City 1965</emph></unittitle>
+            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_4e6d30aab09413f3beb3ef8981e26119" label="Mixed Materials" type="Box">2 (2-Post-Senatorial Papers)</container>
+            <container id="aspace_93c1002e92ac4f0b86afca90daf49f68" parent="aspace_4e6d30aab09413f3beb3ef8981e26119" type="Folder">52</container>
           </did>
         </c02>
-        <c02 level="file" id="nam_apap229-2_11">
+        <c02 id="aspace_c69276919103c598a7f5c837d67afa39" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">53</container>
-            <unittitle>Report:<emph render="italic">Rent Control in New York
-              City</emph></unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">1967</unitdate>
+            <unittitle>Report:<emph render="italic">Rent Control in New York City</emph></unittitle>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_054802e4dafc4560dcf0ad96b088707c" label="Mixed Materials" type="Box">2 (2-Post-Senatorial Papers)</container>
+            <container id="aspace_c201c2141bff4fda5e0721b85e6dac6f" parent="aspace_054802e4dafc4560dcf0ad96b088707c" type="Folder">53</container>
           </did>
         </c02>
       </c01>

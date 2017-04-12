@@ -1,745 +1,641 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_apap165">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap165.xml" identifier="##">nam_apap165</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="apap165">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap165.xml">apap165</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>RALPH F. BOYD, SR. PAPERS (APAP165)<date normal="1942/1992" type="inclusive">1943-1992</date></titleproper>
+        <titleproper>Boyd, Ralph F.; Papers <num>apap165</num></titleproper>
         <author>Shaquana McCall</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2012">Copyright 2012 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2012</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Shaquana McCall<date normal="2012">2012</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 14:52:02 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2012</date>
+        <item>Encoded in EAD by Shaquana McCall</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>RALPH F. BOYD, SR. PAPERS (APAP165)<date normal="1943/1992" type="inclusive">1943-1992</date>
-      </titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2012</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_apap165</unitid>
-      <unittitle>Ralph F. Boyd, Sr. Papers <unitdate type="inclusive" normal="1943/1992" label="Date:"> 1943-1992</unitdate>
-      </unittitle>
-      <physdesc label="Physical Characteristics:">
-        <extent unit="cubic ft.">1.6</extent>
-      </physdesc>
-      <origination>
-        <persname encodinganalog="100" source="local">Boyd, Ralph Fredric</persname>
-      </origination>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:"> The Ralph Boyd, Sr. Papers contain personal and professional
-        correspondence, news clippings, work manuals and agendas that document his career as a
-        General Electric employee, community activist and member of the Schenectady branch of the
-        NAACP. </abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Ralph F. Boyd, Sr. Papers<unitdate normal="1943/1992" type="inclusive">1943-1992</unitdate></unittitle>
+      <origination label="creator">
+        <persname source="local">Boyd, Ralph Fredric</persname>
+      </origination>
+      <unitid>apap165</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.6 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_f7b45c9970d42275947cf718823b4a9c">The Ralph Boyd, Sr. Papers contain personal and professional correspondence, news clippings, work manuals and agendas that document his career as a General Electric employee, community activist and member of the Schenectady branch of the NAACP.</abstract>
+      <langmaterial id="aspace_9c347f529bef885f7a3e90949908c22c">English</langmaterial>
+      <physloc id="aspace_b579123588ab3eddf7979286035bbdf6">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_d2af94386b9af68a92b140d055b66d08">
+      <head>Processing Information</head>
+      <p>Processed in 2012 by Shaquana McCall.</p>
+    </processinfo>
+    <accessrestrict id="aspace_2cb7d2827f153051c233ff0b5808949b">
       <head>Access</head>
-      <p> Access to this record group is unrestricted with the exception of a small number of folders noted on the inventory below. </p>
+      <p>Access to this record group is unrestricted with the exception of a small number of folders noted on the inventory below.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_8a186a3fc8ace87bcda14112785bc111">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_ab3a9ba3937f5437cf2fe5e254b80ec9">
       <head>Acquisition Information</head>
-      <p>Ralph F. Boyd, Sr. donated his papers to the M.E. Grenander Department of Special
-        Collections in 1993. </p>
+      <p>Ralph F. Boyd, Sr. donated his papers to the M.E. Grenander Department of Special Collections in 1993.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_67b5bbb7dca798e2b2abb780bc0327aa">
       <head>Biographical Sketch</head>
-      <p> Ralph F. Boyd, Sr. is a lifelong social justice advocate well known for his commitment to
-        civil rights, equality, civil service and local community activism within Schenectady, New
-        York. Born in 1919 in Norfolk, V.A, and raised in Baltimore M.D, Boyd grew up in the
-        segregated south during a time when discrimination and racism plagued many northern and
-        southern communities. Although there were occasional hardships, the support and importance
-        of family, along with the community of church, acted as Boyd’s savior. He credits both
-        components for instilling strong moral values within him. </p>
-      <p> Upon graduating from Frederick Douglass High School, Boyd continued his education by
-        attending Morgan College, now Morgan State University, in Baltimore. He was able to complete
-        two years before World War II disrupted his college life. While serving in the U.S. Army, he
-        was part of the all black (segregated) 366 Infantry Regiment that would later go on to be
-        recognized and honored for its performance during the war. </p>
-      <p>Despite the fact that Boyd, and many other African-Americans, were willing to fight in the
-        war for the cause of democracy and protection of their country, the reception these skilled
-        veterans received upon returning home was not a welcoming one. Boyd returned home, realized
-        that nothing had changed and was concerned. </p>
-      <p> Discontented with the status quo of society, following the war efforts abroad, Boyd
-        decided that he would work to effect change. His first target would be the General Electric
-        Co., a company which previously denied him employment when he first inquired about a job
-        soon after the war. Boyd was told that he didn’t have the training to fulfill a position
-        within the company in spite of his skilled experience in the U.S. Army. General Electric
-        eventually began to hire African-Americans in 1948, including Boyd, but this would not be
-        the end of the trouble that Boyd would endure, nor would it be the end of other problems
-        that he noticed. Not only were African-Americans being treated unfairly, women were being
-        treated unequally as well. Boyd began to defend his female co-workers who were not being
-        paid the same as the men. Despite the obstacles placed forth, Boyd remained within General
-        Electric. He would eventually become a prominent spokesperson and leader for the
-        International Union of Electronic, Electrical, Salaried, Machine and Furniture Workers (IUE)
-        Local 301 union as well as the foreman in the Turbine-Generator Department. He continued
-        working for General Electric for 34 years, up until his retirement in 1982.</p>
-      <p>In addition to campaigning for change within General Electric, Ralph Boyd also worked
-        within the local community of Schenectady to advocate change for the social, political and
-        economic conditions for African-Americans. Noted for his local community activism, he was
-        elected as a delegate to the Democratic National Convention in 1968. Possessing both the
-        passion and eagerness to see everybody within society treated equally, alongside his
-        interest in community activities, Boyd, in company with friends and colleagues, established
-        and developed the Schenectady chapter of the NAACP in 1950. Serving as the chapter’s
-        president for several terms, in addition to undertaking the responsibility of each post
-        within the organization during his years of involvement, Boyd promoted and supported
-        initiatives for reform change in areas surrounding the housing “slums” within Schenectady.
-        These initiatives include, but were not limited to, acquiring affordable housing for low
-        income groups and improving the conditions within the slums to make the surroundings
-        acceptable for proper living. In addition to his focus on housing, Boyd also campaigned for
-        equality within education and was instrumental in the establishment of the Baptist
-        Retirement Center in 1977. The Baptist Retirement Center, which is located in Scotia, New
-        York, provides activities and medical care for seniors and is the result of Boyd’s desire to
-        see a nursing home within the local community that would facilitate care for those elderly
-        in need.</p>
-      <p>As a social justice advocate, Ralph Boyd’s work within the Schenectady community is both
-        acknowledged and highly praised. He has won numerous awards, one which identified him as a
-        Schenectady Patroon in 2008, an award that is the city’s equivalent to the Nobel Prize.
-        General Electric named him a winner of the Gerald L. Phillippe Award for Distinguished
-        Public Service in 1978.</p>
-      <p> The information provided above was gleaned from the following sources, in addition to
-          those found in the Ralph F. Boyd Sr. Papers themselves: <list type="simple"><item>"Ralph Boyd devotes life to giving to commmunity,"<emph render="italic"> The Daily
-                Gazette,</emph> 25 September 2005, sec.H, H1-2</item><item>"Ralph Boyd Sr. is Schenectady's latest Patroon,"<emph render="italic"> The Daily
-                Gazette,</emph> 11 November 2008,
-              http://www.dailygazette.com/news/2008/nov/11/1111BOYD/. (Accessed via web on 22
-              February 2012)</item></list>
-        </p>
+      <p>Ralph F. Boyd, Sr. is a lifelong social justice advocate well known for his commitment to civil rights, equality, civil service and local community activism within Schenectady, New York. Born in 1919 in Norfolk, V.A, and raised in Baltimore M.D, Boyd grew up in the segregated south during a time when discrimination and racism plagued many northern and southern communities. Although there were occasional hardships, the support and importance of family, along with the community of church, acted as Boyd’s savior. He credits both components for instilling strong moral values within him. </p>
+      <p>  Upon graduating from Frederick Douglass High School, Boyd continued his education by attending Morgan College, now Morgan State University, in Baltimore. He was able to complete two years before World War II disrupted his college life. While serving in the U.S. Army, he was part of the all black (segregated) 366 Infantry Regiment that would later go on to be recognized and honored for its performance during the war. </p>
+      <p> Despite the fact that Boyd, and many other African-Americans, were willing to fight in the war for the cause of democracy and protection of their country, the reception these skilled veterans received upon returning home was not a welcoming one. Boyd returned home, realized that nothing had changed and was concerned. </p>
+      <p>  Discontented with the status quo of society, following the war efforts abroad, Boyd decided that he would work to effect change. His first target would be the General Electric Co., a company which previously denied him employment when he first inquired about a job soon after the war. Boyd was told that he didn’t have the training to fulfill a position within the company in spite of his skilled experience in the U.S. Army. General Electric eventually began to hire African-Americans in 1948, including Boyd, but this would not be the end of the trouble that Boyd would endure, nor would it be the end of other problems that he noticed. Not only were African-Americans being treated unfairly, women were being treated unequally as well. Boyd began to defend his female co-workers who were not being paid the same as the men. Despite the obstacles placed forth, Boyd remained within General Electric. He would eventually become a prominent spokesperson and leader for the International Union of Electronic, Electrical, Salaried, Machine and Furniture Workers (IUE) Local 301 union as well as the foreman in the Turbine-Generator Department. He continued working for General Electric for 34 years, up until his retirement in 1982.</p>
+      <p> In addition to campaigning for change within General Electric, Ralph Boyd also worked within the local community of Schenectady to advocate change for the social, political and economic conditions for African-Americans. Noted for his local community activism, he was elected as a delegate to the Democratic National Convention in 1968. Possessing both the passion and eagerness to see everybody within society treated equally, alongside his interest in community activities, Boyd, in company with friends and colleagues, established and developed the Schenectady chapter of the NAACP in 1950. Serving as the chapter’s president for several terms, in addition to undertaking the responsibility of each post within the organization during his years of involvement, Boyd promoted and supported initiatives for reform change in areas surrounding the housing “slums” within Schenectady. These initiatives include, but were not limited to, acquiring affordable housing for low income groups and improving the conditions within the slums to make the surroundings acceptable for proper living. In addition to his focus on housing, Boyd also campaigned for equality within education and was instrumental in the establishment of the Baptist Retirement Center in 1977. The Baptist Retirement Center, which is located in Scotia, New York, provides activities and medical care for seniors and is the result of Boyd’s desire to see a nursing home within the local community that would facilitate care for those elderly in need.</p>
+      <p> As a social justice advocate, Ralph Boyd’s work within the Schenectady community is both acknowledged and highly praised. He has won numerous awards, one which identified him as a Schenectady Patroon in 2008, an award that is the city’s equivalent to the Nobel Prize. General Electric named him a winner of the Gerald L. Phillippe Award for Distinguished Public Service in 1978.</p>
+      <p>  The information provided above was gleaned from the following sources, in addition to those found in the Ralph F. Boyd Sr. Papers themselves:</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The Ralph Boyd, Sr. Papers document his social activism as member of the Schenectady branch
-        of the NAACP and his professional work as an employee of the General Electric Co. in
-        Schenectady, New York. The collection is comprised of General Electric manuals and Boyd’s
-        personal work papers created during his time as a foreman in addition to news clippings and
-        supplementary materials from the International Union of Electronic, Electrical, Salaried,
-        Machine and Furniture Workers (IUE) Local 301. Furthermore, the collection contains
-        materials and news clippings related to his work with the Schenectady branch of the NAACP,
-        initiatives for low-income housing reform, and personal and professional correspondence.</p>
+    <scopecontent id="aspace_59a9bfd8e847e8cbf01f77c8f0d1f911">
+      <head>Scope and Contents</head>
+      <p>The Ralph Boyd, Sr. Papers document his social activism as member of the Schenectady branch of the NAACP and his professional work as an employee of the General Electric Co. in Schenectady, New York. The collection is comprised of General Electric manuals and Boyd’s personal work papers created during his time as a foreman in addition to news clippings and supplementary materials from the International Union of Electronic, Electrical, Salaried, Machine and Furniture Workers (IUE) Local 301. Furthermore, the collection contains materials and news clippings related to his work with the Schenectady branch of the NAACP, initiatives for low-income housing reform, and personal and professional correspondence.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_f3d33378e250b55bbb03219a293ea280">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized alphabetically. There are no series.</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-           Try to give as many access points as you can to increase the chances of 
-           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-           to comment them out! -->
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">African Americans and Civil Rights Organizations</subject>
-      <subject source="meg" encodinganalog="650">Schenectady, New York</subject>
-      <subject source="meg" encodinganalog="650">Labor</subject>
-      <head>Subject and Genre Headings</head>
-      <persname encodinganalog="600" source="local">Boyd, Ralph Fredric</persname>
-      <corpname encodinganalog="610" source="local">National Association for the Advancement of
-        Colored People</corpname>
-      <corpname encodinganalog="610" source="local">National Association for the Advancement of
-        Colored People. Schenectady Branch </corpname>
-      <corpname encodinganalog="610" source="lcsh">General Electric Company</corpname>
-      <corpname encodinganalog="610" source="lcsh">International Union of Electronic, Electrical,
-        Salaried, Machine and Furniture Workers </corpname>
-      <subject encodinganalog="650" source="lcsh">Social action--New York (State)</subject>
-      <subject encodinganalog="650" source="lcsh">Community organization--New York (State)</subject>
-      <subject encodinganalog="650" source="lcsh">Race relations</subject>
-      <subject encodinganalog="650" source="lcsh">Labor unions--New York (State)</subject>
-      <subject encodinganalog="650" source="lcsh">Slums--New York (State)</subject>
-      <subject encodinganalog="650" source="lcsh">Women--Employment</subject>
-      <subject encodinganalog="650" source="lcsh">African Americans--Employment</subject>
-      <subject encodinganalog="650" source="lcsh">Segregation in education</subject>
-      <geogname encodinganalog="651" source="lcsh">Schenectady (N.Y.) </geogname>
-      <genreform encodinganalog="655" source="aat">Clippings</genreform>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Files by subject</genreform>
-      <genreform encodinganalog="655" source="aat">Bylaws (administrative records)</genreform>
-      <genreform encodinganalog="655" source="aat">Appointment books</genreform>
-      <genreform encodinganalog="655" source="aat">Calendars</genreform>
-      <genreform encodinganalog="655" source="aat">Manuals (instructional manuals)</genreform>
-      <genreform encodinganalog="655" source="aat">Brochures</genreform>
-      <genreform encodinganalog="655" source="aat">Minutes</genreform>
-      <genreform encodinganalog="655" source="aat">Speeches</genreform>
-      <genreform encodinganalog="655" source="aat">Newsletters</genreform>
-      <genreform encodinganalog="655" source="aat">Programs</genreform>
-    </controlaccess>
-    <prefercite encodinganalog="524">
+    <prefercite id="aspace_177195eddbd746a424fb8ab57be51be2">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Ralph F. Boyd, Sr. Papers, 1943-1992.
-        M.E. Grenander Department of Special Collections and Archives, University Libraries,
-        University at Albany, State University of New York (hereafter referred to as the Boyd
-        Papers).</p>
+      <p> Identification of specific item, series, box, folder, Ralph F. Boyd, Sr. Papers, 1943-1992. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Boyd Papers).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_apap165-1">
+    <controlaccess>
+      <subject source="meg">African Americans and Civil Rights Organizations</subject>
+      <subject source="meg">Schenectady, New York</subject>
+      <subject source="meg">Labor</subject>
+      <subject source="lcsh">Social action--New York (State)</subject>
+      <subject source="lcsh">Community organization--New York (State)</subject>
+      <subject source="lcsh">Race relations</subject>
+      <subject source="lcsh">Labor unions--New York (State)</subject>
+      <subject source="lcsh">Slums--New York (State)</subject>
+      <subject source="lcsh">Women--Employment</subject>
+      <subject source="lcsh">African Americans--Employment</subject>
+      <subject source="lcsh">Segregation in education</subject>
+      <geogname source="lcsh">Schenectady (N.Y.)</geogname>
+      <genreform source="aat">Clippings</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Files by subject</genreform>
+      <genreform source="aat">Bylaws (administrative records)</genreform>
+      <genreform source="aat">Appointment books</genreform>
+      <genreform source="aat">Calendars</genreform>
+      <genreform source="aat">Manuals (instructional manuals)</genreform>
+      <genreform source="aat">Brochures</genreform>
+      <genreform source="aat">Minutes</genreform>
+      <genreform source="aat">Speeches</genreform>
+      <genreform source="aat">Newsletters</genreform>
+      <genreform source="aat">Programs</genreform>
+      <persname source="local">Boyd, Ralph Fredric</persname>
+      <corpname source="local">National Association for the Advancement of Colored People</corpname>
+      <corpname source="local">National Association for the Advancement of Colored People. Schenectady Branch</corpname>
+      <corpname source="lcsh">General Electric Company</corpname>
+      <corpname source="lcsh">International Union of Electronic, Electrical, Salaried, Machine and Furniture Workers</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_c3b7b06409764a2aa778577d9b530b4a" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>Acknowledged Life Members of NAACP</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+          <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+          <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+          <container id="aspace_a0b75882639ed97283bb584a0e9b033a" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_9952ed45dc833be78575e84390d0b01f" parent="aspace_a0b75882639ed97283bb584a0e9b033a" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-2">
+      <c01 id="aspace_d629dc4ee14f4a00b3306b368662f093" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>AFL-CIO Central Labor Council Constitution and By-Laws</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1992">Undated</unitdate>
+          <unitdate normal="1943/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_33cd0f62151247d48049a3c6130e3153" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_8bc409a1af53a640240cff68c99ecb3d" parent="aspace_33cd0f62151247d48049a3c6130e3153" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-3">
+      <c01 id="aspace_bc37488f5df0dac21f49dafa32741215" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>Boyd's Appointment Calendar</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+          <container id="aspace_9ede0f871da32d1b2208fe40463bcda5" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_24685649b636e4097209b8ca22a901f4" parent="aspace_9ede0f871da32d1b2208fe40463bcda5" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-4">
+      <c01 id="aspace_39d313e49adba75205c247c5df0413b2" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Boyd's Personnel File - [RESTRICTED]</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
+          <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+          <container id="aspace_f30abf2210533133cdaab830a6f690f0" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_df3c30953e6cfa89203f44e9a990806b" parent="aspace_f30abf2210533133cdaab830a6f690f0" type="Folder">4</container>
         </did>
-        <accessrestrict>
+        <accessrestrict id="aspace_518c62ee8b765f4a0f4e5ffd89d6ce40">
+          <head>Conditions Governing Access</head>
           <p>Must consult archivist before viewing this material.</p>
         </accessrestrict>
       </c01>
-      <c01 id="nam_apap165-5">
+      <c01 id="aspace_01c247c7cf0b341d01c031b3279581c1" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>Boyd's Work Documents</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980">1980</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1992">Undated</unitdate>
+          <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+          <unitdate normal="1943/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_2c5a01194a94bb2bea05ec9dda142b28" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_a3d2099fc4fad45426c9c962f18ab0e8" parent="aspace_2c5a01194a94bb2bea05ec9dda142b28" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-6">
+      <c01 id="aspace_f284764f832e149f13ad247cf8adf0ed" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
           <unittitle>Census Awareness and Instructions</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980">1980</unitdate>
+          <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+          <container id="aspace_bee6eae9ecb07c4d50069076d4ee3efa" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_860923a8a52bd7b9bfe5ab9034f4d1e2" parent="aspace_bee6eae9ecb07c4d50069076d4ee3efa" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-7">
+      <c01 id="aspace_9870c7a5fc2ecee5596896ba536caeff" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Dr. Martin Luther King Day Program</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+          <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+          <container id="aspace_f612ed799631a1214cea8fc6641c9627" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_1bd55367b9eec7aa96b3b98babcfc209" parent="aspace_f612ed799631a1214cea8fc6641c9627" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-8">
+      <c01 id="aspace_da0429f74d4b0490d88b6ec5bb9a8a47" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
           <unittitle>Electric City #259 I.B.P.O.E of W</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977">1977</unitdate>
+          <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+          <container id="aspace_b0d54dfc9ac5b8c995ced0757f0364f2" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_260656120cbcf4d34814114de71887aa" parent="aspace_b0d54dfc9ac5b8c995ced0757f0364f2" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-9">
+      <c01 id="aspace_3212818ecec7607d2ba0db94095c5a45" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>
             <emph render="italic">Electrical Union News</emph>
           </unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1949-02-25/1950-04-14">1949 February 25-1950 April 14</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1952-02-08/1954-06-17">1952 February 08-1954 June 17</unitdate>
+          <unitdate normal="1949-02-25/1950-04-14" type="inclusive">1949 February 25-1950 April 14</unitdate>
+          <unitdate normal="1952-02-08/1954-06-17" type="inclusive">1952 February 08-1954 June 17</unitdate>
+          <container id="aspace_4f01b686361e2a42e8072469e1d9f257" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_c88102bb87bc9e6028adf7494f9cf85b" parent="aspace_4f01b686361e2a42e8072469e1d9f257" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-10">
+      <c01 id="aspace_6451381cac56821d07d3371ca338aaa2" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>Employee Disciplinary Letters (memos)- [RESTRICTED]</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978/1980">1978-1980</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1992">Undated</unitdate>
+          <unitdate normal="1978/1980" type="inclusive">1978-1980</unitdate>
+          <unitdate normal="1943/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_5bff05ad2e8c2b4bdd39f674063d5f4b" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_ef3179755df1b3679c0ba765640e22b8" parent="aspace_5bff05ad2e8c2b4bdd39f674063d5f4b" type="Folder">10</container>
         </did>
-        <accessrestrict>
+        <accessrestrict id="aspace_6c7f278fbbfa9d10cd1e3b72ed308c7e">
+          <head>Conditions Governing Access</head>
           <p>Must consult archivist before viewing this material.</p>
         </accessrestrict>
       </c01>
-      <c01 id="nam_apap165-11">
+      <c01 id="aspace_34cb2e439dfe4796ba5bb3f751bb8182" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Fiscal Calendar</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980">1980</unitdate>
+          <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+          <container id="aspace_c0774310bf90e04c2fd1dd6c8e65109a" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_6ad553d84da8a2faa8eae558acb77d31" parent="aspace_c0774310bf90e04c2fd1dd6c8e65109a" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-12">
+      <c01 id="aspace_0a67cd529b21059e8682d3b1a03d0c72" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">12</container>
           <unittitle>Forman's Schedule</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978/1980">1978-1980</unitdate>
+          <unitdate normal="1978/1980" type="inclusive">1978-1980</unitdate>
+          <container id="aspace_71855f5d13113cc05699e05311601123" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_6d5bbf30c1c06ec4afc021bc9c7d55f2" parent="aspace_71855f5d13113cc05699e05311601123" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-13">
+      <c01 id="aspace_3e31ff6a3d98ba78001bea2b1526be28" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">13</container>
-          <unittitle>G.E-I.U.E Pension and Insurance Agreement/Local Supplemental
-            Agreement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1955/1956">1955-1956</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973">1973</unitdate>
+          <unittitle>G.E-I.U.E Pension and Insurance Agreement/Local Supplemental Agreement</unittitle>
+          <unitdate normal="1955/1956" type="inclusive">1955-1956</unitdate>
+          <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+          <container id="aspace_eda464f9689e12bee83d5b341ed7d01f" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_e2fe21c573bc8f565690c12ca6dd0203" parent="aspace_eda464f9689e12bee83d5b341ed7d01f" type="Folder">13</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-14">
+      <c01 id="aspace_cbc559cf98f5d7b3d6944fc568114bd3" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">14</container>
           <unittitle>General Correspondence (General Electric)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1978">1977-1978</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1981">1980-1981</unitdate>
+          <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+          <unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate>
+          <container id="aspace_1010af0daf7eac327d15d235d188bd28" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_0e53e5d7503833c4e9654ad2eb5e7c0e" parent="aspace_1010af0daf7eac327d15d235d188bd28" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-15">
+      <c01 id="aspace_98afa920c5abcf17b13f9d8c94f3a50c" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">15-16</container>
           <unittitle>General Electric Employee Benefits</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
+          <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+          <container id="aspace_af41ddf39549ae57b1dec6571288f969" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_98439b34d9faccfbfab91aa003f0424a" parent="aspace_af41ddf39549ae57b1dec6571288f969" type="Folder">15-16</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-16">
+      <c01 id="aspace_871d8c003d3908a3959fe7c5cce64e39" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">17</container>
           <unittitle>General Electric- Employee Relations Survey</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+          <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+          <container id="aspace_21033f5a242235ab63c0a5a7f472fd03" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_ef5f175af29437b1ffed163aab9d5062" parent="aspace_21033f5a242235ab63c0a5a7f472fd03" type="Folder">17</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-17">
+      <c01 id="aspace_a718be39ad05a00c7b5c6e2edf0fa4d3" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">18-19</container>
           <unittitle>General Electric- Forman's Working Handbook - Folder 19 [RESTRICTED]</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/1976">1975-1976</unitdate>
+          <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
+          <container id="aspace_5eb68e14f30666fb93123c7b206e26cf" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_e5660051fa3cba8d3d6300c922b1c1f1" parent="aspace_5eb68e14f30666fb93123c7b206e26cf" type="Folder">18-19</container>
         </did>
-        <accessrestrict>
+        <accessrestrict id="aspace_db1a6b7da2aaf0ce2f80243ea64c13bf">
+          <head>Conditions Governing Access</head>
           <p>Must consult archivist before viewing this material.</p>
         </accessrestrict>
       </c01>
-      <c01 id="nam_apap165-18">
+      <c01 id="aspace_50b7301815920dee2a53f7f183937669" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">20</container>
           <unittitle>General Electric- Highlights History 1878-1978</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
+          <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+          <container id="aspace_a2c0cd4649b467ad4a9c73373052b97e" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_e138e124d7c454b48377e8e09a442d00" parent="aspace_a2c0cd4649b467ad4a9c73373052b97e" type="Folder">20</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-19">
+      <c01 id="aspace_4416552c4477ec1d509643a00a102d4f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">21-22</container>
           <unittitle>General Electric- Production and Inventory Control Manual</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+          <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+          <container id="aspace_3a011d58f7447d1fba791e6a3fa9c401" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_bff0a96c2b6b70ccd2f99548a0835f84" parent="aspace_3a011d58f7447d1fba791e6a3fa9c401" type="Folder">21-22</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-20">
+      <c01 id="aspace_aefdacaa5a0d5bbfa04fa3bbeca1f3ea" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">23</container>
           <unittitle>General Electric Retirees- Pension Fund-Retirement Plans</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992">1992</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1992">Undated</unitdate>
+          <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+          <unitdate normal="1943/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_68b457f3cbac8fa433be0a90a903ad46" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_b618792d66424eaa68ca74a54b4ef9c8" parent="aspace_68b457f3cbac8fa433be0a90a903ad46" type="Folder">23</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-21">
+      <c01 id="aspace_be7c1cae686da5d01643ad73efffbaba" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">24-25</container>
           <unittitle>General Electric- Shop Operations Manual</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977">1977</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1980">1979-1980</unitdate>
+          <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+          <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
+          <container id="aspace_c08dff459e58e0158dff8484f6051dee" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_955c76b0521288b3d80454bd628f9ab7" parent="aspace_c08dff459e58e0158dff8484f6051dee" type="Folder">24-25</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-22">
+      <c01 id="aspace_781b2e8c5e077ca35a2269debfa53fe8" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">26-27</container>
           <unittitle>General Electric Small Polish Methods and Changes</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977">1977</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1981">1979-1981</unitdate>
+          <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+          <unitdate normal="1979/1981" type="inclusive">1979-1981</unitdate>
+          <container id="aspace_736edf41f85277a29ddca0172274b4df" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_de8d74a70f309a1df4020278ab8cc9ef" parent="aspace_736edf41f85277a29ddca0172274b4df" type="Folder">26-27</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-23">
+      <c01 id="aspace_cd4787e994cdc0b05ac60a8f5c0c804f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">28</container>
-          <unittitle>Helen Quirini- Personal/Professional Correspondence- Newsletter
-            Clippings</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1980">1943-1980</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1992">Undated</unitdate>
+          <unittitle>Helen Quirini- Personal/Professional Correspondence- Newsletter Clippings</unittitle>
+          <unitdate normal="1943/1980" type="inclusive">1943-1980</unitdate>
+          <unitdate normal="1943/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_40e2ce3888974b61acc686b58ac82dcd" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_82e7f0bcb993f018db1070361b15a77b" parent="aspace_40e2ce3888974b61acc686b58ac82dcd" type="Folder">28</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-24">
+      <c01 id="aspace_52946769eef16eac6143c1681edf5ed4" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">29-32</container>
           <unittitle>Housing: Schenectady Slums, Shortage, Reform, Business</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1965">1965</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967/1975">1967-1975</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1992">Undated</unitdate>
+          <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+          <unitdate normal="1967/1975" type="inclusive">1967-1975</unitdate>
+          <unitdate normal="1943/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_ec48ed7b8923257fb0d14853f15b9abd" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_fc08c803706427f51dbbecc7f8e8d89a" parent="aspace_ec48ed7b8923257fb0d14853f15b9abd" type="Folder">29-32</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-25">
+      <c01 id="aspace_e7da4ecffa90513c2032f2d81b644d16" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">33</container>
           <unittitle>Housing-Slums-Architecture-Real Tax</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1959/1960">1959-1960</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1966/1968">1966-1968</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1992">Undated</unitdate>
+          <unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate>
+          <unitdate normal="1966/1968" type="inclusive">1966-1968</unitdate>
+          <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+          <unitdate normal="1943/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_6b80e19897aa5a07853bfea0d79bbe14" label="Mixed Materials" type="Box">1 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_22d86be9ccba9252bbfe1a6119981b63" parent="aspace_6b80e19897aa5a07853bfea0d79bbe14" type="Folder">33</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-26">
+      <c01 id="aspace_b5beff223985140ec1af4703c336de16" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">1</container>
           <unittitle>Human Rights- Schenectady County- New York State Division</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1992">Undated</unitdate>
+          <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+          <unitdate normal="1943/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_aaa962c909b46888ac67f62199470d3c" label="Mixed Materials" type="Box">2 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_03e41e49c095177b1033e894a3c617d9" parent="aspace_aaa962c909b46888ac67f62199470d3c" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-27">
+      <c01 id="aspace_db22163f361aa99028b4590a903af12c" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">2</container>
           <unittitle>Integrated/Segregated Education</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968">1968</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1972">1972</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1992">Undated</unitdate>
+          <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+          <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+          <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+          <unitdate normal="1943/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_7ac3f907e6252ec19a235f7664eca35f" label="Mixed Materials" type="Box">2 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_0a8eaf953a5580b923f657a8e676a738" parent="aspace_7ac3f907e6252ec19a235f7664eca35f" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-28">
+      <c01 id="aspace_d971b5bd687759fcca1f5b95121711d4" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">3</container>
           <unittitle>
             <emph render="italic">IUE-CIO News</emph>
           </unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1951-09-13">1951 September 13</unitdate>
+          <unitdate normal="1951-09-13/1951-09-13" type="inclusive">1951 September 13</unitdate>
+          <container id="aspace_c5268f1916fc36ac454d9ec18c970254" label="Mixed Materials" type="Box">2 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_6ec4bb5e34c63a2fcc333b35ab1b2892" parent="aspace_c5268f1916fc36ac454d9ec18c970254" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-29">
+      <c01 id="aspace_7663cf1c822700dceb97bc0bb5e9f700" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">4</container>
           <unittitle>Local 301 Annual Report and Directory</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1944">1944</unitdate>
+          <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+          <container id="aspace_6664d3830da112b7facc1ea549664e81" label="Mixed Materials" type="Box">2 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_586f37492ce90a80d240a9beaef5d5ec" parent="aspace_6664d3830da112b7facc1ea549664e81" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-30">
+      <c01 id="aspace_11acf666eee07543c1be5cfc2a3e72f6" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">5</container>
           <unittitle>
             <emph render="italic">Local 301 News </emph>
           </unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1956-10-19/1956-11-30">1956 October 19-1956 November 30</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967-05-05/1967-10-13">1967 May 05-1967 October 13</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969-02-18/1980-05-13">1969 February 18-1980 May 13</unitdate>
+          <unitdate normal="1956-10-19/1956-11-30" type="inclusive">1956 October 19-1956 November 30</unitdate>
+          <unitdate normal="1967-05-05/1967-10-13" type="inclusive">1967 May 05-1967 October 13</unitdate>
+          <unitdate normal="1969-02-18/1980-05-13" type="inclusive">1969 February 18-1980 May 13</unitdate>
+          <container id="aspace_3d64f1544ce3e743584a899f96e46572" label="Mixed Materials" type="Box">2 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_d4e1b38c74a4eaff235a5f2b2ee71f09" parent="aspace_3d64f1544ce3e743584a899f96e46572" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-31">
+      <c01 id="aspace_e558c1f87df200f8de47662f1a18160c" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">6</container>
           <unittitle>Local 301- Union Election</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980">1980</unitdate>
+          <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+          <container id="aspace_395bb9ee1f01697bb534bf11598e686b" label="Mixed Materials" type="Box">2 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_ca1ea62ee2359737cfedd113ab7da51e" parent="aspace_395bb9ee1f01697bb534bf11598e686b" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-32">
+      <c01 id="aspace_8c057a546a9a8e31a116a07688dea943" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">7</container>
           <unittitle>NAACP Annual Convention</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969/1970">1969-1970</unitdate>
+          <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+          <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
+          <container id="aspace_ca5066d16a68c25b4ae93a6d3c695fac" label="Mixed Materials" type="Box">2 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_ba00f8efd7663d165510064f602c9384" parent="aspace_ca5066d16a68c25b4ae93a6d3c695fac" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-33">
+      <c01 id="aspace_44d6db268abcaf16c54208b4e62a6414" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">8</container>
           <unittitle>NAACP Backgrounders (unemployment/social welfare)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">1967</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1992">Undated</unitdate>
+          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+          <unitdate normal="1943/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_04d005337505c8830f49fcbb3a0ed45e" label="Mixed Materials" type="Box">2 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_4bc74a2a701a19bacb1f08967dbe87b6" parent="aspace_04d005337505c8830f49fcbb3a0ed45e" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-34">
+      <c01 id="aspace_7eb96c2298642f4c58decaf334028f98" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">9</container>
           <unittitle>NAACP Church Social Action Survey</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1992">Undated</unitdate>
+          <unitdate normal="1943/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_b11aec526d3f57490159bb91a36fc26c" label="Mixed Materials" type="Box">2 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_48b37ad49cb07ba8fb3b8e59230ec1c5" parent="aspace_b11aec526d3f57490159bb91a36fc26c" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-35">
+      <c01 id="aspace_60a42ab737034cbeebb8e0677a740553" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">10</container>
           <unittitle>NAACP Committees including Schenectady Executive Committee Members</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">1967</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1992">Undated</unitdate>
+          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+          <unitdate normal="1943/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_1ced3a068dd0be5a4b5075bf76f3124f" label="Mixed Materials" type="Box">2 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_2a777a273c65f474542ee17e45bf086c" parent="aspace_1ced3a068dd0be5a4b5075bf76f3124f" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-36">
+      <c01 id="aspace_acccbec4db3af79fe7ef4f5225f3348a" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">11</container>
           <unittitle>NAACP Constitution and By-Laws for Branches</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
+          <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+          <container id="aspace_894341e9307f4b933778647074919d1c" label="Mixed Materials" type="Box">2 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_8b4d8925d64677c4b26abedf44c2fc81" parent="aspace_894341e9307f4b933778647074919d1c" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-37">
+      <c01 id="aspace_d45bbf691a27e5ace26ef7ffec5b3f52" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">12</container>
           <unittitle>NAACP "Heroes of Emancipation"</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1964">1964</unitdate>
+          <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+          <container id="aspace_e7f8851eda39e5c84ab97e918a9552c1" label="Mixed Materials" type="Box">2 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_d24503c2aa11bb37d24013e1c6c9a13f" parent="aspace_e7f8851eda39e5c84ab97e918a9552c1" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-38">
+      <c01 id="aspace_04ebe2566b78cadf27f70cbfffb92fcb" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">13</container>
           <unittitle>NAACP Human Rights Unity Ball</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+          <container id="aspace_6da632eb566af4bf2ec0967f000614cf" label="Mixed Materials" type="Box">2 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_c65042cbc60fa99c9fac90b16bc8feca" parent="aspace_6da632eb566af4bf2ec0967f000614cf" type="Folder">13</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-39">
+      <c01 id="aspace_16620e0afffb59bc7493542c9716acae" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">14</container>
           <unittitle>NAACP-Internal Branch Voting /Office Holding</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+          <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+          <container id="aspace_792d55d4f50fded1e2ffb7534b1436ae" label="Mixed Materials" type="Box">2 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_d222327e22401b40c0fcb8e3c5e4374c" parent="aspace_792d55d4f50fded1e2ffb7534b1436ae" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-40">
+      <c01 id="aspace_1990e084b359256f34781e17fdb50fd3" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">15</container>
           <unittitle>NAACP Labor Manual</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968">1968</unitdate>
+          <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+          <container id="aspace_58a859564065bcfc335cbb193a583fda" label="Mixed Materials" type="Box">2 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_c674cad9e1d888b2397962fd291aae23" parent="aspace_58a859564065bcfc335cbb193a583fda" type="Folder">15</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-41">
+      <c01 id="aspace_b397e30c31c51f79cf1ee9e8134f04ae" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">16</container>
           <unittitle>NAACP Membership Campaign</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1992">Undated</unitdate>
+          <unitdate normal="1943/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_831f2b8262fd14d05f191a033b946e4c" label="Mixed Materials" type="Box">2 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_fdd3f2d0f5b7dcb42bc73199c27da67d" parent="aspace_831f2b8262fd14d05f191a033b946e4c" type="Folder">16</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-42">
+      <c01 id="aspace_3a850aac7989eacf01f2de2998d7b623" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">17</container>
           <unittitle>NAACP Military Veteran Affairs (newsletter)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+          <container id="aspace_064fa25f29bcf2fc888e439a371079e8" label="Mixed Materials" type="Box">2 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_923ef5d7b3b312d004b40018ad5610c9" parent="aspace_064fa25f29bcf2fc888e439a371079e8" type="Folder">17</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-43">
+      <c01 id="aspace_682f812e69ab1705950458cc9944578a" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">18</container>
           <unittitle>NAACP Newsletters (Schenectady and Albany Chapters)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">1967</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+          <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+          <container id="aspace_4e321cbd1dcc7cebf9f3c27393ac8b9b" label="Mixed Materials" type="Box">2 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_014ccb6f28d6008d3bea024f6f24ae1d" parent="aspace_4e321cbd1dcc7cebf9f3c27393ac8b9b" type="Folder">18</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-44">
+      <c01 id="aspace_aa37b9c71c11d9781b18ae35eb4f77bf" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">19</container>
           <unittitle>NAACP- N.Y State and Local Voting/Representation</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+          <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+          <container id="aspace_72039f8e317de81083507320728eb6b1" label="Mixed Materials" type="Box">2 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_3dbb7f87e08c440e09566f9025fe7e5c" parent="aspace_72039f8e317de81083507320728eb6b1" type="Folder">19</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-45">
+      <c01 id="aspace_f640cfb4bba9fb4b9cafa1bf38c8a520" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">1</container>
           <unittitle>NAACP Pamphlets/Brochures</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1963">1963</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1970">1968-1970</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1992">Undated</unitdate>
+          <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+          <unitdate normal="1968/1970" type="inclusive">1968-1970</unitdate>
+          <unitdate normal="1943/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_96272e537b5cbe67623aeae337a03a49" label="Mixed Materials" type="Box">3 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_c3947421c6041c14faaeb650d0ac17b3" parent="aspace_96272e537b5cbe67623aeae337a03a49" type="Folder">1</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-46">
+      <c01 id="aspace_c221c69fb521b5ec850283c7e65d08a0" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">2</container>
           <unittitle>NAACP Public Relations-Media Coverage-Political Action</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1992">Undated</unitdate>
+          <unitdate normal="1943/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_fc3ecfdadae2b8f055dbd69230476152" label="Mixed Materials" type="Box">3 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_ce16cc8930c8fb3e67ee2a800277b8f2" parent="aspace_fc3ecfdadae2b8f055dbd69230476152" type="Folder">2</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-47">
+      <c01 id="aspace_1b486c57c30d4a9b57407e6780b1075b" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">3</container>
           <unittitle>NAACP Resolutions</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1992">Undated</unitdate>
+          <unitdate normal="1943/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_321d4a7d3cf8f8f6c5c17208f9bbf0b4" label="Mixed Materials" type="Box">3 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_e558a41d9faf3625582cfe17a5424df8" parent="aspace_321d4a7d3cf8f8f6c5c17208f9bbf0b4" type="Folder">3</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-48">
+      <c01 id="aspace_3aec0f8f8afb48fee737c4cd408f3dd9" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">4</container>
           <unittitle>NAACP Schenectady Branch Financial Statement</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+          <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+          <container id="aspace_5e8b7328bd91214167cc9ddf90b4928f" label="Mixed Materials" type="Box">3 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_8be615433100942e77b5a95528063f3d" parent="aspace_5e8b7328bd91214167cc9ddf90b4928f" type="Folder">4</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-49">
+      <c01 id="aspace_c17650d136240a88688ab077190952be" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">5</container>
-          <unittitle>NAACP Schenectady Branch Letterhead/Branch President R. Boyd Response
-            Letter</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">1967</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1992">Undated</unitdate>
+          <unittitle>NAACP Schenectady Branch Letterhead/Branch President R. Boyd Response Letter</unittitle>
+          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+          <unitdate normal="1943/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_b455adba068ec28ca15ccdd684c62f15" label="Mixed Materials" type="Box">3 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_1304fd0f3347aa85e054e9c9288518d7" parent="aspace_b455adba068ec28ca15ccdd684c62f15" type="Folder">5</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-50">
+      <c01 id="aspace_391436dd355c0de469ff0bf87844ccf3" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">6</container>
-          <unittitle>National Committee Against Discrimination in Housing (NCDH) "Trends In Housing"
-            Newsletter</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+          <unittitle>National Committee Against Discrimination in Housing (NCDH) "Trends In Housing" Newsletter</unittitle>
+          <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+          <container id="aspace_9a3721cbbb61a7252e5ba57065eec3c7" label="Mixed Materials" type="Box">3 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_2235b7c25e809e52493e23f9e2d9401e" parent="aspace_9a3721cbbb61a7252e5ba57065eec3c7" type="Folder">6</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-51">
+      <c01 id="aspace_a2ddab072400591ecf46fecb7101af07" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">7</container>
           <unittitle>National NAACP Housing Department Committee</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1969">1968-1969</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1992">Undated</unitdate>
+          <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
+          <unitdate normal="1943/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_07a0eddbfb4140652b19b494e8e58ec1" label="Mixed Materials" type="Box">3 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_5b0e62ae989cbde5d2ed40a3bae425ce" parent="aspace_07a0eddbfb4140652b19b494e8e58ec1" type="Folder">7</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-52">
+      <c01 id="aspace_5fd4b7909bc7f82d822acf7da8f4a68c" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">8</container>
           <unittitle>New York State Conference of NAACP Branches</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+          <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+          <container id="aspace_b2f061803f9d7972f48c06eb454e0d49" label="Mixed Materials" type="Box">3 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_11e8291c53fa2d9f967c8ff48d856786" parent="aspace_b2f061803f9d7972f48c06eb454e0d49" type="Folder">8</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-53">
+      <c01 id="aspace_c8bea45f00a61566ead338b783b69b32" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">9</container>
           <unittitle>Phillippe Award (newsletters)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978">1978</unitdate>
+          <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+          <container id="aspace_5d40ea9bfa46ac5915c56872c7e9c39b" label="Mixed Materials" type="Box">3 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_da5aaaf225d08e5751cf4d583ef474ce" parent="aspace_5d40ea9bfa46ac5915c56872c7e9c39b" type="Folder">9</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-54">
+      <c01 id="aspace_4a0933925b8564c0dd3fa5c224c47b9a" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">10</container>
           <unittitle>Power of Women- General Electric Union</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1992">Undated</unitdate>
+          <unitdate normal="1943/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_9872ce7de01a5616e96f080babfb84c7" label="Mixed Materials" type="Box">3 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_ce45c7fca8382a5c8f7793c5e6dc5b6e" parent="aspace_9872ce7de01a5616e96f080babfb84c7" type="Folder">10</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-55">
+      <c01 id="aspace_4a5b46fb6feb91bb55bc02964cd2e19f" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">11</container>
-          <unittitle>Schenectady Branch NAACP President's Death- Boyd's Personal
-            Notes/Obituary</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1992">Undated</unitdate>
+          <unittitle>Schenectady Branch NAACP President's Death- Boyd's Personal Notes/Obituary</unittitle>
+          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+          <unitdate normal="1943/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_17b1719bb5c09861a051b31ea9b25b53" label="Mixed Materials" type="Box">3 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_5c8e67ea8c1877874b7e64aca78b9f08" parent="aspace_17b1719bb5c09861a051b31ea9b25b53" type="Folder">11</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-56">
+      <c01 id="aspace_01e2c4297f84a879d79f4961371f2b78" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">12</container>
           <unittitle>Schenectady City Planning Commission (newsletters)</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">1967</unitdate>
+          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+          <container id="aspace_c62d6d99d4d6f5dab0a141dbbf7cf079" label="Mixed Materials" type="Box">3 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_d9b49bc1838ab2ccf889054cf6a8a9cf" parent="aspace_c62d6d99d4d6f5dab0a141dbbf7cf079" type="Folder">12</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-57">
+      <c01 id="aspace_320b694158de83ea72461ee1b6f5cdf2" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">13</container>
           <unittitle>Schenectady NAACP Event and Service Programs/Agendas-</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975">1975</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/1982">1981-1982</unitdate>
+          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+          <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+          <unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate>
+          <container id="aspace_355e51d5737392c19bad6a92fd4ca192" label="Mixed Materials" type="Box">3 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_e0e18163839f9d74f150dd367fceda04" parent="aspace_355e51d5737392c19bad6a92fd4ca192" type="Folder">13</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-58">
+      <c01 id="aspace_f57cba73ef63076b03cee18a066a403e" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">14</container>
           <unittitle>Turbine Department/Schenectady Utilities Union Relations Advices</unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969">1969</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1943/1992">Undated</unitdate>
+          <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+          <unitdate normal="1943/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_693ac0bd50e55eef6bd71ef1094f2e85" label="Mixed Materials" type="Box">3 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_0f88cf32b2c2cdbb390d341ffffa88f6" parent="aspace_693ac0bd50e55eef6bd71ef1094f2e85" type="Folder">14</container>
         </did>
       </c01>
-      <c01 id="nam_apap165-59">
+      <c01 id="aspace_511ef9e99c9b7f8b795308369980824f" level="file">
         <did>
-          <container type="Box">3</container>
-          <container type="Folder">15</container>
           <unittitle>
             <emph render="italic">U.E 201 News </emph>
           </unittitle>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1953-10-29/1953-12-09">1953 October 29-1953 December 09</unitdate>
+          <unitdate normal="1953-10-29/1953-12-09" type="inclusive">1953 October 29-1953 December 09</unitdate>
+          <container id="aspace_006f59b4775e313a79f94fdf95648974" label="Mixed Materials" type="Box">3 (Ralph F. Boyd, Sr. Papers )</container>
+          <container id="aspace_0f5b62f7fd01d179f1c552e09f3573e8" parent="aspace_006f59b4775e313a79f94fdf95648974" type="Folder">15</container>
         </did>
       </c01>
     </dsc>

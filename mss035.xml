@@ -1,2062 +1,1730 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_mss035">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/mss035.html">nam_mss035</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="mss035">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=mss035.xml">mss035</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>ABRAHAM BELL AND SON COLLECTION (MSS035)<date normal="1809/1917" type="inclusive">1809-1917</date>
-        </titleproper>
+        <titleproper>Bell, Abraham, and Son; Collection <num>mss035</num></titleproper>
         <author>M.E. Grenander Department of Special Collections and Archives staff</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2003" type="publication">Copyright 2003 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2003</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Jodi Boyle<date normal="2017-01">2017 January </date>
-      </creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 17:26:45 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date/>
-        <item/>
+        <date>2017 January</date>
+        <item>Encoded in EAD by Jodi Boyle</item>
       </change>
     </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>Abraham Bell and Son Collection<date normal="1809/1917" type="inclusive">1809-1917</date>
-      </titleproper>
-      <publisher>
-			</publisher>
-      <date type="publication">Copyright 2003 by the University at Albany, SUNY. All rights reserved.</date>
-      <p>&amp;contact</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_mss035</unitid>
-      <unittitle>Abraham Bell and Son Collection<unitdate label="Date:" normal="1809/1917" type="inclusive">1809-1917</unitdate>
-        </unittitle>
-      <abstract label="Abstract:">The collection consists of 157 volumes of business books and three boxes of financial materials, correspondence, books, scrapbooks and diaries relating to the Bell Family and the Abraham Bell and Son Company.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="local">Abraham Bell and Son</corpname>
-      </origination>
-      <physdesc label="Physical Characteristics:">
-        <extent unit="cubic ft.">22</extent>
-      </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Abraham Bell and Son Collection<unitdate normal="1809/1917" type="inclusive">1809-1917</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">Abraham Bell and Son</corpname>
+      </origination>
+      <unitid>mss035</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">22 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_4ea70a6e22335b138a05338155aa4554">The collection consists of 157 volumes of business books and three boxes of financial materials, correspondence, books, scrapbooks and diaries relating to the Bell Family and the Abraham Bell and Son Company.</abstract>
+      <langmaterial id="aspace_760acf0f53d91e5fc3140f7ccbaadd9c">English</langmaterial>
+      <physloc id="aspace_8dcf491d8bb90ac3115310b9f5ca2473">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_bcaf603160ede28574432db62b18dcbd">
+      <head>Processing Information</head>
+      <p>Processed in 2003 by M.E. Grenander Department of Special Collections and Archives staff.</p>
+    </processinfo>
+    <accessrestrict id="aspace_37fa9ec5cc3536e126e21536106c2827">
       <head>Access</head>
       <p>Access to this record group is unrestricted.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_8b1e2846ccf8f38279c4b78838e12fa9">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
-      <p>The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p> The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_fe776414144c298764ac4d97474bc699">
       <head>Acquisition Information</head>
       <p>The items in this manuscript group were acquired by the University Libraries <date normal="1969">1969</date>.</p>
-      <p>An additional accession of financial papers, two account books, and a receipt book was acquired from Syracuse University<date normal="1971">1971</date>.</p>
-      <p>Richard Wiles donated business correspondence and leases for the Maryland Property <date normal="1990">1990</date>.</p>
+      <p> An additional accession of financial papers, two account books, and a receipt book was acquired from Syracuse University<date normal="1971">1971</date>.</p>
+      <p> Richard Wiles donated business correspondence and leases for the Maryland Property <date normal="1990">1990</date>.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_372d603c9d9484f9c4477e1a8071635b">
       <head>Biographical History</head>
-      <p>Abraham Bell and Son was a New York City merchant shipping firm, that specialized in the export of Southern cotton to the British Isles.  The Bell family were Quakers.</p>
+      <p>Abraham Bell and Son was a New York City merchant shipping firm, that specialized in the export of Southern cotton to the British Isles. The Bell family were Quakers.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
+    <scopecontent id="aspace_38fbf2f85f1c64b866d4ee283f2842d3">
+      <head>Scope and Contents</head>
       <p>The collection consists of 157 volumes of business books and three boxes of financial materials, correspondence, books, scrapbooks and diaries relating to the Bell Family and the Abraham Bell and Son Company.</p>
-      <p>Includes thirty-one letter press copybooks kept daily by Abraham Bell and Son, 18371854; 39 volumes of account books, journals, correspondence, and other business records, 18091888; a record book of Irish immigrants and other passengers to the United States from Derry and Belfast, 18321857. There are also correspondence, diaries, and financial records of other members of this Quaker family, James W. Bell and James C. Bell, 18321917; record books of Elizabeth Bell, 1858; and records of Bell Brothers, a money-lending business in Yonkers, New York, 18891895.</p>
-      <p>Related collections of Bell family and business materials are found at Duke University, Harvard University, Louisiana State Unviersity, New-York Historical Society, Northeatern Unviersity, Tulane University, University of Michigan, University of South Carolina and the Winterthur.</p>
+      <p> Includes thirty-one letter press copybooks kept daily by Abraham Bell and Son, 18371854; 39 volumes of account books, journals, correspondence, and other business records, 18091888; a record book of Irish immigrants and other passengers to the United States from Derry and Belfast, 18321857. There are also correspondence, diaries, and financial records of other members of this Quaker family, James W. Bell and James C. Bell, 18321917; record books of Elizabeth Bell, 1858; and records of Bell Brothers, a money-lending business in Yonkers, New York, 18891895.</p>
+      <p> Related collections of Bell family and business materials are found at Duke University, Harvard University, Louisiana State Unviersity, New-York Historical Society, Northeatern Unviersity, Tulane University, University of Michigan, University of South Carolina and the Winterthur.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_ada7c2a059576ea43ef310449b291a54">
       <head>Arrangement of the Collection</head>
-      <p>The collection is organized alphabetically, first by ledgers and then by foldered/boxed materials.  There are no series.</p>
+      <p>The collection is organized alphabetically, first by ledgers and then by foldered/boxed materials. There are no series.</p>
     </arrangement>
-    <prefercite encodinganalog="524">
+    <prefercite id="aspace_48d8f60b0840705612e357bb11842895">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Abraham Bell and Son Collection, 1809-1917. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Abraham Bell and Son Collection).</p>
+      <p> Identification of specific item, series, box, folder, Abraham Bell and Son Collection, 1809-1917. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Abraham Bell and Son Collection).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Women</subject>
-      <subject source="meg" encodinganalog="650">Travel</subject>
-      <subject source="meg" encodinganalog="650">Ethnic Groups</subject>
-      <subject source="meg" encodinganalog="650">Business and Industry</subject>
-      <subject source="meg" encodinganalog="650">Agriculture</subject>
-      <persname encodinganalog="600" source="lcsh">Bell, James W.--(James Winfred), 1929-</persname>
-      <corpname encodinganalog="610" source="local">Abraham Bell and Son</corpname>
-      <corpname encodinganalog="610" source="local">Bell Brothers (Yonkers, N.Y.)</corpname>
-      <subject encodinganalog="650" source="lcsh">Banks and banking--Ireland</subject>
-      <subject encodinganalog="650" source="lcsh">Ireland--Emigration and immigration</subject>
-      <subject encodinganalog="650" source="lcsh">England--Emigration and immigration</subject>
-      <geogname encodinganalog="651" source="lcsh">New York (N.Y.)--Commerce</geogname>
-      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
-      <genreform encodinganalog="655" source="aat">Account books</genreform>
+      <subject source="meg">Women</subject>
+      <subject source="meg">Travel</subject>
+      <subject source="meg">Ethnic Groups</subject>
+      <subject source="meg">Business and Industry</subject>
+      <subject source="meg">Agriculture</subject>
+      <subject source="lcsh">Banks and banking--Ireland</subject>
+      <subject source="lcsh">Ireland--Emigration and immigration</subject>
+      <subject source="lcsh">England--Emigration and immigration</subject>
+      <geogname source="lcsh">New York (N.Y.)--Commerce</geogname>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Account books</genreform>
+      <persname source="lcsh">Bell, James W.--(James Winfred), 1929-</persname>
+      <corpname source="local">Abraham Bell and Son</corpname>
+      <corpname source="local">Bell Brothers (Yonkers, N.Y.)</corpname>
     </controlaccess>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01>
+    <dsc>
+      <c01 id="aspace_16602584582806e56804869a5519f99c" level="otherlevel">
         <did>
-          <container type="Volume">1</container>
           <unittitle>Account Sales</unittitle>
-          <unitid>mss035-nam_mss035-1</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1823/1844">1823-1844</unitdate>
+          <unitdate normal="1823/1844" type="inclusive">1823-1844</unitdate>
+          <container id="aspace_bc8ffa089f5304ec35e1562da7286469" label="Mixed Materials" type="Volume">1</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_110fd1de9225482675c6270a96711dc8" level="otherlevel">
         <did>
-          <container type="Volume">2</container>
           <unittitle>Accounts Current</unittitle>
-          <unitid>mss035-nam_mss035-2</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1836/1848">1836-1848</unitdate>
-          <note>
-            <p>A. Bell</p>
-          </note>
+          <unitdate normal="1836/1848" type="inclusive">1836-1848</unitdate>
+          <container id="aspace_75a7765dc6529c17472331249b19c9cc" label="Mixed Materials" type="Volume">2</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_da75bc9825a90d50cda50f5c99c9d238" level="otherlevel">
         <did>
-          <container type="Volume">3</container>
           <unittitle>Accounts Current</unittitle>
-          <unitid>mss035-nam_mss035-3</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1848/1852">1848-1852</unitdate>
-          <note>
-            <p>A. Bell</p>
-          </note>
+          <unitdate normal="1848/1852" type="inclusive">1848-1852</unitdate>
+          <container id="aspace_cfe42195ea44af62dcb826a98ba3d8a1" label="Mixed Materials" type="Volume">3</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_1e5c402c030c8e9b7650acb405391dc1" level="otherlevel">
         <did>
-          <container type="Volume">4</container>
           <unittitle>Accounts Current</unittitle>
-          <unitid>mss035-nam_mss035-4</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1853/1857">1853-1857</unitdate>
-          <note>
-            <p>A. Bell</p>
-          </note>
+          <unitdate normal="1853/1857" type="inclusive">1853-1857</unitdate>
+          <container id="aspace_1cacd57fa9782d961acc75195221fd7c" label="Mixed Materials" type="Volume">4</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_1c53e928e5ddfe0699a5fa0077894382" level="otherlevel">
         <did>
-          <container type="Volume">5</container>
           <unittitle>Accounts Current</unittitle>
-          <unitid>mss035-nam_mss035-5</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1877/1880">1877-1880</unitdate>
-          <note>
-            <p>James Bell. </p>
-          </note>
+          <unitdate normal="1877/1880" type="inclusive">1877-1880</unitdate>
+          <container id="aspace_d375d613fdcae7e37f730d25e9c6f894" label="Mixed Materials" type="Volume">5</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_6d70024f1b1124eb3cfbe40e9f643730" level="otherlevel">
         <did>
-          <container type="Volume">6</container>
           <unittitle>Arrearages</unittitle>
-          <unitid>mss035-nam_mss035-6</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1892/1893">1892-1893</unitdate>
+          <unitdate normal="1892/1893" type="inclusive">1892-1893</unitdate>
+          <container id="aspace_6e72f2fd26de372cd4f89ff934c6f230" label="Mixed Materials" type="Volume">6</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_abdfc019b54408de56d31db468f47586" level="otherlevel">
         <did>
-          <container type="Volume">7</container>
           <unittitle>Arrearages</unittitle>
-          <unitid>mss035-nam_mss035-7</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1892/1894">1892-1894</unitdate>
+          <unitdate normal="1892/1894" type="inclusive">1892-1894</unitdate>
+          <container id="aspace_20bb20915002d6a173b74b8a778e453a" label="Mixed Materials" type="Volume">7</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_d2cbcabe926c78658139a5120fa22162" level="otherlevel">
         <did>
-          <container type="Volume">8</container>
           <unittitle>Arrearages</unittitle>
-          <unitid>mss035-nam_mss035-8</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1894/1896">1894-1896</unitdate>
+          <unitdate normal="1894/1896" type="inclusive">1894-1896</unitdate>
+          <container id="aspace_889d734e379a37ba4fa625c7bb8ff538" label="Mixed Materials" type="Volume">8</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_299854095d91e2a251c5a21b66a841a1" level="otherlevel">
         <did>
-          <container type="Volume">9</container>
           <unittitle>Bills Receivable</unittitle>
-          <unitid>mss035-nam_mss035-9</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1846/1851">1846-1851</unitdate>
-          <note>
-            <p>Includes some ship disbursements for voyages and portage bills for 1837-1838.</p>
-          </note>
+          <unitdate normal="1846/1851" type="inclusive">1846-1851</unitdate>
+          <container id="aspace_02c1f0de52729b2822aeff8384a0342d" label="Mixed Materials" type="Volume">9</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_6e84ace99b3b4020235a34a3008158f3" level="otherlevel">
         <did>
-          <container type="Volume">10</container>
           <unittitle>Blotter</unittitle>
-          <unitid>mss035-nam_mss035-10</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1847/1850">1847-1850</unitdate>
-          <note>
-            <p>At the end of the volume are six pages of Memoranda of Draft drawn by the Belfast Banking Co. , 1846-1851.</p>
-          </note>
+          <unitdate normal="1847/1850" type="inclusive">1847-1850</unitdate>
+          <container id="aspace_6257f520174b27c9900d53214edd6594" label="Mixed Materials" type="Volume">10</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_74ea5afeebae8cf32e3c6483ef99d758" level="otherlevel">
         <did>
-          <container type="Volume">11</container>
           <unittitle>Bonds and Mortgages</unittitle>
-          <unitid>mss035-nam_mss035-11</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1890/1896">1890-1896</unitdate>
-          <note>
-            <p>Includes two pages of stocks and bonds for 1896. Also contains several loose memoranda relating to bonds and mortgages.</p>
-          </note>
+          <unitdate normal="1890/1896" type="inclusive">1890-1896</unitdate>
+          <container id="aspace_2611a4864ab3e78c662b5ce18a77e793" label="Mixed Materials" type="Volume">11</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_50bb4612ee1888d9c1de1b3f845dcce1" level="otherlevel">
         <did>
-          <container type="Volume">12</container>
           <unittitle>Cash Book</unittitle>
-          <unitid>mss035-nam_mss035-12</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1832/1838">1832-1838</unitdate>
+          <unitdate normal="1832/1838" type="inclusive">1832-1838</unitdate>
+          <container id="aspace_4fa4abca0030503121d829ee20633045" label="Mixed Materials" type="Volume">12</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_8e5156fbce85245b1cf81a2cc99114f0" level="otherlevel">
         <did>
-          <container type="Volume">13</container>
           <unittitle>Cash Book</unittitle>
-          <unitid>mss035-nam_mss035-13</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1838/1842">1838-1842</unitdate>
+          <unitdate normal="1838/1842" type="inclusive">1838-1842</unitdate>
+          <container id="aspace_d7396b93c93b64ca4a1d11c24579a9b2" label="Mixed Materials" type="Volume">13</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_c9c7cbb25b52b08f41113129457cd80f" level="otherlevel">
         <did>
-          <container type="Volume">14</container>
           <unittitle>Cash Book</unittitle>
-          <unitid>mss035-nam_mss035-14</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1844/1850">1844-1850</unitdate>
+          <unitdate normal="1844/1850" type="inclusive">1844-1850</unitdate>
+          <container id="aspace_94322ab2b5d8103a2660d9c83cc58999" label="Mixed Materials" type="Volume">14</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_f4d84390c7d381a3f20eae03dbf1592d" level="otherlevel">
         <did>
-          <container type="Volume">15</container>
           <unittitle>Cash Book</unittitle>
-          <unitid>mss035-nam_mss035-15</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1853/1856">1853-1856</unitdate>
+          <unitdate normal="1853/1856" type="inclusive">1853-1856</unitdate>
+          <container id="aspace_b8642a580e95cf169b398acfff92ea1d" label="Mixed Materials" type="Volume">15</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_76f495fb69f6c569d9662fe6fd335933" level="otherlevel">
         <did>
-          <container type="Volume">16</container>
           <unittitle>Checkbook</unittitle>
-          <unitid>mss035-nam_mss035-16</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1833/1835">1833-1835</unitdate>
+          <unitdate normal="1833/1835" type="inclusive">1833-1835</unitdate>
+          <container id="aspace_c238d7fd69d390bc7544ef9ebede7eee" label="Mixed Materials" type="Volume">16</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_4d889440ebd5c919ec9be7f2c8c5f5be" level="otherlevel">
         <did>
-          <container type="Volume">17</container>
           <unittitle>Checkbook</unittitle>
-          <unitid>mss035-nam_mss035-17</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1837/1839">1837-1839</unitdate>
+          <unitdate normal="1837/1839" type="inclusive">1837-1839</unitdate>
+          <container id="aspace_6ebe05156ccf606a5f9000de302abd1b" label="Mixed Materials" type="Volume">17</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_250edc947a9b375cfe2768f8d7c39c4f" level="otherlevel">
         <did>
-          <container type="Volume">18</container>
           <unittitle>Checkbook</unittitle>
-          <unitid>mss035-nam_mss035-18</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1844/1846">1844-1846</unitdate>
+          <unitdate normal="1844/1846" type="inclusive">1844-1846</unitdate>
+          <container id="aspace_8be51db1099dd612e59d8a9c4b2289ab" label="Mixed Materials" type="Volume">18</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_ea6dcaee8d17b32688f57bc17328b64c" level="otherlevel">
         <did>
-          <container type="Volume">19</container>
           <unittitle>Checkbook</unittitle>
-          <unitid>mss035-nam_mss035-19</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1844/1853">1844-1853</unitdate>
+          <unitdate normal="1844/1853" type="inclusive">1844-1853</unitdate>
+          <container id="aspace_cb3538c80145747ae49b4854fecddd1c" label="Mixed Materials" type="Volume">19</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_512531e0fceeeddba73866ccf8398d22" level="otherlevel">
         <did>
-          <container type="Volume">20</container>
           <unittitle>Checkbook</unittitle>
-          <unitid>mss035-nam_mss035-20</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1846/1848">1846-1848</unitdate>
-          <note>
-            <p>Also contains Collections, 1846-1848 and Discounts, 1846-1847. </p>
-          </note>
+          <unitdate normal="1846/1848" type="inclusive">1846-1848</unitdate>
+          <container id="aspace_54c3c0af80730083222516ea8b8569a6" label="Mixed Materials" type="Volume">20</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_4ab3bcc516de8a5b417f2a8ad798976b" level="otherlevel">
         <did>
-          <container type="Volume">21</container>
           <unittitle>Checkbook</unittitle>
-          <unitid>mss035-nam_mss035-21</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1848/1849">1848-1849</unitdate>
-          <note>
-            <p>Also contains Collections, 1848-1849 and Discounts, 1848-1849. </p>
-          </note>
+          <unitdate normal="1848/1849" type="inclusive">1848-1849</unitdate>
+          <container id="aspace_b690b103224113dc61d7b706a640ee87" label="Mixed Materials" type="Volume">21</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_d663c9b2dfafbf00901c38d11b0003f5" level="otherlevel">
         <did>
-          <container type="Volume">22</container>
           <unittitle>Checkbook</unittitle>
-          <unitid>mss035-nam_mss035-22</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1849/1850">1849-1850</unitdate>
-          <note>
-            <p>Also contains Collections, 1849; Sundry Collections, 1850; and Discounts, 1849-1850. </p>
-          </note>
+          <unitdate normal="1849/1850" type="inclusive">1849-1850</unitdate>
+          <container id="aspace_59255da46ec9045ce72269a9ebbcb58e" label="Mixed Materials" type="Volume">22</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_c57ab524b01b33d69a5d0ac24819d1fe" level="otherlevel">
         <did>
-          <container type="Volume">23</container>
           <unittitle>Checkbook</unittitle>
-          <unitid>mss035-nam_mss035-23</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1850/1851">1850-1851</unitdate>
-          <note>
-            <p>Also contains Collections, 1850-1851; Sundry Collections, 1850-1851; and Discounts, 1850-1851. </p>
-          </note>
+          <unitdate normal="1850/1851" type="inclusive">1850-1851</unitdate>
+          <container id="aspace_3efdc1704fc53935ed1aab7331985fda" label="Mixed Materials" type="Volume">23</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_dc0a8e7fc0646ae291bb475fb213ce88" level="otherlevel">
         <did>
-          <container type="Volume">24</container>
           <unittitle>Checkbook</unittitle>
-          <unitid>mss035-nam_mss035-24</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1851/1852">1851-1852</unitdate>
-          <note>
-            <p>Also contains Collections, 1851-1852; Sundry Collections, 1851-1852; and Discounts, 1851-1852. </p>
-          </note>
+          <unitdate normal="1851/1852" type="inclusive">1851-1852</unitdate>
+          <container id="aspace_05778f0d1cae4acb0b1458724d6bee5a" label="Mixed Materials" type="Volume">24</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_60eaa8e353889930e64193d81e562254" level="otherlevel">
         <did>
-          <container type="Volume">25</container>
           <unittitle>Checkbook</unittitle>
-          <unitid>mss035-nam_mss035-25</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1852/1853">1852-1853</unitdate>
-          <note>
-            <p>Also contains Collections, 1852-1853; Sundry Collections, 1852-1853; and Discounts, 1852-1853. </p>
-          </note>
+          <unitdate normal="1852/1853" type="inclusive">1852-1853</unitdate>
+          <container id="aspace_cf6f2a7b24859a0e6ed53953f5f205a0" label="Mixed Materials" type="Volume">25</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_c169574db867fef787455e9942a3cd18" level="otherlevel">
         <did>
-          <container type="Volume">26</container>
           <unittitle>Checkbook</unittitle>
-          <unitid>mss035-nam_mss035-26</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1853/1854">1853-1854</unitdate>
+          <unitdate normal="1853/1854" type="inclusive">1853-1854</unitdate>
+          <container id="aspace_31cbb495d9ed489a1bd6a1a7b76d4532" label="Mixed Materials" type="Volume">26</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_abe0b03dda8daf9ed6f79e59c817e79c" level="otherlevel">
         <did>
-          <container type="Volume">27</container>
           <unittitle>Checkbook</unittitle>
-          <unitid>mss035-nam_mss035-27</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1854/1855">1854-1855</unitdate>
+          <unitdate normal="1854/1855" type="inclusive">1854-1855</unitdate>
+          <container id="aspace_b42d986db0cd63336c13014e1e4b2e13" label="Mixed Materials" type="Volume">27</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_59cbeed44dd743030d0074f7c3bfb9cc" level="otherlevel">
         <did>
-          <container type="Volume">28</container>
           <unittitle>Checkbook</unittitle>
-          <unitid>mss035-nam_mss035-28</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1858/1861">1858-1861</unitdate>
+          <unitdate normal="1858/1861" type="inclusive">1858-1861</unitdate>
+          <container id="aspace_988525704f261146c8e67f3045862be4" label="Mixed Materials" type="Volume">28</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_085783ffaad97910f5f6bdaa396befe8" level="otherlevel">
         <did>
-          <container type="Volume">29</container>
           <unittitle>Checkbook</unittitle>
-          <unitid>mss035-nam_mss035-29</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1864/1865">1864-1865</unitdate>
+          <unitdate normal="1864/1865" type="inclusive">1864-1865</unitdate>
+          <container id="aspace_47b1e490f7238aed44f08dc4eac4d5db" label="Mixed Materials" type="Volume">29</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_b0f31d2cea0e786e33f5eb68df19ed1f" level="otherlevel">
         <did>
-          <container type="Volume">30</container>
           <unittitle>Checkbook</unittitle>
-          <unitid>mss035-nam_mss035-30</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1865/1867">1865-1867</unitdate>
+          <unitdate normal="1865/1867" type="inclusive">1865-1867</unitdate>
+          <container id="aspace_77f7e5593890bde711ff7621995817cb" label="Mixed Materials" type="Volume">30</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_76dace8386dbe79333bcd6afe103776f" level="otherlevel">
         <did>
-          <container type="Volume">31</container>
           <unittitle>Checkbook</unittitle>
-          <unitid>mss035-nam_mss035-31</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1899/1900">1899-1900</unitdate>
+          <unitdate normal="1899/1900" type="inclusive">1899-1900</unitdate>
+          <container id="aspace_b83bc738e952d6353a65cebd9a89ed73" label="Mixed Materials" type="Volume">31</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_657fa5ddc468906b28b4555add95afe6" level="otherlevel">
         <did>
-          <container type="Volume">32</container>
           <unittitle>Checkbook</unittitle>
-          <unitid>mss035-nam_mss035-32</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1900/1901">1900-1901</unitdate>
+          <unitdate normal="1900/1901" type="inclusive">1900-1901</unitdate>
+          <container id="aspace_39d7cf92f071ef1688e05d133ab462bc" label="Mixed Materials" type="Volume">32</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_fc376c5f7dc7cd7bb656434f7e6ac2c9" level="otherlevel">
         <did>
-          <container type="Volume">33</container>
           <unittitle>Checkbook</unittitle>
-          <unitid>mss035-nam_mss035-33</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1902/1903">1902-1903</unitdate>
+          <unitdate normal="1902/1903" type="inclusive">1902-1903</unitdate>
+          <container id="aspace_3df3dc630ed0649660cfaea004b62795" label="Mixed Materials" type="Volume">33</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_7dda39d700cde38b7887927adbb7f5bf" level="otherlevel">
         <did>
-          <container type="Volume">34</container>
-          <unittitle>Checkbook </unittitle>
-          <unitid>mss035-nam_mss035-34</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1907">Undated</unitdate>
-          <note>
-            <p>blank. </p>
-          </note>
+          <unittitle>Checkbook</unittitle>
+          <unitdate normal="1809/1907" type="inclusive">Undated</unitdate>
+          <container id="aspace_1a62eac99695e1b9a10207712267622f" label="Mixed Materials" type="Volume">34</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_99858cb81c624b413d358c2cd6c61547" level="otherlevel">
         <did>
-          <container type="Volume">35</container>
           <unittitle>Collections</unittitle>
-          <unitid>mss035-nam_mss035-35</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1844/1846">1844-1846</unitdate>
+          <unitdate normal="1844/1846" type="inclusive">1844-1846</unitdate>
+          <container id="aspace_d03fd5bc80337a2c160f23e1b13d49e9" label="Mixed Materials" type="Volume">35</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_bc3b1554c882411d895cd31399029173" level="otherlevel">
         <did>
-          <container type="Volume">36</container>
           <unittitle>Collections</unittitle>
-          <unitid>mss035-nam_mss035-36</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1864/1879">1864-1879</unitdate>
+          <unitdate normal="1864/1879" type="inclusive">1864-1879</unitdate>
+          <container id="aspace_7f1aa7f53591de5e136abc2417ed96c8" label="Mixed Materials" type="Volume">36</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_957c5c9b1eea2a4a45dd8cdbb51e1d27" level="otherlevel">
         <did>
-          <container type="Volume">37</container>
           <unittitle>Drafts</unittitle>
-          <unitid>mss035-nam_mss035-37</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1849">1849</unitdate>
-          <note>
-            <p>Belfast, Liverpool and London. </p>
-          </note>
+          <unitdate normal="1849/1849" type="inclusive">1849</unitdate>
+          <container id="aspace_9ed7ecdf0ed33c084886401b892e0b6a" label="Mixed Materials" type="Volume">37</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_5bb7c2dd11e9108d28c007e59a6e494f" level="otherlevel">
         <did>
-          <container type="Volume">38</container>
           <unittitle>Drafts</unittitle>
-          <unitid>mss035-nam_mss035-38</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1850/1851">1850-1851</unitdate>
-          <note>
-            <p>Belfast, Liverpool and London. </p>
-          </note>
+          <unitdate normal="1850/1851" type="inclusive">1850-1851</unitdate>
+          <container id="aspace_52301595107fefce6ca17f98f1462dd0" label="Mixed Materials" type="Volume">38</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_634aed7262d633f5ac5b3488a0d377c8" level="otherlevel">
         <did>
-          <container type="Volume">39</container>
           <unittitle>Drafts</unittitle>
-          <unitid>mss035-nam_mss035-39</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1851/1852">1851-1852</unitdate>
-          <note>
-            <p>Belfast and London. </p>
-          </note>
+          <unitdate normal="1851/1852" type="inclusive">1851-1852</unitdate>
+          <container id="aspace_2df1a0bd5ab12352c949ef96a441355e" label="Mixed Materials" type="Volume">39</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_b9acf79853ffb4162e6ca18a5c905ca6" level="otherlevel">
         <did>
-          <container type="Volume">40</container>
           <unittitle>Drafts</unittitle>
-          <unitid>mss035-nam_mss035-40</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1852/1853">1852-1853</unitdate>
-          <note>
-            <p>Belfast and Liverpool. </p>
-          </note>
+          <unitdate normal="1852/1853" type="inclusive">1852-1853</unitdate>
+          <container id="aspace_55c0b613efc679891085fec42bdb2b72" label="Mixed Materials" type="Volume">40</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_f8409ed6527c77cb74ee2e2c19c68eb5" level="otherlevel">
         <did>
-          <container type="Volume">41</container>
           <unittitle>Drafts</unittitle>
-          <unitid>mss035-nam_mss035-41</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1853/1855">1853-1855</unitdate>
-          <note>
-            <p>Belfast, Liverpool and London. </p>
-          </note>
+          <unitdate normal="1853/1855" type="inclusive">1853-1855</unitdate>
+          <container id="aspace_abcd9197b254b21630bc4376dcaadb0b" label="Mixed Materials" type="Volume">41</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_b6028be05d396d2730896760dded6e96" level="otherlevel">
         <did>
-          <container type="Volume">42</container>
           <unittitle>Drafts</unittitle>
-          <unitid>mss035-nam_mss035-42</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1853/1856">1853-1856</unitdate>
-          <note>
-            <p>Belfast. </p>
-          </note>
+          <unitdate normal="1853/1856" type="inclusive">1853-1856</unitdate>
+          <container id="aspace_f204134ee09b39d5b8a67eec62731c3e" label="Mixed Materials" type="Volume">42</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_1fd24c5ece748c68f3621d5a8c6a8cfd" level="otherlevel">
         <did>
-          <container type="Volume">43</container>
           <unittitle>Freight Lists</unittitle>
-          <unitid>mss035-nam_mss035-43</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1827/1860">1827-1860</unitdate>
-          <note>
-            <p>Inward and outward. </p>
-          </note>
+          <unitdate normal="1827/1860" type="inclusive">1827-1860</unitdate>
+          <container id="aspace_7cb59b64d53b6b1c630fb474a2976647" label="Mixed Materials" type="Volume">43</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_07909c152c1b036158bb185110add914" level="otherlevel">
         <did>
-          <container type="Volume">44</container>
           <unittitle>Index</unittitle>
-          <unitid>mss035-nam_mss035-44</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1907">Undated</unitdate>
+          <unitdate normal="1809/1907" type="inclusive">Undated</unitdate>
+          <container id="aspace_140ea4aebd2cf0387a788d36a1c46756" label="Mixed Materials" type="Volume">44</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_d0d43a5b90f10c6a77aa949c33b45ddc" level="otherlevel">
         <did>
-          <container type="Volume">45</container>
           <unittitle>Index</unittitle>
-          <unitid>mss035-nam_mss035-45</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1907">Undated</unitdate>
+          <unitdate normal="1809/1907" type="inclusive">Undated</unitdate>
+          <container id="aspace_e073259a5bc14a7a6713f478caa7536e" label="Mixed Materials" type="Volume">45</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_eb584d8f1e44698ec4e1f85ad4679d6a" level="otherlevel">
         <did>
-          <container type="Volume">46</container>
           <unittitle>Index</unittitle>
-          <unitid>mss035-nam_mss035-46</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1907">Undated</unitdate>
+          <unitdate normal="1809/1907" type="inclusive">Undated</unitdate>
+          <container id="aspace_93453438c4161b05e7ba189b3e695287" label="Mixed Materials" type="Volume">46</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_cf9f237d8589903bb816123bf406fb43" level="otherlevel">
         <did>
-          <container type="Volume">47</container>
           <unittitle>Index</unittitle>
-          <unitid>mss035-nam_mss035-47</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1907">Undated</unitdate>
+          <unitdate normal="1809/1907" type="inclusive">Undated</unitdate>
+          <container id="aspace_9b661a28f08145d6f15f117c1bf153d5" label="Mixed Materials" type="Volume">47</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_b5887043f15f8ee0e8ce225719688390" level="otherlevel">
         <did>
-          <container type="Volume">48</container>
           <unittitle>Index</unittitle>
-          <unitid>mss035-nam_mss035-48</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1907">Undated</unitdate>
+          <unitdate normal="1809/1907" type="inclusive">Undated</unitdate>
+          <container id="aspace_29e113f3ab1594014116bc84bf09b915" label="Mixed Materials" type="Volume">48</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_f3c212d987860de4df9a5c90061b3975" level="otherlevel">
         <did>
-          <container type="Volume">49</container>
           <unittitle>Index</unittitle>
-          <unitid>mss035-nam_mss035-49</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1907">Undated</unitdate>
+          <unitdate normal="1809/1907" type="inclusive">Undated</unitdate>
+          <container id="aspace_8ad6d864a48e1cb8face8e8640634ded" label="Mixed Materials" type="Volume">49</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_65d5c4e7561aab128f3ec505aee5fc65" level="otherlevel">
         <did>
-          <container type="Volume">50</container>
           <unittitle>Index</unittitle>
-          <unitid>mss035-nam_mss035-50</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1907">Undated</unitdate>
+          <unitdate normal="1809/1907" type="inclusive">Undated</unitdate>
+          <container id="aspace_57c1190b3efea0949d82b33c7850a995" label="Mixed Materials" type="Volume">50</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_5911ab48c0b805151bd9cee60a8f50c6" level="otherlevel">
         <did>
-          <container type="Volume">51</container>
           <unittitle>Index</unittitle>
-          <unitid>mss035-nam_mss035-51</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1907">Undated</unitdate>
+          <unitdate normal="1809/1907" type="inclusive">Undated</unitdate>
+          <container id="aspace_3b8d06199781ffb1664ca4ec9995e4b4" label="Mixed Materials" type="Volume">51</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_57bb8ad9e8200181b4e99b3a33f89a5d" level="otherlevel">
         <did>
-          <container type="Volume">52</container>
           <unittitle>Index</unittitle>
-          <unitid>mss035-nam_mss035-52</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1907">Undated</unitdate>
+          <unitdate normal="1809/1907" type="inclusive">Undated</unitdate>
+          <container id="aspace_f793dcc294b2b2de6f90c8d82673b3c7" label="Mixed Materials" type="Volume">52</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_1c70a42c10198d6ecccfce92e56e9ead" level="otherlevel">
         <did>
-          <container type="Volume">53</container>
           <unittitle>Index</unittitle>
-          <unitid>mss035-nam_mss035-53</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1907">Undated</unitdate>
+          <unitdate normal="1809/1907" type="inclusive">Undated</unitdate>
+          <container id="aspace_84a1b058595736bd4187d1b61b652937" label="Mixed Materials" type="Volume">53</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_de6a9f1e39b1a62457439c377b397fae" level="otherlevel">
         <did>
-          <container type="Volume">54</container>
           <unittitle>Index</unittitle>
-          <unitid>mss035-nam_mss035-54</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1907">Undated</unitdate>
+          <unitdate normal="1809/1907" type="inclusive">Undated</unitdate>
+          <container id="aspace_c87a28c50a935f2e8a4981356b958315" label="Mixed Materials" type="Volume">54</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_0c35f1329e071a24341aa9a5d252acbf" level="otherlevel">
         <did>
-          <container type="Volume">55</container>
           <unittitle>Index</unittitle>
-          <unitid>mss035-nam_mss035-55</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1907">Undated</unitdate>
+          <unitdate normal="1809/1907" type="inclusive">Undated</unitdate>
+          <container id="aspace_60c53a38b1d782558ea0e158cc5bce9f" label="Mixed Materials" type="Volume">55</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_cbf49a862690c1368a3ba7b37726aa1b" level="otherlevel">
         <did>
-          <container type="Volume">56</container>
           <unittitle>Index</unittitle>
-          <unitid>mss035-nam_mss035-56</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1907">Undated</unitdate>
+          <unitdate normal="1809/1907" type="inclusive">Undated</unitdate>
+          <container id="aspace_951037a0a02a36dae4002bbb660177a2" label="Mixed Materials" type="Volume">56</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_af63e0493267d6dbc0f0f98fd81d0d9b" level="otherlevel">
         <did>
-          <container type="Volume">57</container>
           <unittitle>Index</unittitle>
-          <unitid>mss035-nam_mss035-57</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1907">Undated</unitdate>
+          <unitdate normal="1809/1907" type="inclusive">Undated</unitdate>
+          <container id="aspace_16be57aa493bb26ec41acf2b9e7d749f" label="Mixed Materials" type="Volume">57</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_cee251436e6a87d0ac42278f5a08d872" level="otherlevel">
         <did>
-          <container type="Volume">58</container>
           <unittitle>Index</unittitle>
-          <unitid>mss035-nam_mss035-58</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1907">Undated</unitdate>
+          <unitdate normal="1809/1907" type="inclusive">Undated</unitdate>
+          <container id="aspace_5894d91cc4362203e35405facceeaef1" label="Mixed Materials" type="Volume">58</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_8bb40f766078c6900178536a540d5dfb" level="otherlevel">
         <did>
-          <container type="Volume">59</container>
           <unittitle>Index</unittitle>
-          <unitid>mss035-nam_mss035-59</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1907">Undated</unitdate>
+          <unitdate normal="1809/1907" type="inclusive">Undated</unitdate>
+          <container id="aspace_beab9817c97d6a72d3c03dee33f0e4f0" label="Mixed Materials" type="Volume">59</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_4672a5570d7ec6e30131bdd66d88c4f7" level="otherlevel">
         <did>
-          <container type="Volume">60</container>
           <unittitle>Index</unittitle>
-          <unitid>mss035-nam_mss035-60</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1907">Undated</unitdate>
+          <unitdate normal="1809/1907" type="inclusive">Undated</unitdate>
+          <container id="aspace_2b05262672410e78361b824ac85e7c0a" label="Mixed Materials" type="Volume">60</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_c6dd84505d7904106a73237fc4a6c2ac" level="otherlevel">
         <did>
-          <container type="Volume">61</container>
           <unittitle>Index</unittitle>
-          <unitid>mss035-nam_mss035-61</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1907">Undated</unitdate>
+          <unitdate normal="1809/1907" type="inclusive">Undated</unitdate>
+          <container id="aspace_d08ee251963b1259256cf9dd52ae9a05" label="Mixed Materials" type="Volume">61</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_d0a3f8facd69b4fa812591d811d7d942" level="otherlevel">
         <did>
-          <container type="Volume">62</container>
           <unittitle>Insurance Premiums</unittitle>
-          <unitid>mss035-nam_mss035-62</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1863/1864">1863-1864</unitdate>
+          <unitdate normal="1863/1864" type="inclusive">1863-1864</unitdate>
+          <container id="aspace_89ab4d1ccc96354e0900168ff51ecf49" label="Mixed Materials" type="Volume">62</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_6acb8cd5fab4a91742ed3354d94fb420" level="otherlevel">
         <did>
-          <container type="Volume">63</container>
           <unittitle>Interest Dates Receivable</unittitle>
-          <unitid>mss035-nam_mss035-63</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1877">1877</unitdate>
+          <unitdate normal="1877/1877" type="inclusive">1877</unitdate>
+          <container id="aspace_f0f400ecea412c61719487845c2e1245" label="Mixed Materials" type="Volume">63</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_0ae4d52d7fa596cfb09b8c81614c383b" level="otherlevel">
         <did>
-          <container type="Volume">64</container>
           <unittitle>Invoices</unittitle>
-          <unitid>mss035-nam_mss035-64</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1853/1856">1853-1856</unitdate>
+          <unitdate normal="1853/1856" type="inclusive">1853-1856</unitdate>
+          <container id="aspace_ed30de49f9e5446e4f3d4f28d63e552f" label="Mixed Materials" type="Volume">64</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_d61a2dc3231d6d7ac25d6a0d8f9ec59c" level="otherlevel">
         <did>
-          <container type="Volume">65</container>
           <unittitle>Invoices Outward</unittitle>
-          <unitid>mss035-nam_mss035-65</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1848/1852">1848-1852</unitdate>
+          <unitdate normal="1848/1852" type="inclusive">1848-1852</unitdate>
+          <container id="aspace_3753ac32670af6d9d05d4b8e44603390" label="Mixed Materials" type="Volume">65</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_970134f390074d93ee0625b6019c7c94" level="otherlevel">
         <did>
-          <container type="Volume">66</container>
           <unittitle>Invoices Outward</unittitle>
-          <unitid>mss035-nam_mss035-66</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1852/1856">1852-1856</unitdate>
+          <unitdate normal="1852/1856" type="inclusive">1852-1856</unitdate>
+          <container id="aspace_246610d6b30b33be79e2fafab5b4b2dd" label="Mixed Materials" type="Volume">66</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_7f6af71e174af918c18ba7ec6391e86f" level="otherlevel">
         <did>
-          <container type="Volume">67</container>
           <unittitle>Invoices Outward</unittitle>
-          <unitid>mss035-nam_mss035-67</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1852/1856">1852-1856</unitdate>
-          <note>
-            <p>index.</p>
-          </note>
+          <unitdate normal="1852/1856" type="inclusive">1852-1856</unitdate>
+          <container id="aspace_32bbe7e3d709c6b79a66d209a84cec22" label="Mixed Materials" type="Volume">67</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_92db651464a8ac438923c26543960bd0" level="otherlevel">
         <did>
-          <container type="Volume">68</container>
           <unittitle>Journal</unittitle>
-          <unitid>mss035-nam_mss035-68</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1815/1826">1815-1826</unitdate>
+          <unitdate normal="1815/1826" type="inclusive">1815-1826</unitdate>
+          <container id="aspace_1aa5e4a9f6abd1539db7849f70dfb42b" label="Mixed Materials" type="Volume">68</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_4c4c841ac0ceaff1a4b740c7e2e3b49d" level="otherlevel">
         <did>
-          <container type="Volume">69</container>
           <unittitle>Journal</unittitle>
-          <unitid>mss035-nam_mss035-69</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1817/1819">1817-1819</unitdate>
+          <unitdate normal="1817/1819" type="inclusive">1817-1819</unitdate>
+          <container id="aspace_75384355c1999fbc1c4224e01c5c287a" label="Mixed Materials" type="Volume">69</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_2331fe554a67e4a8a5fa60fb1610046b" level="otherlevel">
         <did>
-          <container type="Volume">70</container>
           <unittitle>Journal</unittitle>
-          <unitid>mss035-nam_mss035-70</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1831/1834">1831-1834</unitdate>
+          <unitdate normal="1831/1834" type="inclusive">1831-1834</unitdate>
+          <container id="aspace_5470c53cfdafd5e153dbf2600d25fda1" label="Mixed Materials" type="Volume">70</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_76ac32678f66a4c2d58975ea09f30792" level="otherlevel">
         <did>
-          <container type="Volume">71</container>
           <unittitle>Journal</unittitle>
-          <unitid>mss035-nam_mss035-71</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1834/1837">1834-1837</unitdate>
+          <unitdate normal="1834/1837" type="inclusive">1834-1837</unitdate>
+          <container id="aspace_6e5132087b75e9ee377ed6b09282832d" label="Mixed Materials" type="Volume">71</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_66af9fb65ca07983bcd1b5195b99f37d" level="otherlevel">
         <did>
-          <container type="Volume">72</container>
           <unittitle>Journal</unittitle>
-          <unitid>mss035-nam_mss035-72</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1840/1841">1840-1841</unitdate>
+          <unitdate normal="1840/1841" type="inclusive">1840-1841</unitdate>
+          <container id="aspace_5cf99a2ea534e522b4bd1b5cdd86550e" label="Mixed Materials" type="Volume">72</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_d619a9647640f1ba037209106f6f54c5" level="otherlevel">
         <did>
-          <container type="Volume">73</container>
           <unittitle>Journal</unittitle>
-          <unitid>mss035-nam_mss035-73</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1841/1850">1841-1850</unitdate>
+          <unitdate normal="1841/1850" type="inclusive">1841-1850</unitdate>
+          <container id="aspace_4782b18f034f3fc1c4bf75941d0fce3b" label="Mixed Materials" type="Volume">73</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_759219b45d8237973a27ec7a99582502" level="otherlevel">
         <did>
-          <container type="Volume">74</container>
           <unittitle>Journal</unittitle>
-          <unitid>mss035-nam_mss035-74</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1853/1855">1853-1855</unitdate>
+          <unitdate normal="1853/1855" type="inclusive">1853-1855</unitdate>
+          <container id="aspace_f0616366b171c7f19091510339a88430" label="Mixed Materials" type="Volume">74</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_5a8fe6bb1835549c2aad3668dcc542db" level="otherlevel">
         <did>
-          <container type="Volume">75</container>
           <unittitle>Ledger</unittitle>
-          <unitid>mss035-nam_mss035-75</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1821">1809-1821</unitdate>
+          <unitdate normal="1809/1821" type="inclusive">1809-1821</unitdate>
+          <container id="aspace_bec28177d2a7ba08f59b9bea3fa0cb80" label="Mixed Materials" type="Volume">75</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_084e22d07a377e3f9fef06b931924f72" level="otherlevel">
         <did>
-          <container type="Volume">76</container>
           <unittitle>Ledger</unittitle>
-          <unitid>mss035-nam_mss035-76</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1824/1841">1824-1841</unitdate>
+          <unitdate normal="1824/1841" type="inclusive">1824-1841</unitdate>
+          <container id="aspace_eb1bfec2d162bbfcb2bae57660c10b55" label="Mixed Materials" type="Volume">76</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_e876da672f04e9d2b08a28ea794c53e8" level="otherlevel">
         <did>
-          <container type="Volume">77</container>
           <unittitle>Ledger</unittitle>
-          <unitid>mss035-nam_mss035-77</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1834/1835">1834-1835</unitdate>
+          <unitdate normal="1834/1835" type="inclusive">1834-1835</unitdate>
+          <container id="aspace_c16d486a4682b5c52f20353e16fb449b" label="Mixed Materials" type="Volume">77</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_831ff977a924870fd8d9361eb8dc7b48" level="otherlevel">
         <did>
-          <container type="Volume">78</container>
           <unittitle>Ledger</unittitle>
-          <unitid>mss035-nam_mss035-78</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1840/1849">1840-1849</unitdate>
+          <unitdate normal="1840/1849" type="inclusive">1840-1849</unitdate>
+          <container id="aspace_71dca7507d4e25c2af0ebf55c651cf81" label="Mixed Materials" type="Volume">78</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_ae478d12a60be3938b95a2834e85c88e" level="otherlevel">
         <did>
-          <container type="Volume">79</container>
           <unittitle>Ledger</unittitle>
-          <unitid>mss035-nam_mss035-79</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1844/1846">1844-1846</unitdate>
+          <unitdate normal="1844/1846" type="inclusive">1844-1846</unitdate>
+          <container id="aspace_789c2eb39d72c1f69b2359966188cc5b" label="Mixed Materials" type="Volume">79</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_31344df08fe262379e13bfa4ecdeb173" level="otherlevel">
         <did>
-          <container type="Volume">80</container>
           <unittitle>Ledger</unittitle>
-          <unitid>mss035-nam_mss035-80</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1850/1852">1850-1852</unitdate>
+          <unitdate normal="1850/1852" type="inclusive">1850-1852</unitdate>
+          <container id="aspace_70087c8b1be6f6f30da98eb5867f4689" label="Mixed Materials" type="Volume">80</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_57c6c52a3320794cc8b1138226a1610c" level="otherlevel">
         <did>
-          <container type="Volume">81</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-81</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1835-04-04/1835-12-31">1835 April 7-December 31</unitdate>
+          <unitdate normal="1835-04-04/1835-12-31" type="inclusive">1835 April 7-December 31</unitdate>
+          <container id="aspace_d1853464bc20ce0991fbd01fcf0f0697" label="Mixed Materials" type="Volume">81</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_46df1cb9f18bb295881dd88230868d68" level="otherlevel">
         <did>
-          <container type="Volume">82</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-82</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1836-01-01/1836-07-01">1836 January 1-July 7</unitdate>
+          <unitdate normal="1836-01-01/1836-07-01" type="inclusive">1836 January 1-July 7</unitdate>
+          <container id="aspace_e092e17cbb832b3fa5b693494c30c283" label="Mixed Materials" type="Volume">82</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_0cad886ab01a77bed7a9e908d8f625a8" level="otherlevel">
         <did>
-          <container type="Volume">83</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-83</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1837-01-24/1837-07-13">1837 January 24-July 13</unitdate>
+          <unitdate normal="1837-01-24/1837-07-13" type="inclusive">1837 January 24-July 13</unitdate>
+          <container id="aspace_3cb80fb8a9de89a9000cc4eccdb9be8c" label="Mixed Materials" type="Volume">83</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_668a016322cb89b0f9eab984908961e3" level="otherlevel">
         <did>
-          <container type="Volume">84</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-84</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1837-07-14/1838-02-22">1837 July 14-1838 February 22</unitdate>
+          <unitdate normal="1837-07-14/1838-02-22" type="inclusive">1837 July 14-1838 February 22</unitdate>
+          <container id="aspace_aaee66b354670798af9c326aba07b90f" label="Mixed Materials" type="Volume">84</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_de766753e70d6fe44274ce305f3e41a2" level="otherlevel">
         <did>
-          <container type="Volume">85</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-85</unitid>
-          <unitdate calendar="gregorian" era="ce" normal=" 1838-10-02/1839-03-09">1838 October 2-1839 March 9</unitdate>
+          <unitdate normal="1838-10-02/1839-03-09" type="inclusive">1838 October 2-1839 March 9</unitdate>
+          <container id="aspace_c847af27a658377f0b1c5dd3748cc1d2" label="Mixed Materials" type="Volume">85</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_29594d3dc0825f54a6bd909f326400cc" level="otherlevel">
         <did>
-          <container type="Volume">86</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-86</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1840-03-04/1840-08-01 ">1840 March 4-August 1</unitdate>
+          <unitdate normal="1840-03-04/1840-08-01" type="inclusive">1840 March 4-August 1</unitdate>
+          <container id="aspace_920d042e3e41ac0638c4783ddf876aa5" label="Mixed Materials" type="Volume">86</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_936a2467f538de85d789fcb80063223c" level="otherlevel">
         <did>
-          <container type="Volume">87</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-87</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1840-07-31/1841-02-28">1840 July 31-1841 February 28</unitdate>
+          <unitdate normal="1840-07-31/1841-02-28" type="inclusive">1840 July 31-1841 February 28</unitdate>
+          <container id="aspace_f4222eab5138ff2b7349006a050457d9" label="Mixed Materials" type="Volume">87</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_58c65dd33a2547811ce093bb9c934b83" level="otherlevel">
         <did>
-          <container type="Volume">88</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-88</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1841-02-26/1841-08-12 ">1841 February 26-August 12 </unitdate>
+          <unitdate normal="1841-02-26/1841-08-12" type="inclusive">1841 February 26-August 12</unitdate>
+          <container id="aspace_9901ef7d67ce5a762713af47bfa36f89" label="Mixed Materials" type="Volume">88</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_518536e3bd6106a20dc04fd33bb93f5c" level="otherlevel">
         <did>
-          <container type="Volume">89</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-89</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1841-08-12/1842-02-28">1841 August 12-1842 February 28</unitdate>
+          <unitdate normal="1841-08-12/1842-02-28" type="inclusive">1841 August 12-1842 February 28</unitdate>
+          <container id="aspace_7bc1585fab508694713a00eec4455f68" label="Mixed Materials" type="Volume">89</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_14fbbe466ef7b5536297dc4074d54002" level="otherlevel">
         <did>
-          <container type="Volume">90</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-90</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1842-09-02/1843-04-06">1842 September 2-1843 April 6</unitdate>
+          <unitdate normal="1842-09-02/1843-04-06" type="inclusive">1842 September 2-1843 April 6</unitdate>
+          <container id="aspace_1a007bb0cdf4c27d3ff285bc3a14e168" label="Mixed Materials" type="Volume">90</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_c8733533f98731d3858e632a77b447d4" level="otherlevel">
         <did>
-          <container type="Volume">91</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-91</unitid>
-          <unitdate calendar="gregorian" era="ce" normal=" 1843-04-07/1844-03-08 ">1843 April 7-1844 March 8</unitdate>
+          <unitdate normal="1843-04-07/1844-03-08" type="inclusive">1843 April 7-1844 March 8</unitdate>
+          <container id="aspace_03fb7b2102d52e75cac31e45e851bd1d" label="Mixed Materials" type="Volume">91</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_e9b014033fcacb898f6eda0d1880caac" level="otherlevel">
         <did>
-          <container type="Volume">92</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-92</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1844-01-01/1844-09-05 ">1844 January 1-September 5</unitdate>
+          <unitdate normal="1844-01-01/1844-09-05" type="inclusive">1844 January 1-September 5</unitdate>
+          <container id="aspace_d4be1d478fe9910eb3616fdb08b5e3e3" label="Mixed Materials" type="Volume">92</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_ea636d6d1467552a1866c67357af96ab" level="otherlevel">
         <did>
-          <container type="Volume">93</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-93</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1844-09-06/1845-04-03">1844 September 6-1845 April 3</unitdate>
+          <unitdate normal="1844-09-06/1845-04-03" type="inclusive">1844 September 6-1845 April 3</unitdate>
+          <container id="aspace_45f254d3b6ca82dfa3983b1b1d41df94" label="Mixed Materials" type="Volume">93</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_a5c24d137a2dc612918a3c28558bf255" level="otherlevel">
         <did>
-          <container type="Volume">94</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-94</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1845-04-03/1845-11-26">1845 April 3-November 26</unitdate>
+          <unitdate normal="1845-04-03/1845-11-26" type="inclusive">1845 April 3-November 26</unitdate>
+          <container id="aspace_7f374ea09e9d9c8847188a40391e7e9c" label="Mixed Materials" type="Volume">94</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_0d2030a0dcca4bfc852169980b4a4520" level="otherlevel">
         <did>
-          <container type="Volume">95</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-95</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1846-10-22/1847-02-26">1846 October 22-1847 February 26</unitdate>
+          <unitdate normal="1846-10-22/1847-02-26" type="inclusive">1846 October 22-1847 February 26</unitdate>
+          <container id="aspace_d810d7c15aeaf7125639f56d374cb19c" label="Mixed Materials" type="Volume">95</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_c8113d4d5a3b8d0ead63e682e02a1494" level="otherlevel">
         <did>
-          <container type="Volume">96</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-96</unitid>
-          <unitdate calendar="gregorian" era="ce" normal=" 1847-02-27/1847-06-11">1847 February 27-June 11</unitdate>
+          <unitdate normal="1847-02-27/1847-06-11" type="inclusive">1847 February 27-June 11</unitdate>
+          <container id="aspace_4b57482a2a114a672c2da864472223f0" label="Mixed Materials" type="Volume">96</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_0f901d3b7e68e1b0764845c7c0863ec8" level="otherlevel">
         <did>
-          <container type="Volume">97</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-97</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1848-03-02/1848-07-24 ">1848 March 2-July 24</unitdate>
+          <unitdate normal="1848-03-02/1848-07-24" type="inclusive">1848 March 2-July 24</unitdate>
+          <container id="aspace_3995403c5a9176ebe4054263ec7166a0" label="Mixed Materials" type="Volume">97</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_9c964124206aabc7c876be453b33050f" level="otherlevel">
         <did>
-          <container type="Volume">98</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-98</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1849-04-16/1849-08-21">1849 April 16-August 21</unitdate>
+          <unitdate normal="1849-04-16/1849-08-21" type="inclusive">1849 April 16-August 21</unitdate>
+          <container id="aspace_d476d86b5a862f4a434da019b62d42ec" label="Mixed Materials" type="Volume">98</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_961d21855c526dc6509af8c842b94d5b" level="otherlevel">
         <did>
-          <container type="Volume">99</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-99</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1849-08-21/1850-01-07"> 1849 August 21-1850 January 7</unitdate>
+          <unitdate normal="1849-08-21/1850-01-07" type="inclusive">1849 August 21-1850 January 7</unitdate>
+          <container id="aspace_69ee76df96457f21b2073c617944df7d" label="Mixed Materials" type="Volume">99</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_005642a702c1fcff93c7c9c5ffdfa3ab" level="otherlevel">
         <did>
-          <container type="Volume">100</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-100</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1850-01-07/1850-05-17">1850 January 7-May 17</unitdate>
+          <unitdate normal="1850-01-07/1850-05-17" type="inclusive">1850 January 7-May 17</unitdate>
+          <container id="aspace_e21e52595dff4644f1a6cf323f38fa7d" label="Mixed Materials" type="Volume">100</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_b7836e6253fd241fd20da03f1d071cdf" level="otherlevel">
         <did>
-          <container type="Volume">101</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-101</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1850-05-17/1850-09-23">1850 May 17-September 23 </unitdate>
+          <unitdate normal="1850-05-17/1850-09-23" type="inclusive">1850 May 17-September 23</unitdate>
+          <container id="aspace_635d52e22a8ef94ba6894f9acf7563b2" label="Mixed Materials" type="Volume">101</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_7a92a2efcfeca8272043c22a0e145138" level="otherlevel">
         <did>
-          <container type="Volume">102</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-102</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1850-09-24/1851-01-16">1850 September 24-1851 January 16</unitdate>
+          <unitdate normal="1850-09-24/1851-01-16" type="inclusive">1850 September 24-1851 January 16</unitdate>
+          <container id="aspace_c405af9939e4cfafb157d28a0a4204fb" label="Mixed Materials" type="Volume">102</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_e6574ebe8e09ccbb3343a22b951281eb" level="otherlevel">
         <did>
-          <container type="Volume">103</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-103</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1851-01-16/1851-04-22 ">1851 January 16-April 22</unitdate>
+          <unitdate normal="1851-01-16/1851-04-22" type="inclusive">1851 January 16-April 22</unitdate>
+          <container id="aspace_afd54bec5889aa2e5c5f0de8afdefff4" label="Mixed Materials" type="Volume">103</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_386f9b9d3eaffd793fc64dd58931e0f2" level="otherlevel">
         <did>
-          <container type="Volume">104</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-104</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1851-09-17/1852-02-11 ">1851 September 17-1852 February 11</unitdate>
+          <unitdate normal="1851-09-17/1852-02-11" type="inclusive">1851 September 17-1852 February 11</unitdate>
+          <container id="aspace_de95b9a16aa84e9c0a252eb74f9f977e" label="Mixed Materials" type="Volume">104</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_19069bd7abd0f7d5a09b2c4f36d932e1" level="otherlevel">
         <did>
-          <container type="Volume">105</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-105</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1853-03-03/1853-06-20">1853 March 3-June 20</unitdate>
+          <unitdate normal="1853-03-03/1853-06-20" type="inclusive">1853 March 3-June 20</unitdate>
+          <container id="aspace_d75b45d49c581c9b44311e65ed3b806e" label="Mixed Materials" type="Volume">105</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_9e58513be38efa1d93f9900417bc38f3" level="otherlevel">
         <did>
-          <container type="Volume">106</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-106</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1853-06-20/1853-10-14">1853 June 20-October 14</unitdate>
+          <unitdate normal="1853-06-20/1853-10-14" type="inclusive">1853 June 20-October 14</unitdate>
+          <container id="aspace_5a2ee650781caa8663373b5c894a8a2b" label="Mixed Materials" type="Volume">106</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_4c37aea1db7ffd641fef05e59f9d727c" level="otherlevel">
         <did>
-          <container type="Volume">107</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-107</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1853-10-15/1854-02-20">1853 October 15-1854 February 20</unitdate>
+          <unitdate normal="1853-10-15/1854-02-20" type="inclusive">1853 October 15-1854 February 20</unitdate>
+          <container id="aspace_acdd17674711781ea6074e1f240c7c83" label="Mixed Materials" type="Volume">107</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_8a8566f72f5375199e858f3c1cc68a21" level="otherlevel">
         <did>
-          <container type="Volume">108</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-108</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1854-02-20/1854-06-12 ">1854 February 20-June 12</unitdate>
+          <unitdate normal="1854-02-20/1854-06-12" type="inclusive">1854 February 20-June 12</unitdate>
+          <container id="aspace_c26b0c7022997a44e7ba20e65f80f953" label="Mixed Materials" type="Volume">108</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_4346c76429dd6bbf67cd9f027efa221a" level="otherlevel">
         <did>
-          <container type="Volume">109</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-109</unitid>
-          <unitdate calendar="gregorian" era="ce" normal=" 1854-06-12/1854-09-25">1854 June 12-September 25</unitdate>
+          <unitdate normal="1854-06-12/1854-09-25" type="inclusive">1854 June 12-September 25</unitdate>
+          <container id="aspace_0e587d5f293b66014d230594600297a3" label="Mixed Materials" type="Volume">109</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_0c98aebef50167e7713a735b4f43c376" level="otherlevel">
         <did>
-          <container type="Volume">110</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-110</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1855-10-08/1856-02-15">1855 October 8-1856 February 15</unitdate>
+          <unitdate normal="1855-10-08/1856-02-15" type="inclusive">1855 October 8-1856 February 15</unitdate>
+          <container id="aspace_29efa6756ac879fd37ec94f3b60ff9ad" label="Mixed Materials" type="Volume">110</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_460e624d5c45e7d36c05c3cccac3cdf8" level="otherlevel">
         <did>
-          <container type="Volume">111</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-111</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1873-09-17/1877-10-17">1873 September 30-1877 October 17</unitdate>
+          <unitdate normal="1873-09-17/1877-10-17" type="inclusive">1873 September 30-1877 October 17</unitdate>
+          <container id="aspace_56a79d9eb4d7a9d7d41b658b2412fadb" label="Mixed Materials" type="Volume">111</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_864fe4c2bcac8fbf79cae44bef606e3a" level="otherlevel">
         <did>
-          <container type="Volume">112</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-112</unitid>
-          <unitdate calendar="gregorian" era="ce" normal=" 1881-04-26/1883-02-20">1881 April 26-1883 February 20</unitdate>
+          <unitdate normal="1881-04-26/1883-02-20" type="inclusive">1881 April 26-1883 February 20</unitdate>
+          <container id="aspace_5464dcf83701dd6776c7d5d3bec15d0b" label="Mixed Materials" type="Volume">112</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_351d65c2bb65c48faa133bb499cd0034" level="otherlevel">
         <did>
-          <container type="Volume">113</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-113</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1886-03-06/1889-01-22 ">1886 March 8-1889 January 22</unitdate>
+          <unitdate normal="1886-03-06/1889-01-22" type="inclusive">1886 March 8-1889 January 22</unitdate>
+          <container id="aspace_609ecedb48b28341bccf85f72f31d9df" label="Mixed Materials" type="Volume">113</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_ac7801400801fdf615333c32db3befac" level="otherlevel">
         <did>
-          <container type="Volume">114</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-114</unitid>
-          <unitdate calendar="gregorian" era="ce" normal=" 1889-01-22/1890-11-24">1889 January 22-1890 November 24</unitdate>
+          <unitdate normal="1889-01-22/1890-11-24" type="inclusive">1889 January 22-1890 November 24</unitdate>
+          <container id="aspace_378dfe13c528f927988c91fd43559a25" label="Mixed Materials" type="Volume">114</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_11a2d301fe909350e255184e9df5921f" level="otherlevel">
         <did>
-          <container type="Volume">115</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-115</unitid>
-          <unitdate calendar="gregorian" era="ce" normal=" 1892-05-05/1893-02-14 ">1892 May 5-1893 February 14</unitdate>
+          <unitdate normal="1892-05-05/1893-02-14" type="inclusive">1892 May 5-1893 February 14</unitdate>
+          <container id="aspace_2a3293527062b495d0e541e468f9aae2" label="Mixed Materials" type="Volume">115</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_f4b2077c1b14c14f228e11d8cb1f9c74" level="otherlevel">
         <did>
-          <container type="Volume">116</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-116</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1893-03-15/1894-01-09 ">1893 March 15-1894 January 9</unitdate>
+          <unitdate normal="1893-03-15/1894-01-09" type="inclusive">1893 March 15-1894 January 9</unitdate>
+          <container id="aspace_4265c97cbd424ad05b0039f3639908b4" label="Mixed Materials" type="Volume">116</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_d7bb8b04100568f549cde19a788163d2" level="otherlevel">
         <did>
-          <container type="Volume">117</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-117</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1894-01-17/1894-11-08 ">1894 January 17-November 8</unitdate>
+          <unitdate normal="1894-01-17/1894-11-08" type="inclusive">1894 January 17-November 8</unitdate>
+          <container id="aspace_a015aaa1b1349eaaae45b134d2967305" label="Mixed Materials" type="Volume">117</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_377462f0abb2a8ac52c741d9da8f0dbf" level="otherlevel">
         <did>
-          <container type="Volume">118</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-118</unitid>
-          <unitdate calendar="gregorian" era="ce" normal=" 1894-11-08/1895-08-17">1894 November 8-1895 August 17</unitdate>
+          <unitdate normal="1894-11-08/1895-08-17" type="inclusive">1894 November 8-1895 August 17</unitdate>
+          <container id="aspace_a87b4664c78c6aed6f70ddfa7a7a4993" label="Mixed Materials" type="Volume">118</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_899ef7fa298703e02291c534507cd8cd" level="otherlevel">
         <did>
-          <container type="Volume">119</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-119</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1896-04-22/1896-12-05">1896 April 22-December 5</unitdate>
+          <unitdate normal="1896-04-22/1896-12-05" type="inclusive">1896 April 22-December 5</unitdate>
+          <container id="aspace_d82e4ef36ca9cd2633fe53c43b2b0a74" label="Mixed Materials" type="Volume">119</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_09dc5ccea2f5f9906d2efb60aeb047e5" level="otherlevel">
         <did>
-          <container type="Volume">120</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-120</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1896-12-05/1897-04-26">1896 December 5-1897 April 26</unitdate>
+          <unitdate normal="1896-12-05/1897-04-26" type="inclusive">1896 December 5-1897 April 26</unitdate>
+          <container id="aspace_2b4d4f2680d85b0aaacd68d14f0d5f88" label="Mixed Materials" type="Volume">120</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_1ff4413b68e56c3884ce171265befe82" level="otherlevel">
         <did>
-          <container type="Volume">121</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-121</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1897-04-24/1897-09-28 ">1897 April 24-September 28 </unitdate>
+          <unitdate normal="1897-04-24/1897-09-28" type="inclusive">1897 April 24-September 28</unitdate>
+          <container id="aspace_81cdd944add2ca5e685233cd625f3187" label="Mixed Materials" type="Volume">121</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_a0c4b1248469afb598cae038ce5e0fbd" level="otherlevel">
         <did>
-          <container type="Volume">122</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-122</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1897-09-28/1898-02-10 ">1897 September 28-1898 February 10</unitdate>
+          <unitdate normal="1897-09-28/1898-02-10" type="inclusive">1897 September 28-1898 February 10</unitdate>
+          <container id="aspace_fa6048ce061cb8eb96ccaca150140078" label="Mixed Materials" type="Volume">122</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_81307a20bd17ea15804eef36c8c76dfd" level="otherlevel">
         <did>
-          <container type="Volume">123</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-123</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1900-01-26/1900-04-05">1900 January 26-April 5</unitdate>
+          <unitdate normal="1900-01-26/1900-04-05" type="inclusive">1900 January 26-April 5</unitdate>
+          <container id="aspace_6ed8a21774f952db82c4ddee8b561e0b" label="Mixed Materials" type="Volume">123</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_afb87e8ea6dba7b0c7c160c803ce0863" level="otherlevel">
         <did>
-          <container type="Volume">124</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-124</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1900-06-06/1900-08">1900 June 6-August </unitdate>
+          <unitdate normal="1900-06-06/1900-08" type="inclusive">1900 June 6-August</unitdate>
+          <container id="aspace_6af7105496769943c6f2633e2cd744ec" label="Mixed Materials" type="Volume">124</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_f0af92514cf66227ac23f0b159fa0ef3" level="otherlevel">
         <did>
-          <container type="Volume">125</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-125</unitid>
-          <unitdate calendar="gregorian" era="ce" normal=" 1900-08-08/1900-10-02">1900 August 8-October 2</unitdate>
+          <unitdate normal="1900-08-08/1900-10-02" type="inclusive">1900 August 8-October 2</unitdate>
+          <container id="aspace_1129aebf2e59fe0c3ae77f9561a2f15b" label="Mixed Materials" type="Volume">125</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_80782479a4e296352b01bd53bc983b9c" level="otherlevel">
         <did>
-          <container type="Volume">126</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-126</unitid>
-          <unitdate calendar="gregorian" era="ce" normal=" 1903-02-20/1903-06-20">1903 February 20-June 20</unitdate>
+          <unitdate normal="1903-02-20/1903-06-20" type="inclusive">1903 February 20-June 20</unitdate>
+          <container id="aspace_d27ec5ac0f401a47141840583500a082" label="Mixed Materials" type="Volume">126</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_d56a0d55aeb6624d925f84afc6ce1f18" level="otherlevel">
         <did>
-          <container type="Volume">127</container>
           <unittitle>Letter-copy Book</unittitle>
-          <unitid>mss035-nam_mss035-127</unitid>
-          <unitdate calendar="gregorian" era="ce" normal=" 1912-07-05/1913-02-15">1912 July 5-1913 February 15</unitdate>
+          <unitdate normal="1912-07-05/1913-02-15" type="inclusive">1912 July 5-1913 February 15</unitdate>
+          <container id="aspace_c04ca34b9b95682c1fc3184d563dd8c6" label="Mixed Materials" type="Volume">127</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_8b2c254e7dfa09968673188b91562d40" level="otherlevel">
         <did>
-          <container type="Volume">128</container>
           <unittitle>Letters</unittitle>
-          <unitid>mss035-nam_mss035-128</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1863/1865">1863-1865</unitdate>
+          <unitdate normal="1863/1865" type="inclusive">1863-1865</unitdate>
+          <container id="aspace_76d6312352c29b616fea0423950df7c0" label="Mixed Materials" type="Volume">128</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_e133651477be4a76a861ee3d1ff18034" level="otherlevel">
         <did>
-          <container type="Volume">129</container>
           <unittitle>Letters</unittitle>
-          <unitid>mss035-nam_mss035-129</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1877/1883">1877-1883</unitdate>
+          <unitdate normal="1877/1883" type="inclusive">1877-1883</unitdate>
+          <container id="aspace_783ff87eed641f936f947160c5f93f41" label="Mixed Materials" type="Volume">129</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_39d8369b2b5fae189f9389a8e2d80324" level="otherlevel">
         <did>
-          <container type="Volume">130</container>
           <unittitle>Letters</unittitle>
-          <unitid>mss035-nam_mss035-130</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1883/1887">1883-1887</unitdate>
+          <unitdate normal="1883/1887" type="inclusive">1883-1887</unitdate>
+          <container id="aspace_4fe1b030e5199239f2f0632ff1172b34" label="Mixed Materials" type="Volume">130</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_ff7bdbf9dd9051f750a9b290ad762050" level="otherlevel">
         <did>
-          <container type="Volume">131</container>
           <unittitle>Meat Market Account Book</unittitle>
-          <unitid>mss035-nam_mss035-131</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1916/1919">1916-1919</unitdate>
-          <note>
-            <p>Mrs. Best in account with R.D. Best.</p>
-          </note>
+          <unitdate normal="1916/1919" type="inclusive">1916-1919</unitdate>
+          <container id="aspace_bb6422b95049ad4518f64d5a3d41d472" label="Mixed Materials" type="Volume">131</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_ae9dda15287f39ecffb373f177de3543" level="otherlevel">
         <did>
-          <container type="Volume">132</container>
           <unittitle>Memorandum Book</unittitle>
-          <unitid>mss035-nam_mss035-132</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1975">1975</unitdate>
-          <note>
-            <p>fragment. </p>
-          </note>
+          <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+          <container id="aspace_f62075a876a09ffbfeaa792c1d1f18cc" label="Mixed Materials" type="Volume">132</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_8a742d6c4a8bc8c1c3d5824129c22e21" level="otherlevel">
         <did>
-          <container type="Volume">133</container>
-          <unittitle>Memorandum Book </unittitle>
-          <unitid>mss035-nam_mss035-133</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
-          <note>
-            <p>blank. </p>
-          </note>
+          <unittitle>Memorandum Book</unittitle>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_aa31197c3a4206dd2c6b74ad0e118684" label="Mixed Materials" type="Volume">133</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_e9cf0ea4635fda25488801196f247260" level="otherlevel">
         <did>
-          <container type="Volume">134</container>
           <unittitle>Mortgage Accounts</unittitle>
-          <unitid>mss035-nam_mss035-134</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1840/1842">1840-1842</unitdate>
+          <unitdate normal="1840/1842" type="inclusive">1840-1842</unitdate>
+          <container id="aspace_66b80699b4c2fdfd409a02afb6f8fca5" label="Mixed Materials" type="Volume">134</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_dccf4bd8d144fe4aa2b79195b258ef58" level="otherlevel">
         <did>
-          <container type="Volume">135</container>
           <unittitle>Mortgage Accounts</unittitle>
-          <unitid>mss035-nam_mss035-135</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1842/1843">1842-1843</unitdate>
+          <unitdate normal="1842/1843" type="inclusive">1842-1843</unitdate>
+          <container id="aspace_e65e76d73b7f606ab39d4e9378cdf37a" label="Mixed Materials" type="Volume">135</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_4cc38a1c3d699acaeed31cc4da14e26d" level="otherlevel">
         <did>
-          <container type="Volume">136</container>
           <unittitle>Mortgage Accounts</unittitle>
-          <unitid>mss035-nam_mss035-136</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1849/1850">1849-1850</unitdate>
+          <unitdate normal="1849/1850" type="inclusive">1849-1850</unitdate>
+          <container id="aspace_0cecd62da389e83c8f5abb49f8fc6af9" label="Mixed Materials" type="Volume">136</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_31b18119487db056e97e0c98b5c90f91" level="otherlevel">
         <did>
-          <container type="Volume">137</container>
           <unittitle>Mortgage Accounts</unittitle>
-          <unitid>mss035-nam_mss035-137</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1851/1852">1851-1852</unitdate>
+          <unitdate normal="1851/1852" type="inclusive">1851-1852</unitdate>
+          <container id="aspace_a1ad9b3265f49fbb363d81296ad1aa77" label="Mixed Materials" type="Volume">137</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_22503725ee8d71e0e57e0b6f78cfb717" level="otherlevel">
         <did>
-          <container type="Volume">138</container>
           <unittitle>Mortgage Accounts</unittitle>
-          <unitid>mss035-nam_mss035-138</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1852/1853">1852-1853</unitdate>
+          <unitdate normal="1852/1853" type="inclusive">1852-1853</unitdate>
+          <container id="aspace_2c4db1299d4eeadd4c20dd2b1f89a63a" label="Mixed Materials" type="Volume">138</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_9a7678eab4e4f4adc53101369ebba0c8" level="otherlevel">
         <did>
-          <container type="Volume">139</container>
           <unittitle>Mortgage Accounts</unittitle>
-          <unitid>mss035-nam_mss035-139</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1856/1857">1856-1857</unitdate>
+          <unitdate normal="1856/1857" type="inclusive">1856-1857</unitdate>
+          <container id="aspace_bb33a24c020c66c5968ba283d76ef30c" label="Mixed Materials" type="Volume">139</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_be002d980739ae3f450017112b79fd6d" level="otherlevel">
         <did>
-          <container type="Volume">140</container>
           <unittitle>Mortgage Accounts</unittitle>
-          <unitid>mss035-nam_mss035-140</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1857/1863">1857-1863</unitdate>
+          <unitdate normal="1857/1863" type="inclusive">1857-1863</unitdate>
+          <container id="aspace_efc19bed5141ffaa6e86c7f1c6fa5f9e" label="Mixed Materials" type="Volume">140</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_4ebddc14557fa84705f1dce6c7d93412" level="otherlevel">
         <did>
-          <container type="Volume">141</container>
           <unittitle>Mortgage Accounts</unittitle>
-          <unitid>mss035-nam_mss035-141</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1861/1868">1861-1868</unitdate>
+          <unitdate normal="1861/1868" type="inclusive">1861-1868</unitdate>
+          <container id="aspace_3a67e739afc4ca21ff76174777ad9be8" label="Mixed Materials" type="Volume">141</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_945ceb7d329b8d94fb530b50254da41d" level="otherlevel">
         <did>
-          <container type="Volume">142</container>
           <unittitle>Notebook about a coin collection</unittitle>
-          <unitid>mss035-nam_mss035-142</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_c7b8bff8dbfd1e97b04262269604b174" label="Mixed Materials" type="Volume">142</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_1868ac71b14e18b0e887e9aa30854ae6" level="otherlevel">
         <did>
-          <container type="Volume">143</container>
           <unittitle>Passenger List</unittitle>
-          <unitid>mss035-nam_mss035-143</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1832/1857">1832-1857</unitdate>
+          <unitdate normal="1832/1857" type="inclusive">1832-1857</unitdate>
+          <container id="aspace_2a7fa7cb7d2144d6db2fd07dbca19f4d" label="Mixed Materials" type="Volume">143</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_80fbc2c2f15dcdc26e935f12ba79f5f2" level="otherlevel">
         <did>
-          <container type="Volume">144</container>
           <unittitle>Petty Cash Book</unittitle>
-          <unitid>mss035-nam_mss035-144</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1854/1858">1854-1858</unitdate>
+          <unitdate normal="1854/1858" type="inclusive">1854-1858</unitdate>
+          <container id="aspace_8ba1ba45aa6801db4b7d6b968eb7d868" label="Mixed Materials" type="Volume">144</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_0d78fb866a7e29dc755eb471396cf4ae" level="otherlevel">
         <did>
-          <container type="Volume">145</container>
           <unittitle>Photograph Album</unittitle>
-          <unitid>mss035-nam_mss035-145</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
-          <physdesc>
-            <dimensions unit="cm.">12 </dimensions>
+          <physdesc altrender="whole">
+            <dimensions unit="Digital Files">12</dimensions>
           </physdesc>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_14e35be4744ccb5fb94907b99fa1147d" label="Mixed Materials" type="Volume">145</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_2f24193eaac4f0fbd54a14902259d1a5" level="otherlevel">
         <did>
-          <container type="Volume">146</container>
           <unittitle>Photograph Album</unittitle>
-          <unitid>mss035-nam_mss035-146</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
-          <physdesc>
-            <dimensions unit="cm.">12 </dimensions>
+          <physdesc altrender="whole">
+            <dimensions unit="Digital Files">12</dimensions>
           </physdesc>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_cf95510288635ea7074390402b3fd69d" label="Mixed Materials" type="Volume">146</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_dc315238e21d96091a85d044a2be72cb" level="otherlevel">
         <did>
-          <container type="Volume">147</container>
           <unittitle>Photograph Album</unittitle>
-          <unitid>mss035-nam_mss035-147</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
-          <physdesc>
-            <dimensions unit="cm.">15</dimensions>
+          <physdesc altrender="whole">
+            <dimensions unit="Digital Files">15</dimensions>
           </physdesc>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_ecf5b1bdc396590f89e6888083627653" label="Mixed Materials" type="Volume">147</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_b470d5a37681a9f3444a614727b931fc" level="otherlevel">
         <did>
-          <container type="Volume">148</container>
           <unittitle>Receipts</unittitle>
-          <unitid>mss035-nam_mss035-148</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1842/1847">1842-1847</unitdate>
+          <unitdate normal="1842/1847" type="inclusive">1842-1847</unitdate>
+          <container id="aspace_a39fb3213d96f5974479cdbd580eb188" label="Mixed Materials" type="Volume">148</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_10c4e37b3ec07179d24f2847761227d7" level="otherlevel">
         <did>
-          <container type="Volume">149</container>
           <unittitle>Register</unittitle>
-          <unitid>mss035-nam_mss035-149</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1882/1888">1882-1888</unitdate>
+          <unitdate normal="1882/1888" type="inclusive">1882-1888</unitdate>
+          <container id="aspace_98c8bf50f4adad412213f5113b7fe1c0" label="Mixed Materials" type="Volume">149</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_42f6659ed8b94e99bc3cff4de3605df6" level="otherlevel">
         <did>
-          <container type="Volume">150</container>
           <unittitle>Ship Receipts</unittitle>
-          <unitid>mss035-nam_mss035-150</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1856/1857">1856-1857</unitdate>
+          <unitdate normal="1856/1857" type="inclusive">1856-1857</unitdate>
+          <container id="aspace_d236c4270b72b6c915c8aee28252cb82" label="Mixed Materials" type="Volume">150</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_fa6482063f966757e557f11039f04b80" level="otherlevel">
         <did>
-          <container type="Volume">151</container>
           <unittitle>Ship Receipts</unittitle>
-          <unitid>mss035-nam_mss035-151</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1857/1859">1857-1859</unitdate>
+          <unitdate normal="1857/1859" type="inclusive">1857-1859</unitdate>
+          <container id="aspace_5336b2dd8e392538a54fa768cdc0d4a6" label="Mixed Materials" type="Volume">151</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_36ac7c61adcc98470103dee0a45c1d67" level="otherlevel">
         <did>
-          <container type="Volume">152</container>
           <unittitle>Ship Receipts</unittitle>
-          <unitid>mss035-nam_mss035-152</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1859/1861">1859-1861</unitdate>
+          <unitdate normal="1859/1861" type="inclusive">1859-1861</unitdate>
+          <container id="aspace_522e4ff5ca0d9c60d919f4693159bb6f" label="Mixed Materials" type="Volume">152</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_fb41ce2909a9efa2c688343e468dd47f" level="otherlevel">
         <did>
-          <container type="Volume">153</container>
           <unittitle>Sterling Bills</unittitle>
-          <unitid>mss035-nam_mss035-153</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1849/1858">1849-1858</unitdate>
+          <unitdate normal="1849/1858" type="inclusive">1849-1858</unitdate>
+          <container id="aspace_a5524a7ef946393aa93f2dac183d1c84" label="Mixed Materials" type="Volume">153</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_e6e007014824c642fb8dc2a6b5a2e30b" level="otherlevel">
         <did>
-          <container type="Volume">154</container>
           <unittitle>Storage and Delivery</unittitle>
-          <unitid>mss035-nam_mss035-154</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1844/1845">1844-1845</unitdate>
-          <note>
-            <p>Includes several pages of Cash Book entries for 1836-1837, Coal Accounts current, Boat Accounts current, and Mortgage Accounts currents. </p>
-          </note>
+          <unitdate normal="1844/1845" type="inclusive">1844-1845</unitdate>
+          <container id="aspace_dfe7c7726665a66cd83875bc6a982767" label="Mixed Materials" type="Volume">154</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_8f8ad463081a4647a4c77516016c45d1" level="otherlevel">
         <did>
-          <container type="Volume">155</container>
           <unittitle>Sundry Collections</unittitle>
-          <unitid>mss035-nam_mss035-155</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1856/1858">1856-1858</unitdate>
+          <unitdate normal="1856/1858" type="inclusive">1856-1858</unitdate>
+          <container id="aspace_25266b981b529eaf2237cef867cc0edd" label="Mixed Materials" type="Volume">155</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_3a24af33ed6ce85f45ab1e45d70ffd2c" level="otherlevel">
         <did>
-          <container type="Volume">156</container>
           <unittitle>Trust Accounts</unittitle>
-          <unitid>mss035-nam_mss035-156</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1870/1897">1870-1897</unitdate>
+          <unitdate normal="1870/1897" type="inclusive">1870-1897</unitdate>
+          <container id="aspace_b8d602e539fa2dab3230decb3751a42e" label="Mixed Materials" type="Volume">156</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_2a5663478e6cca17048d6e2bec3ad15c" level="otherlevel">
         <did>
-          <container type="Volume">157</container>
           <unittitle>Untitled account book, with running heading: Names, Belfast, London, Currency</unittitle>
-          <unitid>mss035-nam_mss035-157</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1857/1858">1857-1858</unitdate>
+          <unitdate normal="1857/1858" type="inclusive">1857-1858</unitdate>
+          <container id="aspace_0aed92bc076fbaf21e15b0d283a0f82c" label="Mixed Materials" type="Volume">157</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_955c888508eeb06311a996c12fea3674" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">1</container>
           <unittitle>Diary of a trip to Wales</unittitle>
-          <unitid>mss035-nam_mss035-158</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1812">1812</unitdate>
+          <unitdate normal="1812/1812" type="inclusive">1812</unitdate>
+          <container id="aspace_ab31c8c1d95d516ee0c4d4efaf03bb11" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_76306bd19bee99d551cd6761d151fb36" parent="aspace_ab31c8c1d95d516ee0c4d4efaf03bb11" type="Folder">1</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_15b942de0c752cd0e2d7be67401ed73b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">2</container>
           <unittitle>Diary of a trip on the Ausable River and to Little Tupper Lake</unittitle>
-          <unitid>mss035-nam_mss035-159</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_5f90a8191b641f45647720a40cacf07a" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_153c7f1bff628a99135de56d978b06f9" parent="aspace_5f90a8191b641f45647720a40cacf07a" type="Folder">2</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_42964f0843fa98f7b013a92e0075b55d" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">3</container>
           <unittitle>List of books in a personal library</unittitle>
-          <unitid>mss035-nam_mss035-160</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
-          <note>
-            <p> Also contains Adventures of Telemachus (handwritten).</p>
-          </note>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_b048e72e3288de6c14a6f271b502226b" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_c8e3091257b496c47ef5c946359a6051" parent="aspace_b048e72e3288de6c14a6f271b502226b" type="Folder">3</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_d95f36175b2930188fc1e5f8d34531e6" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">4</container>
           <unittitle>Johnson, Jane. Essays on Some of the Testimonies of Truth, as held by the Society of Friends. Philadelphia: Book Association of Friends</unittitle>
-          <unitid>mss035-nam_mss035-161</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1868">1868</unitdate>
+          <unitdate normal="1868/1868" type="inclusive">1868</unitdate>
+          <container id="aspace_8200ac6f918a5e9564be7ebb0e6a8d2b" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_839a4c897b7083131f832d70bd7a8805" parent="aspace_8200ac6f918a5e9564be7ebb0e6a8d2b" type="Folder">4</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_61061fa8cd5166eba1b5eb014095e9eb" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">5</container>
           <unittitle>The Holy Bible, Containing the Old and New Testaments: Translated Out of the Original Tongues, and with the Former Translations Diligently Compared and Revised,by His Majesty's Special Comman. Edinburgh: Sir D. Hunter Blair and J. Bruce</unittitle>
-          <unitid>mss035-nam_mss035-162</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1821">1821</unitdate>
+          <unitdate normal="1821/1821" type="inclusive">1821</unitdate>
+          <container id="aspace_bc1c86bdfbbaa5d35c3a5f445c9f0bca" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_e87039537eefdf13b6ff0750fd438033" parent="aspace_bc1c86bdfbbaa5d35c3a5f445c9f0bca" type="Folder">5</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_8a7654c1c3c6100949396d49d8022748" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">6</container>
-          <unittitle> English Reader</unittitle>
-          <unitid>mss035-nam_mss035-163</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
-          <note>
-            <p>Beginning and ending pages are missing.</p>
-          </note>
+          <unittitle>English Reader</unittitle>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_bbf5fb9d2ef9e3e69bf9adeed685b3ee" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_a02c7de0624fba49d4633ff359a07985" parent="aspace_bbf5fb9d2ef9e3e69bf9adeed685b3ee" type="Folder">6</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_bf0ba866efea90ec2676b9d7f1db14ef" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">7</container>
           <unittitle>Moore, Chas. B. Collision Case; Opinion of Arbitrator</unittitle>
-          <unitid>mss035-nam_mss035-164</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1860">1860</unitdate>
+          <unitdate normal="1860/1860" type="inclusive">1860</unitdate>
+          <container id="aspace_664dc09c5aac3a43f0df60bb9d5782d5" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_f78b7d7b7be387645ec997a3bd0ac461" parent="aspace_664dc09c5aac3a43f0df60bb9d5782d5" type="Folder">7</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_d09bfd01726f60fe4f8ffa7ec5d0b5c8" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">8</container>
           <unittitle>Scrapbook of Lizzie Thomas and Harvey Bell</unittitle>
-          <unitid>mss035-nam_mss035-165</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1850/1859">1850s</unitdate>
+          <unitdate normal="1850/1859" type="inclusive">1850s</unitdate>
+          <container id="aspace_0451f528850e03adb898496d9a30b1ef" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_02731347f1156fd84ed7fe06bf06ddbe" parent="aspace_0451f528850e03adb898496d9a30b1ef" type="Folder">8</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_8c85d3da1ee60cdea4ad15c605274b18" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">9</container>
           <unittitle>Scrapbook of Miss Harriet Thomas</unittitle>
-          <unitid>mss035-nam_mss035-166</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_367abf033f8421b1d5c950825553da08" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_4f409debf7c0e2b0c4027009effd4d4a" parent="aspace_367abf033f8421b1d5c950825553da08" type="Folder">9</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_33efde22c1ef6156476a3cc3a2a87e99" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">10</container>
           <unittitle>The Philadelphia Album and Ladies' Literary Port Folio</unittitle>
-          <unitid>mss035-nam_mss035-167</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1831">1831</unitdate>
+          <unitdate normal="1831/1831" type="inclusive">1831</unitdate>
+          <container id="aspace_1ec840be735e9d40b23eb2ed9d6a046b" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_9b2caaeaf7eda125899e7104d1c4176a" parent="aspace_1ec840be735e9d40b23eb2ed9d6a046b" type="Folder">10</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_d1e3938361877ebf8effb76c81a95750" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">11</container>
           <unittitle>Supreme Court. Abraham Bell, vs. Daniel H. Tompkins, et al. New York: Banks, Gould &amp; Co.</unittitle>
-          <unitid>mss035-nam_mss035-168</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1855">1855</unitdate>
+          <unitdate normal="1855/1855" type="inclusive">1855</unitdate>
+          <container id="aspace_f05e5f90066b720b50ee67efcddd5539" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_b1983787496bdf9db6ce933baf1a53cb" parent="aspace_f05e5f90066b720b50ee67efcddd5539" type="Folder">11</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_09d3c742ec418f01c8af83a047da377f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">12</container>
           <unittitle>Heath, Mr. Charles, The New Gallery of British Engravings; a Selection of the Best Plates Published in the Works, London, David Bogue</unittitle>
-          <unitid>mss035-nam_mss035-169</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1846">1846</unitdate>
+          <unitdate normal="1846/1846" type="inclusive">1846</unitdate>
+          <container id="aspace_266978d0b512de304fc15d1e5ee4aded" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_a7cde931d0015ebd71bd0575f4c785ac" parent="aspace_266978d0b512de304fc15d1e5ee4aded" type="Folder">12</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_f2e0b995ec49bac1161baaf14e7d640b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">13</container>
           <unittitle>Folder containing pictures, photographs, and an original drawing</unittitle>
-          <unitid>mss035-nam_mss035-170</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_d2f3a2d538ff48572490e11d446c4ac0" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_47f0b9e606419629ee3a8a8468ecefd4" parent="aspace_d2f3a2d538ff48572490e11d446c4ac0" type="Folder">13</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_974a3d9cb3044508db78f226358f5684" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">14</container>
           <unittitle>Wright, Thomas, The History of Ireland from the Earliest Period of the Irish Annals, to the Present Time, London and New York: John Tallis and Co., Pts. 2-5</unittitle>
-          <unitid>mss035-nam_mss035-171</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1854">1854</unitdate>
+          <unitdate normal="1854/1854" type="inclusive">1854</unitdate>
+          <container id="aspace_5dd599bfdb7d363e5e126459f765878b" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_00386250a113dc3bec8e7abb805fc26b" parent="aspace_5dd599bfdb7d363e5e126459f765878b" type="Folder">14</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_f7d0f35f15abc6012e6bc75e4e097d4f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">15</container>
           <unittitle>Carey, Rosa N., Queenie's Whim, New York: George Munro</unittitle>
-          <unitid>mss035-nam_mss035-172</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1883">1883</unitdate>
+          <unitdate normal="1883/1883" type="inclusive">1883</unitdate>
+          <container id="aspace_1c6d105183d5c10de1a006a48dad1870" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_ff12b607dd88442b51ad897b2aaa5365" parent="aspace_1c6d105183d5c10de1a006a48dad1870" type="Folder">15</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_32c090e5924b9c3d8389f5bba6e29bb3" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">16</container>
           <unittitle>James, G. P. R., The King's Highway</unittitle>
-          <unitid>mss035-nam_mss035-173</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
-          <note>
-            <p>Beginning pages missing.</p>
-          </note>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_d57dbc7e4826a38d96eee6ea143d4b97" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_65200126b45163f6c0ada9a1eb976ead" parent="aspace_d57dbc7e4826a38d96eee6ea143d4b97" type="Folder">16</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_272a8e305f23412574649c2ceb32e820" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">17</container>
           <unittitle>The Neptune Vase</unittitle>
-          <unitid>mss035-nam_mss035-174</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
-          <note>
-            <p>Beginning pages missing.</p>
-          </note>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_b551d5cae1e4b38b510ee33ed142526e" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_6b5cce416621b15d44598f13dfe526cc" parent="aspace_b551d5cae1e4b38b510ee33ed142526e" type="Folder">17</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_88fd89ca51fdef299263d90f0d90bc93" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">18</container>
           <unittitle>Alexander, Mrs., The Admiral's Ward, New York: George Munro</unittitle>
-          <unitid>mss035-nam_mss035-175</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1883">1883</unitdate>
+          <unitdate normal="1883/1883" type="inclusive">1883</unitdate>
+          <container id="aspace_ad9db3e5036fe7f926d998c23dba9876" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_188423fbbeb55abfd97a15a370c3659c" parent="aspace_ad9db3e5036fe7f926d998c23dba9876" type="Folder">18</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_b6115c63c47574daf8d7cf3d88992ffc" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">19</container>
-          <unittitle>United States Coast Pilot: Atlantic Coast. Part VI. Chesapeake Bay and Tributaries.  Washington: Gov't Printing Office</unittitle>
-          <unitid>mss035-nam_mss035-176</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1889">1889</unitdate>
+          <unittitle>United States Coast Pilot: Atlantic Coast. Part VI. Chesapeake Bay and Tributaries. Washington: Gov't Printing Office</unittitle>
+          <unitdate normal="1889/1889" type="inclusive">1889</unitdate>
+          <container id="aspace_07fbd68f3803558aa2cf5057c8a8daab" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_7bbb92fd859ca703676682b55d121da8" parent="aspace_07fbd68f3803558aa2cf5057c8a8daab" type="Folder">19</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_b49eabb436282936ec5d35b1e86cfdcc" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">20</container>
           <unittitle>Worcester, J. E., An Historical Atlas, Boston: Hilliard, Gray, Little, and Wilkins</unittitle>
-          <unitid>mss035-nam_mss035-177</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1828">1828</unitdate>
+          <unitdate normal="1828/1828" type="inclusive">1828</unitdate>
+          <container id="aspace_d68621d971f21b95699359321be0cd84" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_8873f5fbdb664523044b07f2aec1696d" parent="aspace_d68621d971f21b95699359321be0cd84" type="Folder">20</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_8ddcc23cbbb377118ec12c27f4d0cbd7" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">21</container>
           <unittitle>A Memorial of Mary Christy Harvey, Daughter of Reuben and Hannah C. Harvey</unittitle>
-          <unitid>mss035-nam_mss035-178</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1858">[1858]</unitdate>
+          <unitdate normal="1858/1858" type="inclusive">[1858]</unitdate>
+          <container id="aspace_cda88475605855268c9788ab9e942edb" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_4e1758f4ede5401e2fffc820605cd365" parent="aspace_cda88475605855268c9788ab9e942edb" type="Folder">21</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_651879d9f06647b0537e7999a2990f6b" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">22</container>
           <unittitle>Stabler, James P. The Certain Evidences of Practical Religion, Described in Letters to a Distant Relative</unittitle>
-          <unitid>mss035-nam_mss035-179</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_b6252ca4703f04ff795ba00740eab27f" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_8fa2b40d97278f1b7b34b1677131031a" parent="aspace_b6252ca4703f04ff795ba00740eab27f" type="Folder">22</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_698bd32dee28d27f5ed041696447fd2f" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">23</container>
           <unittitle>What is the Society of Friends? (Quakers), Pamphlet</unittitle>
-          <unitid>mss035-nam_mss035-180</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_d5c18d0f8f72660fd8fc06595bb69d52" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_3167d6c1fd06a13df7f1296d06d04b11" parent="aspace_d5c18d0f8f72660fd8fc06595bb69d52" type="Folder">23</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_af7b09a7e959043d6d2c1ba7469883ad" level="file">
         <did>
-          <container type="Box">1</container>
-          <container type="Folder">24</container>
           <unittitle>Photocopy of pages from a scrapbook with items referring to the Bell Family</unittitle>
-          <unitid>mss035-nam_mss035-181</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_de6917c4e31933d0e68d195ef2acbc94" label="Mixed Materials" type="Box">1 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_74c27eff30935cef2311745370744f55" parent="aspace_de6917c4e31933d0e68d195ef2acbc94" type="Folder">24</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_f5d71ac29635756d2ccc45ba0294748c" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">1</container>
           <unittitle>Accounts current</unittitle>
-          <unitid>mss035-nam_mss035-182</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1838/1842">1838-1842</unitdate>
+          <unitdate normal="1838/1842" type="inclusive">1838-1842</unitdate>
+          <container id="aspace_8d6f4f381b069f9abcd0b8aed6cf5133" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_2598c02b60987dcbcf6d2af7958f4c60" parent="aspace_8d6f4f381b069f9abcd0b8aed6cf5133" type="Folder">1</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_b59fc01d2b00dd8ee106500b95cd67bd" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">2</container>
           <unittitle>Accounts for building repairs</unittitle>
-          <unitid>mss035-nam_mss035-183</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1898/1899">1898-1899</unitdate>
+          <unitdate normal="1898/1899" type="inclusive">1898-1899</unitdate>
+          <container id="aspace_34781e9fcf293658003388ab32ca20da" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_e46bd03b9010c7bcaa1156aecda3163e" parent="aspace_34781e9fcf293658003388ab32ca20da" type="Folder">2</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_064d9bb91aa06db2c4c7c0d87d4169a4" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">3</container>
           <unittitle>Advertisements</unittitle>
-          <unitid>mss035-nam_mss035-184</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_943599b18b2d2fa813784e33ab53a69b" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_eba2f110dd18d96375bc240a02309833" parent="aspace_943599b18b2d2fa813784e33ab53a69b" type="Folder">3</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_a5eec7ffd70ce6cc53cf584f0a7edc09" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">4</container>
           <unittitle>Bills of lading</unittitle>
-          <unitid>mss035-nam_mss035-185</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1851">1851</unitdate>
+          <unitdate normal="1851/1851" type="inclusive">1851</unitdate>
+          <container id="aspace_96bb8c1c3d79ab2f4c570c75934bdd10" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_34589661c0b0413bea6f7216ec350879" parent="aspace_96bb8c1c3d79ab2f4c570c75934bdd10" type="Folder">4</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_01dc3e558a371eda31c5d36842b7d0c5" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">5</container>
           <unittitle>Bonds and mortgages</unittitle>
-          <unitid>mss035-nam_mss035-186</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1896/1900">1896-1900</unitdate>
+          <unitdate normal="1896/1900" type="inclusive">1896-1900</unitdate>
+          <container id="aspace_34840f06a9a66e662b9200e3ced21d23" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_d166758975ba713ce7da6ebc5170f844" parent="aspace_34840f06a9a66e662b9200e3ced21d23" type="Folder">5</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_3b0ad49b17772ac648cdf62aacc3cb4f" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">6</container>
           <unittitle>Bond lists</unittitle>
-          <unitid>mss035-nam_mss035-187</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1899">1899</unitdate>
+          <unitdate normal="1899/1899" type="inclusive">1899</unitdate>
+          <container id="aspace_eac017f01005b9aacd8af15066271012" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_ec10ec279918e4c0c9f0ab59af268a5a" parent="aspace_eac017f01005b9aacd8af15066271012" type="Folder">6</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_a06612def45ac5eb4c43bac0915f4a46" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">7</container>
           <unittitle>Checks</unittitle>
-          <unitid>mss035-nam_mss035-188</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1835/1853">1835-1853</unitdate>
+          <unitdate normal="1835/1853" type="inclusive">1835-1853</unitdate>
+          <container id="aspace_7d4e32145f5f0c9870454459b26a46e8" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_fd519ced75ef62a662f71e8e7008b51a" parent="aspace_7d4e32145f5f0c9870454459b26a46e8" type="Folder">7</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_dec06538e4c89f973afc0ee28a60524d" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">8</container>
           <unittitle>Checks</unittitle>
-          <unitid>mss035-nam_mss035-189</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1854/1917">1854-1917</unitdate>
+          <unitdate normal="1854/1917" type="inclusive">1854-1917</unitdate>
+          <container id="aspace_f31c634f3b4a4c7497f0825e2f10693d" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_220c5fcfc5edca03ca9d1dabb3367c1c" parent="aspace_f31c634f3b4a4c7497f0825e2f10693d" type="Folder">8</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_7fdc0644f15a064d5f851b20ce30b0f1" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">9</container>
           <unittitle>Conowingo Bridge materials (miscellaneous)</unittitle>
-          <unitid>mss035-nam_mss035-190</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_be888fb69fd5e6fd504d784b5d010b0a" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_d0cafe9137805a205e727722610ab4d3" parent="aspace_be888fb69fd5e6fd504d784b5d010b0a" type="Folder">9</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_0ec50403fae658b675189a27d7bcc53c" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">10</container>
           <unittitle>Conowingo Bridge return tolls/tickets collected</unittitle>
-          <unitid>mss035-nam_mss035-191</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1890-01-01/1899-06-30">1890 - 1899 June 30</unitdate>
+          <unitdate normal="1890-01-01/1899-06-30" type="inclusive">1890 - 1899 June 30</unitdate>
+          <container id="aspace_ce3c29aa33dc44a16ce9326f64eed9a8" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_ff40a90c63b4c968c65202440e2070f7" parent="aspace_ce3c29aa33dc44a16ce9326f64eed9a8" type="Folder">10</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_8607fefa9d3541cd3bdcc2b9c3f7c777" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">11</container>
           <unittitle>Conowingo Bridge return tolls/tickets collected</unittitle>
-          <unitid>mss035-nam_mss035-192</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1899-07-01/1899-12-31">1899 July 1-December 31</unitdate>
+          <unitdate normal="1899-07-01/1899-12-31" type="inclusive">1899 July 1-December 31</unitdate>
+          <container id="aspace_5fc14802780524026faab41badcbd320" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_0d924b8cf256924e9513de660818dd52" parent="aspace_5fc14802780524026faab41badcbd320" type="Folder">11</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_66365d8c6cfbab6360e5b731fd1b4c41" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">12</container>
           <unittitle>Conowingo Bridge - Shares of L. M. Kent</unittitle>
-          <unitid>mss035-nam_mss035-193</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_4071926d34a8cec646155d4d3d604282" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_404e307a41f122bdddcd9b711471152d" parent="aspace_4071926d34a8cec646155d4d3d604282" type="Folder">12</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_e3c75ff90f8a973d83754ef7a81037c5" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">13</container>
           <unittitle>Contracts</unittitle>
-          <unitid>mss035-nam_mss035-194</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_66c4db43d05c226fbfb240479dd9d9d6" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_1455c29f11e28c082b575e36cdf17899" parent="aspace_66c4db43d05c226fbfb240479dd9d9d6" type="Folder">13</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_9c7fd3a44091a68742b772f8270de39f" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">14</container>
           <unittitle>Correspondence</unittitle>
-          <unitid>mss035-nam_mss035-195</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1837/1879">1837-1879</unitdate>
+          <unitdate normal="1837/1879" type="inclusive">1837-1879</unitdate>
+          <container id="aspace_4efa01d9b14f57e136bb5a30b4daea69" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_a96d393e7167eb84fb55b7e870f8ddbd" parent="aspace_4efa01d9b14f57e136bb5a30b4daea69" type="Folder">14</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_2388c981a65f5c194f37d6b1985e0a3e" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">15</container>
           <unittitle>Correspondence</unittitle>
-          <unitid>mss035-nam_mss035-196</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1880/1899">1880-1899</unitdate>
+          <unitdate normal="1880/1899" type="inclusive">1880-1899</unitdate>
+          <container id="aspace_50c35979bac67b05e43b0614d28d7535" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_f1eb05325e8b0da718632155a558b060" parent="aspace_50c35979bac67b05e43b0614d28d7535" type="Folder">15</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_4873ae43e3e4076c9ed3b446a1dcf398" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">16</container>
           <unittitle>Correspondence</unittitle>
-          <unitid>mss035-nam_mss035-197</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1900/1961">1900-1961</unitdate>
+          <unitdate normal="1900/1961" type="inclusive">1900-1961</unitdate>
+          <container id="aspace_d96d06b7cc701ae202a6053ea210ab86" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_5e4059447efcea128060923799e52672" parent="aspace_d96d06b7cc701ae202a6053ea210ab86" type="Folder">16</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_0e3476354618a77585fb8d56dd446f1a" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">17</container>
           <unittitle>Correspondence</unittitle>
-          <unitid>mss035-nam_mss035-198</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_ddc60d39587fe74ec3ae99ff165fd0bf" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_edf955558cdf8bd00fdf758647747f20" parent="aspace_ddc60d39587fe74ec3ae99ff165fd0bf" type="Folder">17</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_fccdc14e5661d9b6fb9a788177799fb4" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">18</container>
           <unittitle>Deeds</unittitle>
-          <unitid>mss035-nam_mss035-199</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1839">1839</unitdate>
-          <unitdate calendar="gregorian" era="ce" normal="1864">1864</unitdate>
+          <unitdate normal="1839/1839" type="inclusive">1839</unitdate>
+          <unitdate normal="1864/1864" type="inclusive">1864</unitdate>
+          <container id="aspace_daedd220f183994c251379635fa50c7e" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_2aae82ec3bbd73abe35b00c3a49d8aa6" parent="aspace_daedd220f183994c251379635fa50c7e" type="Folder">18</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_fe1accb76d7c935465be64c96806df10" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">19</container>
-          <unittitle>Estate of James C.  Bell in account with Bell Bros., weekly account statements</unittitle>
-          <unitid>mss035-nam_mss035-200</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1896/1899">1896-1899</unitdate>
+          <unittitle>Estate of James C. Bell in account with Bell Bros., weekly account statements</unittitle>
+          <unitdate normal="1896/1899" type="inclusive">1896-1899</unitdate>
+          <container id="aspace_e4a68a15458c585ec68ea393b2c71456" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_695ff53c5e68c76e6bcacd63272553fb" parent="aspace_e4a68a15458c585ec68ea393b2c71456" type="Folder">19</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_a8689b870a76c0970351bde0ef791b81" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">20</container>
           <unittitle>Financial statements</unittitle>
-          <unitid>mss035-nam_mss035-201</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1896/1899">1896-1899</unitdate>
+          <unitdate normal="1896/1899" type="inclusive">1896-1899</unitdate>
+          <container id="aspace_f25f6b84f0213122a7afae8e01c76d5d" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_7dadf918854623d0ddd09337c53d5862" parent="aspace_f25f6b84f0213122a7afae8e01c76d5d" type="Folder">20</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_1815a6438716bec0c7846dd1cfbad520" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">21</container>
           <unittitle>Fire insurance statement</unittitle>
-          <unitid>mss035-nam_mss035-202</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1896">1896</unitdate>
+          <unitdate normal="1896/1896" type="inclusive">1896</unitdate>
+          <container id="aspace_e1a2a425372a9b986b672549b02abb60" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_a75b443fca8341d6d9d3c528f8be0939" parent="aspace_e1a2a425372a9b986b672549b02abb60" type="Folder">21</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_d7d0638756f71e14dca6539c0d921c54" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">22</container>
           <unittitle>Interest collections</unittitle>
-          <unitid>mss035-nam_mss035-203</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1916">1916</unitdate>
+          <unitdate normal="1916/1916" type="inclusive">1916</unitdate>
+          <container id="aspace_aa0ae959b55714944a1c986bbe2bfd79" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_0a398df8c98a896ceb5f92ffadbb85ed" parent="aspace_aa0ae959b55714944a1c986bbe2bfd79" type="Folder">22</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_77fe3995f976ac8f8c7837644c5df3d2" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">23</container>
           <unittitle>Land sales</unittitle>
-          <unitid>mss035-nam_mss035-204</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_c463106f932c418590d24317f9a3a0cd" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_73ec396c0dcbb31104a6c244a887fe41" parent="aspace_c463106f932c418590d24317f9a3a0cd" type="Folder">23</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_8e0649aafc7102ea3a4b9e288fa3a8c6" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">24</container>
           <unittitle>Lease for property in Maryland</unittitle>
-          <unitid>mss035-nam_mss035-205</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1866/1867">1866-1867</unitdate>
+          <unitdate normal="1866/1867" type="inclusive">1866-1867</unitdate>
+          <container id="aspace_2735663f0321bfc477ba97b4392e9c08" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_4279390853ab53d91cd68386d099fb97" parent="aspace_2735663f0321bfc477ba97b4392e9c08" type="Folder">24</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_88e402071cab8937e0f798527bd70eff" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">25</container>
           <unittitle>Letterheads and engravings</unittitle>
-          <unitid>mss035-nam_mss035-206</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_62d1ec4a42bb623a4d9f1f18882cafc2" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_dcdd585899978e2d8efb6373de4cff78" parent="aspace_62d1ec4a42bb623a4d9f1f18882cafc2" type="Folder">25</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_4710d307416e1007288246971b369934" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">26</container>
           <unittitle>List of tax certificates</unittitle>
-          <unitid>mss035-nam_mss035-207</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_5a3c6f6001c3268ad8d09d588d6bcacf" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_baa6757430562f8168c1d972970bfa48" parent="aspace_5a3c6f6001c3268ad8d09d588d6bcacf" type="Folder">26</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_4f50e747a378fd47efbdaef02c433a20" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">27</container>
           <unittitle>Loan applications</unittitle>
-          <unitid>mss035-nam_mss035-208</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1895/1899">1895-1899</unitdate>
+          <unitdate normal="1895/1899" type="inclusive">1895-1899</unitdate>
+          <container id="aspace_cf06112a790b6db167f0301a49d0a08d" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_5a172d8a7e92a168137911ec35b8d3c0" parent="aspace_cf06112a790b6db167f0301a49d0a08d" type="Folder">27</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_d7ad866b2667936d7f855604d9b2daa2" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">28</container>
           <unittitle>Map releases</unittitle>
-          <unitid>mss035-nam_mss035-209</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1896">1896</unitdate>
+          <unitdate normal="1896/1896" type="inclusive">1896</unitdate>
+          <container id="aspace_fb92f7da69a0cdadde3a843679c28474" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_5443239ede3fb692598741761fe9e542" parent="aspace_fb92f7da69a0cdadde3a843679c28474" type="Folder">28</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_e829b8471b6218f91bb0f4664b23c699" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">29</container>
           <unittitle>McDowell, E. B. - Contracts and correspondence</unittitle>
-          <unitid>mss035-nam_mss035-210</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_4ee0cfdeb960254aa9d41f766dfb164d" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_3ac2f30a4c9aad23a6efaca0d705c97f" parent="aspace_4ee0cfdeb960254aa9d41f766dfb164d" type="Folder">29</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_ab0f87026839449c436aec3b8c34aebe" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">30</container>
           <unittitle>Newspaper articles (miscellaneous)</unittitle>
-          <unitid>mss035-nam_mss035-211</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_7fc79fde40bf7dbf395f0202c5034439" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_e34236ebaf5c01514650a267c4cadd78" parent="aspace_7fc79fde40bf7dbf395f0202c5034439" type="Folder">30</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_f3ae78d183effc8850632fc8c8a5d4f4" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">31</container>
           <unittitle>Office supplies</unittitle>
-          <unitid>mss035-nam_mss035-212</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1899">1899</unitdate>
+          <unitdate normal="1899/1899" type="inclusive">1899</unitdate>
+          <container id="aspace_4e614e9c815b14445f0088a922beddb8" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_13d49725fb53b03c919cec953a6be939" parent="aspace_4e614e9c815b14445f0088a922beddb8" type="Folder">31</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_9dd5d63e68cdb50494349753b1018518" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">32</container>
           <unittitle>Papers (miscellaneous)</unittitle>
-          <unitid>mss035-nam_mss035-213</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_db04f19a3c374ebd1f67d4834943b7d1" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_a22080f1372501a01527d8ba11694914" parent="aspace_db04f19a3c374ebd1f67d4834943b7d1" type="Folder">32</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_44467d3f672630e0abadd28c16ef9b40" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">33</container>
           <unittitle>Patents</unittitle>
-          <unitid>mss035-nam_mss035-214</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_c40739d38b1b54488b7900f0b7a57ef6" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_adfc4688ffe7a5647f14278e87f30759" parent="aspace_c40739d38b1b54488b7900f0b7a57ef6" type="Folder">33</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_a14313d1bc3e4eb80035125b1ac6ece3" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">34</container>
           <unittitle>Real estate materials</unittitle>
-          <unitid>mss035-nam_mss035-215</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_32c56c0197a171e811d96ba632d16c39" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_8b62ca9faae8e1eb055ce1c8224ca0e8" parent="aspace_32c56c0197a171e811d96ba632d16c39" type="Folder">34</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_cfc4b1af69c9c98cb2bd865142292427" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">35</container>
           <unittitle>Real property tax receipts</unittitle>
-          <unitid>mss035-nam_mss035-216</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_25610ae1364ac256afdc6c22d0a8dc1b" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_f7ab85fe16beb526d202ec8429f1353b" parent="aspace_25610ae1364ac256afdc6c22d0a8dc1b" type="Folder">35</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_001b009ab329e56bbd1f3844f97809d9" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">36</container>
           <unittitle>Receipts, general</unittitle>
-          <unitid>mss035-nam_mss035-217</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1835/1887">1835-1887</unitdate>
+          <unitdate normal="1835/1887" type="inclusive">1835-1887</unitdate>
+          <container id="aspace_70802efecd0dddc6d760bf2138d96aae" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_9768a6fe96e2e6318471430f4be2db35" parent="aspace_70802efecd0dddc6d760bf2138d96aae" type="Folder">36</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_5a4867048b4579eb8887ee19dcd46755" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">37</container>
           <unittitle>Receipts, general</unittitle>
-          <unitid>mss035-nam_mss035-218</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1888/1917">1888-1917</unitdate>
+          <unitdate normal="1888/1917" type="inclusive">1888-1917</unitdate>
+          <container id="aspace_9982910c6ad20c0e4ba3b77c2b43e5ea" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_566c5a0c3757bd3c686803e422b89ef5" parent="aspace_9982910c6ad20c0e4ba3b77c2b43e5ea" type="Folder">37</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_75eedb73baaabf5907f7817d224c1d71" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">38</container>
           <unittitle>Receipts for safe deposit vault</unittitle>
-          <unitid>mss035-nam_mss035-219</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1905/1912">1905-1912</unitdate>
+          <unitdate normal="1905/1912" type="inclusive">1905-1912</unitdate>
+          <container id="aspace_8919630d5477b047a87b2bdf210d18e0" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_8beab21967152e73d9ef5f874f7032da" parent="aspace_8919630d5477b047a87b2bdf210d18e0" type="Folder">38</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_e399b91555c85abfb8703c831cea1c85" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">39</container>
           <unittitle>Taxes and assessment sales</unittitle>
-          <unitid>mss035-nam_mss035-220</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1896/1899">1896-1899</unitdate>
+          <unitdate normal="1896/1899" type="inclusive">1896-1899</unitdate>
+          <container id="aspace_e0322d9bc9f8ab2301c1cd74cd9f6991" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_4c88d33ee02a535122f9d42b4698e04a" parent="aspace_e0322d9bc9f8ab2301c1cd74cd9f6991" type="Folder">39</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_16f6984b385aacd5968e795a0ee64b4f" level="file">
         <did>
-          <container type="Box">2</container>
-          <container type="Folder">40</container>
           <unittitle>Will and testament - Philip E. Thomas</unittitle>
-          <unitid>mss035-nam_mss035-221</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1809/1917">Undated</unitdate>
+          <unitdate normal="1809/1917" type="inclusive">Undated</unitdate>
+          <container id="aspace_94a6213b92540c610dba798c72bd284c" label="Mixed Materials" type="Box">2 (Abraham Bell and Son Collection)</container>
+          <container id="aspace_66ca180e67ad47f894bd1445d3136ade" parent="aspace_94a6213b92540c610dba798c72bd284c" type="Folder">40</container>
         </did>
       </c01>
-      <c01>
+      <c01 id="aspace_635e23c1a896d0b5ed0c6660badce832" level="otherlevel">
         <did>
-          <container type="Box">3</container>
           <unittitle>Personal diaries of J. Wethered Bell</unittitle>
-          <unitid>mss035-nam_mss035-222</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1862/1917">1862-1917</unitdate>
-          <note>
-            <p>Several also contain records for cash accounts and bills payable.</p>
-          </note>
+          <unitdate normal="1862/1917" type="inclusive">1862-1917</unitdate>
+          <container id="aspace_f7a8d822c3bb65df48d59c5f87555c45" label="Mixed Materials" type="Box">3 (Abraham Bell and Son Collection)</container>
         </did>
       </c01>
     </dsc>

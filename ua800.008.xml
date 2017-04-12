@@ -1,503 +1,468 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua800.008">
-  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
-    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/ua800.008.xml" identifier="##">nam_ua800.008</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua800.008">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua800.008.xml">ua800.008</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>PHI BETA KAPPA, ALPHA ALPHA CHAPTER RECORDS (UA800.008)<date normal="1940/1992" type="inclusive">1940-1992</date></titleproper>
+        <titleproper>Phi Beta Kappa; Records <num>ua800.008</num></titleproper>
         <author>Kimberly Gianfrancesco</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date type="publication" normal="2013">Copyright 2013 by the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2013</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Kimberly Gianfrancesco<date normal="2013">2013</date>
-      </creation>
-      <langusage>
-        <language langcode="eng" encodinganalog="Language">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 17:08:08 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2013</date>
+        <item>Encoded in EAD by Kimberly Gianfrancesco</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>PHI BETA KAPPA, ALPHA ALPHA CHAPTER RECORDS (UA800.008)<date normal="1940/1992" type="inclusive">1940-1992</date>
-      </titleproper>
-      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
-      <date type="publication">2013</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua800.008</unitid>
-      <unittitle>Phi Beta Kappa, Alpha Alpha Chapter Records <unitdate type="inclusive" normal="1940/1992" label="Date:"> 1940-1992</unitdate>
-      </unittitle>
-      <physdesc label="Physical Characteristics:">
-        <extent unit="cubic ft.">1.2</extent>
-      </physdesc>
-      <origination>
-        <corpname encodinganalog="110" source="local">Phi Beta Kappa. Alpha Alpha Chapter of New York (University at Albany)</corpname>
-      </origination>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <abstract label="Abstract:">The Phi Beta Kappa, Alpha Alpha Chapter Records contain documents related to the formation and activities of the Alpha Alpha chapter of Phi Beta Kappa at the University at Albany.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+      <unittitle>Phi Beta Kappa, Alpha Alpha Chapter Records<unitdate normal="1940/1992" type="inclusive">1940-1992</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">Phi Beta Kappa. Alpha Alpha Chapter of New York (University at Albany)</corpname>
+      </origination>
+      <unitid>ua800.008</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.2 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_8caf25d6c3f18a3aa37355974b93f9af">The Phi Beta Kappa, Alpha Alpha Chapter Records contain documents related to the formation and activities of the Alpha Alpha chapter of Phi Beta Kappa at the University at Albany.</abstract>
+      <langmaterial id="aspace_67394fa8ba40cc7a932ee2e43b961c9e">English</langmaterial>
+      <physloc id="aspace_a830824221d8f0a08408aaf5faee8636">The materials are located onsite in the department.</physloc>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_c20f71ba506c8f7221cb32fd9d98fe9c">
+      <head>Processing Information</head>
+      <p>Processed in 2013 by Kimberly Gianfrancesco.</p>
+    </processinfo>
+    <accessrestrict id="aspace_05ab32be78332ba4879e80dc27a4d41d">
       <head>Access</head>
-      <p> Access to this collection is unrestricted with the exception of select files noted below. Researchers seeking access to these materials should contact the head
-            of Special Collections and Archives. </p>
+      <p>Access to this collection is unrestricted with the exception of select files noted below. Researchers seeking access to these materials should contact the head of Special Collections and Archives.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_bee7416f52ad0ff3687ae1417f403f06">
       <head>Copyright</head>
-      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
-        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
-        provide information about copyright owners and other restrictions, but the legal
-        determination ultimately rests with the researcher. Requests for permission to publish
-        material from this collection should be discussed with the Head of Special Collections and
-        Archives. </p>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
     </userestrict>
-    <bioghist>
+    <bioghist id="aspace_377008f12d7fff5305be1d426008646b">
       <head>Biographical Sketch</head>
       <p>Phi Beta Kappa is an academic honor society founded at the College of William and Mary in 1776, created to promote excellence in the liberal arts and sciences. Administration and faculty at the University at Albany applied several times for a chapter; in 1973 this application was finally approved, and the Alpha Alpha chapter of Phi Beta Kappa was formed.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>The bulk of the Phi Beta Kappa, Alpha Alpha Chapter Records are in the form of memos, correspondence, reports, printed material, and notes related to the University’s applications to form a chapter of Phi Beta Kappa: first in 1950, again in 1970, and finally, successfully, in 1973. There are also similar materials on the formation of the Alpha Alpha chapter in 1973-1974 including the adoption of bylaws and installation ceremony. The rest of the records reflect the chapter’s later activities. Chief among these are memos and publicity surrounding the arrangements for a Phi Beta Kappa visiting scholar; information about the students selected to Phi Beta Kappa each year;  and contracts, programs, and photographs of initiation ceremonies.</p>
+    <scopecontent id="aspace_fe45564dc617bf2f8f6adc361a562de1">
+      <head>Scope and Contents</head>
+      <p>The bulk of the Phi Beta Kappa, Alpha Alpha Chapter Records are in the form of memos, correspondence, reports, printed material, and notes related to the Universityâs applications to form a chapter of Phi Beta Kappa: first in 1950, again in 1970, and finally, successfully, in 1973. There are also similar materials on the formation of the Alpha Alpha chapter in 1973-1974 including the adoption of bylaws and installation ceremony. The rest of the records reflect the chapterâs later activities. Chief among these are memos and publicity surrounding the arrangements for a Phi Beta Kappa visiting scholar; information about the students selected to Phi Beta Kappa each year; and contracts, programs, and photographs of initiation ceremonies.</p>
     </scopecontent>
-    <acqinfo>
+    <acqinfo id="aspace_af8742d20287502ef55217ec94942cde">
       <head>Acquisition Information</head>
-      <p>All items in this manuscript group were donated to the University Libraries, M.E.
-                Grenander Department of Special Collections and Archives, by the Alpha Alpha Chapter of Phi Beta Kappa. A further accession was received in August 2006</p>
+      <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by the Alpha Alpha Chapter of Phi Beta Kappa. A further accession was received in August 2006</p>
     </acqinfo>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_5ac5594257228bf1cf6fc87c928ee7b6">
       <head>Arrangement of the Collection</head>
       <p>The collection is organized into the following series:</p>
-      <list type="simple">
-        <item>Series 1 - Application to Phi Beta Kappa, 1940-1974, Undated</item>
-        <item>Series 2 - Alpha Alpha Chapter Activities, 1973-1992, Undated</item>
-      </list>
       <p>Both series are arranged chronologically.</p>
     </arrangement>
-    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
-           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
-           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
-           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
-           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
-           Try to give as many access points as you can to increase the chances of 
-           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
-           to comment them out! -->
-    <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <corpname encodinganalog="610" source="lcsh">Phi Beta Kappa </corpname>
-      <corpname encodinganalog="610" source="local">Phi Beta Kappa. Alpha Alpha of New York (State University of New York at Albany)</corpname>
-      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany </corpname>
-      <subject encodinganalog="650" source="lcsh">Greek letter societies</subject>
-      <subject encodinganalog="650" source="lcsh">Learned institutions and societies</subject>
-      <subject encodinganalog="650" source="lcsh">Initiations (into trades, societies, etc.)</subject>
-      <geogname encodinganalog="651" source="lcsh">Albany (N.Y.)</geogname>
-      <genreform encodinganalog="655" source="lcsh">Contracts</genreform>
-      <genreform encodinganalog="655" source="lcsh">Correspondence</genreform>
-      <genreform encodinganalog="655" source="lcsh">Memorandums</genreform>
-      <genreform encodinganalog="655" source="lcsh">Photographs</genreform>
-      <genreform encodinganalog="655" source="aat">Programs (documents)</genreform>
-    </controlaccess>
-    <prefercite encodinganalog="524">
+    <prefercite id="aspace_70f91a1322debbb96e2fe6bbfc64cd41">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Phi Beta Kappa, Alpha Alpha Chapter Records, 1940-1992.
-        M.E. Grenander Department of Special Collections and Archives, University Libraries,
-        University at Albany, State University of New York (hereafter referred to as the Phi Beta Kappa, Alpha Alpha Chapter Records).</p>
+      <p> Identification of specific item, series, box, folder, Phi Beta Kappa, Alpha Alpha Chapter Records, 1940-1992. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Phi Beta Kappa, Alpha Alpha Chapter Records).</p>
     </prefercite>
-    <!-- <appraisal encodinganalog="583">
-         <head>Appraisal Information</head>
-         <p>## OPT Give the value of the collection and the date appraised.</p>
-      </appraisal>-->
-    <!--<accruals encodinganalog="584">
-         <head>Accruals</head>
-         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
-            etc.</p>
-      </accruals>-->
-    <dsc type="combined">
-      <head>Container List</head>
-      <!-- Start series 1-->
-      <c01 level="series" id="nam_ua800.008-1">
+    <controlaccess>
+      <subject source="lcsh">Greek letter societies</subject>
+      <subject source="lcsh">Learned institutions and societies</subject>
+      <subject source="lcsh">Initiations (into trades, societies, etc.)</subject>
+      <geogname source="lcsh">Albany (N.Y.)</geogname>
+      <genreform source="lcsh">Contracts</genreform>
+      <genreform source="lcsh">Correspondence</genreform>
+      <genreform source="lcsh">Memorandums</genreform>
+      <genreform source="lcsh">Photographs</genreform>
+      <genreform source="aat">Programs (documents)</genreform>
+      <corpname source="lcsh">Phi Beta Kappa</corpname>
+      <corpname source="local">Phi Beta Kappa. Alpha Alpha of New York (State University of New York at Albany)</corpname>
+      <corpname source="lcsh">State University of New York at Albany</corpname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_4d52a9f69550118d1cfb74af176712b0" level="series">
         <did>
+          <unittitle>Application to Phi Beta Kappa</unittitle>
           <unitid>1</unitid>
-          <unittitle label="Series">Application to Phi Beta Kappa</unittitle>
           <unitdate normal="1940/1974" type="inclusive">1940-1974</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940/1992">Undated</unitdate>
+          <unitdate normal="1940/1992" type="inclusive">Undated</unitdate>
         </did>
-        <arrangement>
-          <p> Arranged chronologically. </p>
+        <arrangement id="aspace_798b8d447a98612f9cea8d0928ceb54f">
+          <head>Arrangement</head>
+          <p>Arranged chronologically.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_180fb85b0c0b9712ac23db94f88fca06">
+          <head>Scope and Contents</head>
           <p>This series includes the various reports which the University at Albany submitted to the Phi Beta Kappa organization between 1950 and 1974, as well as the memorandums, correspondence, and notes related to the generation of those application materials. Also included are some printed materials about Phi Beta Kappa used as reference material during this process. This series also contains similar records relating to the establishment of the Alpha Alpha chapter once the application was accepted.</p>
         </scopecontent>
-        <c02 id="nam_ua800.008-1_1">
+        <c02 id="aspace_6de64826966bf25248e8c6ebde093b45" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">1</container>
             <unittitle>Handbook for new members, application materials, issue of Key Reporter</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940/1973">1940-1973</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940/1992">Undated</unitdate>
+            <unitdate normal="1940/1973" type="inclusive">1940-1973</unitdate>
+            <unitdate normal="1940/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_0eaf31c099938913ff778c5faacadb84" label="Mixed Materials" type="Box">1 (1-Application to Phi Beta Kappa)</container>
+            <container id="aspace_6599e77a5cbe43fa8c193590e37cdee3" parent="aspace_0eaf31c099938913ff778c5faacadb84" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-1_2">
+        <c02 id="aspace_27c5e768842db20236d1626346b52963" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">2</container>
             <unittitle>Preliminary Phi Beta Kappa application</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1967">1967</unitdate>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_6aa91865f0106770b28f526ce3ec43a0" label="Mixed Materials" type="Box">1 (1-Application to Phi Beta Kappa)</container>
+            <container id="aspace_bad03e40b3e76995b7f7f42abaa31749" parent="aspace_6aa91865f0106770b28f526ce3ec43a0" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-1_3">
+        <c02 id="aspace_2ca0d587bea17e94fb5beb4aa1c0729b" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">3</container>
             <unittitle>Letter from Phi Beta Kappa Committee on Qualifications and instructions for general report</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968">1968</unitdate>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_666a10dd9357be45a4535777a0b8e8af" label="Mixed Materials" type="Box">1 (1-Application to Phi Beta Kappa)</container>
+            <container id="aspace_5b90d485723c1b04805d6379e4e52530" parent="aspace_666a10dd9357be45a4535777a0b8e8af" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-1_4">
+        <c02 id="aspace_f39246e7a059aa606b2ad599ebe9d4a5" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">4-6</container>
             <unittitle>Completed 1968 Phi Beta Kappa application</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968">1968</unitdate>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_d389caf0d0b548a8d48b67a97bdb36bc" label="Mixed Materials" type="Box">1 (1-Application to Phi Beta Kappa)</container>
+            <container id="aspace_e226ef134c43066ef9ed66b17a8ec16b" parent="aspace_d389caf0d0b548a8d48b67a97bdb36bc" type="Folder">4-6</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-1_5">
+        <c02 id="aspace_181146d87bd8f5dc4d636c9cc6745ea6" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">7</container>
             <unittitle>Memos, reports, and notes related to Phi Beta Kappa application</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1970">1968-1970</unitdate>
+            <unitdate normal="1968/1970" type="inclusive">1968-1970</unitdate>
+            <container id="aspace_32c877e24256e897e028197e4b30d9d5" label="Mixed Materials" type="Box">1 (1-Application to Phi Beta Kappa)</container>
+            <container id="aspace_e3f5ffb30b6259096967988666e99615" parent="aspace_32c877e24256e897e028197e4b30d9d5" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-1_6">
+        <c02 id="aspace_7a5369848e85635cd673f721ddbb8c71" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Folder">8-9</container>
             <unittitle>Memos, notes, and correspondence related to Phi Beta Kappa application, formation, and selection of members</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1968/1974">1968-1974</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940/1992">Undated</unitdate>
+            <unitdate normal="1968/1974" type="inclusive">1968-1974</unitdate>
+            <unitdate normal="1940/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_c47c0d63418468a4e8598cce7fa40f6c" label="Mixed Materials" type="Box">1 (1-Application to Phi Beta Kappa)</container>
+            <container id="aspace_b360bbef29ce93d4505bbc762111fa28" parent="aspace_c47c0d63418468a4e8598cce7fa40f6c" type="Folder">8-9</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-1_7">
+        <c02 id="aspace_abb943adc9d3f3babac8f9f5e9881a16" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">1</container>
             <unittitle>Updated supplement to Phi Beta Kappa application</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969">1969</unitdate>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_6ae35c1fb6f2d1234c93006b0e0b3fbc" label="Mixed Materials" type="Box">2 (1-Application to Phi Beta Kappa)</container>
+            <container id="aspace_32d55f43e786cd1fd55d55cecb661f4f" parent="aspace_6ae35c1fb6f2d1234c93006b0e0b3fbc" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-1_8">
+        <c02 id="aspace_9ec6744901f6629a28fdabb78a52d45d" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">2</container>
             <unittitle>Correspondence about Phi Beta Kappa application</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970">1970</unitdate>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_06b4771f2076fd03ff2e66446d0bc1f3" label="Mixed Materials" type="Box">2 (1-Application to Phi Beta Kappa)</container>
+            <container id="aspace_25d8af169229266acb30d05f4d79e312" parent="aspace_06b4771f2076fd03ff2e66446d0bc1f3" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-1_9">
+        <c02 id="aspace_60f6d97cc1bbd15b0a79cac9e63b1eb4" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">3</container>
             <unittitle>Preliminary application to Phi Beta Kappa</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970/1971">1970-1971</unitdate>
+            <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
+            <container id="aspace_1ff05b48fafc2e80ab1329b74b980306" label="Mixed Materials" type="Box">2 (1-Application to Phi Beta Kappa)</container>
+            <container id="aspace_8b7d549b60fde5f1546037bd9dde3609" parent="aspace_1ff05b48fafc2e80ab1329b74b980306" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-1_10">
+        <c02 id="aspace_3c8e6e1f95123add79fd25bc1bd1e24e" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">4</container>
             <unittitle>Memos and notes related to 1970-1971 Phi Beta Kappa application</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1970/1971">1970-1971</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940/1992">Undated</unitdate>
+            <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
+            <unitdate normal="1940/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_a019c751b4ca8dfd91d723e291cc026f" label="Mixed Materials" type="Box">2 (1-Application to Phi Beta Kappa)</container>
+            <container id="aspace_a1c4900743b3a9af94fc611c8dada452" parent="aspace_a019c751b4ca8dfd91d723e291cc026f" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-1_11">
+        <c02 id="aspace_7c3135dd62ff57bd34a2c540e1c02a8a" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">5-6</container>
             <unittitle>Completed Phi Beta Kappa application</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971">1971</unitdate>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_47edc4169ee58e66fc66abaa3880ca00" label="Mixed Materials" type="Box">2 (1-Application to Phi Beta Kappa)</container>
+            <container id="aspace_4c6ca369bf029c38df2c0490e2d85cf6" parent="aspace_47edc4169ee58e66fc66abaa3880ca00" type="Folder">5-6</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-1_12">
+        <c02 id="aspace_a909250a07eaaecc7d340055c17fac8f" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">7</container>
             <unittitle>Memos and notes related to 1971-1972 Phi Beta Kappa campus visit</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971/1972">1971-1972</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940/1992">Undated</unitdate>
+            <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+            <unitdate normal="1940/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_490f42e46fa51bd2cc08ea4ecc1017f5" label="Mixed Materials" type="Box">2 (1-Application to Phi Beta Kappa)</container>
+            <container id="aspace_0c311ffee8cbc378a9eb378690a3391f" parent="aspace_490f42e46fa51bd2cc08ea4ecc1017f5" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-1_13">
+        <c02 id="aspace_3b80e048e5561b001d2f9725b5df2ff8" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">8-9</container>
             <unittitle>Memos, notes and correspondence related to Phi Beta Kappa application</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1971/1972">1971-1972</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940/1992">Undated</unitdate>
+            <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+            <unitdate normal="1940/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_92e1ad20c2d7607700567ce631fd148a" label="Mixed Materials" type="Box">2 (1-Application to Phi Beta Kappa)</container>
+            <container id="aspace_2f963765f90604a7687db0f200bc5c34" parent="aspace_92e1ad20c2d7607700567ce631fd148a" type="Folder">8-9</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-1_14">
+        <c02 id="aspace_3e76a16fe6fef6b457f8ff82bf547670" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">10</container>
             <unittitle>Statement from SUNYA Phi Beta Kappa Committee to Phi Beta Kappa general meeting</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973">1973</unitdate>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_b1d3d2513ede05dc06386c6cc5a973b2" label="Mixed Materials" type="Box">2 (1-Application to Phi Beta Kappa)</container>
+            <container id="aspace_302a2cb5439cc0c97f21ddf9c334e574" parent="aspace_b1d3d2513ede05dc06386c6cc5a973b2" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-1_15">
+        <c02 id="aspace_80bb14b75328caaf6f3ff4272cd26581" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">11</container>
             <unittitle>Memo on approval of SUNYA Phi Beta Kappa application</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973">1973</unitdate>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_4fcf39fe473181fc873f1c084f574b55" label="Mixed Materials" type="Box">2 (1-Application to Phi Beta Kappa)</container>
+            <container id="aspace_365705e11807de9d0d6abd5ec96c99db" parent="aspace_4fcf39fe473181fc873f1c084f574b55" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-1_16">
+        <c02 id="aspace_b5f3b9829b5eb19ee9af37c2e44dea32" level="file">
           <did>
-            <container type="Box">2</container>
-            <container type="Folder">12</container>
             <unittitle>Correspondence and memos related to installation and formation of Alpha Alpha chapter</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973/1974">1973-1974</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940/1992">Undated</unitdate>
+            <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+            <unitdate normal="1940/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_8d255e3bfbfc17e951c949e0a2d36bd7" label="Mixed Materials" type="Box">2 (1-Application to Phi Beta Kappa)</container>
+            <container id="aspace_dfdaf17620b89dd4543d76cfed227749" parent="aspace_8d255e3bfbfc17e951c949e0a2d36bd7" type="Folder">12</container>
           </did>
         </c02>
       </c01>
-      <!-- Start series 2-->
-      <c01 level="series" id="nam_ua800.008-2">
+      <c01 id="aspace_f0cf35d7e84583e22bdb90332848b397" level="series">
         <did>
+          <unittitle>Alpha Alpha Chapter Activities</unittitle>
           <unitid>2</unitid>
-          <unittitle label="Series">Alpha Alpha Chapter Activities</unittitle>
           <unitdate normal="1972/1992" type="inclusive">1973-1992</unitdate>
-          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940/1992">Undated</unitdate>
+          <unitdate normal="1940/1992" type="inclusive">Undated</unitdate>
         </did>
-        <arrangement>
-          <p> Arranged chronologically. </p>
+        <arrangement id="aspace_761b119bb2f3ea9117a553b424aed3c5">
+          <head>Arrangement</head>
+          <p>Arranged chronologically.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_7460f71594ce78f1661524f43a3e71fa">
+          <head>Scope and Contents</head>
           <p>This series contains documents related to the activities of the Alpha Alpha chapter of Phi Beta Kappa, beginning with its installation in 1974. It includes contracts and correspondence related to planning initiation dinners; programs and photographs from initiation dinners; and lists, correspondence, information cards and certificates relating to the selection of students for membership in Phi Beta Kappa.</p>
         </scopecontent>
-        <c02 id="nam_ua800.008-2_1">
+        <c02 id="aspace_c0af92e95942f4772860bf10a9171dbe" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">1</container>
             <unittitle>Initiation programs; memos and correspondence related to chapter activity; clippings on Phi Beta Kappa bicentennial</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1973/1978">1973-1978</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940/1992">Undated</unitdate>
+            <unitdate normal="1973/1978" type="inclusive">1973-1978</unitdate>
+            <unitdate normal="1940/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_7d357fbf972594cd8700e3ecfe31b55e" label="Mixed Materials" type="Box">3 (2-Alpha Alpha Chapter Activities)</container>
+            <container id="aspace_7b01e81fa21fc0088ce483d5152e8b2e" parent="aspace_7d357fbf972594cd8700e3ecfe31b55e" type="Folder">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-2_2">
+        <c02 id="aspace_421fa0af7cca3a1b43b45e1968812941" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">2</container>
             <unittitle>Programs from Ceremony of Installation of Alpha Alpha Chapter</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_5ecfd869e7fb1c032167cefca028d303" label="Mixed Materials" type="Box">3 (2-Alpha Alpha Chapter Activities)</container>
+            <container id="aspace_4aaed1b21d244af75115c574f18449dc" parent="aspace_5ecfd869e7fb1c032167cefca028d303" type="Folder">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-2_3">
+        <c02 id="aspace_548fe1cefe3e6170c0741e43f817ada4" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">3</container>
             <unittitle>Photographs of Installation of Alpha Alpha Chapter</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_9efe5fafb68c581446e068c7c885f48e" label="Mixed Materials" type="Box">3 (2-Alpha Alpha Chapter Activities)</container>
+            <container id="aspace_132634fa3605c2bf076f3b08d66c5d1d" parent="aspace_9efe5fafb68c581446e068c7c885f48e" type="Folder">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-2_4">
+        <c02 id="aspace_0fb3d80960dafcba1ce0c55a1a19f86a" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">4</container>
             <unittitle>Photographs of Installation and memo from Arthur Ekrich</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_5e2cd60b64ab9b576347276189f850d6" label="Mixed Materials" type="Box">3 (2-Alpha Alpha Chapter Activities)</container>
+            <container id="aspace_11ff70d5cffa617b7d8ccbef27254a32" parent="aspace_5e2cd60b64ab9b576347276189f850d6" type="Folder">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-2_5">
+        <c02 id="aspace_dda2ac3059bf8591b58e549f139f7d03" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">5</container>
             <unittitle>Installation invitations</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974">1974</unitdate>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_36c310537db8259440c1c0332181354d" label="Mixed Materials" type="Box">3 (2-Alpha Alpha Chapter Activities)</container>
+            <container id="aspace_e8dd8c5895e39cab7384a83fe9a8a673" parent="aspace_36c310537db8259440c1c0332181354d" type="Folder">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-2_6">
+        <c02 id="aspace_111f94b9174c57476b71f8f62948aa52" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">6</container>
             <unittitle>Memos and notes related to member selection and initiation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/1978">1975-1978</unitdate>
+            <unitdate normal="1975/1978" type="inclusive">1975-1978</unitdate>
+            <container id="aspace_14aa24ed8f2a5da7e3ab60504b886712" label="Mixed Materials" type="Box">3 (2-Alpha Alpha Chapter Activities)</container>
+            <container id="aspace_471dcb14612d22168c8111411a052482" parent="aspace_14aa24ed8f2a5da7e3ab60504b886712" type="Folder">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-2_7">
+        <c02 id="aspace_eea98a2c21720571502cec114c88a585" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">7</container>
             <unittitle>Reservation Contracts for Ballroom and Patroon Room</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974/1979">1974-1979</unitdate>
+            <unitdate normal="1974/1979" type="inclusive">1974-1979</unitdate>
+            <container id="aspace_6157eca7cbaaac38859de247365dec65" label="Mixed Materials" type="Box">3 (2-Alpha Alpha Chapter Activities)</container>
+            <container id="aspace_5e4d49428294f5ee50a55f9af9962119" parent="aspace_6157eca7cbaaac38859de247365dec65" type="Folder">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-2_8">
+        <c02 id="aspace_9d38a85d1a39863301ac53e6aa880b19" level="file">
           <did>
-            <container type="Card-File">1</container>
             <unittitle>Cards with selected student names and information</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1974/1985">1974-1984</unitdate>
+            <unitdate normal="1974/1985" type="inclusive">1974-1984</unitdate>
+            <container id="aspace_b5722daafc3f3439bd138aea1427ee28" label="Mixed Materials" type="Card-File">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-2_9">
+        <c02 id="aspace_f1fc9a6c85ea62522f6efaf26c49a3a5" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">8</container>
             <unittitle>Photographs of initiation</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975">1975</unitdate>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_af283377261ba7cb3567c92784be3162" label="Mixed Materials" type="Box">3 (2-Alpha Alpha Chapter Activities)</container>
+            <container id="aspace_09c3ea1e2a80ae67249810afd36ab6e6" parent="aspace_af283377261ba7cb3567c92784be3162" type="Folder">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-2_10">
+        <c02 id="aspace_01bc3c118f93012541d81e7832adb1b7" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">9</container>
             <unittitle>Certificates for students who refused or did not respond to selection; mockup of 1979 initiation program</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1975/1976">1975-1976</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979/1981">1979-1981</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1984">1983-1984</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940/1992">Undated</unitdate>
+            <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
+            <unitdate normal="1979/1981" type="inclusive">1979-1981</unitdate>
+            <unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate>
+            <unitdate normal="1940/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_f8f33665d89345eb8911cf4dc4d5aeae" label="Mixed Materials" type="Box">3 (2-Alpha Alpha Chapter Activities)</container>
+            <container id="aspace_95ccd9177b0c7a668be0f6fde29ea22f" parent="aspace_f8f33665d89345eb8911cf4dc4d5aeae" type="Folder">9</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-2_11">
+        <c02 id="aspace_82ee0550a887072e07cfa0a56cb57fda" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">10</container>
             <unittitle>Phi Beta Kappa bulletin</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976">1976</unitdate>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_db3bcd1a3e0036fb2729660c3331cfc1" label="Mixed Materials" type="Box">3 (2-Alpha Alpha Chapter Activities)</container>
+            <container id="aspace_b47bef8c5118597a4f274e769bd77f3a" parent="aspace_db3bcd1a3e0036fb2729660c3331cfc1" type="Folder">10</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-2_12">
+        <c02 id="aspace_f55bf0f5c3db20a489207c3bed41a0d1" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">11</container>
             <unittitle>Notices for Phi Beta Kappa dinners mailed by secretary</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976/1979">1976-1979</unitdate>
+            <unitdate normal="1976/1979" type="inclusive">1976-1979</unitdate>
+            <container id="aspace_962c11935c7255ce1290dca7ed1743ab" label="Mixed Materials" type="Box">3 (2-Alpha Alpha Chapter Activities)</container>
+            <container id="aspace_c890f4b0d072bf1c72a3e80eeb34e2f4" parent="aspace_962c11935c7255ce1290dca7ed1743ab" type="Folder">11</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-2_13">
+        <c02 id="aspace_74856c8911137aea73137dbc9cafc1c6" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">12</container>
             <unittitle>Menus and catering contracts for Phi Beta Kappa dinners</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1976/1980">1976-1980</unitdate>
+            <unitdate normal="1976/1980" type="inclusive">1976-1980</unitdate>
+            <container id="aspace_e31067b1b0a5c3358d6fc3e421ce7297" label="Mixed Materials" type="Box">3 (2-Alpha Alpha Chapter Activities)</container>
+            <container id="aspace_a14f8751cf8bb12c20937960761950d4" parent="aspace_e31067b1b0a5c3358d6fc3e421ce7297" type="Folder">12</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-2_14">
+        <c02 id="aspace_f5d6e93e2da700d4d74c5a1b3418a494" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">13</container>
             <unittitle>Correspondence related to Phi Beta Kappa dinners; dinner invitations to SUNYA president</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1979">1977-1979</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940/1992">Undated</unitdate>
+            <unitdate normal="1977/1979" type="inclusive">1977-1979</unitdate>
+            <unitdate normal="1940/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_3275dc7b6c99d29b9adef8f45d3eaa73" label="Mixed Materials" type="Box">3 (2-Alpha Alpha Chapter Activities)</container>
+            <container id="aspace_87783a22e51807f34e0d2cc2b54f7044" parent="aspace_3275dc7b6c99d29b9adef8f45d3eaa73" type="Folder">13</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-2_15">
+        <c02 id="aspace_23826efd5ab32ea0f6e45884d5aa0009" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">14</container>
             <unittitle>Notes and memos related to member selection-[RESTRICTED]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1979">1977-1979</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940/1992">Undated</unitdate>
+            <unitdate normal="1977/1979" type="inclusive">1977-1979</unitdate>
+            <unitdate normal="1940/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_d6e3f16fcd5194f19d847963ceaa1fe0" label="Mixed Materials" type="Box">3 (2-Alpha Alpha Chapter Activities)</container>
+            <container id="aspace_928580e35ba338dfdaec199d120858c0" parent="aspace_d6e3f16fcd5194f19d847963ceaa1fe0" type="Folder">14</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_172daa02ff4077fbe308ac076efe9d3a">
+            <head>Conditions Governing Access</head>
             <p>Must consult archivist before viewing this material.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua800.008-2_16">
+        <c02 id="aspace_f04211067037b991b246c73efb06f3f5" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">15</container>
             <unittitle>Originals of initiation programs</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1979">1977-1979</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940/1992">Undated</unitdate>
+            <unitdate normal="1977/1979" type="inclusive">1977-1979</unitdate>
+            <unitdate normal="1940/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_5d72fe8873e0206c100630fca1e4b1dd" label="Mixed Materials" type="Box">3 (2-Alpha Alpha Chapter Activities)</container>
+            <container id="aspace_3e8ca17dfdefd8625743f36c3acadd3a" parent="aspace_5d72fe8873e0206c100630fca1e4b1dd" type="Folder">15</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-2_17">
+        <c02 id="aspace_a3589362f415da7c42363b8a9901b186" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">16</container>
             <unittitle>Initiation programs</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977/1990">1977-1990</unitdate>
+            <unitdate normal="1977/1990" type="inclusive">1977-1990</unitdate>
+            <container id="aspace_f5fc7a307a8afb843cb3e24312b8ad88" label="Mixed Materials" type="Box">3 (2-Alpha Alpha Chapter Activities)</container>
+            <container id="aspace_72a966ddec974b74097228ac8e1e8b50" parent="aspace_f5fc7a307a8afb843cb3e24312b8ad88" type="Folder">16</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-2_18">
+        <c02 id="aspace_2739e90d60969c466d08432160cdf1e3" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">17</container>
             <unittitle>Notes, working papers related to Phi Beta Kappa</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1978/1979">1978-1979</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940/1992">Undated</unitdate>
+            <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <unitdate normal="1940/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_023c2d3b0e5d2e655661e293688de07c" label="Mixed Materials" type="Box">3 (2-Alpha Alpha Chapter Activities)</container>
+            <container id="aspace_f91d6c9a16496f2c1dafe6af7f0101dd" parent="aspace_023c2d3b0e5d2e655661e293688de07c" type="Folder">17</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-2_19">
+        <c02 id="aspace_38046f3c5fcceb42aa8216156c3a453b" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">18</container>
             <unittitle>Phi Beta Kappa dinner procedures</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1979">1979</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940/1992">Undated</unitdate>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <unitdate normal="1940/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_4c1a41f01a44b347e53978918b072a71" label="Mixed Materials" type="Box">3 (2-Alpha Alpha Chapter Activities)</container>
+            <container id="aspace_f75f59f5af2d3cb0b8c99ebb183e5205" parent="aspace_4c1a41f01a44b347e53978918b072a71" type="Folder">18</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-2_20">
+        <c02 id="aspace_31bd30dc983798d657313a2bc68484e2" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">19</container>
             <unittitle>Memo relating to Phi Beta Kappa</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980">1980</unitdate>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_6137eb4423911def9d5f0793c3a0737e" label="Mixed Materials" type="Box">3 (2-Alpha Alpha Chapter Activities)</container>
+            <container id="aspace_e18c6ff845a70f07a1e3d0a00ad44618" parent="aspace_6137eb4423911def9d5f0793c3a0737e" type="Folder">19</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-2_21">
+        <c02 id="aspace_88ad074e0d2e5d369bd249da6a1b3ea8" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">20</container>
             <unittitle>Memos, correspondence, publicity materials related to Phi Beta Kappa visiting scholar Malcolm Kerr</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940/1992">Undated</unitdate>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <unitdate normal="1940/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_746dcca946cfd2a8ad84fb69d5cb39a5" label="Mixed Materials" type="Box">3 (2-Alpha Alpha Chapter Activities)</container>
+            <container id="aspace_819e64e9e260fdf6ec47d3ce16c811e1" parent="aspace_746dcca946cfd2a8ad84fb69d5cb39a5" type="Folder">20</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-2_22">
+        <c02 id="aspace_d4c6d535e913fb3682b906ef9fa37099" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">21</container>
             <unittitle>Memo related to initiation banquet</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_5439c8a14873c74eb2a60ead10546d74" label="Mixed Materials" type="Box">3 (2-Alpha Alpha Chapter Activities)</container>
+            <container id="aspace_871dda41252c22479e6913dc353fd0e5" parent="aspace_5439c8a14873c74eb2a60ead10546d74" type="Folder">21</container>
           </did>
         </c02>
-        <c02 id="nam_ua800.008-2_23">
+        <c02 id="aspace_7b1decdb168553a5f4bc549705729169" level="file">
           <did>
-            <container type="Box">3</container>
-            <container type="Folder">22</container>
             <unittitle>Notes and memos related to member selection-[RESTRICTED]</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982/1983">1982-1983</unitdate>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1940/1992">Undated</unitdate>
+            <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate>
+            <unitdate normal="1940/1992" type="inclusive">Undated</unitdate>
+            <container id="aspace_d62b93bec9038ffe921e1aca8959d1c1" label="Mixed Materials" type="Box">3 (2-Alpha Alpha Chapter Activities)</container>
+            <container id="aspace_26aed3cd709f7487d250cd453f7f9039" parent="aspace_d62b93bec9038ffe921e1aca8959d1c1" type="Folder">22</container>
           </did>
-          <accessrestrict>
+          <accessrestrict id="aspace_d9a51f997ed76a33a62047f60892a3d1">
+            <head>Conditions Governing Access</head>
             <p>Must consult archivist before viewing this material.</p>
           </accessrestrict>
         </c02>
-        <c02 id="nam_ua800.008-2_24">
+        <c02 id="aspace_9f24012b007dcd12e50b0e3e13e74b7e" level="file">
           <did>
-            <container type="Card-File">2</container>
             <unittitle>Cards with selected student names and information</unittitle>
-            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985/1992">1985-1992</unitdate>
+            <unitdate normal="1985/1992" type="inclusive">1985-1992</unitdate>
+            <container id="aspace_2f2674e2da0c45d9cadec7c81573812d" label="Mixed Materials" type="Card-File">2</container>
           </did>
         </c02>
       </c01>

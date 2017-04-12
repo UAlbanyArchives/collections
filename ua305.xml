@@ -1,398 +1,399 @@
 <?xml version='1.0' encoding='utf-8'?>
-<?xml-stylesheet type='text/xsl' href='collection-level.xsl'?> 
-<!DOCTYPE ead SYSTEM 'ead.dtd'>
-<ead id="nam_ua305">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="apap014" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua305.html">nam_ua305</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua305">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua305.xml">ua305</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>FINANCIAL SECRETARY RECORDS (UA305)<date normal="1844/1965" type="inclusive">1844-1965</date></titleproper>
-		<author>Ben Covell</author>
+        <titleproper>Financial Secretary; Records <num>ua305</num></titleproper>
+        <author>Ben Covell</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2017" type="publication">Copyright 2017 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2017</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation audience="internal">Benjamin Covell<date normal="2017">2017</date></creation>
-      <langusage>
-        <language langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:39:27 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date normal="2014">2014</date>
+        <date>2014</date>
         <item>EAD file created</item>
+      </change>
+      <change>
+        <date>2017</date>
+        <item>Encoded in EAD by Benjamin Covell</item>
       </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua305</unitid>
-      <unittitle>Financial Secretary Records<unitdate normal="1844/1965" type="inclusive">1844-1965</unitdate></unittitle>
-      <abstract label="Abstract:">This collection consists primarily of the records of the Treasurer for the State College for Teachers. Also included are some financial records from iterations of the College (New York State Normal School and New York State Normal College) and records of the Financial Secretary, which succeeded the position of Treasurer.  Materials include cash books, budget documents, and correspondence.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="lcsh">State College for Teachers (Albany, N.Y.)</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">15.8</extent>
-      </physdesc>
-      <physloc label="Storage: ">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Financial Secretary Records<unitdate normal="1844/1965" type="inclusive">1844-1965</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="lcsh">State College for Teachers (Albany, N.Y.)</corpname>
+      </origination>
+      <unitid>ua305</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">15.8 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_5054807f2f026071866a83fbcd00e36c">This collection consists primarily of the records of the Treasurer for the State College for Teachers. Also included are some financial records from iterations of the College (New York State Normal School and New York State Normal College) and records of the Financial Secretary, which succeeded the position of Treasurer. Materials include cash books, budget documents, and correspondence.</abstract>
+      <langmaterial id="aspace_d9e0985036d3e73b897d2ef22ab4c27b">English</langmaterial>
+      <physloc id="aspace_12c52bb85a2d8ab3fbbe9559eef462ce">The materials are located onsite in the department.</physloc>
     </did>
-    <bioghist>
+    <processinfo id="aspace_0eb3b9df6ceb0b37ef25874e8cc959bf">
+      <head>Processing Information</head>
+      <p>Processed in 2017 by Ben Covell.</p>
+    </processinfo>
+    <bioghist id="aspace_bfdc58ac994d9e97ad0edcecbb427ace">
       <head>Biographical History</head>
-      <p>The first Financial Secretary for the New York State College for Teachers, Clarence Joseph Deyo, was hired in 1917 and served until approximately 1945.  His position title soon changed to "Secretary-Treasurer" but "Financial Secretary" was adopted by his successors in the 1940s through 1960s: Ainard Gelbond and Benjamin Comi.  This position transitioned to the Director of Business Affairs, which itself eventually came under the umbrella of the Vice President for Management and Planning as the organization of the University became more complex.  The Financial Secretary (or Secretary-Treasurer) was responsible for all aspects of the College's finances:  receipts and disbursements, tuition, and payroll.</p>
+      <p>The first Financial Secretary for the New York State College for Teachers, Clarence Joseph Deyo, was hired in 1917 and served until approximately 1945. His position title soon changed to "Secretary-Treasurer" but "Financial Secretary" was adopted by his successors in the 1940s through 1960s: Ainard Gelbond and Benjamin Comi. This position transitioned to the Director of Business Affairs, which itself eventually came under the umbrella of the Vice President for Management and Planning as the organization of the University became more complex. The Financial Secretary (or Secretary-Treasurer) was responsible for all aspects of the College's finances: receipts and disbursements, tuition, and payroll.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>This collection includes: cash books and ledgers; correspondence with State agencies; budget planning documentation; payroll information; Special Fund receipts and disbursements; scholarship data and related correspondence; and other finance-related reports and correspondence.  The bulk of these materials were created by Clarence Deyo during his term as Secretary-Treasurer from 1917 until 1945.</p>
+    <scopecontent id="aspace_fd95cda2e75d2f05a1a98f3beb2178ad">
+      <head>Scope and Contents</head>
+      <p>This collection includes: cash books and ledgers; correspondence with State agencies; budget planning documentation; payroll information; Special Fund receipts and disbursements; scholarship data and related correspondence; and other finance-related reports and correspondence. The bulk of these materials were created by Clarence Deyo during his term as Secretary-Treasurer from 1917 until 1945.</p>
     </scopecontent>
-    <arrangement>
+    <arrangement id="aspace_4ff746071eba65f8ab921d5c3c8a1922">
       <head>Arrangement of the Collection</head>
-      <p>The collection arranged into 2 series.  Series 1 is unprocessed and Series 2 is only partially processed, so individual items may be difficult to find.</p>
+      <p>The collection arranged into 2 series. Series 1 is unprocessed and Series 2 is only partially processed, so individual items may be difficult to find.</p>
     </arrangement>
-    <acqinfo>
+    <acqinfo id="aspace_d95ed7bb3b46b2aa101144427ebaa282">
       <head>Acquisition Information</head>
       <p>Items in this collection were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives.<date normal="xxxx/yyyy">Undated</date></p>
     </acqinfo>
-    <accessrestrict>
+    <accessrestrict id="aspace_e2cddbe645961badac98feb94ce2fb6f">
       <head>Access</head>
       <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. Please contact an archivist for more information.</p>
     </accessrestrict>
-	<userestrict>
-<head>Copyright</head>
-<p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
-<p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-<p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
-<p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
-</userestrict>
-    <prefercite>
+    <userestrict id="aspace_b19ac0bcc329fc2eb2340f858b5b396c">
+      <head>Copyright</head>
+      <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p> The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+    </userestrict>
+    <prefercite id="aspace_959fae4a610a41aad641d935e790bc7a">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Office of the Treasurer Records,  1844-1965. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Office of the Treasurer Records).</p>
+      <p> Identification of specific item, series, box, folder, Office of the Treasurer Records, 1844-1965. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Office of the Treasurer Records).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany</corpname>
-      <subject encodinganalog="650" source="lcsh">Budget</subject>
-      <subject encodinganalog="650" source="lcsh">Budget process</subject>
-      <subject encodinganalog="650" source="lcsh">Education, Higher--Administration</subject>
-      <subject encodinganalog="650" source="lcsh">Payrolls</subject>
-      <genreform encodinganalog="655" source="aat">administrative records</genreform>
-      <genreform encodinganalog="655" source="aat">payroll records</genreform>
-      <genreform encodinganalog="655" source="aat">financial records</genreform>
+      <subject source="lcsh">Budget</subject>
+      <subject source="lcsh">Budget process</subject>
+      <subject source="lcsh">Education, Higher--Administration</subject>
+      <subject source="lcsh">Payrolls</subject>
+      <genreform source="aat">Administrative records</genreform>
+      <genreform source="aat">payroll records</genreform>
+      <genreform source="aat">Financial Records</genreform>
+      <corpname source="lcsh">State University of New York at Albany</corpname>
     </controlaccess>
-    <dsc type="combined">
-      <head>Container List</head>
-      <c01 id="nam_ua305-1" level="series">
+    <dsc>
+      <c01 id="aspace_fd157370b770c7afdc346183b369c712" level="series">
         <did>
-          <unittitle label="Series">Administrative Records</unittitle>
+          <unittitle>Administrative Records</unittitle>
           <unitid>1</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1928/1953" type="inclusive">1928-1953</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">10</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">10 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1928/1953" type="inclusive">1928-1953</unitdate>
         </did>
-        <arrangement>
+        <arrangement id="aspace_f1e2febddb2c5294e127d3cd730f3040">
+          <head>Arrangement</head>
           <p>This series is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
         </arrangement>
-        <scopecontent>
+        <scopecontent id="aspace_e126c17734449317a99185f805e36df9">
+          <head>Scope and Contents</head>
           <p>Contains budget records, administrative correspondence, receipts and disbursements, tuition records, and other records related to financial management.</p>
         </scopecontent>
       </c01>
-      <c01 id="nam_ua305-2" level="series">
+      <c01 id="aspace_6b92ad8a0b943b4545fd1c74b42c234c" level="series">
         <did>
-          <unittitle label="Series">Cash Books</unittitle>
+          <unittitle>Cash Books</unittitle>
           <unitid>2</unitid>
-          <unitdate calendar="gregorian" era="ce" normal="1844/1965" type="inclusive">1844-1965</unitdate>
-          <physdesc>
-            <extent unit="cubic ft.">5.8</extent>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">5.8 cubic ft.</extent>
           </physdesc>
+          <unitdate normal="1844/1965" type="inclusive">1844-1965</unitdate>
         </did>
-        <scopecontent>
+        <scopecontent id="aspace_143e6804cb1347f3cea67d5e255760fc">
+          <head>Scope and Contents</head>
           <p>Contains a variety of cash books and ledgers: account ledgers, cash receipts for room and board, inventories, and library circulation statistics.</p>
         </scopecontent>
-        <c02 id="nam_ua305-2_1">
+        <c02 id="aspace_f7d70eaa9be8eef16ae6544867c1e304" level="file">
           <did>
-            <container type="Box">1</container>
-            <container type="Item">1</container>
             <unittitle>State Normal College - High School Department - Cashbook</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1892/1902">1892-1902</unitdate>
+            <unitdate normal="1892/1902" type="inclusive">1892-1902</unitdate>
+            <container id="aspace_0ed8804bdd4f9cc3451db91cbe68b33b" label="Mixed Materials" type="Box">1 (2-Cash Books)</container>
+            <container id="aspace_7410e71b52aed8ec6a4fc9d32667826d" parent="aspace_0ed8804bdd4f9cc3451db91cbe68b33b" type="Item">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_2">
+        <c02 id="aspace_7cd172afa0cc5bc44c8ac4057f05faf9" level="file">
           <did>
-            <container type="Box">1</container>
-			<container type="Item">2</container>
             <unittitle>State Normal College - High School Department - Cashbook</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1912/1915">1912-1915</unitdate>
+            <unitdate normal="1912/1915" type="inclusive">1912-1915</unitdate>
+            <container id="aspace_783bd401186b123f9b6944e154333e53" label="Mixed Materials" type="Box">1 (2-Cash Books)</container>
+            <container id="aspace_57d7af0a3cac182451e2e21abac6022d" parent="aspace_783bd401186b123f9b6944e154333e53" type="Item">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_3">
+        <c02 id="aspace_12f93360da5c2115b8305fab85a56708" level="file">
           <did>
-            <container type="Box">1</container>
-			<container type="Item">3</container>
             <unittitle>State Normal College - High School Department - Cashbook</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1902/1912">1902-1912</unitdate>
+            <unitdate normal="1902/1912" type="inclusive">1902-1912</unitdate>
+            <container id="aspace_06804ad8d33a6f2b5f7b6a936ed5b029" label="Mixed Materials" type="Box">1 (2-Cash Books)</container>
+            <container id="aspace_11a0136cda6eb9fbe6163843031c5baf" parent="aspace_06804ad8d33a6f2b5f7b6a936ed5b029" type="Item">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_4">
+        <c02 id="aspace_e98780c9b358d951a4e5251015e1f01e" level="file">
           <did>
-            <container type="Box">1</container>
-			<container type="Item">4</container>
             <unittitle>Normal School Ledger</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1844/1845">1844-1845</unitdate>
+            <unitdate normal="1844/1845" type="inclusive">1844-1845</unitdate>
+            <container id="aspace_080b9e21f699b12d404576af05c05b45" label="Mixed Materials" type="Box">1 (2-Cash Books)</container>
+            <container id="aspace_9e91dee4222f0c09c0bee414236b735d" parent="aspace_080b9e21f699b12d404576af05c05b45" type="Item">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_5">
+        <c02 id="aspace_96bbedff88b6303af7c49e1134dfe9c5" level="file">
           <did>
-            <container type="Box">1</container>
-			<container type="Item">5</container>
             <unittitle>Petty Cash Book</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1917-07/1919-09">1917 July-1919 September</unitdate>
+            <unitdate normal="1917-07/1919-09" type="inclusive">1917 July-1919 September</unitdate>
+            <container id="aspace_41d709f921012d808fc8df1391885019" label="Mixed Materials" type="Box">1 (2-Cash Books)</container>
+            <container id="aspace_d5357dc3d181f960fcb02fb0ea634271" parent="aspace_41d709f921012d808fc8df1391885019" type="Item">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_6">
+        <c02 id="aspace_3c81f196b3faa9895cc4d74406c3a1ea" level="file">
           <did>
-            <container type="Box">1</container>
-			<container type="Item">6</container>
             <unittitle>State Normal College - Journal</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1891-10/1917-07">1891 October-1917 July</unitdate>
+            <unitdate normal="1891-10/1917-07" type="inclusive">1891 October-1917 July</unitdate>
+            <container id="aspace_0974ccb1574dbc7d7fd190bc04d7c4b0" label="Mixed Materials" type="Box">1 (2-Cash Books)</container>
+            <container id="aspace_e942ec928f07713b752de7b8fbafe165" parent="aspace_0974ccb1574dbc7d7fd190bc04d7c4b0" type="Item">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_7">
+        <c02 id="aspace_c9196c33ebff09fda4190a3158077938" level="file">
           <did>
-            <container type="Box">2</container>
-			<container type="Item">1</container>
             <unittitle>State Normal College - Registration Book</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1906/1912">1906-1912</unitdate>
+            <unitdate normal="1906/1912" type="inclusive">1906-1912</unitdate>
+            <container id="aspace_3a2ff8b5ff7bfbe6bfb3399aa2739e9b" label="Mixed Materials" type="Box">2 (2-Cash Books)</container>
+            <container id="aspace_4940f28c6bbe566c7660f119911e4c76" parent="aspace_3a2ff8b5ff7bfbe6bfb3399aa2739e9b" type="Item">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_8">
+        <c02 id="aspace_e833279712f2f1bbc048f73527939d85" level="file">
           <did>
-            <container type="Box">2</container>
-			<container type="Item">2</container>
             <unittitle>Sick Leave Book</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1905/1949">1905-1949</unitdate>
+            <unitdate normal="1905/1949" type="inclusive">1905-1949</unitdate>
+            <container id="aspace_bf1eeddbb55c197682df6850174581ce" label="Mixed Materials" type="Box">2 (2-Cash Books)</container>
+            <container id="aspace_4d4f447ef93ea78e45065d88e1b3f2c1" parent="aspace_bf1eeddbb55c197682df6850174581ce" type="Item">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_9">
+        <c02 id="aspace_1256994b357321efc11593a985785217" level="file">
           <did>
-            <container type="Box">2</container>
-			<container type="Item">3</container>
             <unittitle>State College for Teachers -Journal</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1920/1921">1920-1921</unitdate>
+            <unitdate normal="1920/1921" type="inclusive">1920-1921</unitdate>
+            <container id="aspace_2d4b0d9d30831028f628e46559a8698d" label="Mixed Materials" type="Box">2 (2-Cash Books)</container>
+            <container id="aspace_19ce2dc5d185f1bd18a2c0f187ec5661" parent="aspace_2d4b0d9d30831028f628e46559a8698d" type="Item">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_10">
+        <c02 id="aspace_2007c37d195428d1988a3842a2c73151" level="file">
           <did>
-            <container type="Box">2</container>
-			<container type="Item">4</container>
             <unittitle>Cash Book</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1907-08/1917-01">1907 August-1917 January</unitdate>
+            <unitdate normal="1907-08/1917-01" type="inclusive">1907 August-1917 January</unitdate>
+            <container id="aspace_dc9e7061d7365852f6aa412462563221" label="Mixed Materials" type="Box">2 (2-Cash Books)</container>
+            <container id="aspace_d549f608fa8558237a7cd148f709a082" parent="aspace_dc9e7061d7365852f6aa412462563221" type="Item">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_11">
+        <c02 id="aspace_fa9acc2873077dbdc06a6c45aa013630" level="file">
           <did>
-            <container type="Box">2</container>
-			<container type="Item">5</container>
             <unittitle>Cash Book</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1917-07/1921-09">1917 July-1921 September</unitdate>
+            <unitdate normal="1917-07/1921-09" type="inclusive">1917 July-1921 September</unitdate>
+            <container id="aspace_dca0b15c56f866b66a066b1fa385cb83" label="Mixed Materials" type="Box">2 (2-Cash Books)</container>
+            <container id="aspace_d7b1fe4dfa698ffa7188d9a2a72ca984" parent="aspace_dca0b15c56f866b66a066b1fa385cb83" type="Item">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_12">
+        <c02 id="aspace_67199ac1fb225cb4226f58b586d1cb63" level="file">
           <did>
-            <container type="Box">2</container>
-			<container type="Item">6</container>
             <unittitle>Cash Book</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1917-07/1920-03">1917 July-1920 March</unitdate>
+            <unitdate normal="1917-07/1920-03" type="inclusive">1917 July-1920 March</unitdate>
+            <container id="aspace_60653ceb2853eb8ba0b7778dd815feef" label="Mixed Materials" type="Box">2 (2-Cash Books)</container>
+            <container id="aspace_8d1b55c49e0ac1e9bd82d863072b7fb5" parent="aspace_60653ceb2853eb8ba0b7778dd815feef" type="Item">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_13">
+        <c02 id="aspace_1186ef61ef145543e29ab3c142012260" level="file">
           <did>
-            <container type="Box">2</container>
-			<container type="Item">7</container>
             <unittitle>Cash Book</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1895-11/1907-07">1895 November-1907 July</unitdate>
+            <unitdate normal="1895-11/1907-07" type="inclusive">1895 November-1907 July</unitdate>
+            <container id="aspace_d2bb7f886aab850d7a4ec1bf5a589c42" label="Mixed Materials" type="Box">2 (2-Cash Books)</container>
+            <container id="aspace_e14a0707baef051b1a37b59cb0b4a100" parent="aspace_d2bb7f886aab850d7a4ec1bf5a589c42" type="Item">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_14">
+        <c02 id="aspace_a006dbff27a9695bec358a9eb25df790" level="file">
           <did>
-            <container type="Box">3</container>
-			<container type="Item">1</container>
             <unittitle>General Cash Book</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1930/1933">1930-1933</unitdate>
+            <unitdate normal="1930/1933" type="inclusive">1930-1933</unitdate>
+            <container id="aspace_6e9006fc6e035ca7541f96c035aefe55" label="Mixed Materials" type="Box">3 (2-Cash Books)</container>
+            <container id="aspace_099afa303e75edabbf99754d9de1697a" parent="aspace_6e9006fc6e035ca7541f96c035aefe55" type="Item">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_15">
+        <c02 id="aspace_1f480a15a85392770f49f1276edb74fe" level="file">
           <did>
-            <container type="Box">3</container>
-			<container type="Item">2</container>
             <unittitle>Special Service Fund Cash Book</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1932-07-01/1934-06-30">1932 July 1-1934 June 30</unitdate>
+            <unitdate normal="1932-07-01/1934-06-30" type="inclusive">1932 July 1-1934 June 30</unitdate>
+            <container id="aspace_69d27b46692f98b4dca5fb733200ac40" label="Mixed Materials" type="Box">3 (2-Cash Books)</container>
+            <container id="aspace_22886ea31f3e35c42dae435dc514d473" parent="aspace_69d27b46692f98b4dca5fb733200ac40" type="Item">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_16">
+        <c02 id="aspace_6e7e8f731b2bdd052bd2c4ed6ced76c2" level="file">
           <did>
-            <container type="Box">3</container>
-			<container type="Item">3</container>
             <unittitle>Cash Book</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1921-07/1924-12">1921 July-1924 December</unitdate>
+            <unitdate normal="1921-07/1924-12" type="inclusive">1921 July-1924 December</unitdate>
+            <container id="aspace_bb913c5ac544ba56ffded0658ce15a10" label="Mixed Materials" type="Box">3 (2-Cash Books)</container>
+            <container id="aspace_cd06600ad07eb845ab8c96a97b1087e5" parent="aspace_bb913c5ac544ba56ffded0658ce15a10" type="Item">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_17">
+        <c02 id="aspace_bb26307bc578396065e9d6b64aeba3e8" level="file">
           <did>
-            <container type="Box">3</container>
-			<container type="Item">4</container>
             <unittitle>Cash Book</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1924-12/1927-12">1924 December-1927 December</unitdate>
+            <unitdate normal="1924-12/1927-12" type="inclusive">1924 December-1927 December</unitdate>
+            <container id="aspace_a79920e74caaa72f8f1331f1ec154380" label="Mixed Materials" type="Box">3 (2-Cash Books)</container>
+            <container id="aspace_a1fd8ed5dd9ba87935942dea099ec217" parent="aspace_a79920e74caaa72f8f1331f1ec154380" type="Item">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_18">
+        <c02 id="aspace_feee9665f4d1406a2e9fec02113307a8" level="file">
           <did>
-            <container type="Box">3</container>
-			<container type="Item">5</container>
             <unittitle>Cash Book</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1927-12/1930-07">1927 December-1930 July</unitdate>
+            <unitdate normal="1927-12/1930-07" type="inclusive">1927 December-1930 July</unitdate>
+            <container id="aspace_0b3c4f12f4c2ba4cafc012a9350a64f4" label="Mixed Materials" type="Box">3 (2-Cash Books)</container>
+            <container id="aspace_34485c28c9a2ef2aed02edf587368fde" parent="aspace_0b3c4f12f4c2ba4cafc012a9350a64f4" type="Item">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_19">
+        <c02 id="aspace_bea74f634e08ce5acd45df5ec198ce19" level="file">
           <did>
-            <container type="Box">4</container>
-			<container type="Item">1</container>
             <unittitle>Inventory</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1930/1931">1930-1931</unitdate>
+            <unitdate normal="1930/1931" type="inclusive">1930-1931</unitdate>
+            <container id="aspace_0e5d626cfe3a2929ccb256a17986f57e" label="Mixed Materials" type="Box">4 (2-Cash Books)</container>
+            <container id="aspace_f576423cd60af6b2c87f68f97d502495" parent="aspace_0e5d626cfe3a2929ccb256a17986f57e" type="Item">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_20">
+        <c02 id="aspace_47369b1e7dd4fa4719c5b14987b103fa" level="file">
           <did>
-            <container type="Box">4</container>
-			<container type="Item">2</container>
             <unittitle>Inventory</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1929/1930">1929-1930</unitdate>
+            <unitdate normal="1929/1930" type="inclusive">1929-1930</unitdate>
+            <container id="aspace_1773224d2c4cf248e1ccc34e6b017d2a" label="Mixed Materials" type="Box">4 (2-Cash Books)</container>
+            <container id="aspace_7a95225228bd1ddd698e2f3c95a0f8ff" parent="aspace_1773224d2c4cf248e1ccc34e6b017d2a" type="Item">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_21">
+        <c02 id="aspace_7fef8e784ee7d23433e20b8b12b53d24" level="file">
           <did>
-            <container type="Box">4</container>
-			<container type="Item">3</container>
             <unittitle>College Inventory</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1928/1929">1928-1929</unitdate>
+            <unitdate normal="1928/1929" type="inclusive">1928-1929</unitdate>
+            <container id="aspace_be8a9e66497d8e4eb97d554ae4f9da5e" label="Mixed Materials" type="Box">4 (2-Cash Books)</container>
+            <container id="aspace_d2e9ba09ebb3a576bf576b758cfa52da" parent="aspace_be8a9e66497d8e4eb97d554ae4f9da5e" type="Item">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_22">
+        <c02 id="aspace_0641474fed3e235a08193fad3acfe3d5" level="file">
           <did>
-            <container type="Box">4</container>
-			<container type="Item">4</container>
             <unittitle>Smith Hughes Funds - Sundry Accounts</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1918-04-01/1921-06-30">1918 April 1-1921 June 30</unitdate>
+            <unitdate normal="1918-04-01/1921-06-30" type="inclusive">1918 April 1-1921 June 30</unitdate>
+            <container id="aspace_c55105629f67ae7e3de1a58b057e7bcb" label="Mixed Materials" type="Box">4 (2-Cash Books)</container>
+            <container id="aspace_6f2b405dfd77d9ac3804164b23758185" parent="aspace_c55105629f67ae7e3de1a58b057e7bcb" type="Item">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_23">
+        <c02 id="aspace_e976aee59660c6de4a30130965acf4b0" level="file">
           <did>
-            <container type="Box">4</container>
-			<container type="Item">5</container>
             <unittitle>Smith Hughes Funds - Sundry Accounts</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1921-07-01/1925-06-30">1921 July 1-1925 June 30</unitdate>
+            <unitdate normal="1921-07-01/1925-06-30" type="inclusive">1921 July 1-1925 June 30</unitdate>
+            <container id="aspace_2b55c599d1805b1f68847aa3ebb45fd0" label="Mixed Materials" type="Box">4 (2-Cash Books)</container>
+            <container id="aspace_8fe25ca67f0664c41c1ed4d3056ca94b" parent="aspace_2b55c599d1805b1f68847aa3ebb45fd0" type="Item">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_24">
+        <c02 id="aspace_479c9cead1b37530aa11c6cfe82d6558" level="file">
           <did>
-            <container type="Box">5</container>
-			<container type="Item">1</container>
             <unittitle>Room and Board Cash Receipts</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1957-01/1958-06">1957 January-1958 June</unitdate>
+            <unitdate normal="1957-01/1958-06" type="inclusive">1957 January-1958 June</unitdate>
+            <container id="aspace_803887bd0dbb6c022cb73b9fb4dac553" label="Mixed Materials" type="Box">5 (2-Cash Books)</container>
+            <container id="aspace_baf10f292afa9d8314014b53c3c9ce66" parent="aspace_803887bd0dbb6c022cb73b9fb4dac553" type="Item">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_25">
+        <c02 id="aspace_62d4f487b0ba14a156aeb97a1faaaf40" level="file">
           <did>
-            <container type="Box">5</container>
-			<container type="Item">2</container>
             <unittitle>Brubacher Hall Cash Receipts</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1953-06/1955-05">1953 June-1955-05</unitdate>
+            <unitdate normal="1953-06/1955-05" type="inclusive">1953 June-1955-05</unitdate>
+            <container id="aspace_5dd16de4c29f91bbc07edf96b044a25f" label="Mixed Materials" type="Box">5 (2-Cash Books)</container>
+            <container id="aspace_58a269e734aeded4cbafd5f734a62518" parent="aspace_5dd16de4c29f91bbc07edf96b044a25f" type="Item">2</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_26">
+        <c02 id="aspace_dffa5f717f711204017971ff19178be5" level="file">
           <did>
-            <container type="Box">5</container>
-			<container type="Item">3</container>
             <unittitle>Room and Board Cash Receipts</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1961-07/1962-05">1961 July-1962 May</unitdate>
+            <unitdate normal="1961-07/1962-05" type="inclusive">1961 July-1962 May</unitdate>
+            <container id="aspace_147851628550888984265cbab4c1764f" label="Mixed Materials" type="Box">5 (2-Cash Books)</container>
+            <container id="aspace_3ce553d53d59e59a12069b176962d095" parent="aspace_147851628550888984265cbab4c1764f" type="Item">3</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_27">
+        <c02 id="aspace_a8f3d7489d0f510e349d405500de9834" level="file">
           <did>
-            <container type="Box">5</container>
-			<container type="Item">4</container>
             <unittitle>Brubacher Hall Cash Receipts</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1955-05/1956-12">1955 May-1956 December</unitdate>
+            <unitdate normal="1955-05/1956-12" type="inclusive">1955 May-1956 December</unitdate>
+            <container id="aspace_a8173e778e32b2d8630581a0ad04490b" label="Mixed Materials" type="Box">5 (2-Cash Books)</container>
+            <container id="aspace_141badc8d4530c17eb77fb5c29048232" parent="aspace_a8173e778e32b2d8630581a0ad04490b" type="Item">4</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_28">
+        <c02 id="aspace_41c874f323871ecc483ac7ea0a276b47" level="file">
           <did>
-            <container type="Box">5</container>
-			<container type="Item">5</container>
             <unittitle>Brubacher Hall Cash Receipts</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1960-07/1961-07">1960 July-1961 July</unitdate>
+            <unitdate normal="1960-07/1961-07" type="inclusive">1960 July-1961 July</unitdate>
+            <container id="aspace_841b40537b304f72ec7b5795e67cd0c6" label="Mixed Materials" type="Box">5 (2-Cash Books)</container>
+            <container id="aspace_c014028436c00baeae60c8bb5d08cead" parent="aspace_841b40537b304f72ec7b5795e67cd0c6" type="Item">5</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_29">
+        <c02 id="aspace_eadc62d3c2274507727783301a9c7869" level="file">
           <did>
-            <container type="Box">5</container>
-			<container type="Item">6</container>
             <unittitle>Brubacher Hall Cash Receipts</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1958-06/1959-08">1958 June-1959 August</unitdate>
+            <unitdate normal="1958-06/1959-08" type="inclusive">1958 June-1959 August</unitdate>
+            <container id="aspace_2cf5f0c6d91eb325bcc79bf646d3220c" label="Mixed Materials" type="Box">5 (2-Cash Books)</container>
+            <container id="aspace_54574e883bda383be97871296d66790c" parent="aspace_2cf5f0c6d91eb325bcc79bf646d3220c" type="Item">6</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_30">
+        <c02 id="aspace_a36ae12b029de2ae1dcea8f92ce92ca2" level="file">
           <did>
-            <container type="Box">5</container>
-			<container type="Item">7</container>
             <unittitle>Brubacher Hall Cash Receipts</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1959-08/1960-07">1959 August-1960 July</unitdate>
+            <unitdate normal="1959-08/1960-07" type="inclusive">1959 August-1960 July</unitdate>
+            <container id="aspace_69b4f3dd6f5cd6360e1b6881517e1943" label="Mixed Materials" type="Box">5 (2-Cash Books)</container>
+            <container id="aspace_3b17a6a5efdddb57a42ff21313d634b4" parent="aspace_69b4f3dd6f5cd6360e1b6881517e1943" type="Item">7</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_31">
+        <c02 id="aspace_186626ee15fd2e48b29e9f695252ecdd" level="file">
           <did>
-            <container type="Box">5</container>
-			<container type="Item">8</container>
             <unittitle>Brubacher Hall Cash Disbursements</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1953-06/1956-08">1953 June-1956 August</unitdate>
+            <unitdate normal="1953-06/1956-08" type="inclusive">1953 June-1956 August</unitdate>
+            <container id="aspace_c85e8165a0c847ec74cfd2211d274dbc" label="Mixed Materials" type="Box">5 (2-Cash Books)</container>
+            <container id="aspace_33a68c0bcfaaf4cd7c4ecd80b429c3e8" parent="aspace_c85e8165a0c847ec74cfd2211d274dbc" type="Item">8</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_32">
+        <c02 id="aspace_625c1fa6ed44071408eb1020471a23cc" level="file">
           <did>
-            <container type="Box">6</container>
-			<container type="Item">1</container>
             <unittitle>Circulation Statistics</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1929-01/1953-04">1929 January-1953 April</unitdate>
+            <unitdate normal="1929-01/1953-04" type="inclusive">1929 January-1953 April</unitdate>
+            <container id="aspace_ce5ee918c5921d319ebf0bc3a6b05e15" label="Mixed Materials" type="Box">6 (2-Cash Books)</container>
+            <container id="aspace_cc33781bc4651b3aa2bc70325219827f" parent="aspace_ce5ee918c5921d319ebf0bc3a6b05e15" type="Item">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_33">
+        <c02 id="aspace_4861ae0e7c105a24b30d136385005e74" level="file">
           <did>
-            <container type="Box">7</container>
-			<container type="Item">1</container>
             <unittitle>Book Stock Record (Additions and Withdrawals)</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1929/1965">1929-1965</unitdate>
+            <unitdate normal="1929/1965" type="inclusive">1929-1965</unitdate>
+            <container id="aspace_c307907157ac2865379f3c8a76864ffe" label="Mixed Materials" type="Box">7 (2-Cash Books)</container>
+            <container id="aspace_2841f9677539bbe4dfb1e48cf9f87405" parent="aspace_c307907157ac2865379f3c8a76864ffe" type="Item">1</container>
           </did>
         </c02>
-        <c02 id="nam_ua305-2_34">
+        <c02 id="aspace_b8ab4d0141c612831b8c78de653750d5" level="file">
           <did>
-            <container type="Box">7</container>
-			<container type="Item">2</container>
             <unittitle>Circulation Statistics</unittitle>
-            <unitdate calendar="gregorian" era="ce" normal="1953-04/1960-03">1953 April-1960 March</unitdate>
+            <unitdate normal="1953-04/1960-03" type="inclusive">1953 April-1960 March</unitdate>
+            <container id="aspace_385a8638505f15e512ead28040cd03c7" label="Mixed Materials" type="Box">7 (2-Cash Books)</container>
+            <container id="aspace_9b3743202304e2b2b5a48151e8c43c09" parent="aspace_385a8638505f15e512ead28040cd03c7" type="Item">2</container>
           </did>
         </c02>
       </c01>

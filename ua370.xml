@@ -1,97 +1,94 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ead id="nam_ua370">
-  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
-    <eadid countrycode="US" identifier="##" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/eresources/findingaids/ua370.html">nam_ua370</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="ua370">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua370.xml">ua370</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>OFFICE OF DIVERSITY AND INCLUSION RECORDS (UA370)<date normal="1970/2017" type="inclusive">1970-2017</date></titleproper>
+        <titleproper>Diversity and Inclusion, Office of; Records <num>ua370</num></titleproper>
         <author>unprocessed</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>M. E. Grenander Department of Special Collections and Archives</publisher>
-        <address>
-          <addressline>1400 Washington Avenue / Albany, New York 12222</addressline>
-        </address>
-        <date normal="2017" type="publication">Copyright 2017 By the University at Albany, SUNY. All rights reserved.</date>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2017</date>
+        </p>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>Benjamin Covell<date normal="2017-02-07">2017 February 7</date></creation>
-      <langusage>
-        <language encodinganalog="Language" langcode="eng">English</language>
-      </langusage>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-04-12 16:46:35 -0400</date>.</creation>
+      <langusage>English</langusage>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2017 February 7</date>
+        <item>Encoded in EAD by Benjamin Covell</item>
+      </change>
+    </revisiondesc>
   </eadheader>
-  <frontmatter>
-    <titlepage>
-      <titleproper>Office of Diversity and Inclusion Records<date normal="1970/2017" type="inclusive">1970-2017</date></titleproper>
-      <publisher/>
-      <date type="publication">Copyright 2017 By the University at Albany, SUNY. All rights reserved.</date>
-      <p>For reference queries contact Grenander Department Reference staff or (518)-437-3934</p>
-    </titlepage>
-  </frontmatter>
   <archdesc level="collection">
     <did>
-      <head>Descriptive Summary</head>
-      <unitid>nam_ua370</unitid>
-      <unittitle>Office of Diversity and Inclusion Records<unitdate label="Date:" normal="1970/2017" type="inclusive">1970-2017</unitdate></unittitle>
-      <abstract label="Abstract:">Records of the Office of Diversity and Inclusion and its predecessors.  Materials include administrative correspondence, committee and task force meeting materials, planning documentation, and assorted reports, all relating to issues of diversity, inclusion, equal employment, and discrimination.</abstract>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <origination>
-        <corpname encodinganalog="110" source="local">State University of New York at Albany. Office of Diversity and Inclusion</corpname>
-      </origination>
-      <physdesc>
-        <extent unit="cubic ft.">19.5</extent>
-      </physdesc>
-      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
-      <repository label="Repository:">
-        <corpname encodinganalog="610" source="local">M. E. Grenander Department of Special Collections and Archives, University at Albany, SUNY</corpname>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
+      <unittitle>Office of Diversity and Inclusion Records<unitdate normal="1970/2017" type="inclusive">1970-2017</unitdate></unittitle>
+      <origination label="creator">
+        <corpname source="local">State University of New York at Albany. Office of Diversity and Inclusion</corpname>
+      </origination>
+      <unitid>ua370</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">19.5 cubic ft.</extent>
+      </physdesc>
+      <abstract id="aspace_f93576a090908dc7765d6b9be8b575d7">Records of the Office of Diversity and Inclusion and its predecessors. Materials include administrative correspondence, committee and task force meeting materials, planning documentation, and assorted reports, all relating to issues of diversity, inclusion, equal employment, and discrimination.</abstract>
+      <langmaterial id="aspace_92dcd859bf4374b08a1417cb1628386b">English</langmaterial>
+      <physloc id="aspace_e1ef0ef0e66f3c4668ee0da0dd5aae1f">The materials are located onsite in the department.</physloc>
+      <container id="aspace_5cf39df3188951af85224f99f5afd01d" label="Mixed Materials" type="Collection">X</container>
     </did>
-    <accessrestrict>
+    <processinfo id="aspace_5568ff39f941f09997f715310c2c9705">
+      <head>Processing Information</head>
+      <p>Processed in 2017 by unprocessed.</p>
+    </processinfo>
+    <accessrestrict id="aspace_4946604e0d491efcb58fcfe63e3e189d">
       <head>Access</head>
       <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. Please contact an archivist for more information.</p>
     </accessrestrict>
-    <userestrict>
+    <userestrict id="aspace_b93a643c705d7b4c1922f526d7cbde1d">
       <head>Copyright</head>
       <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
-      <p>Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
-      <p>The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
-      <p>The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p> The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
     </userestrict>
-    <acqinfo>
+    <acqinfo id="aspace_5e072d47bdb7c565701da5c6447397ef">
       <head>Acquisition Information</head>
       <p>All items in this collection were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
     </acqinfo>
-    <bioghist>
+    <bioghist id="aspace_a45de6273ed03032638e3f01b8245a27">
       <head>Historical Note</head>
-      <p>The Office dates from the establishment of an Affirmative Action Program in 1971 in the Office of Personnel.  Previous titles include; Office of Equal Employment Opportunity, Affirmative Action Office, and Office of Diversity and Affirmative Action.  Currently called the Office of Diversity and Inclusion, it is responsible for providing diversity-related training and resources, addressing discrimination and harassment complaints, and consulting on recruiting and hiring.</p>
+      <p>The Office dates from the establishment of an Affirmative Action Program in 1971 in the Office of Personnel. Previous titles include; Office of Equal Employment Opportunity, Affirmative Action Office, and Office of Diversity and Affirmative Action. Currently called the Office of Diversity and Inclusion, it is responsible for providing diversity-related training and resources, addressing discrimination and harassment complaints, and consulting on recruiting and hiring.</p>
     </bioghist>
-    <scopecontent>
-      <head>Scope and Content Information</head>
-      <p>This collection includes affirmative action and recruitment plans; student surveys; workforce analysis documents; conference materials; daily correspondence (1974-1986); Federal compliance reports (1971); task force and committee materials including: the Women's Concerns Committee (1978-2000), the Black Action Coalition, and others.  Topics covered include: Section 504 (which addresses disability discrimination), Title IX, and equal employment.</p>
+    <scopecontent id="aspace_aa716fa560fc5a9488f2cc5acdc91566">
+      <head>Scope and Contents</head>
+      <p>This collection includes affirmative action and recruitment plans; student surveys; workforce analysis documents; conference materials; daily correspondence (1974-1986); Federal compliance reports (1971); task force and committee materials including: the Women's Concerns Committee (1978-2000), the Black Action Coalition, and others. Topics covered include: Section 504 (which addresses disability discrimination), Title IX, and equal employment.</p>
     </scopecontent>
-    <arrangement encodinganalog="351$a">
+    <arrangement id="aspace_a5471b1970be674e641107cd8ad968bc">
       <head>Arrangement of the Collection</head>
       <p>The collection is unprocessed and is likely disorganized. Individual items may be difficult to find.</p>
     </arrangement>
-    <prefercite>
+    <prefercite id="aspace_a0a7033193616cb93f569757263e5171">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p>Identification of specific item, series, box, folder, Office of Diversity and Inclusion Records, 1970-2017. M.E. Grenander Department of Special Collections and Archives, University  Libraries, University at Albany, State University of New York (hereafter referred to as the Office of Diversity and Inclusion Records).</p>
+      <p> Identification of specific item, series, box, folder, Office of Diversity and Inclusion Records, 1970-2017. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Office of Diversity and Inclusion Records).</p>
     </prefercite>
     <controlaccess>
-      <head>Subject and Genre Headings</head>
-      <subject source="meg" encodinganalog="650">Women</subject>
-      <corpname source="lcsh" encodinganalog="610">State University of New York at Albany</corpname>
-      <subject source="lcsh" encodinganalog="650">Affirmative action programs</subject>
-      <subject source="lcsh" encodinganalog="650">Affirmative action programs in education</subject>
-      <subject source="lcsh" encodinganalog="650">Discrimination in employment</subject>
-      <genreform source="aat" encodinganalog="655">administrative records</genreform>
-      <genreform source="aat" encodinganalog="655">administrative reports</genreform>
-      <genreform source="aat" encodinganalog="655">minutes (administrative records)</genreform>
+      <subject source="meg">Women</subject>
+      <subject source="lcsh">Affirmative action programs</subject>
+      <subject source="lcsh">Affirmative action programs in education</subject>
+      <subject source="lcsh">Discrimination in employment</subject>
+      <genreform source="aat">Administrative records</genreform>
+      <genreform source="aat">Administrative reports</genreform>
+      <genreform source="aat">Minutes (administrative records)</genreform>
+      <corpname source="lcsh">State University of New York at Albany</corpname>
     </controlaccess>
+    <dsc/>
   </archdesc>
 </ead>
