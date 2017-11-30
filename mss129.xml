@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" id="mss129">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=mss129.xml">mss129</eadid>
     <filedesc>
       <titlestmt>
@@ -16,7 +16,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-11-01 23:00:32 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-11-29 23:00:20 -0500</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -36,7 +36,7 @@
       <repository>
         <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
-      <unittitle>Bridge Line Historical Society Collection<unitdate normal="1870/2017" type="inclusive">1870-2004</unitdate></unittitle>
+      <unittitle>Bridge Line Historical Society Collection<unitdate normal="1870/2017" type="inclusive">1870-2017</unitdate></unittitle>
       <origination label="creator">
         <corpname source="lcsh">Bridge Line Historical Society</corpname>
       </origination>
@@ -47,12 +47,24 @@
       <abstract id="aspace_62ddb0cf7385f640274cf11213b00c63">The collection consist of the Bridge Line Historical Society's newsletter, as well as original maps, drawings, and related material documenting the Delaware &amp; Hudson Railway, a railroad that operated in the northeastern United States.</abstract>
       <langmaterial id="aspace_cf23c3c61f8290998220568da595805a">English</langmaterial>
       <physloc id="aspace_aebf3197eaa9ec78d188c461f3df6a50">The materials are located onsite in the department.</physloc>
-      <container id="aspace_2487f0d46051cf0be961dc424bf0ddcb" label="Mixed Materials" type="Collection">X</container>
+      <container id="aspace_f8c2c94d87f625e841f812898b7ec502" label="Mixed Materials" type="Collection">X</container>
     </did>
     <processinfo id="aspace_4e2b783f1d4292ceaa3ee2aebe77d29a">
       <head>Processing Information</head>
       <p>Processed in 2017 by Claire Robertson</p>
     </processinfo>
+    <accessrestrict id="aspace_d6e0935ef85f13d04e475b70e8104c97">
+      <head>Access</head>
+      <p>Access to this collection is unrestricted.</p>
+    </accessrestrict>
+    <userestrict id="aspace_3d79bc91cad64b9f4a85063398c141c6">
+      <head>Copyright</head>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
+    </userestrict>
+    <acqinfo id="aspace_dce933d973bc639973fbfdf1ea119a8f">
+      <head>Acquisition Information</head>
+      <p>All items in this manuscript group were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives in 2006, 2007, and 2015.</p>
+    </acqinfo>
     <bioghist id="aspace_74b18bd8b038ebfebdc5ca83cdb6cc90">
       <head>Biographical History</head>
       <p>The Bridge Line Historical Society was founded in 1990 to document the history of the Delaware &amp; Hudson Railway, a railroad that operated in the northeastern United States.</p>
@@ -65,27 +77,15 @@
       <head>Arrangement of the Collection</head>
       <p>The collection is arranged into three series:</p>
       <list type="ordered">
-        <item>Series 1: Administrative and Subject Files</item>
-        <item>Series 2: Maps, Blueprints, and Drawings</item>
-        <item>Series 3: Newsletters</item>
+        <item>Series 1: Administrative and Subject Files, 1907-1981</item>
+        <item>Series 2: Maps, Blueprints, and Drawings, 1870-2004</item>
+        <item>Series 3: Newsletters, 1991-2017</item>
       </list>
     </arrangement>
-    <acqinfo id="aspace_dce933d973bc639973fbfdf1ea119a8f">
-      <head>Acquisition Information</head>
-      <p>All items in this manuscript group were transferred to the University Libraries, M.E. Grenander Department of Special Collections and Archives in 2006, 2007, and 2015.</p>
-    </acqinfo>
-    <accessrestrict id="aspace_d6e0935ef85f13d04e475b70e8104c97">
-      <head>Access</head>
-      <p>Access to this collection is restricted because it is unprocessed. Portions of the collection may contain recent administrative records and/or personally identifiable information. While it is likely that portions of the collection may be viewed, access must be managed by an archivist.</p>
-    </accessrestrict>
-    <userestrict id="aspace_3d79bc91cad64b9f4a85063398c141c6">
-      <head>Copyright</head>
-      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
-    </userestrict>
     <prefercite id="aspace_a99216477bedf21c858ccaa763a7db38">
       <head>Preferred Citation</head>
       <p>Preferred citation for this material is as follows:</p>
-      <p> Identification of specific item, series, box, folder, Bridge Line Historical Society Collection . M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Bridge Line Historical Society).</p>
+      <p> Identification of specific item, series, box, folder, Bridge Line Historical Society Collection, 1870-2017. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Bridge Line Historical Society).</p>
     </prefercite>
     <controlaccess>
       <subject source="meg">Railways</subject>
@@ -100,10 +100,11 @@
       <c01 id="aspace_7ff6e493390bf401df13412ea7972447" level="series">
         <did>
           <unittitle>Administrative and Subject Files</unittitle>
+          <unitid>1</unitid>
           <physdesc altrender="whole">
-            <extent unit="cubic ft.">2</extent>
+            <extent unit="cubic ft.">4</extent>
           </physdesc>
-          <unitdate normal="1900/1980" type="inclusive">1900-1980</unitdate>
+          <unitdate normal="1907/1981" type="inclusive">1907-1981</unitdate>
         </did>
         <arrangement id="aspace_8a59f0c99c44ed4eef5faa4f805fabcf">
           <head>Arrangement</head>
@@ -111,15 +112,17 @@
         </arrangement>
         <scopecontent id="aspace_8c524f39594eaa1b9838964f73b22b2f">
           <head>Scope and Contents</head>
+          <p>This series is comprised of log books, receipts, account books, correspondence and other administrative documents.</p>
         </scopecontent>
       </c01>
       <c01 id="aspace_ecafc7f6a2c320eb90132d21369a59c8" level="series">
         <did>
           <unittitle>Maps, Blueprints, and Drawings</unittitle>
+          <unitid>1</unitid>
           <physdesc altrender="whole">
-            <extent unit="item">200</extent>
+            <extent unit="item">613</extent>
           </physdesc>
-          <unitdate normal="1900/2004" type="inclusive">1900-2004</unitdate>
+          <unitdate normal="1870/2004" type="inclusive">1870-2004</unitdate>
         </did>
         <scopecontent id="aspace_13ebe9c48df15d3b9c45368a0eab836c">
           <head>Scope and Contents</head>
@@ -129,6 +132,7 @@
       <c01 id="aspace_3dd832b0b0c7cee5a19fa354300b26ca" level="series">
         <did>
           <unittitle>Newsletters</unittitle>
+          <unitid>1</unitid>
           <physdesc altrender="whole">
             <extent unit="cubic ft.">2.2</extent>
           </physdesc>
