@@ -1,2 +1,2 @@
-# ArchivesSpace-ArcLight-Workflow
-Scripts to export collections from ArchivesSpace and index them in ArcLight
+# collections
+Versioning of collection metadata, currently encoded in EAD
