@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap112.xml">apap112</eadid><filedesc><titlestmt><titleproper>Appleby, Paul H.; Papers <num>apap112</num></titleproper><author>Amy C. Schindler</author></titlestmt><publicationstmt><publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher><p><date>2002</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-06-11 23:53:08 -0400</date>.</creation><langusage>English</langusage></profiledesc><revisiondesc><change><date>2016 December</date><item>Encoded in EAD by Jodi Boyle</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap112.xml">apap112</eadid><filedesc><titlestmt><titleproper>Appleby, Paul H.; Papers <num>apap112</num></titleproper><author>Amy C. Schindler</author></titlestmt><publicationstmt><publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher><p><date>2002</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-09-09 23:15:51 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
   <did>
-    <langmaterial>
-      <language langcode="eng">English</language>
-    </langmaterial>
     <repository>
       <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
     </repository>
     <unittitle>Paul H. Appleby Papers</unittitle>
-    <origination label="creator">
-      <persname source="lcsh">Appleby, Paul H., (Paul Henson), 1891-1963</persname>
-    </origination>
     <unitid>apap112</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.17 cubic ft.</extent>
     </physdesc>
     <unitdate normal="1944/1956" type="inclusive">1944-1956</unitdate>
     <abstract id="aspace_695649309c28cd654800ce224bac5f14">The Paul H. Appleby collection is composed of correspondence and Appleby's writings and speeches from his experience in government service.</abstract>
-    <langmaterial id="aspace_1e045cc7561bcc5d6c90a52644f88d94">English</langmaterial>
     <physloc id="aspace_48995414067aa7d05cf4269e2c094012">The materials are located onsite in the department.</physloc>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
   </did>
   <processinfo id="aspace_c79f86d9176117ef836008fc81c6fb28">
     <head>Processing Information</head>
@@ -54,6 +50,6 @@
     <persname source="lcsh">Appleby, Paul H., (Paul Henson), 1891-1963</persname>
     <corpname source="lcsh">United States--Bureau of the Budget</corpname>
   </controlaccess>
-  <dsc><c id="aspace_e8158fec6b5efb96ec222265bb0aa3a5" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1944/1946" type="inclusive">1944/1946</unitdate><container id="aspace_020b9be4e75b58a344c2615f6438c9fc" label="Mixed Materials" type="Box">1 (Paul H. Appleby Papers)</container><container id="aspace_a624231523990eb31f8a9f8a68a2465a" parent="aspace_020b9be4e75b58a344c2615f6438c9fc" type="Folder">1</container></did></c><c id="aspace_ab511af3e0f382c69701756413949195" level="file"><did><unittitle>Writings</unittitle><unitdate normal="1944/1956" type="inclusive">1944/1956</unitdate><unitdate normal="1944/1956" type="inclusive">Undated</unitdate><container id="aspace_43d585334f4f8237a7ec450312dc02dc" label="Mixed Materials" type="Box">1 (Paul H. Appleby Papers)</container><container id="aspace_9c139da315437218ffb2685341014010" parent="aspace_43d585334f4f8237a7ec450312dc02dc" type="Folder">2</container></did></c><c id="aspace_8337a71fb657d8e5e25893459731210b" level="file"><did><unittitle>Writings</unittitle><unitdate normal="1944/1956" type="inclusive">Undated</unitdate><container id="aspace_a5b3e74e50e66725c9cc76fd186b9b1b" label="Mixed Materials" type="Box">1 (Paul H. Appleby Papers)</container><container id="aspace_3d9c8fa704c71d3319e2742b5bc54e6a" parent="aspace_a5b3e74e50e66725c9cc76fd186b9b1b" type="Folder">3</container></did></c></dsc>
+  <dsc><c id="aspace_e8158fec6b5efb96ec222265bb0aa3a5" level="file"><did><unittitle>Correspondence</unittitle><unitdate calendar="gregorian" era="ce" normal="1944/1946" type="inclusive">1944/1946</unitdate><container id="aspace_f077b81cd60836acb6ab7eb7827445e9" label="Mixed Materials" type="Box">1 (Paul H. Appleby Papers)</container><container id="aspace_d12cd4512771fd497f86f25ba450dee9" parent="aspace_f077b81cd60836acb6ab7eb7827445e9" type="Folder">1</container></did></c><c id="aspace_ab511af3e0f382c69701756413949195" level="file"><did><unittitle>Writings</unittitle><unitdate calendar="gregorian" era="ce" normal="1944/1956" type="inclusive">1944/1956</unitdate><unitdate calendar="gregorian" era="ce" normal="1944/1956" type="inclusive">Undated</unitdate><container id="aspace_588d9b8ddf7102ef783f6c617f18ed75" label="Mixed Materials" type="Box">1 (Paul H. Appleby Papers)</container><container id="aspace_5ecb02a94ebc6a4b9c58a4218656d4a9" parent="aspace_588d9b8ddf7102ef783f6c617f18ed75" type="Folder">2</container></did></c><c id="aspace_8337a71fb657d8e5e25893459731210b" level="file"><did><unittitle>Writings</unittitle><unitdate calendar="gregorian" era="ce" normal="1944/1956" type="inclusive">Undated</unitdate><container id="aspace_602ab5ce7a837678c577a4e5ed2e0f17" label="Mixed Materials" type="Box">1 (Paul H. Appleby Papers)</container><container id="aspace_8c5b03f26bc11aaf50f28edb0314bce4" parent="aspace_602ab5ce7a837678c577a4e5ed2e0f17" type="Folder">3</container></did></c></dsc>
 </archdesc>
 </ead>

@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap182.xml">apap182</eadid><filedesc><titlestmt><titleproper>Capital Area Microcomputer Society; Newsletters <num>apap182</num></titleproper><author>Amy C. Schindler</author></titlestmt><publicationstmt><publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher><p><date>2004</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-05-08 23:00:08 -0400</date>.</creation><langusage>English</langusage></profiledesc><revisiondesc><change><date>2014</date><item>Encoded in EAD by Michele Tuohy</item></change></revisiondesc></eadheader><archdesc level="collection">
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap182.xml">apap182</eadid><filedesc><titlestmt><titleproper>Capital Area Microcomputer Society; Newsletters <num>apap182</num></titleproper><author>Amy C. Schindler</author></titlestmt><publicationstmt><publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher><p><date>2004</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-09-09 23:30:34 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
   <did>
-    <langmaterial>
-      <language langcode="eng">English</language>
-    </langmaterial>
     <repository>
       <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
     </repository>
     <unittitle>Capital Area Microcomputer Society Newsletters</unittitle>
-    <origination label="creator">
-      <corpname source="local">Capital Area Microcomputer Society</corpname>
-    </origination>
     <unitid>apap182</unitid>
     <physdesc altrender="whole">
       <extent altrender="materialtype spaceoccupied">0.17 cubic ft.</extent>
@@ -18,8 +12,10 @@
     </physdesc>
     <unitdate normal="1986/1999" type="inclusive">1986-1999</unitdate>
     <abstract id="aspace_a928b701ee502b81826764fe97240168">This collection contains newsletters from the Capital Area Microcomputer Society from 1986-1999.</abstract>
-    <langmaterial id="aspace_5066e1d971169d0375a2e3f314a67836">English</langmaterial>
     <physloc id="aspace_b470aa15af6fdd681f11e075b50af346">The materials are located onsite in the department.</physloc>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
   </did>
   <processinfo id="aspace_964fcb72df0c99c2f998d7ad475a643f">
     <head>Processing Information</head>
@@ -53,6 +49,6 @@
     <genreform source="aat">Newsletters</genreform>
     <corpname source="local">Capital Area Microcomputer Society Newsletters</corpname>
   </controlaccess>
-  <dsc><c id="aspace_759e94e78620ed81c38d7d8bcd1af289" level="file"><did><unittitle>Newsletters</unittitle><unitdate normal="1986/1992" type="inclusive">1986-1992</unitdate><container id="aspace_7e02282441cdcce3e1a481dcb0af9dca" label="Mixed Materials" type="Box">1 (Capital Area Microcomputer Society Newsletters)</container><container id="aspace_3d855c34c283e697b6458342274b4979" parent="aspace_7e02282441cdcce3e1a481dcb0af9dca" type="Folder">1</container></did></c><c id="aspace_cd2d0112f776e112ae395f351328294a" level="file"><did><unittitle>Newsletters</unittitle><unitdate normal="1993/1999" type="inclusive">1993-1999</unitdate><container id="aspace_ca37a7e6fd7265049c66ef9ba085a66f" label="Mixed Materials" type="Box">1 (Capital Area Microcomputer Society Newsletters)</container><container id="aspace_bc59b6721623ec87e37c639849a1d37f" parent="aspace_ca37a7e6fd7265049c66ef9ba085a66f" type="Folder">2</container></did></c></dsc>
+  <dsc><c id="aspace_759e94e78620ed81c38d7d8bcd1af289" level="file"><did><unittitle>Newsletters</unittitle><unitdate calendar="gregorian" era="ce" normal="1986/1992" type="inclusive">1986-1992</unitdate><container id="aspace_991014cda483d0f26c108ec7f9902795" label="Mixed Materials" type="Box">1 (Capital Area Microcomputer Society Newsletters)</container><container id="aspace_fc98fe91beb5207966d99f619843299f" parent="aspace_991014cda483d0f26c108ec7f9902795" type="Folder">1</container></did></c><c id="aspace_cd2d0112f776e112ae395f351328294a" level="file"><did><unittitle>Newsletters</unittitle><unitdate calendar="gregorian" era="ce" normal="1993/1999" type="inclusive">1993-1999</unitdate><container id="aspace_a1b182f61c68588a4a85226b7cb6a4eb" label="Mixed Materials" type="Box">1 (Capital Area Microcomputer Society Newsletters)</container><container id="aspace_40151cfeac5afacebf0239abd7ffef30" parent="aspace_a1b182f61c68588a4a85226b7cb6a4eb" type="Folder">2</container></did></c></dsc>
 </archdesc>
 </ead>
