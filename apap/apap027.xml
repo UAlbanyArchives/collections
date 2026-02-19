@@ -1,66 +1,527 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap027.xml">apap027</eadid><filedesc><titlestmt><titleproper type="filing">M.C. Lawton Civic &amp; Cultural Club; Records</titleproper><titleproper>M.C. Lawton Civic &amp; Cultural Club; Records <num>apap027</num></titleproper><author>Geoffrey A. Huth (1990), Nicholas Webb (2009)</author></titlestmt><publicationstmt><publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher><p><date>1990 April 10</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-09-29 00:09:19 -0400</date>.</creation></profiledesc><revisiondesc><change><date>2006</date><item>Revision done by Nicholas Webb</item></change><change><date>2012</date><item>Encoded in EAD by Amy Schwartz</item></change></revisiondesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
-    </repository>
-    <unittitle>M.C. Lawton Civic and Cultural Club Records</unittitle>
-    <unitid>apap027</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1.13 cubic ft.</extent>
-    </physdesc>
-    <unitdate normal="1921/2004" type="inclusive">1921-2004</unitdate>
-    <abstract id="aspace_99d50a58f855ddf1b75c8bafb64c3f42">The M.C. Lawton Civic and Cultural Club Records showcase the operations of the first black organization in Albany that was actively involved in community service and educational advancement, which was founded in 1919.</abstract>
-    <physloc id="aspace_fc5c32175b0abdbfd81e4a3bccac4ded">The materials are located onsite in the department.</physloc>
-    <langmaterial>
-      <language langcode="eng" scriptcode="Latn">English</language>
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap027.xml">apap027</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">M.C. Lawton Civic &amp; Cultural Club; Records</titleproper>
+        <titleproper>M.C. Lawton Civic &amp; Cultural Club; Records <num>apap027</num></titleproper>
+        <author>Geoffrey A. Huth (1990), Nicholas Webb (2009)</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>1990 April 10</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2026-02-19 01:00:02 -0500</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2006</date>
+        <item>Revision done by Nicholas Webb</item>
+      </change>
+      <change>
+        <date>2012</date>
+        <item>Encoded in EAD by Amy Schwartz</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
+      </repository>
+      <unittitle>M.C. Lawton Civic and Cultural Club Records</unittitle>
+      <unitid>apap027</unitid>
+      <unitid type="aspace_uri">/repositories/2/resources/611</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.13 cubic ft.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1921/2004" type="inclusive">1921-2004</unitdate>
+      <abstract id="aspace_99d50a58f855ddf1b75c8bafb64c3f42">The M.C. Lawton Civic and Cultural Club Records showcase the operations of the first black organization in Albany that was actively involved in community service and educational advancement, which was founded in 1919.</abstract>
+      <physloc id="aspace_fc5c32175b0abdbfd81e4a3bccac4ded">The materials are located onsite in the department.</physloc>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-  </did>
-  <processinfo id="aspace_93b2ff41721efeca163cba8c102061eb">
-    <head>Processing Information</head>
-<p>Processed in 1990 by Geoffrey A. Huth with additional processing in 2009 by Nicholas Webb.</p>  </processinfo>
-  <accessrestrict id="aspace_a21aafb5a16103fb5a964520c7caaae9">
-    <head>Access</head>
-<p>Access to this record group is unrestricted.</p>  </accessrestrict>
-  <userestrict id="aspace_3211ea36e7f6a538aa582fb13e05a4d4">
-    <head>Copyright</head>
-<p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>  </userestrict>
-  <acqinfo id="aspace_d46355db02dacf0c61e0b52fa9f125b1">
-    <head>Acquisition Information</head>
-<p>Items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by the M.C. Lawton Civic and Cultural Club, Inc. on April 17, 1990. An additional accession was received from Carol Praylor, President, in September 2004.</p>  </acqinfo>
-  <bioghist id="aspace_09f0bd286cd4cc2dc89a03838acf9823">
-    <head>Organizational Sketch</head>
-<p>The M.C. Lawton Club has its beginnings in the Women's Auxiliary of the 15th Infantry, a black unit active during World War I. At the end of the war, the members of the auxiliary decided to continue to associate as they had for the previous four years. In April 1919, the club was founded as the Marie C. Lawton Club in Albany, N.Y., as a branch of the Empire State Federation of Women's Clubs. The club's goals were to "promote the welfare of people wherein needed, and to assist in civic affairs."[1] The club was the first black organization in Albany actively involved in "community service, educational advancement, race relations and self-development."[2] An important activity of the club was its annual concert showcasing promising young black musicians. The Club regularly sponsored dances to support causes such as scholarships for college students and Haiti. In 1926/1927, the Club was involved in advocacy on a number of important issues including performances by minstrels in the Albany Public Schools and housing conditions in the city. Out of this work the Club developed a five-point plan whcih was eventually taken over by the Albany Inter-Racial Council. By 1955, the club had consistently begun to use the name M.C. Lawton Civic and Cultural Club.</p><p> The M.C. Lawton Club has close ties to other civic and cultural clubs in the Capital District, including the Albany Inter-Racial Council and the Community Chest. The club is affiliated with the Empire State Federation of Women's Clubs, Inc.; the Northeastern Association of Women's Clubs; and the National Association of Colored Women's Clubs, Inc.</p><p>  [1] M.C. Lawton Civic and Cultural Club, Inc. Constitution, 1955.</p><p>  [2] M.C. Lawton Civic and Cultural Club, Inc. Musical Program, 1978.</p>  </bioghist>
-  <scopecontent id="aspace_a2f4bffbdc8a245c22f1c6ec10f363fd">
-    <head>Scope and Contents</head>
-<p>The minutes (1927-65, 1971-75) of the M.C. Lawton Club are its most substantial records. The earliest minutes (1919-26) are missing, but the minutes that remain give a good picture of the activities of the organization and how well it met those goals. Only scattered minutes for 2002-2004 are available in this collection. The remainder of the Club's minutes remain in with its members. Especially interesting are the earlier minutes when the club fought for racial justice at the local level in the fields of housing, education, and employment, presenting black speakers such as Countee Cullen to the population as a whole and decrying minstrel shows.</p><p> The correspondence (1921-23, 1928-31, 1943, 1950, 1953-59, 1973, 1977-78) primarily concerns routine administrative matters. Although the correspondence covers a wide range of years, most of the correspondence dates from the 1920's, 1950's, and 1970's, and consists mainly of thank you notes or other routine correspondence.</p><p> The reports (1928, 1930, 1932, 1935, 1949, 1973, 1975) are not extensive, but these are full of information about the club's activities. The musical programs (1936, 1955, 1957, circa 1964, 1968, 1971, 1975-80, 1985-87) contain little additional information other than the programs, which do include brief historical sketches of the club.</p><p> For related records, see the records of the Empire State Federation of Women's Clubs, Inc. </p>  </scopecontent>
-  <arrangement id="aspace_84ec3f202fe693f3857f86805a05a614">
-    <head>Arrangement of the Collection</head>
-<p>The collection is organized into the following series:</p>    <list type="ordered">
-      <item>Series 1: Minutes, 1927-2004, .80 cubic ft.</item>
-      <item>Series 2: Subject Files, 1921-2004, .33 cubic ft.</item>
-    </list>
-<p>Series 1 is arranged chronologically while Series 2, is arranged alphabetically.</p>  </arrangement>
-  <prefercite id="aspace_c66718c735caebe19e123e6b52b7b0cb">
-    <head>Preferred Citation</head>
-<p>Preferred citation for this material is as follows:</p><p> Identification of specific item, series, box, folder, M.C. Lawton Civic and Cultural Club Records, 1921-2004. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the M.C. Lawton Civic and Cultural Club Records).</p>  </prefercite>
-  <controlaccess>
-    <subject source="meg">African Americans and Civil Rights Organizations</subject>
-    <subject source="meg">Women</subject>
-    <subject source="meg">Ethnic Groups</subject>
-    <subject source="meg">Albany, New York</subject>
-    <subject source="lcsh">Women--Societies and clubs</subject>
-    <subject source="lcsh">Women in nonprofit organizations</subject>
-    <geogname source="lcsh">Albany (N.Y.)</geogname>
-    <genreform source="aat">Clippings(information artifacts)</genreform>
-    <genreform source="aat">Correspondence</genreform>
-    <genreform source="aat">Membership</genreform>
-    <genreform source="aat">Minutes</genreform>
-    <genreform source="aat">Programs (documents)</genreform>
-    <genreform source="aat">Photographs</genreform>
-    <corpname source="local">M.C. Lawton Civic and Cultural Club</corpname>
-    <corpname source="lcsh">National Association of Colored Women's Clubs (U.S.)</corpname>
-  </controlaccess>
-  <dsc><c id="aspace_e29f2e58a2cb4da67742b75946f2fdb4" level="series"><did><unittitle>Minutes</unittitle><unitid>1</unitid><unitdate normal="1927/2004" type="inclusive">1927-2004</unitdate><physdesc><physfacet id="aspace_d1861181289ccf3c7bff82a188b146b7">0.80</physfacet></physdesc></did><arrangement id="aspace_daebe7ff085ea4a1746103ac483655b0"><head>Arrangement</head><p>Arranged chronologically.</p></arrangement><c id="aspace_cee3b3e2168dec800e4f60f327c9448f" level="file"><did><unittitle>Minutes</unittitle><unitdate calendar="gregorian" era="ce" normal="1927/1930" type="inclusive">ca. 1927-1930</unitdate><container id="aspace_00e1637a928d95c6d7c81c6c5d3e9afc" label="Mixed Materials" type="Box">1 (1-Minutes)</container><container id="aspace_0207e4086d6bbaf0470519aae3c69256" parent="aspace_00e1637a928d95c6d7c81c6c5d3e9afc" type="Folder">1</container></did></c><c id="aspace_b9e431054a505767dab8c422c44bd66e" level="file"><did><unittitle>Papers removed from 1927-1930 minute book</unittitle><unitdate calendar="gregorian" era="ce" normal="1927/1930" type="inclusive">1927-1930</unitdate><container id="aspace_9027834d27feff5ed7cb4aac9bc71392" label="Mixed Materials" type="Box">1 (1-Minutes)</container><container id="aspace_1a73035877a80fd3c8e35fc586f267cd" parent="aspace_9027834d27feff5ed7cb4aac9bc71392" type="Folder">2</container></did></c><c id="aspace_522c5f7bf9da4dcda06fae61cca1f44e" level="file"><did><unittitle>Minutes</unittitle><unitdate calendar="gregorian" era="ce" normal="1930/1932" type="inclusive">1930-1932</unitdate><container id="aspace_5a93f9df66b56e21a23088d30f5b28f7" label="Mixed Materials" type="Box">1 (1-Minutes)</container><container id="aspace_e3b39b10363dd95fcaa0974276c4e85c" parent="aspace_5a93f9df66b56e21a23088d30f5b28f7" type="Folder">3</container></did></c><c id="aspace_a1ecddcf6a183d6fe88492fe02217b37" level="file"><did><unittitle>Papers removed from 1930-1932 minute book</unittitle><unitdate calendar="gregorian" era="ce" normal="1930/1932" type="inclusive">1930-1932</unitdate><container id="aspace_39621e8fb286d2da62729d7c52d455d3" label="Mixed Materials" type="Box">1 (1-Minutes)</container><container id="aspace_6c5db2e77d31a132e9804c868f534a62" parent="aspace_39621e8fb286d2da62729d7c52d455d3" type="Folder">4</container></did></c><c id="aspace_dbc6dc9de8fed230c133b20e24968c09" level="file"><did><unittitle>Minutes</unittitle><unitdate calendar="gregorian" era="ce" normal="1932/1936" type="inclusive">1932-1936</unitdate><container id="aspace_30c0cfedba8c2e7ed20bb6b7d2b81bdc" label="Mixed Materials" type="Box">1 (1-Minutes)</container><container id="aspace_f2cba931184e3ca82e099466d164aace" parent="aspace_30c0cfedba8c2e7ed20bb6b7d2b81bdc" type="Folder">5</container></did></c><c id="aspace_5a07948c4f441d4fdeae95f5b25c3fca" level="file"><did><unittitle>Papers removed from 1932-1936 minute book</unittitle><unitdate calendar="gregorian" era="ce" normal="1932/1936" type="inclusive">1932-1936</unitdate><container id="aspace_49a3d3fa6191f657a5a833e87e83f33a" label="Mixed Materials" type="Box">1 (1-Minutes)</container><container id="aspace_84aa4a99199889c72cbaee227cb520b3" parent="aspace_49a3d3fa6191f657a5a833e87e83f33a" type="Folder">6</container></did></c><c id="aspace_53408d635de58c56a5b0d85665c5c920" level="file"><did><unittitle>Minutes</unittitle><unitdate calendar="gregorian" era="ce" normal="1937/1941" type="inclusive">1937-1941</unitdate><container id="aspace_47954c4b619cd2563d9eb294b01ebc97" label="Mixed Materials" type="Box">1 (1-Minutes)</container><container id="aspace_509fecee846f7e96272cbff0fdb1aa41" parent="aspace_47954c4b619cd2563d9eb294b01ebc97" type="Folder">7</container></did></c><c id="aspace_8e9da016453c8b53c5f3554b0579e29c" level="file"><did><unittitle>Minutes</unittitle><unitdate calendar="gregorian" era="ce" normal="1941/1951" type="inclusive">1941-1951</unitdate><container id="aspace_ba76ddfcb7c0d63bc9e507dd0201cc63" label="Mixed Materials" type="Box">1 (1-Minutes)</container><container id="aspace_15bf5ec631797c4472f61dbf7ec0af7d" parent="aspace_ba76ddfcb7c0d63bc9e507dd0201cc63" type="Folder">8</container></did></c><c id="aspace_0be6e41c5272b13a3e9a07ca0844cc3b" level="file"><did><unittitle>Minutes</unittitle><unitdate calendar="gregorian" era="ce" normal="1951/1957" type="inclusive">1951-1957</unitdate><container id="aspace_2500e98407f7313d5be1fe4e78d169a6" label="Mixed Materials" type="Box">2 (1-Minutes)</container><container id="aspace_56e4818a897763828943fcdc08a26422" parent="aspace_2500e98407f7313d5be1fe4e78d169a6" type="Folder">1</container></did></c><c id="aspace_105417839df3a8a23a304f26da7e3084" level="file"><did><unittitle>Papers removed from 1951-1957 minute book</unittitle><unitdate calendar="gregorian" era="ce" normal="1951/1957" type="inclusive">1951-1957</unitdate><container id="aspace_0843cbb4cfe194418adc6105683e2133" label="Mixed Materials" type="Box">2 (1-Minutes)</container><container id="aspace_30c3a1da1620a974f23e2fa6cbff7303" parent="aspace_0843cbb4cfe194418adc6105683e2133" type="Folder">2</container></did></c><c id="aspace_152cad54dd7c342b44bc078d4d476031" level="file"><did><unittitle>Minutes</unittitle><unitdate calendar="gregorian" era="ce" normal="1958/1965" type="inclusive">1958-1965</unitdate><container id="aspace_cdb7b30b30d9f4622babbfea9e525e6e" label="Mixed Materials" type="Box">2 (1-Minutes)</container><container id="aspace_1c9b6207112efa41fd44d19e3edaafb3" parent="aspace_cdb7b30b30d9f4622babbfea9e525e6e" type="Folder">3</container></did></c><c id="aspace_d0e9a88779c1c7bbcbeb3e2721911e52" level="file"><did><unittitle>Minutes</unittitle><unitdate calendar="gregorian" era="ce" normal="1971/1975" type="inclusive">1971-1975</unitdate><container id="aspace_bdf1263e2db1a9e3dffaef429c0c9cfa" label="Mixed Materials" type="Box">2 (1-Minutes)</container><container id="aspace_b240ca31660c143f7403f54093b1a115" parent="aspace_bdf1263e2db1a9e3dffaef429c0c9cfa" type="Folder">4</container></did></c><c id="aspace_e6b3c5c69721d83b77041b36367e4690" level="file"><did><unittitle>Minutes and Agenda</unittitle><unitdate calendar="gregorian" era="ce" normal="2002/2004" type="inclusive">2002-2004</unitdate><container id="aspace_c3b9c3ffff94fa9fdae08adfef6dfce5" label="Mixed Materials" type="Box">2 (1-Minutes)</container><container id="aspace_0408a3b75d97ed013a14069310d7fd60" parent="aspace_c3b9c3ffff94fa9fdae08adfef6dfce5" type="Folder">5</container></did></c></c><c id="aspace_4ee9909adb0301c9702c6282c52a1368" level="series"><did><unittitle>Subject Files</unittitle><unitid>2</unitid><unitdate normal="1921/2004" type="inclusive">1921-2004</unitdate><physdesc><physfacet id="aspace_62b871bfcc391d7ceb98e8c804baf9ca">0.33</physfacet></physdesc></did><arrangement id="aspace_b2bf4719c2e34c4a96b2165c55abbae2"><head>Arrangement</head><p>Arranged alphabetically.</p></arrangement><c id="aspace_0a69f987638f9b94e90a8e307e7569ec" level="file"><did><unittitle>Albany Inter-Racial Council</unittitle><unitdate calendar="gregorian" era="ce" normal="1929/1929" type="inclusive">1929</unitdate><unitdate calendar="gregorian" era="ce" normal="1956/1956" type="inclusive">1956</unitdate><container id="aspace_bd112634e933b2d5a4f3a29656a375fd" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_d1b54fccd9aa09e08c48aabab4886639" parent="aspace_bd112634e933b2d5a4f3a29656a375fd" type="Folder">1</container></did></c><c id="aspace_3a7fb6981f00d30112d2144897807983" level="file"><did><unittitle>Arbor Hill Community Dinner</unittitle><unitdate calendar="gregorian" era="ce" normal="1957/1957" type="inclusive">1957</unitdate><container id="aspace_a722ba10858d7a4262576beda6aaccc8" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_cfcff00bb5709076d44ed0ab7ca2851d" parent="aspace_a722ba10858d7a4262576beda6aaccc8" type="Folder">2</container></did></c><c id="aspace_3cadc9a5c8029ad7e0abc0cdde66d7ff" level="file"><did><unittitle>Awards Banquet Hosted by M.C. Lawton Club</unittitle><unitdate calendar="gregorian" era="ce" normal="1984/1984" type="inclusive">1984</unitdate><container id="aspace_65adb6e2e43a1252d67fb26a66cd9356" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_331eadeab2e9dde83845eae0917e9e13" parent="aspace_65adb6e2e43a1252d67fb26a66cd9356" type="Folder">3</container></did></c><c id="aspace_f0551079f13ffb5aaeabd8c87f3316f2" level="file"><did><unittitle>Awards to the M.C. Lawton Club</unittitle><unitdate calendar="gregorian" era="ce" normal="1973/1973" type="inclusive">1973</unitdate><unitdate calendar="gregorian" era="ce" normal="1975/1975" type="inclusive">1975</unitdate><unitdate calendar="gregorian" era="ce" normal="1979/1979" type="inclusive">1979</unitdate><unitdate calendar="gregorian" era="ce" normal="1983/1983" type="inclusive">1983</unitdate><container id="aspace_ffeaf9d207ca4b10a101542bbcf7f7b0" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_da0cc7279d9dce1b2a92e7cb79f39180" parent="aspace_ffeaf9d207ca4b10a101542bbcf7f7b0" type="Folder">4</container></did></c><c id="aspace_3562bf5e412f5b063d6e015aec583a4b" level="file"><did><unittitle>Child Health Meeting Notice</unittitle><unitdate calendar="gregorian" era="ce" normal="1941/1941" type="inclusive">1941</unitdate><container id="aspace_b98ffd0e260f35a6d38c2a7dabf15cc6" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_5a67ff4f7a74a1038a313d1510cbd75d" parent="aspace_b98ffd0e260f35a6d38c2a7dabf15cc6" type="Folder">5</container></did></c><c id="aspace_887978ebd796e267fe63d8a90de83b3d" level="file"><did><unittitle>Community Chest of Albany and Rensselaer</unittitle><unitdate calendar="gregorian" era="ce" normal="1955/1956" type="inclusive">1955-1956</unitdate><container id="aspace_e1c3ab669e0334f6aa5502b6f9e6655a" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_c32a47e315f71b3840c5a3300a57ed87" parent="aspace_e1c3ab669e0334f6aa5502b6f9e6655a" type="Folder">6</container></did></c><c id="aspace_0ce62b5740ed78fc42d07c0a4dddb767" level="file"><did><unittitle>Constitution</unittitle><unitdate calendar="gregorian" era="ce" normal="1955/1955" type="inclusive">1955</unitdate><container id="aspace_2c34d83c5562560af3709d1d2cf55b45" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_9ba1e52c262607f19c7850ff8cded344" parent="aspace_2c34d83c5562560af3709d1d2cf55b45" type="Folder">7</container></did></c><c id="aspace_07263b8f374fb8a78aaae5cc27b5046c" level="file"><did><unittitle>Constitution and Handbook</unittitle><unitdate calendar="gregorian" era="ce" normal="1999/1999" type="inclusive">1999</unitdate><container id="aspace_edf3c7e94e276e17b044a37182caa0c2" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_7a506d6637ea60129e5a37e121c99dce" parent="aspace_edf3c7e94e276e17b044a37182caa0c2" type="Folder">8</container></did></c><c id="aspace_19451d1d3fb7ac1061d563a05a721a38" level="file"><did><unittitle>Correspondence</unittitle><unitdate calendar="gregorian" era="ce" normal="1921/1923" type="inclusive">1921-1923</unitdate><unitdate calendar="gregorian" era="ce" normal="1928/1931" type="inclusive">1928-1931</unitdate><container id="aspace_7653513504e3565237cff3e4339b9d37" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_80852f7c451887cc6de036116e569f30" parent="aspace_7653513504e3565237cff3e4339b9d37" type="Folder">9</container></did></c><c id="aspace_46eb43724dab7f5696be7406b2968a9a" level="file"><did><unittitle>Correspondence</unittitle><unitdate calendar="gregorian" era="ce" normal="1943/1943" type="inclusive">1943</unitdate><unitdate calendar="gregorian" era="ce" normal="1950/1950" type="inclusive">1950</unitdate><unitdate calendar="gregorian" era="ce" normal="1953/1959" type="inclusive">1953-1959</unitdate><container id="aspace_e96f9563139ca05addbddc00496381f9" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_8599996872f3437a4db27a59f7920560" parent="aspace_e96f9563139ca05addbddc00496381f9" type="Folder">10</container></did></c><c id="aspace_d8807e907d3d2870b0ea8d50cf79aafb" level="file"><did><unittitle>Correspondence</unittitle><unitdate calendar="gregorian" era="ce" normal="1973/1973" type="inclusive">1973</unitdate><unitdate calendar="gregorian" era="ce" normal="1977/1978" type="inclusive">1977-1978</unitdate><unitdate calendar="gregorian" era="ce" normal="2002/2004" type="inclusive">2002-2004</unitdate><container id="aspace_f52a551d92d927b2793b088cf2da739b" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_2822c4612ed716462cd789d75c8db60a" parent="aspace_f52a551d92d927b2793b088cf2da739b" type="Folder">11</container></did></c><c id="aspace_c706001a60992cf97e5d13c3979cd847" level="file"><did><unittitle>Dinner Programs</unittitle><unitdate calendar="gregorian" era="ce" normal="1954/1956" type="inclusive">1954-1956</unitdate><unitdate calendar="gregorian" era="ce" normal="1969/1969" type="inclusive">1969</unitdate><container id="aspace_3afd316a19d6e7c0ea709e293ce5b5bc" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_afb05a34416a7dbc1e482d5beab11531" parent="aspace_3afd316a19d6e7c0ea709e293ce5b5bc" type="Folder">12</container></did></c><c id="aspace_7b3783b66566ba06eb8e8e02d8ea30e9" level="file"><did><unittitle>Empire State Federation of Women's Clubs, Inc., Events Hosted by M.C. Lawton Club, Programs and Financial Report</unittitle><unitdate calendar="gregorian" era="ce" normal="1994/1994" type="inclusive">1994</unitdate><unitdate calendar="gregorian" era="ce" normal="1998/1998" type="inclusive">1998</unitdate><unitdate calendar="gregorian" era="ce" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_51857bb51edd1b6a40dc9a26ccdb9e17" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_04441418974c0b037d39a4a94ecb7b45" parent="aspace_51857bb51edd1b6a40dc9a26ccdb9e17" type="Folder">13</container></did></c><c id="aspace_ce44daf52c27b36c3bed6fbef03c3c00" level="file"><did><unittitle>March on Washington Movement, Brochure</unittitle><unitdate calendar="gregorian" era="ce" normal="1914/1915" type="inclusive">1914-1915</unitdate><container id="aspace_759dc1c71e86fa16af2c422872894df3" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_71128bd0b6d36e7c993f8dbe557ade76" parent="aspace_759dc1c71e86fa16af2c422872894df3" type="Folder">14</container></did></c><c id="aspace_fa7bc57175ba4def1d7a0541bd69b8f8" level="file"><did><unittitle>Membership, Correspondence and List</unittitle><unitdate calendar="gregorian" era="ce" normal="2003/2004" type="inclusive">2003-2004</unitdate><container id="aspace_3798eba1fd7c9f631d3cd475e74b9d78" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_09088dda033ca2cc63b5c40185ed496a" parent="aspace_3798eba1fd7c9f631d3cd475e74b9d78" type="Folder">15</container></did></c><c id="aspace_1557d4bb6356adfacfda5b898e3f9f93" level="file"><did><unittitle>Mother and Daughter Banquest, Program</unittitle><unitdate calendar="gregorian" era="ce" normal="1953/1963" type="inclusive">ca. 1958</unitdate><container id="aspace_123829fdde25784f93fbafd2e847af64" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_de1ae93274fb15374000a34fbd6a45cb" parent="aspace_123829fdde25784f93fbafd2e847af64" type="Folder">16</container></did></c><c id="aspace_813a060eadb95e73f8d3efc1c9e500f9" level="file"><did><unittitle>Musical Programs</unittitle><unitdate calendar="gregorian" era="ce" normal="1936/1936" type="inclusive">1936</unitdate><unitdate calendar="gregorian" era="ce" normal="1955/1957" type="inclusive">1955-1957</unitdate><unitdate calendar="gregorian" era="ce" normal="1959/1969" type="inclusive">ca. 1964</unitdate><unitdate calendar="gregorian" era="ce" normal="1968/1971" type="inclusive">1968-1971</unitdate><unitdate calendar="gregorian" era="ce" normal="1975/1979" type="inclusive">1975-1979</unitdate><container id="aspace_0edb86b5628ffd21a999a60a8674a0a5" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_72395c0a2459c249332bad3c1794d59d" parent="aspace_0edb86b5628ffd21a999a60a8674a0a5" type="Folder">17</container></did></c><c id="aspace_afe3771b888c97d47958bfdfae50c860" level="file"><did><unittitle>Musical Programs</unittitle><unitdate calendar="gregorian" era="ce" normal="1980/1980" type="inclusive">1980</unitdate><unitdate calendar="gregorian" era="ce" normal="1985/1987" type="inclusive">1985-1987</unitdate><unitdate calendar="gregorian" era="ce" normal="1993/1993" type="inclusive">1993</unitdate><unitdate calendar="gregorian" era="ce" normal="2003/2003" type="inclusive">2003</unitdate><container id="aspace_99c233480a9440e12ef47d7211505404" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_bf862ae918a78c70af328c18605fc51b" parent="aspace_99c233480a9440e12ef47d7211505404" type="Folder">18</container></did></c><c id="aspace_0ee5a83922c512972f12f0b0ea66d2c9" level="file"><did><unittitle>News Clippings</unittitle><unitdate calendar="gregorian" era="ce" normal="1939/1939" type="inclusive">1939</unitdate><unitdate calendar="gregorian" era="ce" normal="1952/1952" type="inclusive">1952</unitdate><unitdate calendar="gregorian" era="ce" normal="1969/1969" type="inclusive">1969</unitdate><unitdate calendar="gregorian" era="ce" normal="1973/1980" type="inclusive">1973-1980</unitdate><unitdate calendar="gregorian" era="ce" normal="1988/1989" type="inclusive">1988-1989</unitdate><container id="aspace_e6f60be24dce5ceb424aabd10b95f1ea" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_adc418ebd38268f39d4ccb9549b5ca20" parent="aspace_e6f60be24dce5ceb424aabd10b95f1ea" type="Folder">19</container></did></c><c id="aspace_3d84e8f1cb6bed4c02c70c89928e29a0" level="file"><did><unittitle>News Clippings</unittitle><unitdate calendar="gregorian" era="ce" normal="1939/1939" type="inclusive">1939</unitdate><unitdate calendar="gregorian" era="ce" normal="1952/1952" type="inclusive">1952</unitdate><unitdate calendar="gregorian" era="ce" normal="1969/1980" type="inclusive">1969-1980</unitdate><unitdate calendar="gregorian" era="ce" normal="1988/1989" type="inclusive">1988-1989</unitdate><unitdate calendar="gregorian" era="ce" normal="2002/2003" type="inclusive">2002-2003</unitdate><container id="aspace_903f899df07981828e6f7560340182b0" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_19ca0e484c8187f176607e064263518c" parent="aspace_903f899df07981828e6f7560340182b0" type="Folder">20</container></did></c><c id="aspace_c6f0c47cdd4d08264150aa9fa89090fc" level="file"><did><unittitle>Photographs</unittitle><unitdate calendar="gregorian" era="ce" normal="1921/2004" type="inclusive">Undated</unitdate><container id="aspace_821e0c2599e2fac95b85a3707a17d786" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_e651c6edfaca17239790be3e8192413a" parent="aspace_821e0c2599e2fac95b85a3707a17d786" type="Folder">21</container></did></c><c id="aspace_e87d132881f7cec051458288ca9df218" level="file"><did><unittitle>President, Carol Praylor</unittitle><unitdate calendar="gregorian" era="ce" normal="2002/2003" type="inclusive">2002-2003</unitdate><container id="aspace_4359121e05f97d7007b4af72ea63351c" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_fa5ed814c0cf040c6446d006c6b55a58" parent="aspace_4359121e05f97d7007b4af72ea63351c" type="Folder">22</container></did></c><c id="aspace_5344b643033e7945116212f9a5e9fccf" level="file"><did><unittitle>Presidents and Vice Presidents, List</unittitle><unitdate calendar="gregorian" era="ce" normal="2002/2002" type="inclusive">2002</unitdate><container id="aspace_7ef94cf8e7287fab13adfc7481c0b281" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_4cca03279e44091cd36d985d72633fec" parent="aspace_7ef94cf8e7287fab13adfc7481c0b281" type="Folder">23</container></did></c><c id="aspace_b6f1c08636d240a4f7fde8d7f29efb12" level="file"><did><unittitle>Reports, Annual and Historian's</unittitle><unitdate calendar="gregorian" era="ce" normal="2002/2003" type="inclusive">2002-2003</unitdate><container id="aspace_5b26bb5f0d32298a4179e6f70317bb91" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_1f620526c2499c2c827cbcf8adc62b0a" parent="aspace_5b26bb5f0d32298a4179e6f70317bb91" type="Folder">24</container></did></c><c id="aspace_df5e92cfd198202cbed5a3c9db14cbc0" level="file"><did><unittitle>Reports on Annual Conventions of the Empire State Federation of Women's Clubs</unittitle><unitdate calendar="gregorian" era="ce" normal="1949/1949" type="inclusive">1949</unitdate><unitdate calendar="gregorian" era="ce" normal="1973/1973" type="inclusive">1973</unitdate><unitdate calendar="gregorian" era="ce" normal="1975/1975" type="inclusive">1975</unitdate><container id="aspace_e6f71e922ed6967945a6e43eca8a7c4e" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_6980bf388d121cfc3a9c0dc2788569df" parent="aspace_e6f71e922ed6967945a6e43eca8a7c4e" type="Folder">25</container></did></c><c id="aspace_f1fe5cd2594e8c595c3a3ead88a81a58" level="file"><did><unittitle>Reports to Empire State Federation of Women's Clubs</unittitle><unitdate calendar="gregorian" era="ce" normal="1928/1928" type="inclusive">1928</unitdate><unitdate calendar="gregorian" era="ce" normal="1930/1930" type="inclusive">1930</unitdate><unitdate calendar="gregorian" era="ce" normal="1932/1932" type="inclusive">1932</unitdate><unitdate calendar="gregorian" era="ce" normal="1935/1935" type="inclusive">1935</unitdate><container id="aspace_3f995821fd7d2e7b30984b1651d905b3" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_cb631257b2cb7d05e2aa6e6115e3c7e0" parent="aspace_3f995821fd7d2e7b30984b1651d905b3" type="Folder">26</container></did></c><c id="aspace_83c67a1e7772c2d0ef47f40ba3f0b7cf" level="file"><did><unittitle>Scholarship Recipients, List</unittitle><unitdate calendar="gregorian" era="ce" normal="2003/2003" type="inclusive">2003</unitdate><container id="aspace_c68e1c37971cc8eb2c469e5131744049" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_bd487eb763a4f552aaa3b6248fabec85" parent="aspace_c68e1c37971cc8eb2c469e5131744049" type="Folder">27</container></did></c><c id="aspace_bbdbf40a4d631e8e421823bdfff08f94" level="file"><did><unittitle>35th Anniversary Celebration, Invitation</unittitle><unitdate calendar="gregorian" era="ce" normal="1955/1955" type="inclusive">1955</unitdate><container id="aspace_0106cb658889bd67b48bbbbea98ab82f" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_63bbd350365f47f87db035900408532f" parent="aspace_0106cb658889bd67b48bbbbea98ab82f" type="Folder">28</container></did></c><c id="aspace_d94cb7588c7abfffa4f4ad5f982784ff" level="file"><did><unittitle>75th Anniversary Celebration, Program and Roster</unittitle><unitdate calendar="gregorian" era="ce" normal="1994/1995" type="inclusive">1994-1995</unitdate><container id="aspace_ab88865bbac7c5b54a53c7c21c7c9e0e" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_9c4c92b4259402ff8fbacf0736105f43" parent="aspace_ab88865bbac7c5b54a53c7c21c7c9e0e" type="Folder">29</container></did></c><c id="aspace_288ad223551bd52cb387a661bfcc6bcd" level="file"><did><unittitle>85th Anniversary Celebration, Program</unittitle><unitdate calendar="gregorian" era="ce" normal="2003/2003" type="inclusive">2003</unitdate><container id="aspace_b141b570f27af447287220e9a3a428ad" label="Mixed Materials" type="Box">3 (2-Subject Files)</container><container id="aspace_82125d58e27dc528c3e1e9dedf9de26a" parent="aspace_b141b570f27af447287220e9a3a428ad" type="Folder">30</container></did></c></c></dsc>
-</archdesc>
+    </did>
+    <processinfo id="aspace_93b2ff41721efeca163cba8c102061eb">
+      <head>Processing Information</head>
+      <p>Processed in 1990 by Geoffrey A. Huth with additional processing in 2009 by Nicholas Webb.</p>
+    </processinfo>
+    <accessrestrict id="aspace_a21aafb5a16103fb5a964520c7caaae9">
+      <head>Access</head>
+      <p>Access to this record group is unrestricted.</p>
+    </accessrestrict>
+    <userestrict id="aspace_3211ea36e7f6a538aa582fb13e05a4d4">
+      <head>Copyright</head>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
+    </userestrict>
+    <acqinfo id="aspace_d46355db02dacf0c61e0b52fa9f125b1">
+      <head>Acquisition Information</head>
+      <p>Items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives, by the M.C. Lawton Civic and Cultural Club, Inc. on April 17, 1990. An additional accession was received from Carol Praylor, President, in September 2004.</p>
+    </acqinfo>
+    <bioghist id="aspace_09f0bd286cd4cc2dc89a03838acf9823">
+      <head>Organizational Sketch</head>
+      <p>The M.C. Lawton Club has its beginnings in the Women's Auxiliary of the 15th Infantry, a black unit active during World War I. At the end of the war, the members of the auxiliary decided to continue to associate as they had for the previous four years. In April 1919, the club was founded as the Marie C. Lawton Club in Albany, N.Y., as a branch of the Empire State Federation of Women's Clubs. The club's goals were to "promote the welfare of people wherein needed, and to assist in civic affairs."[1] The club was the first black organization in Albany actively involved in "community service, educational advancement, race relations and self-development."[2] An important activity of the club was its annual concert showcasing promising young black musicians. The Club regularly sponsored dances to support causes such as scholarships for college students and Haiti. In 1926/1927, the Club was involved in advocacy on a number of important issues including performances by minstrels in the Albany Public Schools and housing conditions in the city. Out of this work the Club developed a five-point plan whcih was eventually taken over by the Albany Inter-Racial Council. By 1955, the club had consistently begun to use the name M.C. Lawton Civic and Cultural Club.</p>
+      <p> The M.C. Lawton Club has close ties to other civic and cultural clubs in the Capital District, including the Albany Inter-Racial Council and the Community Chest. The club is affiliated with the Empire State Federation of Women's Clubs, Inc.; the Northeastern Association of Women's Clubs; and the National Association of Colored Women's Clubs, Inc.</p>
+      <p>  [1] M.C. Lawton Civic and Cultural Club, Inc. Constitution, 1955.</p>
+      <p>  [2] M.C. Lawton Civic and Cultural Club, Inc. Musical Program, 1978.</p>
+    </bioghist>
+    <scopecontent id="aspace_a2f4bffbdc8a245c22f1c6ec10f363fd">
+      <head>Scope and Contents</head>
+      <p>The minutes (1927-65, 1971-75) of the M.C. Lawton Club are its most substantial records. The earliest minutes (1919-26) are missing, but the minutes that remain give a good picture of the activities of the organization and how well it met those goals. Only scattered minutes for 2002-2004 are available in this collection. The remainder of the Club's minutes remain in with its members. Especially interesting are the earlier minutes when the club fought for racial justice at the local level in the fields of housing, education, and employment, presenting black speakers such as Countee Cullen to the population as a whole and decrying minstrel shows.</p>
+      <p> The correspondence (1921-23, 1928-31, 1943, 1950, 1953-59, 1973, 1977-78) primarily concerns routine administrative matters. Although the correspondence covers a wide range of years, most of the correspondence dates from the 1920's, 1950's, and 1970's, and consists mainly of thank you notes or other routine correspondence.</p>
+      <p> The reports (1928, 1930, 1932, 1935, 1949, 1973, 1975) are not extensive, but these are full of information about the club's activities. The musical programs (1936, 1955, 1957, circa 1964, 1968, 1971, 1975-80, 1985-87) contain little additional information other than the programs, which do include brief historical sketches of the club.</p>
+      <p> For related records, see the records of the Empire State Federation of Women's Clubs, Inc. </p>
+    </scopecontent>
+    <arrangement id="aspace_84ec3f202fe693f3857f86805a05a614">
+      <head>Arrangement of the Collection</head>
+      <p>The collection is organized into the following series:</p>
+      <list type="ordered">
+        <item>Series 1: Minutes, 1927-2004, .80 cubic ft.</item>
+        <item>Series 2: Subject Files, 1921-2004, .33 cubic ft.</item>
+      </list>
+      <p>Series 1 is arranged chronologically while Series 2, is arranged alphabetically.</p>
+    </arrangement>
+    <prefercite id="aspace_c66718c735caebe19e123e6b52b7b0cb">
+      <head>Preferred Citation</head>
+      <p>Preferred citation for this material is as follows:</p>
+      <p> Identification of specific item, series, box, folder, M.C. Lawton Civic and Cultural Club Records, 1921-2004. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the M.C. Lawton Civic and Cultural Club Records).</p>
+    </prefercite>
+    <controlaccess>
+      <subject source="meg">African Americans and Civil Rights Organizations</subject>
+      <subject source="meg">Women</subject>
+      <subject source="meg">Ethnic Groups</subject>
+      <subject source="meg">Albany, New York</subject>
+      <subject source="lcsh">Women--Societies and clubs</subject>
+      <subject source="lcsh">Women in nonprofit organizations</subject>
+      <geogname source="lcsh">Albany (N.Y.)</geogname>
+      <genreform source="aat">Clippings(information artifacts)</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Membership</genreform>
+      <genreform source="aat">Minutes</genreform>
+      <genreform source="aat">Programs (documents)</genreform>
+      <genreform source="aat">Photographs</genreform>
+      <corpname source="local">M.C. Lawton Civic and Cultural Club</corpname>
+      <corpname source="lcsh">National Association of Colored Women's Clubs (U.S.)</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_e29f2e58a2cb4da67742b75946f2fdb4" level="series">
+        <did>
+          <unittitle>Minutes</unittitle>
+          <unitid>1</unitid>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/189100</unitid>
+          <unitdate datechar="creation" normal="1927/2004" type="inclusive">1927-2004</unitdate>
+          <physdesc>
+            <physfacet id="aspace_d1861181289ccf3c7bff82a188b146b7">0.80</physfacet>
+          </physdesc>
+        </did>
+        <arrangement id="aspace_daebe7ff085ea4a1746103ac483655b0">
+          <head>Arrangement</head>
+          <p>Arranged chronologically.</p>
+        </arrangement>
+        <c id="aspace_cee3b3e2168dec800e4f60f327c9448f" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189102</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1927/1930" type="inclusive">ca. 1927-1930</unitdate>
+            <container id="aspace_7aabd764154bb9da14f14dd3b4528487" label="Mixed Materials" type="Box">1 (1-Minutes)</container>
+            <container id="aspace_34ff0ff4a86b0ba886eba5b0cdf46f43" parent="aspace_7aabd764154bb9da14f14dd3b4528487" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_b9e431054a505767dab8c422c44bd66e" level="file">
+          <did>
+            <unittitle>Papers removed from 1927-1930 minute book</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189103</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1927/1930" type="inclusive">1927-1930</unitdate>
+            <container id="aspace_75a8c7363c653f32b7243fe47bdafd9c" label="Mixed Materials" type="Box">1 (1-Minutes)</container>
+            <container id="aspace_53c197d8ac93c4a28f08e342c72fe8e8" parent="aspace_75a8c7363c653f32b7243fe47bdafd9c" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_522c5f7bf9da4dcda06fae61cca1f44e" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189104</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1930/1932" type="inclusive">1930-1932</unitdate>
+            <container id="aspace_f5afb047c993c93a9450e6c9f631233f" label="Mixed Materials" type="Box">1 (1-Minutes)</container>
+            <container id="aspace_277227b15640ba0cb0b2cfd3579615c5" parent="aspace_f5afb047c993c93a9450e6c9f631233f" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_a1ecddcf6a183d6fe88492fe02217b37" level="file">
+          <did>
+            <unittitle>Papers removed from 1930-1932 minute book</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189105</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1930/1932" type="inclusive">1930-1932</unitdate>
+            <container id="aspace_c55d1d2c1eb603b0f95ef1e9ab44ad85" label="Mixed Materials" type="Box">1 (1-Minutes)</container>
+            <container id="aspace_c6ab949a6f43711dd3f391d24b68ebf5" parent="aspace_c55d1d2c1eb603b0f95ef1e9ab44ad85" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_53408d635de58c56a5b0d85665c5c920" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189108</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1941" type="inclusive">1937-1941</unitdate>
+            <container id="aspace_18c43ca2eaf8c23089a756748612e825" label="Mixed Materials" type="Box">1 (1-Minutes)</container>
+            <container id="aspace_3d17b0501666f94a193c31bf498ab69e" parent="aspace_18c43ca2eaf8c23089a756748612e825" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_0be6e41c5272b13a3e9a07ca0844cc3b" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189110</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1951/1957" type="inclusive">1951-1957</unitdate>
+            <container id="aspace_c31fbc89c6401adb5cbff8461cbb76e3" label="Mixed Materials" type="Box">2 (1-Minutes)</container>
+            <container id="aspace_753b5305db02b3ef7786347c8792a63c" parent="aspace_c31fbc89c6401adb5cbff8461cbb76e3" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_105417839df3a8a23a304f26da7e3084" level="file">
+          <did>
+            <unittitle>Papers removed from 1951-1957 minute book</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189111</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1951/1957" type="inclusive">1951-1957</unitdate>
+            <container id="aspace_5478f01fb5e53f8cb2391f52efd52fd8" label="Mixed Materials" type="Box">2 (1-Minutes)</container>
+            <container id="aspace_45e8ce586d11a9a589834921c7479669" parent="aspace_5478f01fb5e53f8cb2391f52efd52fd8" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_152cad54dd7c342b44bc078d4d476031" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189112</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1958/1965" type="inclusive">1958-1965</unitdate>
+            <container id="aspace_cd871eb4c777bd04e18311e9c9f90afa" label="Mixed Materials" type="Box">2 (1-Minutes)</container>
+            <container id="aspace_9cdae79486a6796afdf3f7b40872b915" parent="aspace_cd871eb4c777bd04e18311e9c9f90afa" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_d0e9a88779c1c7bbcbeb3e2721911e52" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189113</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1971/1975" type="inclusive">1971-1975</unitdate>
+            <container id="aspace_4dada25c449bb30eafaf14528d96c4d6" label="Mixed Materials" type="Box">2 (1-Minutes)</container>
+            <container id="aspace_11e60f64533c4314e8ca88b756fcbe33" parent="aspace_4dada25c449bb30eafaf14528d96c4d6" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_e6b3c5c69721d83b77041b36367e4690" level="file">
+          <did>
+            <unittitle>Minutes and Agenda</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189114</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2002/2004" type="inclusive">2002-2004</unitdate>
+            <container id="aspace_be9005ce9a7b8ca785a0510ca7fecfae" label="Mixed Materials" type="Box">2 (1-Minutes)</container>
+            <container id="aspace_17dcee364b2737e234ab803838b1f136" parent="aspace_be9005ce9a7b8ca785a0510ca7fecfae" type="Folder">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_4ee9909adb0301c9702c6282c52a1368" level="series">
+        <did>
+          <unittitle>Subject Files</unittitle>
+          <unitid>2</unitid>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/189101</unitid>
+          <unitdate datechar="creation" normal="1921/2004" type="inclusive">1921-2004</unitdate>
+          <physdesc>
+            <physfacet id="aspace_62b871bfcc391d7ceb98e8c804baf9ca">0.33</physfacet>
+          </physdesc>
+        </did>
+        <arrangement id="aspace_b2bf4719c2e34c4a96b2165c55abbae2">
+          <head>Arrangement</head>
+          <p>Arranged alphabetically.</p>
+        </arrangement>
+        <c id="aspace_0a69f987638f9b94e90a8e307e7569ec" level="file">
+          <did>
+            <unittitle>Albany Inter-Racial Council</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189115</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1929/1929" type="inclusive">1929</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_b8301a4ce6decd83b7aa9ffb4a06017a" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_33da3ec7974661f81214549ce1d9f8a6" parent="aspace_b8301a4ce6decd83b7aa9ffb4a06017a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_3a7fb6981f00d30112d2144897807983" level="file">
+          <did>
+            <unittitle>Arbor Hill Community Dinner</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189116</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container id="aspace_6e813befab56738bfc8a194aae8944b4" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_455e91c83c3a681e1568c7d6a1b662c8" parent="aspace_6e813befab56738bfc8a194aae8944b4" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_f0551079f13ffb5aaeabd8c87f3316f2" level="file">
+          <did>
+            <unittitle>Awards to the M.C. Lawton Club</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189118</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1973/1973" type="inclusive">1973</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1975/1975" type="inclusive">1975</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1979/1979" type="inclusive">1979</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_a1612094fde929cee455ae4b61368573" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_cae7501b44183c038ee60753ebcc3f3c" parent="aspace_a1612094fde929cee455ae4b61368573" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_3562bf5e412f5b063d6e015aec583a4b" level="file">
+          <did>
+            <unittitle>Child Health Meeting Notice</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189119</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container id="aspace_9e45466f1fc21217098ea571859f51b0" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_3a1969a9e2bcd7b5163bf591bae7eed2" parent="aspace_9e45466f1fc21217098ea571859f51b0" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_887978ebd796e267fe63d8a90de83b3d" level="file">
+          <did>
+            <unittitle>Community Chest of Albany and Rensselaer</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189120</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1955/1956" type="inclusive">1955-1956</unitdate>
+            <container id="aspace_503f1c1eb739975c24b2c25af6e02216" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_761cf917a0ea080ea2b1cea7ac4217c3" parent="aspace_503f1c1eb739975c24b2c25af6e02216" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_0ce62b5740ed78fc42d07c0a4dddb767" level="file">
+          <did>
+            <unittitle>Constitution</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189121</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1955/1955" type="inclusive">1955</unitdate>
+            <container id="aspace_91a5130816c1c7d26a40f2dc6e2f2bb5" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_cd4e4a74b07aa907404b368e17ca3a4f" parent="aspace_91a5130816c1c7d26a40f2dc6e2f2bb5" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_07263b8f374fb8a78aaae5cc27b5046c" level="file">
+          <did>
+            <unittitle>Constitution and Handbook</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189122</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container id="aspace_5b6daa0e65f9b2b053036e9aaf07ac06" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_dc241f040783e63994235735554a2242" parent="aspace_5b6daa0e65f9b2b053036e9aaf07ac06" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_19451d1d3fb7ac1061d563a05a721a38" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189123</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1921/1923" type="inclusive">1921-1923</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1928/1931" type="inclusive">1928-1931</unitdate>
+            <container id="aspace_dd40a5441fb6d8705a99a11797e0e639" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_54346759259353b82fc92decc9a2c9bc" parent="aspace_dd40a5441fb6d8705a99a11797e0e639" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_46eb43724dab7f5696be7406b2968a9a" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189124</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1943/1943" type="inclusive">1943</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1950/1950" type="inclusive">1950</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1953/1959" type="inclusive">1953-1959</unitdate>
+            <container id="aspace_b376437567ebd28b51c19ec37c43ea35" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_513c0a3c24ec40bf06ab1a98745292c7" parent="aspace_b376437567ebd28b51c19ec37c43ea35" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_d8807e907d3d2870b0ea8d50cf79aafb" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189125</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1973/1973" type="inclusive">1973</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2002/2004" type="inclusive">2002-2004</unitdate>
+            <container id="aspace_d6cc2ea9c7986ecddfc28b10323dce6b" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_394bddcfd6e8668d1d41a0b960735c20" parent="aspace_d6cc2ea9c7986ecddfc28b10323dce6b" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_c706001a60992cf97e5d13c3979cd847" level="file">
+          <did>
+            <unittitle>Dinner Programs</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189126</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1954/1956" type="inclusive">1954-1956</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_382b0b1d5c9334a11141eeb8721ceca6" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_87dcf161bde6e669575a4f41e8b0e75a" parent="aspace_382b0b1d5c9334a11141eeb8721ceca6" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_7b3783b66566ba06eb8e8e02d8ea30e9" level="file">
+          <did>
+            <unittitle>Empire State Federation of Women's Clubs, Inc., Events Hosted by M.C. Lawton Club, Programs and Financial Report</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189127</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1994/1994" type="inclusive">1994</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1998/1998" type="inclusive">1998</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2002/2002" type="inclusive">2002</unitdate>
+            <container id="aspace_014aa7b608bdd0389c24f3ae60938240" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_a44080a427d2909769bab817645dc111" parent="aspace_014aa7b608bdd0389c24f3ae60938240" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ce44daf52c27b36c3bed6fbef03c3c00" level="file">
+          <did>
+            <unittitle>March on Washington Movement, Brochure</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189128</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1914/1915" type="inclusive">1914-1915</unitdate>
+            <container id="aspace_5cc641b45ac3c4de38ba3124f4ea22fb" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_200088f37c2a903be8512ba63eb4f3fb" parent="aspace_5cc641b45ac3c4de38ba3124f4ea22fb" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_fa7bc57175ba4def1d7a0541bd69b8f8" level="file">
+          <did>
+            <unittitle>Membership, Correspondence and List</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189129</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2003/2004" type="inclusive">2003-2004</unitdate>
+            <container id="aspace_9db353c7b24e91ef857bee7bbef1e127" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_9fe529b88c1611d24fdaf9b60b7a8f00" parent="aspace_9db353c7b24e91ef857bee7bbef1e127" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_1557d4bb6356adfacfda5b898e3f9f93" level="file">
+          <did>
+            <unittitle>Mother and Daughter Banquest, Program</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189130</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1953/1963" type="inclusive">ca. 1958</unitdate>
+            <container id="aspace_89525a2bce16d5c8abec9a172fde8f7d" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_b2420c804ac3505036001164503d7a86" parent="aspace_89525a2bce16d5c8abec9a172fde8f7d" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_813a060eadb95e73f8d3efc1c9e500f9" level="file">
+          <did>
+            <unittitle>Musical Programs</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189131</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1936/1936" type="inclusive">1936</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1955/1957" type="inclusive">1955-1957</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1959/1969" type="inclusive">ca. 1964</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1968/1971" type="inclusive">1968-1971</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1975/1979" type="inclusive">1975-1979</unitdate>
+            <container id="aspace_7898b9fef10d14d75d2703d9d9a022b0" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_de38a3afa4661676c97bc5ce6e4b3d7a" parent="aspace_7898b9fef10d14d75d2703d9d9a022b0" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_afe3771b888c97d47958bfdfae50c860" level="file">
+          <did>
+            <unittitle>Musical Programs</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189132</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1980/1980" type="inclusive">1980</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1985/1987" type="inclusive">1985-1987</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1993/1993" type="inclusive">1993</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2003/2003" type="inclusive">2003</unitdate>
+            <container id="aspace_d0aad0f56325d9b2f457cff205b300cc" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_1093bf92aeeb11c4f900b314a1fce0b2" parent="aspace_d0aad0f56325d9b2f457cff205b300cc" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_0ee5a83922c512972f12f0b0ea66d2c9" level="file">
+          <did>
+            <unittitle>News Clippings</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189133</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1939/1939" type="inclusive">1939</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1952/1952" type="inclusive">1952</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1969/1969" type="inclusive">1969</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1973/1980" type="inclusive">1973-1980</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container id="aspace_db690480fe32989ac045090d2bdd23f9" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_5b4d99ec57a3c7b9dd09bbcb7e222986" parent="aspace_db690480fe32989ac045090d2bdd23f9" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_3d84e8f1cb6bed4c02c70c89928e29a0" level="file">
+          <did>
+            <unittitle>News Clippings</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189134</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1939/1939" type="inclusive">1939</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1952/1952" type="inclusive">1952</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1969/1980" type="inclusive">1969-1980</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2002/2003" type="inclusive">2002-2003</unitdate>
+            <container id="aspace_b874bd251ba0680c3779a153bda9b675" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_3f32a1ba405b550b890aca8db6eb7f59" parent="aspace_b874bd251ba0680c3779a153bda9b675" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_c6f0c47cdd4d08264150aa9fa89090fc" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189135</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1921/2004" type="inclusive">Undated</unitdate>
+            <container id="aspace_d1005507b7ff389ae83e9213992a1544" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_518d6c686f029ca9ee2d950952bc562a" parent="aspace_d1005507b7ff389ae83e9213992a1544" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_e87d132881f7cec051458288ca9df218" level="file">
+          <did>
+            <unittitle>President, Carol Praylor</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189136</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2002/2003" type="inclusive">2002-2003</unitdate>
+            <container id="aspace_b97dd87c3a77d3bca788524bb34bf6fd" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_452ab27931e9daabae32bc8bf564a745" parent="aspace_b97dd87c3a77d3bca788524bb34bf6fd" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_5344b643033e7945116212f9a5e9fccf" level="file">
+          <did>
+            <unittitle>Presidents and Vice Presidents, List</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189137</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2002/2002" type="inclusive">2002</unitdate>
+            <container id="aspace_bd4a7fa0235b4e00394cba3e3e5b799c" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_2b91f411532a9f1afd08b3c60f74bc6c" parent="aspace_bd4a7fa0235b4e00394cba3e3e5b799c" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_b6f1c08636d240a4f7fde8d7f29efb12" level="file">
+          <did>
+            <unittitle>Reports, Annual and Historian's</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189138</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2002/2003" type="inclusive">2002-2003</unitdate>
+            <container id="aspace_828801f27d46feb3176c77d06e30fa7a" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_b2e74dcd9f0400a9d65424a987a22abc" parent="aspace_828801f27d46feb3176c77d06e30fa7a" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_df5e92cfd198202cbed5a3c9db14cbc0" level="file">
+          <did>
+            <unittitle>Reports on Annual Conventions of the Empire State Federation of Women's Clubs</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189139</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1949/1949" type="inclusive">1949</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1973/1973" type="inclusive">1973</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_d9fc6d7cfec919925b16a1a4622d9eb1" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_01742f1eabd27330c750daebcee08e07" parent="aspace_d9fc6d7cfec919925b16a1a4622d9eb1" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_f1fe5cd2594e8c595c3a3ead88a81a58" level="file">
+          <did>
+            <unittitle>Reports to Empire State Federation of Women's Clubs</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189140</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1928/1928" type="inclusive">1928</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1930/1930" type="inclusive">1930</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1932/1932" type="inclusive">1932</unitdate>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container id="aspace_9ddee104511777823ee885caa193348f" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_a55d1174cb9032a8280287391f0d840f" parent="aspace_9ddee104511777823ee885caa193348f" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_83c67a1e7772c2d0ef47f40ba3f0b7cf" level="file">
+          <did>
+            <unittitle>Scholarship Recipients, List</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189141</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2003/2003" type="inclusive">2003</unitdate>
+            <container id="aspace_5d4445108ee4d3f219a3f6d6b91d29be" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_d2f3954c645f13734cb96a181490945f" parent="aspace_5d4445108ee4d3f219a3f6d6b91d29be" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_bbdbf40a4d631e8e421823bdfff08f94" level="file">
+          <did>
+            <unittitle>35th Anniversary Celebration, Invitation</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189142</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1955/1955" type="inclusive">1955</unitdate>
+            <container id="aspace_a8c218a52cc0d5876fea59faf122fa80" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_f83db665e2dcc2ccc4e3310242f8b16f" parent="aspace_a8c218a52cc0d5876fea59faf122fa80" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_d94cb7588c7abfffa4f4ad5f982784ff" level="file">
+          <did>
+            <unittitle>75th Anniversary Celebration, Program and Roster</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189143</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1994/1995" type="inclusive">1994-1995</unitdate>
+            <container id="aspace_e3c97db172f562cd8954c81eb5b3f26e" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_8507befa88992649929538bd279f4440" parent="aspace_e3c97db172f562cd8954c81eb5b3f26e" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_288ad223551bd52cb387a661bfcc6bcd" level="file">
+          <did>
+            <unittitle>85th Anniversary Celebration, Program</unittitle>
+            <unitid type="aspace_uri">/repositories/2/archival_objects/189144</unitid>
+            <unitdate calendar="gregorian" datechar="creation" era="ce" normal="2003/2003" type="inclusive">2003</unitdate>
+            <container id="aspace_f38a99529b1f07eadebc0ba0904e48be" label="Mixed Materials" type="Box">3 (2-Subject Files)</container>
+            <container id="aspace_d68d31b199363a883306521c2f1944cc" parent="aspace_f38a99529b1f07eadebc0ba0904e48be" type="Folder">29</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>
