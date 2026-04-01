@@ -1,51 +1,974 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua950.009.xml">ua950.009</eadid><filedesc><titlestmt><titleproper type="filing">University at Albany Magazine; Collection</titleproper><titleproper>University at Albany Magazine; Collection <num>ua950.009</num></titleproper><author>Erik Stolarski</author></titlestmt><publicationstmt><publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher><p><date>2016</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-06-03 23:03:36 -0400</date>.</creation></profiledesc><revisiondesc><change><date>2014</date><item>EAD file created</item></change><change><date>2016 October 27</date><item>Encoded in EAD by Erik Stolarski</item></change></revisiondesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
-    </repository>
-    <unittitle>University at Albany Magazine Collection</unittitle>
-    <unitid>ua950.009</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">2.66 cubic ft.</extent>
-    </physdesc>
-    <unitdate normal="1967/2014" type="inclusive">1967-2014</unitdate>
-    <abstract id="aspace_2bcf86cf591ea9bb01d8d4f421a550ef">This collection is made up of copies of the Carillon and University at Albany Magazine.</abstract>
-    <physloc id="aspace_bab782ec260dd19a0ca3317235b3da84">The materials are located onsite in the department.</physloc>
-    <langmaterial>
-      <language langcode="eng" scriptcode="Latn">English</language>
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=ua950.009.xml">ua950.009</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">University at Albany Magazine; Collection</titleproper>
+        <titleproper>University at Albany Magazine; Collection <num>ua950.009</num></titleproper>
+        <author>Erik Stolarski</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2016</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2026-04-01 01:05:06 -0400</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2014</date>
+        <item>EAD file created</item>
+      </change>
+      <change>
+        <date>2016 October 27</date>
+        <item>Encoded in EAD by Erik Stolarski</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
+      </repository>
+      <unittitle>University at Albany Magazine Collection</unittitle>
+      <unitid>ua950.009</unitid>
+      <unitid type="aspace_uri">/repositories/2/resources/542</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.66 cubic ft.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1967/2014" type="inclusive">1967-2014</unitdate>
+      <abstract id="aspace_2bcf86cf591ea9bb01d8d4f421a550ef">This collection is made up of copies of the Carillon and University at Albany Magazine.</abstract>
+      <physloc id="aspace_bab782ec260dd19a0ca3317235b3da84">The materials are located onsite in the department.</physloc>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-    <container id="aspace_b4d1189354991919db0ce6fba8a695ec" label="Mixed Materials" type="Collection">X</container>
-  </did>
-  <processinfo id="aspace_cc45b4c99898f5be651cc220c8500924">
-    <head>Processing Information</head>
-<p>Processed in 2016 by Erik Stolarski.</p>  </processinfo>
-  <bioghist id="aspace_99ef6457e64f0c599ba0b1420ddfc7d7">
-    <head>Administrative History</head>
-<p>The Carillon began publication in 1967, naming itself after the tower on the still newly built campus. It was a school newspaper detailing events on campus such as newly appointed faculty, sporting events, and alumni news. It was published by the Alumni Association. In the Spring of 1987 the University at Albany Magazine began publishing. The content was similar, focusing on campus events, giving alumni spotlights. It was published seasonally in the Fall, Winter, and Spring. The magazine was originally published by the University Relations Office. </p><p> In the Spring of 1992 the two publication combined being renamed the University at Albany Magazine, with The Carillon. The publication was larger, once again containing similar content as previously, and also contained information on research at the university, discussing the work of faculty. This continued this way until the Fall of 2000 when the title returned to being the University at Albany Magazine. The carillon was still in the publication, typically taking up the second half and consisting of alumni news and notes. The target of both these publications is Alumni, parents, and faculty of the University.</p>  </bioghist>
-  <scopecontent id="aspace_d7c406c248bf38978ec274c79c47f020">
-    <head>Scope and Contents</head>
-<p>The collection consists of the publication the Carillon and the University at Albany Magazine. The Carillon was published independently from 1967 to 1991. The collection also has the independent publication of the University at Albany Magazine dating from 1987 to 1991. In 1992 the publications merged together and have maintained this status up to today.</p>  </scopecontent>
-  <arrangement id="aspace_876208e7d78614056fbf2951886922c5">
-    <head>Arrangement of the Collection</head>
-<p>The collection is ordered chronologically.</p>  </arrangement>
-  <acqinfo id="aspace_124d158056dda4cddba39c4eab2b2376">
-    <head>Acquisition Information</head>
-<p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>  </acqinfo>
-  <accessrestrict id="aspace_25f60e6a9968a9d4f94ce07f52c01d5a">
-    <head>Access</head>
-<p>Access to this record group is unrestricted.</p>  </accessrestrict>
-  <userestrict id="aspace_70884c46fbc75112cdd005552b389b81">
-    <head>Copyright</head>
-<p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p><p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p><p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p><p> The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>  </userestrict>
-  <prefercite id="aspace_e80875272b1f9e1992e93a49d5799bd4">
-    <head>Preferred Citation</head>
-<p>Preferred citation for this material is as follows:</p><p> Identification of specific item, series, box, folder, University at Albany Magazine Collection, 1967-2014. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the UAlbany Magazine Collection).</p>  </prefercite>
-  <controlaccess>
-    <subject source="lcsh">Alumni and Alumnae</subject>
-    <subject source="lcsh">College Publications</subject>
-    <subject source="meg">UAlbany Reference Collections</subject>
-  </controlaccess>
-  <dsc><c id="aspace_b0c21085bd5f86b62c7581ac224a12e2" level="file"><did><unittitle>University at Albany Magazine, Volume 1, Number 1</unittitle><unitdate normal="1987-01/1987-01">1987 Spring</unitdate><container id="aspace_c9f7629bc8f0e218054a8c3c2b49c2d9" label="Mixed Materials" type="Box">1</container><container id="aspace_cbd3300cad7cc0f8728272d49911b037" parent="aspace_c9f7629bc8f0e218054a8c3c2b49c2d9" type="Folder">1</container></did></c><c id="aspace_bc7d2dc365ca7c8e2efd25bb02b741ed" level="file"><did><unittitle>University at Albany Magazine, Volume 2, Number 1</unittitle><unitdate normal="1987-09/1987-09">1987 Fall</unitdate><container id="aspace_9c72c6b8ce175da069f5b444f5ab9957" label="Mixed Materials" type="Box">1</container><container id="aspace_4ed5b0c0cbabeedf120a991109d1a500" parent="aspace_9c72c6b8ce175da069f5b444f5ab9957" type="Folder">2</container></did></c><c id="aspace_fc088764e03c4c76d918f6f683bddd27" level="file"><did><unittitle>University at Albany Magazine, Volume 2, Number 2</unittitle><unitdate normal="1988-01/1988-01">1988 Spring</unitdate><container id="aspace_b48cab1d53482500581200f17cb4ab3b" label="Mixed Materials" type="Box">1</container><container id="aspace_24b9f8194c1cf3e1ed5d0c60e8886b14" parent="aspace_b48cab1d53482500581200f17cb4ab3b" type="Folder">3</container></did></c><c id="aspace_aff2e092cf0e992f8a4f504a90cd7881" level="file"><did><unittitle>University at Albany Magazine, Volume 3, Number 1</unittitle><unitdate normal="1989-01/1989-01">1989 Winter</unitdate><container id="aspace_187b78a6f79dc10c64741293412b2043" label="Mixed Materials" type="Box">1</container><container id="aspace_5933b03e8c7cfb126a28abbaca829293" parent="aspace_187b78a6f79dc10c64741293412b2043" type="Folder">4</container></did></c><c id="aspace_73c952e06d39d1174cc54a7cdf72214c" level="file"><did><unittitle>University at Albany Magazine, Volume 3, Number 2</unittitle><unitdate normal="1989-09/1989-09">1989 Fall</unitdate><container id="aspace_a612a80749f46916f38d827bddfb01db" label="Mixed Materials" type="Box">1</container><container id="aspace_186b74c37b3c00430f6517292b1324d4" parent="aspace_a612a80749f46916f38d827bddfb01db" type="Folder">5</container></did></c><c id="aspace_112e32a486f4c981fbcc145f0436ec5f" level="file"><did><unittitle>University at Albany Magazine, Volume 4, Number 1</unittitle><unitdate normal="1990-06/1990-06">1990 Summer</unitdate><container id="aspace_53708f8dedcd14745024a34bd3d9613b" label="Mixed Materials" type="Box">1</container><container id="aspace_7efa104996f113d537c829fececb3e37" parent="aspace_53708f8dedcd14745024a34bd3d9613b" type="Folder">6</container></did></c><c id="aspace_e8c79b2a633df7bb0e0daeac0b0fe40b" level="file"><did><unittitle>University at Albany Magazine, Volume 4, Number 2</unittitle><unitdate normal="1991-01/1991-01">1991 Winter</unitdate><container id="aspace_e9e4bd6f1f57df15fe88deef2b330b2e" label="Mixed Materials" type="Box">1</container><container id="aspace_0dc1b5bd38e20c256662d8ad3e24d9b9" parent="aspace_e9e4bd6f1f57df15fe88deef2b330b2e" type="Folder">7</container></did></c><c id="aspace_f375b9b5544a9019ca3b397cac11aabd" level="file"><did><unittitle>Albany, University at Albany Magazine with The Carillion</unittitle><unitdate normal="1991-09/1991-09">1991 Fall</unitdate><container id="aspace_19396072f3c433e481a169848efd9112" label="Mixed Materials" type="Box">1</container><container id="aspace_c8afdb585d3cb4840f035ca3810cddef" parent="aspace_19396072f3c433e481a169848efd9112" type="Folder">8</container></did></c><c id="aspace_913aa58ee553d76eafc1ab42b586d147" level="file"><did><unittitle>Albany, University at Albany Magazine with The Carillion</unittitle><unitdate normal="1992-01/1992-01">1992 Spring</unitdate><container id="aspace_cb991876db2e4ac0866cd9343575fb36" label="Mixed Materials" type="Box">1</container><container id="aspace_9d4504e1ca6294e5bf63f19a745fd786" parent="aspace_cb991876db2e4ac0866cd9343575fb36" type="Folder">9</container></did></c><c id="aspace_d2fdf51c74cf9345d629f94008be2ea6" level="file"><did><unittitle>Albany, University at Albany Magazine with The Carillion</unittitle><unitdate normal="1992-09/1992-09">1992 Fall</unitdate><container id="aspace_d2bd533fded015328a9ea1e03b0bee97" label="Mixed Materials" type="Box">1</container><container id="aspace_d9f40fddd3a2aba6e57c669af87f9ff1" parent="aspace_d2bd533fded015328a9ea1e03b0bee97" type="Folder">10</container></did></c><c id="aspace_fdfb57fb06e0b9e9e90fe18488614ff6" level="file"><did><unittitle>Albany, University at Albany Magazine with The Carillion</unittitle><unitdate normal="1993-01/1993-01">1993 Spring</unitdate><container id="aspace_d62ee0394e31fd9a99aa36b115770f32" label="Mixed Materials" type="Box">1</container><container id="aspace_1fce10ab37fa2295fba4cee19846656b" parent="aspace_d62ee0394e31fd9a99aa36b115770f32" type="Folder">11</container></did></c><c id="aspace_9ee448770c8d46af91e4b318d98afcbc" level="file"><did><unittitle>Albany, University at Albany Magazine with The Carillion</unittitle><unitdate normal="1993-09/1993-09">1993 Fall</unitdate><container id="aspace_c5ecc0ffd9a5e782f3f13c5c5caeb5ec" label="Mixed Materials" type="Box">1</container><container id="aspace_7d7853c7435503792a227896ed6eda20" parent="aspace_c5ecc0ffd9a5e782f3f13c5c5caeb5ec" type="Folder">12</container></did></c><c id="aspace_1b9e3e82d7804211c7a9759f398533e9" level="file"><did><unittitle>Albany, University at Albany Magazine with The Carillion</unittitle><unitdate normal="1994-01/1994-01">1994 Spring</unitdate><container id="aspace_1d20f5592c44f099614e7c5359159c15" label="Mixed Materials" type="Box">1</container><container id="aspace_cfa9075d98331400d96ad0a7e84d47b2" parent="aspace_1d20f5592c44f099614e7c5359159c15" type="Folder">13</container></did><odd id="aspace_3904a77321a6220ba98f3b330a7bc0e9"><head>General</head><p>2 copies</p></odd></c><c id="aspace_c3e64ec6f9e7f5e13e30c5e98f7229ab" level="file"><did><unittitle>Albany, University at Albany Magazine with The Carillion</unittitle><unitdate normal="1994-09/1994-09">1994 Fall</unitdate><container id="aspace_e391e6d1ebd64d17e0609153ee566480" label="Mixed Materials" type="Box">1</container><container id="aspace_d0e87cc366dabfcbe57684379cd26b2e" parent="aspace_e391e6d1ebd64d17e0609153ee566480" type="Folder">14</container></did></c><c id="aspace_ffd3c0167f9df249f29de22bcebf6cf7" level="file"><did><unittitle>Albany, University at Albany Magazine with The Carillion</unittitle><unitdate normal="1995-01/1995-01">1995 Spring</unitdate><container id="aspace_8fd8275eeb8e88f94af7f31be7aec592" label="Mixed Materials" type="Box">1</container><container id="aspace_f516efee22990005234a780a2fb3902e" parent="aspace_8fd8275eeb8e88f94af7f31be7aec592" type="Folder">15</container></did></c><c id="aspace_a07c64729ffa5639767976aec719efee" level="file"><did><unittitle>Albany, University at Albany Magazine with The Carillion</unittitle><unitdate normal="1995-09/1995-09">1995 Fall</unitdate><container id="aspace_9a2a6fba661b967abb02d7eb58756de5" label="Mixed Materials" type="Box">1</container><container id="aspace_432c662f581e3496f1e8f8c52132eecc" parent="aspace_9a2a6fba661b967abb02d7eb58756de5" type="Folder">16</container></did></c><c id="aspace_d8b576ed2fcb7a386e80d1999fd05b5e" level="file"><did><unittitle>Albany, University at Albany Magazine with The Carillion</unittitle><unitdate normal="1996-01/1996-01">1996 Spring</unitdate><container id="aspace_df240c44193cb98e88ad927c84daac5c" label="Mixed Materials" type="Box">1</container><container id="aspace_bbe31c5f2d8bbe2438afce4eabca7d5b" parent="aspace_df240c44193cb98e88ad927c84daac5c" type="Folder">17</container></did></c><c id="aspace_264a161ea0423de392505b0dc2500c2e" level="file"><did><unittitle>Albany, University at Albany Magazine with The Carillion</unittitle><unitdate normal="1996-09/1996-09">1996 Fall</unitdate><container id="aspace_63377bf4410a5fce3b04490e92faa79d" label="Mixed Materials" type="Box">1</container><container id="aspace_9564812570db16db41febbe599e862ab" parent="aspace_63377bf4410a5fce3b04490e92faa79d" type="Folder">18</container><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/m613nd15x" xlink:show="embed" xlink:title="Online Object Uploaded through Hyrax UI" xlink:type="simple"><daodesc><p>Online Object Uploaded through Hyrax UI</p></daodesc></dao></did><odd id="aspace_045f5e372930edb87d9001a6d81f2957"><head>General</head><p>2 copies</p></odd></c><c id="aspace_e54f2eb41442fa5a59e36692a2b8d3fa" level="file"><did><unittitle>Albany, University at Albany Magazine with The Carillion</unittitle><unitdate normal="1997-01/1997-01">1997 Spring</unitdate><container id="aspace_9f3179e3f498a6af7f5397a11f424abb" label="Mixed Materials" type="Box">1</container><container id="aspace_2d01fac68037898bb2d502220b5a2f87" parent="aspace_9f3179e3f498a6af7f5397a11f424abb" type="Folder">19</container></did></c><c id="aspace_2cbd7cb09d6466b6e16a8843b8cc4a1d" level="file"><did><unittitle>Albany, University at Albany Magazine with The Carillion</unittitle><unitdate normal="1997-09/1997-09">1997 Fall</unitdate><container id="aspace_07a29a2e166a2f920aa5fa3945c7462c" label="Mixed Materials" type="Box">1</container><container id="aspace_ea6a6d77471c4bddec2fcb2f05588f61" parent="aspace_07a29a2e166a2f920aa5fa3945c7462c" type="Folder">20</container><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/ns064s26n" xlink:show="embed" xlink:title="Online Object Uploaded through Hyrax UI" xlink:type="simple"><daodesc><p>Online Object Uploaded through Hyrax UI</p></daodesc></dao></did></c><c id="aspace_cf9b23b9f89c37eae7a3321872ab24b1" level="file"><did><unittitle>Albany, University at Albany Magazine with The Carillion</unittitle><unitdate normal="1998-01/1998-01">1998 Spring</unitdate><container id="aspace_3ea120cb59ed29e5c71729b9d39e11e8" label="Mixed Materials" type="Box">1</container><container id="aspace_07a37b6a030c25bc83af43a96048c786" parent="aspace_3ea120cb59ed29e5c71729b9d39e11e8" type="Folder">21</container></did></c><c id="aspace_53105b3c686b5a106dd58b82db6327aa" level="file"><did><unittitle>Albany, University at Albany Magazine with The Carillion</unittitle><unitdate normal="1998-09/1998-09">1998 Fall</unitdate><container id="aspace_01ebf2ce3ebcdd79428ff4473f8a371a" label="Mixed Materials" type="Box">1</container><container id="aspace_5cc785eab0d254d6d5edd770d7b990e6" parent="aspace_01ebf2ce3ebcdd79428ff4473f8a371a" type="Folder">22</container></did></c><c id="aspace_613da22b5d7b340278984b103e25bf8a" level="file"><did><unittitle>Albany, University at Albany Magazine with The Carillion</unittitle><unitdate normal="1999-01/1999-01">1999 Spring</unitdate><container id="aspace_63f3171da0e7517dacec494487fd6e9c" label="Mixed Materials" type="Box">1</container><container id="aspace_c6160eb911ef8be50fc2b39bfd6e84a2" parent="aspace_63f3171da0e7517dacec494487fd6e9c" type="Folder">23</container></did></c><c id="aspace_439d030a2b9a54922e77c358f488ca97" level="file"><did><unittitle>Albany, University at Albany Magazine with The Carillion</unittitle><unitdate normal="1999-09/1999-09">1999 Fall</unitdate><container id="aspace_70204313846080869a8f3dc3f0bc9a4c" label="Mixed Materials" type="Box">1</container><container id="aspace_3f6b45182f67811d06ba861df0125010" parent="aspace_70204313846080869a8f3dc3f0bc9a4c" type="Folder">24</container></did></c><c id="aspace_a19de1e549e3500b926290be4a83bdb1" level="file"><did><unittitle>Albany Magazine</unittitle><unitdate normal="2000-01/2000-01">2000 January</unitdate><container id="aspace_8171fc12672d77607c8978bb72f7390c" label="Mixed Materials" type="Box">1</container><container id="aspace_d27221c1e8e8f72da07d3f5e7399cbd3" parent="aspace_8171fc12672d77607c8978bb72f7390c" type="Folder">25</container></did><odd id="aspace_4fa3386dcabeb64354283229b84dabc8"><head>General</head><p>2 copies</p></odd></c><c id="aspace_c0bb624df5ce0f2c13c349296bc8aba0" level="file"><did><unittitle>Albany Magazine</unittitle><unitdate normal="2000-03/2000-03">2000 Spring</unitdate><container id="aspace_b78eaefb692724a0f0097650eddc51a0" label="Mixed Materials" type="Box">1</container><container id="aspace_cf4e79f3c756fd0a544cebbf7a5f2490" parent="aspace_b78eaefb692724a0f0097650eddc51a0" type="Folder">26</container></did></c><c id="aspace_c6ed160bf186f368c539dcf7b3ebdf43" level="file"><did><unittitle>Albany Magazine</unittitle><unitdate normal="2000-09/2000-09">2000 Fall</unitdate><container id="aspace_5390133f5f342a1ae880b8fbe91ca9ba" label="Mixed Materials" type="Box">1</container><container id="aspace_7a3a1de30c6f1efbac256f1fc526e059" parent="aspace_5390133f5f342a1ae880b8fbe91ca9ba" type="Folder">27</container></did></c><c id="aspace_a93b7c2a9412d87623bab333ea056a3d" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2001-01/2001-01">2001 January</unitdate><container id="aspace_dfdd304b138eb828d2af47bf253870d6" label="Mixed Materials" type="Box">1</container><container id="aspace_d5f957f765548e820b02eef1fc51bbef" parent="aspace_dfdd304b138eb828d2af47bf253870d6" type="Folder">28</container></did></c><c id="aspace_4b29c42621cabd951e153922c403cb6d" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2001-03/2001-03">2001 Spring</unitdate><container id="aspace_50f66771f6858534af28186efb236b07" label="Mixed Materials" type="Box">1</container><container id="aspace_4e954f81ea766d1926ee7369d24b6329" parent="aspace_50f66771f6858534af28186efb236b07" type="Folder">29</container></did><odd id="aspace_0a19bea098d4acb5bbefc8c0b4c70844"><head>General</head><p>3 copies</p></odd></c><c id="aspace_f7cf1a03ee1803b2deb1eb664e0e9f80" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2001-09/2001-09">2001 Fall</unitdate><container id="aspace_5394e45a8a80d664894fd9d0e0f65fec" label="Mixed Materials" type="Box">1</container><container id="aspace_3d0286901cf8bf8f5246b50fb2405052" parent="aspace_5394e45a8a80d664894fd9d0e0f65fec" type="Folder">30</container></did><odd id="aspace_bd6a8b953c6a6c1a0941ccd5e579443e"><head>General</head><p>2 copies</p></odd></c><c id="aspace_a2fd69f775b7c0c0e2604cccd88bd599" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2002-01/2002-01">2002 January</unitdate><container id="aspace_6e020658a2c4adcc3adf03cc1015af0a" label="Mixed Materials" type="Box">1</container><container id="aspace_8438f7786d980f12548163cb7b8fa10b" parent="aspace_6e020658a2c4adcc3adf03cc1015af0a" type="Folder">31</container></did><odd id="aspace_9435512fb470c8fac1f95d7c7ddd995f"><head>General</head><p>2 copies</p></odd></c><c id="aspace_bc427fb4fccd0baa6e73f55a576acd56" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2002-03/2002-03">2002 Spring</unitdate><container id="aspace_66d41f8d540108d5c1d5462de1e0beb2" label="Mixed Materials" type="Box">1</container><container id="aspace_1bf73ed2998c1d85b65e7d5e0adb0562" parent="aspace_66d41f8d540108d5c1d5462de1e0beb2" type="Folder">32</container></did></c><c id="aspace_7046075d629719568a96f7bd6172dfaa" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2002-09/2002-09">2002 Fall</unitdate><container id="aspace_45d0f772411b18eeaad687d53b72a841" label="Mixed Materials" type="Box">1</container><container id="aspace_10d1a235bd1a77b57298d8b36d075bf8" parent="aspace_45d0f772411b18eeaad687d53b72a841" type="Folder">33</container></did><odd id="aspace_f4db4b99b575e78b842e0775a7477b09"><head>General</head><p>2 copies</p></odd></c><c id="aspace_28766e8dc5f18cb279b0dd8711c9e983" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2003-01/2003-01">2003 January</unitdate><container id="aspace_88d828b086339f84d086401b0171074d" label="Mixed Materials" type="Box">2</container><container id="aspace_1b4437e3edb6f9506758910baef0f86d" parent="aspace_88d828b086339f84d086401b0171074d" type="Folder">1</container></did></c><c id="aspace_a264246313223611da994f256e3b171c" level="file"><did><unittitle>UAlbany Magazine, Special Campaign Issue</unittitle><unitdate normal="2003-03/2003-03">2003 Spring</unitdate><container id="aspace_1339ab3c81bfd441c239279f9b205526" label="Mixed Materials" type="Box">2</container><container id="aspace_f8c90c3123f6c2250ebbee3c86aa129a" parent="aspace_1339ab3c81bfd441c239279f9b205526" type="Folder">2</container></did><odd id="aspace_6f331bd4c9cc239fb729ba1e4f1b8976"><head>General</head><p>2 copies</p></odd></c><c id="aspace_e01371cb9d8e4b198114051e5903bd9f" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2003-09/2003-09">2003 Fall</unitdate><container id="aspace_da0e5b349eb15e6b0b2d963557bb480e" label="Mixed Materials" type="Box">2</container><container id="aspace_53569ab45e0fcb35ef3b57c5acd61490" parent="aspace_da0e5b349eb15e6b0b2d963557bb480e" type="Folder">3</container></did><odd id="aspace_b864f2fb58a2a996ca36ea5107776ce6"><head>General</head><p>2 copies</p></odd></c><c id="aspace_fe75276363c62182ea65f11cf6d56729" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2004-01/2004-01">2004 January</unitdate><container id="aspace_ec9e3cc0c7aa7a7109a7f602babb7db1" label="Mixed Materials" type="Box">2</container><container id="aspace_1a3f023b509872676a384143b3a273f5" parent="aspace_ec9e3cc0c7aa7a7109a7f602babb7db1" type="Folder">4</container></did><odd id="aspace_803cafe9acb09fbcbc60fc943fb0eaa1"><head>General</head><p>2 copies</p></odd></c><c id="aspace_3e912a001d3a023ca52676154400e644" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2004-03/2004-03">2004 Spring</unitdate><container id="aspace_6841a7997ab98abbe7dcd9c3dae19970" label="Mixed Materials" type="Box">2</container><container id="aspace_779a29143a4398c27e62eee63c6f29ce" parent="aspace_6841a7997ab98abbe7dcd9c3dae19970" type="Folder">5</container></did></c><c id="aspace_52606463df5f956191b8e4912356e290" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2004-09/2004-09">2004 Fall</unitdate><container id="aspace_0710dcf1d532003e8ff617ed56f9a90b" label="Mixed Materials" type="Box">2</container><container id="aspace_f0e5f5f5306a61b00906c58f07f6c641" parent="aspace_0710dcf1d532003e8ff617ed56f9a90b" type="Folder">6</container></did><odd id="aspace_4777e20dccacdef282ea7c26f8f9bc4d"><head>General</head><p>2 copies</p></odd></c><c id="aspace_d4f16eeb3d4ee4f5333b7442d3fe1d31" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2005-01/2005-01">2005 January</unitdate><container id="aspace_f78533455cd0f8936661f78e65edc7f2" label="Mixed Materials" type="Box">2</container><container id="aspace_917a561792f9d8fc7234d73f4aa6f93f" parent="aspace_f78533455cd0f8936661f78e65edc7f2" type="Folder">7</container></did><odd id="aspace_138a5240615985f9fda503992958f6ff"><head>General</head><p>2 copies</p></odd></c><c id="aspace_9bd368aafc67ca36a954553cb0befb17" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2005-03/2005-03">2005 Spring</unitdate><container id="aspace_2e59f72785ba96faf110e6bbfd368bb5" label="Mixed Materials" type="Box">2</container><container id="aspace_25358b7433a8408d69c7564425f5da83" parent="aspace_2e59f72785ba96faf110e6bbfd368bb5" type="Folder">8</container></did></c><c id="aspace_11b1f10a0298f547564896e1541a0b6e" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2005-09/2005-09">2005 Fall</unitdate><container id="aspace_85f779d05b87fd97ea4353004ffcd1e7" label="Mixed Materials" type="Box">2</container><container id="aspace_76b8df09a570cee150f2c77bc9c12bd7" parent="aspace_85f779d05b87fd97ea4353004ffcd1e7" type="Folder">9</container></did><odd id="aspace_44f85bb1619c17fbb600b0277c1e13bf"><head>General</head><p>2 copies</p></odd></c><c id="aspace_08861715ae3e0aa8b96b64e9418ff158" level="file"><did><unittitle>UAlbany Magazine, Special Metropolitan New York Issue</unittitle><unitdate normal="2005-12/2005-12">2005 December</unitdate><container id="aspace_0d9b2629b39adf3452b58c83be4895ab" label="Mixed Materials" type="Box">2</container><container id="aspace_af0b6cc62b2dc7ea6c42f9bbad7be6b7" parent="aspace_0d9b2629b39adf3452b58c83be4895ab" type="Folder">10</container></did><odd id="aspace_b7098f0881d1426911fed8a1f33c5f78"><head>General</head><p>2 copies</p></odd></c><c id="aspace_7f761827a5dfa5a36bd3673755f3cec6" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2006-03/2006-03">2006 Spring</unitdate><container id="aspace_a33c801528237129b06e6e6fd9e9f760" label="Mixed Materials" type="Box">2</container><container id="aspace_e9ff88640db6886e4dc053c8cfdaca73" parent="aspace_a33c801528237129b06e6e6fd9e9f760" type="Folder">11</container></did><odd id="aspace_182007b1ca603c794431b21a6d6fd60b"><head>General</head><p>2 copies</p></odd></c><c id="aspace_19e7cf0c22dbdc911ed3764971f54c8f" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2006-09/2006-09">2006 Fall</unitdate><container id="aspace_b409acc29399ce448de0b6ae116a3f76" label="Mixed Materials" type="Box">2</container><container id="aspace_a2075d4fc89545ac693d9bc1cafbd724" parent="aspace_b409acc29399ce448de0b6ae116a3f76" type="Folder">12</container></did><odd id="aspace_a371e0f85935dea55d9d8c86d7caaebf"><head>General</head><p>2 copies</p></odd></c><c id="aspace_79829758990471aba892959c6622f776" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2007-03/2007-03">2007 Spring</unitdate><container id="aspace_9f723a63e98327fe6deb029acfcc0c7c" label="Mixed Materials" type="Box">2</container><container id="aspace_706432fa2ff69d1517d7610def37010e" parent="aspace_9f723a63e98327fe6deb029acfcc0c7c" type="Folder">13</container><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/1v53k479m" xlink:show="embed" xlink:title="1v53k479m" xlink:type="simple"><daodesc><p>1v53k479m</p></daodesc></dao></did><odd id="aspace_f2da6745f51556ecb52c5391bbcc0f67"><head>General</head><p>2 copies</p></odd></c><c id="aspace_f8035d71bf0cf157235c129e126d63ab" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2007-09/2007-09">2007 Fall</unitdate><container id="aspace_ffa58a34180e29c8475df261ffb1872e" label="Mixed Materials" type="Box">2</container><container id="aspace_36b904bc7d666e165b99ecd4f8692c81" parent="aspace_ffa58a34180e29c8475df261ffb1872e" type="Folder">14</container><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/ks65hk32v" xlink:show="embed" xlink:title="ks65hk32v" xlink:type="simple"><daodesc><p>ks65hk32v</p></daodesc></dao></did><odd id="aspace_1e4fa64a69b2f8c75153342da3546009"><head>General</head><p>2 copies</p></odd></c><c id="aspace_0530859c37df1e06437b773646d273df" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2008-01/2008-01">2008 Winter</unitdate><container id="aspace_8c6aa36e90208b4c8ec7268d527b22ac" label="Mixed Materials" type="Box">2</container><container id="aspace_3da062097a0649dca0a6fa99eff84c37" parent="aspace_8c6aa36e90208b4c8ec7268d527b22ac" type="Folder">15</container><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/r494vs69h" xlink:show="embed" xlink:title="r494vs69h" xlink:type="simple"><daodesc><p>r494vs69h</p></daodesc></dao></did><odd id="aspace_26ff0cc7fd34bc5cdd45f35e989c8b8f"><head>General</head><p>2 copies</p></odd></c><c id="aspace_de7ce8e4bf00d15aa525a34ca6149540" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2008-09/2008-09">2008 Fall</unitdate><container id="aspace_ea9d3b113206e9f59005ae6423c3fd2f" label="Mixed Materials" type="Box">2</container><container id="aspace_cefa7ff76b1befaf1a05246b10fe77ed" parent="aspace_ea9d3b113206e9f59005ae6423c3fd2f" type="Folder">16</container><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/hx11xn68v" xlink:show="embed" xlink:title="hx11xn68v" xlink:type="simple"><daodesc><p>hx11xn68v</p></daodesc></dao></did><odd id="aspace_7398ff992e907ffdf7291d4cfca3c8ba"><head>General</head><p>2 copies</p></odd></c><c id="aspace_f9a64db847ff71d08e90d75ddc4483c2" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2009-03/2009-03">2009 Spring</unitdate><container id="aspace_6c23f84196fad6c7bf789ed8623b58bb" label="Mixed Materials" type="Box">2</container><container id="aspace_a0377748ab4c5df67696a80cad6a406c" parent="aspace_6c23f84196fad6c7bf789ed8623b58bb" type="Folder">17</container><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/f4752q501" xlink:show="embed" xlink:title="f4752q501" xlink:type="simple"><daodesc><p>f4752q501</p></daodesc></dao></did><odd id="aspace_b8f3670656a6379e7605f2285f06ebaf"><head>General</head><p>2 copies</p></odd></c><c id="aspace_ae9b2843ffaaecbc4fc956017338800c" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2009-09/2009-09">2009 Fall</unitdate><container id="aspace_d448c9bd3e7df0b08941150acdfe2e71" label="Mixed Materials" type="Box">2</container><container id="aspace_eaa94f120d366448fd8f288cb7b7dcf9" parent="aspace_d448c9bd3e7df0b08941150acdfe2e71" type="Folder">18</container><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/wm117w25t" xlink:show="embed" xlink:title="wm117w25t" xlink:type="simple"><daodesc><p>wm117w25t</p></daodesc></dao></did><odd id="aspace_67ae426440fab1889032e23e871305d1"><head>General</head><p>2 copies</p></odd></c><c id="aspace_23897f1d5319aafeeba3d4d693191196" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2010-03/2010-03">2010 Spring</unitdate><container id="aspace_9452aff7110581d89a7c8962ecde232d" label="Mixed Materials" type="Box">2</container><container id="aspace_f9fda247c48d1bffa178db68d9161ccd" parent="aspace_9452aff7110581d89a7c8962ecde232d" type="Folder">19</container><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/cj82kf694" xlink:show="embed" xlink:title="cj82kf694" xlink:type="simple"><daodesc><p>cj82kf694</p></daodesc></dao></did><odd id="aspace_58327f8cf2c8cdce5a33ae20627ef212"><head>General</head><p>2 copies</p></odd></c><c id="aspace_280b7f5a3759f56e1abf694c0d48d40a" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2010-09/2010-09">2010 Fall</unitdate><container id="aspace_9e545910a36f57021e1db96f50c6711a" label="Mixed Materials" type="Box">2</container><container id="aspace_2018908eec420d17c607c924f9870674" parent="aspace_9e545910a36f57021e1db96f50c6711a" type="Folder">20</container><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/c821gs330" xlink:show="embed" xlink:title="c821gs330" xlink:type="simple"><daodesc><p>c821gs330</p></daodesc></dao></did></c><c id="aspace_d9ff6da9b34630bbdc1f8cdc68fed822" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2011-03/2011-03">2011 Spring</unitdate><container id="aspace_059b9b2c87fc7a4f58aa91bf4559a6e0" label="Mixed Materials" type="Box">2</container><container id="aspace_a7450562d161c3f937c28f8cd281397b" parent="aspace_059b9b2c87fc7a4f58aa91bf4559a6e0" type="Folder">21</container><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/ms35th305" xlink:show="embed" xlink:title="ms35th305" xlink:type="simple"><daodesc><p>ms35th305</p></daodesc></dao></did><odd id="aspace_7062b3afd167df1739857aa8ff1f2677"><head>General</head><p>2 copies</p></odd></c><c id="aspace_755d0f72a1f236b7e115ddd4c771a63c" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2011-09/2011-09">2011 Fall</unitdate><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/n009w837p" xlink:show="embed" xlink:title="n009w837p" xlink:type="simple"><daodesc><p>n009w837p</p></daodesc></dao></did></c><c id="aspace_520e0798f7cd35dbfafe30e9cc988730" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2012-03/2012-03">2012 Spring</unitdate><container id="aspace_dbb47e64271a35c70d5f5f97824d907a" label="Mixed Materials" type="Box">3</container><container id="aspace_cd812fb1360a59a94cc2dc3e3ed962ba" parent="aspace_dbb47e64271a35c70d5f5f97824d907a" type="Folder">1</container><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/m326m8050" xlink:show="embed" xlink:title="m326m8050" xlink:type="simple"><daodesc><p>m326m8050</p></daodesc></dao></did><odd id="aspace_ded2bb92a549eb1f681736ed3b2d25b8"><head>General</head><p>2 copies</p></odd></c><c id="aspace_4bfa4fbf9b4d90197a8407fe67eeb7be" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2012-09/2012-09">2012 Fall</unitdate><container id="aspace_dce78c76bc3350765f5217503d9dd960" label="Mixed Materials" type="Box">3</container><container id="aspace_6308ef4a1f42281110b3d0854f563e0a" parent="aspace_dce78c76bc3350765f5217503d9dd960" type="Folder">2</container><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/7p88cq22t" xlink:show="embed" xlink:title="7p88cq22t" xlink:type="simple"><daodesc><p>7p88cq22t</p></daodesc></dao></did><odd id="aspace_d17ca5ccd681de17f4ee2b5793065626"><head>General</head><p>2 copies</p></odd></c><c id="aspace_b8a4fd95d2896acebe6e060c7534b613" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2013-03/2013-03">2013 Spring</unitdate><container id="aspace_9542fea8aef70a00a3f02e3d778e6d23" label="Mixed Materials" type="Box">3</container><container id="aspace_08021205ac254e63227cee2c83edb8ac" parent="aspace_9542fea8aef70a00a3f02e3d778e6d23" type="Folder">3</container><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/zw12zc92z" xlink:show="embed" xlink:title="zw12zc92z" xlink:type="simple"><daodesc><p>zw12zc92z</p></daodesc></dao></did></c><c id="aspace_a9538075720cf2fe973797cc1080a065" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2013-09/2013-09">2013 Fall</unitdate><container id="aspace_8024099943fff35a8b13bb3b43a0da90" label="Mixed Materials" type="Box">3</container><container id="aspace_5526fa33113f745c23bfaed8f74dfc5e" parent="aspace_8024099943fff35a8b13bb3b43a0da90" type="Folder">4</container><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/nv935913h" xlink:show="embed" xlink:title="nv935913h" xlink:type="simple"><daodesc><p>nv935913h</p></daodesc></dao></did><odd id="aspace_581003dad679083459d61351f96be92a"><head>General</head><p>2 copies</p></odd></c><c id="aspace_41d9d222a3524050758a7645a52e4ef4" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2014-03/2014-03">2014 Spring</unitdate><container id="aspace_70e9b2ee310b94bb75159861349a538d" label="Mixed Materials" type="Box">3</container><container id="aspace_da94925b2390cb08d5a5032bdc0597b7" parent="aspace_70e9b2ee310b94bb75159861349a538d" type="Folder">5</container><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/p26773342" xlink:show="embed" xlink:title="p26773342" xlink:type="simple"><daodesc><p>p26773342</p></daodesc></dao></did></c><c id="aspace_1af0791a2e4a7c1f0ca734ca373aee17" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2014-09/2014-09">2014 Fall</unitdate><container id="aspace_5cc2a6c7bd903ee5d1530581d545b2fb" label="Mixed Materials" type="Box">3</container><container id="aspace_8a808491337b9bce6d6d65442a9f232b" parent="aspace_5cc2a6c7bd903ee5d1530581d545b2fb" type="Folder">6</container><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/pn89df722" xlink:show="embed" xlink:title="pn89df722" xlink:type="simple"><daodesc><p>pn89df722</p></daodesc></dao></did><odd id="aspace_3ea07f5e7bdf485a0212ac2343221bef"><head>General</head><p>2 copies</p></odd></c><c id="aspace_5724fc9753a735b761b1beb06ee97254" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2015-03/2015-03">2015 Spring</unitdate><container id="aspace_32ba03bf6f676248ad894a448bc834f1" label="Mixed Materials" type="Box">3</container><container id="aspace_bf976ebe2bfa16d3932ed1eccf505872" parent="aspace_32ba03bf6f676248ad894a448bc834f1" type="Folder">7</container><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/nz8066273" xlink:show="embed" xlink:title="nz8066273" xlink:type="simple"><daodesc><p>nz8066273</p></daodesc></dao></did></c><c id="aspace_1381d4e91f97951db44a4cf25fd48979" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2015-09/2015-09">2015 Fall</unitdate><container id="aspace_8286527cd79bb797932c86eed9d699df" label="Mixed Materials" type="Box">3</container><container id="aspace_36a2b5aa494085994daeb0bea19097af" parent="aspace_8286527cd79bb797932c86eed9d699df" type="Folder">8</container><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/9c67wv10j" xlink:show="embed" xlink:title="9c67wv10j" xlink:type="simple"><daodesc><p>9c67wv10j</p></daodesc></dao></did></c><c id="aspace_933927e66f6c0827ceb6bda78855134b" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2016-03/2016-03">2016 Spring</unitdate><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/kh04dx28h" xlink:show="embed" xlink:title="kh04dx28h" xlink:type="simple"><daodesc><p>kh04dx28h</p></daodesc></dao></did></c><c id="aspace_8afb9e87eafbbc4d7df18d409e233370" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2016-09/2016-09">2016 Fall</unitdate><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/rr172472r" xlink:show="embed" xlink:title="rr172472r" xlink:type="simple"><daodesc><p>rr172472r</p></daodesc></dao></did></c><c id="aspace_31f60e5b3520148c4f13dab0598c8f56" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2017-03/2017-03">2017 Spring</unitdate><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/d504rt266" xlink:show="embed" xlink:title="d504rt266" xlink:type="simple"><daodesc><p>d504rt266</p></daodesc></dao></did></c><c id="aspace_3edf0c58381643a76124d315b2aaccea" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2017-09/2017-09">2017 Fall</unitdate><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/g158bq962" xlink:show="embed" xlink:title="g158bq962" xlink:type="simple"><daodesc><p>g158bq962</p></daodesc></dao></did></c><c id="aspace_0e3b3ec6323a9e376895cda5aeecd7d6" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2018-03/2018-03">2018 Spring</unitdate><container id="aspace_e0c5c605212c23f8e6cc4e1ff0ffd609" label="Mixed Materials" type="Box">3</container><container id="aspace_d5b74748e1a1ac658a6bd640baabc644" parent="aspace_e0c5c605212c23f8e6cc4e1ff0ffd609" type="Folder">9</container><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/bz60d415d" xlink:show="embed" xlink:title="bz60d415d" xlink:type="simple"><daodesc><p>bz60d415d</p></daodesc></dao></did></c><c id="aspace_b2d1596988a34babf50147b54ee19c74" level="file"><did><unittitle>UAlbany Magazine</unittitle><unitdate normal="2018-09/2018-09">2018 Fall</unitdate><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/0g354n79r" xlink:show="embed" xlink:title="0g354n79r" xlink:type="simple"><daodesc><p>0g354n79r</p></daodesc></dao></did></c><c id="aspace_7c3a4d73d4f41c4f1673ee7dacd3eb91" level="file"><did><unittitle>UAlbany Magazine, 175th Anniversary Edition</unittitle><unitdate normal="2019-03/2019-03">2019 Spring</unitdate><container id="aspace_7066430c23e2e4dc64a7211d40205540" label="Mixed Materials" type="Box">3</container><container id="aspace_40b1f1228258ebba666b558adb4ff160" parent="aspace_7066430c23e2e4dc64a7211d40205540" type="Folder">10</container><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/gf06g925b" xlink:show="embed" xlink:title="gf06g925b" xlink:type="simple"><daodesc><p>gf06g925b</p></daodesc></dao></did></c><c id="aspace_dd54a84a7b8855cea069d8cb6fca2bc2" level="file"><did><unittitle>175th Anniversary Edition Timeline Insert</unittitle><unitdate normal="2019-03/2019-03">2019 Spring</unitdate><container id="aspace_b2b5c2a40a2580886ebcf308272a6e48" label="Mixed Materials" type="Box">3</container><container id="aspace_902d7f4855a0598c902ee0721447e27f" parent="aspace_b2b5c2a40a2580886ebcf308272a6e48" type="Folder">11</container></did><odd id="aspace_47ff29982adb4104d67c10b7d870943b"><head>General</head><p>2 copies</p></odd></c></dsc>
-</archdesc>
+      <container id="aspace_1a0367332842093878b32ee3d7cab304" label="Mixed Materials" type="Collection">X</container>
+    </did>
+    <processinfo id="aspace_cc45b4c99898f5be651cc220c8500924">
+      <head>Processing Information</head>
+      <p>Processed in 2016 by Erik Stolarski.</p>
+    </processinfo>
+    <bioghist id="aspace_99ef6457e64f0c599ba0b1420ddfc7d7">
+      <head>Administrative History</head>
+      <p>The Carillon began publication in 1967, naming itself after the tower on the still newly built campus. It was a school newspaper detailing events on campus such as newly appointed faculty, sporting events, and alumni news. It was published by the Alumni Association. In the Spring of 1987 the University at Albany Magazine began publishing. The content was similar, focusing on campus events, giving alumni spotlights. It was published seasonally in the Fall, Winter, and Spring. The magazine was originally published by the University Relations Office. </p>
+      <p> In the Spring of 1992 the two publication combined being renamed the University at Albany Magazine, with The Carillon. The publication was larger, once again containing similar content as previously, and also contained information on research at the university, discussing the work of faculty. This continued this way until the Fall of 2000 when the title returned to being the University at Albany Magazine. The carillon was still in the publication, typically taking up the second half and consisting of alumni news and notes. The target of both these publications is Alumni, parents, and faculty of the University.</p>
+    </bioghist>
+    <scopecontent id="aspace_d7c406c248bf38978ec274c79c47f020">
+      <head>Scope and Contents</head>
+      <p>The collection consists of the publication the Carillon and the University at Albany Magazine. The Carillon was published independently from 1967 to 1991. The collection also has the independent publication of the University at Albany Magazine dating from 1987 to 1991. In 1992 the publications merged together and have maintained this status up to today.</p>
+    </scopecontent>
+    <arrangement id="aspace_876208e7d78614056fbf2951886922c5">
+      <head>Arrangement of the Collection</head>
+      <p>The collection is ordered chronologically.</p>
+    </arrangement>
+    <acqinfo id="aspace_124d158056dda4cddba39c4eab2b2376">
+      <head>Acquisition Information</head>
+      <p>All items in this manuscript group were donated to the University Libraries, M.E. Grenander Department of Special Collections and Archives.</p>
+    </acqinfo>
+    <accessrestrict id="aspace_25f60e6a9968a9d4f94ce07f52c01d5a">
+      <head>Access</head>
+      <p>Access to this record group is unrestricted.</p>
+    </accessrestrict>
+    <userestrict id="aspace_70884c46fbc75112cdd005552b389b81">
+      <head>Copyright</head>
+      <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites.</p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks.</p>
+      <p> The University Archives are eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+    </userestrict>
+    <prefercite id="aspace_e80875272b1f9e1992e93a49d5799bd4">
+      <head>Preferred Citation</head>
+      <p>Preferred citation for this material is as follows:</p>
+      <p> Identification of specific item, series, box, folder, University at Albany Magazine Collection, 1967-2014. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the UAlbany Magazine Collection).</p>
+    </prefercite>
+    <controlaccess>
+      <subject source="lcsh">Alumni and Alumnae</subject>
+      <subject source="lcsh">College Publications</subject>
+      <subject source="meg">UAlbany Reference Collections</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_b0c21085bd5f86b62c7581ac224a12e2" level="file">
+        <did>
+          <unittitle>University at Albany Magazine, Volume 1, Number 1</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247260</unitid>
+          <unitdate datechar="creation" normal="1987-01/1987-01">1987 Spring</unitdate>
+          <container id="aspace_c1131150f05e95eb006febc615a89e67" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_ad068c4caed8c18aa496c33824f17c20" parent="aspace_c1131150f05e95eb006febc615a89e67" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_bc7d2dc365ca7c8e2efd25bb02b741ed" level="file">
+        <did>
+          <unittitle>University at Albany Magazine, Volume 2, Number 1</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247261</unitid>
+          <unitdate datechar="creation" normal="1987-09/1987-09">1987 Fall</unitdate>
+          <container id="aspace_a48123574dc24f7b300e33cbb4aa6842" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_89d4a1bd3bde581b298dfedb0edb8608" parent="aspace_a48123574dc24f7b300e33cbb4aa6842" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_fc088764e03c4c76d918f6f683bddd27" level="file">
+        <did>
+          <unittitle>University at Albany Magazine, Volume 2, Number 2</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247262</unitid>
+          <unitdate datechar="creation" normal="1988-01/1988-01">1988 Spring</unitdate>
+          <container id="aspace_e820fb92625fa0ca4685701e8bdec97d" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_ee0dba1a092f01daf8627715c6f875d4" parent="aspace_e820fb92625fa0ca4685701e8bdec97d" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_aff2e092cf0e992f8a4f504a90cd7881" level="file">
+        <did>
+          <unittitle>University at Albany Magazine, Volume 3, Number 1</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247263</unitid>
+          <unitdate datechar="creation" normal="1989-01/1989-01">1989 Winter</unitdate>
+          <container id="aspace_7fb5eec5f82fc27d4be16c099a2e9d25" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_c4a720957b3301939f4f2445ac042d87" parent="aspace_7fb5eec5f82fc27d4be16c099a2e9d25" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_73c952e06d39d1174cc54a7cdf72214c" level="file">
+        <did>
+          <unittitle>University at Albany Magazine, Volume 3, Number 2</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247264</unitid>
+          <unitdate datechar="creation" normal="1989-09/1989-09">1989 Fall</unitdate>
+          <container id="aspace_938327623cfd2982ff9da28634001d00" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_47abcf27a43f730d78b128c62eb7d2f1" parent="aspace_938327623cfd2982ff9da28634001d00" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_112e32a486f4c981fbcc145f0436ec5f" level="file">
+        <did>
+          <unittitle>University at Albany Magazine, Volume 4, Number 1</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247265</unitid>
+          <unitdate datechar="creation" normal="1990-06/1990-06">1990 Summer</unitdate>
+          <container id="aspace_5f00bb540723cbb1dd51184b7fd65f66" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_d2559212ca31b043f7c9a9368c0cda5e" parent="aspace_5f00bb540723cbb1dd51184b7fd65f66" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_e8c79b2a633df7bb0e0daeac0b0fe40b" level="file">
+        <did>
+          <unittitle>University at Albany Magazine, Volume 4, Number 2</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247266</unitid>
+          <unitdate datechar="creation" normal="1991-01/1991-01">1991 Winter</unitdate>
+          <container id="aspace_4b210b3a0df14b8c3552c5b94f656415" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_a747fa064e9eb0933817b2bac8ce57de" parent="aspace_4b210b3a0df14b8c3552c5b94f656415" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_f375b9b5544a9019ca3b397cac11aabd" level="file">
+        <did>
+          <unittitle>Albany, University at Albany Magazine with The Carillion</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247267</unitid>
+          <unitdate datechar="creation" normal="1991-09/1991-09">1991 Fall</unitdate>
+          <container id="aspace_c67ea34f3d82e8ce4b163032a70bcdcf" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_82d1fdbb0a15936ccd9ad0dab266f876" parent="aspace_c67ea34f3d82e8ce4b163032a70bcdcf" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_913aa58ee553d76eafc1ab42b586d147" level="file">
+        <did>
+          <unittitle>Albany, University at Albany Magazine with The Carillion</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247268</unitid>
+          <unitdate datechar="creation" normal="1992-01/1992-01">1992 Spring</unitdate>
+          <container id="aspace_cc22b5e5d35c858736cff3bc882ecc15" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_e1fe83babe53c882aab6d964fb25a893" parent="aspace_cc22b5e5d35c858736cff3bc882ecc15" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_d2fdf51c74cf9345d629f94008be2ea6" level="file">
+        <did>
+          <unittitle>Albany, University at Albany Magazine with The Carillion</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247269</unitid>
+          <unitdate datechar="creation" normal="1992-09/1992-09">1992 Fall</unitdate>
+          <container id="aspace_e468a4f90124024abfbcd09e227dff67" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_3d590456c865b7a31befc2c4e54cc57d" parent="aspace_e468a4f90124024abfbcd09e227dff67" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_fdfb57fb06e0b9e9e90fe18488614ff6" level="file">
+        <did>
+          <unittitle>Albany, University at Albany Magazine with The Carillion</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247270</unitid>
+          <unitdate datechar="creation" normal="1993-01/1993-01">1993 Spring</unitdate>
+          <container id="aspace_29ad2d7a6d4cb02afa2d64ecb78238e8" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_3ea373919b77a9f2d7c10918c74c7fe9" parent="aspace_29ad2d7a6d4cb02afa2d64ecb78238e8" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_9ee448770c8d46af91e4b318d98afcbc" level="file">
+        <did>
+          <unittitle>Albany, University at Albany Magazine with The Carillion</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247271</unitid>
+          <unitdate datechar="creation" normal="1993-09/1993-09">1993 Fall</unitdate>
+          <container id="aspace_66c8e509a64dd1a0a82872bdc0d1c74f" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_85d0f92c36d9d7b34e271f29832e8426" parent="aspace_66c8e509a64dd1a0a82872bdc0d1c74f" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_1b9e3e82d7804211c7a9759f398533e9" level="file">
+        <did>
+          <unittitle>Albany, University at Albany Magazine with The Carillion</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247272</unitid>
+          <unitdate datechar="creation" normal="1994-01/1994-01">1994 Spring</unitdate>
+          <container id="aspace_655961d42b564e005fe0752690d0b2bd" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_0efdd52d8eb674bd3e98742d52b44a06" parent="aspace_655961d42b564e005fe0752690d0b2bd" type="Folder">13</container>
+        </did>
+        <odd id="aspace_3904a77321a6220ba98f3b330a7bc0e9">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_c3e64ec6f9e7f5e13e30c5e98f7229ab" level="file">
+        <did>
+          <unittitle>Albany, University at Albany Magazine with The Carillion</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247273</unitid>
+          <unitdate datechar="creation" normal="1994-09/1994-09">1994 Fall</unitdate>
+          <container id="aspace_2097153ad1821184d1c58f199d9db326" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_358e643e589765c2d01b8fc0c233d5e9" parent="aspace_2097153ad1821184d1c58f199d9db326" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ffd3c0167f9df249f29de22bcebf6cf7" level="file">
+        <did>
+          <unittitle>Albany, University at Albany Magazine with The Carillion</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247274</unitid>
+          <unitdate datechar="creation" normal="1995-01/1995-01">1995 Spring</unitdate>
+          <container id="aspace_57c84853b0f269df4a7874fa9fc1ba59" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_cf8405242216b40b156a75ad14390914" parent="aspace_57c84853b0f269df4a7874fa9fc1ba59" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_a07c64729ffa5639767976aec719efee" level="file">
+        <did>
+          <unittitle>Albany, University at Albany Magazine with The Carillion</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247275</unitid>
+          <unitdate datechar="creation" normal="1995-09/1995-09">1995 Fall</unitdate>
+          <container id="aspace_a60ae7d269b8e5c5dd7e0547c0ef4f1d" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_a4b087c70dabd68d8d9b90f8ffa0bb39" parent="aspace_a60ae7d269b8e5c5dd7e0547c0ef4f1d" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_d8b576ed2fcb7a386e80d1999fd05b5e" level="file">
+        <did>
+          <unittitle>Albany, University at Albany Magazine with The Carillion</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247276</unitid>
+          <unitdate datechar="creation" normal="1996-01/1996-01">1996 Spring</unitdate>
+          <container id="aspace_cc2f2168a00f9ae8e34d4dda3312e063" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_357531e007a6f02b2df23c528f935e44" parent="aspace_cc2f2168a00f9ae8e34d4dda3312e063" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_264a161ea0423de392505b0dc2500c2e" level="file">
+        <did>
+          <unittitle>Albany, University at Albany Magazine with The Carillion</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247277</unitid>
+          <unitdate datechar="creation" normal="1996-09/1996-09">1996 Fall</unitdate>
+          <container id="aspace_1bf22b5a0586c36727e6f881dd98cc17" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_96fd85b15ed73cf07d5506d21e9a1086" parent="aspace_1bf22b5a0586c36727e6f881dd98cc17" type="Folder">18</container>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/264a161ea0423de392505b0dc2500c2e/manifest.json" xlink:role="" xlink:show="embed" xlink:title="Online Object Uploaded through Hyrax UI" xlink:type="simple">
+            <daodesc>
+              <p>Online Object Uploaded through Hyrax UI</p>
+            </daodesc>
+          </dao>
+        </did>
+        <odd id="aspace_045f5e372930edb87d9001a6d81f2957">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_e54f2eb41442fa5a59e36692a2b8d3fa" level="file">
+        <did>
+          <unittitle>Albany, University at Albany Magazine with The Carillion</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247278</unitid>
+          <unitdate datechar="creation" normal="1997-01/1997-01">1997 Spring</unitdate>
+          <container id="aspace_19a5b6573a80cbe3f424b1c6b8994fd9" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_d8371082334667f3683c1bfa602835c2" parent="aspace_19a5b6573a80cbe3f424b1c6b8994fd9" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_2cbd7cb09d6466b6e16a8843b8cc4a1d" level="file">
+        <did>
+          <unittitle>Albany, University at Albany Magazine with The Carillion</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247279</unitid>
+          <unitdate datechar="creation" normal="1997-09/1997-09">1997 Fall</unitdate>
+          <container id="aspace_8bf006451941976db18965c714b05b8b" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_f8479483c80c210519dd070c17c0a9c8" parent="aspace_8bf006451941976db18965c714b05b8b" type="Folder">20</container>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/2cbd7cb09d6466b6e16a8843b8cc4a1d/manifest.json" xlink:role="" xlink:show="embed" xlink:title="Online Object Uploaded through Hyrax UI" xlink:type="simple">
+            <daodesc>
+              <p>Online Object Uploaded through Hyrax UI</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_cf9b23b9f89c37eae7a3321872ab24b1" level="file">
+        <did>
+          <unittitle>Albany, University at Albany Magazine with The Carillion</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247280</unitid>
+          <unitdate datechar="creation" normal="1998-01/1998-01">1998 Spring</unitdate>
+          <container id="aspace_ac98831be7d6c3044204464bec0a4bff" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_7f0dc7105b8daf5fd2d35060b7d7a990" parent="aspace_ac98831be7d6c3044204464bec0a4bff" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_53105b3c686b5a106dd58b82db6327aa" level="file">
+        <did>
+          <unittitle>Albany, University at Albany Magazine with The Carillion</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247281</unitid>
+          <unitdate datechar="creation" normal="1998-09/1998-09">1998 Fall</unitdate>
+          <container id="aspace_bb1023dd1eaf36449a90a6495a36226f" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_9ab4ce20e6430599afda833af8938971" parent="aspace_bb1023dd1eaf36449a90a6495a36226f" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_613da22b5d7b340278984b103e25bf8a" level="file">
+        <did>
+          <unittitle>Albany, University at Albany Magazine with The Carillion</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247282</unitid>
+          <unitdate datechar="creation" normal="1999-01/1999-01">1999 Spring</unitdate>
+          <container id="aspace_5c56c98ed738b0a0065f80370759b6f5" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_cf54228d389e96175a49453a3e214b57" parent="aspace_5c56c98ed738b0a0065f80370759b6f5" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_439d030a2b9a54922e77c358f488ca97" level="file">
+        <did>
+          <unittitle>Albany, University at Albany Magazine with The Carillion</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247283</unitid>
+          <unitdate datechar="creation" normal="1999-09/1999-09">1999 Fall</unitdate>
+          <container id="aspace_c75894f398255d55e4f35c1695954312" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_cdca5d467cca73264ba1de1a6127b226" parent="aspace_c75894f398255d55e4f35c1695954312" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_a19de1e549e3500b926290be4a83bdb1" level="file">
+        <did>
+          <unittitle>Albany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247284</unitid>
+          <unitdate datechar="creation" normal="2000-01/2000-01">2000 January</unitdate>
+          <container id="aspace_1aca78e5d9db876f67510b02c0a8ad45" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_fb2f7a7c0c4b5deec2eab84ae7124271" parent="aspace_1aca78e5d9db876f67510b02c0a8ad45" type="Folder">25</container>
+        </did>
+        <odd id="aspace_4fa3386dcabeb64354283229b84dabc8">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_c0bb624df5ce0f2c13c349296bc8aba0" level="file">
+        <did>
+          <unittitle>Albany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247285</unitid>
+          <unitdate datechar="creation" normal="2000-03/2000-03">2000 Spring</unitdate>
+          <container id="aspace_74551172c200a9a70331b26962851fb9" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_e2db248b8753d46d6277b1f5d68ebebd" parent="aspace_74551172c200a9a70331b26962851fb9" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_c6ed160bf186f368c539dcf7b3ebdf43" level="file">
+        <did>
+          <unittitle>Albany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247286</unitid>
+          <unitdate datechar="creation" normal="2000-09/2000-09">2000 Fall</unitdate>
+          <container id="aspace_69164c2db35142b286c82ef69b4a63ee" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_daca8c1af73cda5859456c6574cf59a9" parent="aspace_69164c2db35142b286c82ef69b4a63ee" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_a93b7c2a9412d87623bab333ea056a3d" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247287</unitid>
+          <unitdate datechar="creation" normal="2001-01/2001-01">2001 January</unitdate>
+          <container id="aspace_79637534d70fd3f4e4fc8f453e393a7b" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_0c11c91a0c7e941298d4f35be3594bd4" parent="aspace_79637534d70fd3f4e4fc8f453e393a7b" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_4b29c42621cabd951e153922c403cb6d" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247288</unitid>
+          <unitdate datechar="creation" normal="2001-03/2001-03">2001 Spring</unitdate>
+          <container id="aspace_72f244ae7400bd3fbd6996d2ea5e1109" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_5506f6219cb432b190c31bbe4e1e8505" parent="aspace_72f244ae7400bd3fbd6996d2ea5e1109" type="Folder">29</container>
+        </did>
+        <odd id="aspace_0a19bea098d4acb5bbefc8c0b4c70844">
+          <head>General</head>
+          <p>3 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_f7cf1a03ee1803b2deb1eb664e0e9f80" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247289</unitid>
+          <unitdate datechar="creation" normal="2001-09/2001-09">2001 Fall</unitdate>
+          <container id="aspace_45aa01b7758c4befe8b121dc7af015f0" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_215178d7858a5b8769533deacb8b5c24" parent="aspace_45aa01b7758c4befe8b121dc7af015f0" type="Folder">30</container>
+        </did>
+        <odd id="aspace_bd6a8b953c6a6c1a0941ccd5e579443e">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_a2fd69f775b7c0c0e2604cccd88bd599" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247290</unitid>
+          <unitdate datechar="creation" normal="2002-01/2002-01">2002 January</unitdate>
+          <container id="aspace_e7616d560294169f65d94230f34ffaa6" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_ec945f119371db9c8210ab64a14d67b6" parent="aspace_e7616d560294169f65d94230f34ffaa6" type="Folder">31</container>
+        </did>
+        <odd id="aspace_9435512fb470c8fac1f95d7c7ddd995f">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_bc427fb4fccd0baa6e73f55a576acd56" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247291</unitid>
+          <unitdate datechar="creation" normal="2002-03/2002-03">2002 Spring</unitdate>
+          <container id="aspace_945a3980da758b2177da1bae6f007a1d" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_a1c20976b473b26b9c1f5d74558f23c8" parent="aspace_945a3980da758b2177da1bae6f007a1d" type="Folder">32</container>
+        </did>
+      </c>
+      <c id="aspace_7046075d629719568a96f7bd6172dfaa" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247292</unitid>
+          <unitdate datechar="creation" normal="2002-09/2002-09">2002 Fall</unitdate>
+          <container id="aspace_14c9ca4b7f3c981760af58927f2628fb" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_f86a0359c8a2bab9347f3d760d7ebcb6" parent="aspace_14c9ca4b7f3c981760af58927f2628fb" type="Folder">33</container>
+        </did>
+        <odd id="aspace_f4db4b99b575e78b842e0775a7477b09">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_28766e8dc5f18cb279b0dd8711c9e983" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247293</unitid>
+          <unitdate datechar="creation" normal="2003-01/2003-01">2003 January</unitdate>
+          <container id="aspace_c9390e399574fa002de32da75a9e8e8b" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_5d11d2b9688a900831dabb975c5ace6c" parent="aspace_c9390e399574fa002de32da75a9e8e8b" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_a264246313223611da994f256e3b171c" level="file">
+        <did>
+          <unittitle>UAlbany Magazine, Special Campaign Issue</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247294</unitid>
+          <unitdate datechar="creation" normal="2003-03/2003-03">2003 Spring</unitdate>
+          <container id="aspace_30a4fc9cedab6fbd66914f34c5f2079a" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_836035e8da48390bfee9bd4f8fb582c4" parent="aspace_30a4fc9cedab6fbd66914f34c5f2079a" type="Folder">2</container>
+        </did>
+        <odd id="aspace_6f331bd4c9cc239fb729ba1e4f1b8976">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_e01371cb9d8e4b198114051e5903bd9f" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247295</unitid>
+          <unitdate datechar="creation" normal="2003-09/2003-09">2003 Fall</unitdate>
+          <container id="aspace_75c7fd4c28b4789b42fff82629f67ebf" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_528cb22da777ad2fd7cadaad56dd8df0" parent="aspace_75c7fd4c28b4789b42fff82629f67ebf" type="Folder">3</container>
+        </did>
+        <odd id="aspace_b864f2fb58a2a996ca36ea5107776ce6">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_fe75276363c62182ea65f11cf6d56729" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247296</unitid>
+          <unitdate datechar="creation" normal="2004-01/2004-01">2004 January</unitdate>
+          <container id="aspace_f7990cb09e1864e8cf2dcd60aa9b385d" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_e4e8b574866dd1108058b0fa2f0860f9" parent="aspace_f7990cb09e1864e8cf2dcd60aa9b385d" type="Folder">4</container>
+        </did>
+        <odd id="aspace_803cafe9acb09fbcbc60fc943fb0eaa1">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_3e912a001d3a023ca52676154400e644" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247297</unitid>
+          <unitdate datechar="creation" normal="2004-03/2004-03">2004 Spring</unitdate>
+          <container id="aspace_1f04c6c6c1f6da6c065c9067cddcbe15" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_b35ac7baa49e990674c6d75a72fe8c77" parent="aspace_1f04c6c6c1f6da6c065c9067cddcbe15" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_52606463df5f956191b8e4912356e290" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247298</unitid>
+          <unitdate datechar="creation" normal="2004-09/2004-09">2004 Fall</unitdate>
+          <container id="aspace_3b3036ef102605fe52593ab72e259cb4" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_fc6e5cbcd40ddef80d989d2257c947a8" parent="aspace_3b3036ef102605fe52593ab72e259cb4" type="Folder">6</container>
+        </did>
+        <odd id="aspace_4777e20dccacdef282ea7c26f8f9bc4d">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_d4f16eeb3d4ee4f5333b7442d3fe1d31" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247299</unitid>
+          <unitdate datechar="creation" normal="2005-01/2005-01">2005 January</unitdate>
+          <container id="aspace_c1fda55ad53eb7dbe38d0ab3b141fff8" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_90828fb808d2d7f6a3573ba2652b77c9" parent="aspace_c1fda55ad53eb7dbe38d0ab3b141fff8" type="Folder">7</container>
+        </did>
+        <odd id="aspace_138a5240615985f9fda503992958f6ff">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_9bd368aafc67ca36a954553cb0befb17" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247300</unitid>
+          <unitdate datechar="creation" normal="2005-03/2005-03">2005 Spring</unitdate>
+          <container id="aspace_f35d9ffe1183f1895b556b02fc6d569c" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_4b6da54263c33fbcbcd26ff8746cdabd" parent="aspace_f35d9ffe1183f1895b556b02fc6d569c" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_11b1f10a0298f547564896e1541a0b6e" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247301</unitid>
+          <unitdate datechar="creation" normal="2005-09/2005-09">2005 Fall</unitdate>
+          <container id="aspace_00e167985d99355afbbf6d424a0fbca4" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_7837e85642b91ef3bdbf46cc3a290ff2" parent="aspace_00e167985d99355afbbf6d424a0fbca4" type="Folder">9</container>
+        </did>
+        <odd id="aspace_44f85bb1619c17fbb600b0277c1e13bf">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_08861715ae3e0aa8b96b64e9418ff158" level="file">
+        <did>
+          <unittitle>UAlbany Magazine, Special Metropolitan New York Issue</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247302</unitid>
+          <unitdate datechar="creation" normal="2005-12/2005-12">2005 December</unitdate>
+          <container id="aspace_5838ffb5e2d4cbc6abfd3de749a4b530" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_ba355c79dc8ceedc26076da472583888" parent="aspace_5838ffb5e2d4cbc6abfd3de749a4b530" type="Folder">10</container>
+        </did>
+        <odd id="aspace_b7098f0881d1426911fed8a1f33c5f78">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_7f761827a5dfa5a36bd3673755f3cec6" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247303</unitid>
+          <unitdate datechar="creation" normal="2006-03/2006-03">2006 Spring</unitdate>
+          <container id="aspace_fac51a67bf69ff411254d926869f1c3e" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_d120ec3f9b0cce053eb124aa5eec3f14" parent="aspace_fac51a67bf69ff411254d926869f1c3e" type="Folder">11</container>
+        </did>
+        <odd id="aspace_182007b1ca603c794431b21a6d6fd60b">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_19e7cf0c22dbdc911ed3764971f54c8f" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247304</unitid>
+          <unitdate datechar="creation" normal="2006-09/2006-09">2006 Fall</unitdate>
+          <container id="aspace_cb734f98563107e9bff8d02b0fde6327" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_037ea00f4fe0796d3a31e84d5ffeee13" parent="aspace_cb734f98563107e9bff8d02b0fde6327" type="Folder">12</container>
+        </did>
+        <odd id="aspace_a371e0f85935dea55d9d8c86d7caaebf">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_79829758990471aba892959c6622f776" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247305</unitid>
+          <unitdate datechar="creation" normal="2007-03/2007-03">2007 Spring</unitdate>
+          <container id="aspace_9caac5ac3f9ac0a96c298214e52d585f" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_bc17526a0b3343edb59f2bb86395c7ed" parent="aspace_9caac5ac3f9ac0a96c298214e52d585f" type="Folder">13</container>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/79829758990471aba892959c6622f776/manifest.json" xlink:role="" xlink:show="embed" xlink:title="1v53k479m" xlink:type="simple">
+            <daodesc>
+              <p>1v53k479m</p>
+            </daodesc>
+          </dao>
+        </did>
+        <odd id="aspace_f2da6745f51556ecb52c5391bbcc0f67">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_f8035d71bf0cf157235c129e126d63ab" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247306</unitid>
+          <unitdate datechar="creation" normal="2007-09/2007-09">2007 Fall</unitdate>
+          <container id="aspace_fe12babebe4ab492c9b2c4a2e94901e8" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_0b4564e892edc4b6ad82801e591d6948" parent="aspace_fe12babebe4ab492c9b2c4a2e94901e8" type="Folder">14</container>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/f8035d71bf0cf157235c129e126d63ab/manifest.json" xlink:role="" xlink:show="embed" xlink:title="ks65hk32v" xlink:type="simple">
+            <daodesc>
+              <p>ks65hk32v</p>
+            </daodesc>
+          </dao>
+        </did>
+        <odd id="aspace_1e4fa64a69b2f8c75153342da3546009">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_0530859c37df1e06437b773646d273df" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247307</unitid>
+          <unitdate datechar="creation" normal="2008-01/2008-01">2008 Winter</unitdate>
+          <container id="aspace_5c8dad8405017747cc67663b69238dc3" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_d467e5fa8e441764141ca6014726e212" parent="aspace_5c8dad8405017747cc67663b69238dc3" type="Folder">15</container>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/0530859c37df1e06437b773646d273df/manifest.json" xlink:role="" xlink:show="embed" xlink:title="r494vs69h" xlink:type="simple">
+            <daodesc>
+              <p>r494vs69h</p>
+            </daodesc>
+          </dao>
+        </did>
+        <odd id="aspace_26ff0cc7fd34bc5cdd45f35e989c8b8f">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_de7ce8e4bf00d15aa525a34ca6149540" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247308</unitid>
+          <unitdate datechar="creation" normal="2008-09/2008-09">2008 Fall</unitdate>
+          <container id="aspace_b867a67f3ebb6a45e73af458355de656" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_46bfdd95fed408734dce556cb9842a72" parent="aspace_b867a67f3ebb6a45e73af458355de656" type="Folder">16</container>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/de7ce8e4bf00d15aa525a34ca6149540/manifest.json" xlink:role="" xlink:show="embed" xlink:title="hx11xn68v" xlink:type="simple">
+            <daodesc>
+              <p>hx11xn68v</p>
+            </daodesc>
+          </dao>
+        </did>
+        <odd id="aspace_7398ff992e907ffdf7291d4cfca3c8ba">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_f9a64db847ff71d08e90d75ddc4483c2" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247309</unitid>
+          <unitdate datechar="creation" normal="2009-03/2009-03">2009 Spring</unitdate>
+          <container id="aspace_09f93beab985a7b949d111128707af6c" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_2cca029f7c79402429e8e2d876a034f5" parent="aspace_09f93beab985a7b949d111128707af6c" type="Folder">17</container>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/f9a64db847ff71d08e90d75ddc4483c2/manifest.json" xlink:role="" xlink:show="embed" xlink:title="f4752q501" xlink:type="simple">
+            <daodesc>
+              <p>f4752q501</p>
+            </daodesc>
+          </dao>
+        </did>
+        <odd id="aspace_b8f3670656a6379e7605f2285f06ebaf">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_ae9b2843ffaaecbc4fc956017338800c" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247310</unitid>
+          <unitdate datechar="creation" normal="2009-09/2009-09">2009 Fall</unitdate>
+          <container id="aspace_13523579d40092dc6f9be19657995123" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_a54b529acd0341d6e2a72282be954af1" parent="aspace_13523579d40092dc6f9be19657995123" type="Folder">18</container>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/ae9b2843ffaaecbc4fc956017338800c/manifest.json" xlink:role="" xlink:show="embed" xlink:title="wm117w25t" xlink:type="simple">
+            <daodesc>
+              <p>wm117w25t</p>
+            </daodesc>
+          </dao>
+        </did>
+        <odd id="aspace_67ae426440fab1889032e23e871305d1">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_23897f1d5319aafeeba3d4d693191196" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247311</unitid>
+          <unitdate datechar="creation" normal="2010-03/2010-03">2010 Spring</unitdate>
+          <container id="aspace_b799ceb6bd4f74d97cd1ceb98698a146" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_c580f192e4f3cd813934b91dcefc57ed" parent="aspace_b799ceb6bd4f74d97cd1ceb98698a146" type="Folder">19</container>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/23897f1d5319aafeeba3d4d693191196/manifest.json" xlink:role="" xlink:show="embed" xlink:title="cj82kf694" xlink:type="simple">
+            <daodesc>
+              <p>cj82kf694</p>
+            </daodesc>
+          </dao>
+        </did>
+        <odd id="aspace_58327f8cf2c8cdce5a33ae20627ef212">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_280b7f5a3759f56e1abf694c0d48d40a" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247312</unitid>
+          <unitdate datechar="creation" normal="2010-09/2010-09">2010 Fall</unitdate>
+          <container id="aspace_b66fab4a3b0faf4527a2b023b631705f" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_9f740e9419bf030eb744d8fcf7bf8c2d" parent="aspace_b66fab4a3b0faf4527a2b023b631705f" type="Folder">20</container>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/280b7f5a3759f56e1abf694c0d48d40a/manifest.json" xlink:role="" xlink:show="embed" xlink:title="c821gs330" xlink:type="simple">
+            <daodesc>
+              <p>c821gs330</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_d9ff6da9b34630bbdc1f8cdc68fed822" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247313</unitid>
+          <unitdate datechar="creation" normal="2011-03/2011-03">2011 Spring</unitdate>
+          <container id="aspace_0a6db6ba720f5a2005a2db0927b7b3f6" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_1893b2a226b4bbe29d3725eff7e811c9" parent="aspace_0a6db6ba720f5a2005a2db0927b7b3f6" type="Folder">21</container>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/d9ff6da9b34630bbdc1f8cdc68fed822/manifest.json" xlink:role="" xlink:show="embed" xlink:title="ms35th305" xlink:type="simple">
+            <daodesc>
+              <p>ms35th305</p>
+            </daodesc>
+          </dao>
+        </did>
+        <odd id="aspace_7062b3afd167df1739857aa8ff1f2677">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_755d0f72a1f236b7e115ddd4c771a63c" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/252124</unitid>
+          <unitdate datechar="creation" normal="2011-09/2011-09">2011 Fall</unitdate>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/755d0f72a1f236b7e115ddd4c771a63c/manifest.json" xlink:role="" xlink:show="embed" xlink:title="n009w837p" xlink:type="simple">
+            <daodesc>
+              <p>n009w837p</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_520e0798f7cd35dbfafe30e9cc988730" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247314</unitid>
+          <unitdate datechar="creation" normal="2012-03/2012-03">2012 Spring</unitdate>
+          <container id="aspace_a6b606223b72813f856a77fecbe6fea4" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_dc9ca93b70a02345ad1318a551b3323d" parent="aspace_a6b606223b72813f856a77fecbe6fea4" type="Folder">1</container>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/520e0798f7cd35dbfafe30e9cc988730/manifest.json" xlink:role="" xlink:show="embed" xlink:title="m326m8050" xlink:type="simple">
+            <daodesc>
+              <p>m326m8050</p>
+            </daodesc>
+          </dao>
+        </did>
+        <odd id="aspace_ded2bb92a549eb1f681736ed3b2d25b8">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_4bfa4fbf9b4d90197a8407fe67eeb7be" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247315</unitid>
+          <unitdate datechar="creation" normal="2012-09/2012-09">2012 Fall</unitdate>
+          <container id="aspace_f713af8ae050f7b9a34b828bd624eb33" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_e38f5306fee454ce27431e737c02e067" parent="aspace_f713af8ae050f7b9a34b828bd624eb33" type="Folder">2</container>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/4bfa4fbf9b4d90197a8407fe67eeb7be/manifest.json" xlink:role="" xlink:show="embed" xlink:title="7p88cq22t" xlink:type="simple">
+            <daodesc>
+              <p>7p88cq22t</p>
+            </daodesc>
+          </dao>
+        </did>
+        <odd id="aspace_d17ca5ccd681de17f4ee2b5793065626">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_b8a4fd95d2896acebe6e060c7534b613" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247316</unitid>
+          <unitdate datechar="creation" normal="2013-03/2013-03">2013 Spring</unitdate>
+          <container id="aspace_b16dda4a8f9cfafe0ebc139703bc0328" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_efdbf6c78e2b474b63efa3907428d61d" parent="aspace_b16dda4a8f9cfafe0ebc139703bc0328" type="Folder">3</container>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/b8a4fd95d2896acebe6e060c7534b613/manifest.json" xlink:role="" xlink:show="embed" xlink:title="zw12zc92z" xlink:type="simple">
+            <daodesc>
+              <p>zw12zc92z</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_a9538075720cf2fe973797cc1080a065" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247317</unitid>
+          <unitdate datechar="creation" normal="2013-09/2013-09">2013 Fall</unitdate>
+          <container id="aspace_2a71d2ade13e6872396eab8ec6401ece" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_b799d541251ffc094f00f114b5d05c9a" parent="aspace_2a71d2ade13e6872396eab8ec6401ece" type="Folder">4</container>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/a9538075720cf2fe973797cc1080a065/manifest.json" xlink:role="" xlink:show="embed" xlink:title="nv935913h" xlink:type="simple">
+            <daodesc>
+              <p>nv935913h</p>
+            </daodesc>
+          </dao>
+        </did>
+        <odd id="aspace_581003dad679083459d61351f96be92a">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_41d9d222a3524050758a7645a52e4ef4" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247318</unitid>
+          <unitdate datechar="creation" normal="2014-03/2014-03">2014 Spring</unitdate>
+          <container id="aspace_79f0c700214ba22c6a3180e2bd574067" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_513dab18e8d2329097bdf339c404c36d" parent="aspace_79f0c700214ba22c6a3180e2bd574067" type="Folder">5</container>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/41d9d222a3524050758a7645a52e4ef4/manifest.json" xlink:role="" xlink:show="embed" xlink:title="p26773342" xlink:type="simple">
+            <daodesc>
+              <p>p26773342</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_1af0791a2e4a7c1f0ca734ca373aee17" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247319</unitid>
+          <unitdate datechar="creation" normal="2014-09/2014-09">2014 Fall</unitdate>
+          <container id="aspace_d0a3b97f0f2b363973e1ccdef2f81d5f" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_47570b9b32b4f42dacd80f19fe1f32f8" parent="aspace_d0a3b97f0f2b363973e1ccdef2f81d5f" type="Folder">6</container>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/1af0791a2e4a7c1f0ca734ca373aee17/manifest.json" xlink:role="" xlink:show="embed" xlink:title="pn89df722" xlink:type="simple">
+            <daodesc>
+              <p>pn89df722</p>
+            </daodesc>
+          </dao>
+        </did>
+        <odd id="aspace_3ea07f5e7bdf485a0212ac2343221bef">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+      <c id="aspace_5724fc9753a735b761b1beb06ee97254" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247320</unitid>
+          <unitdate datechar="creation" normal="2015-03/2015-03">2015 Spring</unitdate>
+          <container id="aspace_2a1a13ca13759f3edf215e6d47a44678" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_71404aa33ef1357498ec41f7af68d5f0" parent="aspace_2a1a13ca13759f3edf215e6d47a44678" type="Folder">7</container>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/5724fc9753a735b761b1beb06ee97254/manifest.json" xlink:role="" xlink:show="embed" xlink:title="nz8066273" xlink:type="simple">
+            <daodesc>
+              <p>nz8066273</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_1381d4e91f97951db44a4cf25fd48979" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247321</unitid>
+          <unitdate datechar="creation" normal="2015-09/2015-09">2015 Fall</unitdate>
+          <container id="aspace_1026302855bc0be2c20bb6e7b570b2dc" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_88c07693bc1d8912b208d47c213939f6" parent="aspace_1026302855bc0be2c20bb6e7b570b2dc" type="Folder">8</container>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/1381d4e91f97951db44a4cf25fd48979/manifest.json" xlink:role="" xlink:show="embed" xlink:title="9c67wv10j" xlink:type="simple">
+            <daodesc>
+              <p>9c67wv10j</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_933927e66f6c0827ceb6bda78855134b" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/252125</unitid>
+          <unitdate datechar="creation" normal="2016-03/2016-03">2016 Spring</unitdate>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/933927e66f6c0827ceb6bda78855134b/manifest.json" xlink:role="" xlink:show="embed" xlink:title="kh04dx28h" xlink:type="simple">
+            <daodesc>
+              <p>kh04dx28h</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_8afb9e87eafbbc4d7df18d409e233370" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/252126</unitid>
+          <unitdate datechar="creation" normal="2016-09/2016-09">2016 Fall</unitdate>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/8afb9e87eafbbc4d7df18d409e233370/manifest.json" xlink:role="" xlink:show="embed" xlink:title="rr172472r" xlink:type="simple">
+            <daodesc>
+              <p>rr172472r</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_31f60e5b3520148c4f13dab0598c8f56" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/252127</unitid>
+          <unitdate datechar="creation" normal="2017-03/2017-03">2017 Spring</unitdate>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/31f60e5b3520148c4f13dab0598c8f56/manifest.json" xlink:role="" xlink:show="embed" xlink:title="d504rt266" xlink:type="simple">
+            <daodesc>
+              <p>d504rt266</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_3edf0c58381643a76124d315b2aaccea" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/252128</unitid>
+          <unitdate datechar="creation" normal="2017-09/2017-09">2017 Fall</unitdate>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/3edf0c58381643a76124d315b2aaccea/manifest.json" xlink:role="" xlink:show="embed" xlink:title="g158bq962" xlink:type="simple">
+            <daodesc>
+              <p>g158bq962</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_0e3b3ec6323a9e376895cda5aeecd7d6" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247322</unitid>
+          <unitdate datechar="creation" normal="2018-03/2018-03">2018 Spring</unitdate>
+          <container id="aspace_de3aad847338ae013602fe11ed828819" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_e7dddf5a02ce42273ab35adf1f00b817" parent="aspace_de3aad847338ae013602fe11ed828819" type="Folder">9</container>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/0e3b3ec6323a9e376895cda5aeecd7d6/manifest.json" xlink:role="" xlink:show="embed" xlink:title="bz60d415d" xlink:type="simple">
+            <daodesc>
+              <p>bz60d415d</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_b2d1596988a34babf50147b54ee19c74" level="file">
+        <did>
+          <unittitle>UAlbany Magazine</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/252129</unitid>
+          <unitdate datechar="creation" normal="2018-09/2018-09">2018 Fall</unitdate>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/b2d1596988a34babf50147b54ee19c74/manifest.json" xlink:role="" xlink:show="embed" xlink:title="0g354n79r" xlink:type="simple">
+            <daodesc>
+              <p>0g354n79r</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_7c3a4d73d4f41c4f1673ee7dacd3eb91" level="file">
+        <did>
+          <unittitle>UAlbany Magazine, 175th Anniversary Edition</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/247323</unitid>
+          <unitdate datechar="creation" normal="2019-03/2019-03">2019 Spring</unitdate>
+          <container id="aspace_592bfd3d2e6341ffa7bef479bbf48075" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_45cf9d306c22f1cbcc2b2141c2e9dadf" parent="aspace_592bfd3d2e6341ffa7bef479bbf48075" type="Folder">10</container>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/ua950.009/7c3a4d73d4f41c4f1673ee7dacd3eb91/manifest.json" xlink:role="" xlink:show="embed" xlink:title="gf06g925b" xlink:type="simple">
+            <daodesc>
+              <p>gf06g925b</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_dd54a84a7b8855cea069d8cb6fca2bc2" level="file">
+        <did>
+          <unittitle>175th Anniversary Edition Timeline Insert</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/252130</unitid>
+          <unitdate datechar="creation" normal="2019-03/2019-03">2019 Spring</unitdate>
+          <container id="aspace_2e2bd6c9689ddf832d041f1d45f8a937" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_320827db7b85d7ab8b8aa3f06595af0d" parent="aspace_2e2bd6c9689ddf832d041f1d45f8a937" type="Folder">11</container>
+        </did>
+        <odd id="aspace_47ff29982adb4104d67c10b7d870943b">
+          <head>General</head>
+          <p>2 copies</p>
+        </odd>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>
