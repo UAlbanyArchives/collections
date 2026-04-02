@@ -1,59 +1,475 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://meg.library.albany.edu:8080/archive/view?docId=mss032.xml">mss032</eadid><filedesc><titlestmt><titleproper type="filing">Aleksander, Irina Kunina (Zamiatin); Papers</titleproper><titleproper>Aleksander, Irina Kunina (Zamiatin); Papers <num>mss032</num></titleproper><author>Inventory by Mary Osielski</author></titlestmt><publicationstmt><publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher><p><date>2008 August 21</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2024-09-20 23:00:35 -0400</date>.</creation></profiledesc><revisiondesc><change><date>2015 December</date><item>Converted to EAD</item></change><change><date>2015</date><item>Encoded in EAD by Jodi Boyle</item></change></revisiondesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
-    </repository>
-    <unittitle>Irina Kunina Aleksander Papers</unittitle>
-    <unitid>mss032</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">1.25 cubic ft.</extent>
-    </physdesc>
-    <unitdate normal="1937/1978" type="inclusive">1937-1978</unitdate>
-    <abstract id="aspace_31d7b65014293b1bc34b0861f5bbf935">The collection consists of correspondence, photographs, and manuscripts which reflect Irina Aleksander's association with a number of literary notables such as Anaïs Nin, Miroslav Krlea, Marijan and Zora Matkovi, Lon Pierre-Quint, Claude Aveline, and Evgenii Zamiatin.</abstract>
-    <physloc id="aspace_ce8665bcfaf05062c56328218ca7ee3e">The materials are located onsite in the department.</physloc>
-    <langmaterial>
-      <language langcode="eng" scriptcode="Latn">English</language>
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="new" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=mss032.xml">mss032</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Aleksander, Irina Kunina (Zamiatin); Papers</titleproper>
+        <titleproper>Aleksander, Irina Kunina (Zamiatin); Papers <num>mss032</num></titleproper>
+        <author>Inventory by Mary Osielski</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2008 August 21</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2026-04-02 01:00:02 -0400</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2015 December</date>
+        <item>Converted to EAD</item>
+      </change>
+      <change>
+        <date>2015</date>
+        <item>Encoded in EAD by Jodi Boyle</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
+      </repository>
+      <unittitle>Irina Kunina Aleksander Papers</unittitle>
+      <unitid>mss032</unitid>
+      <unitid type="aspace_uri">/repositories/2/resources/575</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.25 cubic ft.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1937/1978" type="inclusive">1937-1978</unitdate>
+      <abstract id="aspace_31d7b65014293b1bc34b0861f5bbf935">The collection consists of correspondence, photographs, and manuscripts which reflect Irina Aleksander's association with a number of literary notables such as Anaïs Nin, Miroslav Krlea, Marijan and Zora Matkovi, Lon Pierre-Quint, Claude Aveline, and Evgenii Zamiatin.</abstract>
+      <physloc id="aspace_ce8665bcfaf05062c56328218ca7ee3e">The materials are located onsite in the department.</physloc>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
 ,       <language langcode="rus" scriptcode="Latn">Russian</language>
 ,       <language langcode="ger" scriptcode="Latn">German</language>
 ,       <language langcode="fre" scriptcode="Latn">French</language>
 .    </langmaterial>
-  </did>
-  <processinfo id="aspace_ae10ea124d4c07de8df3f05e4321cbf1">
-    <head>Processing Information</head>
-<p>Inventory conducted in 2008 by Mary Osielski.</p>  </processinfo>
-  <bioghist id="aspace_1f4937c616a44cfe733cf7ca15e7fec3">
-    <head>Biographical History</head>
-<p>Irina Aleksander, born in St. Petersburg, Russia (ne Irina Ephimovna Kunina), was the author of plays, film scenarios, poetry, novels and short stories, and childrens stories. She received her education in her native city and in Zagreb, Yugoslavia, where she studied law. She began writing at age seven, appeared in print at age sixteen, and participated in many literary movements in Russia. Works include her play, Pushkin; novels, Douglas Tweed; Only Facts, Sir; Bosnian Symphony; The Running Tide; and a collection of short stories, The Red Fez. Her husband, Bozidar, was a distinguished Zagreb lawyer and member of one of the richest between-the-wars Croatian families. The Aleksanders were associates of the intelligentsia. They travelled and lived in a number of countries including Russia, Yugoslavia, Germany, Poland, France, the United States, and Switzerland. They shared a wide range of intellectual interests including literature, the arts, philosophy and history.</p>  </bioghist>
-  <scopecontent id="aspace_a139239bf2f0fd1f1b5e06c663869233">
-    <head>Scope and Contents</head>
-<p>The collection consists of correspondence, photographs, manuscripts, and miscellaneous materials which reflect the Aleksanders association with a number of literary notables such as Anaïs Nin, Miroslav Krlea, Marijan and Zora Matkovi, Lon Pierre-Quint, Claude Aveline, and Evgenii Zamiatin. The Zamiatin materials include a corrected Russian typescript of his novel, We, published in 1924; letters and postcards in Russian to Irina Aleksander, 192837; and typescripts of his stories, plays, film outlines, notes, and essays. Zamiatin left Russia to live and write in exile in France.</p>  </scopecontent>
-  <arrangement id="aspace_b7d6cde228f2dbed1737b869aa5235f2">
-    <head>Arrangement of the Collection</head>
-<p>The collection is not yet processed, but an inventory is available.</p>  </arrangement>
-  <acqinfo id="aspace_010ef2282cb904a9545ddd57565b8c3f">
-    <head>Acquisition Information</head>
-<p>All items in this manuscript group were purchased from Irina Aleksander by the University Libraries in <date normal="1978">1978</date>.</p>  </acqinfo>
-  <accessrestrict id="aspace_47d8f6227fa8cf4ec6b82ad3ff570944">
-    <head>Access</head>
-<p>Access to this record group is unrestricted.</p>  </accessrestrict>
-  <userestrict id="aspace_61adfbb5e58952e9a4fcf27b90a258e9">
-    <head>Copyright</head>
-<p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites. </p><p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p><p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p><p> The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>  </userestrict>
-  <prefercite id="aspace_004fc50c94acc4a0d43191afab7de7c5">
-    <head>Preferred Citation</head>
-<p>Preferred citation for this material is as follows:</p><p> Identification of specific item, series, box, folder, Irina Kunina Aleksander Papers, 1937-1978. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Aleksander Papers).</p>  </prefercite>
-  <controlaccess>
-    <subject source="meg">Literature</subject>
-    <subject source="lcsh">Authors, Exiled</subject>
-    <subject source="lcsh">Exiles' writings, Russian</subject>
-    <genreform source="aat">Manuscripts</genreform>
-    <genreform source="aat">Notebooks</genreform>
-    <genreform source="aat">Correspondence</genreform>
-    <persname source="lcsh">Aleksander, Irina</persname>
-    <persname source="lcsh">Zamiatin, Evgenii Ivanovich, 1884-1937</persname>
-    <persname source="lcsh">Nin, Anais, 1903-1977</persname>
-  </controlaccess>
-  <dsc><c id="aspace_cffa256c401ba9f2ce691f415d5381a3" level="otherlevel"><did><unittitle>Blue 3-ring binder with 38 items of correspondence, two typed items, folder of clippings, two copies of the offprint, "Moskau Leningrad", one copy of an offprint</unittitle><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_bbcc76a339c3de4b5d3ead0d130a79b4" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container><dao xlink:actuate="none" xlink:href="https://archives.albany.edu/concern/daos/kk91g5343" xlink:show="embed" xlink:title="Online Object Uploaded through Hyrax UI" xlink:type="simple"><daodesc><p>Online Object Uploaded through Hyrax UI</p></daodesc></dao></did></c><c id="aspace_359362e7923e964a17681e6b7a161533" level="otherlevel"><did><unittitle>Typescript of "MH" (carbon)</unittitle><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><physdesc id="aspace_79b030c461411a905e0f9389b576db62">[142] leaves Digital Files</physdesc><container id="aspace_9384be4fecb4aedf41d9949647a855aa" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_8dfb45b6a177d3979de59353ae73563a" level="otherlevel"><did><unittitle>Manuscript, Epitafii</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2 p. Digital Files</extent></physdesc><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_25fd969a93113e78d0481ebc676cfa4a" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_52cb2062a02d64febd58a3d830cac09c" level="otherlevel"><did><unittitle>Manuscript, Iz zapisei Tarkviniia Priska</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2 p. Digital Files</extent></physdesc><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_db05063339ecbb8483ccb76890ff223b" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_00fdcc0419d3145b36ceba592a9c1b32" level="otherlevel"><did><unittitle>Manuscript, Bich Bozhii</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">75 p. Digital Files</extent></physdesc><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_7bcf5776dac7ca1e0509601aefd6de3d" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_0654fef5e5302f4ae630fd48b56e0662" level="otherlevel"><did><unittitle>Manuscript, Bich Bozhii / 1-i variant</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">11 p. Digital Files</extent></physdesc><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_9abe97073bd1c369b27cdcac5541c8ac" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_03080e987b207a76876893051d437282" level="otherlevel"><did><unittitle>Manuscript, Le Fleau de Dieu : synopsis du film par Eug. Zamiatine [in French]</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">9 p. Digital Files</extent></physdesc><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_b1908c6c825c997a0bffac10ce07ef8b" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_61502361ca167d580ccfce343559e182" level="otherlevel"><did><unittitle>Manuscript, Atilla</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">50 p. Digital Files</extent></physdesc><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_441c75d97e1d314a47da3a82ae66ddbc" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_c74d71aa8f391a0dd747f59b7a9eb991" level="otherlevel"><did><unittitle>Manuscript, Untitled. Text begins: Ikh bylo semnadtsat' : burgund, gerul, vestgot, kalendonets</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">29 p. Digital Files</extent></physdesc><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_29e2dc83fcc8726c75e75e57ce20ebba" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_2eead43783f27e706f18d098aa19236f" level="otherlevel"><did><unittitle>Manuscript, Der Floh : ein Spiel in vier Akten, von Jewgenij Zamjatin [Expose, in German]</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">7 p. Digital Files</extent></physdesc><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_8a1e7a5b2175d5c101f5785c28ad17e9" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_1d5cce34eaf8bef238c1189dc34b3449" level="otherlevel"><did><unittitle>Manuscript, Rozhdenie Ivana : p'esa v 7-mi kartinakh [outline of acts]</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">4 p. Digital Files</extent></physdesc><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_e0900ccbc73e7b5d4da1b7cdbec7b31e" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_67a151a166c69784f20b9e8e55385f43" level="otherlevel"><did><unittitle>Manuscript, Bog</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2 p. Digital Files</extent></physdesc><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_79bce964f557bff52a4c3fbc79f3f06a" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_d0c74334fa83d23b0c12a97c0acfe827" level="otherlevel"><did><unittitle>Manuscript, Lev</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">4 p. Digital Files</extent></physdesc><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_4cf3a2a1daa514fddd43c56ec11af752" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_a335bc9171ba7f53faf4a0370aeb6e22" level="otherlevel"><did><unittitle>Manuscript, Aprel'</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">7 p. Digital Files</extent></physdesc><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_6b29fac8adda4a5cd091b97fb8750b5c" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_fe173a288866af397a20485b60c61dc8" level="otherlevel"><did><unittitle>Manuscript, Sovetskie deti</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">3 p. Digital Files</extent></physdesc><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_031c563c9d4176da861b5855b91969a4" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_f8ad5b4e803b468bacbf6b01d1399360" level="otherlevel"><did><unittitle>Manuscript, Lettres russes [in French]</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">3 p. Digital Files</extent></physdesc><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_e67dc93af93e79355c11acd4ae3486bc" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_8c8dc6e11443ff5ece89ad9158abda15" level="otherlevel"><did><unittitle>Manuscript, Moskva-Peterburg</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">9 p. Digital Files</extent></physdesc><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_0cbab1083f922e17152b75749ca80571" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_37d1cc37ceb899899278a48df1f2957a" level="otherlevel"><did><unittitle>Manuscript, Anatol' Frans : nekrolog</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 p. Digital Files</extent></physdesc><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_fa7813dd6851728912aa581462f46f85" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_e49791e783d1226fbb85b5d3c3f895f6" level="otherlevel"><did><unittitle>Manuscript, O literature, revoliutsii i entropii</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">6 p. Digital Files</extent></physdesc><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_890ce2ffc5dca6d92d5f93b1f4c9d52f" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_ff650a8cfb7e746ed1141ae0257b39bb" level="otherlevel"><did><unittitle>Manuscript, Rasskaz o samom glavnom</unittitle><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">25 p. Digital Files</extent></physdesc><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_89023b159305dfb4c20d420f8ed41603" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_65c1da5466747049e33e3ed8e107f561" level="otherlevel"><did><unittitle>Notebook of photographs and miscellaneous items relating to Anaïs Nin and correspondence between Irina Aleksander-Kunina and Anaïs Nin</unittitle><unitdate calendar="gregorian" era="ce" normal="1943/1977" type="inclusive">1943-1977</unitdate><container id="aspace_63345badd9d197f4c2a48221e9ea114e" label="Mixed Materials" type="Box">2 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_3e9d72abe2a40d9cd1067a7ab9f25dd9" level="otherlevel"><did><unittitle>Notebook containing correspondence, photographs, and miscellaneous items related to Lon Pierre-Quint (pseudonym of Lopold Lon Steindecker), Jean-Pierre Selz (nephew of Steindecker), and Gina Lombroso-Ferrero</unittitle><unitdate calendar="gregorian" era="ce" normal="1938/1958" type="inclusive">1938-1958</unitdate><container id="aspace_9d718ce4dadfae394444372f5561d5bb" label="Mixed Materials" type="Box">2 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_7f140830dcd80c47f6a244efebca34eb" level="otherlevel"><did><unittitle>Notebook of correspondence between Mme. Aleksander and Claude Aveline, also with Pierre Vorms</unittitle><unitdate calendar="gregorian" era="ce" normal="1939/1968" type="inclusive">1939-1968</unitdate><container id="aspace_21386e98433b4afc2b9e6c647b7d90c1" label="Mixed Materials" type="Box">2 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_33d3208f17e8923a8081c204491435d5" level="otherlevel"><did><unittitle>Notebook of correspondence with numerous friends such as Leo Gershoy, John Hersey, Howard Fast, William Shirer, John Scott, Maurice Sandoz, Peter Viereck, and Bernard Guerney</unittitle><unitdate calendar="gregorian" era="ce" normal="1944/1978" type="inclusive">1944-1978</unitdate><container id="aspace_cb613f4d4518b734cb4c2d8729d0684b" label="Mixed Materials" type="Box">2 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_b542dbb723472b2b38b3a5cff29389d9" level="otherlevel"><did><unittitle>Notebook of correspondence with numerous friends such as Rastko Petrovi, Mitzi and Ervin inko, Vojin Jelic, Marijan and Zora Matkovic, and J. Prout</unittitle><unitdate calendar="gregorian" era="ce" normal="1937/1968" type="inclusive">1937-1968</unitdate><container id="aspace_469d7ddf96b78f653b248c09b22f43f2" label="Mixed Materials" type="Box">2 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_401f8a26b06dcec3fd3ad99573e1af1d" level="otherlevel"><did><unittitle>Notebook of correspondence, photographs and miscellaneous materials relating to Miroslav Krlea and Marko Ristic</unittitle><unitdate calendar="gregorian" era="ce" normal="1938/1978" type="inclusive">1938-1978</unitdate><container id="aspace_0ada592c674e0be495a4eec43492bde5" label="Mixed Materials" type="Box">2 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_d1fb6dd98363f6b434440450a0ad8334" level="otherlevel"><did><unittitle>Typescript of poems by Rikki Jaipal</unittitle><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_c388dcb20a319b0124c9d8835f82fc04" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_e1d9f14569f5d60f57aa1816d3c067ec" level="otherlevel"><did><unittitle>Folder of signed woodcuts</unittitle><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_35fb31e375d6b188e85a320f593b7d02" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_3400b54acfeda1eb3fc3a6b3e6c769dd" level="otherlevel"><did><unittitle>Record album Anaïs Nin, Let Me Read You My Own Stories as the Storytellers of Old</unittitle><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_ef9cbc48e1da3dfca95a426586ee323b" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_c8fa084761bcbc4ee8ac5d6ee1d102eb" level="otherlevel"><did><unittitle>Record album in Russian</unittitle><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_f64df544d574191221581bdd661c895e" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_3b300fd99c5f34ba622cbafaf9af104f" level="otherlevel"><did><unittitle>Portfolio poem Cook by Roy Fisher, with an original print by Ronald King</unittitle><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_30f0999019c09ade86eaf550a1ff8b2b" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_ca660b7fb9bfa45646cdc1149f3cabf5" level="otherlevel"><did><unittitle>Chart of Russian characters</unittitle><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_da385a7a14247f2b9bbde85fc3c4379e" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_e2650856b3fc9ab37b932eceef846f54" level="otherlevel"><did><unittitle>Naa Borba: 12 linorezov by Nikolaj Pirnat</unittitle><unitdate calendar="gregorian" era="ce" normal="1944/1944" type="inclusive">1944</unitdate><container id="aspace_5cb2bdfb3d2dbdf6b68edb893414b951" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_91545ac06fd76c97756b1dd2806b5369" level="otherlevel"><did><unittitle>Domovi. Jece. Gozdovi. Na pragu svobode jeseni</unittitle><unitdate calendar="gregorian" era="ce" normal="1944/1944" type="inclusive">1944</unitdate><container id="aspace_470b5deb1382c4396a9c3741313ba030" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_df55092227297bcfe8cd86e1100d0a22" level="otherlevel"><did><unittitle>Kroz Narodno-Oslobodilacku Borbu: 16 linoreza by Branka Kovacevica</unittitle><unitdate calendar="gregorian" era="ce" normal="1944/1944" type="inclusive">1944</unitdate><container id="aspace_107e8574ac3c0832b4511f257c49ce3d" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_7b1be225d42f9061813c9fcc750bdf5a" level="otherlevel"><did><unittitle>Branko Kovacevic. Exhibition catalog</unittitle><unitdate calendar="gregorian" era="ce" normal="1970-03-22/1971-04-30" type="inclusive">1971 March 22-April 30</unitdate><container id="aspace_c0cc55d4052906a9566680cb7567c5d8" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_adbc9b19ecf799cc79388a841bbbca1e" level="otherlevel"><did><unittitle>Iz Mape U: nedovrena mapa linoreza by Marijan Detoni</unittitle><unitdate calendar="gregorian" era="ce" normal="1941/1942" type="inclusive">1941-1942</unitdate><container id="aspace_e3076646e6b94a997a3c5e5da4c45598" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_bddcf898babd37db4d1e207bef6e7570" level="otherlevel"><did><unittitle>Mi Pamtimo: 16 listova iz mape by Vanja Radaus</unittitle><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_6e1592dea88528e49d4e38cb69ebc4e2" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container></did></c><c id="aspace_d2c870151381d883c684db3b1864980a" level="otherlevel"><did><unittitle>Three Sisters Anton Chekhov. Poster</unittitle><unitdate calendar="gregorian" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate><container id="aspace_0341cdf66ad4b9c54bc5a512096001ea" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container></did></c></dsc>
-</archdesc>
+    </did>
+    <processinfo id="aspace_ae10ea124d4c07de8df3f05e4321cbf1">
+      <head>Processing Information</head>
+      <p>Inventory conducted in 2008 by Mary Osielski.</p>
+    </processinfo>
+    <bioghist id="aspace_1f4937c616a44cfe733cf7ca15e7fec3">
+      <head>Biographical History</head>
+      <p>Irina Aleksander, born in St. Petersburg, Russia (ne Irina Ephimovna Kunina), was the author of plays, film scenarios, poetry, novels and short stories, and childrens stories. She received her education in her native city and in Zagreb, Yugoslavia, where she studied law. She began writing at age seven, appeared in print at age sixteen, and participated in many literary movements in Russia. Works include her play, Pushkin; novels, Douglas Tweed; Only Facts, Sir; Bosnian Symphony; The Running Tide; and a collection of short stories, The Red Fez. Her husband, Bozidar, was a distinguished Zagreb lawyer and member of one of the richest between-the-wars Croatian families. The Aleksanders were associates of the intelligentsia. They travelled and lived in a number of countries including Russia, Yugoslavia, Germany, Poland, France, the United States, and Switzerland. They shared a wide range of intellectual interests including literature, the arts, philosophy and history.</p>
+    </bioghist>
+    <scopecontent id="aspace_a139239bf2f0fd1f1b5e06c663869233">
+      <head>Scope and Contents</head>
+      <p>The collection consists of correspondence, photographs, manuscripts, and miscellaneous materials which reflect the Aleksanders association with a number of literary notables such as Anaïs Nin, Miroslav Krlea, Marijan and Zora Matkovi, Lon Pierre-Quint, Claude Aveline, and Evgenii Zamiatin. The Zamiatin materials include a corrected Russian typescript of his novel, We, published in 1924; letters and postcards in Russian to Irina Aleksander, 192837; and typescripts of his stories, plays, film outlines, notes, and essays. Zamiatin left Russia to live and write in exile in France.</p>
+    </scopecontent>
+    <arrangement id="aspace_b7d6cde228f2dbed1737b869aa5235f2">
+      <head>Arrangement of the Collection</head>
+      <p>The collection is processed.</p>
+    </arrangement>
+    <acqinfo id="aspace_010ef2282cb904a9545ddd57565b8c3f">
+      <head>Acquisition Information</head>
+      <p>All items in this manuscript group were purchased from Irina Aleksander by the University Libraries in <date normal="1978">1978</date>.</p>
+    </acqinfo>
+    <accessrestrict id="aspace_47d8f6227fa8cf4ec6b82ad3ff570944">
+      <head>Access</head>
+      <p>Access to this record group is unrestricted.</p>
+    </accessrestrict>
+    <userestrict id="aspace_61adfbb5e58952e9a4fcf27b90a258e9">
+      <head>Copyright</head>
+      <p>This page may contain links to digital objects. Access to these images and the technical capacity to download them does not imply permission for re-use. Digital objects may be used freely for personal reference use, referred to, or linked to from other web sites. </p>
+      <p> Researchers do not have permission to publish or disseminate material from these collections without permission from an archivist and/or the copyright holder.</p>
+      <p> The researcher assumes full responsibility for conforming to the laws of copyright. Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.) and/or by the copyright or neighboring-rights laws of other nations. More information about U.S. Copyright is provided by the Copyright Office. Additionally, re-use may be restricted by terms of University Libraries gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. </p>
+      <p> The Department of Special Collections and Archives is eager to hear from any copyright owners who are not properly identified so that appropriate information may be provided in the future.</p>
+    </userestrict>
+    <prefercite id="aspace_004fc50c94acc4a0d43191afab7de7c5">
+      <head>Preferred Citation</head>
+      <p>Preferred citation for this material is as follows:</p>
+      <p> Identification of specific item, series, box, folder, Irina Kunina Aleksander Papers, 1937-1978. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Aleksander Papers).</p>
+    </prefercite>
+    <controlaccess>
+      <subject source="meg">Literature</subject>
+      <subject source="lcsh">Authors, Exiled</subject>
+      <subject source="lcsh">Exiles' writings, Russian</subject>
+      <genreform source="aat">Manuscripts</genreform>
+      <genreform source="aat">Notebooks</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <persname source="lcsh">Aleksander, Irina</persname>
+      <persname source="lcsh">Zamiatin, Evgenii Ivanovich, 1884-1937</persname>
+      <persname source="lcsh">Nin, Anais, 1903-1977</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_cffa256c401ba9f2ce691f415d5381a3" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Blue 3-ring binder with 38 items of correspondence, two typed items, folder of clippings, two copies of the offprint, "Moskau Leningrad", one copy of an offprint</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173681</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_f7933484c7fb41f0c2ef088cb62b7b5c" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container>
+          <dao xlink:actuate="none" xlink:href="https://media.archives.albany.edu?manifest=https://media.archives.albany.edu/mss032/cffa256c401ba9f2ce691f415d5381a3/manifest.json" xlink:role="" xlink:show="embed" xlink:title="Online Object Uploaded through Hyrax UI" xlink:type="simple">
+            <daodesc>
+              <p>Online Object Uploaded through Hyrax UI</p>
+            </daodesc>
+          </dao>
+        </did>
+      </c>
+      <c id="aspace_359362e7923e964a17681e6b7a161533" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Typescript of "MH" (carbon)</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173682</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <physdesc id="aspace_79b030c461411a905e0f9389b576db62">[142] leaves Digital Files</physdesc>
+          <container id="aspace_564d187165918bf66c2af2297a38be05" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_8dfb45b6a177d3979de59353ae73563a" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Manuscript, Epitafii</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173683</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2 p. Digital Files</extent>
+          </physdesc>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_3ebf279d9011ae94f3d2a83c1f6b68b9" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_52cb2062a02d64febd58a3d830cac09c" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Manuscript, Iz zapisei Tarkviniia Priska</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173684</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2 p. Digital Files</extent>
+          </physdesc>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_ccd5385b2ee79c7b281dfbb2002a3be7" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_00fdcc0419d3145b36ceba592a9c1b32" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Manuscript, Bich Bozhii</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173685</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">75 p. Digital Files</extent>
+          </physdesc>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_451a6641a4f478239c7356b24efb323c" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_0654fef5e5302f4ae630fd48b56e0662" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Manuscript, Bich Bozhii / 1-i variant</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173686</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">11 p. Digital Files</extent>
+          </physdesc>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_772c1a1cb62ea3675d7dcac1c1fce47b" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_03080e987b207a76876893051d437282" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Manuscript, Le Fleau de Dieu : synopsis du film par Eug. Zamiatine [in French]</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173687</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">9 p. Digital Files</extent>
+          </physdesc>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_667cf038effd684b9437fdbefc384220" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_61502361ca167d580ccfce343559e182" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Manuscript, Atilla</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173688</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">50 p. Digital Files</extent>
+          </physdesc>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_069ec27a19bb4ce163cd23d1cb9026f7" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_c74d71aa8f391a0dd747f59b7a9eb991" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Manuscript, Untitled. Text begins: Ikh bylo semnadtsat' : burgund, gerul, vestgot, kalendonets</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173689</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">29 p. Digital Files</extent>
+          </physdesc>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_810ea163aac28fa7fc8148d32c43d941" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_2eead43783f27e706f18d098aa19236f" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Manuscript, Der Floh : ein Spiel in vier Akten, von Jewgenij Zamjatin [Expose, in German]</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173690</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">7 p. Digital Files</extent>
+          </physdesc>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_eb8e6b70ab6c4d3f1576a531d749668a" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_1d5cce34eaf8bef238c1189dc34b3449" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Manuscript, Rozhdenie Ivana : p'esa v 7-mi kartinakh [outline of acts]</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173691</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">4 p. Digital Files</extent>
+          </physdesc>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_ebc71c245d1a17336fdeef56bbf3a311" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_67a151a166c69784f20b9e8e55385f43" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Manuscript, Bog</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173692</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2 p. Digital Files</extent>
+          </physdesc>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_a630616bf901081fae0184e5ff233d52" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_d0c74334fa83d23b0c12a97c0acfe827" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Manuscript, Lev</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173693</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">4 p. Digital Files</extent>
+          </physdesc>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_06bb4043327b49b922d9070da0ec0b9f" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_a335bc9171ba7f53faf4a0370aeb6e22" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Manuscript, Aprel'</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173694</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">7 p. Digital Files</extent>
+          </physdesc>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_a710e68409af9b13240ed6786bee0531" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_fe173a288866af397a20485b60c61dc8" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Manuscript, Sovetskie deti</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173695</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">3 p. Digital Files</extent>
+          </physdesc>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_8863664d656e200cb3177dcbed8a46e4" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_f8ad5b4e803b468bacbf6b01d1399360" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Manuscript, Lettres russes [in French]</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173696</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">3 p. Digital Files</extent>
+          </physdesc>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_f5ae439cb5903224501f0b1105fa8e3c" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_8c8dc6e11443ff5ece89ad9158abda15" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Manuscript, Moskva-Peterburg</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173697</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">9 p. Digital Files</extent>
+          </physdesc>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_34f0b110b28392c8ae8225240e7544d6" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_37d1cc37ceb899899278a48df1f2957a" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Manuscript, Anatol' Frans : nekrolog</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173698</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 p. Digital Files</extent>
+          </physdesc>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_cf5046c01f44e9f7da639f9c01e92a65" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_e49791e783d1226fbb85b5d3c3f895f6" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Manuscript, O literature, revoliutsii i entropii</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173699</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">6 p. Digital Files</extent>
+          </physdesc>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_01d9096ce331b48a7710e58e2d68d67c" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_ff650a8cfb7e746ed1141ae0257b39bb" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Manuscript, Rasskaz o samom glavnom</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173700</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">25 p. Digital Files</extent>
+          </physdesc>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_7275e1fc8e9175313682acc757fbf600" label="Mixed Materials" type="Box">1 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_65c1da5466747049e33e3ed8e107f561" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Notebook of photographs and miscellaneous items relating to Anaïs Nin and correspondence between Irina Aleksander-Kunina and Anaïs Nin</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173701</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1943/1977" type="inclusive">1943-1977</unitdate>
+          <container id="aspace_8be362e11716592ef7927fb90f2ea4d5" label="Mixed Materials" type="Box">2 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_3e9d72abe2a40d9cd1067a7ab9f25dd9" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Notebook containing correspondence, photographs, and miscellaneous items related to Lon Pierre-Quint (pseudonym of Lopold Lon Steindecker), Jean-Pierre Selz (nephew of Steindecker), and Gina Lombroso-Ferrero</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173702</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1938/1958" type="inclusive">1938-1958</unitdate>
+          <container id="aspace_11d3efdb29407a6f6faec8fc12da0069" label="Mixed Materials" type="Box">2 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_7f140830dcd80c47f6a244efebca34eb" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Notebook of correspondence between Mme. Aleksander and Claude Aveline, also with Pierre Vorms</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173703</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1939/1968" type="inclusive">1939-1968</unitdate>
+          <container id="aspace_0c5197286f54bf0d97c493c77e2c54e2" label="Mixed Materials" type="Box">2 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_33d3208f17e8923a8081c204491435d5" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Notebook of correspondence with numerous friends such as Leo Gershoy, John Hersey, Howard Fast, William Shirer, John Scott, Maurice Sandoz, Peter Viereck, and Bernard Guerney</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173704</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1944/1978" type="inclusive">1944-1978</unitdate>
+          <container id="aspace_96839952b500339236f3be21e11aa089" label="Mixed Materials" type="Box">2 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_b542dbb723472b2b38b3a5cff29389d9" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Notebook of correspondence with numerous friends such as Rastko Petrovi, Mitzi and Ervin inko, Vojin Jelic, Marijan and Zora Matkovic, and J. Prout</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173705</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1968" type="inclusive">1937-1968</unitdate>
+          <container id="aspace_6415df7b52f8168999531caaa20de076" label="Mixed Materials" type="Box">2 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_401f8a26b06dcec3fd3ad99573e1af1d" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Notebook of correspondence, photographs and miscellaneous materials relating to Miroslav Krlea and Marko Ristic</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173706</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1938/1978" type="inclusive">1938-1978</unitdate>
+          <container id="aspace_71c3a480e33389651151d4f410dd5554" label="Mixed Materials" type="Box">2 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_d1fb6dd98363f6b434440450a0ad8334" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Typescript of poems by Rikki Jaipal</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173707</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_1364a26e3198e3bc74855309052fe496" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_e1d9f14569f5d60f57aa1816d3c067ec" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Folder of signed woodcuts</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173708</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_bb1c5369edb4cc8e6ddb53380d412487" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_3400b54acfeda1eb3fc3a6b3e6c769dd" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Record album Anaïs Nin, Let Me Read You My Own Stories as the Storytellers of Old</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173709</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_0927fcd8cbd25bc7920423fb8dfafe72" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_c8fa084761bcbc4ee8ac5d6ee1d102eb" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Record album in Russian</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173710</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_c35fc158f61175f42c7512a8536e28be" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_3b300fd99c5f34ba622cbafaf9af104f" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Portfolio poem Cook by Roy Fisher, with an original print by Ronald King</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173711</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_94c7445654cf27eceec67d2da8563209" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_ca660b7fb9bfa45646cdc1149f3cabf5" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Chart of Russian characters</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173712</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_40ccfd24e45189fb8c3020a3bc861833" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_e2650856b3fc9ab37b932eceef846f54" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Naa Borba: 12 linorezov by Nikolaj Pirnat</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173713</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1944/1944" type="inclusive">1944</unitdate>
+          <container id="aspace_fff2aefb78fc751edfa63c476bca8fdf" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_91545ac06fd76c97756b1dd2806b5369" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Domovi. Jece. Gozdovi. Na pragu svobode jeseni</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173714</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1944/1944" type="inclusive">1944</unitdate>
+          <container id="aspace_a4a9bb1739a5ae5117be88e41c16be48" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_df55092227297bcfe8cd86e1100d0a22" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Kroz Narodno-Oslobodilacku Borbu: 16 linoreza by Branka Kovacevica</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173715</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1944/1944" type="inclusive">1944</unitdate>
+          <container id="aspace_0c4854956155d0b9caef0198cd0ef808" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_7b1be225d42f9061813c9fcc750bdf5a" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Branko Kovacevic. Exhibition catalog</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173716</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1970-03-22/1971-04-30" type="inclusive">1971 March 22-April 30</unitdate>
+          <container id="aspace_fc3b4567514aa16f88b5cb81ea5ecafe" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_adbc9b19ecf799cc79388a841bbbca1e" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Iz Mape U: nedovrena mapa linoreza by Marijan Detoni</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173717</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1941/1942" type="inclusive">1941-1942</unitdate>
+          <container id="aspace_1cddb3ae12c53eb2f020af753e19eac4" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_bddcf898babd37db4d1e207bef6e7570" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Mi Pamtimo: 16 listova iz mape by Vanja Radaus</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173718</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_d0a8411ae20c5480c38980d3fe7a777c" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+      <c id="aspace_d2c870151381d883c684db3b1864980a" level="otherlevel" otherlevel="undefined">
+        <did>
+          <unittitle>Three Sisters Anton Chekhov. Poster</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/173719</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1937/1978" type="inclusive">Undated</unitdate>
+          <container id="aspace_c25351fcac9efb5ea02cff744d003e2b" label="Mixed Materials" type="Box">3 (Irina Kunina Aleksander Papers)</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>
