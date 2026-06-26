@@ -1,61 +1,361 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap294.xml">apap294</eadid><filedesc><titlestmt><titleproper type="filing">Wolcott, John; Papers</titleproper><titleproper>Wolcott, John; Papers <num>apap294</num></titleproper><author>Kathleen Broeder</author></titlestmt><publicationstmt><publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher><p><date>2012</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2025-07-22 17:02:25 -0400</date>.</creation></profiledesc><revisiondesc><change><date>2012</date><item>Encoded in EAD by Kathleen Broeder</item></change></revisiondesc></eadheader><archdesc level="collection">
-  <did>
-    <repository>
-      <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
-    </repository>
-    <unittitle>John Wolcott Papers</unittitle>
-    <unitid>apap294</unitid>
-    <physdesc altrender="whole">
-      <extent altrender="materialtype spaceoccupied">0.7 cubic ft.</extent>
-      <physfacet>processed to date</physfacet>
-    </physdesc>
-    <unitdate normal="1954/1992" type="inclusive">1954-1992</unitdate>
-    <abstract id="aspace_da846b3b1021fa004db98499175648e8">The John Wolcott Papers document the revival of the historic Pinxter Festival in Albany, New York between 1972-1992.</abstract>
-    <physloc id="aspace_7f9299cba47827a54f2d50bf1d04482f">The materials are located onsite in the department.</physloc>
-    <langmaterial>
-      <language langcode="eng" scriptcode="Latn">English</language>
+<?xml version='1.0' encoding='utf-8'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap294.xml">apap294</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Wolcott, John; Papers</titleproper>
+        <titleproper>Wolcott, John; Papers <num>apap294</num></titleproper>
+        <author>Kathleen Broeder</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>M.E. Grenander Department of Special Collections &amp; Archives</publisher>
+        <p>
+          <date>2012</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2026-06-26 01:20:05 -0400</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2012</date>
+        <item>Encoded in EAD by Kathleen Broeder</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
+      </repository>
+      <unittitle>John Wolcott Papers</unittitle>
+      <unitid>apap294</unitid>
+      <unitid type="aspace_uri">/repositories/2/resources/220</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.7 cubic ft.</extent>
+        <physfacet>processed to date</physfacet>
+      </physdesc>
+      <unitdate datechar="creation" normal="1954/1992" type="inclusive">1954-1992</unitdate>
+      <abstract id="aspace_da846b3b1021fa004db98499175648e8">The John Wolcott Papers document the revival of the historic Pinxter Festival in Albany, New York between 1972-1992.</abstract>
+      <physloc id="aspace_7f9299cba47827a54f2d50bf1d04482f">The materials are located onsite in the department.</physloc>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
-  </did>
-  <processinfo id="aspace_18c54920d3fd8d9a72e829ccd296c76a">
-    <head>Processing Information</head>
-<p>Processed in 2012 by Kathleen Broeder.</p>  </processinfo>
-  <accessrestrict id="aspace_11c61a25b9c85e891cb6b2481bac84a6">
-    <head>Access</head>
-<p>Access to this record group is unrestricted.</p>  </accessrestrict>
-  <userestrict id="aspace_5ed96120690be170a68e49b071fd1c77">
-    <head>Copyright</head>
-<p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>  </userestrict>
-  <acqinfo id="aspace_6673521c40988d242be10dc3fc286bb8">
-    <head>Acquisition Information</head>
-<p>John Wolcott donated his materials in 2007 to the M.E. Grenander Department of Special Collections and Archives. In 2013 Wolcott donated an additional 26 cubic feet of materials which will be processed at a later date.</p>  </acqinfo>
-  <bioghist id="aspace_73543c998e4819a723fe0fce12ced4a0">
-    <head>Biographical Sketch</head>
-<p>John Wolcott was chairman of the Pinxter Committee of Albany, also called the People's Pinxter Festival Committee, which coordinated the annual Pinxter Festival. The festival is known as Pinxter, Pinxter Sunday or Pinkster, Dutch for Pentecost, and as Whitsuntide, the English term for Pentecost.</p><p> During the colonial period, Pinxter celebrations were held throughout eastern New York in communities of Dutch origins. Africans played a major role in organizing Pinxter, adding African music and dance to the festivities. In 1811 the Common Council of the City of Albany passed a Whitsuntide Holiday law which banned the essential elements of the festival and, as a result, the festival died out. </p><p> In 1971, Pinxter was revived in Albany and celebrated on Sundays during Tulip Fest in Washington Park with craft vendors and musicians. It was often advertised as an illegal festival. Wolcott wrote several letters asking the 1811 law be repealed. The Whitsuntide Holiday Law was repealed in 2011, two hundred years after it was enacted.</p>  </bioghist>
-  <scopecontent id="aspace_e556ea55ac684db9d29f0d1aacc11e50">
-    <head>Scope and Contents</head>
-<p>The John Wolcott Papers contain materials related to the planning and advertising of Pinxter Festivals in Albany, New York. The collection includes festival posters, fliers, photographs, news clippings, hand written notes, correspondence and programs of similar festivals, including a early souvenir Tulip Fest envelope. Craft vendors were a major part of the festivities and the contact information for many of them is included. Information about historic Pinxter festivals, Albany's relevant laws and policies, and a small collection of colonial Dutch recipes were used in the planning process.</p>  </scopecontent>
-  <arrangement id="aspace_c09bf30492445ebefe2676475c7fa45f">
-    <head>Arrangement of the Collection</head>
-<p>The collection is organized chronologically. There are no series.</p>  </arrangement>
-  <prefercite id="aspace_33e2cb072e7327531e4d83ed513552c6">
-    <head>Preferred Citation</head>
-<p>Preferred citation for this material is as follows:</p><p> Identification of specific item, series, box, folder, John Wolcott Papers, 1954-1992. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Wolcott Papers).</p>  </prefercite>
-  <controlaccess>
-    <subject source="meg">Neighborhood and Community Associations</subject>
-    <subject source="meg">Albany, New York</subject>
-    <subject source="lcsh">Folk festivals New York (State)</subject>
-    <subject source="lcsh">Pentecost Festival</subject>
-    <geogname source="lcsh">Albany (N.Y.)</geogname>
-    <genreform source="aat">Clippings (information artifacts)</genreform>
-    <genreform source="aat">Correspondence</genreform>
-    <genreform source="aat">Fliers (printed matter)</genreform>
-    <genreform source="aat">Posters</genreform>
-    <genreform source="aat">Black-and-white photographs</genreform>
-    <genreform source="aat">Programs (documents)</genreform>
-    <genreform source="aat">Newspapers</genreform>
-    <persname source="local">Wolcott, John R.</persname>
-  </controlaccess>
-  <dsc><c id="aspace_7c6f39ef88923639893c1955e7c185d9" level="file"><did><unittitle>Tulip Fest</unittitle><unitdate calendar="gregorian" era="ce" normal="1954/1954" type="inclusive">1954</unitdate><container id="aspace_8fd519bb2739850b9f83168e6228690e" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container><container id="aspace_0a440b90b8e5bdc8fdd0551a4b3074a5" parent="aspace_8fd519bb2739850b9f83168e6228690e" type="Folder">1</container></did></c><c id="aspace_bf9510d793acd4b8868a5d6ce9104aaf" level="file"><did><unittitle>Pinxter Fest</unittitle><unitdate calendar="gregorian" era="ce" normal="1972/1972" type="inclusive">1972</unitdate><container id="aspace_cbfb685b639b9ac4ce0a3e196160e961" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container><container id="aspace_ce3691c142d8cb0f68354085e7d312e4" parent="aspace_cbfb685b639b9ac4ce0a3e196160e961" type="Folder">2</container></did></c><c id="aspace_db5a3ccec2a64b0d9c86dda1cf5c3fd6" level="file"><did><unittitle><emph render="italic">KITE</emph> News Clippings</unittitle><unitdate calendar="gregorian" era="ce" normal="1972/1980" type="inclusive">1972-1980</unitdate><container id="aspace_f7241a9165ca27ca6dee4961039fbc1e" label="Mixed Materials" type="Oversized">1</container><container id="aspace_677eebec2ea47763e529211063c99268" parent="aspace_f7241a9165ca27ca6dee4961039fbc1e" type="Folder">1</container></did></c><c id="aspace_af9dd46d88bdedb8843520a1d510f909" level="file"><did><unittitle>Pinxter Fest</unittitle><unitdate calendar="gregorian" era="ce" normal="1973/1973" type="inclusive">1973</unitdate><container id="aspace_a2bd99c8e9589184619d03e98c062012" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container><container id="aspace_4a2eb8dbf716bfec7977090ae5e23b99" parent="aspace_a2bd99c8e9589184619d03e98c062012" type="Folder">3</container></did></c><c id="aspace_874972b79a9b718b36c7770f9e15da9a" level="file"><did><unittitle>Pinxter Fest</unittitle><unitdate calendar="gregorian" era="ce" normal="1976/1976" type="inclusive">1976</unitdate><container id="aspace_54dd8b059aaa3d9c68761d078f425a92" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container><container id="aspace_26eeb108edd462114e073b2a2942d603" parent="aspace_54dd8b059aaa3d9c68761d078f425a92" type="Folder">4</container></did></c><c id="aspace_4cce83c188edb4581c676b4f76ed7d33" level="file"><did><unittitle>Pinxter Fest Posters</unittitle><unitdate calendar="gregorian" era="ce" normal="1976/1982" type="inclusive">1976-1982</unitdate><unitdate calendar="gregorian" era="ce" normal="1954/1992" type="inclusive">Undated</unitdate><container id="aspace_744f0c8995a033acdb43a0c00e4d902d" label="Mixed Materials" type="Oversized">1</container><container id="aspace_3af6be64e9d09b3be781b2fcfb2c5440" parent="aspace_744f0c8995a033acdb43a0c00e4d902d" type="Folder">2</container></did></c><c id="aspace_c7a9c86caaad6b7fdce82cf4a1c73925" level="file"><did><unittitle>Niskayuna Folk Festival</unittitle><unitdate calendar="gregorian" era="ce" normal="1977/1977" type="inclusive">1977</unitdate><container id="aspace_6817f725389102a34099faf2edf79b07" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container><container id="aspace_d60f74381232c61d2f9dc4cfc8dba03a" parent="aspace_6817f725389102a34099faf2edf79b07" type="Folder">5</container></did></c><c id="aspace_11da1c9f27a57cdd3794cf1e669f3d9c" level="file"><did><unittitle>Northeast Craft Fair</unittitle><unitdate calendar="gregorian" era="ce" normal="1977/1977" type="inclusive">1977</unitdate><container id="aspace_7fb5a7e7f16c82b838933f542eab8d3e" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container><container id="aspace_1d37d5769124b800d395b8a8951c63bf" parent="aspace_7fb5a7e7f16c82b838933f542eab8d3e" type="Folder">6</container></did></c><c id="aspace_4a1599d20f54f3e03f2d9ad060549c6f" level="file"><did><unittitle>Pinxter Fest</unittitle><unitdate calendar="gregorian" era="ce" normal="1977/1977" type="inclusive">1977</unitdate><container id="aspace_f99edb4ff014f679582e74689003012c" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container><container id="aspace_3a62c620af15bad6349befce7fcce909" parent="aspace_f99edb4ff014f679582e74689003012c" type="Folder">7</container></did></c><c id="aspace_e6b75d06a400d3ab85eb82ae3cfaed93" level="file"><did><unittitle>Pinxter Fest</unittitle><unitdate calendar="gregorian" era="ce" normal="1978/1978" type="inclusive">1978</unitdate><container id="aspace_30b326dab4cb0abf3485c7ca7af9eb96" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container><container id="aspace_e2bff16193877bd3bd0e53fe4c0ce88e" parent="aspace_30b326dab4cb0abf3485c7ca7af9eb96" type="Folder">8</container></did></c><c id="aspace_8f0fa93676b88e537b1b0ab284f0c344" level="file"><did><unittitle>Pinxter Fest</unittitle><unitdate calendar="gregorian" era="ce" normal="1979/1979" type="inclusive">1979</unitdate><container id="aspace_a945e3032bb557a9b00aa688748a0965" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container><container id="aspace_5e6c29547932df1a7e57c522fefb9ad0" parent="aspace_a945e3032bb557a9b00aa688748a0965" type="Folder">9</container></did></c><c id="aspace_d8813232ddc75eaba7a3d4701a745719" level="file"><did><unittitle><emph render="italic">The Entertainer</emph> News Clippings</unittitle><unitdate calendar="gregorian" era="ce" normal="1979/1980" type="inclusive">1979-1980</unitdate><container id="aspace_5b981fec620b5e19d5e2110ad08db8c2" label="Mixed Materials" type="Oversized">1</container><container id="aspace_fae1e63e53e40e8d1b21ae145ae2d4a8" parent="aspace_5b981fec620b5e19d5e2110ad08db8c2" type="Folder">3</container></did></c><c id="aspace_df1f4f2648bbd49306e9552bb8973c14" level="file"><did><unittitle>Pinxter Fest</unittitle><unitdate calendar="gregorian" era="ce" normal="1980/1980" type="inclusive">1980</unitdate><container id="aspace_2bb9ea4c6fcd25c3588fa7d965dd56be" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container><container id="aspace_883e39b504c3f91a582b8df38776bcd2" parent="aspace_2bb9ea4c6fcd25c3588fa7d965dd56be" type="Folder">10</container></did></c><c id="aspace_6794d5b327e17c513e1bd9d2575e1236" level="file"><did><unittitle>Pinxter Fest</unittitle><unitdate calendar="gregorian" era="ce" normal="1981/1981" type="inclusive">1981</unitdate><container id="aspace_a3f75a166a7df160607765d726d7a87c" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container><container id="aspace_93bc9f7d86554dff10400a1fd9ac329f" parent="aspace_a3f75a166a7df160607765d726d7a87c" type="Folder">11</container></did></c><c id="aspace_e1dbe6552f8f6b7b0966e0de682dcb1c" level="file"><did><unittitle>Pinxter Fest</unittitle><unitdate calendar="gregorian" era="ce" normal="1982/1982" type="inclusive">1982</unitdate><container id="aspace_49428d477b6b5228fe3a89c055fcc1fc" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container><container id="aspace_8af1d0baabc25b88916f32357986e04d" parent="aspace_49428d477b6b5228fe3a89c055fcc1fc" type="Folder">12</container></did></c><c id="aspace_a264cd6d54d5ccef0ca16f5721e6e332" level="file"><did><unittitle>Pinxter Fest</unittitle><unitdate calendar="gregorian" era="ce" normal="1983/1983" type="inclusive">1983</unitdate><container id="aspace_bc3dcb23a977d764faf84089086ebcf7" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container><container id="aspace_7f9dcb5025885a812d2d7dec0a0171c3" parent="aspace_bc3dcb23a977d764faf84089086ebcf7" type="Folder">13</container></did></c><c id="aspace_813e0e9a17f622d232808f84770c713c" level="file"><did><unittitle>Pinxter Fest</unittitle><unitdate calendar="gregorian" era="ce" normal="1984/1984" type="inclusive">1984</unitdate><container id="aspace_8bd4eb43cadc90aa530ca0750b1f5550" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container><container id="aspace_ef61609d8b5dd52c7f7a7b591feb7ea6" parent="aspace_8bd4eb43cadc90aa530ca0750b1f5550" type="Folder">14</container></did></c><c id="aspace_5a4378f4468fdad01bd985a4e7b37900" level="file"><did><unittitle>Pinxter Fest</unittitle><unitdate calendar="gregorian" era="ce" normal="1985/1985" type="inclusive">1985</unitdate><container id="aspace_e3db48aafad278ad17f04a14981ba4ee" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container><container id="aspace_258a8cfc63373e898a75adfd07ffa2d1" parent="aspace_e3db48aafad278ad17f04a14981ba4ee" type="Folder">15</container></did></c><c id="aspace_b98800def569079d3d09a3e584fd7ff7" level="file"><did><unittitle>Pinxter Fest</unittitle><unitdate calendar="gregorian" era="ce" normal="1992/1992" type="inclusive">1992</unitdate><container id="aspace_562a81e3abe9c310f06fca40bdc91e3c" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container><container id="aspace_8e2bea06bac9847858e194ed54c84eae" parent="aspace_562a81e3abe9c310f06fca40bdc91e3c" type="Folder">16</container></did></c><c id="aspace_d991ee015ea4c02ec89d3437ab52a84f" level="file"><did><unittitle>Albany City Special Event Policy Statement</unittitle><unitdate calendar="gregorian" era="ce" normal="1954/1992" type="inclusive">Undated</unitdate><container id="aspace_772b7cbae5bd52e062694698956950dd" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container><container id="aspace_7c38051c0fbcbea0adc77cb0ce327bd1" parent="aspace_772b7cbae5bd52e062694698956950dd" type="Folder">17</container></did></c><c id="aspace_45bd32b131e9c693adfb472320024959" level="file"><did><unittitle>Craft Vendor Business Cards and Flyers</unittitle><unitdate calendar="gregorian" era="ce" normal="1954/1992" type="inclusive">Undated</unitdate><container id="aspace_38070ab16335813e36a4731362c26ff9" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container><container id="aspace_1061690c25283198474095d4207d6e34" parent="aspace_38070ab16335813e36a4731362c26ff9" type="Folder">18</container></did></c><c id="aspace_f20f7ba015d547df3140baa7b4d28561" level="file"><did><unittitle>Craft Vendor Notebook</unittitle><unitdate calendar="gregorian" era="ce" normal="1954/1992" type="inclusive">Undated</unitdate><container id="aspace_29237f1ae9ed4fd0daedf01c77612097" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container><container id="aspace_26ae053ddd5539ebaf4e7ff1bdf5da07" parent="aspace_29237f1ae9ed4fd0daedf01c77612097" type="Folder">19</container></did></c><c id="aspace_6d97f8758f1b9baff069f023408adb56" level="file"><did><unittitle>Loose Leaf Notes</unittitle><unitdate calendar="gregorian" era="ce" normal="1954/1992" type="inclusive">Undated</unitdate><container id="aspace_97ceea2e139335044b0cfc31db26bfdb" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container><container id="aspace_7f0d92d84b390ab460fe99592118f1e8" parent="aspace_97ceea2e139335044b0cfc31db26bfdb" type="Folder">20</container></did></c><c id="aspace_489ebec0f104c439c572817a3eb17cd7" level="file"><did><unittitle>Pintxer Fest</unittitle><unitdate calendar="gregorian" era="ce" normal="1954/1992" type="inclusive">Undated</unitdate><container id="aspace_6d2908bb4db0622260e73294adc45ff8" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container><container id="aspace_be2b8e085861dd2eb33295514208fd04" parent="aspace_6d2908bb4db0622260e73294adc45ff8" type="Folder">21</container></did></c><c id="aspace_8fcee1dd61fac1d027586989e8f15192" level="file"><did><unittitle>Pinxter Fest Photographs</unittitle><unitdate calendar="gregorian" era="ce" normal="1954/1992" type="inclusive">Undated</unitdate><container id="aspace_86f096c2132243b39881e31c30e54d3e" label="Mixed Materials" type="Box">2 (John Wolcott Papers )</container><container id="aspace_09e96957e3ec8bdd43b5ba127dc1ac0e" parent="aspace_86f096c2132243b39881e31c30e54d3e" type="Folder">1</container></did></c><c id="aspace_a67020d3f4d44a78c336b0fb67f52c3e" level="file"><did><unittitle>Planning Notebook</unittitle><unitdate calendar="gregorian" era="ce" normal="1954/1992" type="inclusive">Undated</unitdate><container id="aspace_a85131885b5636e9b3f9fd2381096837" label="Mixed Materials" type="Box">2 (John Wolcott Papers )</container><container id="aspace_9741954b28d8e0d7a7618f2c29235599" parent="aspace_a85131885b5636e9b3f9fd2381096837" type="Folder">2-3</container></did></c><c id="aspace_599a90cee41765225728d57740e35ab1" level="file"><did><unittitle>Recipes</unittitle><unitdate calendar="gregorian" era="ce" normal="1954/1992" type="inclusive">Undated</unitdate><container id="aspace_e24544996b467a551940c651bd1f7756" label="Mixed Materials" type="Box">2 (John Wolcott Papers )</container><container id="aspace_d8d6c4c19c2275fcf2095d84d4e41d34" parent="aspace_e24544996b467a551940c651bd1f7756" type="Folder">4</container></did></c><c id="aspace_6406329a8477818d11e9621f42fc4f48" level="file"><did><unittitle>Research Materials</unittitle><unitdate calendar="gregorian" era="ce" normal="1954/1992" type="inclusive">Undated</unitdate><container id="aspace_355a3d697db864e2a60a0700007ab5b4" label="Mixed Materials" type="Box">2 (John Wolcott Papers )</container><container id="aspace_830b83b2e96d21218c274f70d89c464a" parent="aspace_355a3d697db864e2a60a0700007ab5b4" type="Folder">5</container></did></c><c id="aspace_ba03baa6bd0014bc592382f2fa09cbf4" level="file"><did><unittitle>Treasures from Eleanor Skelton Cash, Poetry</unittitle><unitdate calendar="gregorian" era="ce" normal="1954/1992" type="inclusive">Undated</unitdate><container id="aspace_5eba2d22cc172b60db923d971eb92e51" label="Mixed Materials" type="Box">2 (John Wolcott Papers )</container><container id="aspace_f4aa1355c288a5b721485e2cbe4b84ac" parent="aspace_5eba2d22cc172b60db923d971eb92e51" type="Folder">6</container></did></c></dsc>
-</archdesc>
+    </did>
+    <processinfo id="aspace_18c54920d3fd8d9a72e829ccd296c76a">
+      <head>Processing Information</head>
+      <p>Processed in 2012 by Kathleen Broeder.</p>
+    </processinfo>
+    <accessrestrict id="aspace_11c61a25b9c85e891cb6b2481bac84a6">
+      <head>Access</head>
+      <p>Access to this record group is unrestricted.</p>
+    </accessrestrict>
+    <userestrict id="aspace_5ed96120690be170a68e49b071fd1c77">
+      <head>Copyright</head>
+      <p>The researcher assumes full responsibility for conforming with the laws of copyright. Whenever possible, the M.E. Grenander Department of Special Collections and Archives will provide information about copyright owners and other restrictions, but the legal determination ultimately rests with the researcher. Requests for permission to publish material from this collection should be discussed with the Head of Special Collections and Archives.</p>
+    </userestrict>
+    <acqinfo id="aspace_6673521c40988d242be10dc3fc286bb8">
+      <head>Acquisition Information</head>
+      <p>John Wolcott donated his materials in 2007 to the M.E. Grenander Department of Special Collections and Archives. In 2013 Wolcott donated an additional 26 cubic feet of materials which will be processed at a later date.</p>
+    </acqinfo>
+    <bioghist id="aspace_73543c998e4819a723fe0fce12ced4a0">
+      <head>Biographical Sketch</head>
+      <p>John Wolcott was chairman of the Pinxter Committee of Albany, also called the People's Pinxter Festival Committee, which coordinated the annual Pinxter Festival. The festival is known as Pinxter, Pinxter Sunday or Pinkster, Dutch for Pentecost, and as Whitsuntide, the English term for Pentecost.</p>
+      <p> During the colonial period, Pinxter celebrations were held throughout eastern New York in communities of Dutch origins. Africans played a major role in organizing Pinxter, adding African music and dance to the festivities. In 1811 the Common Council of the City of Albany passed a Whitsuntide Holiday law which banned the essential elements of the festival and, as a result, the festival died out. </p>
+      <p> In 1971, Pinxter was revived in Albany and celebrated on Sundays during Tulip Fest in Washington Park with craft vendors and musicians. It was often advertised as an illegal festival. Wolcott wrote several letters asking the 1811 law be repealed. The Whitsuntide Holiday Law was repealed in 2011, two hundred years after it was enacted.</p>
+    </bioghist>
+    <scopecontent id="aspace_e556ea55ac684db9d29f0d1aacc11e50">
+      <head>Scope and Contents</head>
+      <p>The John Wolcott Papers contain materials related to the planning and advertising of Pinxter Festivals in Albany, New York. The collection includes festival posters, fliers, photographs, news clippings, hand written notes, correspondence and programs of similar festivals, including a early souvenir Tulip Fest envelope. Craft vendors were a major part of the festivities and the contact information for many of them is included. Information about historic Pinxter festivals, Albany's relevant laws and policies, and a small collection of colonial Dutch recipes were used in the planning process.</p>
+    </scopecontent>
+    <arrangement id="aspace_c09bf30492445ebefe2676475c7fa45f">
+      <head>Arrangement of the Collection</head>
+      <p>The collection is organized chronologically. There are no series.</p>
+    </arrangement>
+    <prefercite id="aspace_33e2cb072e7327531e4d83ed513552c6">
+      <head>Preferred Citation</head>
+      <p>Preferred citation for this material is as follows:</p>
+      <p> Identification of specific item, series, box, folder, John Wolcott Papers, 1954-1992. M.E. Grenander Department of Special Collections and Archives, University Libraries, University at Albany, State University of New York (hereafter referred to as the Wolcott Papers).</p>
+    </prefercite>
+    <controlaccess>
+      <subject source="meg">Neighborhood and Community Associations</subject>
+      <subject source="meg">Albany, New York</subject>
+      <subject source="lcsh">Folk festivals New York (State)</subject>
+      <subject source="lcsh">Pentecost Festival</subject>
+      <geogname source="lcsh">Albany (N.Y.)</geogname>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <genreform source="aat">Correspondence</genreform>
+      <genreform source="aat">Fliers (printed matter)</genreform>
+      <genreform source="aat">Posters</genreform>
+      <genreform source="aat">Black-and-white photographs</genreform>
+      <genreform source="aat">Programs (documents)</genreform>
+      <genreform source="aat">Newspapers</genreform>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_7c6f39ef88923639893c1955e7c185d9" level="file">
+        <did>
+          <unittitle>Tulip Fest</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74438</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1954/1954" type="inclusive">1954</unitdate>
+          <container id="aspace_97c3a7d888cf21ee0d152abbed631a4d" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container>
+          <container id="aspace_5d8816e5f58ad5c47c503c135979bc1c" parent="aspace_97c3a7d888cf21ee0d152abbed631a4d" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_bf9510d793acd4b8868a5d6ce9104aaf" level="file">
+        <did>
+          <unittitle>Pinxter Fest</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74439</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container id="aspace_355afc97b51c4e8be8dfa68e5fed11ef" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container>
+          <container id="aspace_6ccb35c7bd21ed8ec628bb96b12e7d04" parent="aspace_355afc97b51c4e8be8dfa68e5fed11ef" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_db5a3ccec2a64b0d9c86dda1cf5c3fd6" level="file">
+        <did>
+          <unittitle><emph render="italic">KITE</emph> News Clippings</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74440</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1972/1980" type="inclusive">1972-1980</unitdate>
+          <container id="aspace_5225c1cbb3c402bfee3b377b6c73052c" label="Mixed Materials" type="Oversized">1</container>
+          <container id="aspace_314115108842dc57d39ec9c2cd6f2423" parent="aspace_5225c1cbb3c402bfee3b377b6c73052c" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_af9dd46d88bdedb8843520a1d510f909" level="file">
+        <did>
+          <unittitle>Pinxter Fest</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74441</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1973/1973" type="inclusive">1973</unitdate>
+          <container id="aspace_5c783a0c06e2aadfe6fa5d21b5d4e818" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container>
+          <container id="aspace_9ae332ad784bd649660c76795e4ee5eb" parent="aspace_5c783a0c06e2aadfe6fa5d21b5d4e818" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_874972b79a9b718b36c7770f9e15da9a" level="file">
+        <did>
+          <unittitle>Pinxter Fest</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74442</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1976/1976" type="inclusive">1976</unitdate>
+          <container id="aspace_1129789da8b9001fa96ea323ff7b2d2e" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container>
+          <container id="aspace_1f008a604b24e3898e46e6da06c1da24" parent="aspace_1129789da8b9001fa96ea323ff7b2d2e" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_4cce83c188edb4581c676b4f76ed7d33" level="file">
+        <did>
+          <unittitle>Pinxter Fest Posters</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74443</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1976/1982" type="inclusive">1976-1982</unitdate>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1954/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_05c15b3339bde0c9a8c0cfebaabf2ee1" label="Mixed Materials" type="Oversized">1</container>
+          <container id="aspace_bd470e2c44650be2ae7182b76b6cd89d" parent="aspace_05c15b3339bde0c9a8c0cfebaabf2ee1" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_c7a9c86caaad6b7fdce82cf4a1c73925" level="file">
+        <did>
+          <unittitle>Niskayuna Folk Festival</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74444</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1977/1977" type="inclusive">1977</unitdate>
+          <container id="aspace_3da2dbd326850bbcea1ecf5808e45f4a" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container>
+          <container id="aspace_6580542a6f96038df369377d64414073" parent="aspace_3da2dbd326850bbcea1ecf5808e45f4a" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_11da1c9f27a57cdd3794cf1e669f3d9c" level="file">
+        <did>
+          <unittitle>Northeast Craft Fair</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74445</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1977/1977" type="inclusive">1977</unitdate>
+          <container id="aspace_51f7994e0720d9b5e576e0ef22e49c72" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container>
+          <container id="aspace_2acf402869298f985494770c29b1cc2b" parent="aspace_51f7994e0720d9b5e576e0ef22e49c72" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_4a1599d20f54f3e03f2d9ad060549c6f" level="file">
+        <did>
+          <unittitle>Pinxter Fest</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74446</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1977/1977" type="inclusive">1977</unitdate>
+          <container id="aspace_0c9db9d1651ffbfded8c3692f18828dc" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container>
+          <container id="aspace_8a6404b8726b0600733006393dafd3ab" parent="aspace_0c9db9d1651ffbfded8c3692f18828dc" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_e6b75d06a400d3ab85eb82ae3cfaed93" level="file">
+        <did>
+          <unittitle>Pinxter Fest</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74447</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1978/1978" type="inclusive">1978</unitdate>
+          <container id="aspace_8bc160bf01b2738ef9d036046a76b134" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container>
+          <container id="aspace_573364561e4bbfb92eaffa9bd4604bcf" parent="aspace_8bc160bf01b2738ef9d036046a76b134" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_8f0fa93676b88e537b1b0ab284f0c344" level="file">
+        <did>
+          <unittitle>Pinxter Fest</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74448</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1979/1979" type="inclusive">1979</unitdate>
+          <container id="aspace_48385be1a0236a32ca0fd9189804712f" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container>
+          <container id="aspace_a7ae5518e511bc263c3317d17df2f1ea" parent="aspace_48385be1a0236a32ca0fd9189804712f" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_d8813232ddc75eaba7a3d4701a745719" level="file">
+        <did>
+          <unittitle><emph render="italic">The Entertainer</emph> News Clippings</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74449</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1979/1980" type="inclusive">1979-1980</unitdate>
+          <container id="aspace_219409c0bd7c136d1ccd3cccfdbe98ee" label="Mixed Materials" type="Oversized">1</container>
+          <container id="aspace_7c108fef2469224acad9095a682f76e2" parent="aspace_219409c0bd7c136d1ccd3cccfdbe98ee" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_df1f4f2648bbd49306e9552bb8973c14" level="file">
+        <did>
+          <unittitle>Pinxter Fest</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74450</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1980/1980" type="inclusive">1980</unitdate>
+          <container id="aspace_1cc668e2088a9e80a4d0e6095e04897f" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container>
+          <container id="aspace_7a4fc46e781a2c606f89275750e0ab0f" parent="aspace_1cc668e2088a9e80a4d0e6095e04897f" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_6794d5b327e17c513e1bd9d2575e1236" level="file">
+        <did>
+          <unittitle>Pinxter Fest</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74451</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1981/1981" type="inclusive">1981</unitdate>
+          <container id="aspace_f89291eabd6e02fa2cd6c438274ff124" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container>
+          <container id="aspace_ee315000181fd35bcfbf9733825fa6cd" parent="aspace_f89291eabd6e02fa2cd6c438274ff124" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_e1dbe6552f8f6b7b0966e0de682dcb1c" level="file">
+        <did>
+          <unittitle>Pinxter Fest</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74452</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1982/1982" type="inclusive">1982</unitdate>
+          <container id="aspace_d629a5d65236a6a8ad7eec6bcf4692d5" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container>
+          <container id="aspace_20f30751a59d16924d3b2a96716597cf" parent="aspace_d629a5d65236a6a8ad7eec6bcf4692d5" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_a264cd6d54d5ccef0ca16f5721e6e332" level="file">
+        <did>
+          <unittitle>Pinxter Fest</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74453</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container id="aspace_b9c82aaa5580797b30eb9835954fec1e" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container>
+          <container id="aspace_49fb63d7d2142748407da830bc80e90f" parent="aspace_b9c82aaa5580797b30eb9835954fec1e" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_813e0e9a17f622d232808f84770c713c" level="file">
+        <did>
+          <unittitle>Pinxter Fest</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74454</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1984/1984" type="inclusive">1984</unitdate>
+          <container id="aspace_fa1e51bd0e2cf6cf4f3a458bf090bfb4" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container>
+          <container id="aspace_b6f2873178503d10de175d6f210f07a8" parent="aspace_fa1e51bd0e2cf6cf4f3a458bf090bfb4" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_5a4378f4468fdad01bd985a4e7b37900" level="file">
+        <did>
+          <unittitle>Pinxter Fest</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74455</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1985/1985" type="inclusive">1985</unitdate>
+          <container id="aspace_a215d8ee038b89bf085e327dff6bd020" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container>
+          <container id="aspace_15947b3eb2dccb98a26bf5d2210c43e1" parent="aspace_a215d8ee038b89bf085e327dff6bd020" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_b98800def569079d3d09a3e584fd7ff7" level="file">
+        <did>
+          <unittitle>Pinxter Fest</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74456</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1992/1992" type="inclusive">1992</unitdate>
+          <container id="aspace_e7755122c05f682639d3073e489e5fd3" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container>
+          <container id="aspace_24b6c919b04ae2ba88d7628428ff1490" parent="aspace_e7755122c05f682639d3073e489e5fd3" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_d991ee015ea4c02ec89d3437ab52a84f" level="file">
+        <did>
+          <unittitle>Albany City Special Event Policy Statement</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74457</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1954/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_f38e94590a2d5856728b71c4f6dff49f" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container>
+          <container id="aspace_d21ee4f21d03db79a81503ab1f95c513" parent="aspace_f38e94590a2d5856728b71c4f6dff49f" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_45bd32b131e9c693adfb472320024959" level="file">
+        <did>
+          <unittitle>Craft Vendor Business Cards and Flyers</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74458</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1954/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_766b04696800f4e79a841c0cc75ad7ca" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container>
+          <container id="aspace_d75959baa976e89020ab1606f9c55694" parent="aspace_766b04696800f4e79a841c0cc75ad7ca" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_f20f7ba015d547df3140baa7b4d28561" level="file">
+        <did>
+          <unittitle>Craft Vendor Notebook</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74459</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1954/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_afa8c2e24c8ff68093a8925a8386975f" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container>
+          <container id="aspace_c936b9e34ffa0d6bce3b1c41ce93cf72" parent="aspace_afa8c2e24c8ff68093a8925a8386975f" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_6d97f8758f1b9baff069f023408adb56" level="file">
+        <did>
+          <unittitle>Loose Leaf Notes</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74460</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1954/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_1c47b5b19d50a97b1c337cf902564335" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container>
+          <container id="aspace_650b4fbd71a2cf85079f0ba34a44c0b0" parent="aspace_1c47b5b19d50a97b1c337cf902564335" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_489ebec0f104c439c572817a3eb17cd7" level="file">
+        <did>
+          <unittitle>Pintxer Fest</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74461</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1954/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_3e156c251734f9ba03f7ff51bf572320" label="Mixed Materials" type="Box">1 (John Wolcott Papers )</container>
+          <container id="aspace_b60c3e5236c53a25c0d65a6a014ae748" parent="aspace_3e156c251734f9ba03f7ff51bf572320" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_8fcee1dd61fac1d027586989e8f15192" level="file">
+        <did>
+          <unittitle>Pinxter Fest Photographs</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74462</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1954/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_22346b4f6654bcb0e76718b2f1c61498" label="Mixed Materials" type="Box">2 (John Wolcott Papers )</container>
+          <container id="aspace_c5fd6bea994d4b8cfe258b45508c86cb" parent="aspace_22346b4f6654bcb0e76718b2f1c61498" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_a67020d3f4d44a78c336b0fb67f52c3e" level="file">
+        <did>
+          <unittitle>Planning Notebook</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74463</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1954/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_3026706074af46d941a994e000911cee" label="Mixed Materials" type="Box">2 (John Wolcott Papers )</container>
+          <container id="aspace_e6329c493de0cc96bb386929f00c48f4" parent="aspace_3026706074af46d941a994e000911cee" type="Folder">2-3</container>
+        </did>
+      </c>
+      <c id="aspace_599a90cee41765225728d57740e35ab1" level="file">
+        <did>
+          <unittitle>Recipes</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74464</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1954/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_90bdbdcf6f6bd0ad27459cfe18c9ffb9" label="Mixed Materials" type="Box">2 (John Wolcott Papers )</container>
+          <container id="aspace_fd7de4467b53b8e85dd0d4a1781ecc8b" parent="aspace_90bdbdcf6f6bd0ad27459cfe18c9ffb9" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_6406329a8477818d11e9621f42fc4f48" level="file">
+        <did>
+          <unittitle>Research Materials</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74465</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1954/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_82477a5343f567b765ca61ef2cf08f3c" label="Mixed Materials" type="Box">2 (John Wolcott Papers )</container>
+          <container id="aspace_e9f38c4f96de8ac80e5fb18114d5ba7c" parent="aspace_82477a5343f567b765ca61ef2cf08f3c" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ba03baa6bd0014bc592382f2fa09cbf4" level="file">
+        <did>
+          <unittitle>Treasures from Eleanor Skelton Cash, Poetry</unittitle>
+          <unitid type="aspace_uri">/repositories/2/archival_objects/74466</unitid>
+          <unitdate calendar="gregorian" datechar="creation" era="ce" normal="1954/1992" type="inclusive">Undated</unitdate>
+          <container id="aspace_ce1bf56a31f07436892d771726c18982" label="Mixed Materials" type="Box">2 (John Wolcott Papers )</container>
+          <container id="aspace_a7ce6c274e83ee3aa060b471bd52346c" parent="aspace_ce1bf56a31f07436892d771726c18982" type="Folder">6</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
 </ead>
