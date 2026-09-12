@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap419.xml">apap419_blah</eadid>
+    <eadid url="http://meg.library.albany.edu:8080/archive/view?docId=apap419.xml">apap419</eadid>
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Grassroots for Rockefeller; Records</titleproper>
-        <titleproper>Grassroots for Rockefeller; Records <num>apap419.002</num></titleproper>
+        <titleproper>Grassroots for Rockefeller; Records <num>apap419</num></titleproper>
         <author>Gabriella Baratier</author>
       </titlestmt>
       <publicationstmt>
@@ -16,7 +16,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2026-05-30 01:04:35 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2026-09-12 05:01:09 +0000</date>.</creation>
       <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -27,7 +27,7 @@
         <corpname>M.E. Grenander Department of Special Collections &amp; Archives</corpname>
       </repository>
       <unittitle>Grassroots for Rockefeller Records</unittitle>
-      <unitid>apap419.002</unitid>
+      <unitid>apap419</unitid>
       <unitid type="aspace_uri">/repositories/2/resources/1058</unitid>
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">.2 cubic ft.</extent>
@@ -36,8 +36,9 @@
       <unitdate datechar="creation" normal="1968/1970" type="bulk">1968-1970</unitdate>
       <abstract id="aspace_b725e28edbd7eed9e89542feccc9b6b1">This collection documents the formation and activities of the Grassroots for Rockefeller campaign, organized in Guilderland, New York.</abstract>
       <physloc id="aspace_d0372a91d502ef63b845b5364048295c">The materials are located onsite in the department.</physloc>
-      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
-.    </langmaterial>
+      <langmaterial>
+        <language langcode="eng" scriptcode="Latn">English</language>
+      </langmaterial>
     </did>
     <accessrestrict id="aspace_2034fe2d6f1aac73d2a2bf87fe5d32c3">
       <head>Collection Restrictions</head>
@@ -97,8 +98,8 @@
           <unitid type="aspace_uri">/repositories/2/archival_objects/357793</unitid>
           <unitdate datechar="creation" normal="1968/1968">1968</unitdate>
           <unitdate datechar="creation" normal="1970/1970">1970</unitdate>
-          <container id="aspace_5b28aa4d96b87a35413f426dc2edec40" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_fe6b658a851f66d709efcf2b86c48a72" parent="aspace_5b28aa4d96b87a35413f426dc2edec40" type="Folder">1</container>
+          <container id="aspace_fc50fc1367eb0e9de079de469429e29b" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_1bdb2ef43ababc5dc75fac03a4b0575e" parent="aspace_fc50fc1367eb0e9de079de469429e29b" type="Folder">1</container>
         </did>
       </c>
       <c id="aspace_1ada3d2bebc65b6527b5d10eb35f5e41" level="file">
@@ -106,8 +107,8 @@
           <unittitle>Correspondence</unittitle>
           <unitid type="aspace_uri">/repositories/2/archival_objects/357794</unitid>
           <unitdate datechar="creation" normal="1968/1968">1968</unitdate>
-          <container id="aspace_ac7d72c67b9759e19fd6e366734c5f6f" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_050fd9d1d527bebb517271c4ea4b4da7" parent="aspace_ac7d72c67b9759e19fd6e366734c5f6f" type="Folder">2</container>
+          <container id="aspace_2294785481d5a04fe21ae837c4958366" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_74c6d456c67c719dcb2ff2ad5c45cc87" parent="aspace_2294785481d5a04fe21ae837c4958366" type="Folder">2</container>
         </did>
       </c>
       <c id="aspace_04a4ed2a9de63a41f75fe031974626b7" level="file">
@@ -116,8 +117,8 @@
           <unitid type="aspace_uri">/repositories/2/archival_objects/357795</unitid>
           <unitdate datechar="creation" normal="1968/1968">1968</unitdate>
           <unitdate datechar="creation" normal="1970/1970">1970</unitdate>
-          <container id="aspace_9ec202c5eee9d30d229f5230650fc39f" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_d002dc705c8528f6bec1b18334eec65b" parent="aspace_9ec202c5eee9d30d229f5230650fc39f" type="Folder">3</container>
+          <container id="aspace_c01618abeeb02896235c1a5dd5b430c5" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_f06bdf0c117a054faf87d1e7aada6d7e" parent="aspace_c01618abeeb02896235c1a5dd5b430c5" type="Folder">3</container>
         </did>
       </c>
       <c id="aspace_49011bf57086ecc23e25850f7ec9147e" level="file">
@@ -125,8 +126,8 @@
           <unittitle>Photographs and Photographic Negatives</unittitle>
           <unitid type="aspace_uri">/repositories/2/archival_objects/357796</unitid>
           <unitdate datechar="creation" normal="1968/1968">1968</unitdate>
-          <container id="aspace_2e35b6facd199296ae7b449e7d84a1fd" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_12f632027b451218bad50081fa05798e" parent="aspace_2e35b6facd199296ae7b449e7d84a1fd" type="Folder">4</container>
+          <container id="aspace_66682d9fe5e66462e624c16cd52c6f08" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_3b57004f713d8426c7a474505dee93ce" parent="aspace_66682d9fe5e66462e624c16cd52c6f08" type="Folder">4</container>
         </did>
       </c>
       <c id="aspace_cf7593a893f4f45daec3e350d375b80f" level="file">
@@ -136,8 +137,8 @@
           <unitdate datechar="creation" normal="1973/1973">1973</unitdate>
           <unitdate datechar="creation" normal="1977/1977">1977</unitdate>
           <unitdate datechar="creation" normal="1980/1982" type="inclusive">1980-1982</unitdate>
-          <container id="aspace_aa3d25476a0886f0f2be65d8e73a185c" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_17d862e257644dae381fa3f1256adffb" parent="aspace_aa3d25476a0886f0f2be65d8e73a185c" type="Folder">5</container>
+          <container id="aspace_607e56d9387417c3e71f9d83d1b2b883" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_c8fcb2ea9bbb4c1b2c0b31e1aaec17ec" parent="aspace_607e56d9387417c3e71f9d83d1b2b883" type="Folder">5</container>
         </did>
       </c>
     </dsc>
